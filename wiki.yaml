@@ -1,14 +1,9 @@
 ---
 - date: 2018-05-06
-  time: 
-  title: "エルフのえる×勇気ちひろコラボ(4月30日のえるのミラティブ配信で明言)"
-  end_time: 
-  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
-- date: 2018-05-06
   time:
     hour: '00'
-    min: '30'
-  title: "夕陽リリ at: Mirrativ キリンとホラーゲーム ※5/5 24時から時間変更"
+    min: '45'
+  title: "いわなが at:YouTube ゲリラ配信 叶コラボ"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-06
@@ -20,9 +15,23 @@
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-06
   time:
+    hour: '02'
+    min: '30'
+  title: "夕陽リリ at: Mirrativ キリンとホラーゲーム ※5/5 24時から時間変更"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-06
+  time:
     hour: '15'
     min: '00'
   title: "樋口楓 at:YouTube お絵描き配信"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-06
+  time:
+    hour: '18'
+    min: '00'
+  title: "エルフのえる×勇気ちひろコラボ(4月30日のえるのミラティブ配信で明言)"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-06
