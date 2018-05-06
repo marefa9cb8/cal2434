@@ -6,7 +6,7 @@ then
 fi
 if [ "$CAL2324_COMMIT_USER_EMAIL" = "" ]
 then
-  CAL2324_COMMIT_USER="kmccal@localhost"
+  CAL2324_COMMIT_USER="cal2434@localhost"
 fi
 
 cd `dirname $0`
