@@ -47,6 +47,3 @@ PLATFORMS
 DEPENDENCIES
   nokogiri
   twitter
-
-BUNDLED WITH
-   1.14.6
