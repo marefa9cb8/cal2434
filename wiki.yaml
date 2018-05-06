@@ -37,8 +37,22 @@
 - date: 2018-05-06
   time:
     hour: '18'
+    min: '20'
+  title: "エルフのえる×勇気ちひろコラボ 時間変更at:勇気 ちひろYouTube"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-06
+  time:
+    hour: '18'
+    min: '45'
+  title: "える:繋ぎ配信?  at: Mirrativ"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-06
+  time:
+    hour: '19'
     min: '00'
-  title: "エルフのえる×勇気ちひろコラボ at:YouTube"
+  title: "静凛 at: Openrec"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-06
