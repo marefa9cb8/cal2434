@@ -22,6 +22,13 @@
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-07
   time:
+    hour: '12'
+    min: '00'
+  title: "鈴鹿詩子 時間変更 at: Mirrativ"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-07
+  time:
     hour: '20'
     min: '00'
   title: "家長むぎ at: Mirrativ"
