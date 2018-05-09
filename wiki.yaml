@@ -15,6 +15,27 @@
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-09
   time:
+    hour: '14'
+    min: '00'
+  title: "静凛 at:Youtube ノベルゲー"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-09
+  time:
+    hour: '17'
+    min: '10'
+  title: "鈴鹿詩子 at: YouTube"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-09
+  time:
+    hour: '17'
+    min: '24'
+  title: "家長むぎ at.YouTube テスト配信"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-09
+  time:
     hour: '19'
     min: '00'
   title: "える at: Mirrativ"
@@ -59,7 +80,7 @@
   time:
     hour: '23'
     min: '00'
-  title: "物述有栖 at:YouTube?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-09
@@ -67,6 +88,13 @@
     hour: '24'
     min: '00'
   title: "夕陽リリ at: Mirrativ"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-10
+  time:
+    hour: '14'
+    min: '00'
+  title: "静凛 at:Youtube"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-10
