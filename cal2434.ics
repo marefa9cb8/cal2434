@@ -15,7 +15,7 @@ DESCRIPTION:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180508T210000
-SUMMARY:勇気ちひろ at:mirrativ
+SUMMARY:勇気ちひろ at:mirrativ アーカイブ(1,2,3)
 URL:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 DESCRIPTION:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 END:VEVENT
@@ -63,13 +63,13 @@ DESCRIPTION:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%8
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180507T120000
-SUMMARY:鈴鹿詩子 時間変更 at: Mirrativ
+SUMMARY:鈴鹿詩子 時間変更 at: Mirrativ アーカイブ(1,2)
 URL:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 DESCRIPTION:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180507T200000
-SUMMARY:家長むぎ at: Mirrativ
+SUMMARY:家長むぎ at: Mirrativ アーカイブ(1,2)
 URL:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 DESCRIPTION:https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex
 END:VEVENT
