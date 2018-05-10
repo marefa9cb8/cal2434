@@ -22,16 +22,23 @@
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-10
   time:
+    hour: '16'
+    min: '53'
+  title: "家長むぎ at:YouTube テスト(1,2)"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-10
+  time:
     hour: '18'
     min: '30'
-  title: "宇志海いちご at:YouTube"
+  title: "宇志海いちご at:YouTube  アーカイブよよよよよよ"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-10
   time:
     hour: '20'
     min: '00'
-  title: "勇気ちひろ at:?"
+  title: "勇気ちひろ at:mirrative"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-10
@@ -67,6 +74,13 @@
     hour: '20'
     min: '00'
   title: "一期生人狼大会 at:？"
+  end_time: 
+  uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
+- date: 2018-05-13
+  time:
+    hour: '22'
+    min: '20'
+  title: "渋谷ハジメ 静凛 勇気ちひろ 鈴谷アキ at:YouTube(渋谷ハジメチャンネルにて)"
   end_time: 
   uri: https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future
 - date: 2018-05-13
