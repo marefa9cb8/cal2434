@@ -39,7 +39,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/994467165733502977
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T210000
-SUMMARY:静凛＆樋口楓 at:YouTube
+SUMMARY:静凛＆樋口楓 at:YouTube 【LIVE084】W +100,000Fans thank you♡ #りんかえダブル
 URL:https://twitter.com/ShizuRin23/status/994141026720755712
 DESCRIPTION:https://twitter.com/ShizuRin23/status/994141026720755712
 END:VEVENT
@@ -51,13 +51,13 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/994548612901126145
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T230000
-SUMMARY:月ノ美兎 at:YouTube
+SUMMARY:月ノ美兎 at:YouTube 不具合により中断
 URL:https://twitter.com/MitoTsukino/status/994089815288303616
 DESCRIPTION:https://twitter.com/MitoTsukino/status/994089815288303616
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T240000
-SUMMARY:剣持刀也 at:YouTube
+SUMMARY:剣持刀也 at:YouTube 剣持刀也 ～筆の調べ～
 URL:https://twitter.com/nijisanji_app/status/994467165733502977
 DESCRIPTION:https://twitter.com/nijisanji_app/status/994467165733502977
 END:VEVENT
@@ -612,6 +612,24 @@ DTSTART;TZID=Asia/Tokyo:20180501
 SUMMARY:未定　かえる（樋口楓×エルフのえる）配信 5/4へ延期(える4/30配信59:06 辺り)
 URL:https://www.mirrativ.com/live/ndqLK_bWOdTvrTEBvBEFUg
 DESCRIPTION:https://www.mirrativ.com/live/ndqLK_bWOdTvrTEBvBEFUg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T004700
+SUMMARY:月ノ美兎 at:YouTube テスト配信
+URL:https://twitter.com/MitoTsukino/status/994603741738188802
+DESCRIPTION:https://twitter.com/MitoTsukino/status/994603741738188802
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T012800
+SUMMARY:渋谷ハジメ at: YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/994615265978564608
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/994615265978564608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T013000
+SUMMARY:叶 at: YouTube
+URL:https://twitter.com/Kanae_2434/status/994605792681644033
+DESCRIPTION:https://twitter.com/Kanae_2434/status/994605792681644033
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T064500
