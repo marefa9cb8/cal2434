@@ -20,23 +20,29 @@ daysets.each{|dayset|
   end
 }
 
-titlesets = doc.xpath("//html/body/div/div[4]/table/tr/td[2]/div[1]/div")
-# remove title & footer
-titlesets = titlesets[1, titlesets.length-2]
+titlesets = doc.xpath("//html/body/div/div[4]/table/tr/td[2]/div[1]/div/ul")
 titlearray = []
 titlesets.each{|titleset|
-  text = titleset.text
+  lilist = titleset.xpath("li")
   linearray = []
-  text.each_line{|line| 
+  lilist.each{|line|
     time = nil
     title = nil
-    if time_title = line.match(/([0-9]+)時([0-9]+)分[～~][　 ](.*)/) then
+    uri = nil
+    a_tag = line.at("a")
+    unless a_tag.nil? then
+      link = a_tag["href"]
+      if url = link.match(/http:\/\/re.wikiwiki.jp\/\?(.*)/) then
+        uri = url[1]
+      end
+    end
+    if time_title = line.text.match(/([0-9]+)時([0-9]+)分[～~][　 ](.*)/) then
       time = {'hour' => time_title[1], 'min' => time_title[2]}
       title = time_title[3]
-    elsif time_title = line.match(/^時間未定[　 ](.*)/) then
+    elsif time_title = line.text.match(/(.*)/) then
       title = time_title[1]
     end
-    linearray.push({'time' => time, 'title' => title}) unless title.nil?
+    linearray.push({'time' => time, 'title' => title, 'uri' => uri}) unless title.nil?
   }
   titlearray.push(linearray)
 }
@@ -44,7 +50,7 @@ titlesets.each{|titleset|
 eventarray = []
 dayarray.zip(titlearray){|day,titles|
   titles.each{|title|
-    event = {'date' => day, 'time' => title['time'], 'title' => title['title'], 'end_time' => nil, 'uri' => url}
+    event = {'date' => day, 'time' => title['time'], 'title' => title['title'], 'end_time' => nil, 'uri' => title['uri']}
     #puts event
     eventarray.push(event)
     #puts "---"
