@@ -75,9 +75,9 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/994864772083519488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T231300
-SUMMARY:文野環 テスト配信(荒野行動)
-URL:
-DESCRIPTION:
+SUMMARY:文野環 テスト配信(荒野行動) at;Mirrativ おはにゃーコンサート
+URL:https://www.mirrativ.com/live/g5HsYTZHZSlW7Q9AvEkP_g
+DESCRIPTION:https://www.mirrativ.com/live/g5HsYTZHZSlW7Q9AvEkP_g
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T020000
@@ -738,6 +738,12 @@ DTSTART;TZID=Asia/Tokyo:20180515
 SUMMARY:お昼 家長むぎ(本人YouTubeLiveコメントより) at: ?
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T210000
+SUMMARY:モイラ at:YouTube モイラさんと女神生放送(女神エルミナコラボ) （【異世界VTuber】女神エルミナのTwitterより）
+URL:https://twitter.com/VtuberElmina/status/994971236588445697
+DESCRIPTION:https://twitter.com/VtuberElmina/status/994971236588445697
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T200000
