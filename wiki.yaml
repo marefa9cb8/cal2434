@@ -17,28 +17,37 @@
   time:
     hour: '01'
     min: '30'
-  title: "叶 at: YouTube 配信ツールや機材のお話。 ,LOLマン"
+  title: "叶 at: YouTube"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/994605792681644033
 - date: 2018-05-11
   time:
     hour: '06'
     min: '45'
-  title: "伏見ガク at:YouTube  おはガク！つゆで食べる豆乳たっぷりおぼろやっこ回"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/994717708800294914
 - date: 2018-05-11
   time:
     hour: '17'
     min: '00'
-  title: "鈴鹿詩子 at:YouTube"
+  title: "鈴鹿詩子 at:YouTube 鈴鹿詩子『詩子おねえさんといっしょ♪』【the house】実況（ホラーゲーム）(1,2)"
   end_time: 
   uri: https://twitter.com/suzukautako/status/994755961263767552
 - date: 2018-05-11
-  time: 
-  title: 18時30分？ 勇気ちひろ at:Mirrativ？
+  time:
+    hour: '18'
+    min: '50'
+  title: "万楽えね参戦"
   end_time: 
-  uri: https://twitter.com/Chihiro_yuki23/status/994857797220216838
+  uri: https://twitter.com/nijisanji_app/status/994864772083519488
+- date: 2018-05-11
+  time:
+    hour: '20'
+    min: '00'
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/994892800591368192
 - date: 2018-05-11
   time:
     hour: '22'
@@ -47,19 +56,27 @@
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/994699326050910208
 - date: 2018-05-11
-  time:
-    hour: '22'
-    min: '00'
-  title: "モイラ at:YouTube もいらじ"
+  time: 
+  title: 22時00分～23時00分 モイラ at:YouTube もいらじ
   end_time: 
   uri: https://twitter.com/Moiramoimoimoi/status/994788841650257922
 - date: 2018-05-11
-  time:
-    hour: '22'
-    min: '30'
-  title: "家長むぎ at: Mirrativ"
+  time: 
+  title: '22時30分～23時30分 家長むぎ at: Mirrativ'
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/994577679079821312
+- date: 2018-05-11
+  time: 
+  title: 23時～24時30分 静凛 at:YouTube
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/994864772083519488
+- date: 2018-05-12
+  time:
+    hour: '13'
+    min: '30'
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/994864772083519488
 - date: 2018-05-12
   time:
     hour: '20'
@@ -95,7 +112,7 @@
   uri: 
 - date: 2018-05-14
   time: 
-  title: "える　at:Youtube or Showroom"
+  title: "える　at:YouTube or Showroom"
   end_time: 
   uri: 
 - date: 2018-05-14

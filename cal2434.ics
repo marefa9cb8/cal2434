@@ -9,7 +9,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/994249313583689738
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T054700
-SUMMARY:叶&渋谷ハジメ at: YouTube(叶のチャンネル) PUBG 【アーカイブ】渋谷ハジメさんと叶の早朝ゲーム！【PUBG】
+SUMMARY:叶&渋谷ハジメ at: YouTube(叶のチャンネル) PUBG
 URL:https://twitter.com/Kanae_2434/status/994317933672198144
 DESCRIPTION:https://twitter.com/Kanae_2434/status/994317933672198144
 END:VEVENT
@@ -39,7 +39,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/994467165733502977
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T210000
-SUMMARY:静凛＆樋口楓 at:YouTube 【LIVE084】W +100,000Fans thank you♡ #りんかえダブル
+SUMMARY:静凛＆樋口楓 at:YouTube
 URL:https://twitter.com/ShizuRin23/status/994141026720755712
 DESCRIPTION:https://twitter.com/ShizuRin23/status/994141026720755712
 END:VEVENT
@@ -75,7 +75,7 @@ DESCRIPTION:https://twitter.com/nekokan_chu/status/993021197087531008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180509T140000
-SUMMARY:静凛 at:Youtube 【LIVE081】器関ノ彷徨 ノベルゲーム♡ #バーチャル凛
+SUMMARY:静凛 at:YouTube 【LIVE081】器関ノ彷徨 ノベルゲーム♡ #バーチャル凛
 URL:https://twitter.com/ShizuRin23/status/993945712772562945
 DESCRIPTION:https://twitter.com/ShizuRin23/status/993945712772562945
 END:VEVENT
@@ -627,27 +627,33 @@ DESCRIPTION:https://twitter.com/sibuya_hajime/status/994615265978564608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T013000
-SUMMARY:叶 at: YouTube 配信ツールや機材のお話。 ,LOLマン
+SUMMARY:叶 at: YouTube
 URL:https://twitter.com/Kanae_2434/status/994605792681644033
 DESCRIPTION:https://twitter.com/Kanae_2434/status/994605792681644033
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T064500
-SUMMARY:伏見ガク at:YouTube  おはガク！つゆで食べる豆乳たっぷりおぼろやっこ回
+SUMMARY:伏見ガク at:YouTube
 URL:https://twitter.com/gaku_fushimi/status/994717708800294914
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/994717708800294914
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T170000
-SUMMARY:鈴鹿詩子 at:YouTube
+SUMMARY:鈴鹿詩子 at:YouTube 鈴鹿詩子『詩子おねえさんといっしょ♪』【the house】実況（ホラーゲーム）(1,2)
 URL:https://twitter.com/suzukautako/status/994755961263767552
 DESCRIPTION:https://twitter.com/suzukautako/status/994755961263767552
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180511
-SUMMARY:18時30分？ 勇気ちひろ at:Mirrativ？
-URL:https://twitter.com/Chihiro_yuki23/status/994857797220216838
-DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/994857797220216838
+DTSTART;TZID=Asia/Tokyo:20180511T185000
+SUMMARY:万楽えね参戦
+URL:https://twitter.com/nijisanji_app/status/994864772083519488
+DESCRIPTION:https://twitter.com/nijisanji_app/status/994864772083519488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T200000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/994892800591368192
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/994892800591368192
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T220000
@@ -656,16 +662,28 @@ URL:https://twitter.com/Kanae_2434/status/994699326050910208
 DESCRIPTION:https://twitter.com/Kanae_2434/status/994699326050910208
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180511T220000
-SUMMARY:モイラ at:YouTube もいらじ
+DTSTART;TZID=Asia/Tokyo:20180511
+SUMMARY:22時00分～23時00分 モイラ at:YouTube もいらじ
 URL:https://twitter.com/Moiramoimoimoi/status/994788841650257922
 DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/994788841650257922
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180511T223000
-SUMMARY:家長むぎ at: Mirrativ
+DTSTART;TZID=Asia/Tokyo:20180511
+SUMMARY:22時30分～23時30分 家長むぎ at: Mirrativ
 URL:https://twitter.com/ienaga_mugi23/status/994577679079821312
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/994577679079821312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511
+SUMMARY:23時～24時30分 静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/994864772083519488
+DESCRIPTION:https://twitter.com/nijisanji_app/status/994864772083519488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180512T133000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/994864772083519488
+DESCRIPTION:https://twitter.com/nijisanji_app/status/994864772083519488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180512T200000
@@ -699,7 +717,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180514
-SUMMARY:える　at:Youtube or Showroom
+SUMMARY:える　at:YouTube or Showroom
 URL:
 DESCRIPTION:
 END:VEVENT
