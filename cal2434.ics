@@ -644,10 +644,22 @@ URL:https://twitter.com/suzukautako/status/994755961263767552
 DESCRIPTION:https://twitter.com/suzukautako/status/994755961263767552
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511
+SUMMARY:18時30分？ 勇気ちひろ at:Mirrativ？
+URL:https://twitter.com/Chihiro_yuki23/status/994857797220216838
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/994857797220216838
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T220000
 SUMMARY:叶 at: YouTube? セリフ枠 PUBG
 URL:https://twitter.com/Kanae_2434/status/994699326050910208
 DESCRIPTION:https://twitter.com/Kanae_2434/status/994699326050910208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T220000
+SUMMARY:モイラ at:YouTube もいらじ
+URL:https://twitter.com/Moiramoimoimoi/status/994788841650257922
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/994788841650257922
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T223000
@@ -669,7 +681,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T222000
-SUMMARY:渋谷ハジメ 静凛 勇気ちひろ 鈴谷アキ at:YouTube(渋谷ハジメチャンネルにて)
+SUMMARY:渋谷ハジメ&静凛&勇気ちひろ&鈴谷アキ at:YouTube(渋谷ハジメチャンネルにて) GANG BEASTS
 URL:https://twitter.com/sibuya_hajime/status/994536802428993537
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/994536802428993537
 END:VEVENT
