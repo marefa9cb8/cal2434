@@ -3,7 +3,7 @@
   time:
     hour: '00'
     min: '47'
-  title: "月ノ美兎 at:YouTube テスト配信"
+  title: "月ノ美兎 at:YouTube テスト配信 (アーカイブなし)"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/994603741738188802
 - date: 2018-05-11
@@ -17,16 +17,23 @@
   time:
     hour: '01'
     min: '30'
-  title: "叶 at: YouTube"
+  title: "叶 at: YouTube 配信ツールや機材のお話。 ,LOLマン"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/994605792681644033
 - date: 2018-05-11
   time:
     hour: '06'
     min: '45'
-  title: "伏見ガク at:YouTube 本人twitter名前より おはガク"
+  title: "伏見ガク at:YouTube  おはガク！つゆで食べる豆乳たっぷりおぼろやっこ回"
   end_time: 
-  uri: 
+  uri: https://twitter.com/gaku_fushimi/status/994717708800294914
+- date: 2018-05-11
+  time:
+    hour: '17'
+    min: '00'
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/994755961263767552
 - date: 2018-05-11
   time:
     hour: '22'
@@ -52,7 +59,7 @@
   time:
     hour: '22'
     min: '00'
-  title: "叶 at: ?"
+  title: "叶 at: ? ダークソウル3"
   end_time: 
   uri: 
 - date: 2018-05-13

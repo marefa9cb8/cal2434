@@ -615,7 +615,7 @@ DESCRIPTION:https://www.mirrativ.com/live/ndqLK_bWOdTvrTEBvBEFUg
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T004700
-SUMMARY:月ノ美兎 at:YouTube テスト配信
+SUMMARY:月ノ美兎 at:YouTube テスト配信 (アーカイブなし)
 URL:https://twitter.com/MitoTsukino/status/994603741738188802
 DESCRIPTION:https://twitter.com/MitoTsukino/status/994603741738188802
 END:VEVENT
@@ -627,15 +627,21 @@ DESCRIPTION:https://twitter.com/sibuya_hajime/status/994615265978564608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T013000
-SUMMARY:叶 at: YouTube
+SUMMARY:叶 at: YouTube 配信ツールや機材のお話。 ,LOLマン
 URL:https://twitter.com/Kanae_2434/status/994605792681644033
 DESCRIPTION:https://twitter.com/Kanae_2434/status/994605792681644033
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T064500
-SUMMARY:伏見ガク at:YouTube 本人twitter名前より おはガク
-URL:
-DESCRIPTION:
+SUMMARY:伏見ガク at:YouTube  おはガク！つゆで食べる豆乳たっぷりおぼろやっこ回
+URL:https://twitter.com/gaku_fushimi/status/994717708800294914
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/994717708800294914
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180511T170000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/994755961263767552
+DESCRIPTION:https://twitter.com/suzukautako/status/994755961263767552
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180511T220000
@@ -657,7 +663,7 @@ DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/985070339666268160
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180512T220000
-SUMMARY:叶 at: ?
+SUMMARY:叶 at: ? ダークソウル3
 URL:
 DESCRIPTION:
 END:VEVENT
