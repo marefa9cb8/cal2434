@@ -22,7 +22,7 @@
   time:
     hour: '10'
     min: '30'
-  title: "叶 at:YouTube"
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/995115793057693696
 - date: 2018-05-12
@@ -53,6 +53,13 @@
   title: "にじさんじ1期生 at:YouTube 人狼テスト配信（天界部屋、樋口楓のチャンネル）"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/995209602013671425
+- date: 2018-05-12
+  time:
+    hour: '19'
+    min: '00'
+  title: "森中花咲 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/KazakiMorinaka/status/995231302482706433
 - date: 2018-05-12
   time:
     hour: '20'
