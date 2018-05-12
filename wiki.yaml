@@ -1,6 +1,25 @@
 ---
 - date: 2018-05-12
   time:
+    hour: '01'
+    min: '53'
+  title: "渋谷ハジメ at: YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/994983973175545856
+- date: 2018-05-12
+  time: 
+  title: '02時40分～ギルザレンIII世 at: YouTube 「逃走」'
+  end_time: 
+  uri: https://www.youtube.com/watch?v=kHfjLDuQDjs
+- date: 2018-05-12
+  time:
+    hour: '03'
+    min: 08
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/995002725069828096
+- date: 2018-05-12
+  time:
     hour: '13'
     min: '30'
   title: "静凛 at:YouTube"
@@ -10,7 +29,7 @@
   time:
     hour: '20'
     min: '00'
-  title: "一期生人狼大会 at:？"
+  title: "一期生人狼大会 at:YouTube にじさんじ公式チャンネル, 天界部屋は樋口楓のチャンネル"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/985070339666268160
 - date: 2018-05-12
