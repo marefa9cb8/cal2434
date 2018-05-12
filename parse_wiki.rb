@@ -2,8 +2,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'yaml'
 
-url = 'https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=future'
-#url = 'https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&mode=pastex'
+url = 'https://wikiwiki.jp/nijisanji/?plugin=minicalendar_viewer&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&date=2018'
 charset = nil
 html = open(url) do |f|
   charset = f.charset
