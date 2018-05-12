@@ -11,7 +11,7 @@ puts 'BEGIN:VCALENDAR'
 puts 'VERSION:2.0'
 puts 'PRODID:-//balar//2434 Event Calendar V0.1//JP'
 
-['wiki_history.yaml', 'wiki.yaml'].each do |fn|
+['wiki.yaml'].each do |fn|
   open(fn, 'r') do |f|
     schedule = YAML.load(f)
     schedule.each do |s|
