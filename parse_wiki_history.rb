@@ -29,6 +29,7 @@ titlesets.each{|titleset|
     time = nil
     title = nil
     uri = nil
+    end_time = nil
     a_tag = line.at("a")
     unless a_tag.nil? then
       link = a_tag["href"]
@@ -36,13 +37,19 @@ titlesets.each{|titleset|
         uri = url[1]
       end
     end
-    if time_title = line.text.match(/([0-9]+)時([0-9]+)分[～~][　 ](.*)/) then
-      time = {'hour' => time_title[1], 'min' => time_title[2]}
-      title = time_title[3]
+    if time_title = line.text.match(/([0-9]+)時([0-9]+)分[～~]([0-9]+)時([0-9]+)分[[:blank:]]?+(.*)/) then
+      time = {'hour' => time_title[1].to_i, 'min' => time_title[2].to_i}
+      end_time = {'hour' => time_title[3].to_i, 'min' => time_title[4].to_i}
+      title = time_title[5]
+    elsif time_title = line.text.match(/([0-9]+)時([0-9]+)分(以降|頃|ぐらい)?+(～|~)?+[[:blank:]]?+(.*)/) then
+      time = {'hour' => time_title[1].to_i, 'min' => time_title[2].to_i}
+      title = time_title[5]
+    elsif time_title = line.text.match(/未定[[:blank:]](.*)/) then
+      title = time_title[1]
     elsif time_title = line.text.match(/(.*)/) then
       title = time_title[1]
     end
-    linearray.push({'time' => time, 'title' => title, 'uri' => uri}) unless title.nil?
+    linearray.push({'time' => time, 'end_time' => end_time, 'title' => title, 'uri' => uri}) unless title.nil?
   }
   titlearray.push(linearray)
 }
@@ -50,7 +57,7 @@ titlesets.each{|titleset|
 eventarray = []
 dayarray.zip(titlearray){|day,titles|
   titles.each{|title|
-    event = {'date' => day, 'time' => title['time'], 'title' => title['title'], 'end_time' => nil, 'uri' => title['uri']}
+    event = {'date' => day, 'time' => title['time'], 'title' => title['title'], 'end_time' => title['end_time'], 'uri' => title['uri']}
     #puts event
     eventarray.push(event)
     #puts "---"
