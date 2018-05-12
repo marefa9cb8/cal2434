@@ -34,18 +34,60 @@
   uri: https://twitter.com/nijisanji_app/status/994864772083519488
 - date: 2018-05-12
   time:
+    hour: '16'
+    min: 08
+  title: "家長むぎ at:YouTube テスト配信"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/995198939518283776
+- date: 2018-05-12
+  time:
+    hour: '16'
+    min: '10'
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/nekokan_chu/status/995199445720416257
+- date: 2018-05-12
+  time:
+    hour: '16'
+    min: '50'
+  title: "にじさんじ1期生 at:YouTube 人狼テスト配信（天界部屋、樋口楓のチャンネル）"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/995209602013671425
+- date: 2018-05-12
+  time:
     hour: '20'
     min: '00'
-  title: "一期生人狼大会 at:YouTube にじさんじ公式チャンネル, 天界部屋は樋口楓のチャンネル"
+  title: "一期生人狼大会"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/985070339666268160
 - date: 2018-05-12
   time:
     hour: '22'
     min: '00'
-  title: "叶 at: ? ダークソウル3"
+  title: "叶 at: YouTube? ダークソウル3"
   end_time: 
-  uri: 
+  uri: https://twitter.com/Kanae_2434/status/995218582572122112
+- date: 2018-05-12
+  time:
+    hour: '22'
+    min: '00'
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/995189938533449728
+- date: 2018-05-12
+  time:
+    hour: '22'
+    min: '30'
+  title: "家長むぎ at:YouTube 未定"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/995189938533449728
+- date: 2018-05-12
+  time:
+    hour: '23'
+    min: '00'
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/995189938533449728
 - date: 2018-05-13
   time:
     hour: '22'
