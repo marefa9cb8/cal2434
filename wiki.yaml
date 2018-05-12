@@ -1,6 +1,20 @@
 ---
 - date: 2018-05-13
   time:
+    hour: '15'
+    min: '00'
+  title: "樋口楓 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/995373860194156544
+- date: 2018-05-13
+  time:
+    hour: '19'
+    min: '00'
+  title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/995373860194156544
+- date: 2018-05-13
+  time:
     hour: '22'
     min: '20'
   title: "渋谷ハジメ&静凛&勇気ちひろ&鈴谷アキ at:YouTube(渋谷ハジメチャンネルにて) GANG BEASTS"
