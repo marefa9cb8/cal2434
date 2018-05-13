@@ -1,6 +1,41 @@
 ---
 - date: 2018-05-14
   time:
+    hour: 0
+    min: 42
+  title: "夕陽リリ at:YouTube →mirrativへ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/995690519966703624
+- date: 2018-05-14
+  time:
+    hour: 0
+    min: 53
+  title: "渋谷ハジメ at:YouTube　雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/995693484685254656
+- date: 2018-05-14
+  time:
+    hour: 1
+    min: 10
+  title: "叶 at: YouTube　雑談 影廊"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/995638989032849408
+- date: 2018-05-14
+  time:
+    hour: 1
+    min: 24
+  title: "静凛 at: YouTube 限定配信 詳細は静凛Twitterにて"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23
+- date: 2018-05-14
+  time:
+    hour: 2
+    min: 26
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/995716949647671301
+- date: 2018-05-14
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube"
@@ -79,13 +114,6 @@
   title: "剣持刀也 at:Mirrativ アーカイブ残りません"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/995678025428549632
-- date: 2018-05-13
-  time:
-    hour: 24
-    min: 0
-  title: "叶 at: ?　PUBG"
-  end_time: 
-  uri: https://twitter.com/Kanae_2434/status/995638989032849408
 - date: 2018-05-12
   time:
     hour: 1
