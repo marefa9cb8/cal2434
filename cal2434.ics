@@ -38,6 +38,12 @@ URL:https://twitter.com/gaku_fushimi/status/995655660091031552
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/995655660091031552
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180514T190000
+SUMMARY:叶 at: ?
+URL:https://twitter.com/Kanae_2434/status/995738586719834112
+DESCRIPTION:https://twitter.com/Kanae_2434/status/995738586719834112
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180514
 SUMMARY:える　at:YouTube or Showroom
 URL:
