@@ -17,23 +17,30 @@
   time:
     hour: 15
     min: 0
-  title: "樋口楓 at:YouTube"
+  title: "樋口楓 at:YouTube お絵描きの森"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/995373860194156544
 - date: 2018-05-13
   time:
     hour: 17
     min: 0
-  title: "勇気ちひろ at:YouTube"
+  title: "勇気ちひろ at:YouTube PUBG"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/995556090661109760
 - date: 2018-05-13
   time:
     hour: 19
     min: 0
-  title: "宇志海いちご at:YouTube"
+  title: "宇志海いちご at:YouTube よよよよよよよ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/995373860194156544
+- date: 2018-05-13
+  time:
+    hour: 20
+    min: 5
+  title: "モイラ at:Mirrativ (ゲリラ)"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/995621360507412480
 - date: 2018-05-13
   time:
     hour: 22
@@ -42,12 +49,17 @@
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/994536802428993537
 - date: 2018-05-13
+  time: 
+  title: '23時頃～ 叶 at: ?'
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/995614767493537799
+- date: 2018-05-13
   time:
     hour: 23
     min: 30
   title: "夕陽リリ at:Youtube"
   end_time: 
-  uri: https://twitter.com/Yuuhi_Riri/status/994235720196739073
+  uri: https://twitter.com/Yuuhi_Riri/status/994544694980890624
 - date: 2018-05-12
   time:
     hour: 1
