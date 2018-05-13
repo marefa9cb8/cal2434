@@ -2,6 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//balar//2434 Event Calendar V0.1//JP
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180514T064500
+SUMMARY:伏見ガク at:YouTube
+URL:https://twitter.com/gaku_fushimi/status/995655660091031552
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/995655660091031552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180514
+SUMMARY:える　at:YouTube or Showroom
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180514
+SUMMARY:JK組（静凛が5/9のライブで明言） 中止。6/14(木)に延期
+URL:https://twitter.com/MitoTsukino/status/995527978682470401
+DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T022800
 SUMMARY:渋谷ハジメ at:YouTube LoL
 URL:https://twitter.com/sibuya_hajime/status/995355076028841985
@@ -15,13 +33,13 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/995367673918767104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T150000
-SUMMARY:樋口楓 at:YouTube お絵描きの森
+SUMMARY:樋口楓 at:YouTube お絵描きの森 樋口楓のしあわせおえかきの森配信(9)
 URL:https://twitter.com/ShizuRin23/status/995373860194156544
 DESCRIPTION:https://twitter.com/ShizuRin23/status/995373860194156544
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T170000
-SUMMARY:勇気ちひろ at:YouTube PUBG
+SUMMARY:勇気ちひろ at:YouTube PUBG ちひろチャンネル♪PUBGʕ•ܫ•ʔ
 URL:https://twitter.com/Chihiro_yuki23/status/995556090661109760
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/995556090661109760
 END:VEVENT
@@ -33,7 +51,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/995373860194156544
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T200500
-SUMMARY:モイラ at:Mirrativ (ゲリラ)
+SUMMARY:モイラ at:Mirrativ (ゲリラ)　アーカイブは編集して後日投稿
 URL:https://twitter.com/Moiramoimoimoi/status/995621360507412480
 DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/995621360507412480
 END:VEVENT
@@ -44,16 +62,22 @@ URL:https://twitter.com/sibuya_hajime/status/994536802428993537
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/994536802428993537
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180513
-SUMMARY:23時頃～ 叶 at: ?
-URL:https://twitter.com/Kanae_2434/status/995614767493537799
-DESCRIPTION:https://twitter.com/Kanae_2434/status/995614767493537799
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180513T233000
 SUMMARY:夕陽リリ at:Youtube
 URL:https://twitter.com/Yuuhi_Riri/status/994544694980890624
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/994544694980890624
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180513T235400
+SUMMARY:剣持刀也 at:Mirrativ アーカイブ残りません
+URL:https://twitter.com/rei_Toya_rei/status/995678025428549632
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/995678025428549632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180513T240000
+SUMMARY:叶 at: ?　PUBG
+URL:https://twitter.com/Kanae_2434/status/995638989032849408
+DESCRIPTION:https://twitter.com/Kanae_2434/status/995638989032849408
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180512T015300
