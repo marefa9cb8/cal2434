@@ -9,9 +9,10 @@ end
 
 puts 'BEGIN:VCALENDAR'
 puts 'VERSION:2.0'
-puts 'PRODID:-//balar//2434 Event Calendar V0.1//JP'
+puts 'PRODID:-//balar//2434 Event Calendar V0.3//JP'
 
-['wiki.yaml'].each do |fn|
+wiki = Dir.glob("resource/*")
+wiki.each do |fn|
   open(fn, 'r') do |f|
     schedule = YAML.load(f)
     schedule.each do |s|
