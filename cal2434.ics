@@ -790,10 +790,22 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518
+SUMMARY:咎人コラボ at:？ 剣持刀也放送にて
+URL:https://www.youtube.com/watch?v=3FPbyOo2ERc
+DESCRIPTION:https://www.youtube.com/watch?v=3FPbyOo2ERc
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T210000
 SUMMARY:モイラ at:YouTube モイラさんと女神生放送(女神エルミナコラボ) （【異世界VTuber】女神エルミナのTwitterより）
 URL:https://twitter.com/VtuberElmina/status/994971236588445697
 DESCRIPTION:https://twitter.com/VtuberElmina/status/994971236588445697
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517
+SUMMARY:（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T123000
