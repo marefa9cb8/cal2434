@@ -844,10 +844,22 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516
+SUMMARY:深夜～        叶 at:YouTube
+URL:https://twitter.com/Kanae_2434/status/996393596122099712
+DESCRIPTION:https://twitter.com/Kanae_2434/status/996393596122099712
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T130000
 SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/996271952997183488
 DESCRIPTION:https://twitter.com/nijisanji_app/status/996271952997183488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T220000
+SUMMARY:物述有栖 at:?
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T022300
@@ -887,7 +899,7 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/996301011869319168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T190000
-SUMMARY:森中花咲 at:YouTube かざ生放送～ハトのハートをロックオン～
+SUMMARY:森中花咲 at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995951907477667840
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/995951907477667840
 END:VEVENT
