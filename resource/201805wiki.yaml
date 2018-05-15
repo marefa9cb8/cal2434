@@ -151,7 +151,7 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube かざ生放送～ハトのハートをロックオン～"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/995951907477667840
 - date: 2018-05-15
@@ -161,6 +161,13 @@
   title: "叶 at:OPENREC.tv"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/996170332712005632
+- date: 2018-05-15
+  time:
+    hour: 20
+    min: 51
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/996357400952127488
 - date: 2018-05-15
   time:
     hour: 21

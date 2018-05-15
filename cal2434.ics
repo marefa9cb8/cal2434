@@ -887,7 +887,7 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/996301011869319168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T190000
-SUMMARY:森中花咲 at:YouTube
+SUMMARY:森中花咲 at:YouTube かざ生放送～ハトのハートをロックオン～
 URL:https://twitter.com/KazakiMorinaka/status/995951907477667840
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/995951907477667840
 END:VEVENT
@@ -896,6 +896,12 @@ DTSTART;TZID=Asia/Tokyo:20180515T200000
 SUMMARY:叶 at:OPENREC.tv
 URL:https://twitter.com/Kanae_2434/status/996170332712005632
 DESCRIPTION:https://twitter.com/Kanae_2434/status/996170332712005632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T205100
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/996357400952127488
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/996357400952127488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T210000
