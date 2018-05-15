@@ -50,21 +50,35 @@
   time:
     hour: 6
     min: 45
-  title: "～  伏見ガクat:YouTube  おはガク 第11回"
+  title: "～  伏見ガク at:YouTube  おはガク 第11回"
   end_time: 
   uri: 
 - date: 2018-05-18
   time:
     hour: 19
     min: 0
-  title: "（未定）～ 静凛 at: ？　セリフ枠（未定）"
+  title: "静凛 at: ?　セリフ枠（未定）"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-18
   time: 
   title: "咎人コラボ at:？ 剣持刀也放送にて"
   end_time: 
   uri: https://www.youtube.com/watch?v=3FPbyOo2ERc
+- date: 2018-05-17
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
+- date: 2018-05-17
+  time:
+    hour: 13
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-17
   time:
     hour: 21
@@ -73,10 +87,24 @@
   end_time: 
   uri: https://twitter.com/VtuberElmina/status/994971236588445697
 - date: 2018-05-17
+  time:
+    hour: 21
+    min: 10
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
+- date: 2018-05-17
   time: 
   title: "（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）"
   end_time: 
   uri: 
+- date: 2018-05-16
+  time:
+    hour: 13
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-15
   time:
     hour: 2
@@ -105,6 +133,13 @@
   title: "家長むぎ at:YouTube"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/996010696948105216
+- date: 2018-05-15
+  time:
+    hour: 13
+    min: 1
+  title: "家長むぎ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/996239224037769216
 - date: 2018-05-15
   time:
     hour: 19
@@ -514,7 +549,7 @@
   time:
     hour: 16
     min: 53
-  title: "家長むぎ at:YouTube テスト(1,2)"
+  title: "家長むぎ at:YouTube テスト(#1,#2)"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/994485506825109505
 - date: 2018-05-10

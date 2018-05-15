@@ -797,15 +797,15 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T064500
-SUMMARY:～  伏見ガクat:YouTube  おはガク 第11回
+SUMMARY:～  伏見ガク at:YouTube  おはガク 第11回
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T190000
-SUMMARY:（未定）～ 静凛 at: ？　セリフ枠（未定）
-URL:
-DESCRIPTION:
+SUMMARY:静凛 at: ?　セリフ枠（未定）
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518
@@ -814,16 +814,40 @@ URL:https://www.youtube.com/watch?v=3FPbyOo2ERc
 DESCRIPTION:https://www.youtube.com/watch?v=3FPbyOo2ERc
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T010000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T130000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T210000
 SUMMARY:モイラ at:YouTube モイラさんと女神生放送(女神エルミナコラボ) （【異世界VTuber】女神エルミナのTwitterより）
 URL:https://twitter.com/VtuberElmina/status/994971236588445697
 DESCRIPTION:https://twitter.com/VtuberElmina/status/994971236588445697
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T211000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517
 SUMMARY:（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T130000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T022300
@@ -848,6 +872,12 @@ DTSTART;TZID=Asia/Tokyo:20180515T123000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/996010696948105216
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/996010696948105216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T130100
+SUMMARY:家長むぎ at:Mirrativ
+URL:https://twitter.com/ienaga_mugi23/status/996239224037769216
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/996239224037769216
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T190000
@@ -1197,7 +1227,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/994101934956032000
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T165300
-SUMMARY:家長むぎ at:YouTube テスト(1,2)
+SUMMARY:家長むぎ at:YouTube テスト(#1,#2)
 URL:https://twitter.com/ienaga_mugi23/status/994485506825109505
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/994485506825109505
 END:VEVENT
