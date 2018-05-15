@@ -754,6 +754,24 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T203000
+SUMMARY:剣持刀也 森中花咲コラボ at:Mirrativ にじさんじQ
+URL:https://www.moguravr.com/vtuber-nijisanji-q/
+DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T160000
+SUMMARY:家長むぎ at:Mirrativ にじさんじQ
+URL:https://www.moguravr.com/vtuber-nijisanji-q/
+DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T203000
+SUMMARY:文野環(野良猫) at:Mirrativ にじさんじQ
+URL:https://www.moguravr.com/vtuber-nijisanji-q/
+DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T200000
 SUMMARY:える＆かざの森の友オフ会 at:森中花咲YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995609714347073536
@@ -808,6 +826,24 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T022300
+SUMMARY:渋谷ハジメ at:YouTube LoL(叶とコラボ)
+URL:https://twitter.com/sibuya_hajime/status/996078464137478144
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/996078464137478144
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T023400
+SUMMARY:叶 at:YouTube LoL(渋谷ハジメとコラボ)
+URL:https://twitter.com/Kanae_2434/status/996081441896259584
+DESCRIPTION:https://twitter.com/Kanae_2434/status/996081441896259584
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T024000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T123000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/996010696948105216
@@ -818,6 +854,12 @@ DTSTART;TZID=Asia/Tokyo:20180515T190000
 SUMMARY:森中花咲 at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995951907477667840
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/995951907477667840
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T200000
+SUMMARY:叶 at:OPENREC.tv
+URL:https://twitter.com/Kanae_2434/status/996170332712005632
+DESCRIPTION:https://twitter.com/Kanae_2434/status/996170332712005632
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T210000
