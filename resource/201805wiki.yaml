@@ -102,9 +102,9 @@
   time:
     hour: 13
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube"
   end_time: 
-  uri: https://twitter.com/ShizuRin23/status/996123501902770176
+  uri: https://twitter.com/nijisanji_app/status/996271952997183488
 - date: 2018-05-15
   time:
     hour: 2
@@ -140,6 +140,13 @@
   title: "家長むぎ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/996239224037769216
+- date: 2018-05-15
+  time:
+    hour: 17
+    min: 16
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/996301011869319168
 - date: 2018-05-15
   time:
     hour: 19

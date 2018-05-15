@@ -845,9 +845,9 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T130000
-SUMMARY:静凛 at:?
-URL:https://twitter.com/ShizuRin23/status/996123501902770176
-DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/996271952997183488
+DESCRIPTION:https://twitter.com/nijisanji_app/status/996271952997183488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T022300
@@ -878,6 +878,12 @@ DTSTART;TZID=Asia/Tokyo:20180515T130100
 SUMMARY:家長むぎ at:Mirrativ
 URL:https://twitter.com/ienaga_mugi23/status/996239224037769216
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/996239224037769216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180515T171600
+SUMMARY:夕陽リリ at:Mirrativ
+URL:https://twitter.com/Yuuhi_Riri/status/996301011869319168
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/996301011869319168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T190000
