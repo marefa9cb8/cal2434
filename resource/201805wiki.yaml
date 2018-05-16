@@ -123,14 +123,35 @@
   time:
     hour: 17
     min: 0
-  title: "（未定） 鈴鹿詩子 at:？"
+  title: "鈴鹿詩子 at:ShowRoom"
   end_time: 
-  uri: 
+  uri: https://twitter.com/nijisanji_app/status/996637476440567809
+- date: 2018-05-16
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at: Mirraitv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/996637476440567809
+- date: 2018-05-16
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:?"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/996637476440567809
+- date: 2018-05-16
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/996637476440567809
 - date: 2018-05-16
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe
 - date: 2018-05-16

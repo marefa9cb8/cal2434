@@ -863,13 +863,31 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/996271952997183488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T170000
-SUMMARY:（未定） 鈴鹿詩子 at:？
-URL:
-DESCRIPTION:
+SUMMARY:鈴鹿詩子 at:ShowRoom
+URL:https://twitter.com/nijisanji_app/status/996637476440567809
+DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T190000
+SUMMARY:宇志海いちご at: Mirraitv
+URL:https://twitter.com/nijisanji_app/status/996637476440567809
+DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T200000
+SUMMARY:渋谷ハジメ at:?
+URL:https://twitter.com/nijisanji_app/status/996637476440567809
+DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/996637476440567809
+DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T220000
-SUMMARY:物述有栖 at:?
+SUMMARY:物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
