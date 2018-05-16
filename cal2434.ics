@@ -820,10 +820,10 @@ URL:https://www.youtube.com/watch?v=3FPbyOo2ERc
 DESCRIPTION:https://www.youtube.com/watch?v=3FPbyOo2ERc
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180517T010000
-SUMMARY:静凛 at:?
-URL:https://twitter.com/ShizuRin23/status/996123501902770176
-DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+DTSTART;TZID=Asia/Tokyo:20180517T013300
+SUMMARY:渋谷ハジメ at:YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/996790791153504256
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/996790791153504256
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T130000
@@ -833,7 +833,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T190000
-SUMMARY:森中花咲 at:?
+SUMMARY:森中花咲 at:YouTube?
 URL:https://twitter.com/KazakiMorinaka/status/996717138709594112
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/996717138709594112
 END:VEVENT
@@ -848,6 +848,12 @@ DTSTART;TZID=Asia/Tokyo:20180517T211000
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/ShizuRin23/status/996853531855413248
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996853531855413248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517
@@ -881,7 +887,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T184100
-SUMMARY:叶 渋谷ハジメ 静凛 森中花咲 at: YouTube PUBG
+SUMMARY:叶&渋谷ハジメ&静凛&森中花咲 at: YouTube PUBG
 URL:https://twitter.com/Kanae_2434/status/996687266188701696
 DESCRIPTION:https://twitter.com/Kanae_2434/status/996687266188701696
 END:VEVENT
@@ -916,10 +922,16 @@ URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180516
-SUMMARY:23時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
+DTSTART;TZID=Asia/Tokyo:20180516T230000
+SUMMARY:叶 at:YouTube  DarkSouls3 or PUBG
 URL:https://twitter.com/Kanae_2434/status/996557198997078016
 DESCRIPTION:https://twitter.com/Kanae_2434/status/996557198997078016
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T230000
+SUMMARY:静凛 at:YouTube FF14
+URL:https://twitter.com/ShizuRin23/status/996123501902770176
+DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T022300

@@ -75,10 +75,10 @@
 - date: 2018-05-17
   time:
     hour: 1
-    min: 0
-  title: "静凛 at:?"
+    min: 33
+  title: "渋谷ハジメ at:YouTube LoL"
   end_time: 
-  uri: https://twitter.com/ShizuRin23/status/996123501902770176
+  uri: https://twitter.com/sibuya_hajime/status/996790791153504256
 - date: 2018-05-17
   time:
     hour: 13
@@ -90,7 +90,7 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:YouTube?"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/996717138709594112
 - date: 2018-05-17
@@ -107,6 +107,13 @@
   title: "静凛 at:?"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/996123501902770176
+- date: 2018-05-17
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996853531855413248
 - date: 2018-05-17
   time: 
   title: "（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）"
@@ -144,7 +151,7 @@
   time:
     hour: 18
     min: 41
-  title: "叶 渋谷ハジメ 静凛 森中花咲 at: YouTube PUBG"
+  title: "叶&渋谷ハジメ&静凛&森中花咲 at: YouTube PUBG"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/996687266188701696
 - date: 2018-05-16
@@ -183,10 +190,19 @@
   end_time: 
   uri: https://twitter.com/AliceMononobe
 - date: 2018-05-16
-  time: 
-  title: 23時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube  DarkSouls3 or PUBG"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/996557198997078016
+- date: 2018-05-16
+  time:
+    hour: 23
+    min: 0
+  title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-15
   time:
     hour: 2
