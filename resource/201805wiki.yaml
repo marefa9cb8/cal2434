@@ -121,6 +121,13 @@
   uri: https://twitter.com/nijisanji_app/status/996271952997183488
 - date: 2018-05-16
   time:
+    hour: 17
+    min: 0
+  title: "（未定） 鈴鹿詩子 at:？"
+  end_time: 
+  uri: 
+- date: 2018-05-16
+  time:
     hour: 22
     min: 0
   title: "物述有栖 at:?"
@@ -128,9 +135,9 @@
   uri: https://twitter.com/AliceMononobe
 - date: 2018-05-16
   time: 
-  title: 22時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
+  title: 23時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
   end_time: 
-  uri: https://twitter.com/Kanae_2434/status/996462157469384704
+  uri: https://twitter.com/Kanae_2434/status/996557198997078016
 - date: 2018-05-15
   time:
     hour: 2

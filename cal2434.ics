@@ -862,6 +862,12 @@ URL:https://twitter.com/nijisanji_app/status/996271952997183488
 DESCRIPTION:https://twitter.com/nijisanji_app/status/996271952997183488
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T170000
+SUMMARY:（未定） 鈴鹿詩子 at:？
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T220000
 SUMMARY:物述有栖 at:?
 URL:https://twitter.com/AliceMononobe
@@ -869,9 +875,9 @@ DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516
-SUMMARY:22時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
-URL:https://twitter.com/Kanae_2434/status/996462157469384704
-DESCRIPTION:https://twitter.com/Kanae_2434/status/996462157469384704
+SUMMARY:23時ごろ～ 叶 at:YouTube  DarkSouls3 or PUBG
+URL:https://twitter.com/Kanae_2434/status/996557198997078016
+DESCRIPTION:https://twitter.com/Kanae_2434/status/996557198997078016
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180515T022300
