@@ -808,6 +808,12 @@ URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T203000
+SUMMARY:樋口楓 at:?
+URL:https://twitter.com/HiguchiKaede/status/996718253501136896
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/996718253501136896
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518
 SUMMARY:咎人コラボ at:？ 剣持刀也放送にて
 URL:https://www.youtube.com/watch?v=3FPbyOo2ERc
@@ -824,6 +830,12 @@ DTSTART;TZID=Asia/Tokyo:20180517T130000
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T190000
+SUMMARY:森中花咲 at:?
+URL:https://twitter.com/KazakiMorinaka/status/996717138709594112
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/996717138709594112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T210000
@@ -868,16 +880,28 @@ URL:https://twitter.com/nijisanji_app/status/996637476440567809
 DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T184100
+SUMMARY:叶 渋谷ハジメ 静凛 森中花咲 at: YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/996687266188701696
+DESCRIPTION:https://twitter.com/Kanae_2434/status/996687266188701696
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T190000
 SUMMARY:宇志海いちご at: Mirraitv
 URL:https://twitter.com/nijisanji_app/status/996637476440567809
 DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180516T200000
-SUMMARY:渋谷ハジメ at:?
-URL:https://twitter.com/nijisanji_app/status/996637476440567809
-DESCRIPTION:https://twitter.com/nijisanji_app/status/996637476440567809
+DTSTART;TZID=Asia/Tokyo:20180516T201300
+SUMMARY:渋谷ハジメ at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/996710010590715904
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/996710010590715904
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180516T210000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/996687849721221120
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/996687849721221120
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T213000
