@@ -798,8 +798,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T064500
 SUMMARY:～  伏見ガク at:YouTube  おはガク 第11回
-URL:
-DESCRIPTION:
+URL:https://twitter.com/gaku_fushimi/status/996804176641277952
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/996804176641277952
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T190000
@@ -833,15 +833,15 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T190000
-SUMMARY:森中花咲 at:YouTube?
+SUMMARY:森中花咲 at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/996717138709594112
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/996717138709594112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T210000
-SUMMARY:モイラ at:YouTube モイラさんと女神生放送(女神エルミナコラボ) （【異世界VTuber】女神エルミナのTwitterより）
-URL:https://twitter.com/VtuberElmina/status/994971236588445697
-DESCRIPTION:https://twitter.com/VtuberElmina/status/994971236588445697
+SUMMARY:モイラ様と女神生放送(女神エルミナコラボ) （【異世界VTuber】女神エルミナのTwitterより）at:女神エルミナのYouTubeチャンネル
+URL:https://twitter.com/vtuberelmina/status/996895343571697665?s=21
+DESCRIPTION:https://twitter.com/vtuberelmina/status/996895343571697665?s=21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T211000
