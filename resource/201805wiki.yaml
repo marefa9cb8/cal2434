@@ -40,6 +40,11 @@
   end_time: 
   uri: 
 - date: 2018-05-19
+  time: 
+  title: "お昼ごろ～ 家長むぎ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/997095541791080448
+- date: 2018-05-19
   time:
     hour: 20
     min: 0
@@ -118,7 +123,7 @@
   time:
     hour: 19
     min: 0
-  title: "宇志海いちご at:Mirrativ"
+  title: "宇志海いちご at:Mirrativ  無し"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/997004302500573184
 - date: 2018-05-17
@@ -139,7 +144,7 @@
   time:
     hour: 21
     min: 10
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube R6S（視聴者参加型）"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-17
@@ -150,10 +155,19 @@
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/996853531855413248
 - date: 2018-05-17
-  time: 
-  title: "（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）"
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:? 雑談"
   end_time: 
-  uri: 
+  uri: https://twitter.com/Kanae_2434/status/997104803330195456
+- date: 2018-05-17
+  time:
+    hour: 23
+    min: 52
+  title: "モイラ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/997127491432034305
 - date: 2018-05-17
   time:
     hour: 24

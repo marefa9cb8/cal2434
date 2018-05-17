@@ -790,6 +790,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519
+SUMMARY:お昼ごろ～ 家長むぎ at:Mirrativ
+URL:https://twitter.com/ienaga_mugi23/status/997095541791080448
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997095541791080448
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T200000
 SUMMARY:月ノ美兎 at: cluster. ＆ YouTube『月ノ美兎のVR教室生放送』（4月28日に開催されるはずだったものが本日に延期）
 URL:https://twitter.com/MitoTsukino/status/990200945001705472
@@ -857,7 +863,7 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/996717138709594112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T190000
-SUMMARY:宇志海いちご at:Mirrativ
+SUMMARY:宇志海いちご at:Mirrativ  無し
 URL:https://twitter.com/nijisanji_app/status/997004302500573184
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997004302500573184
 END:VEVENT
@@ -875,7 +881,7 @@ DESCRIPTION:https://twitter.com/vtuberelmina/status/996895343571697665?s=21
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T211000
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:YouTube R6S（視聴者参加型）
 URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
@@ -886,10 +892,16 @@ URL:https://twitter.com/ShizuRin23/status/996853531855413248
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996853531855413248
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180517
-SUMMARY:（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180517T230000
+SUMMARY:叶 at:? 雑談
+URL:https://twitter.com/Kanae_2434/status/997104803330195456
+DESCRIPTION:https://twitter.com/Kanae_2434/status/997104803330195456
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T235200
+SUMMARY:モイラ at:Mirrativ
+URL:https://twitter.com/Moiramoimoimoi/status/997127491432034305
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/997127491432034305
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T240000
