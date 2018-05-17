@@ -67,9 +67,23 @@
   uri: https://twitter.com/AliceMononobe
 - date: 2018-05-18
   time:
+    hour: 2
+    min: 13
+  title: " 渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/997163273832169472
+- date: 2018-05-18
+  time:
+    hour: 2
+    min: 42
+  title: " ギルザレンⅢ世 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Gilzaren_III/status/997170065064640513
+- date: 2018-05-18
+  time:
     hour: 6
     min: 45
-  title: "～  伏見ガク at:YouTube  おはガク 第11回"
+  title: " 伏見ガク at:YouTube  おはガク 第11回"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/996804176641277952
 - date: 2018-05-18
@@ -158,7 +172,7 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:? 雑談"
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/997104803330195456
 - date: 2018-05-17

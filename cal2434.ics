@@ -814,8 +814,20 @@ URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T021300
+SUMMARY: 渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/997163273832169472
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/997163273832169472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T024200
+SUMMARY: ギルザレンⅢ世 at:YouTube
+URL:https://twitter.com/Gilzaren_III/status/997170065064640513
+DESCRIPTION:https://twitter.com/Gilzaren_III/status/997170065064640513
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T064500
-SUMMARY:～  伏見ガク at:YouTube  おはガク 第11回
+SUMMARY: 伏見ガク at:YouTube  おはガク 第11回
 URL:https://twitter.com/gaku_fushimi/status/996804176641277952
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/996804176641277952
 END:VEVENT
@@ -893,7 +905,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/996853531855413248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T230000
-SUMMARY:叶 at:? 雑談
+SUMMARY:叶 at:YouTube 雑談
 URL:https://twitter.com/Kanae_2434/status/997104803330195456
 DESCRIPTION:https://twitter.com/Kanae_2434/status/997104803330195456
 END:VEVENT
