@@ -772,6 +772,12 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T200000
+SUMMARY:森中花咲の誕生日配信 at YouTube (5/17の配信にて告知)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T200000
 SUMMARY:える＆かざの森の友オフ会 at:森中花咲YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995609714347073536
@@ -838,6 +844,12 @@ URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T180000
+SUMMARY:文野環(野良猫) at:YouTube 文野環の怖い空の旅★
+URL:https://www.youtube.com/watch?v=Jbztzzb9iao
+DESCRIPTION:https://www.youtube.com/watch?v=Jbztzzb9iao
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T190000
 SUMMARY:森中花咲 at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/996717138709594112
@@ -850,8 +862,8 @@ URL:https://twitter.com/nijisanji_app/status/997004302500573184
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997004302500573184
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180517T193000
-SUMMARY:から20時00分頃～ 勇気ちひろ at:Mirrativ
+DTSTART;TZID=Asia/Tokyo:20180517T200000
+SUMMARY:勇気ちひろ at:Mirrativ
 URL:https://twitter.com/Chihiro_yuki23/status/997002570517200896
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/997002570517200896
 END:VEVENT
@@ -878,6 +890,12 @@ DTSTART;TZID=Asia/Tokyo:20180517
 SUMMARY:（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T240000
+SUMMARY:剣持刀也 at:OPENREC.tv
+URL:https://twitter.com/rei_Toya_rei/status/997079678593593344
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/997079678593593344
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180516T000800

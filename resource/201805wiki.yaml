@@ -20,6 +20,13 @@
   title: "文野環(野良猫) at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
+- date: 2018-05-23
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲の誕生日配信 at YouTube (5/17の配信にて告知)"
+  end_time: 
+  uri: 
 - date: 2018-05-20
   time:
     hour: 20
@@ -95,6 +102,13 @@
   uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-17
   time:
+    hour: 18
+    min: 0
+  title: "文野環(野良猫) at:YouTube 文野環の怖い空の旅★"
+  end_time: 
+  uri: https://www.youtube.com/watch?v=Jbztzzb9iao
+- date: 2018-05-17
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube"
@@ -109,9 +123,9 @@
   uri: https://twitter.com/nijisanji_app/status/997004302500573184
 - date: 2018-05-17
   time:
-    hour: 19
-    min: 30
-  title: "から20時00分頃～ 勇気ちひろ at:Mirrativ"
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/997002570517200896
 - date: 2018-05-17
@@ -140,6 +154,13 @@
   title: "（未定）静凛　at：Youtube(未定)　R6S（視聴者参加型）（未定）"
   end_time: 
   uri: 
+- date: 2018-05-17
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/rei_Toya_rei/status/997079678593593344
 - date: 2018-05-16
   time:
     hour: 0
