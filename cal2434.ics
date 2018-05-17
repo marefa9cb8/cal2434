@@ -796,6 +796,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T230000
+SUMMARY:物述有栖 at:?
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T064500
 SUMMARY:～  伏見ガク at:YouTube  おはガク 第11回
 URL:https://twitter.com/gaku_fushimi/status/996804176641277952
@@ -836,6 +842,18 @@ DTSTART;TZID=Asia/Tokyo:20180517T190000
 SUMMARY:森中花咲 at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/996717138709594112
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/996717138709594112
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T190000
+SUMMARY:宇志海いちご at:Mirrativ
+URL:https://twitter.com/nijisanji_app/status/997004302500573184
+DESCRIPTION:https://twitter.com/nijisanji_app/status/997004302500573184
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180517T193000
+SUMMARY:から20時00分頃～ 勇気ちひろ at:Mirrativ
+URL:https://twitter.com/Chihiro_yuki23/status/997002570517200896
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/997002570517200896
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T210000

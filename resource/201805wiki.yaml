@@ -46,6 +46,13 @@
   title: "鈴谷アキ at:YouTube 30000人企画"
   end_time: 
   uri: 
+- date: 2018-05-19
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:?"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe
 - date: 2018-05-18
   time:
     hour: 6
@@ -93,6 +100,20 @@
   title: "森中花咲 at:YouTube"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/996717138709594112
+- date: 2018-05-17
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/997004302500573184
+- date: 2018-05-17
+  time:
+    hour: 19
+    min: 30
+  title: "から20時00分頃～ 勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Chihiro_yuki23/status/997002570517200896
 - date: 2018-05-17
   time:
     hour: 21
