@@ -78,28 +78,37 @@
   time:
     hour: 20
     min: 0
+  title: "家長むぎ at:Mirrativ YouTubeに変更"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/997452416508248064
+- date: 2018-05-19
+  time:
+    hour: 20
+    min: 0
   title: "月ノ美兎 at: cluster. ＆ YouTube『月ノ美兎のVR教室生放送』（4月28日に開催されるはずだったものが本日に延期）"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/990200945001705472
+- date: 2018-05-19
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/997562909348671488
 - date: 2018-05-19
   time:
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube 30000人企画"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/997562909348671488
 - date: 2018-05-19
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
-  uri: https://twitter.com/AliceMononobe
-- date: 2018-05-19
-  time: 
-  title: "お昼ごろ夜くらい～ 家長むぎ at:Mirrativ YouTubeに変更"
-  end_time: 
-  uri: https://twitter.com/ienaga_mugi23/status/997452416508248064
+  uri: https://twitter.com/ShizuRin23/status/997562909348671488
 - date: 2018-05-18
   time:
     hour: 2
