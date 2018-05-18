@@ -790,12 +790,6 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180519
-SUMMARY:お昼ごろ～ 家長むぎ at:Mirrativ YouTubeに変更
-URL:https://twitter.com/ienaga_mugi23/status/997095541791080448
-DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997095541791080448
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T140000
 SUMMARY:渋谷ハジメ at:YouTube
 URL:https://twitter.com/nijisanji_app/status/997366657457647616
@@ -818,6 +812,12 @@ DTSTART;TZID=Asia/Tokyo:20180519T230000
 SUMMARY:物述有栖 at:?
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519
+SUMMARY:お昼ごろ夜くらい～ 家長むぎ at:Mirrativ YouTubeに変更
+URL:https://twitter.com/ienaga_mugi23/status/997452416508248064
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997452416508248064
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T021300
@@ -887,7 +887,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/997413242463969280
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T234000
-SUMMARY:叶 at:OPENREC.tv PUBG(コラボの場合、別サイトに変更) 時間変更
+SUMMARY:叶 at:YouTube PUBG(渋谷ハジメ,静凛とのコラボ) 時間変更
 URL:https://twitter.com/Kanae_2434/status/997394134859055104
 DESCRIPTION:https://twitter.com/Kanae_2434/status/997394134859055104
 END:VEVENT

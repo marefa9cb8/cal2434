@@ -40,11 +40,6 @@
   end_time: 
   uri: 
 - date: 2018-05-19
-  time: 
-  title: "お昼ごろ～ 家長むぎ at:Mirrativ YouTubeに変更"
-  end_time: 
-  uri: https://twitter.com/ienaga_mugi23/status/997095541791080448
-- date: 2018-05-19
   time:
     hour: 14
     min: 0
@@ -72,6 +67,11 @@
   title: "物述有栖 at:?"
   end_time: 
   uri: https://twitter.com/AliceMononobe
+- date: 2018-05-19
+  time: 
+  title: "お昼ごろ夜くらい～ 家長むぎ at:Mirrativ YouTubeに変更"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/997452416508248064
 - date: 2018-05-18
   time:
     hour: 2
@@ -153,7 +153,7 @@
   time:
     hour: 23
     min: 40
-  title: "叶 at:OPENREC.tv PUBG(コラボの場合、別サイトに変更) 時間変更"
+  title: "叶 at:YouTube PUBG(渋谷ハジメ,静凛とのコラボ) 時間変更"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/997394134859055104
 - date: 2018-05-17
