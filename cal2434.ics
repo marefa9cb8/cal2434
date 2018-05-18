@@ -791,7 +791,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519
-SUMMARY:お昼ごろ～ 家長むぎ at:Mirrativ
+SUMMARY:お昼ごろ～ 家長むぎ at:Mirrativ YouTubeに変更
 URL:https://twitter.com/ienaga_mugi23/status/997095541791080448
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997095541791080448
 END:VEVENT
@@ -857,7 +857,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997386699142414337
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T190000
-SUMMARY:静凛 at:YouTube　セリフ枠（未定）
+SUMMARY:静凛 at:YouTube　セリフ枠
 URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
@@ -880,10 +880,16 @@ URL:https://twitter.com/ShizuRin23/status/997226644711469057
 DESCRIPTION:https://twitter.com/ShizuRin23/status/997226644711469057
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180518
-SUMMARY:咎人コラボ at:？ 剣持刀也放送にて
-URL:https://www.youtube.com/watch?v=3FPbyOo2ERc
-DESCRIPTION:https://www.youtube.com/watch?v=3FPbyOo2ERc
+DTSTART;TZID=Asia/Tokyo:20180518T223000
+SUMMARY:†咎人†コラボ(剣持刀也＆伏見ガク) at:剣持刀也YouTube
+URL:https://twitter.com/gaku_fushimi/status/997413242463969280
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/997413242463969280
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T234000
+SUMMARY:叶 at:OPENREC.tv PUBG(コラボの場合、別サイトに変更) 時間変更
+URL:https://twitter.com/Kanae_2434/status/997394134859055104
+DESCRIPTION:https://twitter.com/Kanae_2434/status/997394134859055104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180517T013300

@@ -41,7 +41,7 @@
   uri: 
 - date: 2018-05-19
   time: 
-  title: "お昼ごろ～ 家長むぎ at:Mirrativ"
+  title: "お昼ごろ～ 家長むぎ at:Mirrativ YouTubeに変更"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/997095541791080448
 - date: 2018-05-19
@@ -118,7 +118,7 @@
   time:
     hour: 19
     min: 0
-  title: "静凛 at:YouTube　セリフ枠（未定）"
+  title: "静凛 at:YouTube　セリフ枠"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-18
@@ -143,10 +143,19 @@
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/997226644711469057
 - date: 2018-05-18
-  time: 
-  title: "咎人コラボ at:？ 剣持刀也放送にて"
+  time:
+    hour: 22
+    min: 30
+  title: "†咎人†コラボ(剣持刀也＆伏見ガク) at:剣持刀也YouTube"
   end_time: 
-  uri: https://www.youtube.com/watch?v=3FPbyOo2ERc
+  uri: https://twitter.com/gaku_fushimi/status/997413242463969280
+- date: 2018-05-18
+  time:
+    hour: 23
+    min: 40
+  title: "叶 at:OPENREC.tv PUBG(コラボの場合、別サイトに変更) 時間変更"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/997394134859055104
 - date: 2018-05-17
   time:
     hour: 1
