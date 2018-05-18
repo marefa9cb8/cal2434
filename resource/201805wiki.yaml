@@ -69,28 +69,42 @@
   time:
     hour: 2
     min: 13
-  title: " 渋谷ハジメ at:YouTube"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/997163273832169472
 - date: 2018-05-18
   time:
     hour: 2
     min: 42
-  title: " ギルザレンⅢ世 at:YouTube"
+  title: "ギルザレンⅢ世 at:YouTube"
   end_time: 
   uri: https://twitter.com/Gilzaren_III/status/997170065064640513
 - date: 2018-05-18
   time:
     hour: 6
     min: 45
-  title: " 伏見ガク at:YouTube  おはガク 第11回"
+  title: "伏見ガク at:YouTube  おはガク 第11回"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/996804176641277952
 - date: 2018-05-18
   time:
+    hour: 17
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/997226644711469057
+- date: 2018-05-18
+  time:
+    hour: 17
+    min: 0
+  title: "(予定) 鈴鹿詩子 at:YouTube 定期配信"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/990084342406774784
+- date: 2018-05-18
+  time:
     hour: 19
     min: 0
-  title: "静凛 at: ?　セリフ枠（未定）"
+  title: "静凛 at:YouTube　セリフ枠（未定）"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/996123501902770176
 - date: 2018-05-18
@@ -100,6 +114,20 @@
   title: "樋口楓 at:YouTube"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/996718253501136896
+- date: 2018-05-18
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/997226644711469057
+- date: 2018-05-18
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube もいらじ"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/997226644711469057
 - date: 2018-05-18
   time: 
   title: "咎人コラボ at:？ 剣持刀也放送にて"

@@ -815,25 +815,37 @@ DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T021300
-SUMMARY: 渋谷ハジメ at:YouTube
+SUMMARY:渋谷ハジメ at:YouTube
 URL:https://twitter.com/sibuya_hajime/status/997163273832169472
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/997163273832169472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T024200
-SUMMARY: ギルザレンⅢ世 at:YouTube
+SUMMARY:ギルザレンⅢ世 at:YouTube
 URL:https://twitter.com/Gilzaren_III/status/997170065064640513
 DESCRIPTION:https://twitter.com/Gilzaren_III/status/997170065064640513
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T064500
-SUMMARY: 伏見ガク at:YouTube  おはガク 第11回
+SUMMARY:伏見ガク at:YouTube  おはガク 第11回
 URL:https://twitter.com/gaku_fushimi/status/996804176641277952
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/996804176641277952
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T170000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/ShizuRin23/status/997226644711469057
+DESCRIPTION:https://twitter.com/ShizuRin23/status/997226644711469057
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T170000
+SUMMARY:(予定) 鈴鹿詩子 at:YouTube 定期配信
+URL:https://twitter.com/suzukautako/status/990084342406774784
+DESCRIPTION:https://twitter.com/suzukautako/status/990084342406774784
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T190000
-SUMMARY:静凛 at: ?　セリフ枠（未定）
+SUMMARY:静凛 at:YouTube　セリフ枠（未定）
 URL:https://twitter.com/ShizuRin23/status/996123501902770176
 DESCRIPTION:https://twitter.com/ShizuRin23/status/996123501902770176
 END:VEVENT
@@ -842,6 +854,18 @@ DTSTART;TZID=Asia/Tokyo:20180518T203000
 SUMMARY:樋口楓 at:YouTube
 URL:https://twitter.com/HiguchiKaede/status/996718253501136896
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/996718253501136896
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/ShizuRin23/status/997226644711469057
+DESCRIPTION:https://twitter.com/ShizuRin23/status/997226644711469057
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180518T220000
+SUMMARY:モイラ at:YouTube もいらじ
+URL:https://twitter.com/ShizuRin23/status/997226644711469057
+DESCRIPTION:https://twitter.com/ShizuRin23/status/997226644711469057
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518
