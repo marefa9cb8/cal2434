@@ -790,6 +790,12 @@ URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T120000
+SUMMARY:家長むぎ at:YouTube ホラーゲーム
+URL:https://twitter.com/ienaga_mugi23/status/997834239725875201
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997834239725875201
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T123000
 SUMMARY:渋谷ハジメ at:?
 URL:https://twitter.com/nijisanji_app/status/997729672233304064
@@ -797,7 +803,8 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T130000
-SUMMARY:勇気ちひろ at:YouTube
+DTEND;TZID=Asia/Tokyo:20180520T220000
+SUMMARY:勇気ちひろ at:YouTube モバイル版PUBG
 URL:https://twitter.com/nijisanji_app/status/997729672233304064
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
 END:VEVENT
@@ -806,6 +813,12 @@ DTSTART;TZID=Asia/Tokyo:20180520T200000
 SUMMARY:える＆かざの森の友オフ会 at:森中花咲YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995609714347073536
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/995609714347073536
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T220000
+SUMMARY:モイラ at:? 勇気ちひろ生放送中に言及
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520
@@ -865,8 +878,14 @@ URL:https://twitter.com/ShizuRin23/status/997562909348671488
 DESCRIPTION:https://twitter.com/ShizuRin23/status/997562909348671488
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T213900
+SUMMARY:くらい～ 鈴鹿詩子 at:Mirrativ
+URL:https://twitter.com/suzukautako/status/997817748024582144
+DESCRIPTION:https://twitter.com/suzukautako/status/997817748024582144
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T221000
-SUMMARY:静凛 at:? FF14
+SUMMARY:静凛 at:YouTube FF14
 URL:https://twitter.com/ShizuRin23/status/997789387625656320
 DESCRIPTION:https://twitter.com/ShizuRin23/status/997789387625656320
 END:VEVENT
@@ -878,9 +897,9 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/997562909348671488
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T230000
-SUMMARY:叶 at:YouTube Cuphead
-URL:https://twitter.com/Kanae_2434/status/997780196265611264
-DESCRIPTION:https://twitter.com/Kanae_2434/status/997780196265611264
+SUMMARY:23時30分～ 叶 at:YouTube Cuphead
+URL:https://twitter.com/Kanae_2434/status/997837761456435201
+DESCRIPTION:https://twitter.com/Kanae_2434/status/997837761456435201
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T021300

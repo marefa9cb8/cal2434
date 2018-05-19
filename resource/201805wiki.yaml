@@ -44,6 +44,13 @@
 - date: 2018-05-20
   time:
     hour: 12
+    min: 0
+  title: "家長むぎ at:YouTube ホラーゲーム"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/997834239725875201
+- date: 2018-05-20
+  time:
+    hour: 12
     min: 30
   title: "渋谷ハジメ at:?"
   end_time: 
@@ -52,8 +59,10 @@
   time:
     hour: 13
     min: 0
-  title: "勇気ちひろ at:YouTube"
-  end_time: 
+  title: "勇気ちひろ at:YouTube モバイル版PUBG"
+  end_time:
+    hour: 22
+    min: 0
   uri: https://twitter.com/nijisanji_app/status/997729672233304064
 - date: 2018-05-20
   time:
@@ -62,6 +71,13 @@
   title: "える＆かざの森の友オフ会 at:森中花咲YouTube"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/995609714347073536
+- date: 2018-05-20
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:? 勇気ちひろ生放送中に言及"
+  end_time: 
+  uri: 
 - date: 2018-05-20
   time: 
   title: "樋口楓のしあわせおえかきの森配信はお休みです"
@@ -131,9 +147,16 @@
   uri: https://twitter.com/ShizuRin23/status/997562909348671488
 - date: 2018-05-19
   time:
+    hour: 21
+    min: 39
+  title: "くらい～ 鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/997817748024582144
+- date: 2018-05-19
+  time:
     hour: 22
     min: 10
-  title: "静凛 at:? FF14"
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/997789387625656320
 - date: 2018-05-19
@@ -147,9 +170,9 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:YouTube Cuphead"
+  title: 23時30分～ 叶 at:YouTube Cuphead
   end_time: 
-  uri: https://twitter.com/Kanae_2434/status/997780196265611264
+  uri: https://twitter.com/Kanae_2434/status/997837761456435201
 - date: 2018-05-18
   time:
     hour: 2
