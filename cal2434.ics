@@ -832,17 +832,18 @@ URL:https://twitter.com/suzukautako/status/997506710670524416
 DESCRIPTION:https://twitter.com/suzukautako/status/997506710670524416
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180519T200000
-SUMMARY:19時00分～ 家長むぎ at:Mirrativ YouTubeに変更
-URL:https://twitter.com/ienaga_mugi23/status/997452416508248064
-DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997452416508248064
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T180000
 DTEND;TZID=Asia/Tokyo:20180519T190000
 SUMMARY:勇気ちひろ at:YouTube
 URL:https://twitter.com/Chihiro_yuki23/status/997760798440091648
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/997760798440091648
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T190000
+DTEND;TZID=Asia/Tokyo:20180519T191500
+SUMMARY:に変更 家長むぎ at:Mirrativ YouTubeに変更
+URL:https://twitter.com/ienaga_mugi23/status/997452416508248064
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997452416508248064
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T200000
@@ -852,9 +853,10 @@ DESCRIPTION:https://twitter.com/MitoTsukino/status/990200945001705472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T200000
-SUMMARY:渋谷ハジメ at:YouTube
-URL:https://twitter.com/ShizuRin23/status/997562909348671488
-DESCRIPTION:https://twitter.com/ShizuRin23/status/997562909348671488
+DTEND;TZID=Asia/Tokyo:20180519T203000
+SUMMARY:~ 渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/997795876897570816
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/997795876897570816
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T213000
@@ -863,10 +865,22 @@ URL:https://twitter.com/ShizuRin23/status/997562909348671488
 DESCRIPTION:https://twitter.com/ShizuRin23/status/997562909348671488
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T221000
+SUMMARY:静凛 at:? FF14
+URL:https://twitter.com/ShizuRin23/status/997789387625656320
+DESCRIPTION:https://twitter.com/ShizuRin23/status/997789387625656320
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T230000
 SUMMARY:物述有栖 at:YouTube
 URL:https://twitter.com/ShizuRin23/status/997562909348671488
 DESCRIPTION:https://twitter.com/ShizuRin23/status/997562909348671488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T230000
+SUMMARY:叶 at:YouTube Cuphead
+URL:https://twitter.com/Kanae_2434/status/997780196265611264
+DESCRIPTION:https://twitter.com/Kanae_2434/status/997780196265611264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180518T021300
@@ -3545,5 +3559,11 @@ DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T210000
+SUMMARY:樋口楓＆青道アカト＆らんまる＆かしこまり＆パンディ at;YouTube かしこまりチャンネルにて
+URL:https://twitter.com/kashikomari_ch/status/997767426627391488
+DESCRIPTION:https://twitter.com/kashikomari_ch/status/997767426627391488
 END:VEVENT
 END:VCALENDAR
