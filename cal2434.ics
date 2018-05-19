@@ -790,6 +790,18 @@ URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T123000
+SUMMARY:渋谷ハジメ at:?
+URL:https://twitter.com/nijisanji_app/status/997729672233304064
+DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T130000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/997729672233304064
+DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T200000
 SUMMARY:える＆かざの森の友オフ会 at:森中花咲YouTube
 URL:https://twitter.com/KazakiMorinaka/status/995609714347073536
@@ -824,6 +836,13 @@ DTSTART;TZID=Asia/Tokyo:20180519T200000
 SUMMARY:19時00分～ 家長むぎ at:Mirrativ YouTubeに変更
 URL:https://twitter.com/ienaga_mugi23/status/997452416508248064
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997452416508248064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180519T180000
+DTEND;TZID=Asia/Tokyo:20180519T190000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/997760798440091648
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/997760798440091648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180519T200000

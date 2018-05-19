@@ -43,6 +43,20 @@
   uri: https://twitter.com/komarimasu365/status/997478762718482432
 - date: 2018-05-20
   time:
+    hour: 12
+    min: 30
+  title: "渋谷ハジメ at:?"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/997729672233304064
+- date: 2018-05-20
+  time:
+    hour: 13
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/997729672233304064
+- date: 2018-05-20
+  time:
     hour: 20
     min: 0
   title: "える＆かざの森の友オフ会 at:森中花咲YouTube"
@@ -81,6 +95,15 @@
   title: 19時00分～ 家長むぎ at:Mirrativ YouTubeに変更
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/997452416508248064
+- date: 2018-05-19
+  time:
+    hour: 18
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time:
+    hour: 19
+    min: 0
+  uri: https://twitter.com/Chihiro_yuki23/status/997760798440091648
 - date: 2018-05-19
   time:
     hour: 20
