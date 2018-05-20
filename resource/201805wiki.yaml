@@ -55,6 +55,13 @@
   title: "伏見ガク at:YouTube ねこまんま"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/997849877156515840
+- date: 2018-05-21
+  time:
+    hour: 13
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/998112174265401344
 - date: 2018-05-20
   time:
     hour: 2
@@ -117,9 +124,9 @@
   time:
     hour: 21
     min: 10
-  title: "静凛(配信予定)"
+  title: "静凛 at:"
   end_time: 
-  uri: https://twitter.com/ShizuRin23/status/998026756106801153
+  uri: https://twitter.com/nijisanji_app/status/998112174265401344
 - date: 2018-05-20
   time:
     hour: 22
@@ -127,6 +134,13 @@
   title: "モイラ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/998026756106801153
+- date: 2018-05-20
+  time:
+    hour: 22
+    min: 0
+  title: "ごろ？～ 叶 at:YouTube ソロPUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/998115102929793024
 - date: 2018-05-20
   time:
     hour: 23
