@@ -790,6 +790,12 @@ URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T010000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/ShizuRin23/status/998026756106801153
+DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T064500
 SUMMARY:伏見ガク at:YouTube ねこまんま
 URL:https://twitter.com/gaku_fushimi/status/997849877156515840
@@ -797,9 +803,21 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/997849877156515840
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T023300
-SUMMARY:ギルザレンIII世 at YouTube
+SUMMARY:ギルザレンIII世 at:YouTube
 URL:https://twitter.com/Gilzaren_III/status/997893995089952768
 DESCRIPTION:https://twitter.com/Gilzaren_III/status/997893995089952768
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T083100
+SUMMARY:叶 at:YouTube 雑談配信
+URL:https://twitter.com/Kanae_2434/status/997978434428067840
+DESCRIPTION:https://twitter.com/Kanae_2434/status/997978434428067840
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T095000
+SUMMARY:叶 at:YouTube ゲーム配信（視聴者参加型）
+URL:https://twitter.com/Kanae_2434/status/998002979557933058
+DESCRIPTION:https://twitter.com/Kanae_2434/status/998002979557933058
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T120000
@@ -827,10 +845,22 @@ URL:https://twitter.com/KazakiMorinaka/status/995609714347073536
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/995609714347073536
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T211000
+SUMMARY:静凛(配信予定)
+URL:https://twitter.com/ShizuRin23/status/998026756106801153
+DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T220000
-SUMMARY:モイラ at:? 勇気ちひろ生放送中に言及
-URL:
-DESCRIPTION:
+SUMMARY:モイラ at:YouTube 勇気ちひろ生放送中に言及
+URL:https://twitter.com/ShizuRin23/status/998026756106801153
+DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T230000
+SUMMARY:物述有栖 at:YouTube
+URL:https://twitter.com/ShizuRin23/status/998026756106801153
+DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520

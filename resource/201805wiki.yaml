@@ -43,6 +43,13 @@
   uri: https://twitter.com/komarimasu365/status/997478762718482432
 - date: 2018-05-21
   time:
+    hour: 1
+    min: 0
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/998026756106801153
+- date: 2018-05-21
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube ねこまんま"
@@ -52,9 +59,23 @@
   time:
     hour: 2
     min: 33
-  title: "ギルザレンIII世 at YouTube"
+  title: "ギルザレンIII世 at:YouTube"
   end_time: 
   uri: https://twitter.com/Gilzaren_III/status/997893995089952768
+- date: 2018-05-20
+  time:
+    hour: 8
+    min: 31
+  title: "叶 at:YouTube 雑談配信"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/997978434428067840
+- date: 2018-05-20
+  time:
+    hour: 9
+    min: 50
+  title: "叶 at:YouTube ゲーム配信（視聴者参加型）"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/998002979557933058
 - date: 2018-05-20
   time:
     hour: 12
@@ -87,11 +108,25 @@
   uri: https://twitter.com/KazakiMorinaka/status/995609714347073536
 - date: 2018-05-20
   time:
+    hour: 21
+    min: 10
+  title: "静凛(配信予定)"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/998026756106801153
+- date: 2018-05-20
+  time:
     hour: 22
     min: 0
-  title: "モイラ at:? 勇気ちひろ生放送中に言及"
+  title: "モイラ at:YouTube 勇気ちひろ生放送中に言及"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/998026756106801153
+- date: 2018-05-20
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/998026756106801153
 - date: 2018-05-20
   time: 
   title: "樋口楓のしあわせおえかきの森配信はお休みです"
