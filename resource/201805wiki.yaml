@@ -87,7 +87,7 @@
   time:
     hour: 12
     min: 30
-  title: "渋谷ハジメ at:?"
+  title: "渋谷ハジメ at:YouTube LoL大会、第一試合目（※5分の遅延あり、叶も同チームとして参加）"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/997729672233304064
 - date: 2018-05-20
@@ -99,6 +99,13 @@
     hour: 22
     min: 0
   uri: https://twitter.com/nijisanji_app/status/997729672233304064
+- date: 2018-05-20
+  time:
+    hour: 15
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/998053601988640768
 - date: 2018-05-20
   time:
     hour: 20
@@ -117,7 +124,7 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube 勇気ちひろ生放送中に言及"
+  title: "モイラ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/998026756106801153
 - date: 2018-05-20

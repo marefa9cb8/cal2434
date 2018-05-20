@@ -827,7 +827,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/997834239725875201
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T123000
-SUMMARY:渋谷ハジメ at:?
+SUMMARY:渋谷ハジメ at:YouTube LoL大会、第一試合目（※5分の遅延あり、叶も同チームとして参加）
 URL:https://twitter.com/nijisanji_app/status/997729672233304064
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
 END:VEVENT
@@ -837,6 +837,12 @@ DTEND;TZID=Asia/Tokyo:20180520T220000
 SUMMARY:勇気ちひろ at:YouTube モバイル版PUBG
 URL:https://twitter.com/nijisanji_app/status/997729672233304064
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180520T150000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/998053601988640768
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/998053601988640768
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T200000
@@ -852,7 +858,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T220000
-SUMMARY:モイラ at:YouTube 勇気ちひろ生放送中に言及
+SUMMARY:モイラ at:YouTube
 URL:https://twitter.com/ShizuRin23/status/998026756106801153
 DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
 END:VEVENT
