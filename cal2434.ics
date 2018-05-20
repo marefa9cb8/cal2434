@@ -755,7 +755,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T203000
-SUMMARY:剣持刀也 森中花咲コラボ at:Mirrativ にじさんじQ
+SUMMARY:剣持刀也&森中花咲 at:Mirrativ にじさんじQ
 URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
@@ -779,7 +779,13 @@ DESCRIPTION:https://twitter.com/maguraene/status/997490788064944128
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T200000
-SUMMARY:森中花咲の誕生日配信 at YouTube (5/17の配信にて告知)　お絵森をする
+SUMMARY:森中花咲の誕生日配信 at:YouTube (5/17の配信にて告知)　お絵森をする
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T210000
+SUMMARY:樋口楓 at:YouTube (本人のTwitterネームより)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -840,7 +846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T130000
 DTEND;TZID=Asia/Tokyo:20180520T220000
-SUMMARY:勇気ちひろ at:YouTube モバイル版PUBG
+SUMMARY:45分頃 勇気ちひろ at:YouTube モバイル版PUBG
 URL:https://twitter.com/nijisanji_app/status/997729672233304064
 DESCRIPTION:https://twitter.com/nijisanji_app/status/997729672233304064
 END:VEVENT
@@ -870,7 +876,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T220000
-SUMMARY:ごろ？～ 叶 at:YouTube ソロPUBG
+SUMMARY:ごろ？～ 叶 at:YouTube ソロPUBGネットの回線の調子が良くない為、中止
 URL:https://twitter.com/Kanae_2434/status/998115102929793024
 DESCRIPTION:https://twitter.com/Kanae_2434/status/998115102929793024
 END:VEVENT

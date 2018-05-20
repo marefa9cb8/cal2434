@@ -3,7 +3,7 @@
   time:
     hour: 20
     min: 30
-  title: "剣持刀也 森中花咲コラボ at:Mirrativ にじさんじQ"
+  title: "剣持刀也&森中花咲 at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-26
@@ -31,7 +31,14 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲の誕生日配信 at YouTube (5/17の配信にて告知)　お絵森をする"
+  title: "森中花咲の誕生日配信 at:YouTube (5/17の配信にて告知)　お絵森をする"
+  end_time: 
+  uri: 
+- date: 2018-05-23
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube (本人のTwitterネームより)"
   end_time: 
   uri: 
 - date: 2018-05-23
@@ -101,7 +108,7 @@
   time:
     hour: 13
     min: 0
-  title: "勇気ちひろ at:YouTube モバイル版PUBG"
+  title: 45分頃 勇気ちひろ at:YouTube モバイル版PUBG
   end_time:
     hour: 22
     min: 0
@@ -138,7 +145,7 @@
   time:
     hour: 22
     min: 0
-  title: "ごろ？～ 叶 at:YouTube ソロPUBG"
+  title: "ごろ？～ 叶 at:YouTube ソロPUBGネットの回線の調子が良くない為、中止"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/998115102929793024
 - date: 2018-05-20
