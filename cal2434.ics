@@ -802,6 +802,12 @@ URL:https://twitter.com/ShizuRin23/status/998026756106801153
 DESCRIPTION:https://twitter.com/ShizuRin23/status/998026756106801153
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T044700
+SUMMARY:叶 at:PUBG コラボ(静凛、渋谷ハジメ)
+URL:https://twitter.com/Kanae_2434/status/998282325375893504
+DESCRIPTION:https://twitter.com/Kanae_2434/status/998282325375893504
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T064500
 SUMMARY:伏見ガク at:YouTube ねこまんま
 URL:https://twitter.com/gaku_fushimi/status/997849877156515840
