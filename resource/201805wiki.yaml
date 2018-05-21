@@ -34,6 +34,13 @@
   title: "森中花咲 at:YouTube? はーとふる彼氏#3実況配信"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
+- date: 2018-05-24
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ twitterネームより at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23
 - date: 2018-05-23
   time:
     hour: 6
@@ -52,7 +59,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube (本人のTwitterネームより)"
+  title: "樋口楓 at:SHOWROOM (本人のTwitterネームより)"
   end_time: 
   uri: 
 - date: 2018-05-23
@@ -62,6 +69,13 @@
   title: "モイラ＆門叶困 at:YouTube モイラ様のYouTubeチャンネル"
   end_time: 
   uri: https://twitter.com/komarimasu365/status/997478762718482432
+- date: 2018-05-22
+  time:
+    hour: 18
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/998569514521407491
 - date: 2018-05-22
   time:
     hour: 21
@@ -134,16 +148,23 @@
   uri: https://twitter.com/nijisanji_app/status/998449450732273664
 - date: 2018-05-21
   time:
+    hour: 22
+    min: 43
+  title: "叶 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/998559866544246785
+- date: 2018-05-21
+  time:
     hour: 23
     min: 0
-  title: "える at:Mirrativ 昨日高熱とのことなので体調次第？"
+  title: "える at:Mirrativ 体調不良のため体調次第？→中止"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998449450732273664
 - date: 2018-05-21
   time:
     hour: 24
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 体調不良のため中止"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998449450732273664
 - date: 2018-05-20

@@ -784,6 +784,12 @@ URL:https://twitter.com/KazakiMorinaka/status/998521179446001664
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/998521179446001664
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T220000
+SUMMARY:家長むぎ twitterネームより at:YouTube
+URL:https://twitter.com/ienaga_mugi23
+DESCRIPTION:https://twitter.com/ienaga_mugi23
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T064500
 SUMMARY:伏見ガク at:YouTube
 URL:https://twitter.com/gaku_fushimi
@@ -797,7 +803,7 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/998521179446001664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T210000
-SUMMARY:樋口楓 at:YouTube (本人のTwitterネームより)
+SUMMARY:樋口楓 at:SHOWROOM (本人のTwitterネームより)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -806,6 +812,12 @@ DTSTART;TZID=Asia/Tokyo:20180523T220000
 SUMMARY:モイラ＆門叶困 at:YouTube モイラ様のYouTubeチャンネル
 URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T180000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/998569514521407491
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/998569514521407491
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T210000
@@ -868,14 +880,20 @@ URL:https://twitter.com/nijisanji_app/status/998449450732273664
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T224300
+SUMMARY:叶 at:OPENREC.tv PUBG
+URL:https://twitter.com/Kanae_2434/status/998559866544246785
+DESCRIPTION:https://twitter.com/Kanae_2434/status/998559866544246785
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T230000
-SUMMARY:える at:Mirrativ 昨日高熱とのことなので体調次第？
+SUMMARY:える at:Mirrativ 体調不良のため体調次第？→中止
 URL:https://twitter.com/nijisanji_app/status/998449450732273664
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T240000
-SUMMARY:剣持刀也 at:YouTube
+SUMMARY:剣持刀也 at:YouTube 体調不良のため中止
 URL:https://twitter.com/nijisanji_app/status/998449450732273664
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
 END:VEVENT
