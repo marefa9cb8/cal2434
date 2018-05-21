@@ -50,6 +50,13 @@
   uri: https://twitter.com/gaku_fushimi
 - date: 2018-05-23
   time:
+    hour: 11
+    min: 30
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/nekokan_chu/status/998595188032323584
+- date: 2018-05-23
+  time:
     hour: 20
     min: 0
   title: "森中花咲の誕生日配信at:YouTube (5/17の配信にて告知)　お絵森をする"
@@ -71,11 +78,11 @@
   uri: https://twitter.com/komarimasu365/status/997478762718482432
 - date: 2018-05-22
   time:
-    hour: 18
-    min: 0
-  title: "家長むぎ at:YouTube"
+    hour: 1
+    min: 30
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
-  uri: https://twitter.com/ienaga_mugi23/status/998569514521407491
+  uri: https://twitter.com/sibuya_hajime/status/998596914860863488
 - date: 2018-05-22
   time:
     hour: 21
@@ -83,6 +90,13 @@
   title: "月ノ美兎 at:YouTube　雑談配信"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/998493590291496960
+- date: 2018-05-22
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube 時間変更"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/998569514521407491
 - date: 2018-05-21
   time:
     hour: 1
