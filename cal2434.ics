@@ -820,6 +820,12 @@ URL:https://twitter.com/nijisanji_app/status/998112174265401344
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998112174265401344
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T220000
+SUMMARY:叶 at:YouTube
+URL:https://twitter.com/Kanae_2434/status/998410041618194432
+DESCRIPTION:https://twitter.com/Kanae_2434/status/998410041618194432
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T023300
 SUMMARY:ギルザレンIII世 at:YouTube
 URL:https://twitter.com/Gilzaren_III/status/997893995089952768
