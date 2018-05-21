@@ -796,6 +796,12 @@ URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T210000
+SUMMARY:月ノ美兎 Twitterネームより at:YouTube　雑談配信
+URL:https://twitter.com/MitoTsukino
+DESCRIPTION:https://twitter.com/MitoTsukino
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T010000
 SUMMARY:静凛 at:OPENREC.tv
 URL:https://twitter.com/ShizuRin23/status/998026756106801153
@@ -815,15 +821,45 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/997849877156515840
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T130000
-SUMMARY:静凛 at:YouTube
+SUMMARY:16時00分～ 静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/998112174265401344
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998112174265401344
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T190000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/998449450732273664
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/998449450732273664
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T220000
 SUMMARY:叶 at:YouTube
 URL:https://twitter.com/Kanae_2434/status/998410041618194432
 DESCRIPTION:https://twitter.com/Kanae_2434/status/998410041618194432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T223000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/998449450732273664
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T230000
+SUMMARY:える at:Mirrativ 昨日高熱とのことなので体調次第？
+URL:https://twitter.com/nijisanji_app/status/998449450732273664
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180521T240000
+SUMMARY:剣持刀也 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/998449450732273664
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998449450732273664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180520T023300
