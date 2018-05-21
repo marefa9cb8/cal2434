@@ -27,13 +27,27 @@
   title: "万楽えね＆月ノ美兎＆鈴鹿詩子 at:YouTube 万楽えねさんのYouTubeチャンネルにて"
   end_time: 
   uri: https://twitter.com/maguraene/status/997490788064944128
+- date: 2018-05-25
+  time:
+    hour: 22
+    min: 0
+  title: "森中花咲 at:YouTube? はーとふる彼氏#3実況配信"
+  end_time: 
+  uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
+- date: 2018-05-23
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi
 - date: 2018-05-23
   time:
     hour: 20
     min: 0
-  title: "森中花咲の誕生日配信 at:YouTube (5/17の配信にて告知)　お絵森をする"
+  title: "森中花咲の誕生日配信at:YouTube (5/17の配信にて告知)　お絵森をする"
   end_time: 
-  uri: 
+  uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
 - date: 2018-05-23
   time:
     hour: 21
@@ -52,9 +66,9 @@
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎 Twitterネームより at:YouTube　雑談配信"
+  title: "月ノ美兎 at:YouTube　雑談配信"
   end_time: 
-  uri: https://twitter.com/MitoTsukino
+  uri: https://twitter.com/MitoTsukino/status/998493590291496960
 - date: 2018-05-21
   time:
     hour: 1
@@ -90,6 +104,13 @@
   title: "静凛 at:OPENREC.tv"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998449450732273664
+- date: 2018-05-21
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/998497603112218625
 - date: 2018-05-21
   time:
     hour: 21
