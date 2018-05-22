@@ -791,6 +791,12 @@ URL:https://twitter.com/KazakiMorinaka/status/998521179446001664
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/998521179446001664
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525
+SUMMARY:夜？ 赤羽葉子 at:YouTube 初生放送
+URL:https://twitter.com/Youko_Akabane/status/998823905644003328
+DESCRIPTION:https://twitter.com/Youko_Akabane/status/998823905644003328
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T220000
 SUMMARY:家長むぎ twitterネームより at:YouTube
 URL:https://twitter.com/ienaga_mugi23
@@ -840,16 +846,52 @@ URL:https://twitter.com/sibuya_hajime/status/998596914860863488
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/998596914860863488
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T180000
+SUMMARY:勇気ちひろ at:Mirrativ
+URL:https://twitter.com/Chihiro_yuki23/status/998845967989260288:
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/998845967989260288:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T190000
+SUMMARY:宇志海いちご at:YouTube?
+URL:https://twitter.com/nijisanji_app/status/998817325091504129
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T210000
-SUMMARY:月ノ美兎 at:YouTube　雑談配信
+SUMMARY:月ノ美兎 at:YouTube　雑談配信 (仮)
 URL:https://twitter.com/MitoTsukino/status/998493590291496960
 DESCRIPTION:https://twitter.com/MitoTsukino/status/998493590291496960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T211500
+SUMMARY:静凛 at:YouTube?
+URL:https://twitter.com/nijisanji_app/status/998817325091504129
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T213000
+SUMMARY:鈴谷アキ at:YouTube?
+URL:https://twitter.com/nijisanji_app/status/998817325091504129
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T220000
 SUMMARY:家長むぎ at:YouTube 時間変更
 URL:https://twitter.com/ienaga_mugi23/status/998569514521407491
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/998569514521407491
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T223000
+SUMMARY:剣持刀也 at:YouTube?
+URL:https://twitter.com/nijisanji_app/status/998817325091504129
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180522T230000
+SUMMARY:静凛 at:YouTube?
+URL:https://twitter.com/nijisanji_app/status/998817325091504129
+DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180521T010000
