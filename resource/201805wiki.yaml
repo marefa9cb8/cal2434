@@ -87,11 +87,11 @@
   uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
 - date: 2018-05-23
   time:
-    hour: 21
+    hour: 22
     min: 0
-  title: "樋口楓 at:SHOWROOM (本人のTwitterネームより)"
+  title: "樋口楓 at:SHOWROOM"
   end_time: 
-  uri: 
+  uri: https://twitter.com/HiguchiKaede/status/998932025900908545
 - date: 2018-05-23
   time:
     hour: 22
@@ -138,7 +138,7 @@
   time:
     hour: 21
     min: 15
-  title: "静凛 at:YouTube?"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998817325091504129
 - date: 2018-05-22
@@ -159,7 +159,7 @@
   time:
     hour: 22
     min: 30
-  title: "剣持刀也 at:YouTube?"
+  title: "剣持刀也 at:YouTube CIV"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998817325091504129
 - date: 2018-05-22
@@ -169,6 +169,13 @@
   title: "静凛 at:YouTube?"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/998817325091504129
+- date: 2018-05-22
+  time:
+    hour: 24
+    min: 0
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/998912763874299904
 - date: 2018-05-21
   time:
     hour: 1
