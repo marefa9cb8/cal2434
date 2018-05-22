@@ -15,6 +15,15 @@
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-25
   time:
+    hour: 19
+    min: 0
+  title: "鈴鹿詩子 at:SHOWROOM"
+  end_time:
+    hour: 20
+    min: 0
+  uri: https://twitter.com/suzukautako/status/998712115761364993
+- date: 2018-05-25
+  time:
     hour: 20
     min: 30
   title: "文野環(野良猫) at:Mirrativ にじさんじQ"
@@ -55,6 +64,15 @@
   title: "文野環 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/nekokan_chu/status/998595188032323584
+- date: 2018-05-23
+  time:
+    hour: 19
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time:
+    hour: 20
+    min: 0
+  uri: https://twitter.com/suzukautako/status/998712115761364993
 - date: 2018-05-23
   time:
     hour: 20
