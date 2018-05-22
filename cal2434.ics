@@ -840,6 +840,12 @@ URL:https://twitter.com/komarimasu365/status/997478762718482432
 DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T230000
+SUMMARY:物述有栖 at:?
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T013000
 SUMMARY:渋谷ハジメ at:YouTube
 URL:https://twitter.com/sibuya_hajime/status/998596914860863488
@@ -853,7 +859,7 @@ DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/998845967989260288:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T190000
-SUMMARY:宇志海いちご at:YouTube?
+SUMMARY:宇志海いちご at:YouTube
 URL:https://twitter.com/nijisanji_app/status/998817325091504129
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
 END:VEVENT
@@ -871,7 +877,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T213000
-SUMMARY:鈴谷アキ at:YouTube?
+SUMMARY:鈴谷アキ at:YouTube
 URL:https://twitter.com/nijisanji_app/status/998817325091504129
 DESCRIPTION:https://twitter.com/nijisanji_app/status/998817325091504129
 END:VEVENT
