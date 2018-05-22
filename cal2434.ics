@@ -803,6 +803,12 @@ URL:https://twitter.com/ienaga_mugi23
 DESCRIPTION:https://twitter.com/ienaga_mugi23
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T033000
+SUMMARY:叶（深夜三傑RKS） at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/998965715032989704
+DESCRIPTION:https://twitter.com/Kanae_2434/status/998965715032989704
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T064500
 SUMMARY:伏見ガク at:YouTube
 URL:https://twitter.com/gaku_fushimi
