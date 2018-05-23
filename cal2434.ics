@@ -754,6 +754,13 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T190000
+DTEND;TZID=Asia/Tokyo:20180527T203000
+SUMMARY:樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T203000
 SUMMARY:剣持刀也&森中花咲 at:Mirrativ にじさんじQ
 URL:https://www.moguravr.com/vtuber-nijisanji-q/
@@ -795,6 +802,12 @@ DTSTART;TZID=Asia/Tokyo:20180525
 SUMMARY:夜？ 赤羽葉子 at:YouTube 初生放送
 URL:https://twitter.com/Youko_Akabane/status/998823905644003328
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/998823905644003328
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T120000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/999282045955194880
+DESCRIPTION:https://twitter.com/suzukautako/status/999282045955194880
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T220000
@@ -856,6 +869,12 @@ DTSTART;TZID=Asia/Tokyo:20180523T230000
 SUMMARY:物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T233000
+SUMMARY:叶 at:YouTube DEATH COIMNG
+URL:https://twitter.com/Kanae_2434/status/999276377885962240
+DESCRIPTION:https://twitter.com/Kanae_2434/status/999276377885962240
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180522T013000

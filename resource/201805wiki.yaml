@@ -1,6 +1,15 @@
 ---
 - date: 2018-05-27
   time:
+    hour: 19
+    min: 0
+  title: "樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）"
+  end_time:
+    hour: 20
+    min: 30
+  uri: 
+- date: 2018-05-27
+  time:
     hour: 20
     min: 30
   title: "剣持刀也&森中花咲 at:Mirrativ にじさんじQ"
@@ -48,6 +57,13 @@
   title: "夜？ 赤羽葉子 at:YouTube 初生放送"
   end_time: 
   uri: https://twitter.com/Youko_Akabane/status/998823905644003328
+- date: 2018-05-24
+  time:
+    hour: 12
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/999282045955194880
 - date: 2018-05-24
   time:
     hour: 22
@@ -120,6 +136,13 @@
   title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe
+- date: 2018-05-23
+  time:
+    hour: 23
+    min: 30
+  title: "叶 at:YouTube DEATH COIMNG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/999276377885962240
 - date: 2018-05-22
   time:
     hour: 1
