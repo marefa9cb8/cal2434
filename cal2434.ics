@@ -822,6 +822,12 @@ URL:https://twitter.com/Moiramoimoimoi/status/999332768143228928
 DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/999332768143228928
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T013700
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/999328594861047809
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/999328594861047809
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T120000
 SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/999282045955194880
