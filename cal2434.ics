@@ -821,12 +821,6 @@ URL:https://twitter.com/nekokan_chu/status/998595188032323584
 DESCRIPTION:https://twitter.com/nekokan_chu/status/998595188032323584
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180523T190000
-SUMMARY:21時15分～ 鈴鹿詩子 at:YouTube
-URL:https://twitter.com/suzukautako/status/999200312677183489
-DESCRIPTION:https://twitter.com/suzukautako/status/999200312677183489
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T200000
 SUMMARY:森中花咲の誕生日配信at:YouTube (5/17の配信にて告知)　お絵森をする
 URL:https://twitter.com/KazakiMorinaka/status/998521179446001664
@@ -838,6 +832,12 @@ DTEND;TZID=Asia/Tokyo:20180523T220000
 SUMMARY:樋口楓 at:SHOWROOM
 URL:https://twitter.com/HiguchiKaede/status/998932025900908545
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/998932025900908545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T190000
+SUMMARY:21時15分～ 鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/999200312677183489
+DESCRIPTION:https://twitter.com/suzukautako/status/999200312677183489
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T213000

@@ -78,13 +78,6 @@
   uri: https://twitter.com/nekokan_chu/status/998595188032323584
 - date: 2018-05-23
   time:
-    hour: 19
-    min: 0
-  title: 21時15分～ 鈴鹿詩子 at:YouTube
-  end_time: 
-  uri: https://twitter.com/suzukautako/status/999200312677183489
-- date: 2018-05-23
-  time:
     hour: 20
     min: 0
   title: "森中花咲の誕生日配信at:YouTube (5/17の配信にて告知)　お絵森をする"
@@ -99,6 +92,13 @@
     hour: 22
     min: 0
   uri: https://twitter.com/HiguchiKaede/status/998932025900908545
+- date: 2018-05-23
+  time:
+    hour: 19
+    min: 0
+  title: 21時15分～ 鈴鹿詩子 at:YouTube
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/999200312677183489
 - date: 2018-05-23
   time:
     hour: 21
