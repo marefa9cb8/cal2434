@@ -15,6 +15,13 @@
   title: "剣持刀也&森中花咲 at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
+- date: 2018-05-27
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/999309816890732544
 - date: 2018-05-26
   time:
     hour: 16
@@ -22,6 +29,13 @@
   title: "家長むぎ at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
+- date: 2018-05-25
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube 要デザート"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/999057697528926208
 - date: 2018-05-25
   time:
     hour: 19
@@ -59,18 +73,18 @@
   uri: https://twitter.com/Youko_Akabane/status/998823905644003328
 - date: 2018-05-24
   time:
+    hour: 2
+    min: 0
+  title: "モイラ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/999332768143228928
+- date: 2018-05-24
+  time:
     hour: 12
     min: 0
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: https://twitter.com/suzukautako/status/999282045955194880
-- date: 2018-05-24
-  time:
-    hour: 22
-    min: 0
-  title: "家長むぎ twitterネームより at:YouTube"
-  end_time: 
-  uri: https://twitter.com/ienaga_mugi23
 - date: 2018-05-23
   time:
     hour: 3
@@ -92,6 +106,13 @@
   title: "文野環 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/nekokan_chu/status/998595188032323584
+- date: 2018-05-23
+  time:
+    hour: 18
+    min: 4
+  title: "渋谷ハジメ at:YouTube NierAutomata#１"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/999214382696488960
 - date: 2018-05-23
   time:
     hour: 20

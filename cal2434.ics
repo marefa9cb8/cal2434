@@ -767,10 +767,22 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T220000
+SUMMARY:物述有栖 at:YouTube
+URL:https://twitter.com/AliceMononobe/status/999309816890732544
+DESCRIPTION:https://twitter.com/AliceMononobe/status/999309816890732544
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T160000
 SUMMARY:家長むぎ at:Mirrativ にじさんじQ
 URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T064500
+SUMMARY:伏見ガク at:YouTube 要デザート
+URL:https://twitter.com/gaku_fushimi/status/999057697528926208
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/999057697528926208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T190000
@@ -804,16 +816,16 @@ URL:https://twitter.com/Youko_Akabane/status/998823905644003328
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/998823905644003328
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T020000
+SUMMARY:モイラ at:Mirrativ
+URL:https://twitter.com/Moiramoimoimoi/status/999332768143228928
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/999332768143228928
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T120000
 SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/999282045955194880
 DESCRIPTION:https://twitter.com/suzukautako/status/999282045955194880
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180524T220000
-SUMMARY:家長むぎ twitterネームより at:YouTube
-URL:https://twitter.com/ienaga_mugi23
-DESCRIPTION:https://twitter.com/ienaga_mugi23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T033000
@@ -832,6 +844,12 @@ DTSTART;TZID=Asia/Tokyo:20180523T113000
 SUMMARY:文野環 at:Mirrativ
 URL:https://twitter.com/nekokan_chu/status/998595188032323584
 DESCRIPTION:https://twitter.com/nekokan_chu/status/998595188032323584
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T180400
+SUMMARY:渋谷ハジメ at:YouTube NierAutomata#１
+URL:https://twitter.com/sibuya_hajime/status/999214382696488960
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/999214382696488960
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T200000
