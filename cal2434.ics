@@ -768,9 +768,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T190000
 DTEND;TZID=Asia/Tokyo:20180525T200000
-SUMMARY:鈴鹿詩子 at:SHOWROOM
-URL:https://twitter.com/suzukautako/status/998712115761364993
-DESCRIPTION:https://twitter.com/suzukautako/status/998712115761364993
+SUMMARY:20時00分～21時00分 鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/999200312677183489
+DESCRIPTION:https://twitter.com/suzukautako/status/999200312677183489
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T203000
@@ -822,9 +822,9 @@ DESCRIPTION:https://twitter.com/nekokan_chu/status/998595188032323584
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T190000
-SUMMARY:鈴鹿詩子 at:YouTube
-URL:https://twitter.com/suzukautako/status/998712115761364993
-DESCRIPTION:https://twitter.com/suzukautako/status/998712115761364993
+SUMMARY:21時15分～ 鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/999200312677183489
+DESCRIPTION:https://twitter.com/suzukautako/status/999200312677183489
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T200000
@@ -833,10 +833,17 @@ URL:https://twitter.com/KazakiMorinaka/status/998521179446001664
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/998521179446001664
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180523T220000
+DTSTART;TZID=Asia/Tokyo:20180523T210000
+DTEND;TZID=Asia/Tokyo:20180523T220000
 SUMMARY:樋口楓 at:SHOWROOM
 URL:https://twitter.com/HiguchiKaede/status/998932025900908545
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/998932025900908545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180523T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/999176043289169920
+DESCRIPTION:https://twitter.com/nijisanji_app/status/999176043289169920
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T220000
@@ -846,7 +853,7 @@ DESCRIPTION:https://twitter.com/komarimasu365/status/997478762718482432
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T230000
-SUMMARY:物述有栖 at:?
+SUMMARY:物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT

@@ -17,11 +17,11 @@
   time:
     hour: 19
     min: 0
-  title: "鈴鹿詩子 at:SHOWROOM"
+  title: 20時00分～21時00分 鈴鹿詩子 at:SHOWROOM
   end_time:
     hour: 20
     min: 0
-  uri: https://twitter.com/suzukautako/status/998712115761364993
+  uri: https://twitter.com/suzukautako/status/999200312677183489
 - date: 2018-05-25
   time:
     hour: 20
@@ -80,9 +80,9 @@
   time:
     hour: 19
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: 21時15分～ 鈴鹿詩子 at:YouTube
   end_time: 
-  uri: https://twitter.com/suzukautako/status/998712115761364993
+  uri: https://twitter.com/suzukautako/status/999200312677183489
 - date: 2018-05-23
   time:
     hour: 20
@@ -92,11 +92,20 @@
   uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
 - date: 2018-05-23
   time:
-    hour: 22
+    hour: 21
     min: 0
   title: "樋口楓 at:SHOWROOM"
-  end_time: 
+  end_time:
+    hour: 22
+    min: 0
   uri: https://twitter.com/HiguchiKaede/status/998932025900908545
+- date: 2018-05-23
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999176043289169920
 - date: 2018-05-23
   time:
     hour: 22
@@ -108,7 +117,7 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe
 - date: 2018-05-22
