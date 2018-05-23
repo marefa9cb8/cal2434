@@ -59,7 +59,7 @@
   time:
     hour: 3
     min: 30
-  title: "叶（深夜三傑RKS） at:YouTube PUBG"
+  title: "叶（深夜三傑RKS） at:YouTube PUBG（鯖落ちのため途中麻雀、復旧後PUBG）"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/998965715032989704
 - date: 2018-05-23
@@ -81,9 +81,7 @@
     hour: 19
     min: 0
   title: "鈴鹿詩子 at:YouTube"
-  end_time:
-    hour: 20
-    min: 0
+  end_time: 
   uri: https://twitter.com/suzukautako/status/998712115761364993
 - date: 2018-05-23
   time:

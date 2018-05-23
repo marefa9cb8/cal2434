@@ -804,7 +804,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T033000
-SUMMARY:叶（深夜三傑RKS） at:YouTube PUBG
+SUMMARY:叶（深夜三傑RKS） at:YouTube PUBG（鯖落ちのため途中麻雀、復旧後PUBG）
 URL:https://twitter.com/Kanae_2434/status/998965715032989704
 DESCRIPTION:https://twitter.com/Kanae_2434/status/998965715032989704
 END:VEVENT
@@ -822,7 +822,6 @@ DESCRIPTION:https://twitter.com/nekokan_chu/status/998595188032323584
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T190000
-DTEND;TZID=Asia/Tokyo:20180523T200000
 SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/998712115761364993
 DESCRIPTION:https://twitter.com/suzukautako/status/998712115761364993
