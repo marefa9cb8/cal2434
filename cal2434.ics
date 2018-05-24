@@ -779,6 +779,12 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T190000
+SUMMARY:樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠
+URL:https://twitter.com/HiguchiKaede/status/999248855316160512
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/999248855316160512
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T064500
 SUMMARY:伏見ガク at:YouTube 要デザート
 URL:https://twitter.com/gaku_fushimi/status/999057697528926208
@@ -858,10 +864,22 @@ URL:https://twitter.com/ienaga_mugi23/status/999420124732964864
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/999420124732964864
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T192500
+SUMMARY:文野環 at:Mirrativ
+URL:https://twitter.com/nekokan_chu/status/999597968406675456
+DESCRIPTION:https://twitter.com/nekokan_chu/status/999597968406675456
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T193000
-SUMMARY:勇気ちひろ at:？
-URL:https://twitter.com/nijisanji_app/status/999537984574652416
-DESCRIPTION:https://twitter.com/nijisanji_app/status/999537984574652416
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/999589021025165312
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/999589021025165312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T194700
+SUMMARY:渋谷ハジメ at:YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/999602854179389445
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/999602854179389445
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T213000

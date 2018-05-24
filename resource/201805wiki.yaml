@@ -29,6 +29,13 @@
   title: "家長むぎ at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
+- date: 2018-05-26
+  time:
+    hour: 19
+    min: 0
+  title: "樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/999248855316160512
 - date: 2018-05-25
   time:
     hour: 6
@@ -123,10 +130,24 @@
 - date: 2018-05-24
   time:
     hour: 19
-    min: 30
-  title: "勇気ちひろ at:？"
+    min: 25
+  title: "文野環 at:Mirrativ"
   end_time: 
-  uri: https://twitter.com/nijisanji_app/status/999537984574652416
+  uri: https://twitter.com/nekokan_chu/status/999597968406675456
+- date: 2018-05-24
+  time:
+    hour: 19
+    min: 30
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Chihiro_yuki23/status/999589021025165312
+- date: 2018-05-24
+  time:
+    hour: 19
+    min: 47
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/999602854179389445
 - date: 2018-05-24
   time:
     hour: 21
