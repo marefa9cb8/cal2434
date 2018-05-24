@@ -40,7 +40,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube 要デザート"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/999057697528926208
 - date: 2018-05-25
@@ -63,7 +63,7 @@
   time:
     hour: 22
     min: 0
-  title: "万楽えね＆月ノ美兎＆鈴鹿詩子 at:YouTube 万楽えねさんのYouTubeチャンネルにて"
+  title: "万楽えね＆月ノ美兎＆鈴鹿詩子 at:OPENREC"
   end_time: 
   uri: https://twitter.com/maguraene/status/997490788064944128
 - date: 2018-05-25
@@ -162,6 +162,13 @@
   title: "静凛 at:YouTube DARK SOULS remastered"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/999571676957294593
+- date: 2018-05-24
+  time:
+    hour: 23
+    min: 45
+  title: "叶 at: YouTube Fortnite"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/999662531827220481
 - date: 2018-05-23
   time:
     hour: 3
