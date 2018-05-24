@@ -846,16 +846,34 @@ URL:https://twitter.com/suzukautako/status/999282045955194880
 DESCRIPTION:https://twitter.com/suzukautako/status/999282045955194880
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T173500
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/999569536545316864
+DESCRIPTION:https://twitter.com/Kanae_2434/status/999569536545316864
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T190000
 SUMMARY:家長むぎ at:YouTube クロエのレクイエム
 URL:https://twitter.com/ienaga_mugi23/status/999420124732964864
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/999420124732964864
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T193000
+SUMMARY:勇気ちひろ at:？
+URL:https://twitter.com/nijisanji_app/status/999537984574652416
+DESCRIPTION:https://twitter.com/nijisanji_app/status/999537984574652416
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T213000
 SUMMARY:鈴谷アキ at:YouTube
 URL:https://twitter.com/ShizuRin23/status/999376274987466752
 DESCRIPTION:https://twitter.com/ShizuRin23/status/999376274987466752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180524T223000
+SUMMARY:静凛 at:YouTube DARK SOULS remastered
+URL:https://twitter.com/ShizuRin23/status/999571676957294593
+DESCRIPTION:https://twitter.com/ShizuRin23/status/999571676957294593
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180523T033000

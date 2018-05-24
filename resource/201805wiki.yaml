@@ -108,6 +108,13 @@
   uri: https://twitter.com/suzukautako/status/999282045955194880
 - date: 2018-05-24
   time:
+    hour: 17
+    min: 35
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/999569536545316864
+- date: 2018-05-24
+  time:
     hour: 19
     min: 0
   title: "家長むぎ at:YouTube クロエのレクイエム"
@@ -115,11 +122,25 @@
   uri: https://twitter.com/ienaga_mugi23/status/999420124732964864
 - date: 2018-05-24
   time:
+    hour: 19
+    min: 30
+  title: "勇気ちひろ at:？"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999537984574652416
+- date: 2018-05-24
+  time:
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/999376274987466752
+- date: 2018-05-24
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube DARK SOULS remastered"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/999571676957294593
 - date: 2018-05-23
   time:
     hour: 3
