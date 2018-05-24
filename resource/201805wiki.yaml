@@ -38,6 +38,20 @@
   uri: https://twitter.com/HiguchiKaede/status/999248855316160512
 - date: 2018-05-25
   time:
+    hour: 0
+    min: 0
+  title: "叶 at:YouTube 雑談配信,DBD"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/999667288910446592
+- date: 2018-05-25
+  time:
+    hour: 1
+    min: 53
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/999695088606298114
+- date: 2018-05-25
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube"

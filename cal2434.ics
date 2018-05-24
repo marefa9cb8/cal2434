@@ -785,6 +785,18 @@ URL:https://twitter.com/HiguchiKaede/status/999248855316160512
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/999248855316160512
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T000000
+SUMMARY:叶 at:YouTube 雑談配信,DBD
+URL:https://twitter.com/Kanae_2434/status/999667288910446592
+DESCRIPTION:https://twitter.com/Kanae_2434/status/999667288910446592
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T015300
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/999695088606298114
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/999695088606298114
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T064500
 SUMMARY:伏見ガク at:YouTube
 URL:https://twitter.com/gaku_fushimi/status/999057697528926208
