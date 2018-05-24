@@ -73,11 +73,11 @@
   uri: https://twitter.com/Youko_Akabane/status/998823905644003328
 - date: 2018-05-24
   time:
-    hour: 2
-    min: 0
-  title: "モイラ at:Mirrativ"
+    hour: 1
+    min: 15
+  title: "静凛 at:YouTube"
   end_time: 
-  uri: https://twitter.com/Moiramoimoimoi/status/999332768143228928
+  uri: 
 - date: 2018-05-24
   time:
     hour: 1
@@ -87,11 +87,39 @@
   uri: https://twitter.com/sibuya_hajime/status/999328594861047809
 - date: 2018-05-24
   time:
+    hour: 2
+    min: 0
+  title: "モイラ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/999332768143228928
+- date: 2018-05-24
+  time:
+    hour: 4
+    min: 5
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-05-24
+  time:
     hour: 12
     min: 0
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: https://twitter.com/suzukautako/status/999282045955194880
+- date: 2018-05-24
+  time:
+    hour: 19
+    min: 0
+  title: "家長むぎ at:YouTube クロエのレクイエム"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/999420124732964864
+- date: 2018-05-24
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/999376274987466752
 - date: 2018-05-23
   time:
     hour: 3
