@@ -38,6 +38,13 @@
   uri: https://twitter.com/AliceMononobe/status/999309816890732544
 - date: 2018-05-26
   time:
+    hour: 0
+    min: 30
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000035782130724865
+- date: 2018-05-26
+  time:
     hour: 1
     min: 0
   title: "静凛 at:YouTube"
