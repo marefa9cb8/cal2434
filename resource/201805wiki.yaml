@@ -54,16 +54,16 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube"
+  title: "伏見ガク at:YouTube デュアル2万人記念配信"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/999057697528926208
 - date: 2018-05-25
   time:
-    hour: 19
-    min: 0
-  title: 20時00分～21時00分 鈴鹿詩子 at:SHOWROOM
-  end_time:
     hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:SHOWROOM"
+  end_time:
+    hour: 21
     min: 0
   uri: https://twitter.com/suzukautako/status/999200312677183489
 - date: 2018-05-25
