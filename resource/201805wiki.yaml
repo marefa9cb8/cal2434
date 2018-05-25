@@ -24,6 +24,13 @@
   uri: https://twitter.com/AliceMononobe/status/999309816890732544
 - date: 2018-05-26
   time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999900432829841408
+- date: 2018-05-26
+  time:
     hour: 16
     min: 0
   title: "家長むぎ at:Mirrativ にじさんじQ"
@@ -59,6 +66,15 @@
   uri: https://twitter.com/gaku_fushimi/status/999057697528926208
 - date: 2018-05-25
   time:
+    hour: 18
+    min: 0
+  title: "～ 渋谷ハジメ at:YouTube"
+  end_time:
+    hour: 17
+    min: 21
+  uri: https://twitter.com/sibuya_hajime/status/999928529729896448
+- date: 2018-05-25
+  time:
     hour: 19
     min: 30
   title: "赤羽葉子 at:YouTube 初生放送"
@@ -82,6 +98,13 @@
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-25
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999900431655436288
+- date: 2018-05-25
+  time:
     hour: 22
     min: 0
   title: "万楽えね＆月ノ美兎＆鈴鹿詩子 at:OPENREC"
@@ -94,6 +117,20 @@
   title: "森中花咲 at:YouTube はーとふる彼氏#3実況配信"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
+- date: 2018-05-25
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube MoimoiRadio"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999900432829841408
+- date: 2018-05-25
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999900432829841408
 - date: 2018-05-24
   time:
     hour: 1
