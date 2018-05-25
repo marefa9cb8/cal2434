@@ -754,6 +754,12 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T210000
+SUMMARY:森中花咲：初めての歌＆セリフ枠　at:Youtube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T140000
 SUMMARY:宇志海いちご at:??
 URL:https://twitter.com/ushimi_ichigo/status/999940667714371584
@@ -871,10 +877,22 @@ URL:https://twitter.com/nijisanji_app/status/999900432829841408
 DESCRIPTION:https://twitter.com/nijisanji_app/status/999900432829841408
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T224500
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/999900432829841408
+DESCRIPTION:https://twitter.com/nijisanji_app/status/999900432829841408
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T230000
 SUMMARY:叶 at:YouTube
 URL:https://twitter.com/Kanae_2434/status/999976039844495361
 DESCRIPTION:https://twitter.com/Kanae_2434/status/999976039844495361
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T235500
+SUMMARY:夕陽リリ at:Mirrativ
+URL:https://twitter.com/Yuuhi_Riri/status/1000027189650210816
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1000027189650210816
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T240000
@@ -3990,6 +4008,12 @@ DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T190000
+SUMMARY:うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット
+URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T210000

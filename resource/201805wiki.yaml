@@ -1,4 +1,11 @@
 ---
+- date: 2018-05-29
+  time:
+    hour: 21
+    min: 0
+  title: "森中花咲：初めての歌＆セリフ枠　at:Youtube"
+  end_time: 
+  uri: 
 - date: 2018-05-27
   time:
     hour: 14
@@ -140,11 +147,25 @@
   uri: https://twitter.com/nijisanji_app/status/999900432829841408
 - date: 2018-05-25
   time:
+    hour: 22
+    min: 45
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/999900432829841408
+- date: 2018-05-25
+  time:
     hour: 23
     min: 0
   title: "叶 at:YouTube"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/999976039844495361
+- date: 2018-05-25
+  time:
+    hour: 23
+    min: 55
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1000027189650210816
 - date: 2018-05-25
   time:
     hour: 24
