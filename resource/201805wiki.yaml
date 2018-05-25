@@ -47,9 +47,16 @@
   time:
     hour: 1
     min: 0
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/999900432829841408
+- date: 2018-05-26
+  time:
+    hour: 2
+    min: 45
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1000070727125557248
 - date: 2018-05-26
   time:
     hour: 16

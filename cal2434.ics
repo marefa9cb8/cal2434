@@ -792,9 +792,15 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1000035782130724865
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T010000
-SUMMARY:静凛 at:YouTube
+SUMMARY:静凛 at:YouTube FF14
 URL:https://twitter.com/nijisanji_app/status/999900432829841408
 DESCRIPTION:https://twitter.com/nijisanji_app/status/999900432829841408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T024500
+SUMMARY:渋谷ハジメ at:YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/1000070727125557248
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1000070727125557248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T160000
