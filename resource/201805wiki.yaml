@@ -59,6 +59,13 @@
   uri: https://twitter.com/gaku_fushimi/status/999057697528926208
 - date: 2018-05-25
   time:
+    hour: 19
+    min: 30
+  title: "赤羽葉子 at:YouTube 初生放送"
+  end_time: 
+  uri: https://twitter.com/Youko_Akabane/status/999859265044078593
+- date: 2018-05-25
+  time:
     hour: 20
     min: 0
   title: "鈴鹿詩子 at:SHOWROOM"
@@ -87,11 +94,6 @@
   title: "森中花咲 at:YouTube はーとふる彼氏#3実況配信"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/998521179446001664
-- date: 2018-05-25
-  time: 
-  title: "夜？ 赤羽葉子 at:YouTube 初生放送"
-  end_time: 
-  uri: https://twitter.com/Youko_Akabane/status/998823905644003328
 - date: 2018-05-24
   time:
     hour: 1

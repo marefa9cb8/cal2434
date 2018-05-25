@@ -803,6 +803,12 @@ URL:https://twitter.com/gaku_fushimi/status/999057697528926208
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/999057697528926208
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T193000
+SUMMARY:赤羽葉子 at:YouTube 初生放送
+URL:https://twitter.com/Youko_Akabane/status/999859265044078593
+DESCRIPTION:https://twitter.com/Youko_Akabane/status/999859265044078593
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T200000
 DTEND;TZID=Asia/Tokyo:20180525T210000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
@@ -826,12 +832,6 @@ DTSTART;TZID=Asia/Tokyo:20180525T220000
 SUMMARY:森中花咲 at:YouTube はーとふる彼氏#3実況配信
 URL:https://twitter.com/KazakiMorinaka/status/998521179446001664
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/998521179446001664
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180525
-SUMMARY:夜？ 赤羽葉子 at:YouTube 初生放送
-URL:https://twitter.com/Youko_Akabane/status/998823905644003328
-DESCRIPTION:https://twitter.com/Youko_Akabane/status/998823905644003328
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180524T011500
