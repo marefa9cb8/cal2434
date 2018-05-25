@@ -1,6 +1,13 @@
 ---
 - date: 2018-05-27
   time:
+    hour: 14
+    min: 0
+  title: "宇志海いちご at:??"
+  end_time: 
+  uri: https://twitter.com/ushimi_ichigo/status/999940667714371584
+- date: 2018-05-27
+  time:
     hour: 19
     min: 0
   title: "樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）"
@@ -38,11 +45,11 @@
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-26
   time:
-    hour: 19
+    hour: 20
     min: 0
   title: "樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠"
   end_time: 
-  uri: https://twitter.com/HiguchiKaede/status/999248855316160512
+  uri: https://twitter.com/hanakoto82/status/999956833782546432
 - date: 2018-05-25
   time:
     hour: 0
@@ -98,6 +105,13 @@
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-25
   time:
+    hour: 20
+    min: 30
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Chihiro_yuki23/status/999968306386821120
+- date: 2018-05-25
+  time:
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
@@ -124,6 +138,13 @@
   title: "モイラ at:YouTube MoimoiRadio"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/999900432829841408
+- date: 2018-05-25
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/999976039844495361
 - date: 2018-05-25
   time:
     hour: 24

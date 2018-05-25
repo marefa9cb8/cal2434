@@ -754,6 +754,12 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T140000
+SUMMARY:宇志海いちご at:??
+URL:https://twitter.com/ushimi_ichigo/status/999940667714371584
+DESCRIPTION:https://twitter.com/ushimi_ichigo/status/999940667714371584
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T190000
 DTEND;TZID=Asia/Tokyo:20180527T203000
 SUMMARY:樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）
@@ -785,10 +791,10 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180526T190000
+DTSTART;TZID=Asia/Tokyo:20180526T200000
 SUMMARY:樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠
-URL:https://twitter.com/HiguchiKaede/status/999248855316160512
-DESCRIPTION:https://twitter.com/HiguchiKaede/status/999248855316160512
+URL:https://twitter.com/hanakoto82/status/999956833782546432
+DESCRIPTION:https://twitter.com/hanakoto82/status/999956833782546432
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T000000
@@ -835,6 +841,12 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T203000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/999968306386821120
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/999968306386821120
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T213000
 SUMMARY:鈴谷アキ at:YouTube
 URL:https://twitter.com/nijisanji_app/status/999900431655436288
@@ -857,6 +869,12 @@ DTSTART;TZID=Asia/Tokyo:20180525T220000
 SUMMARY:モイラ at:YouTube MoimoiRadio
 URL:https://twitter.com/nijisanji_app/status/999900432829841408
 DESCRIPTION:https://twitter.com/nijisanji_app/status/999900432829841408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180525T230000
+SUMMARY:叶 at:YouTube
+URL:https://twitter.com/Kanae_2434/status/999976039844495361
+DESCRIPTION:https://twitter.com/Kanae_2434/status/999976039844495361
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T240000
@@ -3970,8 +3988,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
-URL:
-DESCRIPTION:
+URL:https://twitter.com/MitoTsukino/status/995527978682470401
+DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T210000
