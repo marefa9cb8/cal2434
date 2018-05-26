@@ -761,15 +761,15 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T003000
-SUMMARY:ギルザレンⅢ世 at:YouTube
+SUMMARY:00時59分～ ギルザレンⅢ世 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1000263798593241088
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T010000
-SUMMARY:？ 叶（昼のRKS配信で言及） at:YouTube  PUBG 深夜三傑RKS with U 宇志海いちご
-URL:
-DESCRIPTION:
+SUMMARY:？02時15分～ 深夜三傑RKSいちご味 at:YouTube  PUBG 深夜三傑RKS with U 宇志海いちご
+URL:https://twitter.com/sibuya_hajime/status/1000424690467328000
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1000424690467328000
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T123000
@@ -2693,7 +2693,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/990616204367691776
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180429T001500
-SUMMARY:月ノ美兎 at: YouTube 現在限定公開
+SUMMARY:月ノ美兎 at: YouTube 楓と美兎-後編-(4/28アーカイブ)
 URL:https://twitter.com/MitoTsukino/status/990235384335417344
 DESCRIPTION:https://twitter.com/MitoTsukino/status/990235384335417344
 END:VEVENT
