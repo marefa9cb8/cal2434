@@ -8,11 +8,46 @@
   uri: 
 - date: 2018-05-27
   time:
+    hour: 0
+    min: 30
+  title: "ギルザレンⅢ世 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+- date: 2018-05-27
+  time:
+    hour: 1
+    min: 0
+  title: "？ 叶（昼のRKS配信で言及） at:YouTube  PUBG 深夜三傑RKS with U 宇志海いちご"
+  end_time: 
+  uri: 
+- date: 2018-05-27
+  time:
+    hour: 12
+    min: 30
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+- date: 2018-05-27
+  time:
+    hour: 13
+    min: 30
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+- date: 2018-05-27
+  time:
     hour: 14
     min: 0
-  title: "宇志海いちご at:??"
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: https://twitter.com/ushimi_ichigo/status/999940667714371584
+- date: 2018-05-27
+  time:
+    hour: 15
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
 - date: 2018-05-27
   time:
     hour: 19
@@ -58,8 +93,10 @@
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1000070727125557248
 - date: 2018-05-26
-  time: 
-  title: "お昼すぎ？ 叶 at:YouTube PUBGコラボ"
+  time:
+    hour: 15
+    min: 55
+  title: "叶 at:YouTube PUBG 深夜三傑RKS with U 宇志海いちご"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1000187664325165056
 - date: 2018-05-26
@@ -71,11 +108,62 @@
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
 - date: 2018-05-26
   time:
+    hour: 17
+    min: 30
+  title: "勇気ちひろ at:YouTube"
+  end_time:
+    hour: 22
+    min: 30
+  uri: https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+- date: 2018-05-26
+  time:
+    hour: 18
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263796676485121
+- date: 2018-05-26
+  time:
+    hour: 19
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263796676485121
+- date: 2018-05-26
+  time:
     hour: 20
     min: 0
-  title: "樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠"
+  title: "樋口楓&物述有栖 at:YouTube 樋口楓のチャンネル 黒い砂漠"
   end_time: 
   uri: https://twitter.com/hanakoto82/status/999956833782546432
+- date: 2018-05-26
+  time:
+    hour: 20
+    min: 30
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263796676485121
+- date: 2018-05-26
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓&物述有栖 at:YouTube 花琴伊草さんのチャンネル"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/1000289964213522432
+- date: 2018-05-26
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+- date: 2018-05-26
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
 - date: 2018-05-25
   time:
     hour: 0

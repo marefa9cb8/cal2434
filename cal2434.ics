@@ -760,10 +760,40 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T003000
+SUMMARY:ギルザレンⅢ世 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T010000
+SUMMARY:？ 叶（昼のRKS配信で言及） at:YouTube  PUBG 深夜三傑RKS with U 宇志海いちご
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T123000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T133000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T140000
-SUMMARY:宇志海いちご at:??
+SUMMARY:宇志海いちご at:YouTube
 URL:https://twitter.com/ushimi_ichigo/status/999940667714371584
 DESCRIPTION:https://twitter.com/ushimi_ichigo/status/999940667714371584
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T150000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T190000
@@ -803,8 +833,8 @@ URL:https://twitter.com/sibuya_hajime/status/1000070727125557248
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1000070727125557248
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180526
-SUMMARY:お昼すぎ？ 叶 at:YouTube PUBGコラボ
+DTSTART;TZID=Asia/Tokyo:20180526T155500
+SUMMARY:叶 at:YouTube PUBG 深夜三傑RKS with U 宇志海いちご
 URL:https://twitter.com/Kanae_2434/status/1000187664325165056
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1000187664325165056
 END:VEVENT
@@ -815,10 +845,53 @@ URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T173000
+DTEND;TZID=Asia/Tokyo:20180526T223000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T180000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263796676485121
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263796676485121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T190000
+SUMMARY:夕陽リリ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263796676485121
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263796676485121
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T200000
-SUMMARY:樋口楓&物述有栖 at:樋口楓のYouTube 黒い砂漠
+SUMMARY:樋口楓&物述有栖 at:YouTube 樋口楓のチャンネル 黒い砂漠
 URL:https://twitter.com/hanakoto82/status/999956833782546432
 DESCRIPTION:https://twitter.com/hanakoto82/status/999956833782546432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T203000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263796676485121
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263796676485121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T210000
+SUMMARY:樋口楓&物述有栖 at:YouTube 花琴伊草さんのチャンネル
+URL:https://twitter.com/AliceMononobe/status/1000289964213522432
+DESCRIPTION:https://twitter.com/AliceMononobe/status/1000289964213522432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T223000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000263798593241088
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180525T000000
