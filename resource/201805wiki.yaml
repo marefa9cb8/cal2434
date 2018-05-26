@@ -131,11 +131,25 @@
   uri: https://twitter.com/nijisanji_app/status/1000263796676485121
 - date: 2018-05-26
   time:
+    hour: 19
+    min: 30
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000307482110001153
+- date: 2018-05-26
+  time:
     hour: 20
     min: 0
   title: "樋口楓&物述有栖 at:YouTube 樋口楓のチャンネル 黒い砂漠"
   end_time: 
   uri: https://twitter.com/hanakoto82/status/999956833782546432
+- date: 2018-05-26
+  time:
+    hour: 20
+    min: 25
+  title: "叶 at:YouTube DBD"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000337164884836354
 - date: 2018-05-26
   time:
     hour: 20
@@ -147,7 +161,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓&物述有栖 at:YouTube 花琴伊草さんのチャンネル"
+  title: "樋口楓&物述有栖 at:YouTube 花琴伊草さんのライブチャンネル"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/1000289964213522432
 - date: 2018-05-26

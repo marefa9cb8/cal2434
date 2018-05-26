@@ -864,10 +864,22 @@ URL:https://twitter.com/nijisanji_app/status/1000263796676485121
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263796676485121
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T193000
+SUMMARY:叶 at:YouTube 雑談
+URL:https://twitter.com/Kanae_2434/status/1000307482110001153
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000307482110001153
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T200000
 SUMMARY:樋口楓&物述有栖 at:YouTube 樋口楓のチャンネル 黒い砂漠
 URL:https://twitter.com/hanakoto82/status/999956833782546432
 DESCRIPTION:https://twitter.com/hanakoto82/status/999956833782546432
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526T202500
+SUMMARY:叶 at:YouTube DBD
+URL:https://twitter.com/Kanae_2434/status/1000337164884836354
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000337164884836354
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T203000
@@ -877,7 +889,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263796676485121
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T210000
-SUMMARY:樋口楓&物述有栖 at:YouTube 花琴伊草さんのチャンネル
+SUMMARY:樋口楓&物述有栖 at:YouTube 花琴伊草さんのライブチャンネル
 URL:https://twitter.com/AliceMononobe/status/1000289964213522432
 DESCRIPTION:https://twitter.com/AliceMononobe/status/1000289964213522432
 END:VEVENT
