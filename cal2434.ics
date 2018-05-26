@@ -803,6 +803,12 @@ URL:https://twitter.com/sibuya_hajime/status/1000070727125557248
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1000070727125557248
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180526
+SUMMARY:お昼すぎ？ 叶 at:YouTube PUBGコラボ
+URL:https://twitter.com/Kanae_2434/status/1000187664325165056
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000187664325165056
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T160000
 SUMMARY:家長むぎ at:Mirrativ にじさんじQ
 URL:https://www.moguravr.com/vtuber-nijisanji-q/
