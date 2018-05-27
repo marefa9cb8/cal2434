@@ -784,8 +784,8 @@ URL:https://twitter.com/nijisanji_app/status/1000628112957161472
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180528
-SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
+DTSTART;TZID=Asia/Tokyo:20180528T143000
+SUMMARY:家長むぎ at:YouTube? 放送中に言及
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -867,6 +867,12 @@ DTSTART;TZID=Asia/Tokyo:20180527T220000
 SUMMARY:物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe/status/999309816890732544
 DESCRIPTION:https://twitter.com/AliceMononobe/status/999309816890732544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T240000
+SUMMARY:叶 at:YouTube Cuphead
+URL:https://twitter.com/Kanae_2434/status/1000703033242673152
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000703033242673152
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180526T003000

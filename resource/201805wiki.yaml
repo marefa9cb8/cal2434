@@ -31,8 +31,10 @@
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1000628112957161472
 - date: 2018-05-28
-  time: 
-  title: "お昼 家長むぎ at:YouTube? 放送中に言及"
+  time:
+    hour: 14
+    min: 30
+  title: "家長むぎ at:YouTube? 放送中に言及"
   end_time: 
   uri: 
 - date: 2018-05-27
@@ -128,6 +130,13 @@
   title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/999309816890732544
+- date: 2018-05-27
+  time:
+    hour: 24
+    min: 0
+  title: "叶 at:YouTube Cuphead"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000703033242673152
 - date: 2018-05-26
   time:
     hour: 0
