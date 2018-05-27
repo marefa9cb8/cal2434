@@ -754,8 +754,38 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530
+SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529
+SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T210000
 SUMMARY:森中花咲：初めての歌＆セリフ枠　at:Youtube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T013000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1000628112957161472
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T064500
+SUMMARY:伏見ガク at:YouTube おはガク！
+URL:https://twitter.com/nijisanji_app/status/1000628112957161472
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528
+SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -798,8 +828,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T153000
 SUMMARY:勇気ちひろ at:YouTube
-URL:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
-DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+URL:https://twitter.com/Chihiro_yuki23/status/1000616950689513472
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1000616950689513472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T180000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1000628112957161472
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T190000
@@ -807,6 +843,12 @@ DTEND;TZID=Asia/Tokyo:20180527T203000
 SUMMARY:樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T200000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000628112957161472
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T203000

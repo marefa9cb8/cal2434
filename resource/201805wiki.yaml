@@ -1,9 +1,38 @@
 ---
+- date: 2018-05-30
+  time: 
+  title: "お昼 家長むぎ at:YouTube? 放送中に言及"
+  end_time: 
+  uri: 
+- date: 2018-05-29
+  time: 
+  title: "お昼 家長むぎ at:YouTube? 放送中に言及"
+  end_time: 
+  uri: 
 - date: 2018-05-29
   time:
     hour: 21
     min: 0
   title: "森中花咲：初めての歌＆セリフ枠　at:Youtube"
+  end_time: 
+  uri: 
+- date: 2018-05-28
+  time:
+    hour: 1
+    min: 30
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000628112957161472
+- date: 2018-05-28
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000628112957161472
+- date: 2018-05-28
+  time: 
+  title: "お昼 家長むぎ at:YouTube? 放送中に言及"
   end_time: 
   uri: 
 - date: 2018-05-27
@@ -54,7 +83,14 @@
     min: 30
   title: "勇気ちひろ at:YouTube"
   end_time: 
-  uri: https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+  uri: https://twitter.com/Chihiro_yuki23/status/1000616950689513472
+- date: 2018-05-27
+  time:
+    hour: 18
+    min: 0
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000628112957161472
 - date: 2018-05-27
   time:
     hour: 19
@@ -64,6 +100,13 @@
     hour: 20
     min: 30
   uri: 
+- date: 2018-05-27
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000628112957161472
 - date: 2018-05-27
   time:
     hour: 20
