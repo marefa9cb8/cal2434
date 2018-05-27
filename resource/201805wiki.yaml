@@ -29,11 +29,11 @@
   uri: https://twitter.com/nijisanji_app/status/1000263798593241088
 - date: 2018-05-27
   time:
-    hour: 13
-    min: 30
+    hour: 14
+    min: 0
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
-  uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+  uri: https://twitter.com/suzukautako/status/1000595644019392517
 - date: 2018-05-27
   time:
     hour: 14
@@ -48,6 +48,13 @@
   title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1000263798593241088
+- date: 2018-05-27
+  time:
+    hour: 15
+    min: 30
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Chihiro_yuki23/status/1000265109132926978
 - date: 2018-05-27
   time:
     hour: 19

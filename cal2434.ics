@@ -778,10 +778,10 @@ URL:https://twitter.com/nijisanji_app/status/1000263798593241088
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180527T133000
+DTSTART;TZID=Asia/Tokyo:20180527T140000
 SUMMARY:鈴鹿詩子 at:YouTube
-URL:https://twitter.com/nijisanji_app/status/1000263798593241088
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+URL:https://twitter.com/suzukautako/status/1000595644019392517
+DESCRIPTION:https://twitter.com/suzukautako/status/1000595644019392517
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T140000
@@ -794,6 +794,12 @@ DTSTART;TZID=Asia/Tokyo:20180527T150000
 SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1000263798593241088
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000263798593241088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T153000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1000265109132926978
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T190000
