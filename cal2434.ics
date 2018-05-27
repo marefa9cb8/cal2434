@@ -840,9 +840,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T190000
 DTEND;TZID=Asia/Tokyo:20180527T203000
-SUMMARY:樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）
-URL:
-DESCRIPTION:
+SUMMARY:樋口楓&える at:YouTube お絵かきの森 樋口楓の定期配信を移動
+URL:https://twitter.com/HiguchiKaede/status/1000613205071179776
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1000613205071179776
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T200000
@@ -855,6 +855,12 @@ DTSTART;TZID=Asia/Tokyo:20180527T203000
 SUMMARY:剣持刀也&森中花咲 at:Mirrativ にじさんじQ
 URL:https://www.moguravr.com/vtuber-nijisanji-q/
 DESCRIPTION:https://www.moguravr.com/vtuber-nijisanji-q/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180527T213000
+SUMMARY:叶 at:OPENREC PUBG
+URL:https://twitter.com/Kanae_2434/status/1000701980304596994
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000701980304596994
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T220000

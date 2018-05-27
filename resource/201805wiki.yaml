@@ -95,11 +95,11 @@
   time:
     hour: 19
     min: 0
-  title: "樋口楓＆えるでお絵森（樋口楓の定期配信を移す形。5/23樋口楓の配信にて告知）"
+  title: "樋口楓&える at:YouTube お絵かきの森 樋口楓の定期配信を移動"
   end_time:
     hour: 20
     min: 30
-  uri: 
+  uri: https://twitter.com/HiguchiKaede/status/1000613205071179776
 - date: 2018-05-27
   time:
     hour: 20
@@ -114,6 +114,13 @@
   title: "剣持刀也&森中花咲 at:Mirrativ にじさんじQ"
   end_time: 
   uri: https://www.moguravr.com/vtuber-nijisanji-q/
+- date: 2018-05-27
+  time:
+    hour: 21
+    min: 30
+  title: "叶 at:OPENREC PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000701980304596994
 - date: 2018-05-27
   time:
     hour: 22
