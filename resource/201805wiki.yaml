@@ -1,14 +1,65 @@
 ---
+- date: 2018-05-31
+  time:
+    hour: 13
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-31
+  time:
+    hour: 22
+    min: 15
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-30
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-30
   time: 
   title: "お昼 家長むぎ at:YouTube? 放送中に言及"
   end_time: 
   uri: 
-- date: 2018-05-29
-  time: 
-  title: "お昼 家長むぎ at:YouTube? 放送中に言及"
+- date: 2018-05-30
+  time:
+    hour: 14
+    min: 0
+  title: "静凛 at:?"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-30
+  time:
+    hour: 19
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-29
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
+- date: 2018-05-29
+  time:
+    hour: 12
+    min: 30
+  title: "家長むぎ at:YouTube 放送中に言及"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
+- date: 2018-05-29
+  time:
+    hour: 14
+    min: 0
+  title: "渋谷ハジメ at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-29
   time:
     hour: 21
@@ -16,6 +67,13 @@
   title: "森中花咲 初めての歌＆セリフ枠　at:YouTube"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1000753503415947267
+- date: 2018-05-29
+  time:
+    hour: 22
+    min: 15
+  title: "静凛 at:?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-28
   time:
     hour: 1
@@ -34,30 +92,51 @@
   time:
     hour: 14
     min: 30
-  title: "家長むぎ at:YouTube? 放送中に言及"
+  title: "家長むぎ at:YouTube 放送中に言及"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1000766345867288577
+- date: 2018-05-28
+  time:
+    hour: 16
+    min: 15
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1000999075993436160
+- date: 2018-05-28
+  time:
+    hour: 17
+    min: 0
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1000998846128795648
 - date: 2018-05-28
   time:
     hour: 20
     min: 0
   title: "渋谷ハジメ at:YouTube"
   end_time: 
-  uri: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-28
   time:
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
   end_time: 
-  uri: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
+- date: 2018-05-28
+  time:
+    hour: 22
+    min: 15
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-28
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
+  title: "える at:Mirrativ"
   end_time: 
-  uri: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-27
   time:
     hour: 0

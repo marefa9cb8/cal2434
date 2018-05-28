@@ -754,22 +754,70 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T130000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T221500
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T010000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530
 SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180529
-SUMMARY:お昼 家長むぎ at:YouTube? 放送中に言及
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180530T140000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T190000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T010000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T123000
+SUMMARY:家長むぎ at:YouTube 放送中に言及
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T140000
+SUMMARY:渋谷ハジメ at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T210000
 SUMMARY:森中花咲 初めての歌＆セリフ枠　at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/1000753503415947267
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000753503415947267
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T221500
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T013000
@@ -785,27 +833,45 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1000628112957161472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T143000
-SUMMARY:家長むぎ at:YouTube? 放送中に言及
+SUMMARY:家長むぎ at:YouTube 放送中に言及
 URL:https://twitter.com/ienaga_mugi23/status/1000766345867288577
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1000766345867288577
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T161500
+SUMMARY:渋谷ハジメ at:YouTube 雑談
+URL:https://twitter.com/sibuya_hajime/status/1000999075993436160
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1000999075993436160
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T170000
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1000998846128795648
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1000998846128795648
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T200000
 SUMMARY:渋谷ハジメ at:YouTube
-URL:
-DESCRIPTION:
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T213000
 SUMMARY:鈴谷アキ at:YouTube
-URL:
-DESCRIPTION:
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T221500
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T230000
-SUMMARY:える at:YouTube
-URL:
-DESCRIPTION:
+SUMMARY:える at:Mirrativ
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T003000
@@ -4195,6 +4261,12 @@ DTSTART;TZID=Asia/Tokyo:20180603T190000
 SUMMARY:うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット
 URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000016159993876480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T233000
+SUMMARY:静凛 at:?
+URL:https://twitter.com/ShizuRin23/status/1000980294189502464
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T180000
