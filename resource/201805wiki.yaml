@@ -48,13 +48,6 @@
   uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-29
   time:
-    hour: 12
-    min: 30
-  title: "家長むぎ at:YouTube 放送中に言及"
-  end_time: 
-  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
-- date: 2018-05-29
-  time:
     hour: 14
     min: 0
   title: "渋谷ハジメ at:OPENREC.tv"
@@ -69,11 +62,25 @@
   uri: https://twitter.com/KazakiMorinaka/status/1000753503415947267
 - date: 2018-05-29
   time:
+    hour: 12
+    min: 30
+  title: 22時00分～ 家長むぎ at:YouTube 放送中に言及 時間変更
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1000987830049374208
+- date: 2018-05-29
+  time:
     hour: 22
     min: 15
   title: "静凛 at:?"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-29
+  time:
+    hour: 23
+    min: 0
+  title: "月ノ美兎 （Twitrerアカウント名による）"
+  end_time: 
+  uri: 
 - date: 2018-05-28
   time:
     hour: 1
@@ -113,7 +120,7 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ at:YouTube"
+  title: 20時36分 渋谷ハジメ at:YouTube
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-28

@@ -796,12 +796,6 @@ URL:https://twitter.com/nijisanji_app/status/1000987830049374208
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180529T123000
-SUMMARY:家長むぎ at:YouTube 放送中に言及
-URL:https://twitter.com/nijisanji_app/status/1000987830049374208
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T140000
 SUMMARY:渋谷ハジメ at:OPENREC.tv
 URL:https://twitter.com/nijisanji_app/status/1000987830049374208
@@ -814,10 +808,22 @@ URL:https://twitter.com/KazakiMorinaka/status/1000753503415947267
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000753503415947267
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T123000
+SUMMARY:22時00分～ 家長むぎ at:YouTube 放送中に言及 時間変更
+URL:https://twitter.com/nijisanji_app/status/1000987830049374208
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T221500
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T230000
+SUMMARY:月ノ美兎 （Twitrerアカウント名による）
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T013000
@@ -851,7 +857,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1000998846128795648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T200000
-SUMMARY:渋谷ハジメ at:YouTube
+SUMMARY:20時36分 渋谷ハジメ at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1000987830049374208
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
@@ -4255,6 +4261,12 @@ DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T200000
+SUMMARY:える＆かざの森の友オフ会 at:森中花咲のYouTube
+URL:https://twitter.com/KazakiMorinaka/status/1001026693237108736
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T190000
