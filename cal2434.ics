@@ -790,6 +790,12 @@ URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T203000
+SUMMARY:樋口楓 at:YouTube 本人twitter HNより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T010000
 SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1000987830049374208
@@ -856,8 +862,8 @@ URL:https://twitter.com/Kanae_2434/status/1000998846128795648
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1000998846128795648
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180528T200000
-SUMMARY:20時36分 渋谷ハジメ at:YouTube
+DTSTART;TZID=Asia/Tokyo:20180528T203600
+SUMMARY:渋谷ハジメ at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1000987830049374208
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
@@ -874,10 +880,22 @@ URL:https://twitter.com/nijisanji_app/status/1000987830049374208
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T224000
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1001096182976864257
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001096182976864257
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T230000
 SUMMARY:える at:Mirrativ
 URL:https://twitter.com/nijisanji_app/status/1000987830049374208
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180528T234500
+SUMMARY:叶 at:YouTube CupHead
+URL:https://twitter.com/Kanae_2434/status/1001112139015192577
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001112139015192577
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180527T003000

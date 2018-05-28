@@ -39,6 +39,13 @@
   title: "静凛 at:?"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+- date: 2018-05-30
+  time:
+    hour: 20
+    min: 30
+  title: "樋口楓 at:YouTube 本人twitter HNより"
+  end_time: 
+  uri: 
 - date: 2018-05-29
   time:
     hour: 1
@@ -119,8 +126,8 @@
 - date: 2018-05-28
   time:
     hour: 20
-    min: 0
-  title: 20時36分 渋谷ハジメ at:YouTube
+    min: 36
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-28
@@ -139,11 +146,25 @@
   uri: https://twitter.com/nijisanji_app/status/1000987830049374208
 - date: 2018-05-28
   time:
+    hour: 22
+    min: 40
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1001096182976864257
+- date: 2018-05-28
+  time:
     hour: 23
     min: 0
   title: "える at:Mirrativ"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1000987830049374208
+- date: 2018-05-28
+  time:
+    hour: 23
+    min: 45
+  title: "叶 at:YouTube CupHead"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1001112139015192577
 - date: 2018-05-27
   time:
     hour: 0
