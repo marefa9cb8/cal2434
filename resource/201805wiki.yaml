@@ -31,7 +31,7 @@
   time:
     hour: 13
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube お休み"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1001350019675385856
 - date: 2018-05-30
@@ -53,13 +53,6 @@
     hour: 19
     min: 0
   title: "鈴鹿詩子 at:SHOWROOM"
-  end_time: 
-  uri: https://twitter.com/suzukautako/status/1001384350506602496
-- date: 2018-05-30
-  time:
-    hour: 20
-    min: 0
-  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1001384350506602496
 - date: 2018-05-30

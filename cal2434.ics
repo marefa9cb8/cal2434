@@ -792,7 +792,7 @@ DESCRIPTION:https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T130000
-SUMMARY:家長むぎ at:YouTube
+SUMMARY:家長むぎ at:YouTube お休み
 URL:https://twitter.com/nijisanji_app/status/1001350019675385856
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
 END:VEVENT
@@ -811,12 +811,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T190000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
-URL:https://twitter.com/suzukautako/status/1001384350506602496
-DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180530T200000
-SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/1001384350506602496
 DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
@@ -4358,6 +4352,12 @@ DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T220000
+SUMMARY:月ノ美兎 みとらじ
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T200000
