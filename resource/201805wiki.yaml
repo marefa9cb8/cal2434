@@ -17,9 +17,16 @@
   time:
     hour: 1
     min: 0
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube無しに"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1001350019675385856
+- date: 2018-05-30
+  time:
+    hour: 2
+    min: 0
+  title: "-03時00分～ 静凛 at:YouTube 深夜三傑RKS"
+  end_time: 
+  uri: https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
 - date: 2018-05-30
   time:
     hour: 13
@@ -69,6 +76,13 @@
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1001384350506602496
+- date: 2018-05-30
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:??"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/1001476804442390531
 - date: 2018-05-29
   time:
     hour: 0
@@ -136,7 +150,7 @@
   time:
     hour: 22
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube ダークソウル"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1001350019675385856
 - date: 2018-05-29
@@ -146,6 +160,13 @@
   title: " 月ノ美兎 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1001350019675385856
+- date: 2018-05-29
+  time:
+    hour: 23
+    min: 37
+  title: " 叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1001472624659021827
 - date: 2018-05-28
   time:
     hour: 1

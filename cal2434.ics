@@ -780,9 +780,15 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T010000
-SUMMARY:静凛 at:YouTube
+SUMMARY:静凛 at:YouTube無しに
 URL:https://twitter.com/nijisanji_app/status/1001350019675385856
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T020000
+SUMMARY:-03時00分～ 静凛 at:YouTube 深夜三傑RKS
+URL:https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
+DESCRIPTION:https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T130000
@@ -825,6 +831,12 @@ DTSTART;TZID=Asia/Tokyo:20180530T210000
 SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/1001384350506602496
 DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T220000
+SUMMARY:物述有栖 at:??
+URL:https://twitter.com/AliceMononobe/status/1001476804442390531
+DESCRIPTION:https://twitter.com/AliceMononobe/status/1001476804442390531
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T003000
@@ -882,7 +894,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1000987830049374208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T223000
-SUMMARY:静凛 at:YouTube
+SUMMARY:静凛 at:YouTube ダークソウル
 URL:https://twitter.com/nijisanji_app/status/1001350019675385856
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
 END:VEVENT
@@ -891,6 +903,12 @@ DTSTART;TZID=Asia/Tokyo:20180529T230000
 SUMMARY: 月ノ美兎 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1001350019675385856
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T233700
+SUMMARY: 叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1001472624659021827
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001472624659021827
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180528T013000
