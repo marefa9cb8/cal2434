@@ -438,73 +438,86 @@
   uri: https://twitter.com/aki_suzuya/status/976719509959487488
 - date: 2018-03-21
   time:
+    hour: 4
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/976185591518855175
+- date: 2018-03-21
+  time:
     hour: 16
     min: 0
-  title: " 鈴鹿詩子"
+  title: " 鈴鹿詩子  at:Mirrativ"
   end_time: 
   uri: https://twitter.com/suzukautako/status/976317375397052416
 - date: 2018-03-21
   time:
     hour: 18
     min: 0
-  title: "物述有栖"
+  title: "物述有栖  at:YouTube quickdraw回"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/976102430793375744
 - date: 2018-03-21
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/976382112973537282
 - date: 2018-03-21
   time:
     hour: 20
     min: 30
-  title: "静凛"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/976385398610968576
 - date: 2018-03-21
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/976379276055347200
 - date: 2018-03-21
   time:
     hour: 22
     min: 45
-  title: "夕陽リリ"
+  title: "夕陽リリ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/Yuuhi_Riri/status/976444128253812737
 - date: 2018-03-21
   time:
     hour: 24
     min: 0
-  title: "剣持刀也"
+  title: "剣持刀也 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/976385398610968576
 - date: 2018-03-20
-  time: 
-  title: 17時～ 夕陽リリ
+  time:
+    hour: 17
+    min: 0
+  title: "夕陽リリ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/Yuuhi_Riri/status/975992272356392960
 - date: 2018-03-20
-  time: 
-  title: 19時～ 宇志海いちご
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/976021088592322561
 - date: 2018-03-20
-  time: 
-  title: 21時～ うかみとサブカルクソコラボ　Uka's roomにて　　届木ウカと月ノ美兎のコラボ
+  time:
+    hour: 21
+    min: 0
+  title: "うかみとサブカルクソコラボ　Uka's roomにて　　届木ウカと月ノ美兎のコラボ"
   end_time: 
   uri: https://twitter.com/todoki_uka/status/975370292527640577
 - date: 2018-03-20
   time:
     hour: 22
     min: 30
-  title: "家長むぎ"
+  title: "家長むぎ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/976039921587699713
 - date: 2018-03-20
@@ -518,79 +531,97 @@
   time:
     hour: 17
     min: 45
-  title: "夕陽リリ"
+  title: "夕陽リリ at:Mirrativ"
   end_time:
     hour: 18
     min: 30
   uri: https://twitter.com/Yuuhi_Riri/status/975552073059069952
 - date: 2018-03-19
-  time: 
-  title: 19時～ 樋口楓 深雪先生の宿題
+  time:
+    hour: 19
+    min: 0
+  title: "樋口楓 深雪先生の宿題 at:YouTube"
   end_time: 
-  uri: 
+  uri: https://twitter.com/higuchikaede/status/975671194392416256
 - date: 2018-03-19
-  time: 
-  title: 20時～ 宇志海いちご
+  time:
+    hour: 20
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/975654182446247936
 - date: 2018-03-19
-  time: 
-  title: 21時～  渋谷ハジメ・鈴谷アキコラボ
+  time:
+    hour: 21
+    min: 0
+  title: " 渋谷ハジメ・鈴谷アキコラボ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/975638502766346240
 - date: 2018-03-19
-  time: 
-  title: 22時～ モイラ様の台詞企画
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ様の台詞企画 YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/975654182446247936
 - date: 2018-03-19
-  time: 
-  title: 24時～ 剣持刀也
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/975654182446247936
 - date: 2018-03-18
   time:
+    hour: 13
+    min: 0
+  title: "家長むぎ at:Mirrativ"
+  end_time:
     hour: 14
     min: 30
-  title: "家長むぎ"
-  end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/975072363820625920
 - date: 2018-03-18
-  time: 
-  title: 15時～ 樋口楓 しあわせお絵かきの森配信
+  time:
+    hour: 15
+    min: 0
+  title: "樋口楓 しあわせお絵かきの森配信 at:YouTube"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/973944732765188097
 - date: 2018-03-18
   time:
     hour: 17
     min: 30
-  title: "夕陽リリ"
+  title: "夕陽リリ at:Mirrativ"
   end_time:
     hour: 18
     min: 30
   uri: https://twitter.com/Yuuhi_Riri/status/975220536019009536
 - date: 2018-03-18
-  time: 
-  title: 19時～) 静凛
+  time:
+    hour: 19
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/975285825834373120
 - date: 2018-03-18
   time:
     hour: 20
     min: 30
-  title: "渋谷ハジメ"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/975285825834373120
 - date: 2018-03-18
-  time: 
-  title: 21時～ 月ノ美兎 第1回放課後ラジオ (日直:樋口楓)
+  time:
+    hour: 21
+    min: 0
+  title: "月ノ美兎 第1回放課後ラジオ (日直:樋口楓) at:YouTube"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/975197671504822273
 - date: 2018-03-18
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/975285825834373120
 - date: 2018-03-17
@@ -601,13 +632,17 @@
   end_time: 
   uri: 
 - date: 2018-03-17
-  time: 
-  title: 17時～ 森中花咲
+  time:
+    hour: 17
+    min: 0
+  title: "森中花咲 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/974852081495326721
 - date: 2018-03-17
-  time: 
-  title: "20時～ 夕陽リリ \U0001F338初配信"
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ \U0001F338初配信 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/Yuuhi_Riri/status/974585319201783809
 - date: 2018-03-17
@@ -621,32 +656,42 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/974924695488282624
 - date: 2018-03-17
-  time: 
-  title: 22時～ 静凛
+  time:
+    hour: 22
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/974928924000923649
 - date: 2018-03-17
-  time: 
-  title: 23時～ 物述有栖
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/alicemononobe/status/974546337738850305?s=21
 - date: 2018-03-16
-  time: 
-  title: 19時～ 宇志海いちご
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/974563611988320256
 - date: 2018-03-16
-  time: 
-  title: 20時～ 渋谷ハジメ
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/974563611988320256
 - date: 2018-03-16
-  time: 
-  title: 21時～ でろもい(仮)(樋口楓xモイラコラボ) 樋口楓のYouTubeチャンネルにて
+  time:
+    hour: 21
+    min: 0
+  title: "でろもい(仮)(樋口楓xモイラコラボ) 樋口楓のYouTubeチャンネルにて"
   end_time: 
   uri: https://twitter.com/Moiramoimoimoi/status/973229004332326912
 - date: 2018-03-16
@@ -657,86 +702,108 @@
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/974550259580911617
 - date: 2018-03-16
-  time: 
-  title: 22時～ 家長むぎ
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ  at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/974253714000175104
 - date: 2018-03-16
   time:
     hour: 22
     min: 30
-  title: or23時～ 静凛
+  title: or23時～ 静凛 at:YouTube
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/974563611988320256
 - date: 2018-03-16
-  time: 
-  title: 24時～ 剣持刀也
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/974563611988320256
 - date: 2018-03-15
-  time: 
-  title: 18時～ 樋口楓（ゲリラ）
+  time:
+    hour: 18
+    min: 0
+  title: "樋口楓（ゲリラ） at:YouTube"
   end_time: 
   uri: https://www.youtube.com/watch?v=5HMW8L4DDu0
 - date: 2018-03-15
-  time: 
-  title: 19時～ 森中花咲
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/974099617502474240
 - date: 2018-03-15
-  time: 
-  title: 21時～ 鈴谷アキ
+  time:
+    hour: 21
+    min: 0
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/974201425776459776
 - date: 2018-03-15
-  time: 
-  title: 22時～ 野良猫ちゃん
+  time:
+    hour: 22
+    min: 0
+  title: "野良猫ちゃん at:Mirrativ"
   end_time: 
   uri: https://twitter.com/nekokan_chu/status/973874183867256833
 - date: 2018-03-14
-  time: 
-  title: 13時～ 家長むぎ
+  time:
+    hour: 13
+    min: 0
+  title: "家長むぎ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/973604758660378624
 - date: 2018-03-14
-  time: 
-  title: 16時～ 静凛
+  time:
+    hour: 16
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/973811911887392775
 - date: 2018-03-14
   time:
     hour: 17
     min: 30
-  title: "鈴鹿詩子"
+  title: "鈴鹿詩子 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/suzukautako/status/973831122860806150
 - date: 2018-03-14
-  time: 
-  title: 20時～ JK組ホワイトデーコラボ
+  time:
+    hour: 20
+    min: 0
+  title: JK組ホワイトデーコラボ  at:YouTube＆OPENREC.tv
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/973573510407766017
 - date: 2018-03-14
   time:
     hour: 20
     min: 30
-  title: "渋谷ハジメ"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/973852484010520576
 - date: 2018-03-14
-  time: 
-  title: 21時～ 鈴谷アキ
+  time:
+    hour: 21
+    min: 0
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/973799237514350593
 - date: 2018-03-14
   time:
     hour: 21
     min: 30
-  title: "勇気ちひろ"
+  title: "勇気ちひろ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/973866033000865793
 - date: 2018-03-14
-  time: 
-  title: 22時～ 物述有栖
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/973472206029115392
 - date: 2018-03-13
