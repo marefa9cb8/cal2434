@@ -708,55 +708,55 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:12時くらい～ mirrativにて詩子お姉さん
+SUMMARY:12時くらい～ 詩子お姉さん at:Mirrativ
 URL:https://twitter.com/suzukautako/status/973125630182043648
 DESCRIPTION:https://twitter.com/suzukautako/status/973125630182043648
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:19時～ 宇志海いちご
+DTSTART;TZID=Asia/Tokyo:20180313T190000
+SUMMARY:宇志海いちご at:Mirrativ
 URL:https://twitter.com/ShizuRin23/status/973470151172476928
 DESCRIPTION:https://twitter.com/ShizuRin23/status/973470151172476928
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:20時～ カエル(樋口楓×えるコラボ)配信 樋口楓のチャンネルにて
+DTSTART;TZID=Asia/Tokyo:20180313T200000
+SUMMARY:カエル(樋口楓×えるコラボ)配信 樋口楓のチャンネルにて at:YouTube
 URL:https://twitter.com/higuchikaede/status/973229395342106629
 DESCRIPTION:https://twitter.com/higuchikaede/status/973229395342106629
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:22時～ ハジメくんコラボ
+DTSTART;TZID=Asia/Tokyo:20180313T220000
+SUMMARY:ハジメくんコラボ
 URL:https://twitter.com/sibuya_hajime/status/972128677273116672
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/972128677273116672
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:23時～ モイラ様
+DTSTART;TZID=Asia/Tokyo:20180313T230000
+SUMMARY:モイラ様 at:YouTube
 URL:https://twitter.com/ShizuRin23/status/973470151172476928
 DESCRIPTION:https://twitter.com/ShizuRin23/status/973470151172476928
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180313
-SUMMARY:24時～ 剣持刀也 ※詫びミラティブ
+DTSTART;TZID=Asia/Tokyo:20180313T240000
+SUMMARY:剣持刀也 ※詫びミラティブ
 URL:https://twitter.com/rei_Toya_rei/status/973485875198705664
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/973485875198705664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180312T203000
-SUMMARY:勇気ちひろmirrativ配信 ※YouTube Liveの可能性もあり
+SUMMARY:勇気ちひろ at:YouTube
 URL:https://twitter.com/Chihiro_yuki23/status/973131800405921794
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/973131800405921794
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180312T213000
-SUMMARY:鈴谷アキYouTubeLive
+SUMMARY:鈴谷アキ at:YouTube
 URL:https://twitter.com/aki_suzuya/status/973123150597664768
 DESCRIPTION:https://twitter.com/aki_suzuya/status/973123150597664768
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180312T223000
-SUMMARY:mirrativにてむぎむぎ
+SUMMARY:家長むぎ at:Mirrativ
 URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT

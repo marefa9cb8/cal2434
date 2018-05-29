@@ -813,52 +813,62 @@
   uri: 
 - date: 2018-03-13
   time: 
-  title: 12時くらい～ mirrativにて詩子お姉さん
+  title: 12時くらい～ 詩子お姉さん at:Mirrativ
   end_time: 
   uri: https://twitter.com/suzukautako/status/973125630182043648
 - date: 2018-03-13
-  time: 
-  title: 19時～ 宇志海いちご
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/973470151172476928
 - date: 2018-03-13
-  time: 
-  title: 20時～ カエル(樋口楓×えるコラボ)配信 樋口楓のチャンネルにて
+  time:
+    hour: 20
+    min: 0
+  title: "カエル(樋口楓×えるコラボ)配信 樋口楓のチャンネルにて at:YouTube"
   end_time: 
   uri: https://twitter.com/higuchikaede/status/973229395342106629
 - date: 2018-03-13
-  time: 
-  title: 22時～ ハジメくんコラボ
+  time:
+    hour: 22
+    min: 0
+  title: "ハジメくんコラボ"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/972128677273116672
 - date: 2018-03-13
-  time: 
-  title: 23時～ モイラ様
+  time:
+    hour: 23
+    min: 0
+  title: "モイラ様 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/973470151172476928
 - date: 2018-03-13
-  time: 
-  title: 24時～ 剣持刀也 ※詫びミラティブ
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 ※詫びミラティブ"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/973485875198705664
 - date: 2018-03-12
   time:
     hour: 20
     min: 30
-  title: "勇気ちひろmirrativ配信 ※YouTube Liveの可能性もあり"
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/973131800405921794
 - date: 2018-03-12
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキYouTubeLive"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/973123150597664768
 - date: 2018-03-12
   time:
     hour: 22
     min: 30
-  title: mirrativにてむぎむぎ
+  title: "家長むぎ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/973109494757572608
