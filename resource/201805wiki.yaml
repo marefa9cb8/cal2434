@@ -43,11 +43,32 @@
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-30
   time:
+    hour: 19
+    min: 0
+  title: "鈴鹿詩子 at:SHOWROOM"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1001384350506602496
+- date: 2018-05-30
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1001384350506602496
+- date: 2018-05-30
+  time:
     hour: 20
     min: 30
-  title: "樋口楓 at:YouTube 本人twitter HNより"
+  title: "樋口楓 at:YouTube 深雪先生の宿題配信"
   end_time: 
-  uri: 
+  uri: https://twitter.com/HiguchiKaede/status/1001431637698035712
+- date: 2018-05-30
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1001384350506602496
 - date: 2018-05-29
   time:
     hour: 0
@@ -90,6 +111,13 @@
   title: "森中花咲 初めての歌＆セリフ枠　at:YouTube"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1000753503415947267
+- date: 2018-05-29
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1001426174151614464
 - date: 2018-05-29
   time:
     hour: 21

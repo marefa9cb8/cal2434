@@ -803,10 +803,28 @@ URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T190000
+SUMMARY:鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/1001384350506602496
+DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T200000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/1001384350506602496
+DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T203000
-SUMMARY:樋口楓 at:YouTube 本人twitter HNより
-URL:
-DESCRIPTION:
+SUMMARY:樋口楓 at:YouTube 深雪先生の宿題配信
+URL:https://twitter.com/HiguchiKaede/status/1001431637698035712
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1001431637698035712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T210000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/1001384350506602496
+DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T003000
@@ -843,6 +861,12 @@ DTSTART;TZID=Asia/Tokyo:20180529T210000
 SUMMARY:森中花咲 初めての歌＆セリフ枠　at:YouTube
 URL:https://twitter.com/KazakiMorinaka/status/1000753503415947267
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000753503415947267
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180529T210000
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1001426174151614464
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001426174151614464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T213000
