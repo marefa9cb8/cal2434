@@ -52,14 +52,28 @@
   time:
     hour: 19
     min: 0
+  title: 18時30分～ 鈴鹿詩子 at:SHOWROOM  時間変更
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1001384350506602496
+- date: 2018-05-30
+  time:
+    hour: 19
+    min: 0
   title: "静凛 at:?)"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-30
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "鈴鹿詩子 at:SHOWROOM"
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1001714694195990528
+- date: 2018-05-30
+  time:
+    hour: 21
+    min: 0
+  title: 20時00分～ 鈴鹿詩子 at:YouTube 時間変更
   end_time: 
   uri: https://twitter.com/suzukautako/status/1001384350506602496
 - date: 2018-05-30
@@ -71,18 +85,11 @@
   uri: https://twitter.com/HiguchiKaede/status/1001431637698035712
 - date: 2018-05-30
   time:
-    hour: 21
-    min: 0
-  title: "鈴鹿詩子 at:YouTube"
-  end_time: 
-  uri: https://twitter.com/suzukautako/status/1001384350506602496
-- date: 2018-05-30
-  time:
     hour: 22
     min: 0
-  title: "物述有栖 at:??"
+  title: "物述有栖 at:YouTube"
   end_time: 
-  uri: https://twitter.com/AliceMononobe/status/1001476804442390531
+  uri: https://twitter.com/nijisanji_app/status/1001714694195990528
 - date: 2018-05-29
   time:
     hour: 0

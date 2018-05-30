@@ -810,13 +810,25 @@ DESCRIPTION:https://twitter.com/sibuya_hajime/status/1001675647842963457
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T190000
+SUMMARY:18時30分～ 鈴鹿詩子 at:SHOWROOM  時間変更
+URL:https://twitter.com/suzukautako/status/1001384350506602496
+DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T190000
 SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180530T190000
-SUMMARY:鈴鹿詩子 at:SHOWROOM
+DTSTART;TZID=Asia/Tokyo:20180530T200000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1001714694195990528
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1001714694195990528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T210000
+SUMMARY:20時00分～ 鈴鹿詩子 at:YouTube 時間変更
 URL:https://twitter.com/suzukautako/status/1001384350506602496
 DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
@@ -827,16 +839,10 @@ URL:https://twitter.com/HiguchiKaede/status/1001431637698035712
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1001431637698035712
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180530T210000
-SUMMARY:鈴鹿詩子 at:YouTube
-URL:https://twitter.com/suzukautako/status/1001384350506602496
-DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T220000
-SUMMARY:物述有栖 at:??
-URL:https://twitter.com/AliceMononobe/status/1001476804442390531
-DESCRIPTION:https://twitter.com/AliceMononobe/status/1001476804442390531
+SUMMARY:物述有栖 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1001714694195990528
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1001714694195990528
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T003000
