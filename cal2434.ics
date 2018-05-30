@@ -797,6 +797,18 @@ URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T180000
+SUMMARY:森中花咲 at:Mrrativ
+URL:https://twitter.com/KazakiMorinaka/status/1001824346929745920
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001824346929745920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T190000
+SUMMARY:勇気ちひろ＆樋口楓（5/30樋口楓の配信にて）
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T221500
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
@@ -822,7 +834,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T140000
-SUMMARY:静凛 at:?)
+SUMMARY:静凛 at:?) お休み
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
@@ -846,7 +858,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/1001757839591800833
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T190000
-SUMMARY:静凛 at:?)
+SUMMARY:静凛 at:?) お休み
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
@@ -870,15 +882,27 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T203000
-SUMMARY:21時00分～ 樋口楓 at:YouTube 深雪先生の宿題配信 時間変更
+SUMMARY:21時00分～ 樋口楓 at:YouTube メルティメープルの宿題配信(3) 時間変更
 URL:https://twitter.com/HiguchiKaede/status/1001431637698035712
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1001431637698035712
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T220000
-SUMMARY:物述有栖 at:YouTube
+SUMMARY:物述有栖 at:YouTube ドリームクラブZERO
 URL:https://twitter.com/nijisanji_app/status/1001714694195990528
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001714694195990528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T223000
+SUMMARY:叶 at:YouTube? DBD→fortnite
+URL:https://twitter.com/Kanae_2434/status/1001810485908406275
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001810485908406275
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T232900
+SUMMARY:樋口楓　メルティメープルの宿題配信(3)居残り編
+URL:https://twitter.com/HiguchiKaede/status/1001811377109983232
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1001811377109983232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180529T003000
