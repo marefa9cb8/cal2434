@@ -767,6 +767,30 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180311T193000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/aki_suzuya/status/972756380980453376
+DESCRIPTION:https://twitter.com/aki_suzuya/status/972756380980453376
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180311T210000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/aki_suzuya/status/972756380980453376
+DESCRIPTION:https://twitter.com/aki_suzuya/status/972756380980453376
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180311T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/aki_suzuya/status/972756380980453376
+DESCRIPTION:https://twitter.com/aki_suzuya/status/972756380980453376
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180311T230000
+SUMMARY:えるat:YouTube
+URL:https://twitter.com/aki_suzuya/status/972756380980453376
+DESCRIPTION:https://twitter.com/aki_suzuya/status/972756380980453376
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T130000
 SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
@@ -815,14 +839,26 @@ URL:https://twitter.com/suzukautako/status/1001384350506602496
 DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T183500
+SUMMARY:伏見ガク at:YouTube テスト配信
+URL:https://twitter.com/gaku_fushimi/status/1001757839591800833
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1001757839591800833
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T190000
 SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T190000
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1001765600513875968
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001765600513875968
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T200000
-SUMMARY:渋谷ハジメ at:YouTube
+SUMMARY:20時30分～ 渋谷ハジメ at:YouTube 時間変更
 URL:https://twitter.com/nijisanji_app/status/1001714694195990528
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001714694195990528
 END:VEVENT
@@ -834,7 +870,7 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1001384350506602496
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T203000
-SUMMARY:樋口楓 at:YouTube 深雪先生の宿題配信
+SUMMARY:21時00分～ 樋口楓 at:YouTube 深雪先生の宿題配信 時間変更
 URL:https://twitter.com/HiguchiKaede/status/1001431637698035712
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1001431637698035712
 END:VEVENT
@@ -4388,6 +4424,12 @@ DTSTART;TZID=Asia/Tokyo:20180602T233000
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T064500
+SUMMARY:伏見ガク at:YouTube カレー
+URL:https://twitter.com/gaku_fushimi/status/1001744330120298496
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1001744330120298496
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T180000
