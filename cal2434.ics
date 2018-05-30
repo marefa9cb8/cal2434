@@ -785,10 +785,10 @@ URL:https://twitter.com/nijisanji_app/status/1001350019675385856
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180530T020000
-SUMMARY:-03時00分～ 静凛 at:YouTube 深夜三傑RKS
-URL:https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
-DESCRIPTION:https://mobile.twitter.com/ShizuRin23/status/1001450861250281472
+DTSTART;TZID=Asia/Tokyo:20180530T023900
+SUMMARY:叶 at:YouTube PUBG 深夜三傑RKS(静凛＆渋谷ハジメとのコラボ)
+URL:https://twitter.com/Kanae_2434/status/1001518472025669632
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1001518472025669632
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T130000
