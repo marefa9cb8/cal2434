@@ -3,7 +3,7 @@
   time:
     hour: 13
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:?)"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-31
@@ -38,14 +38,21 @@
   time:
     hour: 14
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:?)"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-30
   time:
+    hour: 15
+    min: 0
+  title: "渋谷ハジメ at:OPENREC.tv Splatoon2"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1001675647842963457
+- date: 2018-05-30
+  time:
     hour: 19
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:?)"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-05-30

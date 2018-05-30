@@ -768,7 +768,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T130000
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
@@ -798,13 +798,19 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1001350019675385856
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T140000
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180530T150000
+SUMMARY:渋谷ハジメ at:OPENREC.tv Splatoon2
+URL:https://twitter.com/sibuya_hajime/status/1001675647842963457
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1001675647842963457
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T190000
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:?)
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
