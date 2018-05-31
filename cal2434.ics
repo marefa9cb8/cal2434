@@ -864,12 +864,6 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T180000
-SUMMARY:21時00分～ 家長むぎ時間変更 at:Mirrativ
-URL:https://twitter.com/ienaga_mugi23/status/1001875520802275328
-DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1001875520802275328
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180531T180000
 SUMMARY:森中花咲 at:Mrrativ
 URL:https://twitter.com/KazakiMorinaka/status/1001824346929745920
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001824346929745920
@@ -879,6 +873,12 @@ DTSTART;TZID=Asia/Tokyo:20180531T190000
 SUMMARY:樋口楓&勇気ちひろ at:? （5/30樋口楓の配信にて告知）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T180000
+SUMMARY:21時00分～ 家長むぎ時間変更 at:Mirrativ
+URL:https://twitter.com/ienaga_mugi23/status/1001875520802275328
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1001875520802275328
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T221500
