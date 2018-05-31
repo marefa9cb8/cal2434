@@ -887,8 +887,14 @@ URL:https://twitter.com/nijisanji_app/status/1002075036889501696
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1002075036889501696
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T180000
+SUMMARY:叶 at:YouTube Fortnite PUBG
+URL:https://twitter.com/Kanae_2434/status/1002114570305978369
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1002114570305978369
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T190000
-SUMMARY:勇気ちひろ＆樋口楓 at:勇気ちひろのMirrativ
+SUMMARY:20時00分～ 勇気ちひろ＆樋口楓 at:勇気ちひろのMirrativ 時間変更
 URL:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 END:VEVENT
@@ -911,10 +917,16 @@ URL:https://twitter.com/Kanae_2434/status/1002054358790422529
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1002054358790422529
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180531T221500
+DTSTART;TZID=Asia/Tokyo:20180531T220000
 SUMMARY:静凛 at:YouTube
-URL:https://twitter.com/ShizuRin23/status/1000980294189502464
-DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+URL:https://twitter.com/nijisanji_app/status/1002075036889501696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002075036889501696
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T240000
+SUMMARY:剣持刀也 at:YouTube
+URL:https://twitter.com/rei_Toya_rei/status/1002142379099340800
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1002142379099340800
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180530T010000
@@ -4544,6 +4556,18 @@ DTSTART;TZID=Asia/Tokyo:20180603T190000
 SUMMARY:うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット
 URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000016159993876480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T210000
+SUMMARY:鈴谷アキ＆渋谷ハジメ at:鈴谷アキのYouTubeチャンネル 漢組ラジオ
+URL:https://twitter.com/aki_suzuya/status/1002123933699600384
+DESCRIPTION:https://twitter.com/aki_suzuya/status/1002123933699600384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T170000
+SUMMARY:夕陽リリ at:YouTube
+URL:https://twitter.com/Yuuhi_Riri/status/1002129078399389696
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1002129078399389696
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T233000
