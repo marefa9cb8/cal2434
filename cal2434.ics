@@ -767,6 +767,12 @@ URL:https://twitter.com/ienaga_mugi23/status/973109494757572608
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/973109494757572608
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180311T043000
+SUMMARY:ギルザレンⅢ世 at:Mirrativ
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180311T193000
 SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/aki_suzuya/status/972756380980453376
@@ -857,10 +863,16 @@ URL:https://twitter.com/ShizuRin23/status/971297139459592192
 DESCRIPTION:https://twitter.com/ShizuRin23/status/971297139459592192
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180531T130000
-SUMMARY:静凛 at:?)
-URL:https://twitter.com/ShizuRin23/status/1000980294189502464
-DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
+DTSTART;TZID=Asia/Tokyo:20180531T021300
+SUMMARY:渋谷ハジメ at:YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/1001874229304877056
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1001874229304877056
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T143000
+SUMMARY:静凛 at:YouTube?
+URL:https://twitter.com/ShizuRin23/status/1002043137089417216
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1002043137089417216
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T180000
@@ -870,9 +882,9 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001824346929745920
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T190000
-SUMMARY:樋口楓&勇気ちひろ at:? （5/30樋口楓の配信にて告知）
-URL:
-DESCRIPTION:
+SUMMARY:樋口楓&勇気ちひろ at:勇気ちひろのMirrativ
+URL:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T180000

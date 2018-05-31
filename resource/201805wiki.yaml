@@ -1,11 +1,18 @@
 ---
 - date: 2018-05-31
   time:
-    hour: 13
-    min: 0
-  title: "静凛 at:?)"
+    hour: 2
+    min: 13
+  title: "渋谷ハジメ at:YouTube LoL"
   end_time: 
-  uri: https://twitter.com/ShizuRin23/status/1000980294189502464
+  uri: https://twitter.com/sibuya_hajime/status/1001874229304877056
+- date: 2018-05-31
+  time:
+    hour: 14
+    min: 30
+  title: "静凛 at:YouTube?"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1002043137089417216
 - date: 2018-05-31
   time:
     hour: 18
@@ -17,9 +24,9 @@
   time:
     hour: 19
     min: 0
-  title: "樋口楓&勇気ちひろ at:? （5/30樋口楓の配信にて告知）"
+  title: "樋口楓&勇気ちひろ at:勇気ちひろのMirrativ"
   end_time: 
-  uri: 
+  uri: https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 - date: 2018-05-31
   time:
     hour: 18
