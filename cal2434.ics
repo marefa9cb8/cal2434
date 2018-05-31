@@ -869,8 +869,8 @@ URL:https://twitter.com/sibuya_hajime/status/1001874229304877056
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1001874229304877056
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180531T143000
-SUMMARY:静凛 at:YouTube?
+DTSTART;TZID=Asia/Tokyo:20180531T150800
+SUMMARY:静凛 at:YouTube 視聴者参加型 麻雀 LIVE103
 URL:https://twitter.com/ShizuRin23/status/1002043137089417216
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1002043137089417216
 END:VEVENT
@@ -881,8 +881,14 @@ URL:https://twitter.com/KazakiMorinaka/status/1001824346929745920
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001824346929745920
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T180000
+SUMMARY:渋谷ハジメ at:OPENREC.tv Splatoon 2
+URL:https://twitter.com/nijisanji_app/status/1002075036889501696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002075036889501696
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T190000
-SUMMARY:樋口楓&勇気ちひろ at:勇気ちひろのMirrativ
+SUMMARY:勇気ちひろ＆樋口楓 at:勇気ちひろのMirrativ
 URL:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1002054645500465152
 END:VEVENT
@@ -893,8 +899,20 @@ URL:https://twitter.com/ienaga_mugi23/status/1001875520802275328
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1001875520802275328
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002075036889501696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002075036889501696
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180531T220000
+SUMMARY:叶 at:YouTube? ダークソウル
+URL:https://twitter.com/Kanae_2434/status/1002054358790422529
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1002054358790422529
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T221500
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
