@@ -4570,6 +4570,12 @@ URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T004000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1002212822808383488
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002212822808383488
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T064500
 SUMMARY:伏見ガク at:YouTube カレー
 URL:https://twitter.com/gaku_fushimi/status/1001744330120298496

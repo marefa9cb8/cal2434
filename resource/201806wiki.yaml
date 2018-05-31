@@ -48,6 +48,13 @@
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-06-01
   time:
+    hour: 0
+    min: 40
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1002212822808383488
+- date: 2018-06-01
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube カレー"
