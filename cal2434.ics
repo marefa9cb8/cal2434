@@ -936,7 +936,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/970581062303694848
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180305T210000
-SUMMARY:える at:YouTube
+SUMMARY:える at:YouTube 初YouTubeLive
 URL:https://twitter.com/ShizuRin23/status/970581062303694848
 DESCRIPTION:https://twitter.com/ShizuRin23/status/970581062303694848
 END:VEVENT
@@ -4658,6 +4658,18 @@ DTSTART;TZID=Asia/Tokyo:20180602T020000
 SUMMARY:叶 at:YouTube Fortnite withふぇありす氏
 URL:https://twitter.com/Kanae_2434/status/1002567388146032640
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1002567388146032640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T034200
+SUMMARY:渋谷ハジメ at:YouTube LoL
+URL:https://twitter.com/sibuya_hajime/status/1002621436991713280
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002621436991713280
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T043000
+SUMMARY:叶 at:YouTube Fortnite スクアッドコラボ(ふぇありす氏、ロボ子さん、シロウケン氏)
+URL:https://twitter.com/Kanae_2434/status/1002630573851009024
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1002630573851009024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T140000

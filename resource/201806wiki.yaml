@@ -48,6 +48,20 @@
   uri: https://twitter.com/Kanae_2434/status/1002567388146032640
 - date: 2018-06-02
   time:
+    hour: 3
+    min: 42
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1002621436991713280
+- date: 2018-06-02
+  time:
+    hour: 4
+    min: 30
+  title: "叶 at:YouTube Fortnite スクアッドコラボ(ふぇありす氏、ロボ子さん、シロウケン氏)"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1002630573851009024
+- date: 2018-06-02
+  time:
     hour: 14
     min: 0
   title: "鈴鹿詩子 at:YouTube"
