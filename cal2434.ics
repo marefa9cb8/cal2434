@@ -4570,6 +4570,18 @@ URL:https://twitter.com/Yuuhi_Riri/status/1002129078399389696
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1002129078399389696
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T180000
+SUMMARY:渋谷ハジメ at:OPENREC.tv 視聴者参加型Splatoon2
+URL:https://twitter.com/sibuya_hajime/status/1002486248307449856
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002486248307449856
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T193500
+SUMMARY:渋谷ハジメ at:YouTube セリフクエスト+雑談
+URL:https://twitter.com/sibuya_hajime/status/1002486248307449856
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002486248307449856
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T233000
 SUMMARY:静凛 at:?
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
@@ -4604,6 +4616,12 @@ DTSTART;TZID=Asia/Tokyo:20180601T190000
 SUMMARY:宇志海いちご at:Mirrativ
 URL:https://twitter.com/nijisanji_app/status/1002437388650463232
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T200000
+SUMMARY:叶 at:YouTube Fortnite PUBG
+URL:https://twitter.com/Kanae_2434/status/1002504744777105409
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1002504744777105409
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T200000
