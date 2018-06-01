@@ -34,6 +34,13 @@
   uri: https://twitter.com/aki_suzuya/status/1002123933699600384
 - date: 2018-06-02
   time:
+    hour: 14
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002437388650463232
+- date: 2018-06-02
+  time:
     hour: 17
     min: 0
   title: "夕陽リリ at:YouTube"
@@ -62,6 +69,13 @@
   uri: https://twitter.com/gaku_fushimi/status/1001744330120298496
 - date: 2018-06-01
   time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:SHOWROOM"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002437388650463232
+- date: 2018-06-01
+  time:
     hour: 18
     min: 0
   title: "森中花咲 at:Mirrativ"
@@ -69,11 +83,32 @@
   uri: https://twitter.com/KazakiMorinaka/status/1000888365858746369
 - date: 2018-06-01
   time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002437388650463232
+- date: 2018-06-01
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002437388650463232
+- date: 2018-06-01
+  time:
     hour: 21
     min: 0
   title: "樋口楓＆青道アカト＆らんまる＆かしこまり＆パンディ at;YouTube かしこまりチャンネルにて"
   end_time: 
   uri: https://twitter.com/kashikomari_ch/status/997767426627391488
+- date: 2018-06-01
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002437388650463232
 - date: 2018-06-01
   time:
     hour: 22

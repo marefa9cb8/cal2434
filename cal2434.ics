@@ -4558,6 +4558,12 @@ URL:https://twitter.com/aki_suzuya/status/1002123933699600384
 DESCRIPTION:https://twitter.com/aki_suzuya/status/1002123933699600384
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T140000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002437388650463232
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T170000
 SUMMARY:夕陽リリ at:YouTube
 URL:https://twitter.com/Yuuhi_Riri/status/1002129078399389696
@@ -4582,16 +4588,40 @@ URL:https://twitter.com/gaku_fushimi/status/1001744330120298496
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/1001744330120298496
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T170000
+SUMMARY:鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/nijisanji_app/status/1002437388650463232
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T180000
 SUMMARY:森中花咲 at:Mirrativ
 URL:https://twitter.com/KazakiMorinaka/status/1000888365858746369
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000888365858746369
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T190000
+SUMMARY:宇志海いちご at:Mirrativ
+URL:https://twitter.com/nijisanji_app/status/1002437388650463232
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T200000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002437388650463232
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T210000
 SUMMARY:樋口楓＆青道アカト＆らんまる＆かしこまり＆パンディ at;YouTube かしこまりチャンネルにて
 URL:https://twitter.com/kashikomari_ch/status/997767426627391488
 DESCRIPTION:https://twitter.com/kashikomari_ch/status/997767426627391488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002437388650463232
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180601T220000
