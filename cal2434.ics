@@ -4593,4 +4593,10 @@ SUMMARY:樋口楓＆青道アカト＆らんまる＆かしこまり＆パンデ
 URL:https://twitter.com/kashikomari_ch/status/997767426627391488
 DESCRIPTION:https://twitter.com/kashikomari_ch/status/997767426627391488
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180601T220000
+SUMMARY:モイラ MoimoiRadio ～今回はお休み～
+URL:
+DESCRIPTION:
+END:VEVENT
 END:VCALENDAR
