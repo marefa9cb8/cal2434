@@ -4642,6 +4642,12 @@ URL:https://twitter.com/nijisanji_app/status/1002801780445466624
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1002801780445466624
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T170000
+SUMMARY:夕陽リリ at:YouTube
+URL:https://twitter.com/Yuuhi_Riri/status/1002859094309421057
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1002859094309421057
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T190000
 SUMMARY:うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット
 URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
@@ -4712,6 +4718,12 @@ DTSTART;TZID=Asia/Tokyo:20180602T180000
 SUMMARY:渋谷ハジメ at:OPENREC.tv 視聴者参加型Splatoon2
 URL:https://twitter.com/sibuya_hajime/status/1002486248307449856
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002486248307449856
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T193000
+SUMMARY:文野環 at:YouTube チャット配信
+URL:https://twitter.com/nekokan_chu/status/1002850037330685952
+DESCRIPTION:https://twitter.com/nekokan_chu/status/1002850037330685952
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T193500
