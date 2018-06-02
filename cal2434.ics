@@ -4642,6 +4642,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T200000
+SUMMARY:勇気ちひろ at:?
+URL:https://twitter.com/Chihiro_yuki23/status/1002775369286479872
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1002775369286479872
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T210000
 SUMMARY:鈴谷アキ＆渋谷ハジメ at:鈴谷アキのYouTubeチャンネル 漢組ラジオ
 URL:https://twitter.com/aki_suzuya/status/1002123933699600384
@@ -4679,9 +4685,9 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1002437388650463232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T160000
-SUMMARY:える at:SHOWROOM 本人twitterHNより
-URL:
-DESCRIPTION:
+SUMMARY:える at:SHOWROOM
+URL:https://twitter.com/Elu_World/status/1002769890401349634
+DESCRIPTION:https://twitter.com/Elu_World/status/1002769890401349634
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T170000
