@@ -4654,6 +4654,12 @@ URL:https://twitter.com/sibuya_hajime/status/1002968366787645441
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002968366787645441
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T041700
+SUMMARY:叶 at:YouTube 雑談
+URL:https://twitter.com/Kanae_2434/status/1002994867700559872
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1002994867700559872
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T170000
 SUMMARY:夕陽リリ at:YouTube
 URL:https://twitter.com/Yuuhi_Riri/status/1002859094309421057
