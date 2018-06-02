@@ -22,9 +22,23 @@
   time:
     hour: 1
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube DARK SOULS"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1002801780445466624
+- date: 2018-06-03
+  time:
+    hour: 1
+    min: 42
+  title: "叶 at:YouTube Fortnite"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1002951671855472640
+- date: 2018-06-03
+  time:
+    hour: 2
+    min: 41
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1002968366787645441
 - date: 2018-06-03
   time:
     hour: 17
