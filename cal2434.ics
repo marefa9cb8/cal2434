@@ -4636,6 +4636,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T013000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002801780445466624
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002801780445466624
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T190000
 SUMMARY:うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット
 URL:https://twitter.com/KazakiMorinaka/status/1000016159993876480
@@ -4714,8 +4720,14 @@ URL:https://twitter.com/sibuya_hajime/status/1002486248307449856
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1002486248307449856
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180602T233000
-SUMMARY:静凛 at:?
+DTSTART;TZID=Asia/Tokyo:20180602T220000
+SUMMARY:物述有栖 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1002801780445466624
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1002801780445466624
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180602T223000
+SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/ShizuRin23/status/1000980294189502464
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1000980294189502464
 END:VEVENT

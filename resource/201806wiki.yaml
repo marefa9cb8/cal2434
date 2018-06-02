@@ -20,6 +20,13 @@
   uri: https://twitter.com/KazakiMorinaka/status/1001026693237108736
 - date: 2018-06-03
   time:
+    hour: 1
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002801780445466624
+- date: 2018-06-03
+  time:
     hour: 19
     min: 0
   title: "うたかざコラボ at:YouTube (森中花咲のチャンネル）＃うたかざ母性よくばりセット"
@@ -111,9 +118,16 @@
   uri: https://twitter.com/sibuya_hajime/status/1002486248307449856
 - date: 2018-06-02
   time:
-    hour: 23
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1002801780445466624
+- date: 2018-06-02
+  time:
+    hour: 22
     min: 30
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-06-01
