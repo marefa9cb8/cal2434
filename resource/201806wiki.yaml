@@ -140,8 +140,15 @@
 - date: 2018-06-02
   time:
     hour: 22
+    min: 0
+  title: "叶 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1002882448001097731
+- date: 2018-06-02
+  time:
+    hour: 23
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube FF14 #10"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1000980294189502464
 - date: 2018-06-01
