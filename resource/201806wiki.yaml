@@ -27,6 +27,20 @@
   uri: https://twitter.com/KazakiMorinaka/status/1001026693237108736
 - date: 2018-06-04
   time:
+    hour: 2
+    min: 18
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1003324970016038912
+- date: 2018-06-04
+  time:
+    hour: 4
+    min: 27
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1003357540665589761
+- date: 2018-06-04
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube TKG"
