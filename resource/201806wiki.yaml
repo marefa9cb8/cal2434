@@ -85,6 +85,13 @@
   time:
     hour: 18
     min: 0
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1003162006566793216
+- date: 2018-06-03
+  time:
+    hour: 18
+    min: 0
   title: "家長むぎ at:YouTube"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1003101161132441605
@@ -99,7 +106,7 @@
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:?"
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/1002775369286479872
 - date: 2018-06-03
@@ -109,6 +116,13 @@
   title: "鈴谷アキ＆渋谷ハジメ at:鈴谷アキのYouTubeチャンネル 漢組ラジオ"
   end_time: 
   uri: https://twitter.com/aki_suzuya/status/1002123933699600384
+- date: 2018-06-03
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1003162008559149058
 - date: 2018-06-02
   time:
     hour: 0

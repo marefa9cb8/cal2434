@@ -4691,6 +4691,12 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1002859094309421057
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T180000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1003162006566793216
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1003162006566793216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T180000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1003101161132441605
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1003101161132441605
@@ -4703,7 +4709,7 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1000016159993876480
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T200000
-SUMMARY:勇気ちひろ at:?
+SUMMARY:勇気ちひろ at:YouTube
 URL:https://twitter.com/Chihiro_yuki23/status/1002775369286479872
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1002775369286479872
 END:VEVENT
@@ -4712,6 +4718,12 @@ DTSTART;TZID=Asia/Tokyo:20180603T210000
 SUMMARY:鈴谷アキ＆渋谷ハジメ at:鈴谷アキのYouTubeチャンネル 漢組ラジオ
 URL:https://twitter.com/aki_suzuya/status/1002123933699600384
 DESCRIPTION:https://twitter.com/aki_suzuya/status/1002123933699600384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T240000
+SUMMARY:剣持刀也 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1003162008559149058
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1003162008559149058
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180602T004300
