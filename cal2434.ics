@@ -4733,6 +4733,12 @@ URL:https://twitter.com/Kanae_2434/status/1003279945873829889
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1003279945873829889
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180603T235800
+SUMMARY:モイラ at:Mirrativ ゲリラ配信
+URL:https://twitter.com/Moiramoimoimoi/status/1003289813619957762
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1003289813619957762
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T240000
 SUMMARY:剣持刀也 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1003162008559149058
