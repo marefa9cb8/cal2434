@@ -4648,6 +4648,12 @@ URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T200000
+SUMMARY:樋口楓 at:YouTube 黒い砂漠
+URL:https://twitter.com/HiguchiKaede/status/1003620098882408448
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1003620098882408448
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T021800
 SUMMARY:渋谷ハジメ at:YouTube LoL
 URL:https://twitter.com/sibuya_hajime/status/1003324970016038912
@@ -4673,9 +4679,15 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T213000
-SUMMARY:叶 at:?   wizard of legend
+SUMMARY:叶 at:YouTube   wizard of legend
 URL:https://twitter.com/Kanae_2434/status/1003601139139350528
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1003601139139350528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180604T221000
+SUMMARY:伏見ガク at:YouTube 限定公開
+URL:https://twitter.com/gaku_fushimi/status/1003624771781718017
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1003624771781718017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T230000

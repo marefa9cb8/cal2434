@@ -32,6 +32,13 @@
   title: "ギルザレンⅢ世 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1003532942151307264
+- date: 2018-06-05
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube 黒い砂漠"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/1003620098882408448
 - date: 2018-06-04
   time:
     hour: 2
@@ -64,9 +71,16 @@
   time:
     hour: 21
     min: 30
-  title: "叶 at:?   wizard of legend"
+  title: "叶 at:YouTube   wizard of legend"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1003601139139350528
+- date: 2018-06-04
+  time:
+    hour: 22
+    min: 10
+  title: "伏見ガク at:YouTube 限定公開"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/1003624771781718017
 - date: 2018-06-04
   time:
     hour: 23
