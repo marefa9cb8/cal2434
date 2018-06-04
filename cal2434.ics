@@ -4672,6 +4672,12 @@ URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180604T213000
+SUMMARY:叶 at:?   wizard of legend
+URL:https://twitter.com/Kanae_2434/status/1003601139139350528
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1003601139139350528
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T230000
 SUMMARY:える at:YouTube Twitterの名前より
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
