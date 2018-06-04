@@ -4660,6 +4660,12 @@ URL:https://twitter.com/gaku_fushimi/status/1003105381042671618
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/1003105381042671618
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180604T230000
+SUMMARY:える at:YouTube Twitterの名前より
+URL:https://twitter.com/elu_world?lang=ja
+DESCRIPTION:https://twitter.com/elu_world?lang=ja
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180603T013000
 SUMMARY:静凛 at:YouTube DARK SOULS
 URL:https://twitter.com/nijisanji_app/status/1002801780445466624
