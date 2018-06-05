@@ -4630,6 +4630,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T230000
+SUMMARY:🈠鈴木勝 at :YouTube
+URL:https://twitter.com/Darkness_Eater/status/1004039655979810816
+DESCRIPTION:https://twitter.com/Darkness_Eater/status/1004039655979810816
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T240000
 SUMMARY:森中花咲 at:?
 URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
@@ -4640,6 +4646,24 @@ DTSTART;TZID=Asia/Tokyo:20180606T020000
 SUMMARY:叶 at:YouTube Fortnite ふぇありす氏とコラボ
 URL:https://twitter.com/Kanae_2434/status/1003974686198267904
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1003974686198267904
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T023700
+SUMMARY:渋谷ハジメ
+URL:https://twitter.com/sibuya_hajime/status/1004054717205368832
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1004054717205368832
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T180000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/1004030927675092992
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1004030927675092992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T190000
+SUMMARY:🈠卯月コウ at:Mirrativ
+URL:https://twitter.com/udukikohh/status/1004047430709460992
+DESCRIPTION:https://twitter.com/udukikohh/status/1004047430709460992
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T200000
