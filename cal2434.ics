@@ -4648,10 +4648,40 @@ URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T190000
+SUMMARY:シスター・クレア at:Mirrativ
+URL:https://twitter.com/SisterCleaire/status/1003918560316387329
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1003918560316387329
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T200000
 SUMMARY:樋口楓 at:YouTube 黒い砂漠
 URL:https://twitter.com/HiguchiKaede/status/1003620098882408448
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1003620098882408448
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T213000
+SUMMARY:鈴谷アキ at: YouTube
+URL:https://twitter.com/nijisanji_app/status/1003886916767399937
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T220000
+SUMMARY:出雲霞 at:Mirrativ 自己紹介＋雑談配信
+URL:https://twitter.com/ikasumi_zzz/status/1003906351913816064
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1003906351913816064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T223000
+SUMMARY:静凛 at: YouTube
+URL:https://twitter.com/nijisanji_app/status/1003886916767399937
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T230000
+SUMMARY:社築 at:Mirrativ 自己紹介を兼ねた雑談
+URL:https://twitter.com/846kizuQ/status/1003913916676599808
+DESCRIPTION:https://twitter.com/846kizuQ/status/1003913916676599808
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T021800
@@ -4691,7 +4721,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/1003624771781718017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T230000
-SUMMARY:える at:YouTube Twitterの名前より
+SUMMARY:える at:YouTube Twitterの名前より →Mirrativへ移行しました
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT

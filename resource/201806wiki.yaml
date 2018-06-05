@@ -34,11 +34,46 @@
   uri: https://twitter.com/nijisanji_app/status/1003532942151307264
 - date: 2018-06-05
   time:
+    hour: 19
+    min: 0
+  title: "シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1003918560316387329
+- date: 2018-06-05
+  time:
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube 黒い砂漠"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/1003620098882408448
+- date: 2018-06-05
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at: YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1003886916767399937
+- date: 2018-06-05
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:Mirrativ 自己紹介＋雑談配信"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1003906351913816064
+- date: 2018-06-05
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at: YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1003886916767399937
+- date: 2018-06-05
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:Mirrativ 自己紹介を兼ねた雑談"
+  end_time: 
+  uri: https://twitter.com/846kizuQ/status/1003913916676599808
 - date: 2018-06-04
   time:
     hour: 2
@@ -85,7 +120,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube Twitterの名前より"
+  title: "える at:YouTube Twitterの名前より →Mirrativへ移行しました"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1003532942151307264
 - date: 2018-06-04
