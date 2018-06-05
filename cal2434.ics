@@ -953,6 +953,12 @@ URL:https://twitter.com/ShizuRin23/status/970581062303694848
 DESCRIPTION:https://twitter.com/ShizuRin23/status/970581062303694848
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180305
+SUMMARY:？時？分～ 静凛 at:YouTube Rainbow Six Siege
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T021300
 SUMMARY:渋谷ハジメ at:YouTube LoL
 URL:https://twitter.com/sibuya_hajime/status/1001874229304877056
@@ -4649,9 +4655,15 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1003974686198267904
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T023700
-SUMMARY:渋谷ハジメ
+SUMMARY:渋谷ハジメ at:YouTube
 URL:https://twitter.com/sibuya_hajime/status/1004054717205368832
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1004054717205368832
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T031400
+SUMMARY:シスター・クレア at:Mirrativ ゲリラ配信
+URL:https://twitter.com/SisterCleaire/status/1004063853406142469
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1004063853406142469
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T180000
@@ -4697,7 +4709,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T190000
-SUMMARY:🈠シスター・クレア at:Mirrativ
+SUMMARY:シスター・クレア at:Mirrativ(初配信)
 URL:https://twitter.com/SisterCleaire/status/1003918560316387329
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1003918560316387329
 END:VEVENT
@@ -4709,7 +4721,7 @@ DESCRIPTION:https://twitter.com/HiguchiKaede/status/1003620098882408448
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T210000
-SUMMARY:🈠名伽尾アズマ at:Mirrativ
+SUMMARY:名伽尾アズマ at:Mirrativ(初配信)
 URL:https://twitter.com/azuma_dazo/status/1003934557777715200
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1003934557777715200
 END:VEVENT
@@ -4721,7 +4733,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T220000
-SUMMARY:🈠出雲霞 at:Mirrativ 自己紹介＋雑談配信
+SUMMARY:出雲霞 at:Mirrativ(初配信) 自己紹介＋雑談配信
 URL:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 END:VEVENT
@@ -4745,7 +4757,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1003973759240364036
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T230000
-SUMMARY:🈠社築 at:Mirrativ 自己紹介を兼ねた雑談
+SUMMARY:社築 at:Mirrativ(初配信)  自己紹介を兼ねた雑談
 URL:https://twitter.com/846kizuQ/status/1003913916676599808
 DESCRIPTION:https://twitter.com/846kizuQ/status/1003913916676599808
 END:VEVENT

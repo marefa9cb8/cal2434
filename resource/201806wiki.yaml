@@ -36,9 +36,16 @@
   time:
     hour: 2
     min: 37
-  title: "渋谷ハジメ"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1004054717205368832
+- date: 2018-06-06
+  time:
+    hour: 3
+    min: 14
+  title: "シスター・クレア at:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1004063853406142469
 - date: 2018-06-06
   time:
     hour: 18
@@ -92,7 +99,7 @@
   time:
     hour: 19
     min: 0
-  title: "\U0001F220シスター・クレア at:Mirrativ"
+  title: "シスター・クレア at:Mirrativ(初配信)"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1003918560316387329
 - date: 2018-06-05
@@ -106,7 +113,7 @@
   time:
     hour: 21
     min: 0
-  title: "\U0001F220名伽尾アズマ at:Mirrativ"
+  title: "名伽尾アズマ at:Mirrativ(初配信)"
   end_time: 
   uri: https://twitter.com/azuma_dazo/status/1003934557777715200
 - date: 2018-06-05
@@ -120,7 +127,7 @@
   time:
     hour: 22
     min: 0
-  title: "\U0001F220出雲霞 at:Mirrativ 自己紹介＋雑談配信"
+  title: "出雲霞 at:Mirrativ(初配信) 自己紹介＋雑談配信"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1003906351913816064
 - date: 2018-06-05
@@ -148,7 +155,7 @@
   time:
     hour: 23
     min: 0
-  title: "\U0001F220社築 at:Mirrativ 自己紹介を兼ねた雑談"
+  title: "社築 at:Mirrativ(初配信)  自己紹介を兼ねた雑談"
   end_time: 
   uri: https://twitter.com/846kizuQ/status/1003913916676599808
 - date: 2018-06-05
