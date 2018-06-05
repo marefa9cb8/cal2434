@@ -4642,6 +4642,24 @@ URL:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T210000
+SUMMARY:🈠八朔ゆず at:Mirrativ
+URL:https://twitter.com/839yuzu/status/1003955106469957632
+DESCRIPTION:https://twitter.com/839yuzu/status/1003955106469957632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T220000
+SUMMARY:物述有栖 at:? 本人Twitterネームより
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T230000
+SUMMARY:🈠轟京子 at :Mirrativ
+URL:https://twitter.com/KT_seeds/status/1003932551914741760
+DESCRIPTION:https://twitter.com/KT_seeds/status/1003932551914741760
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T010000
 SUMMARY:ギルザレンⅢ世 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
@@ -4649,7 +4667,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T190000
-SUMMARY:シスター・クレア at:Mirrativ
+SUMMARY:🈠シスター・クレア at:Mirrativ
 URL:https://twitter.com/SisterCleaire/status/1003918560316387329
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1003918560316387329
 END:VEVENT
@@ -4660,6 +4678,12 @@ URL:https://twitter.com/HiguchiKaede/status/1003620098882408448
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1003620098882408448
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T210000
+SUMMARY:🈠名伽尾アズマ at:Mirrativ
+URL:https://twitter.com/azuma_dazo/status/1003934557777715200
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1003934557777715200
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T213000
 SUMMARY:鈴谷アキ at: YouTube
 URL:https://twitter.com/nijisanji_app/status/1003886916767399937
@@ -4667,7 +4691,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T220000
-SUMMARY:出雲霞 at:Mirrativ 自己紹介＋雑談配信
+SUMMARY:🈠出雲霞 at:Mirrativ 自己紹介＋雑談配信
 URL:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 END:VEVENT
@@ -4679,7 +4703,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T230000
-SUMMARY:社築 at:Mirrativ 自己紹介を兼ねた雑談
+SUMMARY:🈠社築 at:Mirrativ 自己紹介を兼ねた雑談
 URL:https://twitter.com/846kizuQ/status/1003913916676599808
 DESCRIPTION:https://twitter.com/846kizuQ/status/1003913916676599808
 END:VEVENT
@@ -4721,7 +4745,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/1003624771781718017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T230000
-SUMMARY:える at:YouTube Twitterの名前より →Mirrativへ移行しました
+SUMMARY:える at:YouTube Twitterの名前より →YouTube配信の不具合の為、途中でMirrativへ移行しました
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
