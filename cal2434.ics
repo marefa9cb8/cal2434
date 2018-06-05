@@ -4636,6 +4636,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T020000
+SUMMARY:叶 at:YouTube Fortnite ふぇありす氏とコラボ
+URL:https://twitter.com/Kanae_2434/status/1003974686198267904
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1003974686198267904
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T200000
 SUMMARY:える＆かざの森の友オフ会 at:森中花咲のYouTube
 URL:https://twitter.com/KazakiMorinaka/status/1001026693237108736
@@ -4696,16 +4702,40 @@ URL:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1003906351913816064
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T221000
+SUMMARY:叶 at:YouTube 雑談 時間変更
+URL:https://twitter.com/Kanae_2434/status/1003974686198267904
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1003974686198267904
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T223000
 SUMMARY:静凛 at: YouTube
 URL:https://twitter.com/nijisanji_app/status/1003886916767399937
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003886916767399937
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T223000
+SUMMARY:叶 at:Twitch
+URL:https://twitter.com/Kanae_2434/status/1003973759240364036
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1003973759240364036
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T230000
 SUMMARY:🈠社築 at:Mirrativ 自己紹介を兼ねた雑談
 URL:https://twitter.com/846kizuQ/status/1003913916676599808
 DESCRIPTION:https://twitter.com/846kizuQ/status/1003913916676599808
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T233200
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1004008026049675264
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004008026049675264
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180605T240000
+SUMMARY:夕陽リリ at:Mirrativ
+URL:https://twitter.com/Yuuhi_Riri/status/1004000832122044416
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1004000832122044416
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T021800

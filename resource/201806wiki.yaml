@@ -20,6 +20,13 @@
   uri: https://twitter.com/KazakiMorinaka/status/1003277897610625024
 - date: 2018-06-06
   time:
+    hour: 2
+    min: 0
+  title: "叶 at:YouTube Fortnite ふぇありす氏とコラボ"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1003974686198267904
+- date: 2018-06-06
+  time:
     hour: 20
     min: 0
   title: "える＆かざの森の友オフ会 at:森中花咲のYouTube"
@@ -91,10 +98,24 @@
 - date: 2018-06-05
   time:
     hour: 22
+    min: 10
+  title: "叶 at:YouTube 雑談 時間変更"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1003974686198267904
+- date: 2018-06-05
+  time:
+    hour: 22
     min: 30
   title: "静凛 at: YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1003886916767399937
+- date: 2018-06-05
+  time:
+    hour: 22
+    min: 30
+  title: "叶 at:Twitch"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1003973759240364036
 - date: 2018-06-05
   time:
     hour: 23
@@ -102,6 +123,20 @@
   title: "\U0001F220社築 at:Mirrativ 自己紹介を兼ねた雑談"
   end_time: 
   uri: https://twitter.com/846kizuQ/status/1003913916676599808
+- date: 2018-06-05
+  time:
+    hour: 23
+    min: 32
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1004008026049675264
+- date: 2018-06-05
+  time:
+    hour: 24
+    min: 0
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1004000832122044416
 - date: 2018-06-04
   time:
     hour: 2
