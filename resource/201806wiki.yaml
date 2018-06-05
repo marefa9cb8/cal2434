@@ -27,12 +27,10 @@
   uri: https://twitter.com/KazakiMorinaka/status/1001026693237108736
 - date: 2018-06-05
   time:
-    hour: 0
-    min: 30
-  title: "～ ギルザレンⅢ世 at:YouTube"
-  end_time:
     hour: 1
     min: 0
+  title: "ギルザレンⅢ世 at:YouTube"
+  end_time: 
   uri: https://twitter.com/nijisanji_app/status/1003532942151307264
 - date: 2018-06-05
   time:

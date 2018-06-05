@@ -4642,9 +4642,8 @@ URL:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180605T003000
-DTEND;TZID=Asia/Tokyo:20180605T010000
-SUMMARY:～ ギルザレンⅢ世 at:YouTube
+DTSTART;TZID=Asia/Tokyo:20180605T010000
+SUMMARY:ギルザレンⅢ世 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
