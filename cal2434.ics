@@ -4648,6 +4648,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T170000
+SUMMARY:鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/1004144406708940800
+DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T020000
 SUMMARY:叶 at:YouTube Fortnite ふぇありす氏とコラボ
 URL:https://twitter.com/Kanae_2434/status/1003974686198267904
@@ -4700,6 +4706,18 @@ DTSTART;TZID=Asia/Tokyo:20180606T220000
 SUMMARY:物述有栖 at:? 本人Twitterネームより
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T220000
+SUMMARY:叶 at:? Wizard of Legend
+URL:https://twitter.com/Kanae_2434/status/1004163601718865920
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004163601718865920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T220000
+SUMMARY:文野環 at:YouTube チャット配信
+URL:https://twitter.com/nekokan_chu/status/1004140368802168832
+DESCRIPTION:https://twitter.com/nekokan_chu/status/1004140368802168832
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T230000
