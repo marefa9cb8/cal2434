@@ -4654,6 +4654,12 @@ URL:https://twitter.com/suzukautako/status/1004144406708940800
 DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T230000
+SUMMARY:(ずれる可能性中) 海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1004283374666543105
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1004283374666543105
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T020000
 SUMMARY:叶 at:YouTube Fortnite ふぇありす氏とコラボ
 URL:https://twitter.com/Kanae_2434/status/1003974686198267904
@@ -4685,6 +4691,12 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1004200866520240129
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T180000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004249481229971458
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004249481229971458
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T180000
 SUMMARY:19時00分～ 家長むぎ at:YouTube 時間変更
 URL:https://twitter.com/ienaga_mugi23/status/1004030927675092992
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1004030927675092992
@@ -4706,6 +4718,12 @@ DTSTART;TZID=Asia/Tokyo:20180606T210000
 SUMMARY:🈠八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1003955106469957632
 DESCRIPTION:https://twitter.com/839yuzu/status/1003955106469957632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T210000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004249481229971458
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004249481229971458
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T213000
@@ -4742,6 +4760,12 @@ DTSTART;TZID=Asia/Tokyo:20180606T240000
 SUMMARY:剣持刀也 at:YouTube
 URL:https://twitter.com/rei_Toya_rei/status/1004283009594417152
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1004283009594417152
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T240000
+SUMMARY:深夜三傑RKS at:?
+URL:https://twitter.com/Kanae_2434/status/1004314018968846336
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004314018968846336
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T010000
