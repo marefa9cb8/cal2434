@@ -4678,8 +4678,14 @@ URL:https://twitter.com/Kanae_2434/status/1004128643222605824
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1004128643222605824
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T130000
+SUMMARY:静凛 at:YouTube farcray5
+URL:https://twitter.com/ShizuRin23/status/1004200866520240129
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1004200866520240129
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T180000
-SUMMARY:家長むぎ at:YouTube
+SUMMARY:19時00分～ 家長むぎ at:YouTube 時間変更
 URL:https://twitter.com/ienaga_mugi23/status/1004030927675092992
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1004030927675092992
 END:VEVENT

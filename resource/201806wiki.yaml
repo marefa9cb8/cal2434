@@ -62,9 +62,16 @@
   uri: https://twitter.com/Kanae_2434/status/1004128643222605824
 - date: 2018-06-06
   time:
+    hour: 13
+    min: 0
+  title: "静凛 at:YouTube farcray5"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1004200866520240129
+- date: 2018-06-06
+  time:
     hour: 18
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: 19時00分～ 家長むぎ at:YouTube 時間変更
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1004030927675092992
 - date: 2018-06-06
