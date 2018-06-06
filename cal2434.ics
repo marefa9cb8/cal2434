@@ -4624,10 +4624,22 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T213000
+SUMMARY:JK組コラボ (14日から日程変更。6/6樋口楓の配信にて告知)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
-SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）
+SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614
+SUMMARY:でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T220000
@@ -4643,7 +4655,7 @@ DESCRIPTION:https://twitter.com/Darkness_Eater/status/1004039655979810816
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T240000
-SUMMARY:森中花咲 at:?
+SUMMARY:森中花咲 at:Youtube  オトナ花咲の悪いコNight☽
 URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 END:VEVENT
@@ -4739,21 +4751,27 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1004249481229971458
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T220000
-SUMMARY:叶 at:? Wizard of Legend
-URL:https://twitter.com/Kanae_2434/status/1004163601718865920
-DESCRIPTION:https://twitter.com/Kanae_2434/status/1004163601718865920
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180606T220000
 SUMMARY:文野環 at:YouTube チャット配信
 URL:https://twitter.com/nekokan_chu/status/1004140368802168832
 DESCRIPTION:https://twitter.com/nekokan_chu/status/1004140368802168832
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T221000
+SUMMARY:叶 at:YouTube Wizard of Legend
+URL:https://twitter.com/Kanae_2434/status/1004163601718865920
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004163601718865920
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T230000
 SUMMARY:🈠轟京子 at :Mirrativ
 URL:https://twitter.com/KT_seeds/status/1003932551914741760
 DESCRIPTION:https://twitter.com/KT_seeds/status/1003932551914741760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T233400
+SUMMARY:樋口楓 at :Mirrativ ゲリラ配信
+URL:https://twitter.com/HiguchiKaede/status/1004368692249968640
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1004368692249968640
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T240000

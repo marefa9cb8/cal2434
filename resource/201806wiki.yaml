@@ -1,9 +1,21 @@
 ---
+- date: 2018-06-22
+  time:
+    hour: 21
+    min: 30
+  title: JK組コラボ (14日から日程変更。6/6樋口楓の配信にて告知)
+  end_time: 
+  uri: 
 - date: 2018-06-14
   time: 
-  title: JK組コラボ（5/14に行われる予定だったものが本日に延期）
+  title: JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/995527978682470401
+- date: 2018-06-14
+  time: 
+  title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）"
+  end_time: 
+  uri: 
 - date: 2018-06-08
   time:
     hour: 22
@@ -22,7 +34,7 @@
   time:
     hour: 24
     min: 0
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:Youtube  オトナ花咲の悪いコNight☽"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1003277897610625024
 - date: 2018-06-07
@@ -134,16 +146,16 @@
   time:
     hour: 22
     min: 0
-  title: "叶 at:? Wizard of Legend"
-  end_time: 
-  uri: https://twitter.com/Kanae_2434/status/1004163601718865920
-- date: 2018-06-06
-  time:
-    hour: 22
-    min: 0
   title: "文野環 at:YouTube チャット配信"
   end_time: 
   uri: https://twitter.com/nekokan_chu/status/1004140368802168832
+- date: 2018-06-06
+  time:
+    hour: 22
+    min: 10
+  title: "叶 at:YouTube Wizard of Legend"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1004163601718865920
 - date: 2018-06-06
   time:
     hour: 23
@@ -151,6 +163,13 @@
   title: "\U0001F220轟京子 at :Mirrativ"
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1003932551914741760
+- date: 2018-06-06
+  time:
+    hour: 23
+    min: 34
+  title: "樋口楓 at :Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/1004368692249968640
 - date: 2018-06-06
   time:
     hour: 24
