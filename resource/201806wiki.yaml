@@ -97,11 +97,18 @@
   uri: https://twitter.com/839yuzu/status/1003955106469957632
 - date: 2018-06-06
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004249481229971458
+- date: 2018-06-06
+  time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? 本人Twitterネームより"
+  title: "物述有栖 at:YouTube 本人Twitterネームより"
   end_time: 
-  uri: https://twitter.com/AliceMononobe
+  uri: https://twitter.com/nijisanji_app/status/1004249481229971458
 - date: 2018-06-06
   time:
     hour: 22
@@ -123,6 +130,13 @@
   title: "\U0001F220轟京子 at :Mirrativ"
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1003932551914741760
+- date: 2018-06-06
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/rei_Toya_rei/status/1004283009594417152
 - date: 2018-06-05
   time:
     hour: 1

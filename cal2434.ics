@@ -4708,10 +4708,16 @@ URL:https://twitter.com/839yuzu/status/1003955106469957632
 DESCRIPTION:https://twitter.com/839yuzu/status/1003955106469957632
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004249481229971458
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004249481229971458
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T220000
-SUMMARY:物述有栖 at:? 本人Twitterネームより
-URL:https://twitter.com/AliceMononobe
-DESCRIPTION:https://twitter.com/AliceMononobe
+SUMMARY:物述有栖 at:YouTube 本人Twitterネームより
+URL:https://twitter.com/nijisanji_app/status/1004249481229971458
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004249481229971458
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T220000
@@ -4730,6 +4736,12 @@ DTSTART;TZID=Asia/Tokyo:20180606T230000
 SUMMARY:🈠轟京子 at :Mirrativ
 URL:https://twitter.com/KT_seeds/status/1003932551914741760
 DESCRIPTION:https://twitter.com/KT_seeds/status/1003932551914741760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T240000
+SUMMARY:剣持刀也 at:YouTube
+URL:https://twitter.com/rei_Toya_rei/status/1004283009594417152
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1004283009594417152
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180605T010000
