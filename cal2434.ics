@@ -4642,6 +4642,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T213000
+SUMMARY:緑仙 at:Youtube
+URL:https://twitter.com/midori_2434/status/1004387975822635009
+DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T220000
 SUMMARY:月ノ美兎 みとらじ
 URL:
@@ -4660,6 +4666,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T013600
+SUMMARY:ギルザレンIII世 at YouTube
+URL:https://twitter.com/Gilzaren_III/status/1004400301586014208
+DESCRIPTION:https://twitter.com/Gilzaren_III/status/1004400301586014208
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T170000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1004144406708940800
@@ -4667,7 +4679,7 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
-SUMMARY:(ずれる可能性中) 海夜叉神 at:YouTube
+SUMMARY:(ずれる可能性中) 海夜叉神 at:YouTube 初YouTubeLive
 URL:https://twitter.com/god_yaksa23/status/1004283374666543105
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1004283374666543105
 END:VEVENT
@@ -4715,7 +4727,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1004030927675092992
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T190000
-SUMMARY:🈠卯月コウ at:Mirrativ
+SUMMARY:卯月コウ at:Mirrativ 初配信
 URL:https://twitter.com/udukikohh/status/1004047430709460992
 DESCRIPTION:https://twitter.com/udukikohh/status/1004047430709460992
 END:VEVENT
@@ -4727,7 +4739,7 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1001026693237108736
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T210000
-SUMMARY:🈠八朔ゆず at:Mirrativ
+SUMMARY:八朔ゆず at:Mirrativ 初配信
 URL:https://twitter.com/839yuzu/status/1003955106469957632
 DESCRIPTION:https://twitter.com/839yuzu/status/1003955106469957632
 END:VEVENT
@@ -4763,7 +4775,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1004163601718865920
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T230000
-SUMMARY:🈠轟京子 at :Mirrativ
+SUMMARY:轟京子 at :Mirrativ 初配信
 URL:https://twitter.com/KT_seeds/status/1003932551914741760
 DESCRIPTION:https://twitter.com/KT_seeds/status/1003932551914741760
 END:VEVENT
@@ -4781,7 +4793,7 @@ DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1004283009594417152
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T240000
-SUMMARY:深夜三傑RKS at:?
+SUMMARY:深夜三傑RKS at:YouTube PUBG
 URL:https://twitter.com/Kanae_2434/status/1004314018968846336
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1004314018968846336
 END:VEVENT
