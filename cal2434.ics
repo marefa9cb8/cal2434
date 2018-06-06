@@ -4666,6 +4666,12 @@ URL:https://twitter.com/SisterCleaire/status/1004063853406142469
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1004063853406142469
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180606T073000
+SUMMARY:叶 at:YouTube 突発コラボ シロウケンのチャンネル
+URL:https://twitter.com/Kanae_2434/status/1004128643222605824
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004128643222605824
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T180000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1004030927675092992
