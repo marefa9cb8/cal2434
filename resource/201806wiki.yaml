@@ -16,11 +16,32 @@
   title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）"
   end_time: 
   uri: 
+- date: 2018-06-09
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:? 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe
+- date: 2018-06-08
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-08
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
 - date: 2018-06-08
   time:
     hour: 21
     min: 30
-  title: "\U0001F220緑仙 at:Youtube"
+  title: "\U0001F220緑仙 at:YouTube"
   end_time: 
   uri: https://twitter.com/midori_2434/status/1004387975822635009
 - date: 2018-06-08
@@ -41,7 +62,7 @@
   time:
     hour: 24
     min: 0
-  title: "森中花咲 at:Youtube  オトナ花咲の悪いコNight☽"
+  title: "森中花咲 at:YouTube  オトナ花咲の悪いコNight☽"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1003277897610625024
 - date: 2018-06-07
@@ -62,9 +83,16 @@
   time:
     hour: 15
     min: 0
-  title: "シスター・クレア at:?"
+  title: "シスター・クレア at:Mirrativ"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1004587156872941570
+- date: 2018-06-07
+  time:
+    hour: 16
+    min: 20
+  title: "名伽尾アズマ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/azuma_dazo/status/1004624036066877440
 - date: 2018-06-07
   time:
     hour: 17
@@ -74,11 +102,51 @@
   uri: https://twitter.com/suzukautako/status/1004144406708940800
 - date: 2018-06-07
   time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-07
+  time:
+    hour: 20
+    min: 30
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-07
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-07
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-07
+  time: 
+  title: "未定(夜、海夜叉神より前) \U0001F220花畑チャイカ at:?"
+  end_time: 
+  uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
+- date: 2018-06-07
+  time:
     hour: 23
     min: 0
   title: "\U0001F220 海夜叉神 at:YouTube 初YouTubeLive"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1004407295432798208
+- date: 2018-06-07
+  time:
+    hour: 24
+    min: 0
+  title: "出雲霞 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1004644269334802433
 - date: 2018-06-06
   time:
     hour: 2

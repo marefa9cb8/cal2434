@@ -4642,8 +4642,26 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T220000
+SUMMARY:物述有栖 at:? 本人Twitterネームより
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T010000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T064500
+SUMMARY:伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T213000
-SUMMARY:🈠緑仙 at:Youtube
+SUMMARY:🈠緑仙 at:YouTube
 URL:https://twitter.com/midori_2434/status/1004387975822635009
 DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
 END:VEVENT
@@ -4661,7 +4679,7 @@ DESCRIPTION:https://twitter.com/Darkness_Eater/status/1004039655979810816
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T240000
-SUMMARY:森中花咲 at:Youtube  オトナ花咲の悪いコNight☽
+SUMMARY:森中花咲 at:YouTube  オトナ花咲の悪いコNight☽
 URL:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1003277897610625024
 END:VEVENT
@@ -4679,9 +4697,15 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1004483845293391872
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T150000
-SUMMARY:シスター・クレア at:?
+SUMMARY:シスター・クレア at:Mirrativ
 URL:https://twitter.com/SisterCleaire/status/1004587156872941570
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1004587156872941570
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T162000
+SUMMARY:名伽尾アズマ at:Mirrativ
+URL:https://twitter.com/azuma_dazo/status/1004624036066877440
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1004624036066877440
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T170000
@@ -4690,10 +4714,46 @@ URL:https://twitter.com/suzukautako/status/1004144406708940800
 DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T190000
+SUMMARY:宇志海いちご at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T203000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T223000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607
+SUMMARY:未定(夜、海夜叉神より前) 🈠花畑チャイカ at:?
+URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
+DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
 SUMMARY:🈠 海夜叉神 at:YouTube 初YouTubeLive
 URL:https://twitter.com/god_yaksa23/status/1004407295432798208
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1004407295432798208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T240000
+SUMMARY:出雲霞 at:Mirrativ
+URL:https://twitter.com/ikasumi_zzz/status/1004644269334802433
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1004644269334802433
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T020000
