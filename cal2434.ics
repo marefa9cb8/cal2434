@@ -4661,6 +4661,12 @@ URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609
+SUMMARY:出雲霞 己の中に眠る友達といっしょに5人で雑談配信
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T010000
 SUMMARY:静凛 at:OPENREC.tv
 URL:https://twitter.com/nijisanji_app/status/1004621474999631872
