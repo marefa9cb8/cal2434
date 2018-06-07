@@ -16,6 +16,13 @@
   title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）"
   end_time: 
   uri: 
+- date: 2018-06-10
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:Mirrativ  雑談配信"
+  end_time: 
+  uri: https://twitter.com/KT_seeds/status/1004701877081030656
 - date: 2018-06-09
   time:
     hour: 22
@@ -37,6 +44,13 @@
   title: "伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-08
+  time:
+    hour: 18
+    min: 30
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1004732143040425985
 - date: 2018-06-08
   time:
     hour: 21
@@ -140,17 +154,17 @@
 - date: 2018-06-07
   time:
     hour: 22
-    min: 30
-  title: "静凛 at:YouTube"
-  end_time: 
-  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
-- date: 2018-06-07
-  time:
-    hour: 22
     min: 0
   title: "\U0001F220花畑チャイカ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
+- date: 2018-06-07
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube FF14 #12"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1004621474999631872
 - date: 2018-06-07
   time:
     hour: 23

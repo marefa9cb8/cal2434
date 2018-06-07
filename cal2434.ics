@@ -4642,6 +4642,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T220000
+SUMMARY:轟京子 at:Mirrativ  雑談配信
+URL:https://twitter.com/KT_seeds/status/1004701877081030656
+DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
 SUMMARY:物述有栖 at:? 本人Twitterネームより
 URL:https://twitter.com/AliceMononobe
@@ -4658,6 +4664,12 @@ DTSTART;TZID=Asia/Tokyo:20180608T064500
 SUMMARY:伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン
 URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T183000
+SUMMARY:夕陽リリ at:Mirrativ
+URL:https://twitter.com/Yuuhi_Riri/status/1004732143040425985
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1004732143040425985
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T213000
@@ -4745,16 +4757,16 @@ URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180607T223000
-SUMMARY:静凛 at:YouTube
-URL:https://twitter.com/nijisanji_app/status/1004621474999631872
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T220000
 SUMMARY:🈠花畑チャイカ at:Mirrativ
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T223000
+SUMMARY:静凛 at:YouTube FF14 #12
+URL:https://twitter.com/nijisanji_app/status/1004621474999631872
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
