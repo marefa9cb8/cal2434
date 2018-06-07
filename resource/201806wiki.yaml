@@ -20,7 +20,7 @@
   time:
     hour: 21
     min: 30
-  title: "緑仙 at:Youtube"
+  title: "\U0001F220緑仙 at:Youtube"
   end_time: 
   uri: https://twitter.com/midori_2434/status/1004387975822635009
 - date: 2018-06-08
@@ -53,6 +53,13 @@
   uri: https://twitter.com/Gilzaren_III/status/1004400301586014208
 - date: 2018-06-07
   time:
+    hour: 7
+    min: 0
+  title: "叶 at:YouTube ふぇありす氏のチャンネルでふぇありす＆シロウケンとコラボ"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1004483845293391872
+- date: 2018-06-07
+  time:
     hour: 17
     min: 0
   title: "鈴鹿詩子 at:SHOWROOM"
@@ -62,9 +69,9 @@
   time:
     hour: 23
     min: 0
-  title: "(ずれる可能性中) 海夜叉神 at:YouTube 初YouTubeLive"
+  title: "\U0001F220 海夜叉神 at:YouTube 初YouTubeLive"
   end_time: 
-  uri: https://twitter.com/god_yaksa23/status/1004283374666543105
+  uri: https://twitter.com/god_yaksa23/status/1004407295432798208
 - date: 2018-06-06
   time:
     hour: 2

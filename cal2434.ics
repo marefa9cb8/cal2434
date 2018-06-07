@@ -4643,7 +4643,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T213000
-SUMMARY:緑仙 at:Youtube
+SUMMARY:🈠緑仙 at:Youtube
 URL:https://twitter.com/midori_2434/status/1004387975822635009
 DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
 END:VEVENT
@@ -4672,6 +4672,12 @@ URL:https://twitter.com/Gilzaren_III/status/1004400301586014208
 DESCRIPTION:https://twitter.com/Gilzaren_III/status/1004400301586014208
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T070000
+SUMMARY:叶 at:YouTube ふぇありす氏のチャンネルでふぇありす＆シロウケンとコラボ
+URL:https://twitter.com/Kanae_2434/status/1004483845293391872
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004483845293391872
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T170000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1004144406708940800
@@ -4679,9 +4685,9 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
-SUMMARY:(ずれる可能性中) 海夜叉神 at:YouTube 初YouTubeLive
-URL:https://twitter.com/god_yaksa23/status/1004283374666543105
-DESCRIPTION:https://twitter.com/god_yaksa23/status/1004283374666543105
+SUMMARY:🈠 海夜叉神 at:YouTube 初YouTubeLive
+URL:https://twitter.com/god_yaksa23/status/1004407295432798208
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1004407295432798208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180606T020000
