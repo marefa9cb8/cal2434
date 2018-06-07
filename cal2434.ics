@@ -4678,6 +4678,12 @@ URL:https://twitter.com/Kanae_2434/status/1004483845293391872
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1004483845293391872
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T150000
+SUMMARY:シスター・クレア at:?
+URL:https://twitter.com/SisterCleaire/status/1004587156872941570
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1004587156872941570
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T170000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1004144406708940800
