@@ -4673,7 +4673,8 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
-SUMMARY:🈠鈴木勝 at :YouTube
+DTEND;TZID=Asia/Tokyo:20180608T240000
+SUMMARY:～ 🈠鈴木勝 at :YouTube 時間変更
 URL:https://twitter.com/Darkness_Eater/status/1004039655979810816
 DESCRIPTION:https://twitter.com/Darkness_Eater/status/1004039655979810816
 END:VEVENT
@@ -4714,10 +4715,22 @@ URL:https://twitter.com/suzukautako/status/1004144406708940800
 DESCRIPTION:https://twitter.com/suzukautako/status/1004144406708940800
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T182700
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1004656048987299840
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004656048987299840
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T190000
 SUMMARY:宇志海いちご at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180607T192600
+SUMMARY:渋谷ハジメ at YouTube
+URL:https://twitter.com/sibuya_hajime/status/1004673289392754688
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1004673289392754688
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T203000
@@ -4738,14 +4751,14 @@ URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180607
-SUMMARY:未定(夜、海夜叉神より前) 🈠花畑チャイカ at:?
+DTSTART;TZID=Asia/Tokyo:20180607T220000
+SUMMARY:🈠花畑チャイカ at:Mirrativ
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
-SUMMARY:🈠 海夜叉神 at:YouTube 初YouTubeLive
+SUMMARY:🈠海夜叉神 at:YouTube 初YouTubeLive
 URL:https://twitter.com/god_yaksa23/status/1004407295432798208
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1004407295432798208
 END:VEVENT
