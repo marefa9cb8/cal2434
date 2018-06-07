@@ -13,7 +13,7 @@
   uri: https://twitter.com/MitoTsukino/status/995527978682470401
 - date: 2018-06-14
   time: 
-  title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）"
+  title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrativ配信にて告知）"
   end_time: 
   uri: 
 - date: 2018-06-10
@@ -23,6 +23,15 @@
   title: "轟京子 at:Mirrativ  雑談配信"
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1004701877081030656
+- date: 2018-06-09
+  time:
+    hour: 20
+    min: 0
+  title: "までの間 ドーラ at:?"
+  end_time:
+    hour: 22
+    min: 0
+  uri: https://twitter.com/___Dola/status/1004745732409176067
 - date: 2018-06-09
   time:
     hour: 22
@@ -37,6 +46,13 @@
   title: "静凛 at:OPENREC.tv"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-08
+  time:
+    hour: 1
+    min: 25
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1004761372125589505
 - date: 2018-06-08
   time:
     hour: 6
@@ -65,6 +81,13 @@
   title: "月ノ美兎 みとらじ"
   end_time: 
   uri: 
+- date: 2018-06-08
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也 at:YouTube 《Sharpness Radio》通称しゃぷらじ。（配信開始時間は6/6配信にて言及）"
+  end_time: 
+  uri: http://twpf.jp/rei_Toya_rei
 - date: 2018-06-08
   time:
     hour: 23
@@ -155,7 +178,7 @@
   time:
     hour: 22
     min: 0
-  title: "\U0001F220花畑チャイカ at:Mirrativ"
+  title: "花畑チャイカ at:Mirrativ 初配信"
   end_time: 
   uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 - date: 2018-06-07
@@ -169,15 +192,17 @@
   time:
     hour: 23
     min: 0
-  title: "\U0001F220海夜叉神 at:YouTube 初YouTubeLive"
+  title: "海夜叉神 at:YouTube 初YouTubeLive"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1004407295432798208
 - date: 2018-06-07
   time:
     hour: 24
     min: 0
-  title: "出雲霞 at:Mirrativ"
-  end_time: 
+  title: "～ 出雲霞 at:Mirrativ 時間変更"
+  end_time:
+    hour: 24
+    min: 10
   uri: https://twitter.com/ikasumi_zzz/status/1004644269334802433
 - date: 2018-06-06
   time:
@@ -421,7 +446,7 @@
   time:
     hour: 18
     min: 30
-  title: "静凜 at:YouTube"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1003532942151307264
 - date: 2018-06-04

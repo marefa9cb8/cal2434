@@ -2569,7 +2569,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/994467165733502977
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180510T200000
-SUMMARY:勇気ちひろ at:mirrative
+SUMMARY:勇気ちひろ at:mirrativ
 URL:https://twitter.com/nijisanji_app/status/994467165733502977
 DESCRIPTION:https://twitter.com/nijisanji_app/status/994467165733502977
 END:VEVENT
@@ -4637,7 +4637,7 @@ DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
-SUMMARY:でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrative配信にて告知）
+SUMMARY:でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrativ配信にて告知）
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4646,6 +4646,13 @@ DTSTART;TZID=Asia/Tokyo:20180610T220000
 SUMMARY:轟京子 at:Mirrativ  雑談配信
 URL:https://twitter.com/KT_seeds/status/1004701877081030656
 DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T200000
+DTEND;TZID=Asia/Tokyo:20180609T220000
+SUMMARY:までの間 ドーラ at:?
+URL:https://twitter.com/___Dola/status/1004745732409176067
+DESCRIPTION:https://twitter.com/___Dola/status/1004745732409176067
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
@@ -4658,6 +4665,12 @@ DTSTART;TZID=Asia/Tokyo:20180608T010000
 SUMMARY:静凛 at:OPENREC.tv
 URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T012500
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1004761372125589505
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1004761372125589505
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T064500
@@ -4682,6 +4695,12 @@ DTSTART;TZID=Asia/Tokyo:20180608T220000
 SUMMARY:月ノ美兎 みとらじ
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T230000
+SUMMARY:剣持刀也 at:YouTube 《Sharpness Radio》通称しゃぷらじ。（配信開始時間は6/6配信にて言及）
+URL:http://twpf.jp/rei_Toya_rei
+DESCRIPTION:http://twpf.jp/rei_Toya_rei
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
@@ -4758,7 +4777,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T220000
-SUMMARY:🈠花畑チャイカ at:Mirrativ
+SUMMARY:花畑チャイカ at:Mirrativ 初配信
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1004603564402987013
 END:VEVENT
@@ -4770,13 +4789,14 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T230000
-SUMMARY:🈠海夜叉神 at:YouTube 初YouTubeLive
+SUMMARY:海夜叉神 at:YouTube 初YouTubeLive
 URL:https://twitter.com/god_yaksa23/status/1004407295432798208
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1004407295432798208
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180607T240000
-SUMMARY:出雲霞 at:Mirrativ
+DTEND;TZID=Asia/Tokyo:20180607T241000
+SUMMARY:～ 出雲霞 at:Mirrativ 時間変更
 URL:https://twitter.com/ikasumi_zzz/status/1004644269334802433
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1004644269334802433
 END:VEVENT
@@ -4986,7 +5006,7 @@ DESCRIPTION:https://twitter.com/gaku_fushimi/status/1003105381042671618
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180604T183000
-SUMMARY:静凜 at:YouTube
+SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1003532942151307264
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1003532942151307264
 END:VEVENT
