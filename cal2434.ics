@@ -4655,10 +4655,23 @@ URL:https://twitter.com/___Dola/status/1004745732409176067
 DESCRIPTION:https://twitter.com/___Dola/status/1004745732409176067
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T203000
+DTEND;TZID=Asia/Tokyo:20180609T213000
+SUMMARY:夕陽リリ at:YouTube
+URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
 SUMMARY:物述有栖 at:? 本人Twitterネームより
 URL:https://twitter.com/AliceMononobe
 DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T230000
+SUMMARY:翌0時30分 夕陽リリ at:YouTube
+URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609

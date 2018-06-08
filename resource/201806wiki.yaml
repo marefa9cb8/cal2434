@@ -34,11 +34,27 @@
   uri: https://twitter.com/___Dola/status/1004745732409176067
 - date: 2018-06-09
   time:
+    hour: 20
+    min: 30
+  title: "夕陽リリ at:YouTube"
+  end_time:
+    hour: 21
+    min: 30
+  uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
+- date: 2018-06-09
+  time:
     hour: 22
     min: 0
   title: "物述有栖 at:? 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/AliceMononobe
+- date: 2018-06-09
+  time:
+    hour: 23
+    min: 0
+  title: "翌0時30分 夕陽リリ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 - date: 2018-06-09
   time: 
   title: "出雲霞 己の中に居る友達といっしょに5人で雑談配信"
