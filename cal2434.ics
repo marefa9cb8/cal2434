@@ -4691,10 +4691,34 @@ URL:https://twitter.com/Kanae_2434/status/1004870409840259072
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1004870409840259072
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T170000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004990741725114368
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T183000
 SUMMARY:夕陽リリ at:Mirrativ
 URL:https://twitter.com/Yuuhi_Riri/status/1004732143040425985
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1004732143040425985
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T190000
+SUMMARY:宇志海いちご at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004990741725114368
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T200000
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004990741725114368
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1004990741725114368
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T213000
@@ -4713,6 +4737,12 @@ DTSTART;TZID=Asia/Tokyo:20180608T220000
 SUMMARY:モイラ at:YouTube もいらじ
 URL:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
 DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T222000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1004990741725114368
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
