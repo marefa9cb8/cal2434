@@ -41,6 +41,13 @@
   uri: https://twitter.com/sibuya_hajime/status/1005124775918776321
 - date: 2018-06-09
   time:
+    hour: 3
+    min: 18
+  title: "出雲霞 at:Mirrativ ゲリラ"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1005152180389548032
+- date: 2018-06-09
+  time:
     hour: 20
     min: 30
   title: "夕陽リリ at:YouTube"
@@ -73,7 +80,7 @@
   time:
     hour: 24
     min: 0
-  title: "出雲霞 at:Mirrativ 己の中に居る友達といっしょに5人で雑談配信"
+  title: "出雲霞 at:Mirrativ イマジナリーフレンド4人と雑談配信"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1005138331062059008
 - date: 2018-06-08

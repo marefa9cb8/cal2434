@@ -4661,6 +4661,12 @@ URL:https://twitter.com/sibuya_hajime/status/1005124775918776321
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1005124775918776321
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T031800
+SUMMARY:出雲霞 at:Mirrativ ゲリラ
+URL:https://twitter.com/ikasumi_zzz/status/1005152180389548032
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1005152180389548032
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T203000
 DTEND;TZID=Asia/Tokyo:20180609T213000
 SUMMARY:夕陽リリ at:YouTube
@@ -4687,7 +4693,7 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T240000
-SUMMARY:出雲霞 at:Mirrativ 己の中に居る友達といっしょに5人で雑談配信
+SUMMARY:出雲霞 at:Mirrativ イマジナリーフレンド4人と雑談配信
 URL:https://twitter.com/ikasumi_zzz/status/1005138331062059008
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1005138331062059008
 END:VEVENT
