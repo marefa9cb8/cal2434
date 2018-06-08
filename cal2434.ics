@@ -4649,15 +4649,16 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T000000
-SUMMARY:叶 at:?
+DTEND;TZID=Asia/Tokyo:20180609T010000
+SUMMARY:の間～01時30分～ 叶 at:YouTube 時間変更
 URL:https://twitter.com/Kanae_2434/status/1005064934504296449
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1005064934504296449
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180609T010000
-SUMMARY:渋谷ハジメ at:? 誰かとコラボ予定、6/8の配信で言及
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180609T013000
+SUMMARY:渋谷ハジメ at:YouTube ユキミお姉ちゃんとコラボ
+URL:https://twitter.com/sibuya_hajime/status/1005124775918776321
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1005124775918776321
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T203000
@@ -4668,7 +4669,7 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T210000
-SUMMARY:ドーラ at:YouTube
+SUMMARY:🈠ドーラ at:YouTube
 URL:https://twitter.com/___Dola/status/1005087074133766144
 DESCRIPTION:https://twitter.com/___Dola/status/1005087074133766144
 END:VEVENT
@@ -4685,10 +4686,10 @@ URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180609
-SUMMARY:出雲霞 己の中に居る友達といっしょに5人で雑談配信
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180609T240000
+SUMMARY:出雲霞 at:Mirrativ 己の中に居る友達といっしょに5人で雑談配信
+URL:https://twitter.com/ikasumi_zzz/status/1005138331062059008
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1005138331062059008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T010000
@@ -4746,7 +4747,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T213000
-SUMMARY:🈠緑仙 at:YouTube
+SUMMARY:緑仙 at:YouTube 初YouTubeLIVE 初配信
 URL:https://twitter.com/midori_2434/status/1004387975822635009
 DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
 END:VEVENT
@@ -4778,7 +4779,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
 DTEND;TZID=Asia/Tokyo:20180608T240000
-SUMMARY:～ 🈠鈴木勝 at :YouTube 時間変更
+SUMMARY:～ 鈴木勝 at :YouTube  初YouTubeLIVE 初配信 時間変更
 URL:https://twitter.com/Darkness_Eater/status/1004039655979810816
 DESCRIPTION:https://twitter.com/Darkness_Eater/status/1004039655979810816
 END:VEVENT
