@@ -4648,11 +4648,16 @@ URL:https://twitter.com/KT_seeds/status/1004701877081030656
 DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180609T200000
-DTEND;TZID=Asia/Tokyo:20180609T220000
-SUMMARY:までの間 ドーラ at:?
-URL:https://twitter.com/___Dola/status/1004745732409176067
-DESCRIPTION:https://twitter.com/___Dola/status/1004745732409176067
+DTSTART;TZID=Asia/Tokyo:20180609T000000
+SUMMARY:叶 at:?
+URL:https://twitter.com/Kanae_2434/status/1005064934504296449
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005064934504296449
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T010000
+SUMMARY:渋谷ハジメ at:? 誰かとコラボ予定、6/8の配信で言及
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T203000
@@ -4660,6 +4665,12 @@ DTEND;TZID=Asia/Tokyo:20180609T213000
 SUMMARY:夕陽リリ at:YouTube
 URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T210000
+SUMMARY:ドーラ at:YouTube
+URL:https://twitter.com/___Dola/status/1005087074133766144
+DESCRIPTION:https://twitter.com/___Dola/status/1005087074133766144
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
@@ -4741,12 +4752,6 @@ DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T220000
-SUMMARY:月ノ美兎 みとらじ第3回 at:YouTube ゲスト：パゲ美さん 【パゲ美とは？→10分で分かる動画】
-URL:https://twitter.com/MitoTsukino/status/1004930815833210881
-DESCRIPTION:https://twitter.com/MitoTsukino/status/1004930815833210881
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180608T220000
 SUMMARY:モイラ at:YouTube もいらじ
 URL:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
 DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
@@ -4758,8 +4763,15 @@ URL:https://twitter.com/nijisanji_app/status/1004990741725114368
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004990741725114368
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T220000
+SUMMARY:23時00分～ 月ノ美兎 at:YouTube 時間変更
+URL:https://twitter.com/MitoTsukino/status/1004930815833210881
+DESCRIPTION:https://twitter.com/MitoTsukino/status/1004930815833210881
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
-SUMMARY:剣持刀也 at:YouTube 《Sharpness Radio》通称しゃぷらじ。（配信開始時間は6/6配信にて言及）
+DTEND;TZID=Asia/Tokyo:20180608T240000
+SUMMARY:～ 剣持刀也 at:YouTube 《Sharpness Radio》通称しゃぷらじ。（配信開始時間は6/6配信にて言及）
 URL:http://twpf.jp/rei_Toya_rei
 DESCRIPTION:http://twpf.jp/rei_Toya_rei
 END:VEVENT
