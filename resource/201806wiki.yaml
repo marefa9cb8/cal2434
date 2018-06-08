@@ -41,7 +41,7 @@
   uri: https://twitter.com/AliceMononobe
 - date: 2018-06-09
   time: 
-  title: "出雲霞 己の中に眠る友達といっしょに5人で雑談配信"
+  title: "出雲霞 己の中に居る友達といっしょに5人で雑談配信"
   end_time: 
   uri: 
 - date: 2018-06-08
@@ -65,6 +65,13 @@
   title: "伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1004621474999631872
+- date: 2018-06-08
+  time:
+    hour: 8
+    min: 40
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1004870409840259072
 - date: 2018-06-08
   time:
     hour: 18

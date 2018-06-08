@@ -4662,7 +4662,7 @@ DESCRIPTION:https://twitter.com/AliceMononobe
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609
-SUMMARY:出雲霞 己の中に眠る友達といっしょに5人で雑談配信
+SUMMARY:出雲霞 己の中に居る友達といっしょに5人で雑談配信
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4683,6 +4683,12 @@ DTSTART;TZID=Asia/Tokyo:20180608T064500
 SUMMARY:伏見ガク at:YouTube おはガク！ 自分の好きなパンor食べたいパン
 URL:https://twitter.com/nijisanji_app/status/1004621474999631872
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1004621474999631872
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T084000
+SUMMARY:叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1004870409840259072
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1004870409840259072
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T183000
