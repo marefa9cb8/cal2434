@@ -4704,9 +4704,15 @@ DESCRIPTION:https://twitter.com/midori_2434/status/1004387975822635009
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T220000
-SUMMARY:月ノ美兎 みとらじ
-URL:
-DESCRIPTION:
+SUMMARY:月ノ美兎 みとらじ第3回 at:YouTube ゲスト：パゲ美さん 【パゲ美とは？→10分で分かる動画】
+URL:https://twitter.com/MitoTsukino/status/1004930815833210881
+DESCRIPTION:https://twitter.com/MitoTsukino/status/1004930815833210881
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180608T220000
+SUMMARY:モイラ at:YouTube もいらじ
+URL:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1004926682606678017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T230000
