@@ -4678,9 +4678,8 @@ URL:https://twitter.com/ienaga_mugi23/status/1005307556904878080
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1005307556904878080
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180609T000000
-DTEND;TZID=Asia/Tokyo:20180609T010000
-SUMMARY:の間～01時30分～ 叶 at:YouTube 時間変更
+DTSTART;TZID=Asia/Tokyo:20180609T013000
+SUMMARY:叶 at:YouTube 時間変更
 URL:https://twitter.com/Kanae_2434/status/1005064934504296449
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1005064934504296449
 END:VEVENT
@@ -4756,6 +4755,12 @@ DTSTART;TZID=Asia/Tokyo:20180609T220000
 SUMMARY:春崎エアル at:Mirrativ YouTubeからMirrativへ変更
 URL:https://twitter.com/harusakiair2434/status/1005333970114961408
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1005333970114961408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T222000
+SUMMARY:轟京子 at:Mirrativ ゲリラ配信
+URL:https://twitter.com/KT_seeds/status/1005437843517272064
+DESCRIPTION:https://twitter.com/KT_seeds/status/1005437843517272064
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T230000
