@@ -4660,6 +4660,12 @@ URL:https://twitter.com/nijisanji_app/status/1005336114003972096
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1005336114003972096
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T170000
+SUMMARY:卯月コウ at:Mirrativ?
+URL:https://twitter.com/udukikohh/status/1005393496935620608
+DESCRIPTION:https://twitter.com/udukikohh/status/1005393496935620608
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T220000
 SUMMARY:轟京子 at:Mirrativ  雑談配信
 URL:https://twitter.com/KT_seeds/status/1004701877081030656
@@ -4715,8 +4721,14 @@ URL:https://twitter.com/narusenaru_voiz/status/1005304179219288065
 DESCRIPTION:https://twitter.com/narusenaru_voiz/status/1005304179219288065
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T203800
+SUMMARY:シスター・クレア at:Mirrativ ゲリラ配信
+URL:https://twitter.com/SisterCleaire/status/1005413802534318080
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1005413802534318080
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T203000
-DTEND;TZID=Asia/Tokyo:20180609T200000
+DTEND;TZID=Asia/Tokyo:20180609T204000
 SUMMARY:～ 夕陽リリ at:YouTube 時間変更
 URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
@@ -4741,7 +4753,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1005336114003972096
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
-SUMMARY:春崎エアル at:YouTube
+SUMMARY:春崎エアル at:Mirrativ YouTubeからMirrativへ変更
 URL:https://twitter.com/harusakiair2434/status/1005333970114961408
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1005333970114961408
 END:VEVENT

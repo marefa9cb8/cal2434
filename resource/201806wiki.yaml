@@ -39,6 +39,13 @@
   uri: https://twitter.com/nijisanji_app/status/1005336114003972096
 - date: 2018-06-10
   time:
+    hour: 17
+    min: 0
+  title: "卯月コウ at:Mirrativ?"
+  end_time: 
+  uri: https://twitter.com/udukikohh/status/1005393496935620608
+- date: 2018-06-10
+  time:
     hour: 22
     min: 0
   title: "轟京子 at:Mirrativ  雑談配信"
@@ -105,11 +112,18 @@
 - date: 2018-06-09
   time:
     hour: 20
+    min: 38
+  title: "シスター・クレア at:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1005413802534318080
+- date: 2018-06-09
+  time:
+    hour: 20
     min: 30
   title: "～ 夕陽リリ at:YouTube 時間変更"
   end_time:
     hour: 20
-    min: 0
+    min: 40
   uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 - date: 2018-06-09
   time:
@@ -136,7 +150,7 @@
   time:
     hour: 22
     min: 0
-  title: "春崎エアル at:YouTube"
+  title: "春崎エアル at:Mirrativ YouTubeからMirrativへ変更"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1005333970114961408
 - date: 2018-06-09
