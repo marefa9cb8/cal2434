@@ -4630,6 +4630,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T210000
+SUMMARY:森中花咲×勇気ちひろ at:YouTube(森中花咲のチャンネル)  まじもり！？生放送
+URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
