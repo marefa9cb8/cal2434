@@ -23,6 +23,20 @@
   title: "でろもい（樋口楓＆モイラ）（6/6樋口楓のMirrativ配信にて告知）"
   end_time: 
   uri: 
+- date: 2018-06-11
+  time:
+    hour: 21
+    min: 0
+  title: "赤羽葉子＆叶 at:?"
+  end_time: 
+  uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
+- date: 2018-06-10
+  time:
+    hour: 15
+    min: 0
+  title: "樋口楓 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1005336114003972096
 - date: 2018-06-10
   time:
     hour: 22
@@ -115,9 +129,16 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? 本人Twitterネームより"
+  title: "物述有栖 at:YouTube 本人Twitterネームより"
   end_time: 
-  uri: https://twitter.com/AliceMononobe
+  uri: https://twitter.com/nijisanji_app/status/1005336114003972096
+- date: 2018-06-09
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: https://twitter.com/harusakiair2434/status/1005333970114961408
 - date: 2018-06-09
   time:
     hour: 23

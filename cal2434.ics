@@ -4648,6 +4648,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T210000
+SUMMARY:赤羽葉子＆叶 at:?
+URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
+DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T150000
+SUMMARY:樋口楓 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1005336114003972096
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1005336114003972096
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T220000
 SUMMARY:轟京子 at:Mirrativ  雑談配信
 URL:https://twitter.com/KT_seeds/status/1004701877081030656
@@ -4723,9 +4735,15 @@ DESCRIPTION:https://twitter.com/kuroto_2434/status/1005284322641711104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
-SUMMARY:物述有栖 at:? 本人Twitterネームより
-URL:https://twitter.com/AliceMononobe
-DESCRIPTION:https://twitter.com/AliceMononobe
+SUMMARY:物述有栖 at:YouTube 本人Twitterネームより
+URL:https://twitter.com/nijisanji_app/status/1005336114003972096
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1005336114003972096
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T220000
+SUMMARY:春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1005333970114961408
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1005333970114961408
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T230000
