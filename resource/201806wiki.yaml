@@ -32,6 +32,13 @@
   uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
 - date: 2018-06-10
   time:
+    hour: 3
+    min: 0
+  title: "叶 at:?"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1005508601484460034
+- date: 2018-06-10
+  time:
     hour: 15
     min: 0
   title: "樋口楓 at:YouTube"
@@ -46,6 +53,13 @@
   uri: https://twitter.com/udukikohh/status/1005393496935620608
 - date: 2018-06-10
   time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1005484088852017153
+- date: 2018-06-10
+  time:
     hour: 22
     min: 0
   title: "轟京子 at:Mirrativ  雑談配信"
@@ -58,6 +72,13 @@
   title: "家長むぎ at:YouTube"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1005307556904878080
+- date: 2018-06-10
+  time:
+    hour: 23
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1005484088852017153
 - date: 2018-06-09
   time:
     hour: 1
@@ -179,11 +200,6 @@
   title: "出雲霞 at:Mirrativ イマジナリーフレンド4人と雑談配信"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1005138331062059008
-- date: 2018-06-09
-  time: 
-  title: "夜？ 叶 at:OPENREC.tv"
-  end_time: 
-  uri: 
 - date: 2018-06-08
   time:
     hour: 1
