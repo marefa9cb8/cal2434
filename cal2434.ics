@@ -4654,6 +4654,12 @@ URL:https://twitter.com/KT_seeds/status/1004701877081030656
 DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T223000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/1005307556904878080
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1005307556904878080
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T000000
 DTEND;TZID=Asia/Tokyo:20180609T010000
 SUMMARY:の間～01時30分～ 叶 at:YouTube 時間変更
@@ -4679,9 +4685,27 @@ URL:https://twitter.com/Kanae_2434/status/1005214651892883458
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1005214651892883458
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T123000
+SUMMARY:エルフのえる at:Mirrativ ゲリラ配信 樋口楓とコラボ
+URL:https://twitter.com/Elu_World/status/1005287999301550080
+DESCRIPTION:https://twitter.com/Elu_World/status/1005287999301550080
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T160000
+SUMMARY:海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1005282044195135488
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1005282044195135488
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T200000
+SUMMARY:成瀬鳴 at:Mirrativ 初配信
+URL:https://twitter.com/narusenaru_voiz/status/1005304179219288065
+DESCRIPTION:https://twitter.com/narusenaru_voiz/status/1005304179219288065
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T203000
-DTEND;TZID=Asia/Tokyo:20180609T213000
-SUMMARY:夕陽リリ at:YouTube
+DTEND;TZID=Asia/Tokyo:20180609T200000
+SUMMARY:～ 夕陽リリ at:YouTube 時間変更
 URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
@@ -4690,6 +4714,12 @@ DTSTART;TZID=Asia/Tokyo:20180609T210000
 SUMMARY:🈠ドーラ at:YouTube
 URL:https://twitter.com/___Dola/status/1005087074133766144
 DESCRIPTION:https://twitter.com/___Dola/status/1005087074133766144
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T210000
+SUMMARY:黒羽黒兎 at:YouTube 初配信
+URL:https://twitter.com/kuroto_2434/status/1005284322641711104
+DESCRIPTION:https://twitter.com/kuroto_2434/status/1005284322641711104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T220000
@@ -4704,10 +4734,22 @@ URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609T230000
+SUMMARY:社築 at:Mirrativ
+URL:https://twitter.com/846kizuQ/status/1005294557213233153
+DESCRIPTION:https://twitter.com/846kizuQ/status/1005294557213233153
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T240000
 SUMMARY:出雲霞 at:Mirrativ イマジナリーフレンド4人と雑談配信
 URL:https://twitter.com/ikasumi_zzz/status/1005138331062059008
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1005138331062059008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180609
+SUMMARY:夜？ 叶 at:OPENREC.tv
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180608T010000

@@ -30,6 +30,13 @@
   title: "轟京子 at:Mirrativ  雑談配信"
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1004701877081030656
+- date: 2018-06-10
+  time:
+    hour: 22
+    min: 30
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/1005307556904878080
 - date: 2018-06-09
   time:
     hour: 0
@@ -62,12 +69,33 @@
   uri: https://twitter.com/Kanae_2434/status/1005214651892883458
 - date: 2018-06-09
   time:
+    hour: 12
+    min: 30
+  title: "エルフのえる at:Mirrativ ゲリラ配信 樋口楓とコラボ"
+  end_time: 
+  uri: https://twitter.com/Elu_World/status/1005287999301550080
+- date: 2018-06-09
+  time:
+    hour: 16
+    min: 0
+  title: "海夜叉神 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1005282044195135488
+- date: 2018-06-09
+  time:
+    hour: 20
+    min: 0
+  title: "成瀬鳴 at:Mirrativ 初配信"
+  end_time: 
+  uri: https://twitter.com/narusenaru_voiz/status/1005304179219288065
+- date: 2018-06-09
+  time:
     hour: 20
     min: 30
-  title: "夕陽リリ at:YouTube"
+  title: "～ 夕陽リリ at:YouTube 時間変更"
   end_time:
-    hour: 21
-    min: 30
+    hour: 20
+    min: 0
   uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 - date: 2018-06-09
   time:
@@ -76,6 +104,13 @@
   title: "\U0001F220ドーラ at:YouTube"
   end_time: 
   uri: https://twitter.com/___Dola/status/1005087074133766144
+- date: 2018-06-09
+  time:
+    hour: 21
+    min: 0
+  title: "黒羽黒兎 at:YouTube 初配信"
+  end_time: 
+  uri: https://twitter.com/kuroto_2434/status/1005284322641711104
 - date: 2018-06-09
   time:
     hour: 22
@@ -92,11 +127,23 @@
   uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 - date: 2018-06-09
   time:
+    hour: 23
+    min: 0
+  title: "社築 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/846kizuQ/status/1005294557213233153
+- date: 2018-06-09
+  time:
     hour: 24
     min: 0
   title: "出雲霞 at:Mirrativ イマジナリーフレンド4人と雑談配信"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1005138331062059008
+- date: 2018-06-09
+  time: 
+  title: "夜？ 叶 at:OPENREC.tv"
+  end_time: 
+  uri: 
 - date: 2018-06-08
   time:
     hour: 1
