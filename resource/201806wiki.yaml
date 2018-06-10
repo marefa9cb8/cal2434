@@ -60,25 +60,11 @@
   uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
 - date: 2018-06-10
   time:
-    hour: 3
-    min: 0
-  title: "叶 at:YouTube Electronic Artsを見ながら雑談（音声無しなので2窓推奨）"
-  end_time: 
-  uri: https://twitter.com/Kanae_2434/status/1005508601484460034
-- date: 2018-06-10
-  time:
     hour: 10
     min: 30
   title: "春崎エアル at:Mirrativ"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1005623318689374209
-- date: 2018-06-10
-  time:
-    hour: 13
-    min: 0
-  title: "叶 at:YouTube バイオハザード4"
-  end_time: 
-  uri: https://twitter.com/Kanae_2434/status/1005662335254462465
 - date: 2018-06-10
   time:
     hour: 15
@@ -131,6 +117,13 @@
 - date: 2018-06-10
   time:
     hour: 22
+    min: 0
+  title: "叶 at:YouTube Realm royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1005781605477015558
+- date: 2018-06-10
+  time:
+    hour: 22
     min: 30
   title: "家長むぎ at:YouTube お絵描きの森"
   end_time: 
@@ -149,6 +142,13 @@
   title: "静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1005698930460356610
+- date: 2018-06-10
+  time:
+    hour: 23
+    min: 30
+  title: "緑仙 at:YouTube （遅れる？）"
+  end_time: 
+  uri: https://twitter.com/midori_2434/status/1005782046600335360
 - date: 2018-06-09
   time:
     hour: 1

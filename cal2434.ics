@@ -4678,22 +4678,10 @@ URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180610T030000
-SUMMARY:叶 at:YouTube Electronic Artsを見ながら雑談（音声無しなので2窓推奨）
-URL:https://twitter.com/Kanae_2434/status/1005508601484460034
-DESCRIPTION:https://twitter.com/Kanae_2434/status/1005508601484460034
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T103000
 SUMMARY:春崎エアル at:Mirrativ
 URL:https://twitter.com/harusakiair2434/status/1005623318689374209
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1005623318689374209
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180610T130000
-SUMMARY:叶 at:YouTube バイオハザード4
-URL:https://twitter.com/Kanae_2434/status/1005662335254462465
-DESCRIPTION:https://twitter.com/Kanae_2434/status/1005662335254462465
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T150000
@@ -4738,6 +4726,12 @@ URL:https://twitter.com/KT_seeds/status/1004701877081030656
 DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T220000
+SUMMARY:叶 at:YouTube Realm royale
+URL:https://twitter.com/Kanae_2434/status/1005781605477015558
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005781605477015558
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T223000
 SUMMARY:家長むぎ at:YouTube お絵描きの森
 URL:https://twitter.com/ienaga_mugi23/status/1005307556904878080
@@ -4754,6 +4748,12 @@ DTSTART;TZID=Asia/Tokyo:20180610T230000
 SUMMARY:静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1005698930460356610
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1005698930460356610
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T233000
+SUMMARY:緑仙 at:YouTube （遅れる？）
+URL:https://twitter.com/midori_2434/status/1005782046600335360
+DESCRIPTION:https://twitter.com/midori_2434/status/1005782046600335360
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T013000
