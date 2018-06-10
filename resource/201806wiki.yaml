@@ -46,6 +46,13 @@
   uri: https://twitter.com/harusakiair2434/status/1005623318689374209
 - date: 2018-06-10
   time:
+    hour: 13
+    min: 0
+  title: "叶 at:YouTube バイオハザード4"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1005662335254462465
+- date: 2018-06-10
+  time:
     hour: 15
     min: 0
   title: "樋口楓 at:YouTube"
@@ -76,7 +83,7 @@
   time:
     hour: 22
     min: 30
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube お絵描きの森"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1005307556904878080
 - date: 2018-06-10
@@ -155,7 +162,7 @@
   time:
     hour: 21
     min: 0
-  title: "\U0001F220ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 初配信"
   end_time: 
   uri: https://twitter.com/___Dola/status/1005087074133766144
 - date: 2018-06-09
@@ -190,7 +197,7 @@
   time:
     hour: 23
     min: 0
-  title: "翌0時30分 夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 - date: 2018-06-09

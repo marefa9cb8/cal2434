@@ -4666,6 +4666,12 @@ URL:https://twitter.com/harusakiair2434/status/1005623318689374209
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1005623318689374209
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T130000
+SUMMARY:叶 at:YouTube バイオハザード4
+URL:https://twitter.com/Kanae_2434/status/1005662335254462465
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005662335254462465
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T150000
 SUMMARY:樋口楓 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1005336114003972096
@@ -4691,7 +4697,7 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1004701877081030656
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T223000
-SUMMARY:家長むぎ at:YouTube
+SUMMARY:家長むぎ at:YouTube お絵描きの森
 URL:https://twitter.com/ienaga_mugi23/status/1005307556904878080
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1005307556904878080
 END:VEVENT
@@ -4758,7 +4764,7 @@ DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T210000
-SUMMARY:🈠ドーラ at:YouTube
+SUMMARY:ドーラ at:YouTube 初配信
 URL:https://twitter.com/___Dola/status/1005087074133766144
 DESCRIPTION:https://twitter.com/___Dola/status/1005087074133766144
 END:VEVENT
@@ -4788,7 +4794,7 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1005437843517272064
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180609T230000
-SUMMARY:翌0時30分 夕陽リリ at:YouTube
+SUMMARY:夕陽リリ at:YouTube
 URL:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1005028878451015681
 END:VEVENT
