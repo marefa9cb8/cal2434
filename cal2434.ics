@@ -4660,6 +4660,12 @@ URL:https://twitter.com/Kanae_2434/status/1005508601484460034
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1005508601484460034
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T103000
+SUMMARY:春崎エアル at:Mirrativ
+URL:https://twitter.com/harusakiair2434/status/1005623318689374209
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1005623318689374209
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T150000
 SUMMARY:樋口楓 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1005336114003972096
