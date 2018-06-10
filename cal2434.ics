@@ -4642,6 +4642,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T210000
+SUMMARY:八朔ゆず at:Mirrativ
+URL:https://twitter.com/839yuzu/status/1005762638226206720
+DESCRIPTION:https://twitter.com/839yuzu/status/1005762638226206720
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
@@ -4655,21 +4661,21 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T064500
-SUMMARY:伏見ガク at:YouTube
+SUMMARY:伏見ガク at:YouTube おはガク！ うどん
 URL:https://twitter.com/nijisanji_app/status/1005698930460356610
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1005698930460356610
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180611T210000
-SUMMARY:赤羽葉子＆叶 at:?
-URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
-DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
+DTSTART;TZID=Asia/Tokyo:20180611T200000
+SUMMARY:樋口楓 at:YouTube 本人Twitterネームより　黒い砂漠
+URL:https://twitter.com/HiguchiKaede
+DESCRIPTION:https://twitter.com/HiguchiKaede
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180611
-SUMMARY:夜 樋口楓 黒い砂漠（6/10の配信で告知）
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180611T210000
+SUMMARY:赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル
+URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
+DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T030000
@@ -4700,6 +4706,12 @@ DTSTART;TZID=Asia/Tokyo:20180610T170000
 SUMMARY:卯月コウ at:Mirrativ
 URL:https://twitter.com/udukikohh/status/1005393496935620608
 DESCRIPTION:https://twitter.com/udukikohh/status/1005393496935620608
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T183800
+SUMMARY:叶 at:OPENREC.tv PUBG
+URL:https://twitter.com/Kanae_2434/status/1005745992166092801
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005745992166092801
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T190000

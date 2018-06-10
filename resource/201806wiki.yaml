@@ -21,6 +21,13 @@
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1005269677835104256
 - date: 2018-06-14
+  time:
+    hour: 21
+    min: 0
+  title: "八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/839yuzu/status/1005762638226206720
+- date: 2018-06-14
   time: 
   title: JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
   end_time: 
@@ -34,21 +41,23 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube"
+  title: "伏見ガク at:YouTube おはガク！ うどん"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1005698930460356610
 - date: 2018-06-11
   time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube 本人Twitterネームより　黒い砂漠"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede
+- date: 2018-06-11
+  time:
     hour: 21
     min: 0
-  title: "赤羽葉子＆叶 at:?"
+  title: "赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル"
   end_time: 
   uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
-- date: 2018-06-11
-  time: 
-  title: "夜 樋口楓 黒い砂漠（6/10の配信で告知）"
-  end_time: 
-  uri: 
 - date: 2018-06-10
   time:
     hour: 3
@@ -84,6 +93,13 @@
   title: "卯月コウ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/udukikohh/status/1005393496935620608
+- date: 2018-06-10
+  time:
+    hour: 18
+    min: 38
+  title: "叶 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1005745992166092801
 - date: 2018-06-10
   time:
     hour: 19
