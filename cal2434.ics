@@ -4660,6 +4660,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T004200
+SUMMARY:名伽尾アズマ　at:Mirrativ ゲリラ配信
+URL:https://twitter.com/azuma_dazo/status/1005837618603413506
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1005837618603413506
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T064500
 SUMMARY:伏見ガク at:YouTube おはガク！ うどん
 URL:https://twitter.com/nijisanji_app/status/1005698930460356610
@@ -4678,10 +4684,22 @@ URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T030000
+SUMMARY:叶 at:YouTube Electronic Artsを見ながら雑談（音声無しなので2窓推奨）
+URL:https://twitter.com/Kanae_2434/status/1005508601484460034
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005508601484460034
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T103000
 SUMMARY:春崎エアル at:Mirrativ
 URL:https://twitter.com/harusakiair2434/status/1005623318689374209
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1005623318689374209
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180610T130000
+SUMMARY:叶 at:YouTube バイオハザード4
+URL:https://twitter.com/Kanae_2434/status/1005662335254462465
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1005662335254462465
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T150000
