@@ -41,9 +41,16 @@
   time:
     hour: 0
     min: 42
-  title: "名伽尾アズマ　at:Mirrativ ゲリラ配信"
+  title: "名伽尾アズマ at:Mirrativ ゲリラ配信"
   end_time: 
   uri: https://twitter.com/azuma_dazo/status/1005837618603413506
+- date: 2018-06-11
+  time:
+    hour: 3
+    min: 45
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1005883639106699264
 - date: 2018-06-11
   time:
     hour: 6
@@ -55,7 +62,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube 本人Twitterネームより　黒い砂漠"
+  title: "樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠"
   end_time: 
   uri: https://twitter.com/HiguchiKaede
 - date: 2018-06-11

@@ -4661,9 +4661,15 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T004200
-SUMMARY:名伽尾アズマ　at:Mirrativ ゲリラ配信
+SUMMARY:名伽尾アズマ at:Mirrativ ゲリラ配信
 URL:https://twitter.com/azuma_dazo/status/1005837618603413506
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1005837618603413506
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T034500
+SUMMARY:渋谷ハジメ at:YouTube 雑談
+URL:https://twitter.com/sibuya_hajime/status/1005883639106699264
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1005883639106699264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T064500
@@ -4673,7 +4679,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1005698930460356610
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T200000
-SUMMARY:樋口楓 at:YouTube 本人Twitterネームより　黒い砂漠
+SUMMARY:樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠
 URL:https://twitter.com/HiguchiKaede
 DESCRIPTION:https://twitter.com/HiguchiKaede
 END:VEVENT
