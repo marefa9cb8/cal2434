@@ -4642,6 +4642,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T180000
+SUMMARY:森中花咲 at:Mirrativ
+URL:https://twitter.com/KazakiMorinaka/status/1006027907880243203
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1006027907880243203
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
 SUMMARY:八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1005762638226206720
@@ -4658,6 +4664,12 @@ DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ）（6/6樋口楓のMirrativ配信にて告知）（6/10樋口楓の配信にてゲストを発表）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T220000
+SUMMARY:モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて
+URL:https://twitter.com/komarimasu365/status/1006040935094837248
+DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T004200
@@ -4686,8 +4698,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T200000
 SUMMARY:樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠
-URL:https://twitter.com/HiguchiKaede
-DESCRIPTION:https://twitter.com/HiguchiKaede
+URL:https://twitter.com/HiguchiKaede/status/1005927987223527424
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1005927987223527424
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T210000
