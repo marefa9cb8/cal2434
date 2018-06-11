@@ -4654,16 +4654,16 @@ URL:https://twitter.com/839yuzu/status/1005762638226206720
 DESCRIPTION:https://twitter.com/839yuzu/status/1005762638226206720
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T210000
+SUMMARY:でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ） at:YouTube モイラのチャンネル
+URL:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180614
-SUMMARY:でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ）（6/6樋口楓のMirrativ配信にて告知）（6/10樋口楓の配信にてゲストを発表）
-URL:
-DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
@@ -4714,6 +4714,12 @@ URL:https://twitter.com/Kanae_2434/status/1006089586492071936
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1006089586492071936
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T180600
+SUMMARY:出雲霞 at:Mirrativ
+URL:https://twitter.com/ikasumi_zzz/status/1006100377656102912
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1006100377656102912
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T190000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1005943139687849984
@@ -4724,6 +4730,12 @@ DTSTART;TZID=Asia/Tokyo:20180611T200000
 SUMMARY:樋口楓 at:YouTube 黒い砂漠
 URL:https://twitter.com/HiguchiKaede/status/1005927987223527424
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1005927987223527424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T200000
+SUMMARY:渋谷ハジメ at:YouTube 雑談
+URL:https://twitter.com/sibuya_hajime/status/1006110362645585920
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006110362645585920
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T203000
@@ -4742,6 +4754,12 @@ DTSTART;TZID=Asia/Tokyo:20180611T210000
 SUMMARY:赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル
 URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T210000
+SUMMARY:シスター・クレア at:？
+URL:https://twitter.com/SisterCleaire/status/1006114075888087042
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1006114075888087042
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T213000

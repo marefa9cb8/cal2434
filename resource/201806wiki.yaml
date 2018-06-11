@@ -35,15 +35,17 @@
   end_time: 
   uri: https://twitter.com/839yuzu/status/1005762638226206720
 - date: 2018-06-14
+  time:
+    hour: 21
+    min: 0
+  title: "でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ） at:YouTube モイラのチャンネル"
+  end_time: 
+  uri: https://twitter.com/Chihiro_yuki23/status/1006095096926781440
+- date: 2018-06-14
   time: 
   title: JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/995527978682470401
-- date: 2018-06-14
-  time: 
-  title: "でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ）（6/6樋口楓のMirrativ配信にて告知）（6/10樋口楓の配信にてゲストを発表）"
-  end_time: 
-  uri: 
 - date: 2018-06-13
   time:
     hour: 22
@@ -102,6 +104,13 @@
   uri: https://twitter.com/Kanae_2434/status/1006089586492071936
 - date: 2018-06-11
   time:
+    hour: 18
+    min: 6
+  title: "出雲霞 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1006100377656102912
+- date: 2018-06-11
+  time:
     hour: 19
     min: 0
   title: "家長むぎ at:YouTube"
@@ -114,6 +123,13 @@
   title: "樋口楓 at:YouTube 黒い砂漠"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/1005927987223527424
+- date: 2018-06-11
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006110362645585920
 - date: 2018-06-11
   time:
     hour: 20
@@ -135,6 +151,13 @@
   title: "赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル"
   end_time: 
   uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
+- date: 2018-06-11
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at:？"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1006114075888087042
 - date: 2018-06-11
   time:
     hour: 21
