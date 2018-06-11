@@ -48,9 +48,23 @@
   time:
     hour: 22
     min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1006065059032731648
+- date: 2018-06-13
+  time:
+    hour: 22
+    min: 0
   title: "モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて"
   end_time: 
   uri: https://twitter.com/komarimasu365/status/1006040935094837248
+- date: 2018-06-12
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:SHOWROOM"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1006065059032731648
 - date: 2018-06-11
   time:
     hour: 0
@@ -74,6 +88,20 @@
   uri: https://twitter.com/nijisanji_app/status/1005698930460356610
 - date: 2018-06-11
   time:
+    hour: 17
+    min: 0
+  title: "静凛 at:YouTube 雑談セリフ枠"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1006063588253941760
+- date: 2018-06-11
+  time:
+    hour: 17
+    min: 23
+  title: "叶 at:YouTube ふぇありす氏とコラボ"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1006089586492071936
+- date: 2018-06-11
+  time:
     hour: 19
     min: 0
   title: "家長むぎ at:YouTube"
@@ -83,9 +111,23 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠"
+  title: "樋口楓 at:YouTube 黒い砂漠"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/1005927987223527424
+- date: 2018-06-11
+  time:
+    hour: 20
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
+- date: 2018-06-11
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
 - date: 2018-06-11
   time:
     hour: 21
@@ -93,6 +135,13 @@
   title: "赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル"
   end_time: 
   uri: https://twitter.com/Youko_Akabane/status/1005340644519260160
+- date: 2018-06-11
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
 - date: 2018-06-11
   time:
     hour: 22
@@ -104,9 +153,44 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神 at:?"
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
+- date: 2018-06-11
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1005995272571269120
+- date: 2018-06-11
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
+- date: 2018-06-11
+  time:
+    hour: 23
+    min: 30
+  title: "鈴木勝 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Darkness_Eater/status/1006078755528273921
+- date: 2018-06-11
+  time:
+    hour: 23
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
+- date: 2018-06-11
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006061393454379008
 - date: 2018-06-11
   time:
     hour: 24

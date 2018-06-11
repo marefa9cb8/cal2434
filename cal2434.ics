@@ -4667,9 +4667,21 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/1006065059032731648
+DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T220000
 SUMMARY:モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて
 URL:https://twitter.com/komarimasu365/status/1006040935094837248
 DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T230000
+SUMMARY:鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/1006065059032731648
+DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T004200
@@ -4690,6 +4702,18 @@ URL:https://twitter.com/nijisanji_app/status/1005698930460356610
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1005698930460356610
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T170000
+SUMMARY:静凛 at:YouTube 雑談セリフ枠
+URL:https://twitter.com/ShizuRin23/status/1006063588253941760
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1006063588253941760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T172300
+SUMMARY:叶 at:YouTube ふぇありす氏とコラボ
+URL:https://twitter.com/Kanae_2434/status/1006089586492071936
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006089586492071936
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T190000
 SUMMARY:家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1005943139687849984
@@ -4697,15 +4721,33 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1005943139687849984
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T200000
-SUMMARY:樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠
+SUMMARY:樋口楓 at:YouTube 黒い砂漠
 URL:https://twitter.com/HiguchiKaede/status/1005927987223527424
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1005927987223527424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T203000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T210000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T210000
 SUMMARY:赤羽葉子＆叶 at:赤羽葉子のYouTubeチャンネル
 URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T220000
@@ -4715,9 +4757,39 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005981114429628417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T220000
-SUMMARY:海夜叉神 at:?
+SUMMARY:鈴鹿詩子 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T220000
+SUMMARY:海夜叉神 at:YouTube
 URL:https://twitter.com/god_yaksa23/status/1005995272571269120
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1005995272571269120
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T230000
+SUMMARY:える at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T233000
+SUMMARY:鈴木勝 at:YouTube
+URL:https://twitter.com/Darkness_Eater/status/1006078755528273921
+DESCRIPTION:https://twitter.com/Darkness_Eater/status/1006078755528273921
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T233000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T240000
+SUMMARY:剣持刀也 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006061393454379008
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T240000
