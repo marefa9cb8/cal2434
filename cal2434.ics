@@ -4696,6 +4696,24 @@ URL:https://twitter.com/Youko_Akabane/status/1005340644519260160
 DESCRIPTION:https://twitter.com/Youko_Akabane/status/1005340644519260160
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T220000
+SUMMARY:森中花咲 at:YouTube
+URL:https://twitter.com/KazakiMorinaka/status/1005981114429628417
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005981114429628417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T220000
+SUMMARY:海夜叉神 at:?
+URL:https://twitter.com/god_yaksa23/status/1005995272571269120
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1005995272571269120
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T240000
+SUMMARY:黒羽黒兎 at:?
+URL:https://twitter.com/kuroto_2434/status/1005986536544800768
+DESCRIPTION:https://twitter.com/kuroto_2434/status/1005986536544800768
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180610T030000
 SUMMARY:叶 at:YouTube Electronic Artsを見ながら雑談（音声無しなので2窓推奨）
 URL:https://twitter.com/Kanae_2434/status/1005508601484460034
