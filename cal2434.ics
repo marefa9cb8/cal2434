@@ -4678,6 +4678,24 @@ URL:https://twitter.com/komarimasu365/status/1006040935094837248
 DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T001500
+SUMMARY:叶 at:YouTube Realm royale
+URL:https://twitter.com/Kanae_2434/status/1006193526302896128
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006193526302896128
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T010200
+SUMMARY:春崎エアル at:Mirrativ
+URL:https://twitter.com/harusakiair2434/status/1006204904371728385
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1006204904371728385
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T010400
+SUMMARY:渋谷ハジメ at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/1006205852389273600
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006205852389273600
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T230000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1006065059032731648
@@ -4811,7 +4829,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1006061393454379008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T240000
-SUMMARY:黒羽黒兎 at:?
+SUMMARY:黒羽黒兎 at:YouTube
 URL:https://twitter.com/kuroto_2434/status/1005986536544800768
 DESCRIPTION:https://twitter.com/kuroto_2434/status/1005986536544800768
 END:VEVENT
