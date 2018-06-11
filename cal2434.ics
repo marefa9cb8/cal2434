@@ -4678,6 +4678,12 @@ URL:https://twitter.com/nijisanji_app/status/1005698930460356610
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1005698930460356610
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180611T190000
+SUMMARY:家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/1005943139687849984
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1005943139687849984
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T200000
 SUMMARY:樋口楓 at:YouTube 本人Twitterネームより 黒い砂漠
 URL:https://twitter.com/HiguchiKaede
