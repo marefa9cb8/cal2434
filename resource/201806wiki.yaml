@@ -48,6 +48,20 @@
   uri: https://twitter.com/MitoTsukino/status/995527978682470401
 - date: 2018-06-13
   time:
+    hour: 0
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006423579376828417
+- date: 2018-06-13
+  time:
+    hour: 2
+    min: 30
+  title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006423579376828417
+- date: 2018-06-13
+  time:
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube"
@@ -90,11 +104,32 @@
   uri: https://twitter.com/Kanae_2434/status/1006334734673141760
 - date: 2018-06-12
   time:
+    hour: 16
+    min: 40
+  title: "叶 at:Twitch テスト配信"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1006441053040209920
+- date: 2018-06-12
+  time:
+    hour: 17
+    min: 54
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006459635270733824
+- date: 2018-06-12
+  time:
     hour: 20
     min: 0
   title: "成瀬鳴 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/narusenaru_voiz/status/1006351405081190400
+- date: 2018-06-12
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-12
   time:
     hour: 21
@@ -106,9 +141,16 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:? 本人Twitterネームより"
+  title: "ドーラ at:YouTube"
   end_time: 
-  uri: https://twitter.com/___Dola
+  uri: https://twitter.com/___Dola/status/1006425484677136384
+- date: 2018-06-12
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-12
   time:
     hour: 22
@@ -116,6 +158,13 @@
   title: "海夜叉神 at:?"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1006407984077946883
+- date: 2018-06-12
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-12
   time:
     hour: 23

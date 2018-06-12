@@ -4666,6 +4666,18 @@ URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T003000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006423579376828417
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T023000
+SUMMARY:静凛 at:OPENREC.tv
+URL:https://twitter.com/nijisanji_app/status/1006423579376828417
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
 SUMMARY:鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/1006065059032731648
@@ -4702,10 +4714,28 @@ URL:https://twitter.com/Kanae_2434/status/1006334734673141760
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1006334734673141760
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T164000
+SUMMARY:叶 at:Twitch テスト配信
+URL:https://twitter.com/Kanae_2434/status/1006441053040209920
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006441053040209920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T175400
+SUMMARY:渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1006459635270733824
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006459635270733824
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T200000
 SUMMARY:成瀬鳴 at:Mirrativ
 URL:https://twitter.com/narusenaru_voiz/status/1006351405081190400
 DESCRIPTION:https://twitter.com/narusenaru_voiz/status/1006351405081190400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T200000
+SUMMARY:勇気ちひろ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006423579376828417
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T210000
@@ -4715,15 +4745,27 @@ DESCRIPTION:https://twitter.com/harusakiair2434/status/1006371844696375296
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T210000
-SUMMARY:ドーラ at:? 本人Twitterネームより
-URL:https://twitter.com/___Dola
-DESCRIPTION:https://twitter.com/___Dola
+SUMMARY:ドーラ at:YouTube
+URL:https://twitter.com/___Dola/status/1006425484677136384
+DESCRIPTION:https://twitter.com/___Dola/status/1006425484677136384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006423579376828417
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T220000
 SUMMARY:海夜叉神 at:?
 URL:https://twitter.com/god_yaksa23/status/1006407984077946883
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1006407984077946883
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T223000
+SUMMARY:静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006423579376828417
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T230000
