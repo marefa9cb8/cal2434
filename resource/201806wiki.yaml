@@ -50,28 +50,35 @@
   time:
     hour: 0
     min: 30
-  title: "静凛 at:YouTube"
+  title: "■静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-13
   time:
     hour: 2
     min: 30
-  title: "静凛 at:OPENREC.tv"
+  title: "■静凛 at:OPENREC.tv"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-13
   time:
     hour: 22
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: "■轟京子 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/KT_seeds/status/1006199587290296320
+- date: 2018-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "■鈴鹿詩子 at:YouTube"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1006065059032731648
 - date: 2018-06-13
   time:
     hour: 22
     min: 0
-  title: "モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて"
+  title: "■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて"
   end_time: 
   uri: https://twitter.com/komarimasu365/status/1006040935094837248
 - date: 2018-06-12

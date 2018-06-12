@@ -4667,25 +4667,31 @@ DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T003000
-SUMMARY:静凛 at:YouTube
+SUMMARY:■静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1006423579376828417
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T023000
-SUMMARY:静凛 at:OPENREC.tv
+SUMMARY:■静凛 at:OPENREC.tv
 URL:https://twitter.com/nijisanji_app/status/1006423579376828417
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
-SUMMARY:鈴鹿詩子 at:YouTube
+SUMMARY:■轟京子 at:Mirrativ
+URL:https://twitter.com/KT_seeds/status/1006199587290296320
+DESCRIPTION:https://twitter.com/KT_seeds/status/1006199587290296320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T220000
+SUMMARY:■鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/1006065059032731648
 DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
-SUMMARY:モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて
+SUMMARY:■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて
 URL:https://twitter.com/komarimasu365/status/1006040935094837248
 DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT
