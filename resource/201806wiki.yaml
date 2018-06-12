@@ -38,19 +38,19 @@
   time:
     hour: 21
     min: 0
-  title: "八朔ゆず at:Mirrativ"
+  title: "■八朔ゆず at:Mirrativ"
   end_time: 
   uri: https://twitter.com/839yuzu/status/1005762638226206720
 - date: 2018-06-14
   time:
     hour: 21
     min: 0
-  title: "でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ） at:YouTube モイラのチャンネル"
+  title: "■でろもいちー（樋口楓＆モイラ, ゲスト：勇気ちひろ） at:YouTube モイラのチャンネル"
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 - date: 2018-06-14
   time: 
-  title: "??時??分～ 出雲霞 at:?"
+  title: "??時??分～ ■出雲霞 at:?"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1006454792770674690
 - date: 2018-06-14
@@ -62,16 +62,25 @@
   time:
     hour: 0
     min: 30
-  title: "■静凛 at:YouTube"
-  end_time: 
+  title: "～ ■静凛 at:YouTube→OPENREC.tv"
+  end_time:
+    hour: 0
+    min: 40
   uri: https://twitter.com/nijisanji_app/status/1006423579376828417
+- date: 2018-06-13
+  time:
+    hour: 0
+    min: 47
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006563691670761473
 - date: 2018-06-13
   time:
     hour: 1
     min: 0
-  title: "■叶 at:twitch E3実況"
+  title: "■叶 at:Twitch E3実況"
   end_time: 
-  uri: 
+  uri: https://twitter.com/Kanae_2434/status/1006567694764658688
 - date: 2018-06-13
   time:
     hour: 2
@@ -83,7 +92,7 @@
   time:
     hour: 3
     min: 0
-  title: "■叶 at:twitch Realm Royale"
+  title: "■叶 at:Twitch Realm Royale"
   end_time: 
   uri: 
 - date: 2018-06-13
@@ -121,6 +130,11 @@
   title: "■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて"
   end_time: 
   uri: https://twitter.com/komarimasu365/status/1006040935094837248
+- date: 2018-06-13
+  time: 
+  title: "??時??分～ ■花畑チャイカ at:YouTube?"
+  end_time: 
+  uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1006539209853886464
 - date: 2018-06-12
   time:
     hour: 0
