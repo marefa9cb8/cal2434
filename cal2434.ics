@@ -4643,9 +4643,15 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T180000
-SUMMARY:森中花咲 at:Mirrativ
+SUMMARY:■森中花咲 at:Mirrativ
 URL:https://twitter.com/KazakiMorinaka/status/1006027907880243203
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1006027907880243203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T210000
+SUMMARY:■鈴木勝 at:YouTube 本人Twitterネームより
+URL:https://twitter.com/Darkness_Eater
+DESCRIPTION:https://twitter.com/Darkness_Eater
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
@@ -4661,6 +4667,12 @@ DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
+SUMMARY:??時??分～ 出雲霞 at:?
+URL:https://twitter.com/ikasumi_zzz/status/1006454792770674690
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1006454792770674690
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
 URL:https://twitter.com/MitoTsukino/status/995527978682470401
 DESCRIPTION:https://twitter.com/MitoTsukino/status/995527978682470401
@@ -4672,10 +4684,34 @@ URL:https://twitter.com/nijisanji_app/status/1006423579376828417
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T010000
+SUMMARY:■叶 at:twitch E3実況
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T023000
 SUMMARY:■静凛 at:OPENREC.tv
 URL:https://twitter.com/nijisanji_app/status/1006423579376828417
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T030000
+SUMMARY:■叶 at:twitch Realm Royale
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T200000
+SUMMARY:■名伽尾アズマ at:Mirrativ
+URL:https://twitter.com/azuma_dazo/status/1006542525568507905
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1006542525568507905
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T210000
+SUMMARY:■家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/1006524261270355969
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1006524261270355969
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
@@ -4763,7 +4799,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T220000
-SUMMARY:海夜叉神 at:?
+SUMMARY:海夜叉神 at:YouTube
 URL:https://twitter.com/god_yaksa23/status/1006407984077946883
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1006407984077946883
 END:VEVENT
@@ -4778,6 +4814,18 @@ DTSTART;TZID=Asia/Tokyo:20180612T230000
 SUMMARY:鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1006065059032731648
 DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T230000
+SUMMARY:叶 at:YouTube 雑談
+URL:https://twitter.com/Kanae_2434/status/1006508567648538629
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006508567648538629
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180612T230000
+SUMMARY:緑仙 at:YouTube→Mirrativ
+URL:https://twitter.com/midori_2434/status/1006469654116630534
+DESCRIPTION:https://twitter.com/midori_2434/status/1006469654116630534
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180611T004200

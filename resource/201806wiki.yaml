@@ -24,9 +24,16 @@
   time:
     hour: 18
     min: 0
-  title: "森中花咲 at:Mirrativ"
+  title: "■森中花咲 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1006027907880243203
+- date: 2018-06-15
+  time:
+    hour: 21
+    min: 0
+  title: "■鈴木勝 at:YouTube 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/Darkness_Eater
 - date: 2018-06-14
   time:
     hour: 21
@@ -43,6 +50,11 @@
   uri: https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 - date: 2018-06-14
   time: 
+  title: "??時??分～ 出雲霞 at:?"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1006454792770674690
+- date: 2018-06-14
+  time: 
   title: JK組コラボ（5/14に行われる予定だったものが本日に延期）22日に日程変更
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/995527978682470401
@@ -55,11 +67,39 @@
   uri: https://twitter.com/nijisanji_app/status/1006423579376828417
 - date: 2018-06-13
   time:
+    hour: 1
+    min: 0
+  title: "■叶 at:twitch E3実況"
+  end_time: 
+  uri: 
+- date: 2018-06-13
+  time:
     hour: 2
     min: 30
   title: "■静凛 at:OPENREC.tv"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006423579376828417
+- date: 2018-06-13
+  time:
+    hour: 3
+    min: 0
+  title: "■叶 at:twitch Realm Royale"
+  end_time: 
+  uri: 
+- date: 2018-06-13
+  time:
+    hour: 20
+    min: 0
+  title: "■名伽尾アズマ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/azuma_dazo/status/1006542525568507905
+- date: 2018-06-13
+  time:
+    hour: 21
+    min: 0
+  title: "■家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/1006524261270355969
 - date: 2018-06-13
   time:
     hour: 22
@@ -162,7 +202,7 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神 at:?"
+  title: "海夜叉神 at:YouTube"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1006407984077946883
 - date: 2018-06-12
@@ -179,6 +219,20 @@
   title: "鈴鹿詩子 at:SHOWROOM"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1006065059032731648
+- date: 2018-06-12
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1006508567648538629
+- date: 2018-06-12
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube→Mirrativ"
+  end_time: 
+  uri: https://twitter.com/midori_2434/status/1006469654116630534
 - date: 2018-06-11
   time:
     hour: 0
