@@ -4624,6 +4624,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T190000
+SUMMARY:■■1期生2期生から12名 at:？ おえかきの森(ハンゲーム)とのタイアップ企画
+URL:https://twitter.com/hangame_hirota/status/1006793294423175168
+DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:JK組コラボ (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
@@ -4640,6 +4646,12 @@ DTSTART;TZID=Asia/Tokyo:20180617T210000
 SUMMARY:森中花咲×勇気ちひろ at:YouTube(森中花咲のチャンネル)  まじもり！？生放送
 URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T190000
+SUMMARY:■■1期生2期生から12名 at:？ おえかきの森(ハンゲーム)とのタイアップ企画
+URL:https://twitter.com/hangame_hirota/status/1006793294423175168
+DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T064500
@@ -4722,10 +4734,22 @@ URL:https://twitter.com/Kanae_2434/status/1006601825145876481
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1006601825145876481
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180613T160000
-SUMMARY:■叶 at:？ Realm Royale ふぇありす氏とコラボ
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180613T170000
+SUMMARY:■渋谷ハジメat:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006785485388337153
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006785485388337153
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T180000
+SUMMARY:■叶 at:Twitch Realm Royale ふぇありす氏とコラボ
+URL:https://twitter.com/Kanae_2434/status/1006819437973069824
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006819437973069824
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T190000
+SUMMARY:■勇気ちひろat:Mirrativ 音ゲー
+URL:https://twitter.com/nijisanji_app/status/1006785485388337153
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006785485388337153
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T200000
@@ -4742,14 +4766,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T210000
 SUMMARY:■春崎エアル at:初YouTubeLive
-URL:https://twitter.com/harusakiair2434/status/1006743254832852992
-DESCRIPTION:https://twitter.com/harusakiair2434/status/1006743254832852992
+URL:https://twitter.com/voiz_official/status/1006780593907040256
+DESCRIPTION:https://twitter.com/voiz_official/status/1006780593907040256
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180613T220000
-SUMMARY:■叶 at:YouTube? バイオハザード4
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180613T213000
+SUMMARY:■鈴谷アキat:YouTube
+URL:https://twitter.com/nijisanji_app/status/1006785485388337153
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1006785485388337153
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
@@ -4771,6 +4795,12 @@ DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T230000
+SUMMARY:■叶 at:YouTube バイオハザード4
+URL:https://twitter.com/Kanae_2434/status/1006799693458870272
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006799693458870272
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T230000
 SUMMARY:■黒羽黒兎 at:YouTube OUTLAST
 URL:https://twitter.com/kuroto_2434/status/1006709184849592320
 DESCRIPTION:https://twitter.com/kuroto_2434/status/1006709184849592320
@@ -4786,12 +4816,6 @@ DTSTART;TZID=Asia/Tokyo:20180613T240000
 SUMMARY:■花畑チャイカ at:YouTube？
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1006751711396950017
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1006751711396950017
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180613
-SUMMARY:??時??分～ ■勇気ちひろ at:Mirrativ？ 音ゲー (前日の放送で言及)
-URL:
-DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T001500
