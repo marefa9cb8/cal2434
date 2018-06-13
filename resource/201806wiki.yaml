@@ -77,6 +77,13 @@
   end_time: 
   uri: https://twitter.com/VtuberDCD/status/1006115773469749248
 - date: 2018-06-14
+  time:
+    hour: 21
+    min: 30
+  title: "■■静凛＆吟醸姉妹 ギン at:お互いのYouTubeチャンネル R6S"
+  end_time: 
+  uri: https://twitter.com/ginjoshimai/status/1006857889372237824
+- date: 2018-06-14
   time: 
   title: "??時??分～ ■出雲霞 at:?"
   end_time: 
@@ -129,7 +136,7 @@
   time:
     hour: 17
     min: 0
-  title: "■渋谷ハジメat:YouTube"
+  title: "■渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006785485388337153
 - date: 2018-06-13
@@ -143,7 +150,7 @@
   time:
     hour: 19
     min: 0
-  title: "■勇気ちひろat:Mirrativ 音ゲー"
+  title: "■勇気ちひろ at:Mirrativ 音ゲー"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006785485388337153
 - date: 2018-06-13
@@ -153,6 +160,13 @@
   title: "■名伽尾アズマ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/azuma_dazo/status/1006542525568507905
+- date: 2018-06-13
+  time:
+    hour: 20
+    min: 30
+  title: "■静凛 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1006857690360864768
 - date: 2018-06-13
   time:
     hour: 21
@@ -171,7 +185,7 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキat:YouTube"
+  title: "■鈴谷アキ at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1006785485388337153
 - date: 2018-06-13
@@ -220,7 +234,7 @@
   time:
     hour: 24
     min: 0
-  title: "■花畑チャイカ at:YouTube？"
+  title: "■花畑チャイカ at:YouTube"
   end_time: 
   uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1006751711396950017
 - date: 2018-06-12
