@@ -4655,13 +4655,13 @@ DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T064500
-SUMMARY:■伏見ガク at:YouTube
+SUMMARY:■伏見ガク at:YouTube おはガク！ カレー
 URL:https://twitter.com/gaku_fushimi
 DESCRIPTION:https://twitter.com/gaku_fushimi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T180000
-SUMMARY:■森中花咲 at:Mirrativ
+SUMMARY:■森中花咲 at:Mirrativ 雑談
 URL:https://twitter.com/KazakiMorinaka/status/1006027907880243203
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1006027907880243203
 END:VEVENT
@@ -4670,6 +4670,36 @@ DTSTART;TZID=Asia/Tokyo:20180615T210000
 SUMMARY:■鈴木勝 at:YouTube 本人Twitterネームより
 URL:https://twitter.com/Darkness_Eater
 DESCRIPTION:https://twitter.com/Darkness_Eater
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T220000
+SUMMARY:■■渋谷ハジメ&あっくん大魔王 at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/1006914139069956098
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006914139069956098
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T002000
+SUMMARY:■モイラ at:Mirrativ
+URL:https://twitter.com/Moiramoimoimoi/status/1006919028021948417
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1006919028021948417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T010500
+SUMMARY:■叶 at:YouTube 雑談
+URL:https://twitter.com/Kanae_2434/status/1006930394476773376
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1006930394476773376
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T013000
+SUMMARY:■渋谷ハジメ at:YouTube イラスト枠
+URL:https://twitter.com/sibuya_hajime/status/1006936508685697024
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006936508685697024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T030000
+SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 雑談
+URL:https://twitter.com/sibuya_hajime/status/1006956461228896256
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006956461228896256
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T190000
@@ -4691,7 +4721,7 @@ DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
-SUMMARY:■■渋谷ハジメ&仮面ライバーもやし&アンチン at:？ 特撮談義
+SUMMARY:■■渋谷ハジメ＆仮面ライバーもやし＆アンチン at:？ 特撮談義
 URL:https://twitter.com/VtuberDCD/status/1006115773469749248
 DESCRIPTION:https://twitter.com/VtuberDCD/status/1006115773469749248
 END:VEVENT

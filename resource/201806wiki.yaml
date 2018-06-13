@@ -38,14 +38,14 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube"
+  title: "■伏見ガク at:YouTube おはガク！ カレー"
   end_time: 
   uri: https://twitter.com/gaku_fushimi
 - date: 2018-06-15
   time:
     hour: 18
     min: 0
-  title: "■森中花咲 at:Mirrativ"
+  title: "■森中花咲 at:Mirrativ 雑談"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1006027907880243203
 - date: 2018-06-15
@@ -55,6 +55,41 @@
   title: "■鈴木勝 at:YouTube 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/Darkness_Eater
+- date: 2018-06-15
+  time:
+    hour: 22
+    min: 0
+  title: "■■渋谷ハジメ&あっくん大魔王 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006914139069956098
+- date: 2018-06-14
+  time:
+    hour: 0
+    min: 20
+  title: "■モイラ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/1006919028021948417
+- date: 2018-06-14
+  time:
+    hour: 1
+    min: 5
+  title: "■叶 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1006930394476773376
+- date: 2018-06-14
+  time:
+    hour: 1
+    min: 30
+  title: "■渋谷ハジメ at:YouTube イラスト枠"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006936508685697024
+- date: 2018-06-14
+  time:
+    hour: 3
+    min: 0
+  title: "■■渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1006956461228896256
 - date: 2018-06-14
   time:
     hour: 19
@@ -80,7 +115,7 @@
   time:
     hour: 21
     min: 0
-  title: "■■渋谷ハジメ&仮面ライバーもやし&アンチン at:？ 特撮談義"
+  title: "■■渋谷ハジメ＆仮面ライバーもやし＆アンチン at:？ 特撮談義"
   end_time: 
   uri: https://twitter.com/VtuberDCD/status/1006115773469749248
 - date: 2018-06-14
