@@ -4642,6 +4642,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T064500
+SUMMARY:■伏見ガク at:YouTube
+URL:https://twitter.com/gaku_fushimi
+DESCRIPTION:https://twitter.com/gaku_fushimi
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T180000
 SUMMARY:■森中花咲 at:Mirrativ
 URL:https://twitter.com/KazakiMorinaka/status/1006027907880243203
@@ -4762,6 +4768,12 @@ DTSTART;TZID=Asia/Tokyo:20180613
 SUMMARY:??時??分～ ■花畑チャイカ at:YouTube?
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1006539209853886464
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1006539209853886464
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613
+SUMMARY:??時??分～ ■勇気ちひろ at:mirrative?
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180612T001500
