@@ -4672,6 +4672,12 @@ URL:https://twitter.com/Darkness_Eater
 DESCRIPTION:https://twitter.com/Darkness_Eater
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T190000
+SUMMARY:■卯月コウ at:YouTube?
+URL:https://twitter.com/udukikohh/status/1006891848667836416
+DESCRIPTION:https://twitter.com/udukikohh/status/1006891848667836416
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
 SUMMARY:■八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1005762638226206720
@@ -4696,8 +4702,14 @@ URL:https://twitter.com/ginjoshimai/status/1006857889372237824
 DESCRIPTION:https://twitter.com/ginjoshimai/status/1006857889372237824
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180614
-SUMMARY:??時??分～ ■出雲霞 at:?
+DTSTART;TZID=Asia/Tokyo:20180614T220000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/aki_suzuya/status/1006904446175985665
+DESCRIPTION:https://twitter.com/aki_suzuya/status/1006904446175985665
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T230000
+SUMMARY:■出雲霞 at:?
 URL:https://twitter.com/ikasumi_zzz/status/1006454792770674690
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1006454792770674690
 END:VEVENT
@@ -4771,7 +4783,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1006857690360864768
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T210000
-SUMMARY:■家長むぎ at:YouTube
+SUMMARY:■家長むぎ at:YouTube 壺
 URL:https://twitter.com/ienaga_mugi23/status/1006524261270355969
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1006524261270355969
 END:VEVENT
@@ -4801,7 +4813,7 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
-SUMMARY:■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネル
+SUMMARY:■■■モイラ＆門叶困＆叶 at:門叶困氏のYouTubeチャンネル 叶緊急参戦
 URL:https://twitter.com/komarimasu365/status/1006040935094837248
 DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT

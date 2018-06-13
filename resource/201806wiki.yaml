@@ -57,6 +57,13 @@
   uri: https://twitter.com/Darkness_Eater
 - date: 2018-06-14
   time:
+    hour: 19
+    min: 0
+  title: "■卯月コウ at:YouTube?"
+  end_time: 
+  uri: https://twitter.com/udukikohh/status/1006891848667836416
+- date: 2018-06-14
+  time:
     hour: 21
     min: 0
   title: "■八朔ゆず at:Mirrativ"
@@ -84,8 +91,17 @@
   end_time: 
   uri: https://twitter.com/ginjoshimai/status/1006857889372237824
 - date: 2018-06-14
-  time: 
-  title: "??時??分～ ■出雲霞 at:?"
+  time:
+    hour: 22
+    min: 0
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/aki_suzuya/status/1006904446175985665
+- date: 2018-06-14
+  time:
+    hour: 23
+    min: 0
+  title: "■出雲霞 at:?"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1006454792770674690
 - date: 2018-06-14
@@ -171,7 +187,7 @@
   time:
     hour: 21
     min: 0
-  title: "■家長むぎ at:YouTube"
+  title: "■家長むぎ at:YouTube 壺"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1006524261270355969
 - date: 2018-06-13
@@ -206,7 +222,7 @@
   time:
     hour: 22
     min: 0
-  title: "■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネル"
+  title: "■■■モイラ＆門叶困＆叶 at:門叶困氏のYouTubeチャンネル 叶緊急参戦"
   end_time: 
   uri: https://twitter.com/komarimasu365/status/1006040935094837248
 - date: 2018-06-13
