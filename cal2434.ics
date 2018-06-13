@@ -4666,6 +4666,12 @@ URL:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T210000
+SUMMARY:■■渋谷ハジメ&仮面ライバーもやし&アンチン at:？ 特撮談義
+URL:https://twitter.com/VtuberDCD/status/1006115773469749248
+DESCRIPTION:https://twitter.com/VtuberDCD/status/1006115773469749248
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614
 SUMMARY:??時??分～ ■出雲霞 at:?
 URL:https://twitter.com/ikasumi_zzz/status/1006454792770674690
@@ -4710,6 +4716,12 @@ URL:https://twitter.com/Kanae_2434/status/1006601825145876481
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1006601825145876481
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T160000
+SUMMARY:■叶 at:??? Realm Royale ふぇありす氏とコラボ
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T200000
 SUMMARY:■名伽尾アズマ at:Mirrativ
 URL:https://twitter.com/azuma_dazo/status/1006542525568507905
@@ -4720,6 +4732,12 @@ DTSTART;TZID=Asia/Tokyo:20180613T210000
 SUMMARY:■家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1006524261270355969
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1006524261270355969
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T220000
+SUMMARY:■叶 at:YouTube? バイオハザード4
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000

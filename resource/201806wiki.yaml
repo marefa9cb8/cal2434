@@ -49,6 +49,13 @@
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/1006095096926781440
 - date: 2018-06-14
+  time:
+    hour: 21
+    min: 0
+  title: "■■渋谷ハジメ&仮面ライバーもやし&アンチン at:？ 特撮談義"
+  end_time: 
+  uri: https://twitter.com/VtuberDCD/status/1006115773469749248
+- date: 2018-06-14
   time: 
   title: "??時??分～ ■出雲霞 at:?"
   end_time: 
@@ -99,6 +106,13 @@
   uri: https://twitter.com/Kanae_2434/status/1006601825145876481
 - date: 2018-06-13
   time:
+    hour: 16
+    min: 0
+  title: "■叶 at:??? Realm Royale ふぇありす氏とコラボ"
+  end_time: 
+  uri: 
+- date: 2018-06-13
+  time:
     hour: 20
     min: 0
   title: "■名伽尾アズマ at:Mirrativ"
@@ -111,6 +125,13 @@
   title: "■家長むぎ at:YouTube"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1006524261270355969
+- date: 2018-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "■叶 at:YouTube? バイオハザード4"
+  end_time: 
+  uri: 
 - date: 2018-06-13
   time:
     hour: 22
