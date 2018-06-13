@@ -4698,7 +4698,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T004700
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube 壺
 URL:https://twitter.com/sibuya_hajime/status/1006563691670761473
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006563691670761473
 END:VEVENT
@@ -4711,7 +4711,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T023000
 DTEND;TZID=Asia/Tokyo:20180613T030000
-SUMMARY:～ ■静凛 at:OPENREC.tv→YouTube
+SUMMARY:～ ■静凛 at:OPENREC.tv→YouTube E3実況
 URL:https://twitter.com/nijisanji_app/status/1006423579376828417
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1006423579376828417
 END:VEVENT
@@ -4723,7 +4723,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1006601825145876481
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T160000
-SUMMARY:■叶 at:??? Realm Royale ふぇありす氏とコラボ
+SUMMARY:■叶 at:？ Realm Royale ふぇありす氏とコラボ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4738,6 +4738,12 @@ DTSTART;TZID=Asia/Tokyo:20180613T210000
 SUMMARY:■家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1006524261270355969
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1006524261270355969
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T210000
+SUMMARY:■春崎エアル at:初YouTubeLive
+URL:https://twitter.com/harusakiair2434/status/1006743254832852992
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1006743254832852992
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
@@ -4759,19 +4765,31 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1006065059032731648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613T220000
-SUMMARY:■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネルにて
+SUMMARY:■■モイラ＆門叶困 at:門叶困氏のYouTubeチャンネル
 URL:https://twitter.com/komarimasu365/status/1006040935094837248
 DESCRIPTION:https://twitter.com/komarimasu365/status/1006040935094837248
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180613
-SUMMARY:??時??分～ ■花畑チャイカ at:YouTube?
-URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1006539209853886464
-DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1006539209853886464
+DTSTART;TZID=Asia/Tokyo:20180613T230000
+SUMMARY:■黒羽黒兎 at:YouTube OUTLAST
+URL:https://twitter.com/kuroto_2434/status/1006709184849592320
+DESCRIPTION:https://twitter.com/kuroto_2434/status/1006709184849592320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T230000
+SUMMARY:■海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1006742895053819910
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1006742895053819910
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180613T240000
+SUMMARY:■花畑チャイカ at:YouTube？
+URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1006751711396950017
+DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1006751711396950017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180613
-SUMMARY:??時??分～ ■勇気ちひろ at:mirrative?
+SUMMARY:??時??分～ ■勇気ちひろ at:Mirrativ？ 音ゲー (前日の放送で言及)
 URL:
 DESCRIPTION:
 END:VEVENT
