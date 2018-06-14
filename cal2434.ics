@@ -4714,10 +4714,22 @@ URL:https://twitter.com/udukikohh/status/1006891848667836416
 DESCRIPTION:https://twitter.com/udukikohh/status/1006891848667836416
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T200000
+SUMMARY:■海夜叉神 at:?
+URL:https://twitter.com/god_yaksa23/status/1007118342161747969
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1007118342161747969
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
 SUMMARY:■八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1005762638226206720
 DESCRIPTION:https://twitter.com/839yuzu/status/1005762638226206720
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T210000
+SUMMARY:■春崎エアル at:Mirrativ？
+URL:https://twitter.com/harusakiair2434/status/1007105303001718784
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1007105303001718784
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T210000
@@ -4744,8 +4756,14 @@ URL:https://twitter.com/aki_suzuya/status/1006904446175985665
 DESCRIPTION:https://twitter.com/aki_suzuya/status/1006904446175985665
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180614T223000
+SUMMARY:■轟京子 at:Mirrativ
+URL:https://twitter.com/KT_seeds/status/1007111131314311168
+DESCRIPTION:https://twitter.com/KT_seeds/status/1007111131314311168
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T230000
-SUMMARY:■出雲霞 at:?
+SUMMARY:■出雲霞 at:YouTube
 URL:https://twitter.com/ikasumi_zzz/status/1006454792770674690
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1006454792770674690
 END:VEVENT
