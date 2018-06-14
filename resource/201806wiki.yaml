@@ -43,6 +43,13 @@
   uri: https://twitter.com/846kizuQ
 - date: 2018-06-15
   time:
+    hour: 1
+    min: 0
+  title: "■静凛 at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1007149248025018369
+- date: 2018-06-15
+  time:
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！ カレー"
@@ -69,6 +76,11 @@
   title: "■■渋谷ハジメ&あっくん大魔王 at:YouTube PUBG"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1006914139069956098
+- date: 2018-06-15
+  time: 
+  title: "??時??分～ ■シスター・クレア at:? 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire
 - date: 2018-06-14
   time:
     hour: 0
@@ -99,6 +111,20 @@
   uri: https://twitter.com/sibuya_hajime/status/1006956461228896256
 - date: 2018-06-14
   time:
+    hour: 17
+    min: 23
+  title: "■■叶＆ふぇありす at:Twitch Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1007176657159929856
+- date: 2018-06-14
+  time:
+    hour: 19
+    min: 0
+  title: "■叶 at:YouTube Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1007174370492420096
+- date: 2018-06-14
+  time:
     hour: 19
     min: 0
   title: "■卯月コウ at:YouTube?"
@@ -106,9 +132,16 @@
   uri: https://twitter.com/udukikohh/status/1006891848667836416
 - date: 2018-06-14
   time:
+    hour: 19
+    min: 30
+  title: "■夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1007149248025018369
+- date: 2018-06-14
+  time:
     hour: 20
     min: 0
-  title: "■海夜叉神 at:?"
+  title: "■海夜叉神 at:YouTube"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1007118342161747969
 - date: 2018-06-14
@@ -122,9 +155,9 @@
   time:
     hour: 21
     min: 0
-  title: "■春崎エアル at:Mirrativ？"
+  title: "■春崎エアル at:YouTube"
   end_time: 
-  uri: https://twitter.com/harusakiair2434/status/1007105303001718784
+  uri: https://twitter.com/voiz_official/status/1007166145433034752
 - date: 2018-06-14
   time:
     hour: 21
