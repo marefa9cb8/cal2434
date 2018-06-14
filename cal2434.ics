@@ -4637,13 +4637,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T000000
-SUMMARY:月ノ美兎＆樋口楓 寝落ち耐久配信 （6/10樋口楓の配信にて告知）
+SUMMARY:月ノ美兎＆樋口楓 at:? 寝落ち耐久配信 （6/10樋口楓の配信にて告知）
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T163000
-SUMMARY:月ノ美兎 at AbemaTV, OPENREC（RAGEのチャンネル） 「RAGE バーチャルYouTuber GRAND PRIX ～2018 Summer～」
+SUMMARY:月ノ美兎 at:AbemaTV, OPENREC（RAGEのチャンネル） 「RAGE バーチャルYouTuber GRAND PRIX ～2018 Summer～」
 URL:https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
 DESCRIPTION:https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
 END:VEVENT
@@ -4682,6 +4682,12 @@ DTSTART;TZID=Asia/Tokyo:20180615T180000
 SUMMARY:■森中花咲 at:Mirrativ 雑談
 URL:https://twitter.com/KazakiMorinaka/status/1006027907880243203
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1006027907880243203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T200000
+SUMMARY:■八朔ゆず at:Mirrativ
+URL:https://twitter.com/839yuzu/status/1007240221434392576
+DESCRIPTION:https://twitter.com/839yuzu/status/1007240221434392576
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T210000

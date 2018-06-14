@@ -17,14 +17,14 @@
   time:
     hour: 0
     min: 0
-  title: "月ノ美兎＆樋口楓 寝落ち耐久配信 （6/10樋口楓の配信にて告知）"
+  title: "月ノ美兎＆樋口楓 at:? 寝落ち耐久配信 （6/10樋口楓の配信にて告知）"
   end_time: 
   uri: 
 - date: 2018-06-17
   time:
     hour: 16
     min: 30
-  title: "月ノ美兎 at AbemaTV, OPENREC（RAGEのチャンネル） 「RAGE バーチャルYouTuber GRAND PRIX ～2018
+  title: "月ノ美兎 at:AbemaTV, OPENREC（RAGEのチャンネル） 「RAGE バーチャルYouTuber GRAND PRIX ～2018
     Summer～」"
   end_time: 
   uri: https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
@@ -70,6 +70,13 @@
   title: "■森中花咲 at:Mirrativ 雑談"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1006027907880243203
+- date: 2018-06-15
+  time:
+    hour: 20
+    min: 0
+  title: "■八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/839yuzu/status/1007240221434392576
 - date: 2018-06-15
   time:
     hour: 21
