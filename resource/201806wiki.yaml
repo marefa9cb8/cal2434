@@ -58,6 +58,20 @@
   uri: https://twitter.com/nijisanji_app/status/1007149248025018369
 - date: 2018-06-15
   time:
+    hour: 1
+    min: 30
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1007299421787152384
+- date: 2018-06-15
+  time:
+    hour: 3
+    min: 30
+  title: "■黒羽黒兎 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/kuroto_2434/status/1007329444564877313
+- date: 2018-06-15
+  time:
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！ カレー"
@@ -92,10 +106,36 @@
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1006914139069956098
 - date: 2018-06-15
-  time: 
-  title: "??時??分～ ■シスター・クレア at:? 本人Twitterネームより"
+  time:
+    hour: 22
+    min: 0
+  title: "■モイラ at:YouTube もいらじ"
   end_time: 
-  uri: https://twitter.com/SisterCleaire
+  uri: https://twitter.com/Moiramoimoimoi/status/1007442015372447744
+- date: 2018-06-15
+  time:
+    hour: 22
+    min: 0
+  title: "■シスター・クレア at:?"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1007386843988422656
+- date: 2018-06-15
+  time:
+    hour: 24
+    min: 0
+  title: "■黒羽黒兎 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/kuroto_2434/status/1007437878077476864
+- date: 2018-06-15
+  time: 
+  title: "？時？分～(22時より前の時間) ■シスター・クレア at:?"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1007386843988422656
+- date: 2018-06-15
+  time: 
+  title: "？時？分～(夜) ■春崎エアル at:YouTube"
+  end_time: 
+  uri: https://twitter.com/harusakiair2434/status/1007424382233280512
 - date: 2018-06-14
   time:
     hour: 0

@@ -4672,6 +4672,18 @@ URL:https://twitter.com/nijisanji_app/status/1007149248025018369
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1007149248025018369
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T013000
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1007299421787152384
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1007299421787152384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T033000
+SUMMARY:■黒羽黒兎 at:Mirrativ
+URL:https://twitter.com/kuroto_2434/status/1007329444564877313
+DESCRIPTION:https://twitter.com/kuroto_2434/status/1007329444564877313
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T064500
 SUMMARY:■伏見ガク at:YouTube おはガク！ カレー
 URL:https://twitter.com/gaku_fushimi
@@ -4702,10 +4714,34 @@ URL:https://twitter.com/sibuya_hajime/status/1006914139069956098
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006914139069956098
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T220000
+SUMMARY:■モイラ at:YouTube もいらじ
+URL:https://twitter.com/Moiramoimoimoi/status/1007442015372447744
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1007442015372447744
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T220000
+SUMMARY:■シスター・クレア at:?
+URL:https://twitter.com/SisterCleaire/status/1007386843988422656
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1007386843988422656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T240000
+SUMMARY:■黒羽黒兎 at:YouTube 雑談
+URL:https://twitter.com/kuroto_2434/status/1007437878077476864
+DESCRIPTION:https://twitter.com/kuroto_2434/status/1007437878077476864
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615
-SUMMARY:??時??分～ ■シスター・クレア at:? 本人Twitterネームより
-URL:https://twitter.com/SisterCleaire
-DESCRIPTION:https://twitter.com/SisterCleaire
+SUMMARY:？時？分～(22時より前の時間) ■シスター・クレア at:?
+URL:https://twitter.com/SisterCleaire/status/1007386843988422656
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1007386843988422656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615
+SUMMARY:？時？分～(夜) ■春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1007424382233280512
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1007424382233280512
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T002000
