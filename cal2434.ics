@@ -4630,8 +4630,14 @@ URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624
+SUMMARY:樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
-SUMMARY:JK組コラボ (14日から日程変更。6/6樋口楓の配信にて告知)
+SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4642,16 +4648,10 @@ URL:https://twitter.com/KT_seeds/status/1007466326779031553
 DESCRIPTION:https://twitter.com/KT_seeds/status/1007466326779031553
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180617T000000
-SUMMARY:■月ノ美兎＆樋口楓 at:? 寝落ち耐久配信 （6/10樋口楓の配信にて告知）
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T163000
 SUMMARY:■■電脳少女シロ他5名＆月ノ美兎 at:AbemaTV, OPENREC（RAGEのチャンネル） 「RAGE バーチャルYouTuber GRAND PRIX ～2018 Summer～」
-URL:https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
-DESCRIPTION:https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
+URL:https://twitter.com/MitoTsukino/status/1007168352521936896
+DESCRIPTION:https://twitter.com/MitoTsukino/status/1007168352521936896
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T180000
@@ -4666,16 +4666,22 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616T000000
-SUMMARY:■剣持刀也 at:？
-URL:https://twitter.com/rei_Toya_rei/status/1007572806744211456
-DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1007572806744211456
+DTSTART;TZID=Asia/Tokyo:20180617
+SUMMARY:樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T100000
 SUMMARY:■成瀬鳴 at:Mirrativ
 URL:https://twitter.com/voiz_official/status/1007511276904300544
 DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T150000
+SUMMARY:■安土桃 at:YouTube
+URL:https://twitter.com/momo_aduchi/status/1007637996428902401
+DESCRIPTION:https://twitter.com/momo_aduchi/status/1007637996428902401
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T170000
@@ -4690,12 +4696,6 @@ URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616T190000
-SUMMARY:■樋口楓 at:? 本人Twitterネームより
-URL:https://twitter.com/HiguchiKaede
-DESCRIPTION:https://twitter.com/HiguchiKaede
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T220000
 SUMMARY:■物述有栖 at:?
 URL:https://twitter.com/AliceMononobe/status/1007526817173942272
@@ -4703,19 +4703,13 @@ DESCRIPTION:https://twitter.com/AliceMononobe/status/1007526817173942272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T230000
-SUMMARY:■社築 本人Twitterネームより
+SUMMARY:■社築 at:? 本人Twitterネームより
 URL:https://twitter.com/846kizuQ
 DESCRIPTION:https://twitter.com/846kizuQ
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616T230000
-SUMMARY:■樋口楓 at:Mirrativ
-URL:https://twitter.com/HiguchiKaede/status/1007589248273248256
-DESCRIPTION:https://twitter.com/HiguchiKaede/status/1007589248273248256
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T240000
-SUMMARY:■■月ノ美兎＆樋口楓 at:YouTube 月ノ美兎のチャンネル
+SUMMARY:■月ノ美兎＆樋口楓 at:YouTube 月ノ美兎のチャンネル
 URL:https://twitter.com/MitoTsukino/status/1007589099186765824
 DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
 END:VEVENT
@@ -4787,13 +4781,13 @@ DESCRIPTION:https://twitter.com/Darkness_Eater/status/1007553002599694336
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T213000
-SUMMARY:■シスター・クレア at:?
-URL:https://twitter.com/SisterCleaire/status/1007578593721966592
-DESCRIPTION:https://twitter.com/SisterCleaire/status/1007578593721966592
+SUMMARY:■シスター・クレア at:Mirrativ
+URL:https://twitter.com/SisterCleaire/status/1007599211074879489
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1007599211074879489
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T220000
-SUMMARY:■■渋谷ハジメ&あっくん大魔王 at:YouTube PUBG
+SUMMARY:■■渋谷ハジメ&あっくん大魔王 at:YouTube(渋谷ハジメのチャンネル) PUBG
 URL:https://twitter.com/sibuya_hajime/status/1006914139069956098
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1006914139069956098
 END:VEVENT
@@ -4822,8 +4816,8 @@ URL:https://twitter.com/voiz_official/status/1007511276904300544
 DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180615T230000
-SUMMARY:■樋口楓 at:Mirrativ
+DTSTART;TZID=Asia/Tokyo:20180615T230200
+SUMMARY:■樋口楓 at:Mirrativ 告知
 URL:https://twitter.com/HiguchiKaede/status/1007589248273248256
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1007589248273248256
 END:VEVENT
@@ -4844,6 +4838,12 @@ DTSTART;TZID=Asia/Tokyo:20180615T240000
 SUMMARY:■剣持刀也 at:?
 URL:https://twitter.com/rei_Toya_rei/status/1007572806744211456
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1007572806744211456
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615
+SUMMARY:鈴鹿詩子、本日の固定配信は無し
+URL:https://twitter.com/suzukautako/status/1007497875863945216
+DESCRIPTION:https://twitter.com/suzukautako/status/1007497875863945216
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T002000
