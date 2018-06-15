@@ -54,6 +54,30 @@
   uri: 
 - date: 2018-06-16
   time:
+    hour: 1
+    min: 6
+  title: "■叶 at:YouTube Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1007656770561499136
+- date: 2018-06-16
+  time:
+    hour: 1
+    min: 30
+  title: "■■静凛＆ロボ子さん at:OPENREC.tv　参加型PUBGコラボ"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1007659984362995714
+- date: 2018-06-16
+  time: 
+  title: 02時？分～ ■■■[[叶&渋谷ハジメ&万楽えね&ふぇありす:]] at:YouTube Realm Royaleコラボ
+  end_time: 
+  uri: 
+- date: 2018-06-16
+  time: 
+  title: "？時？分～(朝) ■春崎エアル at:？"
+  end_time: 
+  uri: https://twitter.com/harusakiair2434/status/1007649694447570944
+- date: 2018-06-16
+  time:
     hour: 10
     min: 0
   title: "■成瀬鳴 at:Mirrativ"
@@ -66,6 +90,13 @@
   title: "■安土桃 at:YouTube"
   end_time: 
   uri: https://twitter.com/momo_aduchi/status/1007637996428902401
+- date: 2018-06-16
+  time:
+    hour: 16
+    min: 0
+  title: "■海夜叉神 at:?"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1007654927198388224
 - date: 2018-06-16
   time:
     hour: 17
@@ -103,9 +134,9 @@
   uri: https://twitter.com/MitoTsukino/status/1007589099186765824
 - date: 2018-06-16
   time: 
-  title: "？時？分～(夕方頃) ■海夜叉神 at:?"
+  title: "？時？分～(夜) ■緑仙 at:?"
   end_time: 
-  uri: https://twitter.com/god_yaksa23/status/1007538453301481472
+  uri: https://twitter.com/midori_2434/status/1007672776210112513
 - date: 2018-06-15
   time:
     hour: 1
@@ -243,7 +274,7 @@
   time:
     hour: 24
     min: 0
-  title: "■剣持刀也 at:?"
+  title: "■剣持刀也 at:YouTube"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/1007572806744211456
 - date: 2018-06-15

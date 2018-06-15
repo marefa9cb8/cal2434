@@ -4672,6 +4672,30 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T010600
+SUMMARY:■叶 at:YouTube Realm Royale
+URL:https://twitter.com/Kanae_2434/status/1007656770561499136
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1007656770561499136
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T013000
+SUMMARY:■■静凛＆ロボ子さん at:OPENREC.tv　参加型PUBGコラボ
+URL:https://twitter.com/ShizuRin23/status/1007659984362995714
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1007659984362995714
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616
+SUMMARY:02時？分～ ■■■[[叶&渋谷ハジメ&万楽えね&ふぇありす:]] at:YouTube Realm Royaleコラボ
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616
+SUMMARY:？時？分～(朝) ■春崎エアル at:？
+URL:https://twitter.com/harusakiair2434/status/1007649694447570944
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1007649694447570944
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T100000
 SUMMARY:■成瀬鳴 at:Mirrativ
 URL:https://twitter.com/voiz_official/status/1007511276904300544
@@ -4682,6 +4706,12 @@ DTSTART;TZID=Asia/Tokyo:20180616T150000
 SUMMARY:■安土桃 at:YouTube
 URL:https://twitter.com/momo_aduchi/status/1007637996428902401
 DESCRIPTION:https://twitter.com/momo_aduchi/status/1007637996428902401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T160000
+SUMMARY:■海夜叉神 at:?
+URL:https://twitter.com/god_yaksa23/status/1007654927198388224
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1007654927198388224
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T170000
@@ -4715,9 +4745,9 @@ DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616
-SUMMARY:？時？分～(夕方頃) ■海夜叉神 at:?
-URL:https://twitter.com/god_yaksa23/status/1007538453301481472
-DESCRIPTION:https://twitter.com/god_yaksa23/status/1007538453301481472
+SUMMARY:？時？分～(夜) ■緑仙 at:?
+URL:https://twitter.com/midori_2434/status/1007672776210112513
+DESCRIPTION:https://twitter.com/midori_2434/status/1007672776210112513
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T010000
@@ -4835,7 +4865,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1007469725784260608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T240000
-SUMMARY:■剣持刀也 at:?
+SUMMARY:■剣持刀也 at:YouTube
 URL:https://twitter.com/rei_Toya_rei/status/1007572806744211456
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1007572806744211456
 END:VEVENT
