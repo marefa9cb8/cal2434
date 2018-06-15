@@ -37,11 +37,25 @@
   uri: https://abema.tv/channels/ultra-games-4/slots/AawoQd2KUbx2QF
 - date: 2018-06-17
   time:
+    hour: 18
+    min: 0
+  title: "■家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/1007575824617230336
+- date: 2018-06-17
+  time:
     hour: 21
     min: 0
   title: "■■森中花咲×勇気ちひろ at:YouTube(森中花咲のチャンネル)  まじもり！？生放送"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1005269677835104256
+- date: 2018-06-16
+  time:
+    hour: 0
+    min: 0
+  title: "■剣持刀也 at:？"
+  end_time: 
+  uri: https://twitter.com/rei_Toya_rei/status/1007572806744211456
 - date: 2018-06-16
   time:
     hour: 10
@@ -65,6 +79,13 @@
   uri: https://twitter.com/hangame_hirota/status/1006793294423175168
 - date: 2018-06-16
   time:
+    hour: 19
+    min: 0
+  title: "■樋口楓 at:? 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede
+- date: 2018-06-16
+  time:
     hour: 22
     min: 0
   title: "■物述有栖 at:?"
@@ -77,6 +98,25 @@
   title: "■社築 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/846kizuQ
+- date: 2018-06-16
+  time:
+    hour: 23
+    min: 0
+  title: "■樋口楓 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/1007589248273248256
+- date: 2018-06-16
+  time:
+    hour: 24
+    min: 0
+  title: "■■月ノ美兎＆樋口楓 at:YouTube 月ノ美兎のチャンネル"
+  end_time: 
+  uri: https://twitter.com/MitoTsukino/status/1007589099186765824
+- date: 2018-06-16
+  time: 
+  title: "？時？分～(夕方頃) ■海夜叉神 at:?"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1007538453301481472
 - date: 2018-06-15
   time:
     hour: 1
@@ -114,6 +154,13 @@
   uri: https://twitter.com/KazakiMorinaka/status/1006027907880243203
 - date: 2018-06-15
   time:
+    hour: 18
+    min: 0
+  title: "■叶 at:YouTube Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1007548836624003072
+- date: 2018-06-15
+  time:
     hour: 20
     min: 0
   title: "■八朔ゆず at:Mirrativ"
@@ -128,11 +175,25 @@
   uri: https://twitter.com/nijisanji_app/status/1007505761101012992
 - date: 2018-06-15
   time:
+    hour: 20
+    min: 25
+  title: "■■叶＆伏見ガク at:YouTube ゲリラ"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1007585118196719616
+- date: 2018-06-15
+  time:
     hour: 21
     min: 0
-  title: "■鈴木勝 at:YouTube 本人Twitterネームより"
+  title: "■鈴木勝 at:YouTube Home Sweet Home"
   end_time: 
-  uri: https://twitter.com/Darkness_Eater
+  uri: https://twitter.com/Darkness_Eater/status/1007553002599694336
+- date: 2018-06-15
+  time:
+    hour: 21
+    min: 30
+  title: "■シスター・クレア at:?"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1007578593721966592
 - date: 2018-06-15
   time:
     hour: 22
@@ -170,6 +231,13 @@
   uri: https://twitter.com/voiz_official/status/1007511276904300544
 - date: 2018-06-15
   time:
+    hour: 23
+    min: 0
+  title: "■樋口楓 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede/status/1007589248273248256
+- date: 2018-06-15
+  time:
     hour: 24
     min: 0
   title: "■黒羽黒兎 at:YouTube 雑談"
@@ -183,10 +251,12 @@
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1007469725784260608
 - date: 2018-06-15
-  time: 
-  title: "？時？分～(22時より前の時間) ■シスター・クレア at:?"
+  time:
+    hour: 24
+    min: 0
+  title: "■剣持刀也 at:?"
   end_time: 
-  uri: https://twitter.com/SisterCleaire/status/1007386843988422656
+  uri: https://twitter.com/rei_Toya_rei/status/1007572806744211456
 - date: 2018-06-14
   time:
     hour: 0
