@@ -4636,6 +4636,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T220000
+SUMMARY:■轟京子 at:Mirrativ
+URL:https://twitter.com/KT_seeds/status/1007466326779031553
+DESCRIPTION:https://twitter.com/KT_seeds/status/1007466326779031553
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T000000
 SUMMARY:■月ノ美兎＆樋口楓 at:? 寝落ち耐久配信 （6/10樋口楓の配信にて告知）
 URL:
@@ -4652,6 +4658,12 @@ DTSTART;TZID=Asia/Tokyo:20180617T210000
 SUMMARY:■■森中花咲×勇気ちひろ at:YouTube(森中花咲のチャンネル)  まじもり！？生放送
 URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T170000
+SUMMARY:■鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/1007497875863945216
+DESCRIPTION:https://twitter.com/suzukautako/status/1007497875863945216
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T190000
@@ -4730,6 +4742,12 @@ DTSTART;TZID=Asia/Tokyo:20180615T240000
 SUMMARY:■黒羽黒兎 at:YouTube 雑談
 URL:https://twitter.com/kuroto_2434/status/1007437878077476864
 DESCRIPTION:https://twitter.com/kuroto_2434/status/1007437878077476864
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T240000
+SUMMARY:■叶 at:YouTube バイノーラル雑談
+URL:https://twitter.com/Kanae_2434/status/1007469725784260608
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1007469725784260608
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615
