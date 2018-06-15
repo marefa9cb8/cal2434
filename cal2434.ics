@@ -4660,6 +4660,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T100000
+SUMMARY:■成瀬鳴 at:Mirrativ
+URL:https://twitter.com/voiz_official/status/1007511276904300544
+DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T170000
 SUMMARY:■鈴鹿詩子 at:SHOWROOM
 URL:https://twitter.com/suzukautako/status/1007497875863945216
@@ -4672,6 +4678,12 @@ URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T220000
+SUMMARY:■物述有栖 at:?
+URL:https://twitter.com/AliceMononobe/status/1007526817173942272
+DESCRIPTION:https://twitter.com/AliceMononobe/status/1007526817173942272
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T230000
 SUMMARY:■社築 本人Twitterネームより
 URL:https://twitter.com/846kizuQ
@@ -4679,7 +4691,7 @@ DESCRIPTION:https://twitter.com/846kizuQ
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T010000
-SUMMARY:■静凛 at:OPENREC.tv
+SUMMARY:■静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1007149248025018369
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1007149248025018369
 END:VEVENT
@@ -4714,6 +4726,12 @@ URL:https://twitter.com/839yuzu/status/1007240221434392576
 DESCRIPTION:https://twitter.com/839yuzu/status/1007240221434392576
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T200000
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1007505761101012992
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007505761101012992
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T210000
 SUMMARY:■鈴木勝 at:YouTube 本人Twitterネームより
 URL:https://twitter.com/Darkness_Eater
@@ -4733,9 +4751,21 @@ DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1007442015372447744
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T220000
-SUMMARY:■シスター・クレア at:?
+SUMMARY:■シスター・クレア at:Mirrativ
 URL:https://twitter.com/SisterCleaire/status/1007386843988422656
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1007386843988422656
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T222000
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1007505761101012992
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007505761101012992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180615T230000
+SUMMARY:■春崎エアル at:YouTube
+URL:https://twitter.com/voiz_official/status/1007511276904300544
+DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T240000
@@ -4754,12 +4784,6 @@ DTSTART;TZID=Asia/Tokyo:20180615
 SUMMARY:？時？分～(22時より前の時間) ■シスター・クレア at:?
 URL:https://twitter.com/SisterCleaire/status/1007386843988422656
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1007386843988422656
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180615
-SUMMARY:？時？分～(夜) ■春崎エアル at:YouTube
-URL:https://twitter.com/harusakiair2434/status/1007424382233280512
-DESCRIPTION:https://twitter.com/harusakiair2434/status/1007424382233280512
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180614T002000

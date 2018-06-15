@@ -44,6 +44,13 @@
   uri: https://twitter.com/KazakiMorinaka/status/1005269677835104256
 - date: 2018-06-16
   time:
+    hour: 10
+    min: 0
+  title: "■成瀬鳴 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/voiz_official/status/1007511276904300544
+- date: 2018-06-16
+  time:
     hour: 17
     min: 0
   title: "■鈴鹿詩子 at:SHOWROOM"
@@ -58,6 +65,13 @@
   uri: https://twitter.com/hangame_hirota/status/1006793294423175168
 - date: 2018-06-16
   time:
+    hour: 22
+    min: 0
+  title: "■物述有栖 at:?"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/1007526817173942272
+- date: 2018-06-16
+  time:
     hour: 23
     min: 0
   title: "■社築 本人Twitterネームより"
@@ -67,7 +81,7 @@
   time:
     hour: 1
     min: 0
-  title: "■静凛 at:OPENREC.tv"
+  title: "■静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1007149248025018369
 - date: 2018-06-15
@@ -107,6 +121,13 @@
   uri: https://twitter.com/839yuzu/status/1007240221434392576
 - date: 2018-06-15
   time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1007505761101012992
+- date: 2018-06-15
+  time:
     hour: 21
     min: 0
   title: "■鈴木勝 at:YouTube 本人Twitterネームより"
@@ -130,9 +151,23 @@
   time:
     hour: 22
     min: 0
-  title: "■シスター・クレア at:?"
+  title: "■シスター・クレア at:Mirrativ"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1007386843988422656
+- date: 2018-06-15
+  time:
+    hour: 22
+    min: 20
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1007505761101012992
+- date: 2018-06-15
+  time:
+    hour: 23
+    min: 0
+  title: "■春崎エアル at:YouTube"
+  end_time: 
+  uri: https://twitter.com/voiz_official/status/1007511276904300544
 - date: 2018-06-15
   time:
     hour: 24
@@ -152,11 +187,6 @@
   title: "？時？分～(22時より前の時間) ■シスター・クレア at:?"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1007386843988422656
-- date: 2018-06-15
-  time: 
-  title: "？時？分～(夜) ■春崎エアル at:YouTube"
-  end_time: 
-  uri: https://twitter.com/harusakiair2434/status/1007424382233280512
 - date: 2018-06-14
   time:
     hour: 0
