@@ -4750,10 +4750,10 @@ URL:https://twitter.com/MitoTsukino/status/1007589099186765824
 DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616
-SUMMARY:？時？分～(夜) ■緑仙 at:?
-URL:https://twitter.com/midori_2434/status/1007672776210112513
-DESCRIPTION:https://twitter.com/midori_2434/status/1007672776210112513
+DTSTART;TZID=Asia/Tokyo:20180616T240000
+SUMMARY:■緑仙 at:?
+URL:https://twitter.com/midori_2434/status/1007844828409880576
+DESCRIPTION:https://twitter.com/midori_2434/status/1007844828409880576
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180615T010000
