@@ -27,6 +27,13 @@
   uri: 
 - date: 2018-06-18
   time:
+    hour: 20
+    min: 0
+  title: "■八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/839yuzu/status/1007921537402355712
+- date: 2018-06-18
+  time:
     hour: 22
     min: 0
   title: "■轟京子 at:Mirrativ"
@@ -36,21 +43,28 @@
   time:
     hour: 0
     min: 0
-  title: "■月ノ美兎＆樋口楓 at:YouTube（月ノ美兎のチャンネル） 寝落ち耐久配信"
+  title: "■緑仙 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/midori_2434/status/1007844828409880576
+- date: 2018-06-17
+  time:
+    hour: 0
+    min: 0
+  title: "■月ノ美兎＆樋口楓 at:YouTube(月ノ美兎のチャンネル) 寝落ち耐久配信"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/1007589099186765824
 - date: 2018-06-17
   time:
     hour: 13
     min: 0
-  title: "■卯月コウ at:YouTube IB"
+  title: "■卯月コウ at:YouTube Ib"
   end_time: 
   uri: https://twitter.com/udukikohh/status/1007895991649878017
 - date: 2018-06-17
   time:
     hour: 16
     min: 30
-  title: "■■電脳少女シロ他5名＆月ノ美兎 at:AbemaTV, OPENREC.tv（RAGEのチャンネル） 「RAGE バーチャルYouTuber
+  title: "■■電脳少女シロ他5名＆月ノ美兎 at:AbemaTV, OPENREC.tv(RAGEのチャンネル) 「RAGE バーチャルYouTuber
     GRAND PRIX ～2018 Summer～」"
   end_time: 
   uri: https://twitter.com/MitoTsukino/status/1007168352521936896
@@ -168,7 +182,7 @@
   time:
     hour: 19
     min: 0
-  title: "■樋口楓 at:?"
+  title: "■樋口楓 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1007869458633748480
 - date: 2018-06-16
@@ -182,7 +196,7 @@
   time:
     hour: 21
     min: 0
-  title: "■海夜叉神 at:? しょぼんのアクション2"
+  title: "■海夜叉神 at:YouTube しょぼんのアクション2"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1007900110804533249
 - date: 2018-06-16
@@ -213,13 +227,6 @@
   title: "■社築 at:YouTube"
   end_time: 
   uri: https://twitter.com/___Dola/status/1007902924733702144
-- date: 2018-06-16
-  time:
-    hour: 24
-    min: 0
-  title: "■緑仙 at:YouTube"
-  end_time: 
-  uri: https://twitter.com/midori_2434/status/1007844828409880576
 - date: 2018-06-15
   time:
     hour: 1
