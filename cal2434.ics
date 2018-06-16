@@ -4685,9 +4685,15 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1007659984362995714
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T030000
-SUMMARY:■■■叶＆渋谷ハジメ＆万楽えね＆ふぇありす at:YouTube Realm Royaleコラボ
+SUMMARY:■■■叶＆渋谷ハジメ＆万楽えね＆ふぇありす at:YouTube Realm Royaleコラボ ↓さらに新枠へ続
 URL:https://twitter.com/Kanae_2434/status/1007684380200857600
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1007684380200857600
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T074400
+SUMMARY:■■叶＆ふぇありす at:Twitch Realm Royaleコラボ
+URL:https://twitter.com/Kanae_2434/status/1007755754009341952
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1007755754009341952
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616
