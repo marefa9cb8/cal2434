@@ -81,15 +81,17 @@
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1007755754009341952
 - date: 2018-06-16
-  time: 
-  title: "？時？分～(朝) ■春崎エアル at:？"
+  time:
+    hour: 8
+    min: 48
+  title: "■春崎エアル at:YouTube"
   end_time: 
-  uri: https://twitter.com/harusakiair2434/status/1007649694447570944
+  uri: https://www.youtube.com/watch?v=kKNnqY6jIak
 - date: 2018-06-16
   time:
     hour: 10
     min: 0
-  title: "■成瀬鳴 at:Mirrativ"
+  title: 10時30分～ ■成瀬鳴 at:Mirrativ 時間変更
   end_time: 
   uri: https://twitter.com/voiz_official/status/1007511276904300544
 - date: 2018-06-16

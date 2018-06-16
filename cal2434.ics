@@ -4696,14 +4696,14 @@ URL:https://twitter.com/Kanae_2434/status/1007755754009341952
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1007755754009341952
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616
-SUMMARY:？時？分～(朝) ■春崎エアル at:？
-URL:https://twitter.com/harusakiair2434/status/1007649694447570944
-DESCRIPTION:https://twitter.com/harusakiair2434/status/1007649694447570944
+DTSTART;TZID=Asia/Tokyo:20180616T084800
+SUMMARY:■春崎エアル at:YouTube
+URL:https://www.youtube.com/watch?v=kKNnqY6jIak
+DESCRIPTION:https://www.youtube.com/watch?v=kKNnqY6jIak
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T100000
-SUMMARY:■成瀬鳴 at:Mirrativ
+SUMMARY:10時30分～ ■成瀬鳴 at:Mirrativ 時間変更
 URL:https://twitter.com/voiz_official/status/1007511276904300544
 DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
 END:VEVENT
