@@ -4642,10 +4642,28 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T240000
+SUMMARY:■森中花咲 at:YouTube 悪い子ナイト
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T220000
 SUMMARY:■轟京子 at:Mirrativ
 URL:https://twitter.com/KT_seeds/status/1007466326779031553
 DESCRIPTION:https://twitter.com/KT_seeds/status/1007466326779031553
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T000000
+SUMMARY:■月ノ美兎＆樋口楓 at:YouTube（月ノ美兎のチャンネル） 寝落ち耐久配信
+URL:https://twitter.com/MitoTsukino/status/1007589099186765824
+DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T130000
+SUMMARY:■卯月コウ at:YouTube IB
+URL:https://twitter.com/udukikohh/status/1007895991649878017
+DESCRIPTION:https://twitter.com/udukikohh/status/1007895991649878017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T163000
@@ -4685,7 +4703,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1007659984362995714
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T030000
-SUMMARY:■■■叶＆渋谷ハジメ＆万楽えね＆ふぇありす at:YouTube Realm Royaleコラボ ↓さらに新枠へ続
+SUMMARY:■■■叶＆渋谷ハジメ＆万楽えね＆ふぇありす at:YouTube Realm Royaleコラボ
 URL:https://twitter.com/Kanae_2434/status/1007684380200857600
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1007684380200857600
 END:VEVENT
@@ -4708,14 +4726,26 @@ URL:https://twitter.com/voiz_official/status/1007511276904300544
 DESCRIPTION:https://twitter.com/voiz_official/status/1007511276904300544
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T123000
+SUMMARY:■春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1007827826127466498
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1007827826127466498
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T130400
+SUMMARY:■春崎エアル at:YouTube 荒野行動
+URL:https://twitter.com/harusakiair2434/status/1007836186298028032
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1007836186298028032
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T150000
-SUMMARY:■安土桃 at:YouTube
+SUMMARY:■安土桃 at:YouTube 初配信
 URL:https://twitter.com/momo_aduchi/status/1007637996428902401
 DESCRIPTION:https://twitter.com/momo_aduchi/status/1007637996428902401
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T160000
-SUMMARY:■海夜叉神 at:?
+SUMMARY:■海夜叉神 at:YouTube しょぼんのアクション
 URL:https://twitter.com/god_yaksa23/status/1007654927198388224
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1007654927198388224
 END:VEVENT
@@ -4726,10 +4756,40 @@ URL:https://twitter.com/suzukautako/status/1007497875863945216
 DESCRIPTION:https://twitter.com/suzukautako/status/1007497875863945216
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T171000
+SUMMARY:■叶 at:YouTube Realm Royale
+URL:https://twitter.com/Kanae_2434/status/1007898226035265541
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1007898226035265541
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T190000
 SUMMARY:■■1期生2期生から12名 at:？ おえかきの森(ハンゲーム)とのタイアップ企画
 URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T190000
+SUMMARY:■樋口楓 at:?
+URL:https://twitter.com/nijisanji_app/status/1007869458633748480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007869458633748480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T200000
+SUMMARY:■宇志海いちご at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1007869458633748480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007869458633748480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T210000
+SUMMARY:■海夜叉神 at:? しょぼんのアクション2
+URL:https://twitter.com/god_yaksa23/status/1007900110804533249
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1007900110804533249
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1007869458633748480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007869458633748480
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T220000
@@ -4739,19 +4799,19 @@ DESCRIPTION:https://twitter.com/AliceMononobe/status/1007526817173942272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T230000
-SUMMARY:■社築 at:? 本人Twitterネームより
-URL:https://twitter.com/846kizuQ
-DESCRIPTION:https://twitter.com/846kizuQ
+SUMMARY:■剣持刀也 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1007869458633748480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1007869458633748480
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180616T230000
+SUMMARY:■社築 at:YouTube
+URL:https://twitter.com/___Dola/status/1007902924733702144
+DESCRIPTION:https://twitter.com/___Dola/status/1007902924733702144
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180616T240000
-SUMMARY:■月ノ美兎＆樋口楓 at:YouTube 月ノ美兎のチャンネル
-URL:https://twitter.com/MitoTsukino/status/1007589099186765824
-DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180616T240000
-SUMMARY:■緑仙 at:?
+SUMMARY:■緑仙 at:YouTube
 URL:https://twitter.com/midori_2434/status/1007844828409880576
 DESCRIPTION:https://twitter.com/midori_2434/status/1007844828409880576
 END:VEVENT
