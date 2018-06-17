@@ -25,6 +25,20 @@
   title: "■森中花咲 at:YouTube 悪い子ナイト"
   end_time: 
   uri: 
+- date: 2018-06-19
+  time:
+    hour: 19
+    min: 0
+  title: "■樋口楓 at:YouTube 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/HiguchiKaede
+- date: 2018-06-18
+  time:
+    hour: 2
+    min: 0
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1008353076338540544
 - date: 2018-06-18
   time:
     hour: 6
@@ -34,11 +48,25 @@
   uri: https://twitter.com/nijisanji_app/status/1008240223069716480
 - date: 2018-06-18
   time:
+    hour: 18
+    min: 0
+  title: "■文野環 at:YouTube チャット配信"
+  end_time: 
+  uri: https://twitter.com/nekokan_chu/status/1008353768067350528
+- date: 2018-06-18
+  time:
     hour: 20
     min: 0
   title: "■八朔ゆず at:Mirrativ"
   end_time: 
   uri: https://twitter.com/839yuzu/status/1007921537402355712
+- date: 2018-06-18
+  time:
+    hour: 21
+    min: 0
+  title: "■花畑チャイカ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 - date: 2018-06-18
   time:
     hour: 22
@@ -107,7 +135,7 @@
   time:
     hour: 17
     min: 44
-  title: "■名伽尾アズマ at:Mirrativ ゲリラ"
+  title: "■名伽尾アズマ at:Mirrativ ゲリラ配信"
   end_time: 
   uri: https://twitter.com/azuma_dazo/status/1008269158092427264
 - date: 2018-06-17
@@ -141,14 +169,7 @@
 - date: 2018-06-17
   time:
     hour: 22
-    min: 0
-  title: "■ドーラ at:YouTube"
-  end_time: 
-  uri: https://twitter.com/___Dola/status/1008160954050232320
-- date: 2018-06-17
-  time:
-    hour: 22
-    min: 0
+    min: 21
   title: "■春崎エアル at:YouTube"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1008287587016966145
@@ -159,6 +180,20 @@
   title: 22時30分～ ■家長むぎ at:YouTube 時間変更
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1007575824617230336
+- date: 2018-06-17
+  time:
+    hour: 22
+    min: 0
+  title: 23時00分～ ■ドーラ at:YouTube 時間変更
+  end_time: 
+  uri: https://twitter.com/___Dola/status/1008160954050232320
+- date: 2018-06-17
+  time:
+    hour: 23
+    min: 40
+  title: "■伏見ガク at:YouTube  ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/1008358753446445056
 - date: 2018-06-17
   time: 
   title: "※■樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"

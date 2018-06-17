@@ -4648,16 +4648,40 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T190000
+SUMMARY:■樋口楓 at:YouTube 本人Twitterネームより
+URL:https://twitter.com/HiguchiKaede
+DESCRIPTION:https://twitter.com/HiguchiKaede
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T020000
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1008353076338540544
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1008353076338540544
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T064500
 SUMMARY:■伏見ガク at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1008240223069716480
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1008240223069716480
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T180000
+SUMMARY:■文野環 at:YouTube チャット配信
+URL:https://twitter.com/nekokan_chu/status/1008353768067350528
+DESCRIPTION:https://twitter.com/nekokan_chu/status/1008353768067350528
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T200000
 SUMMARY:■八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1007921537402355712
 DESCRIPTION:https://twitter.com/839yuzu/status/1007921537402355712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T210000
+SUMMARY:■花畑チャイカ at:YouTube
+URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
+DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T220000
@@ -4715,7 +4739,7 @@ DESCRIPTION:https://twitter.com/MitoTsukino/status/1007168352521936896
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T174400
-SUMMARY:■名伽尾アズマ at:Mirrativ ゲリラ
+SUMMARY:■名伽尾アズマ at:Mirrativ ゲリラ配信
 URL:https://twitter.com/azuma_dazo/status/1008269158092427264
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1008269158092427264
 END:VEVENT
@@ -4744,13 +4768,7 @@ URL:https://twitter.com/nijisanji_app/status/1008240223069716480
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1008240223069716480
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180617T220000
-SUMMARY:■ドーラ at:YouTube
-URL:https://twitter.com/___Dola/status/1008160954050232320
-DESCRIPTION:https://twitter.com/___Dola/status/1008160954050232320
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180617T220000
+DTSTART;TZID=Asia/Tokyo:20180617T222100
 SUMMARY:■春崎エアル at:YouTube
 URL:https://twitter.com/harusakiair2434/status/1008287587016966145
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1008287587016966145
@@ -4760,6 +4778,18 @@ DTSTART;TZID=Asia/Tokyo:20180617T180000
 SUMMARY:22時30分～ ■家長むぎ at:YouTube 時間変更
 URL:https://twitter.com/ienaga_mugi23/status/1007575824617230336
 DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1007575824617230336
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T220000
+SUMMARY:23時00分～ ■ドーラ at:YouTube 時間変更
+URL:https://twitter.com/___Dola/status/1008160954050232320
+DESCRIPTION:https://twitter.com/___Dola/status/1008160954050232320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T234000
+SUMMARY:■伏見ガク at:YouTube  ゲリラ配信
+URL:https://twitter.com/gaku_fushimi/status/1008358753446445056
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1008358753446445056
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617
