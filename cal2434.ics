@@ -4648,6 +4648,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T064500
+SUMMARY:■伏見ガク at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1008240223069716480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1008240223069716480
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T200000
 SUMMARY:■八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1007921537402355712
@@ -4658,6 +4664,12 @@ DTSTART;TZID=Asia/Tokyo:20180618T220000
 SUMMARY:■轟京子 at:Mirrativ
 URL:https://twitter.com/KT_seeds/status/1007466326779031553
 DESCRIPTION:https://twitter.com/KT_seeds/status/1007466326779031553
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T230000
+SUMMARY:■出雲霞 at:Mirrativ
+URL:https://twitter.com/ikasumi_zzz/status/1008233953503817728
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1008233953503817728
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T000000
@@ -4702,10 +4714,10 @@ URL:https://twitter.com/MitoTsukino/status/1007168352521936896
 DESCRIPTION:https://twitter.com/MitoTsukino/status/1007168352521936896
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180617T180000
-SUMMARY:■家長むぎ at:YouTube
-URL:https://twitter.com/ienaga_mugi23/status/1007575824617230336
-DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1007575824617230336
+DTSTART;TZID=Asia/Tokyo:20180617T190000
+SUMMARY:■卯月コウ at:YouTube
+URL:https://twitter.com/udukikohh/status/1008230962956623873
+DESCRIPTION:https://twitter.com/udukikohh/status/1008230962956623873
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T200000
@@ -4720,10 +4732,22 @@ URL:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1005269677835104256
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1008240223069716480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1008240223069716480
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T220000
 SUMMARY:■ドーラ at:YouTube
 URL:https://twitter.com/___Dola/status/1008160954050232320
 DESCRIPTION:https://twitter.com/___Dola/status/1008160954050232320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T180000
+SUMMARY:22時30分～ ■家長むぎ at:YouTube 時間変更
+URL:https://twitter.com/ienaga_mugi23/status/1007575824617230336
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1007575824617230336
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617
