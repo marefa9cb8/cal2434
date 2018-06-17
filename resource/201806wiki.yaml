@@ -97,6 +97,13 @@
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1005269677835104256
 - date: 2018-06-17
+  time:
+    hour: 22
+    min: 0
+  title: "■ドーラ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/___Dola/status/1008160954050232320
+- date: 2018-06-17
   time: 
   title: "■樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"
   end_time: 
