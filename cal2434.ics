@@ -4714,6 +4714,12 @@ URL:https://twitter.com/MitoTsukino/status/1007168352521936896
 DESCRIPTION:https://twitter.com/MitoTsukino/status/1007168352521936896
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T174400
+SUMMARY:■名伽尾アズマ at:Mirrativ ゲリラ
+URL:https://twitter.com/azuma_dazo/status/1008269158092427264
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1008269158092427264
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T190000
 SUMMARY:■卯月コウ at:YouTube
 URL:https://twitter.com/udukikohh/status/1008230962956623873
@@ -4744,6 +4750,12 @@ URL:https://twitter.com/___Dola/status/1008160954050232320
 DESCRIPTION:https://twitter.com/___Dola/status/1008160954050232320
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T220000
+SUMMARY:■春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1008287587016966145
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1008287587016966145
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T180000
 SUMMARY:22時30分～ ■家長むぎ at:YouTube 時間変更
 URL:https://twitter.com/ienaga_mugi23/status/1007575824617230336
@@ -4751,7 +4763,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1007575824617230336
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617
-SUMMARY:■樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
+SUMMARY:※■樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
 URL:
 DESCRIPTION:
 END:VEVENT
