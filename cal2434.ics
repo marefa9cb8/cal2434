@@ -4654,7 +4654,25 @@ URL:https://twitter.com/HiguchiKaede
 DESCRIPTION:https://twitter.com/HiguchiKaede
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180618T020000
+DTSTART;TZID=Asia/Tokyo:20180618T003200
+SUMMARY:■名伽尾アズマ at:Mirrativ ゲリラ
+URL:https://twitter.com/azuma_dazo/status/1008371801942945792
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1008371801942945792
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T010500
+SUMMARY:■出雲霞 at:Mirrativ ゲリラ
+URL:https://twitter.com/ikasumi_zzz/status/1008378623047299072
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1008378623047299072
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T013900
+SUMMARY:■ギルザレンⅢ世 at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T020300
 SUMMARY:■渋谷ハジメ at:YouTube
 URL:https://twitter.com/sibuya_hajime/status/1008353076338540544
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1008353076338540544

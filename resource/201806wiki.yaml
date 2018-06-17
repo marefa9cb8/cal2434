@@ -34,8 +34,29 @@
   uri: https://twitter.com/HiguchiKaede
 - date: 2018-06-18
   time:
+    hour: 0
+    min: 32
+  title: "■名伽尾アズマ at:Mirrativ ゲリラ"
+  end_time: 
+  uri: https://twitter.com/azuma_dazo/status/1008371801942945792
+- date: 2018-06-18
+  time:
+    hour: 1
+    min: 5
+  title: "■出雲霞 at:Mirrativ ゲリラ"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1008378623047299072
+- date: 2018-06-18
+  time:
+    hour: 1
+    min: 39
+  title: "■ギルザレンⅢ世 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-18
+  time:
     hour: 2
-    min: 0
+    min: 3
   title: "■渋谷ハジメ at:YouTube"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1008353076338540544
