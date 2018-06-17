@@ -4678,6 +4678,12 @@ URL:https://twitter.com/MitoTsukino/status/1007589099186765824
 DESCRIPTION:https://twitter.com/MitoTsukino/status/1007589099186765824
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180617T062500
+SUMMARY:ふぇありす氏参戦
+URL:https://twitter.com/Kanae_2434/status/1007898226035265541
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1007898226035265541
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T130000
 SUMMARY:■卯月コウ at:YouTube Ib
 URL:https://twitter.com/udukikohh/status/1007895991649878017
