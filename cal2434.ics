@@ -4625,13 +4625,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T190000
-SUMMARY:■■1期生2期生から12名 at:？ おえかきの森(ハンゲーム)とのタイアップ企画
+SUMMARY:■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画
 URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624
-SUMMARY:樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
+SUMMARY:※樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4696,6 +4696,18 @@ URL:https://twitter.com/nekokan_chu/status/1008353768067350528
 DESCRIPTION:https://twitter.com/nekokan_chu/status/1008353768067350528
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T193000
+SUMMARY:■家長むぎ at:YouTube
+URL:https://twitter.com/ienaga_mugi23/status/1008620362106429440
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1008620362106429440
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T200000
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1008597267303956480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1008597267303956480
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T200000
 SUMMARY:■八朔ゆず at:Mirrativ
 URL:https://twitter.com/839yuzu/status/1007921537402355712
@@ -4708,16 +4720,28 @@ URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1008597267303956480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1008597267303956480
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T220000
 SUMMARY:■轟京子 at:Mirrativ
 URL:https://twitter.com/KT_seeds/status/1007466326779031553
 DESCRIPTION:https://twitter.com/KT_seeds/status/1007466326779031553
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T220000
+SUMMARY:■春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1008604965487538176
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1008604965487538176
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T230000
-SUMMARY:■える at:YouTube Twitterネームによる
-URL:https://twitter.com/Elu_World
-DESCRIPTION:https://twitter.com/Elu_World
+SUMMARY:■える at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1008597267303956480
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1008597267303956480
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T230000

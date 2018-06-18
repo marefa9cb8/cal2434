@@ -3,12 +3,12 @@
   time:
     hour: 19
     min: 0
-  title: "■■1期生2期生から12名 at:？ おえかきの森(ハンゲーム)とのタイアップ企画"
+  title: "■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画"
   end_time: 
   uri: https://twitter.com/hangame_hirota/status/1006793294423175168
 - date: 2018-06-24
   time: 
-  title: "樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"
+  title: "※樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"
   end_time: 
   uri: 
 - date: 2018-06-22
@@ -83,6 +83,20 @@
   uri: https://twitter.com/nekokan_chu/status/1008353768067350528
 - date: 2018-06-18
   time:
+    hour: 19
+    min: 30
+  title: "■家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/1008620362106429440
+- date: 2018-06-18
+  time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1008597267303956480
+- date: 2018-06-18
+  time:
     hour: 20
     min: 0
   title: "■八朔ゆず at:Mirrativ"
@@ -97,6 +111,13 @@
   uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 - date: 2018-06-18
   time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1008597267303956480
+- date: 2018-06-18
+  time:
     hour: 22
     min: 0
   title: "■轟京子 at:Mirrativ"
@@ -104,11 +125,18 @@
   uri: https://twitter.com/KT_seeds/status/1007466326779031553
 - date: 2018-06-18
   time:
+    hour: 22
+    min: 0
+  title: "■春崎エアル at:YouTube"
+  end_time: 
+  uri: https://twitter.com/harusakiair2434/status/1008604965487538176
+- date: 2018-06-18
+  time:
     hour: 23
     min: 0
-  title: "■える at:YouTube Twitterネームによる"
+  title: "■える at:YouTube"
   end_time: 
-  uri: https://twitter.com/Elu_World
+  uri: https://twitter.com/nijisanji_app/status/1008597267303956480
 - date: 2018-06-18
   time:
     hour: 23
