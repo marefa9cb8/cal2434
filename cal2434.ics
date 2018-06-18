@@ -4636,6 +4636,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T150000
+SUMMARY:■安土桃 at:? 本人Twitterネームより
+URL:https://twitter.com/momo_aduchi
+DESCRIPTION:https://twitter.com/momo_aduchi
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
@@ -4664,6 +4670,18 @@ DTSTART;TZID=Asia/Tokyo:20180619T220000
 SUMMARY:■森中花咲 at:YouTube🐻 せいたいちょうさ その2
 URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T220000
+SUMMARY:■八朔ゆず at:Mirrativ
+URL:https://twitter.com/839yuzu/status/1008677955780861952
+DESCRIPTION:https://twitter.com/839yuzu/status/1008677955780861952
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T230000
+SUMMARY:■鈴木勝 at:YouTube
+URL:https://twitter.com/Darkness_Eater/status/1008722569313128448
+DESCRIPTION:https://twitter.com/Darkness_Eater/status/1008722569313128448
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T003200
@@ -4709,7 +4727,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1008620362106429440
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T200000
-SUMMARY:■八朔ゆず at:Mirrativ
+SUMMARY:■八朔ゆず at:Mirrativ→明日へ延期
 URL:https://twitter.com/839yuzu/status/1007921537402355712
 DESCRIPTION:https://twitter.com/839yuzu/status/1007921537402355712
 END:VEVENT
@@ -4724,6 +4742,12 @@ DTSTART;TZID=Asia/Tokyo:20180618T210000
 SUMMARY:■花畑チャイカ at:YouTube
 URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1008317991547645954
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T211500
+SUMMARY:■緑仙 at:YouTube ゲリラ配信
+URL:https://twitter.com/midori_2434/status/1008684795587514369
+DESCRIPTION:https://twitter.com/midori_2434/status/1008684795587514369
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T213000
@@ -4750,6 +4774,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T223000
+SUMMARY:■叶 at:YouTube 雑談
+URL:https://twitter.com/Kanae_2434/status/1008700625721233410
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1008700625721233410
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T230000
 SUMMARY:■える at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1008597267303956480
@@ -4760,6 +4790,12 @@ DTSTART;TZID=Asia/Tokyo:20180618T230000
 SUMMARY:■出雲霞 at:Mirrativ 配信延期
 URL:https://twitter.com/ikasumi_zzz/status/1008233953503817728
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1008233953503817728
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180618T233000
+SUMMARY:■シスター・クレア at:Mirrativ
+URL:https://twitter.com/SisterCleaire/status/1008706128245489665
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1008706128245489665
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180617T000000
