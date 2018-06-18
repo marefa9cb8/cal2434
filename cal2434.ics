@@ -4643,15 +4643,21 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T240000
-SUMMARY:■森中花咲 at:YouTube 悪い子ナイト
-URL:
-DESCRIPTION:
+SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
+URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T190000
 SUMMARY:■樋口楓 at:YouTube 本人Twitterネームより
 URL:https://twitter.com/HiguchiKaede
 DESCRIPTION:https://twitter.com/HiguchiKaede
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T220000
+SUMMARY:■森中花咲 at:YouTube🐻 せいたいちょうさ その2
+URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T003200

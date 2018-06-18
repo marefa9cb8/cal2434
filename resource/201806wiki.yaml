@@ -22,9 +22,9 @@
   time:
     hour: 24
     min: 0
-  title: "■森中花咲 at:YouTube 悪い子ナイト"
+  title: "■森中花咲 at:YouTube \U0001F33C悪い子ナイト#2"
   end_time: 
-  uri: 
+  uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-19
   time:
     hour: 19
@@ -32,6 +32,13 @@
   title: "■樋口楓 at:YouTube 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/HiguchiKaede
+- date: 2018-06-19
+  time:
+    hour: 22
+    min: 0
+  title: "■森中花咲 at:YouTube\U0001F43B せいたいちょうさ その2"
+  end_time: 
+  uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-18
   time:
     hour: 0
