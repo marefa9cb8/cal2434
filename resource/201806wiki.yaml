@@ -18,6 +18,11 @@
   title: "■安土桃 at:? 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/momo_aduchi
+- date: 2018-06-23
+  time: 
+  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)"
+  end_time: 
+  uri: 
 - date: 2018-06-22
   time:
     hour: 21
@@ -32,6 +37,13 @@
   title: "■森中花咲 at:YouTube \U0001F33C悪い子ナイト#2"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
+- date: 2018-06-19
+  time:
+    hour: 1
+    min: 14
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1008744909749174272
 - date: 2018-06-19
   time:
     hour: 19
@@ -64,9 +76,14 @@
   time:
     hour: 23
     min: 0
-  title: "■鈴木勝 at:YouTube"
+  title: "■鈴木勝 at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/Darkness_Eater/status/1008722569313128448
+- date: 2018-06-19
+  time: 
+  title: "？時？分～(夜) ■海夜叉神 at:? 歌"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1008719097599705089
 - date: 2018-06-18
   time:
     hour: 0
@@ -87,7 +104,7 @@
     min: 39
   title: "■ギルザレンⅢ世 at:YouTube"
   end_time: 
-  uri: 
+  uri: https://www.youtube.com/watch?v=uZSInGv2-vM
 - date: 2018-06-18
   time:
     hour: 2
@@ -176,7 +193,7 @@
   time:
     hour: 22
     min: 30
-  title: "■叶 at:YouTube 雑談"
+  title: "■叶 at:YouTube 雑談→Realm Royale"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1008700625721233410
 - date: 2018-06-18

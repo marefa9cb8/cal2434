@@ -4642,6 +4642,12 @@ URL:https://twitter.com/momo_aduchi
 DESCRIPTION:https://twitter.com/momo_aduchi
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623
+SUMMARY:？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
@@ -4652,6 +4658,12 @@ DTSTART;TZID=Asia/Tokyo:20180622T240000
 SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
 URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T011400
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1008744909749174272
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1008744909749174272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T190000
@@ -4679,9 +4691,15 @@ DESCRIPTION:https://twitter.com/839yuzu/status/1008677955780861952
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T230000
-SUMMARY:■鈴木勝 at:YouTube
+SUMMARY:■鈴木勝 at:YouTube 雑談
 URL:https://twitter.com/Darkness_Eater/status/1008722569313128448
 DESCRIPTION:https://twitter.com/Darkness_Eater/status/1008722569313128448
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619
+SUMMARY:？時？分～(夜) ■海夜叉神 at:? 歌
+URL:https://twitter.com/god_yaksa23/status/1008719097599705089
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1008719097599705089
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T003200
@@ -4698,8 +4716,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T013900
 SUMMARY:■ギルザレンⅢ世 at:YouTube
-URL:
-DESCRIPTION:
+URL:https://www.youtube.com/watch?v=uZSInGv2-vM
+DESCRIPTION:https://www.youtube.com/watch?v=uZSInGv2-vM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T020300
@@ -4775,7 +4793,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T223000
-SUMMARY:■叶 at:YouTube 雑談
+SUMMARY:■叶 at:YouTube 雑談→Realm Royale
 URL:https://twitter.com/Kanae_2434/status/1008700625721233410
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1008700625721233410
 END:VEVENT
