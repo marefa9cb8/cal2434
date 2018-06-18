@@ -34,6 +34,13 @@
   uri: https://twitter.com/HiguchiKaede
 - date: 2018-06-19
   time:
+    hour: 20
+    min: 30
+  title: "■静凛 at:? 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23
+- date: 2018-06-19
+  time:
     hour: 22
     min: 0
   title: "■森中花咲 at:YouTube\U0001F43B せいたいちょうさ その2"
@@ -78,7 +85,7 @@
   time:
     hour: 18
     min: 0
-  title: "■文野環 at:YouTube チャット配信"
+  title: 19時00分～ ■文野環 at:YouTube チャット配信 時間変更
   end_time: 
   uri: https://twitter.com/nekokan_chu/status/1008353768067350528
 - date: 2018-06-18
@@ -92,16 +99,16 @@
   time:
     hour: 20
     min: 0
-  title: "■渋谷ハジメ at:YouTube"
-  end_time: 
-  uri: https://twitter.com/nijisanji_app/status/1008597267303956480
-- date: 2018-06-18
-  time:
-    hour: 20
-    min: 0
   title: "■八朔ゆず at:Mirrativ"
   end_time: 
   uri: https://twitter.com/839yuzu/status/1007921537402355712
+- date: 2018-06-18
+  time:
+    hour: 20
+    min: 15
+  title: "■渋谷ハジメ at:YouTube おえかきの森"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1008664675288924161
 - date: 2018-06-18
   time:
     hour: 21
@@ -132,6 +139,13 @@
   uri: https://twitter.com/harusakiair2434/status/1008604965487538176
 - date: 2018-06-18
   time:
+    hour: 22
+    min: 30
+  title: "■静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2018-06-18
+  time:
     hour: 23
     min: 0
   title: "■える at:YouTube"
@@ -141,7 +155,7 @@
   time:
     hour: 23
     min: 0
-  title: "■出雲霞 at:Mirrativ"
+  title: "■出雲霞 at:Mirrativ 配信延期"
   end_time: 
   uri: https://twitter.com/ikasumi_zzz/status/1008233953503817728
 - date: 2018-06-17
