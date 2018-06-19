@@ -4672,6 +4672,12 @@ URL:https://twitter.com/Kanae_2434/status/1009102565219315712
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1009102565219315712
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T022400
+SUMMARY:■シスター・クレア at:YouTube ゲリラ・テスト配信 →②
+URL:https://twitter.com/SisterCleaire/status/1009125049368920064
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1009125049368920064
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T130000
 SUMMARY:■静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1008959878440763392
