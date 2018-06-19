@@ -4660,6 +4660,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T200000
+SUMMARY:■名伽尾アズマ at:Mirrativ
+URL:https://twitter.com/azuma_dazo/status/1008925714660225024
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1008925714660225024
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T011400
 SUMMARY:■渋谷ハジメ at:YouTube
 URL:https://twitter.com/sibuya_hajime/status/1008744909749174272
@@ -4672,10 +4678,22 @@ URL:https://twitter.com/HiguchiKaede/status/1008836468024856576
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1008836468024856576
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T200000
+SUMMARY:■鈴鹿詩子 at:YouTube
+URL:https://twitter.com/suzukautako/status/1008942503993565185
+DESCRIPTION:https://twitter.com/suzukautako/status/1008942503993565185
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T203000
 SUMMARY:■静凛 at:? リネージュ2 本人Twitterネームより
 URL:https://twitter.com/ShizuRin23
 DESCRIPTION:https://twitter.com/ShizuRin23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T210000
+SUMMARY:■海夜叉神 at:YouTube 歌枠
+URL:https://twitter.com/god_yaksa23/status/1008939208650526720
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1008939208650526720
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T220000
@@ -4694,12 +4712,6 @@ DTSTART;TZID=Asia/Tokyo:20180619T230000
 SUMMARY:■鈴木勝 at:YouTube 雑談
 URL:https://twitter.com/Darkness_Eater/status/1008722569313128448
 DESCRIPTION:https://twitter.com/Darkness_Eater/status/1008722569313128448
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180619
-SUMMARY:？時？分～(夜) ■海夜叉神 at:? 歌
-URL:https://twitter.com/god_yaksa23/status/1008719097599705089
-DESCRIPTION:https://twitter.com/god_yaksa23/status/1008719097599705089
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180618T003200
