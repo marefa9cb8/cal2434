@@ -39,6 +39,13 @@
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-20
   time:
+    hour: 2
+    min: 0
+  title: "■■叶＆？ at:？ Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1009039089822154752
+- date: 2018-06-20
+  time:
     hour: 13
     min: 0
   title: "■静凛 at:YouTube"
@@ -58,6 +65,27 @@
   title: "■名伽尾アズマ at:Mirrativ"
   end_time: 
   uri: https://twitter.com/azuma_dazo/status/1008925714660225024
+- date: 2018-06-20
+  time:
+    hour: 20
+    min: 30
+  title: "■静凛 at:? リネージュ2"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1009012873127866368
+- date: 2018-06-20
+  time:
+    hour: 22
+    min: 0
+  title: "■物述有栖 at:?"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/1009042504799248384
+- date: 2018-06-20
+  time:
+    hour: 23
+    min: 0
+  title: "■社築 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/846kizuQ/status/1009083215825399809
 - date: 2018-06-19
   time:
     hour: 1
@@ -88,6 +116,13 @@
   uri: https://twitter.com/udukikohh/status/1009007305847799809
 - date: 2018-06-19
   time:
+    hour: 19
+    min: 34
+  title: "■静凛 at:YouTube 雑談枠"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1008985586181369857
+- date: 2018-06-19
+  time:
     hour: 20
     min: 15
   title: "■鈴鹿詩子 at:YouTube"
@@ -104,7 +139,7 @@
   time:
     hour: 21
     min: 0
-  title: "■叶 at:? バイオ4"
+  title: "■叶 at:YouTube バイオハザード4"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1008960048008081410
 - date: 2018-06-19
@@ -114,6 +149,13 @@
   title: "■海夜叉神 at:YouTube 歌枠"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1008939208650526720
+- date: 2018-06-19
+  time:
+    hour: 21
+    min: 15
+  title: "■渋谷ハジメ at:YouTube 作業・雑談"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1009047049558355968
 - date: 2018-06-19
   time:
     hour: 22
@@ -131,7 +173,7 @@
 - date: 2018-06-19
   time:
     hour: 22
-    min: 0
+    min: 1
   title: "■春崎エアル at:YouTube"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1008980997147201537

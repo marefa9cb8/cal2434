@@ -4660,6 +4660,12 @@ URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T020000
+SUMMARY:■■叶＆？ at:？ Realm Royale
+URL:https://twitter.com/Kanae_2434/status/1009039089822154752
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009039089822154752
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T130000
 SUMMARY:■静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1008959878440763392
@@ -4676,6 +4682,24 @@ DTSTART;TZID=Asia/Tokyo:20180620T200000
 SUMMARY:■名伽尾アズマ at:Mirrativ
 URL:https://twitter.com/azuma_dazo/status/1008925714660225024
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1008925714660225024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T203000
+SUMMARY:■静凛 at:? リネージュ2
+URL:https://twitter.com/ShizuRin23/status/1009012873127866368
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1009012873127866368
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T220000
+SUMMARY:■物述有栖 at:?
+URL:https://twitter.com/AliceMononobe/status/1009042504799248384
+DESCRIPTION:https://twitter.com/AliceMononobe/status/1009042504799248384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T230000
+SUMMARY:■社築 at:YouTube
+URL:https://twitter.com/846kizuQ/status/1009083215825399809
+DESCRIPTION:https://twitter.com/846kizuQ/status/1009083215825399809
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T011400
@@ -4702,6 +4726,12 @@ URL:https://twitter.com/udukikohh/status/1009007305847799809
 DESCRIPTION:https://twitter.com/udukikohh/status/1009007305847799809
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T193400
+SUMMARY:■静凛 at:YouTube 雑談枠
+URL:https://twitter.com/ShizuRin23/status/1008985586181369857
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1008985586181369857
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T201500
 SUMMARY:■鈴鹿詩子 at:YouTube
 URL:https://twitter.com/suzukautako/status/1008942503993565185
@@ -4715,7 +4745,7 @@ DESCRIPTION:https://twitter.com/ShizuRin23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T210000
-SUMMARY:■叶 at:? バイオ4
+SUMMARY:■叶 at:YouTube バイオハザード4
 URL:https://twitter.com/Kanae_2434/status/1008960048008081410
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1008960048008081410
 END:VEVENT
@@ -4724,6 +4754,12 @@ DTSTART;TZID=Asia/Tokyo:20180619T210000
 SUMMARY:■海夜叉神 at:YouTube 歌枠
 URL:https://twitter.com/god_yaksa23/status/1008939208650526720
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1008939208650526720
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180619T211500
+SUMMARY:■渋谷ハジメ at:YouTube 作業・雑談
+URL:https://twitter.com/sibuya_hajime/status/1009047049558355968
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009047049558355968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T220000
@@ -4738,7 +4774,7 @@ URL:https://twitter.com/839yuzu/status/1008677955780861952
 DESCRIPTION:https://twitter.com/839yuzu/status/1008677955780861952
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180619T220000
+DTSTART;TZID=Asia/Tokyo:20180619T220100
 SUMMARY:■春崎エアル at:YouTube
 URL:https://twitter.com/harusakiair2434/status/1008980997147201537
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1008980997147201537
