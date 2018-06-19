@@ -4660,10 +4660,16 @@ URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180620T020000
-SUMMARY:■■叶＆？ at:？ Realm Royale
-URL:https://twitter.com/Kanae_2434/status/1009039089822154752
-DESCRIPTION:https://twitter.com/Kanae_2434/status/1009039089822154752
+DTSTART;TZID=Asia/Tokyo:20180620T011300
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1009107010606936064
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009107010606936064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T022000
+SUMMARY:■■■叶＆渋谷ハジメ&ふぇありす＆あっくん大魔王 at:YouTube Realm Royale
+URL:https://twitter.com/Kanae_2434/status/1009102565219315712
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009102565219315712
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T130000
@@ -4673,7 +4679,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1008959878440763392
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T190000
-SUMMARY:■樋口楓 at:YouTube
+SUMMARY:■樋口楓 at:YouTube リネージュ2
 URL:https://twitter.com/HiguchiKaede/status/1008953527111073792
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1008953527111073792
 END:VEVENT

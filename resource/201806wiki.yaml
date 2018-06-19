@@ -39,11 +39,18 @@
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-20
   time:
-    hour: 2
-    min: 0
-  title: "■■叶＆？ at:？ Realm Royale"
+    hour: 1
+    min: 13
+  title: "■渋谷ハジメ at:YouTube"
   end_time: 
-  uri: https://twitter.com/Kanae_2434/status/1009039089822154752
+  uri: https://twitter.com/sibuya_hajime/status/1009107010606936064
+- date: 2018-06-20
+  time:
+    hour: 2
+    min: 20
+  title: "■■■叶＆渋谷ハジメ&ふぇありす＆あっくん大魔王 at:YouTube Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1009102565219315712
 - date: 2018-06-20
   time:
     hour: 13
@@ -55,7 +62,7 @@
   time:
     hour: 19
     min: 0
-  title: "■樋口楓 at:YouTube"
+  title: "■樋口楓 at:YouTube リネージュ2"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/1008953527111073792
 - date: 2018-06-20
