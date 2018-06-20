@@ -1,4 +1,11 @@
 ---
+- date: 2018-06-26
+  time:
+    hour: 20
+    min: 0
+  title: "■■渋谷ハジメ＆ユキミお姉ちゃん at:? 感想会"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1009445950606139392
 - date: 2018-06-24
   time:
     hour: 19
@@ -27,7 +34,12 @@
   uri: https://twitter.com/KT_seeds/status/1009285504972439552
 - date: 2018-06-23
   time: 
-  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)"
+  title: "夜 ■樋口楓　おえ森配信をするかもしれない (6/20の配信にて告知)"
+  end_time: 
+  uri: 
+- date: 2018-06-23
+  time: 
+  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)（1時間ぐらい）"
   end_time: 
   uri: 
 - date: 2018-06-22
@@ -59,8 +71,17 @@
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-21
-  time: 
-  title: "？時？分～(深夜) ■■深夜三傑RKS at:?"
+  time:
+    hour: 0
+    min: 0
+  title: "■海夜叉神 at:YouTube 初ゲリラ・雑談"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1009451147499732993
+- date: 2018-06-21
+  time:
+    hour: 2
+    min: 13
+  title: "■■深夜三傑RKS at:YouTube PUBG"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1009433116874715136
 - date: 2018-06-20
