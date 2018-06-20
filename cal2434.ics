@@ -4769,7 +4769,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T203000
-SUMMARY:■静凛 at:? リネージュ2レボリューション
+SUMMARY:■静凛 at:YouTube リネージュ2レボリューション
 URL:https://twitter.com/ShizuRin23/status/1009012873127866368
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1009012873127866368
 END:VEVENT
@@ -4787,9 +4787,15 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T220000
-SUMMARY:■物述有栖 at:?
+SUMMARY:■物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe/status/1009042504799248384
 DESCRIPTION:https://twitter.com/AliceMononobe/status/1009042504799248384
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T230000
+SUMMARY:■叶 at:YouTube
+URL:https://twitter.com/Kanae_2434/status/1009395575714746369
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009395575714746369
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T230000

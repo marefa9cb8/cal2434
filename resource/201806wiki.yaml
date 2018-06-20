@@ -125,7 +125,7 @@
   time:
     hour: 20
     min: 30
-  title: "■静凛 at:? リネージュ2レボリューション"
+  title: "■静凛 at:YouTube リネージュ2レボリューション"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1009012873127866368
 - date: 2018-06-20
@@ -146,9 +146,16 @@
   time:
     hour: 22
     min: 0
-  title: "■物述有栖 at:?"
+  title: "■物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/1009042504799248384
+- date: 2018-06-20
+  time:
+    hour: 23
+    min: 0
+  title: "■叶 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1009395575714746369
 - date: 2018-06-20
   time:
     hour: 23
