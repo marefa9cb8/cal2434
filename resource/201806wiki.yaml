@@ -76,7 +76,7 @@
   time:
     hour: 2
     min: 24
-  title: "■シスター・クレア at:YouTube ゲリラ・テスト配信 →②"
+  title: "■シスター・クレア at:YouTube ゲリラ・テスト配信 →?"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1009125049368920064
 - date: 2018-06-20
@@ -95,9 +95,16 @@
   uri: https://twitter.com/suzukautako/status/1009281133664657409
 - date: 2018-06-20
   time:
+    hour: 18
+    min: 0
+  title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1009322450247507968
+- date: 2018-06-20
+  time:
     hour: 19
     min: 0
-  title: "■樋口楓 at:YouTube リネージュ2"
+  title: "■樋口楓 at:YouTube リネージュ2レボリューション"
   end_time: 
   uri: https://twitter.com/HiguchiKaede/status/1008953527111073792
 - date: 2018-06-20
@@ -110,10 +117,31 @@
 - date: 2018-06-20
   time:
     hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1009322450247507968
+- date: 2018-06-20
+  time:
+    hour: 20
     min: 30
-  title: "■静凛 at:? リネージュ2"
+  title: "■静凛 at:? リネージュ2レボリューション"
   end_time: 
   uri: https://twitter.com/ShizuRin23/status/1009012873127866368
+- date: 2018-06-20
+  time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1009319771177775105
+- date: 2018-06-20
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1009322450247507968
 - date: 2018-06-20
   time:
     hour: 22

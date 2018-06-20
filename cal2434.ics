@@ -4727,7 +4727,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1009102565219315712
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T022400
-SUMMARY:■シスター・クレア at:YouTube ゲリラ・テスト配信 →②
+SUMMARY:■シスター・クレア at:YouTube ゲリラ・テスト配信 →?
 URL:https://twitter.com/SisterCleaire/status/1009125049368920064
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1009125049368920064
 END:VEVENT
@@ -4744,8 +4744,14 @@ URL:https://twitter.com/suzukautako/status/1009281133664657409
 DESCRIPTION:https://twitter.com/suzukautako/status/1009281133664657409
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T180000
+SUMMARY:■宇志海いちご at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009322450247507968
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T190000
-SUMMARY:■樋口楓 at:YouTube リネージュ2
+SUMMARY:■樋口楓 at:YouTube リネージュ2レボリューション
 URL:https://twitter.com/HiguchiKaede/status/1008953527111073792
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1008953527111073792
 END:VEVENT
@@ -4756,10 +4762,28 @@ URL:https://twitter.com/azuma_dazo/status/1008925714660225024
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1008925714660225024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T200000
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009322450247507968
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T203000
-SUMMARY:■静凛 at:? リネージュ2
+SUMMARY:■静凛 at:? リネージュ2レボリューション
 URL:https://twitter.com/ShizuRin23/status/1009012873127866368
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1009012873127866368
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T210000
+SUMMARY:■海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1009319771177775105
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1009319771177775105
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009322450247507968
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T220000
