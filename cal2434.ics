@@ -4714,8 +4714,20 @@ URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621
+SUMMARY:？時？分～(深夜) ■■深夜三傑RKS at:?
+URL:https://twitter.com/Kanae_2434/status/1009433116874715136
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009433116874715136
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T003000
+SUMMARY:？～■静凛 at:OPENREC.tv PUBG
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T011300
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube 新商品レビュー
 URL:https://twitter.com/sibuya_hajime/status/1009107010606936064
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009107010606936064
 END:VEVENT
@@ -4751,57 +4763,63 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T190000
-SUMMARY:■樋口楓 at:YouTube リネージュ2レボリューション
+SUMMARY:■樋口楓 at:YouTube リネージュ2 レボリューション
 URL:https://twitter.com/HiguchiKaede/status/1008953527111073792
 DESCRIPTION:https://twitter.com/HiguchiKaede/status/1008953527111073792
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T200000
-SUMMARY:■名伽尾アズマ at:Mirrativ
+SUMMARY:■名伽尾アズマ at:Mirrativ ポエム朗読
 URL:https://twitter.com/azuma_dazo/status/1008925714660225024
 DESCRIPTION:https://twitter.com/azuma_dazo/status/1008925714660225024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T200000
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube ニーア オートマタ
 URL:https://twitter.com/nijisanji_app/status/1009322450247507968
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T203000
-SUMMARY:■静凛 at:YouTube リネージュ2レボリューション
+SUMMARY:■静凛 at:YouTube リネージュ2 レボリューション
 URL:https://twitter.com/ShizuRin23/status/1009012873127866368
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1009012873127866368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T210000
-SUMMARY:■海夜叉神 at:YouTube
+SUMMARY:■海夜叉神 at:YouTube ファンタシースターオンライン2(PSO2)談義
 URL:https://twitter.com/god_yaksa23/status/1009319771177775105
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1009319771177775105
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T213000
-SUMMARY:■鈴谷アキ at:YouTube
+SUMMARY:■鈴谷アキ at:YouTube Mimpi Dreams
 URL:https://twitter.com/nijisanji_app/status/1009322450247507968
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009322450247507968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T220000
-SUMMARY:■物述有栖 at:YouTube
+SUMMARY:■物述有栖 at:YouTube 新衣装お披露目
 URL:https://twitter.com/AliceMononobe/status/1009042504799248384
 DESCRIPTION:https://twitter.com/AliceMononobe/status/1009042504799248384
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T230000
-SUMMARY:■叶 at:YouTube
+SUMMARY:■叶 at:YouTube DEATHGARDEN
 URL:https://twitter.com/Kanae_2434/status/1009395575714746369
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1009395575714746369
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T230000
-SUMMARY:■社築 at:YouTube
+SUMMARY:■社築 at:YouTube 人生相談
 URL:https://twitter.com/846kizuQ/status/1009083215825399809
 DESCRIPTION:https://twitter.com/846kizuQ/status/1009083215825399809
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T231000
+SUMMARY:■樋口楓 at:Mirrativ 告知
+URL:https://twitter.com/HiguchiKaede/status/1009437595321827329
+DESCRIPTION:https://twitter.com/HiguchiKaede/status/1009437595321827329
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180619T011400
