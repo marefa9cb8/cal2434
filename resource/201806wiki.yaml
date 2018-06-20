@@ -19,10 +19,31 @@
   end_time: 
   uri: https://twitter.com/momo_aduchi
 - date: 2018-06-23
+  time:
+    hour: 23
+    min: 0
+  title: "■轟京子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/KT_seeds/status/1009285504972439552
+- date: 2018-06-23
   time: 
   title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)"
   end_time: 
   uri: 
+- date: 2018-06-22
+  time:
+    hour: 6
+    min: 45
+  title: "■伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/1009294483085619200
+- date: 2018-06-22
+  time:
+    hour: 17
+    min: 0
+  title: "■鈴鹿詩子 at:SHOWROOM"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1009281133664657409
 - date: 2018-06-22
   time:
     hour: 21
@@ -65,6 +86,13 @@
   title: "■静凛 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1008959878440763392
+- date: 2018-06-20
+  time:
+    hour: 17
+    min: 30
+  title: "■鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/suzukautako/status/1009281133664657409
 - date: 2018-06-20
   time:
     hour: 19

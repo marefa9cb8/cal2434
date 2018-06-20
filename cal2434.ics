@@ -959,6 +959,30 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180304T150000
+SUMMARY:樋口楓 at:YouTube おえかきの森
+URL:https://twitter.com/ShizuRin23/status/970209256048705538
+DESCRIPTION:https://twitter.com/ShizuRin23/status/970209256048705538
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180304T190000
+SUMMARY:静凛 at:YouTube セリフ枠
+URL:https://twitter.com/ShizuRin23/status/970209256048705538
+DESCRIPTION:https://twitter.com/ShizuRin23/status/970209256048705538
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180304T210000
+SUMMARY:勇気ちひろ at:Mirrativ
+URL:https://twitter.com/Chihiro_yuki23/status/970244900997382144
+DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/970244900997382144
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180304T213000
+SUMMARY:鈴谷アキ at:YouTube
+URL:https://twitter.com/ShizuRin23/status/970209256048705538
+DESCRIPTION:https://twitter.com/ShizuRin23/status/970209256048705538
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180531T021300
 SUMMARY:渋谷ハジメ at:YouTube LoL
 URL:https://twitter.com/sibuya_hajime/status/1001874229304877056
@@ -3462,6 +3486,18 @@ URL:https://twitter.com/ShizuRin23/status/988503614858579969
 DESCRIPTION:https://twitter.com/ShizuRin23/status/988503614858579969
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180425T015500
+SUMMARY:渋谷ハジメ at:微糖カイジのYouTubeチャンネル 「微糖カイジの豪遊雑談」に飛び入り参加
+URL:https://twitter.com/sibuya_hajime/status/988823740749201408
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/988823740749201408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180425T044000
+SUMMARY:渋谷ハジメ at:YouTube 雑談
+URL:https://twitter.com/sibuya_hajime/status/988864925316431873
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/988864925316431873
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180425T130000
 SUMMARY:文野環(野良猫) at: YouTube 歌
 URL:https://twitter.com/ShizuRin23/status/988865432282001409
@@ -4642,10 +4678,28 @@ URL:https://twitter.com/momo_aduchi
 DESCRIPTION:https://twitter.com/momo_aduchi
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T230000
+SUMMARY:■轟京子 at:YouTube
+URL:https://twitter.com/KT_seeds/status/1009285504972439552
+DESCRIPTION:https://twitter.com/KT_seeds/status/1009285504972439552
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623
 SUMMARY:？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T064500
+SUMMARY:■伏見ガク at:YouTube おはガク！
+URL:https://twitter.com/gaku_fushimi/status/1009294483085619200
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1009294483085619200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T170000
+SUMMARY:■鈴鹿詩子 at:SHOWROOM
+URL:https://twitter.com/suzukautako/status/1009281133664657409
+DESCRIPTION:https://twitter.com/suzukautako/status/1009281133664657409
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
@@ -4682,6 +4736,12 @@ DTSTART;TZID=Asia/Tokyo:20180620T130000
 SUMMARY:■静凛 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1008959878440763392
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1008959878440763392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180620T173000
+SUMMARY:■鈴鹿詩子 at:Mirrativ
+URL:https://twitter.com/suzukautako/status/1009281133664657409
+DESCRIPTION:https://twitter.com/suzukautako/status/1009281133664657409
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T190000
