@@ -4720,6 +4720,12 @@ URL:https://twitter.com/nekokan_chu/status/1009620660321046528
 DESCRIPTION:https://twitter.com/nekokan_chu/status/1009620660321046528
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T210000
+SUMMARY:■シスター・クレア at:YouTube
+URL:https://twitter.com/SisterCleaire/status/1009668533603586048
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1009668533603586048
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
@@ -4748,6 +4754,12 @@ DTSTART;TZID=Asia/Tokyo:20180621T081000
 SUMMARY:■鈴鹿詩子 at:Mirrativ ゲリラ配信 おとうとグランプリ！
 URL:https://twitter.com/suzukautako/status/1009573270482399232
 DESCRIPTION:https://twitter.com/suzukautako/status/1009573270482399232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T200000
+SUMMARY:■海夜叉神 at:YouTube ファイアーエムブレム談義
+URL:https://twitter.com/god_yaksa23/status/1009672953837940736
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1009672953837940736
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T210000

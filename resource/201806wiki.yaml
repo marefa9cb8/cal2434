@@ -66,6 +66,13 @@
 - date: 2018-06-22
   time:
     hour: 21
+    min: 0
+  title: "■シスター・クレア at:YouTube"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1009668533603586048
+- date: 2018-06-22
+  time:
+    hour: 21
     min: 30
   title: "■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)"
   end_time: 
@@ -98,6 +105,13 @@
   title: "■鈴鹿詩子 at:Mirrativ ゲリラ配信 おとうとグランプリ！"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1009573270482399232
+- date: 2018-06-21
+  time:
+    hour: 20
+    min: 0
+  title: "■海夜叉神 at:YouTube ファイアーエムブレム談義"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1009672953837940736
 - date: 2018-06-21
   time:
     hour: 21
