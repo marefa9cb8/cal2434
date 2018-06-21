@@ -4714,6 +4714,12 @@ URL:https://twitter.com/suzukautako/status/1009281133664657409
 DESCRIPTION:https://twitter.com/suzukautako/status/1009281133664657409
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T180000
+SUMMARY:■文野環 at:YouTube チャット配信
+URL:https://twitter.com/nekokan_chu/status/1009620660321046528
+DESCRIPTION:https://twitter.com/nekokan_chu/status/1009620660321046528
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
@@ -4739,15 +4745,15 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1009433116874715136
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T081000
-SUMMARY:■鈴鹿詩子 at:Mirrativ ゲリラ配信
+SUMMARY:■鈴鹿詩子 at:Mirrativ ゲリラ配信 おとうとグランプリ！
 URL:https://twitter.com/suzukautako/status/1009573270482399232
 DESCRIPTION:https://twitter.com/suzukautako/status/1009573270482399232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T210000
-SUMMARY:■緑仙 at:YouTube (6/18の配信にて告知)
-URL:https://twitter.com/midori_2434/status/1008684795587514369
-DESCRIPTION:https://twitter.com/midori_2434/status/1008684795587514369
+SUMMARY:■緑仙 at:YouTube 友達作りの練習
+URL:https://twitter.com/midori_2434/status/1009594271295463426
+DESCRIPTION:https://twitter.com/midori_2434/status/1009594271295463426
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T003000

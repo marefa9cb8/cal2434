@@ -58,6 +58,13 @@
   uri: https://twitter.com/suzukautako/status/1009281133664657409
 - date: 2018-06-22
   time:
+    hour: 18
+    min: 0
+  title: "■文野環 at:YouTube チャット配信"
+  end_time: 
+  uri: https://twitter.com/nekokan_chu/status/1009620660321046528
+- date: 2018-06-22
+  time:
     hour: 21
     min: 30
   title: "■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)"
@@ -88,16 +95,16 @@
   time:
     hour: 8
     min: 10
-  title: "■鈴鹿詩子 at:Mirrativ ゲリラ配信"
+  title: "■鈴鹿詩子 at:Mirrativ ゲリラ配信 おとうとグランプリ！"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1009573270482399232
 - date: 2018-06-21
   time:
     hour: 21
     min: 0
-  title: "■緑仙 at:YouTube (6/18の配信にて告知)"
+  title: "■緑仙 at:YouTube 友達作りの練習"
   end_time: 
-  uri: https://twitter.com/midori_2434/status/1008684795587514369
+  uri: https://twitter.com/midori_2434/status/1009594271295463426
 - date: 2018-06-20
   time:
     hour: 0
