@@ -63,6 +63,27 @@
   uri: 
 - date: 2018-06-22
   time:
+    hour: 0
+    min: 2
+  title: "■春崎エアル at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/harusakiair2434/status/1009814192663158785
+- date: 2018-06-22
+  time:
+    hour: 0
+    min: 9
+  title: "■海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1009815489202122754
+- date: 2018-06-22
+  time:
+    hour: 1
+    min: 15
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1009832086239260673
+- date: 2018-06-22
+  time:
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！"
@@ -93,7 +114,7 @@
   time:
     hour: 21
     min: 0
-  title: "■シスター・クレア at:YouTube"
+  title: "■シスター・クレア at:YouTube 懺悔室"
   end_time: 
   uri: https://twitter.com/SisterCleaire/status/1009668533603586048
 - date: 2018-06-22
@@ -103,6 +124,13 @@
   title: "■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)"
   end_time: 
   uri: 
+- date: 2018-06-22
+  time:
+    hour: 22
+    min: 0
+  title: "■モイラ at:YouTube もいらじ"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/1009799658124632065
 - date: 2018-06-22
   time:
     hour: 23
@@ -117,6 +145,13 @@
   title: "■森中花咲 at:YouTube \U0001F33C悪い子ナイト#2"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
+- date: 2018-06-22
+  time:
+    hour: 24
+    min: 0
+  title: "■剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: https://twitter.com/rei_Toya_rei/status/1009848115359182848
 - date: 2018-06-21
   time:
     hour: 0

@@ -4720,6 +4720,24 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T000200
+SUMMARY:■春崎エアル at:YouTube 雑談
+URL:https://twitter.com/harusakiair2434/status/1009814192663158785
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1009814192663158785
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T000900
+SUMMARY:■海夜叉神 at:YouTube 雑談
+URL:https://twitter.com/god_yaksa23/status/1009815489202122754
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1009815489202122754
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T011500
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1009832086239260673
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009832086239260673
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T064500
 SUMMARY:■伏見ガク at:YouTube おはガク！
 URL:https://twitter.com/gaku_fushimi/status/1009294483085619200
@@ -4745,7 +4763,7 @@ DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T210000
-SUMMARY:■シスター・クレア at:YouTube
+SUMMARY:■シスター・クレア at:YouTube 懺悔室
 URL:https://twitter.com/SisterCleaire/status/1009668533603586048
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1009668533603586048
 END:VEVENT
@@ -4754,6 +4772,12 @@ DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T220000
+SUMMARY:■モイラ at:YouTube もいらじ
+URL:https://twitter.com/Moiramoimoimoi/status/1009799658124632065
+DESCRIPTION:https://twitter.com/Moiramoimoimoi/status/1009799658124632065
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T230000
@@ -4766,6 +4790,12 @@ DTSTART;TZID=Asia/Tokyo:20180622T240000
 SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
 URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T240000
+SUMMARY:■剣持刀也 at:YouTube SharpnessRadio
+URL:https://twitter.com/rei_Toya_rei/status/1009848115359182848
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009848115359182848
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T000000
