@@ -4786,16 +4786,16 @@ URL:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T230000
+SUMMARY:?～ ■剣持刀也 at:YouTube SharpnessRadio
+URL:https://twitter.com/rei_Toya_rei/status/1009848115359182848
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009848115359182848
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T240000
 SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
 URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180622T240000
-SUMMARY:■剣持刀也 at:YouTube SharpnessRadio
-URL:https://twitter.com/rei_Toya_rei/status/1009848115359182848
-DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009848115359182848
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T000000
