@@ -27,6 +27,20 @@
   uri: https://twitter.com/momo_aduchi
 - date: 2018-06-23
   time:
+    hour: 20
+    min: 0
+  title: "■■燃やせよ！にじさんじの森（剣持刀也 樋口楓 モイラ 渋谷ハジメ 鈴谷アキ 森中花咲 宇志海いちご 伏見ガク）at:YouTube 剣持刀也のチャンネル"
+  end_time: 
+  uri: https://twitter.com/rei_Toya_rei/status/1009770975817170944
+- date: 2018-06-23
+  time:
+    hour: 22
+    min: 0
+  title: "■物述有栖 at:? 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe
+- date: 2018-06-23
+  time:
     hour: 23
     min: 0
   title: "■轟京子 at:YouTube"
@@ -39,7 +53,12 @@
   uri: 
 - date: 2018-06-23
   time: 
-  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)（1時間ぐらい）"
+  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)"
+  end_time: 
+  uri: 
+- date: 2018-06-23
+  time: 
+  title: "？時？分～(深夜) ■緑仙 at:? (6/21の配信にて告知・長時間?)"
   end_time: 
   uri: 
 - date: 2018-06-22
@@ -65,6 +84,13 @@
   uri: https://twitter.com/nekokan_chu/status/1009620660321046528
 - date: 2018-06-22
   time:
+    hour: 20
+    min: 0
+  title: "■出雲霞 at:Mirrativ マシュマロ返信"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1009789464707719169
+- date: 2018-06-22
+  time:
     hour: 21
     min: 0
   title: "■シスター・クレア at:YouTube"
@@ -77,6 +103,13 @@
   title: "■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)"
   end_time: 
   uri: 
+- date: 2018-06-22
+  time:
+    hour: 23
+    min: 0
+  title: "■出雲霞 at:Mirrativ ゲーム配信"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1009789464707719169
 - date: 2018-06-22
   time:
     hour: 24
@@ -116,7 +149,7 @@
   time:
     hour: 19
     min: 40
-  title: "■叶 at:YouTube"
+  title: "■叶 at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1009748306199580673
 - date: 2018-06-21
@@ -130,7 +163,7 @@
   time:
     hour: 20
     min: 0
-  title: "■勇気ちひろ at:YouTube"
+  title: "■勇気ちひろ at:YouTube いきのびろ！素辺蘭花のいちにち"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1009684298805346309
 - date: 2018-06-21
@@ -144,7 +177,7 @@
   time:
     hour: 22
     min: 30
-  title: 21時00分～ ■静凛 at:YouTube FF14 時間変更
+  title: 21時15分～ ■静凛 at:YouTube FF14 時間変更
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1009684298805346309
 - date: 2018-06-21
@@ -158,16 +191,30 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube Poly Bridge"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1009684298805346309
 - date: 2018-06-21
   time:
     hour: 22
     min: 0
-  title: "■春崎エアル at:?"
+  title: "■叶 at:YouTube SUPERHOT"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1009783591247605760
+- date: 2018-06-21
+  time:
+    hour: 22
+    min: 5
+  title: "■春崎エアル at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1009725264945819650
+- date: 2018-06-21
+  time:
+    hour: 22
+    min: 13
+  title: "■海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1009786713709793280
 - date: 2018-06-20
   time:
     hour: 0

@@ -4684,6 +4684,18 @@ URL:https://twitter.com/momo_aduchi
 DESCRIPTION:https://twitter.com/momo_aduchi
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T200000
+SUMMARY:■■燃やせよ！にじさんじの森（剣持刀也 樋口楓 モイラ 渋谷ハジメ 鈴谷アキ 森中花咲 宇志海いちご 伏見ガク）at:YouTube 剣持刀也のチャンネル
+URL:https://twitter.com/rei_Toya_rei/status/1009770975817170944
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009770975817170944
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T220000
+SUMMARY:■物述有栖 at:? 本人Twitterネームより
+URL:https://twitter.com/AliceMononobe
+DESCRIPTION:https://twitter.com/AliceMononobe
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T230000
 SUMMARY:■轟京子 at:YouTube
 URL:https://twitter.com/KT_seeds/status/1009285504972439552
@@ -4697,7 +4709,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623
-SUMMARY:？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知)（1時間ぐらい）
+SUMMARY:？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623
+SUMMARY:？時？分～(深夜) ■緑仙 at:? (6/21の配信にて告知・長時間?)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4720,6 +4738,12 @@ URL:https://twitter.com/nekokan_chu/status/1009620660321046528
 DESCRIPTION:https://twitter.com/nekokan_chu/status/1009620660321046528
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T200000
+SUMMARY:■出雲霞 at:Mirrativ マシュマロ返信
+URL:https://twitter.com/ikasumi_zzz/status/1009789464707719169
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T210000
 SUMMARY:■シスター・クレア at:YouTube
 URL:https://twitter.com/SisterCleaire/status/1009668533603586048
@@ -4730,6 +4754,12 @@ DTSTART;TZID=Asia/Tokyo:20180622T213000
 SUMMARY:■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180622T230000
+SUMMARY:■出雲霞 at:Mirrativ ゲーム配信
+URL:https://twitter.com/ikasumi_zzz/status/1009789464707719169
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T240000
@@ -4763,7 +4793,7 @@ DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009716680581189633
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T194000
-SUMMARY:■叶 at:YouTube
+SUMMARY:■叶 at:YouTube 雑談
 URL:https://twitter.com/Kanae_2434/status/1009748306199580673
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1009748306199580673
 END:VEVENT
@@ -4775,7 +4805,7 @@ DESCRIPTION:https://twitter.com/god_yaksa23/status/1009672953837940736
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T200000
-SUMMARY:■勇気ちひろ at:YouTube
+SUMMARY:■勇気ちひろ at:YouTube いきのびろ！素辺蘭花のいちにち
 URL:https://twitter.com/nijisanji_app/status/1009684298805346309
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
@@ -4787,7 +4817,7 @@ DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1009754003368914944
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T223000
-SUMMARY:21時00分～ ■静凛 at:YouTube FF14 時間変更
+SUMMARY:21時15分～ ■静凛 at:YouTube FF14 時間変更
 URL:https://twitter.com/nijisanji_app/status/1009684298805346309
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
@@ -4799,15 +4829,27 @@ DESCRIPTION:https://twitter.com/midori_2434/status/1009594271295463426
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T213000
-SUMMARY:■鈴谷アキ at:YouTube
+SUMMARY:■鈴谷アキ at:YouTube Poly Bridge
 URL:https://twitter.com/nijisanji_app/status/1009684298805346309
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T220000
-SUMMARY:■春崎エアル at:?
+SUMMARY:■叶 at:YouTube SUPERHOT
+URL:https://twitter.com/Kanae_2434/status/1009783591247605760
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009783591247605760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T220500
+SUMMARY:■春崎エアル at:YouTube 雑談
 URL:https://twitter.com/harusakiair2434/status/1009725264945819650
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1009725264945819650
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T221300
+SUMMARY:■海夜叉神 at:YouTube 雑談
+URL:https://twitter.com/god_yaksa23/status/1009786713709793280
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1009786713709793280
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T003000
