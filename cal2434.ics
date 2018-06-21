@@ -4757,9 +4757,15 @@ DESCRIPTION:https://twitter.com/suzukautako/status/1009573270482399232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T173600
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube ジュラシック・ワールド EVOLUTION
 URL:https://twitter.com/sibuya_hajime/status/1009716680581189633
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009716680581189633
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T194000
+SUMMARY:■叶 at:YouTube
+URL:https://twitter.com/Kanae_2434/status/1009748306199580673
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1009748306199580673
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T200000
@@ -4774,16 +4780,22 @@ URL:https://twitter.com/nijisanji_app/status/1009684298805346309
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T203000
+SUMMARY:■家長むぎ at:YouTube バイノーラルテスト・お知らせ
+URL:https://twitter.com/ienaga_mugi23/status/1009754003368914944
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1009754003368914944
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T223000
+SUMMARY:21時00分～ ■静凛 at:YouTube FF14 時間変更
+URL:https://twitter.com/nijisanji_app/status/1009684298805346309
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T210000
 SUMMARY:■緑仙 at:YouTube 友達作りの練習
 URL:https://twitter.com/midori_2434/status/1009594271295463426
 DESCRIPTION:https://twitter.com/midori_2434/status/1009594271295463426
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180621T210000
-SUMMARY:■春崎エアル at:?
-URL:https://twitter.com/harusakiair2434/status/1009719019446784000
-DESCRIPTION:https://twitter.com/harusakiair2434/status/1009719019446784000
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T213000
@@ -4792,10 +4804,10 @@ URL:https://twitter.com/nijisanji_app/status/1009684298805346309
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180621T223000
-SUMMARY:■静凛 at:YouTube
-URL:https://twitter.com/nijisanji_app/status/1009684298805346309
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
+DTSTART;TZID=Asia/Tokyo:20180621T220000
+SUMMARY:■春崎エアル at:?
+URL:https://twitter.com/harusakiair2434/status/1009725264945819650
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1009725264945819650
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T003000
