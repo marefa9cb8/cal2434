@@ -4756,16 +4756,46 @@ URL:https://twitter.com/suzukautako/status/1009573270482399232
 DESCRIPTION:https://twitter.com/suzukautako/status/1009573270482399232
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T173600
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1009716680581189633
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009716680581189633
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T200000
 SUMMARY:■海夜叉神 at:YouTube ファイアーエムブレム談義
 URL:https://twitter.com/god_yaksa23/status/1009672953837940736
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1009672953837940736
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T200000
+SUMMARY:■勇気ちひろ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009684298805346309
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T210000
 SUMMARY:■緑仙 at:YouTube 友達作りの練習
 URL:https://twitter.com/midori_2434/status/1009594271295463426
 DESCRIPTION:https://twitter.com/midori_2434/status/1009594271295463426
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T210000
+SUMMARY:■春崎エアル at:?
+URL:https://twitter.com/harusakiair2434/status/1009719019446784000
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1009719019446784000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009684298805346309
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180621T223000
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1009684298805346309
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1009684298805346309
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180620T003000
