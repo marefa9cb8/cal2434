@@ -1,4 +1,11 @@
 ---
+- date: 2018-06-27
+  time:
+    hour: 21
+    min: 30
+  title: "■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル（6/21の配信で言及） ワードウルフ予習"
+  end_time: 
+  uri: 
 - date: 2018-06-26
   time:
     hour: 20
@@ -54,13 +61,10 @@
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1009285504972439552
 - date: 2018-06-23
-  time: 
-  title: "？時？分～(夜) ■樋口楓　おえ森配信をするかもしれない (6/20の配信にて告知)"
-  end_time: 
-  uri: 
-- date: 2018-06-23
-  time: 
-  title: "？時？分～ ■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)"
+  time:
+    hour: 24
+    min: 0
+  title: "■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)"
   end_time: 
   uri: 
 - date: 2018-06-23
@@ -112,6 +116,20 @@
   uri: https://twitter.com/nekokan_chu/status/1009620660321046528
 - date: 2018-06-22
   time:
+    hour: 19
+    min: 0
+  title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010044466357399553
+- date: 2018-06-22
+  time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:OPENREC.tv"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010044466357399553
+- date: 2018-06-22
+  time:
     hour: 20
     min: 0
   title: "■出雲霞 at:Mirrativ マシュマロ返信"
@@ -128,9 +146,9 @@
   time:
     hour: 21
     min: 30
-  title: "■JK組コラボ at:? (14日から日程変更。6/6樋口楓の配信にて告知)"
+  title: "■JK組コラボ (14日から日程変更)"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/1010044409168125953
 - date: 2018-06-22
   time:
     hour: 22
@@ -149,7 +167,7 @@
   time:
     hour: 23
     min: 0
-  title: "?～ ■剣持刀也 at:YouTube SharpnessRadio"
+  title: "■剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/1009848115359182848
 - date: 2018-06-22
@@ -163,7 +181,7 @@
   time:
     hour: 24
     min: 0
-  title: "■花畑チャイカ at:？"
+  title: "■花畑チャイカ at:YouTube"
   end_time: 
   uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
 - date: 2018-06-21
