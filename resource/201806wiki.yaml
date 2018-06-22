@@ -31,23 +31,9 @@
   time:
     hour: 20
     min: 0
-  title: "■ドーラ at:YouTube 本人Twitterネームより"
+  title: "■ドーラ at:YouTube"
   end_time: 
-  uri: https://twitter.com/___Dola
-- date: 2018-06-24
-  time:
-    hour: 22
-    min: 0
-  title: "■森中花咲 at:YouTube \U0001F43B みんなでやろう！おえかきの森大会"
-  end_time: 
-  uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
-- date: 2018-06-24
-  time:
-    hour: 23
-    min: 0
-  title: "■える at:YouTube おえ森"
-  end_time: 
-  uri: https://twitter.com/Elu_World/status/1008621735933984769
+  uri: https://twitter.com/___Dola/status/1010199033397178368
 - date: 2018-06-24
   time: 
   title: "？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)"
@@ -62,7 +48,7 @@
   time:
     hour: 0
     min: 0
-  title: "■森中花咲 at:YouTube \U0001F33C悪い子ナイト#2"
+  title: "■森中花咲 at:YouTube \U0001F33C悪いコNight#2"
   end_time: 
   uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
 - date: 2018-06-23
@@ -75,13 +61,29 @@
 - date: 2018-06-23
   time:
     hour: 1
-    min: 0
+    min: 2
+  title: "■静凛 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/ShizuRin23/status/1010184425307426816
+- date: 2018-06-23
+  time:
+    hour: 1
+    min: 20
   title: "■剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/1010154397366489088
 - date: 2018-06-23
-  time: 
-  title: "？時？分～(深夜) ■叶 at:?"
+  time:
+    hour: 2
+    min: 9
+  title: "■渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1010208039738093568
+- date: 2018-06-23
+  time:
+    hour: 2
+    min: 36
+  title: "■叶 at:YouTube"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1010152953397706752
 - date: 2018-06-23
@@ -229,20 +231,6 @@
   title: "■剣持刀也 at:YouTube SharpnessRadio 翌日6/23 01時00分～ に変更"
   end_time: 
   uri: https://twitter.com/rei_Toya_rei/status/1009848115359182848
-- date: 2018-06-22
-  time:
-    hour: 24
-    min: 0
-  title: "■森中花咲 at:YouTube \U0001F33C悪い子ナイト#2"
-  end_time: 
-  uri: https://twitter.com/KazakiMorinaka/status/1008490515396997121
-- date: 2018-06-22
-  time:
-    hour: 24
-    min: 0
-  title: "■花畑チャイカ at:YouTube"
-  end_time: 
-  uri: https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
 - date: 2018-06-21
   time:
     hour: 0

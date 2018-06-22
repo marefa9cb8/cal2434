@@ -4727,21 +4727,9 @@ DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T200000
-SUMMARY:■ドーラ at:YouTube 本人Twitterネームより
-URL:https://twitter.com/___Dola
-DESCRIPTION:https://twitter.com/___Dola
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180624T220000
-SUMMARY:■森中花咲 at:YouTube 🐻 みんなでやろう！おえかきの森大会
-URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
-DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180624T230000
-SUMMARY:■える at:YouTube おえ森
-URL:https://twitter.com/Elu_World/status/1008621735933984769
-DESCRIPTION:https://twitter.com/Elu_World/status/1008621735933984769
+SUMMARY:■ドーラ at:YouTube
+URL:https://twitter.com/___Dola/status/1010199033397178368
+DESCRIPTION:https://twitter.com/___Dola/status/1010199033397178368
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624
@@ -4757,7 +4745,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T000000
-SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
+SUMMARY:■森中花咲 at:YouTube 🌼悪いコNight#2
 URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
 END:VEVENT
@@ -4768,14 +4756,26 @@ URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
 DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180623T010000
+DTSTART;TZID=Asia/Tokyo:20180623T010200
+SUMMARY:■静凛 at:YouTube PUBG
+URL:https://twitter.com/ShizuRin23/status/1010184425307426816
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1010184425307426816
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T012000
 SUMMARY:■剣持刀也 at:YouTube SharpnessRadio
 URL:https://twitter.com/rei_Toya_rei/status/1010154397366489088
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1010154397366489088
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180623
-SUMMARY:？時？分～(深夜) ■叶 at:?
+DTSTART;TZID=Asia/Tokyo:20180623T020900
+SUMMARY:■渋谷ハジメ at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/1010208039738093568
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1010208039738093568
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T023600
+SUMMARY:■叶 at:YouTube
 URL:https://twitter.com/Kanae_2434/status/1010152953397706752
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1010152953397706752
 END:VEVENT
@@ -4904,18 +4904,6 @@ DTSTART;TZID=Asia/Tokyo:20180622T230000
 SUMMARY:■剣持刀也 at:YouTube SharpnessRadio 翌日6/23 01時00分～ に変更
 URL:https://twitter.com/rei_Toya_rei/status/1009848115359182848
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009848115359182848
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180622T240000
-SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
-URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
-DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180622T240000
-SUMMARY:■花畑チャイカ at:YouTube
-URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
-DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180621T000000
