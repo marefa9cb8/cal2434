@@ -4666,6 +4666,12 @@ URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009445950606139392
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180625T064500
+SUMMARY:■伏見ガク at:YouTube おはガク！
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T190000
 SUMMARY:■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画
 URL:https://twitter.com/hangame_hirota/status/1006793294423175168
@@ -4685,15 +4691,15 @@ DESCRIPTION:https://twitter.com/momo_aduchi
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T200000
-SUMMARY:■■燃やせよ！にじさんじの森（剣持刀也 樋口楓 モイラ 渋谷ハジメ 鈴谷アキ 森中花咲 宇志海いちご 伏見ガク）at:YouTube 剣持刀也のチャンネル
+SUMMARY:■■剣持刀也 樋口楓 モイラ 渋谷ハジメ 鈴谷アキ 森中花咲 宇志海いちご 伏見ガク
 URL:https://twitter.com/rei_Toya_rei/status/1009770975817170944
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009770975817170944
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T220000
-SUMMARY:■物述有栖 at:? 本人Twitterネームより
-URL:https://twitter.com/AliceMononobe
-DESCRIPTION:https://twitter.com/AliceMononobe
+SUMMARY:■物述有栖 at:?
+URL:https://twitter.com/AliceMononobe/status/1009921160283189248
+DESCRIPTION:https://twitter.com/AliceMononobe/status/1009921160283189248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T230000
@@ -4703,7 +4709,7 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1009285504972439552
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623
-SUMMARY:夜 ■樋口楓　おえ森配信をするかもしれない (6/20の配信にて告知)
+SUMMARY:？時？分～(夜) ■樋口楓　おえ森配信をするかもしれない (6/20の配信にて告知)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -4733,13 +4739,13 @@ DESCRIPTION:https://twitter.com/god_yaksa23/status/1009815489202122754
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T011500
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube ゲーム3種
 URL:https://twitter.com/sibuya_hajime/status/1009832086239260673
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009832086239260673
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T064500
-SUMMARY:■伏見ガク at:YouTube おはガク！
+SUMMARY:■伏見ガク at:YouTube おはガク！ 卵料理
 URL:https://twitter.com/gaku_fushimi/status/1009294483085619200
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/1009294483085619200
 END:VEVENT
