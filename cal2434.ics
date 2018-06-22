@@ -4726,10 +4726,64 @@ URL:https://twitter.com/hangame_hirota/status/1006793294423175168
 DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T200000
+SUMMARY:■ドーラ at:YouTube 本人Twitterネームより
+URL:https://twitter.com/___Dola
+DESCRIPTION:https://twitter.com/___Dola
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T220000
+SUMMARY:■森中花咲 at:YouTube 🐻 みんなでやろう！おえかきの森大会
+URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T230000
+SUMMARY:■える at:YouTube おえ森
+URL:https://twitter.com/Elu_World/status/1008621735933984769
+DESCRIPTION:https://twitter.com/Elu_World/status/1008621735933984769
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624
+SUMMARY:？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624
 SUMMARY:※樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T000000
+SUMMARY:■森中花咲 at:YouTube 🌼悪い子ナイト#2
+URL:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1008490515396997121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T000000
+SUMMARY:■花畑チャイカ at:YouTube
+URL:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
+DESCRIPTION:https://twitter.com/ZulmIhP1nlMOT5y/status/1010015743147012100
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T010000
+SUMMARY:■剣持刀也 at:YouTube SharpnessRadio
+URL:https://twitter.com/rei_Toya_rei/status/1010154397366489088
+DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1010154397366489088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623
+SUMMARY:？時？分～(深夜) ■叶 at:?
+URL:https://twitter.com/Kanae_2434/status/1010152953397706752
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1010152953397706752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T083000
+SUMMARY:■春崎エアル at:YouTube
+URL:https://twitter.com/harusakiair2434/status/1010130540773556224
+DESCRIPTION:https://twitter.com/harusakiair2434/status/1010130540773556224
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T150000
@@ -4811,7 +4865,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1010044466357399553
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T200000
-SUMMARY:■渋谷ハジメ at:OPENREC.tv
+SUMMARY:■渋谷ハジメ at:OPENREC.tv スプラトゥーン2
 URL:https://twitter.com/nijisanji_app/status/1010044466357399553
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1010044466357399553
 END:VEVENT
@@ -4822,8 +4876,8 @@ URL:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180622T210000
-SUMMARY:■シスター・クレア at:YouTube 懺悔室
+DTSTART;TZID=Asia/Tokyo:20180622T211100
+SUMMARY:■シスター・クレア at:YouTube→Mirrativ 懺悔室
 URL:https://twitter.com/SisterCleaire/status/1009668533603586048
 DESCRIPTION:https://twitter.com/SisterCleaire/status/1009668533603586048
 END:VEVENT
@@ -4847,7 +4901,7 @@ DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1009789464707719169
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T230000
-SUMMARY:■剣持刀也 at:YouTube SharpnessRadio
+SUMMARY:■剣持刀也 at:YouTube SharpnessRadio 翌日6/23 01時00分～ に変更
 URL:https://twitter.com/rei_Toya_rei/status/1009848115359182848
 DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009848115359182848
 END:VEVENT
