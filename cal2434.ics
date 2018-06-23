@@ -4780,6 +4780,12 @@ URL:https://twitter.com/Kanae_2434/status/1010152953397706752
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1010152953397706752
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T080600
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1010298101049876483
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1010298101049876483
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T083000
 SUMMARY:■春崎エアル at:YouTube
 URL:https://twitter.com/harusakiair2434/status/1010130540773556224
