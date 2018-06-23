@@ -4720,6 +4720,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T103000
+SUMMARY:(11時00分?)～ ■八朔ゆずat:Mirrativ 少しだけ、兼テスト配信
+URL:https://twitter.com/839yuzu/status/1010311002678689793
+DESCRIPTION:https://twitter.com/839yuzu/status/1010311002678689793
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T190000
 SUMMARY:■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画
 URL:https://twitter.com/hangame_hirota/status/1006793294423175168

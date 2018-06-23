@@ -22,6 +22,13 @@
   uri: 
 - date: 2018-06-24
   time:
+    hour: 10
+    min: 30
+  title: "(11時00分?)～ ■八朔ゆずat:Mirrativ 少しだけ、兼テスト配信"
+  end_time: 
+  uri: https://twitter.com/839yuzu/status/1010311002678689793
+- date: 2018-06-24
+  time:
     hour: 19
     min: 0
   title: "■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画"
