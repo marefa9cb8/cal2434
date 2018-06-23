@@ -24,7 +24,7 @@
   time:
     hour: 0
     min: 0
-  title: "■樋口楓・える☆かえるコラボ at:YouTube"
+  title: "■樋口楓・える☆かえるコラボ at:YouTube えるのMirrativ 配信場所変更"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-24
@@ -37,8 +37,8 @@
 - date: 2018-06-24
   time:
     hour: 0
-    min: 0
-  title: "■叶 at:?"
+    min: 4
+  title: "■叶 at:YouTube 作業・雑談"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1010508021221376000
 - date: 2018-06-24
@@ -64,11 +64,25 @@
   uri: https://twitter.com/hangame_hirota/status/1006793294423175168
 - date: 2018-06-24
   time:
+    hour: 19
+    min: 0
+  title: "■物述有栖 at:? テリアサーガ"
+  end_time: 
+  uri: https://twitter.com/AliceMononobe/status/1010490321652756480
+- date: 2018-06-24
+  time:
     hour: 20
     min: 0
   title: "■ドーラ at:YouTube"
   end_time: 
   uri: https://twitter.com/___Dola/status/1010199033397178368
+- date: 2018-06-24
+  time:
+    hour: 23
+    min: 0
+  title: "■社築 at:YouTube 本人Twitterネームより"
+  end_time: 
+  uri: https://twitter.com/846kizuQ
 - date: 2018-06-24
   time: 
   title: "？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)"
@@ -202,7 +216,7 @@
   time:
     hour: 24
     min: 0
-  title: "■樋口楓・える☆かえるコラボ at:YouTube えるのMirrativ"
+  title: "■樋口楓・える☆かえるコラボ at:YouTube えるのMirrativ 配信場所変更"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-23
