@@ -31,7 +31,7 @@
   time:
     hour: 0
     min: 0
-  title: "■緑仙 at:YouTube"
+  title: "■緑仙 at:YouTube 歌"
   end_time: 
   uri: https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
 - date: 2018-06-24
@@ -41,6 +41,25 @@
   title: "■叶 at:YouTube 作業・雑談"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1010508021221376000
+- date: 2018-06-24
+  time: 
+  title: 01時？分～ ■静凛 at:OPENREC.tv Dead by Daylight 雑談
+  end_time: 
+  uri: 
+- date: 2018-06-24
+  time:
+    hour: 2
+    min: 35
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1010577135583485952
+- date: 2018-06-24
+  time:
+    hour: 4
+    min: 0
+  title: "■■■叶＆渋谷ハジメ＆ふぇありす＆万楽えね at:YouTube RAFT"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1010599103258976256
 - date: 2018-06-24
   time:
     hour: 10

@@ -4727,7 +4727,7 @@ DESCRIPTION:https://twitter.com/nijisanji_app/status/1010414980682866696
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T000000
-SUMMARY:■緑仙 at:YouTube
+SUMMARY:■緑仙 at:YouTube 歌
 URL:https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
 DESCRIPTION:https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
 END:VEVENT
@@ -4736,6 +4736,24 @@ DTSTART;TZID=Asia/Tokyo:20180624T000400
 SUMMARY:■叶 at:YouTube 作業・雑談
 URL:https://twitter.com/Kanae_2434/status/1010508021221376000
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1010508021221376000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624
+SUMMARY:01時？分～ ■静凛 at:OPENREC.tv Dead by Daylight 雑談
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T023500
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1010577135583485952
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1010577135583485952
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T040000
+SUMMARY:■■■叶＆渋谷ハジメ＆ふぇありす＆万楽えね at:YouTube RAFT
+URL:https://twitter.com/Kanae_2434/status/1010599103258976256
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1010599103258976256
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T103000
