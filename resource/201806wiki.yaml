@@ -22,6 +22,20 @@
   uri: 
 - date: 2018-06-24
   time:
+    hour: 0
+    min: 0
+  title: "■■樋口楓・える☆かえるコラボ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010414980682866696
+- date: 2018-06-24
+  time:
+    hour: 0
+    min: 0
+  title: "■緑仙 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
+- date: 2018-06-24
+  time:
     hour: 10
     min: 30
   title: "(11時00分?)～ ■八朔ゆずat:Mirrativ 少しだけ、兼テスト配信"
@@ -46,6 +60,11 @@
   title: "？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)"
   end_time: 
   uri: 
+- date: 2018-06-24
+  time: 
+  title: "？時？分～ ■卯月コウ at:YouTube? Ib"
+  end_time: 
+  uri: https://twitter.com/udukikohh/status/1010201370765348865
 - date: 2018-06-24
   time: 
   title: "※樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"
@@ -97,7 +116,7 @@
   time:
     hour: 8
     min: 6
-  title: "■渋谷ハジメ at:YouTube"
+  title: "■渋谷ハジメ at:YouTube ジュラシック・ワールド EVOLUTION"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1010298101049876483
 - date: 2018-06-23
@@ -111,9 +130,16 @@
   time:
     hour: 15
     min: 0
-  title: "■安土桃 at:? 本人Twitterネームより"
+  title: "■安土桃 at:YouTube"
   end_time: 
-  uri: https://twitter.com/momo_aduchi
+  uri: https://twitter.com/momo_aduchi/status/1010403560729669632
+- date: 2018-06-23
+  time:
+    hour: 17
+    min: 30
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-23
   time:
     hour: 20
@@ -125,9 +151,16 @@
   time:
     hour: 22
     min: 0
-  title: "■物述有栖 at:?"
+  title: "■物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/1009921160283189248
+- date: 2018-06-23
+  time:
+    hour: 22
+    min: 45
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-23
   time:
     hour: 23
@@ -137,16 +170,11 @@
   uri: https://twitter.com/KT_seeds/status/1009285504972439552
 - date: 2018-06-23
   time:
-    hour: 24
+    hour: 23
     min: 0
-  title: "■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)"
+  title: "■海夜叉神 at:YouTube? クイズ大会"
   end_time: 
-  uri: 
-- date: 2018-06-23
-  time: 
-  title: "？時？分～(深夜) ■緑仙 at:? (6/21の配信にて告知・長時間?)"
-  end_time: 
-  uri: 
+  uri: https://twitter.com/god_yaksa23/status/1010412511911268352
 - date: 2018-06-22
   time:
     hour: 0

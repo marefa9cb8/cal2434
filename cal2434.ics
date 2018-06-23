@@ -4720,6 +4720,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T000000
+SUMMARY:■■樋口楓・える☆かえるコラボ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1010414980682866696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1010414980682866696
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T000000
+SUMMARY:■緑仙 at:YouTube
+URL:https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
+DESCRIPTION:https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T103000
 SUMMARY:(11時00分?)～ ■八朔ゆずat:Mirrativ 少しだけ、兼テスト配信
 URL:https://twitter.com/839yuzu/status/1010311002678689793
@@ -4742,6 +4754,12 @@ DTSTART;TZID=Asia/Tokyo:20180624
 SUMMARY:？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624
+SUMMARY:？時？分～ ■卯月コウ at:YouTube? Ib
+URL:https://twitter.com/udukikohh/status/1010201370765348865
+DESCRIPTION:https://twitter.com/udukikohh/status/1010201370765348865
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624
@@ -4787,7 +4805,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1010152953397706752
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T080600
-SUMMARY:■渋谷ハジメ at:YouTube
+SUMMARY:■渋谷ハジメ at:YouTube ジュラシック・ワールド EVOLUTION
 URL:https://twitter.com/sibuya_hajime/status/1010298101049876483
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1010298101049876483
 END:VEVENT
@@ -4799,9 +4817,15 @@ DESCRIPTION:https://twitter.com/harusakiair2434/status/1010130540773556224
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T150000
-SUMMARY:■安土桃 at:? 本人Twitterネームより
-URL:https://twitter.com/momo_aduchi
-DESCRIPTION:https://twitter.com/momo_aduchi
+SUMMARY:■安土桃 at:YouTube
+URL:https://twitter.com/momo_aduchi/status/1010403560729669632
+DESCRIPTION:https://twitter.com/momo_aduchi/status/1010403560729669632
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T173000
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1010414980682866696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1010414980682866696
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T200000
@@ -4811,9 +4835,15 @@ DESCRIPTION:https://twitter.com/rei_Toya_rei/status/1009770975817170944
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T220000
-SUMMARY:■物述有栖 at:?
+SUMMARY:■物述有栖 at:YouTube
 URL:https://twitter.com/AliceMononobe/status/1009921160283189248
 DESCRIPTION:https://twitter.com/AliceMononobe/status/1009921160283189248
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180623T224500
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1010414980682866696
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1010414980682866696
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180623T230000
@@ -4822,16 +4852,10 @@ URL:https://twitter.com/KT_seeds/status/1009285504972439552
 DESCRIPTION:https://twitter.com/KT_seeds/status/1009285504972439552
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180623T240000
-SUMMARY:■かえる（樋口楓＆える） at:? (6/18えるの配信にて告知・1時間ぐらい)
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180623
-SUMMARY:？時？分～(深夜) ■緑仙 at:? (6/21の配信にて告知・長時間?)
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180623T230000
+SUMMARY:■海夜叉神 at:YouTube? クイズ大会
+URL:https://twitter.com/god_yaksa23/status/1010412511911268352
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1010412511911268352
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180622T000200
