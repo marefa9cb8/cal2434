@@ -17,14 +17,14 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク！"
+  title: "■伏見ガク at:YouTube おはガク！ 鮭とご飯"
   end_time: 
-  uri: 
+  uri: https://twitter.com/gaku_fushimi/status/1010443195249934336
 - date: 2018-06-24
   time:
     hour: 0
     min: 0
-  title: "■■樋口楓・える☆かえるコラボ at:YouTube"
+  title: "■樋口楓・える☆かえるコラボ at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-24
@@ -34,6 +34,13 @@
   title: "■緑仙 at:YouTube"
   end_time: 
   uri: https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
+- date: 2018-06-24
+  time:
+    hour: 0
+    min: 0
+  title: "■叶 at:?"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1010508021221376000
 - date: 2018-06-24
   time:
     hour: 10
@@ -132,7 +139,7 @@
   time:
     hour: 15
     min: 0
-  title: "■安土桃 at:YouTube"
+  title: "■安土桃 at:YouTube 雑談・歌"
   end_time: 
   uri: https://twitter.com/momo_aduchi/status/1010403560729669632
 - date: 2018-06-23
@@ -146,7 +153,7 @@
   time:
     hour: 19
     min: 30
-  title: "■卯月コウ at:YouTube"
+  title: "■卯月コウ at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/udukikohh/status/1010462513031335937
 - date: 2018-06-23
@@ -160,14 +167,21 @@
   time:
     hour: 22
     min: 0
-  title: "■物述有栖 at:YouTube"
+  title: "■物述有栖 at:YouTube LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/1009921160283189248
 - date: 2018-06-23
   time:
     hour: 22
+    min: 30
+  title: "■モイラat:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/Moiramoimoimoi/status/1010515231087345666
+- date: 2018-06-23
+  time:
+    hour: 22
     min: 45
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1010414980682866696
 - date: 2018-06-23
@@ -181,9 +195,23 @@
   time:
     hour: 23
     min: 0
-  title: "■海夜叉神 at:YouTube? クイズ大会"
+  title: "■海夜叉神 at:YouTube クイズ大会"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1010412511911268352
+- date: 2018-06-23
+  time:
+    hour: 24
+    min: 0
+  title: "■樋口楓・える☆かえるコラボ at:YouTube えるのMirrativ"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010414980682866696
+- date: 2018-06-23
+  time:
+    hour: 24
+    min: 0
+  title: "■緑仙 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/Nijisanji_Seeds/status/1010411973094227969
 - date: 2018-06-22
   time:
     hour: 0
