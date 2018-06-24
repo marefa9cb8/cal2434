@@ -63,8 +63,15 @@
 - date: 2018-06-24
   time:
     hour: 10
-    min: 30
-  title: "(11時00分?)～ ■八朔ゆずat:Mirrativ 少しだけ、兼テスト配信"
+    min: 22
+  title: "■卯月コウ at:YouTube ゲリラ"
+  end_time: 
+  uri: https://twitter.com/udukikohh/status/1010694150331592704
+- date: 2018-06-24
+  time:
+    hour: 10
+    min: 35
+  title: "■八朔ゆずat:Mirrativ テスト配信"
   end_time: 
   uri: https://twitter.com/839yuzu/status/1010311002678689793
 - date: 2018-06-24
@@ -78,16 +85,16 @@
   time:
     hour: 19
     min: 0
-  title: "■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画"
+  title: "■物述有栖 at:? テリアサーガ"
   end_time: 
-  uri: https://twitter.com/hangame_hirota/status/1006793294423175168
+  uri: https://twitter.com/AliceMononobe/status/1010490321652756480
 - date: 2018-06-24
   time:
     hour: 19
     min: 0
-  title: "■物述有栖 at:? テリアサーガ"
+  title: "■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画"
   end_time: 
-  uri: https://twitter.com/AliceMononobe/status/1010490321652756480
+  uri: https://twitter.com/hangame_hirota/status/1006793294423175168
 - date: 2018-06-24
   time:
     hour: 20
@@ -95,6 +102,13 @@
   title: "■ドーラ at:YouTube"
   end_time: 
   uri: https://twitter.com/___Dola/status/1010199033397178368
+- date: 2018-06-24
+  time:
+    hour: 22
+    min: 0
+  title: "■海夜叉神 at:YouTube チャンネル登録者1万人達成記念ライブ"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1010716609311195136
 - date: 2018-06-24
   time:
     hour: 23
