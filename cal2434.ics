@@ -4708,10 +4708,22 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T230000
+SUMMARY:■轟京子 at:YouTube
+URL:https://twitter.com/KT_seeds/status/1010834702360502272
+DESCRIPTION:https://twitter.com/KT_seeds/status/1010834702360502272
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T200000
 SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:? 感想会
 URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009445950606139392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T200000
+SUMMARY:■■静凛＆？ at:YouTube コラボLIVE（本人Twitterネームより）
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180625T064500
@@ -4787,9 +4799,9 @@ DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1010801690935607297
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T180000
-SUMMARY:■勇気ちひろ at:YouTube
-URL:https://twitter.com/nijisanji_app/status/1010773748687912961
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1010773748687912961
+SUMMARY:■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画
+URL:https://twitter.com/hangame_hirota/status/1006793294423175168
+DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T190000
@@ -4798,16 +4810,10 @@ URL:https://twitter.com/AliceMononobe/status/1010490321652756480
 DESCRIPTION:https://twitter.com/AliceMononobe/status/1010490321652756480
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180624T190000
-SUMMARY:■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画
-URL:https://twitter.com/hangame_hirota/status/1006793294423175168
-DESCRIPTION:https://twitter.com/hangame_hirota/status/1006793294423175168
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180624T200000
-SUMMARY:■渋谷ハジメ at:YouTube
-URL:https://twitter.com/nijisanji_app/status/1010773748687912961
-DESCRIPTION:https://twitter.com/nijisanji_app/status/1010773748687912961
+DTSTART;TZID=Asia/Tokyo:20180624T193000
+SUMMARY:■静凛 at:YouTube PUBG
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T200000
