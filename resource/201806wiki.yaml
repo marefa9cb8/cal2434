@@ -36,6 +36,13 @@
   uri: https://twitter.com/Kanae_2434/status/1010934009419841536
 - date: 2018-06-25
   time:
+    hour: 5
+    min: 30
+  title: "■渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1010983717701992449
+- date: 2018-06-25
+  time:
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！ 鮭とご飯"
@@ -176,7 +183,7 @@
   time:
     hour: 23
     min: 0
-  title: "■社築 at:YouTube 本人Twitterネームより"
+  title: "■社築 at:YouTube"
   end_time: 
   uri: https://twitter.com/Nijisanji_Seeds/status/1010773992620216321
 - date: 2018-06-24
@@ -186,6 +193,11 @@
   title: "■静凛 at:YouTube FF14"
   end_time: 
   uri: 
+- date: 2018-06-24
+  time: 
+  title: "？時？分～ ■名伽尾アズマ at:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/azuma_dazo/status/1010866830024429570
 - date: 2018-06-24
   time: 
   title: "※樋口楓の定期配信（お絵かきの森）はお休み（6/15の配信で告知）"

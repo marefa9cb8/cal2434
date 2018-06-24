@@ -4732,6 +4732,12 @@ URL:https://twitter.com/Kanae_2434/status/1010934009419841536
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1010934009419841536
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180625T053000
+SUMMARY:■渋谷ハジメ at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/1010983717701992449
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1010983717701992449
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180625T064500
 SUMMARY:■伏見ガク at:YouTube おはガク！ 鮭とご飯
 URL:https://twitter.com/gaku_fushimi/status/1010443195249934336
@@ -4853,7 +4859,7 @@ DESCRIPTION:https://twitter.com/Kanae_2434/status/1010870714629419009
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T230000
-SUMMARY:■社築 at:YouTube 本人Twitterネームより
+SUMMARY:■社築 at:YouTube
 URL:https://twitter.com/Nijisanji_Seeds/status/1010773992620216321
 DESCRIPTION:https://twitter.com/Nijisanji_Seeds/status/1010773992620216321
 END:VEVENT
@@ -4862,6 +4868,12 @@ DTSTART;TZID=Asia/Tokyo:20180624T235000
 SUMMARY:■静凛 at:YouTube FF14
 URL:
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624
+SUMMARY:？時？分～ ■名伽尾アズマ at:Mirrativ ゲリラ配信
+URL:https://twitter.com/azuma_dazo/status/1010866830024429570
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1010866830024429570
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624
