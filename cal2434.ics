@@ -4792,6 +4792,12 @@ URL:https://twitter.com/___Dola/status/1010199033397178368
 DESCRIPTION:https://twitter.com/___Dola/status/1010199033397178368
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180624T203000
+SUMMARY:■える at:YouTube テリアサーガ
+URL:https://twitter.com/Elu_World/status/1010750183267680257
+DESCRIPTION:https://twitter.com/Elu_World/status/1010750183267680257
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T220000
 SUMMARY:■海夜叉神 at:YouTube チャンネル登録者1万人達成記念ライブ
 URL:https://twitter.com/god_yaksa23/status/1010716609311195136
