@@ -83,9 +83,30 @@
   uri: https://twitter.com/udukikohh/status/1010462513031335937
 - date: 2018-06-24
   time:
+    hour: 16
+    min: 0
+  title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010773748687912961
+- date: 2018-06-24
+  time:
+    hour: 17
+    min: 27
+  title: "■出雲霞 at:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/ikasumi_zzz/status/1010801690935607297
+- date: 2018-06-24
+  time:
+    hour: 18
+    min: 0
+  title: "■勇気ちひろ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010773748687912961
+- date: 2018-06-24
+  time:
     hour: 19
     min: 0
-  title: "■物述有栖 at:? テリアサーガ"
+  title: "■物述有栖 at:YouTube テリアサーガ"
   end_time: 
   uri: https://twitter.com/AliceMononobe/status/1010490321652756480
 - date: 2018-06-24
@@ -95,6 +116,13 @@
   title: "■■1期生2期生から12名 おえかきの森(ハンゲーム)とのタイアップ企画"
   end_time: 
   uri: https://twitter.com/hangame_hirota/status/1006793294423175168
+- date: 2018-06-24
+  time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1010773748687912961
 - date: 2018-06-24
   time:
     hour: 20
@@ -122,7 +150,7 @@
     min: 0
   title: "■社築 at:YouTube 本人Twitterネームより"
   end_time: 
-  uri: https://twitter.com/846kizuQ
+  uri: https://twitter.com/Nijisanji_Seeds/status/1010773992620216321
 - date: 2018-06-24
   time: 
   title: "？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)"
