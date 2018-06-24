@@ -34,6 +34,13 @@
   title: "■伏見ガク at:YouTube おはガク！ 鮭とご飯"
   end_time: 
   uri: https://twitter.com/gaku_fushimi/status/1010443195249934336
+- date: 2018-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "■家長むぎ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/ienaga_mugi23/status/1010882285355192320
 - date: 2018-06-24
   time:
     hour: 0
@@ -153,14 +160,23 @@
   uri: https://twitter.com/god_yaksa23/status/1010716609311195136
 - date: 2018-06-24
   time:
+    hour: 22
+    min: 2
+  title: "■叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1010870714629419009
+- date: 2018-06-24
+  time:
     hour: 23
     min: 0
   title: "■社築 at:YouTube 本人Twitterネームより"
   end_time: 
   uri: https://twitter.com/Nijisanji_Seeds/status/1010773992620216321
 - date: 2018-06-24
-  time: 
-  title: "？時？分～(時間未定) ■剣持刀也 at:? (6/16の配信で告知)"
+  time:
+    hour: 23
+    min: 50
+  title: "■静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-06-24
