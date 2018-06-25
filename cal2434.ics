@@ -4720,6 +4720,12 @@ URL:https://twitter.com/KT_seeds/status/1010834702360502272
 DESCRIPTION:https://twitter.com/KT_seeds/status/1010834702360502272
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T025900
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1011307886289477632
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1011307886289477632
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T200000
 SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:? 感想会
 URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
