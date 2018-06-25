@@ -57,23 +57,30 @@
   uri: https://twitter.com/nijisanji_app/status/1011140667936915457
 - date: 2018-06-25
   time:
+    hour: 20
+    min: 41
+  title: "?～ ■■叶＆渋谷ハル at:YouTube PUBG(Vtuber最強決定戦！運営陣コラボ)"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1011212704642527233
+- date: 2018-06-25
+  time:
     hour: 21
     min: 0
-  title: "■海夜叉神 at:YouTube"
+  title: "■海夜叉神 at:YouTube お悩み相談"
   end_time: 
   uri: https://twitter.com/god_yaksa23/status/1011154926259470336
 - date: 2018-06-25
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube 歌"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011140667936915457
 - date: 2018-06-25
   time:
     hour: 22
     min: 0
-  title: "■家長むぎ at:YouTube"
+  title: "■家長むぎ at:YouTube Efframai -エフレメイ-・お知らせ・歌"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1010882285355192320
 - date: 2018-06-25
@@ -87,7 +94,7 @@
   time:
     hour: 22
     min: 30
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube Far Cry 5"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011140667936915457
 - date: 2018-06-25
