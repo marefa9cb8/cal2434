@@ -4744,6 +4744,12 @@ URL:https://twitter.com/gaku_fushimi/status/1010443195249934336
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/1010443195249934336
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180625T074900
+SUMMARY:■渋谷ハジメ at:YouTube PUBG
+URL:https://twitter.com/sibuya_hajime/status/1011018665460838400
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1011018665460838400
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180625T220000
 SUMMARY:■家長むぎ at:YouTube
 URL:https://twitter.com/ienaga_mugi23/status/1010882285355192320
