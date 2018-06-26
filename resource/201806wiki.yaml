@@ -22,11 +22,18 @@
   uri: https://twitter.com/KT_seeds/status/1010834702360502272
 - date: 2018-06-26
   time:
-    hour: 2
-    min: 59
-  title: "■渋谷ハジメ at:YouTube"
+    hour: 3
+    min: 0
+  title: "■渋谷ハジメ at:YouTube Steam巡り"
   end_time: 
   uri: https://twitter.com/sibuya_hajime/status/1011307886289477632
+- date: 2018-06-26
+  time:
+    hour: 6
+    min: 30
+  title: "■叶 at:YouTube TABG,PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1011360989122457600
 - date: 2018-06-26
   time:
     hour: 20
