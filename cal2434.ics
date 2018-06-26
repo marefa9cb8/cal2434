@@ -4732,6 +4732,12 @@ URL:https://twitter.com/Kanae_2434/status/1011360989122457600
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1011360989122457600
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T082000
+SUMMARY:■■叶＆ふぇありす at:YouTube Realm Royale
+URL:https://twitter.com/Kanae_2434/status/1011389030959759360
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1011389030959759360
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T200000
 SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:? 感想会
 URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
@@ -4820,6 +4826,12 @@ DTSTART;TZID=Asia/Tokyo:20180625T230000
 SUMMARY:■緑仙 at:Mirrativ
 URL:https://twitter.com/Nijisanji_Seeds/status/1011140832433328128
 DESCRIPTION:https://twitter.com/Nijisanji_Seeds/status/1011140832433328128
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180625T231000
+SUMMARY:■海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1011250395820146688
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1011250395820146688
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180624T000000
