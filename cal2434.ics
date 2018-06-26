@@ -4744,10 +4744,22 @@ URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009445950606139392
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T220000
+SUMMARY:■海夜叉神 at:YouTube
+URL:https://twitter.com/god_yaksa23/status/1011479905219969024
+DESCRIPTION:https://twitter.com/god_yaksa23/status/1011479905219969024
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T230000
 SUMMARY:■社築 at:YouTube
 URL:https://twitter.com/846kizuQ/status/1011268063830740999
 DESCRIPTION:https://twitter.com/846kizuQ/status/1011268063830740999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626
+SUMMARY:深夜 ■シスター・クレア at:Mirrativ
+URL:https://twitter.com/___Dola/status/1011526257429770241
+DESCRIPTION:https://twitter.com/___Dola/status/1011526257429770241
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180625T024800
