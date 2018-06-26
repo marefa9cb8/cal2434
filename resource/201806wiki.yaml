@@ -1,6 +1,22 @@
 ---
 - date: 2018-06-27
   time:
+    hour: 13
+    min: 0
+  title: "の間) ■静凛 at:? UNDERTALE"
+  end_time:
+    hour: 15
+    min: 0
+  uri: https://twitter.com/ShizuRin23/status/1011568840373780481
+- date: 2018-06-27
+  time:
+    hour: 20
+    min: 30
+  title: "■家長むぎ at:YouTube チャンネル登録者6万人記念 本人Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-06-27
+  time:
     hour: 21
     min: 30
   title: "■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル（6/21の配信で言及） ワードウルフ予習"
@@ -20,6 +36,13 @@
   title: "■轟京子 at:YouTube"
   end_time: 
   uri: https://twitter.com/KT_seeds/status/1010834702360502272
+- date: 2018-06-27
+  time:
+    hour: 23
+    min: 0
+  title: "■物述有栖 at:?  本人Twitterネームより"
+  end_time: 
+  uri: 
 - date: 2018-06-27
   time: 
   title: "■鈴鹿詩子 at:?"
@@ -71,7 +94,7 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011536618711203840
 - date: 2018-06-26
@@ -84,22 +107,31 @@
 - date: 2018-06-26
   time:
     hour: 22
-    min: 30
-  title: "■静凛 at:YouTube"
+    min: 41
+  title: "■静凛 at:YouTube FF14"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011536618711203840
 - date: 2018-06-26
   time:
     hour: 23
     min: 0
-  title: "■社築 at:YouTubea 質問回答"
+  title: "■社築 at:YouTube 質問回答"
   end_time: 
   uri: https://twitter.com/846kizuQ/status/1011268063830740999
 - date: 2018-06-26
-  time: 
-  title: "深夜 ■シスター・クレア at:Mirrativ"
+  time:
+    hour: 23
+    min: 7
+  title: "■シスター・クレア at:Mirrativ"
   end_time: 
   uri: https://twitter.com/___Dola/status/1011526257429770241
+- date: 2018-06-26
+  time:
+    hour: 23
+    min: 38
+  title: "■■叶＆ふぇありす at:YouTube Realm Royale"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1011620071884509184
 - date: 2018-06-25
   time:
     hour: 2
