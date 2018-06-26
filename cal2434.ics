@@ -4702,10 +4702,34 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T000500
+SUMMARY:■シスター・クレア at:Mirrativ
+URL:https://twitter.com/SisterCleaire/status/1011626481296871424
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1011626481296871424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T014500
+SUMMARY:■シスター・クレア at:Mirrativ
+URL:https://twitter.com/SisterCleaire/status/1011651622630449152
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1011651622630449152
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T020000
-SUMMARY:■鈴鹿詩子 at:YouTube
+SUMMARY:■鈴鹿詩子 at:YouTube 雑談
 URL:https://twitter.com/suzukautako/status/1011653470800113664
 DESCRIPTION:https://twitter.com/suzukautako/status/1011653470800113664
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T035500
+SUMMARY:■渋谷ハジメ at:YouTube
+URL:https://twitter.com/sibuya_hajime/status/1011684266919378944
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1011684266919378944
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T040000
+SUMMARY:■静凛 at:YouTube
+URL:
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T130000
@@ -4716,15 +4740,15 @@ DESCRIPTION:https://twitter.com/ShizuRin23/status/1011568840373780481
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T203000
-SUMMARY:■家長むぎ at:YouTube チャンネル登録者6万人記念 本人Twitterネームより
-URL:
-DESCRIPTION:
+SUMMARY:■家長むぎ at:YouTube チャンネル登録者6万人記念
+URL:https://twitter.com/ienaga_mugi23/status/1011706210796441600
+DESCRIPTION:https://twitter.com/ienaga_mugi23/status/1011706210796441600
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T213000
-SUMMARY:■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル（6/21の配信で言及） ワードウルフ予習
-URL:
-DESCRIPTION:
+SUMMARY:■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル ワードウルフ予習（視聴者参加型 8人）
+URL:http://sympathy.world/our-mobile-apps-jp/
+DESCRIPTION:http://sympathy.world/our-mobile-apps-jp/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T223000

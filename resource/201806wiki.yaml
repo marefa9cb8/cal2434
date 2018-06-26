@@ -1,11 +1,39 @@
 ---
 - date: 2018-06-27
   time:
+    hour: 0
+    min: 5
+  title: "■シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1011626481296871424
+- date: 2018-06-27
+  time:
+    hour: 1
+    min: 45
+  title: "■シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/SisterCleaire/status/1011651622630449152
+- date: 2018-06-27
+  time:
     hour: 2
     min: 0
-  title: "■鈴鹿詩子 at:YouTube"
+  title: "■鈴鹿詩子 at:YouTube 雑談"
   end_time: 
   uri: https://twitter.com/suzukautako/status/1011653470800113664
+- date: 2018-06-27
+  time:
+    hour: 3
+    min: 55
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1011684266919378944
+- date: 2018-06-27
+  time:
+    hour: 4
+    min: 0
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-06-27
   time:
     hour: 13
@@ -19,16 +47,16 @@
   time:
     hour: 20
     min: 30
-  title: "■家長むぎ at:YouTube チャンネル登録者6万人記念 本人Twitterネームより"
+  title: "■家長むぎ at:YouTube チャンネル登録者6万人記念"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ienaga_mugi23/status/1011706210796441600
 - date: 2018-06-27
   time:
     hour: 21
     min: 30
-  title: "■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル（6/21の配信で言及） ワードウルフ予習"
+  title: "■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル ワードウルフ予習（視聴者参加型 8人）"
   end_time: 
-  uri: 
+  uri: http://sympathy.world/our-mobile-apps-jp/
 - date: 2018-06-27
   time:
     hour: 22
