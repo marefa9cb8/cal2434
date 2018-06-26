@@ -4720,6 +4720,12 @@ URL:https://twitter.com/KT_seeds/status/1010834702360502272
 DESCRIPTION:https://twitter.com/KT_seeds/status/1010834702360502272
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627
+SUMMARY:■鈴鹿詩子 at:?
+URL:https://twitter.com/suzukautako/status/1011544944325025794
+DESCRIPTION:https://twitter.com/suzukautako/status/1011544944325025794
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T030000
 SUMMARY:■渋谷ハジメ at:YouTube Steam巡り
 URL:https://twitter.com/sibuya_hajime/status/1011307886289477632
@@ -4738,20 +4744,44 @@ URL:https://twitter.com/Kanae_2434/status/1011389030959759360
 DESCRIPTION:https://twitter.com/Kanae_2434/status/1011389030959759360
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T164000
+SUMMARY:■静凛 at:OPENREC.tv PUBG
+URL:https://twitter.com/ShizuRin23/status/1011489528962428928
+DESCRIPTION:https://twitter.com/ShizuRin23/status/1011489528962428928
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T200000
-SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:? 感想会
+SUMMARY:■■渋谷ハジメ＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル
 URL:https://twitter.com/sibuya_hajime/status/1009445950606139392
 DESCRIPTION:https://twitter.com/sibuya_hajime/status/1009445950606139392
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T200000
+SUMMARY:■勇気ちひろ at:YouTube 夜廻
+URL:https://twitter.com/nijisanji_app/status/1011536618711203840
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011536618711203840
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T213000
+SUMMARY:■鈴谷アキ at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1011536618711203840
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011536618711203840
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T220000
-SUMMARY:■海夜叉神 at:YouTube
+SUMMARY:■海夜叉神 at:YouTube 東方紅魔郷
 URL:https://twitter.com/god_yaksa23/status/1011479905219969024
 DESCRIPTION:https://twitter.com/god_yaksa23/status/1011479905219969024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180626T223000
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1011536618711203840
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011536618711203840
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T230000
-SUMMARY:■社築 at:YouTube
+SUMMARY:■社築 at:YouTubea 質問回答
 URL:https://twitter.com/846kizuQ/status/1011268063830740999
 DESCRIPTION:https://twitter.com/846kizuQ/status/1011268063830740999
 END:VEVENT
