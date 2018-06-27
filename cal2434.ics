@@ -4702,6 +4702,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180628T000000
+SUMMARY:■剣持刀也 at:Mirrativ
+URL:https://twitter.com/nijisanji_app/status/1011866925293494272
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180628T210000
+SUMMARY:■静凛＆？ at:? 本人Twitterネームより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T000500
 SUMMARY:■シスター・クレア at:Mirrativ
 URL:https://twitter.com/SisterCleaire/status/1011626481296871424
@@ -4738,6 +4750,18 @@ URL:https://twitter.com/ShizuRin23/status/1011568840373780481
 DESCRIPTION:https://twitter.com/ShizuRin23/status/1011568840373780481
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T154500
+SUMMARY:■シスター・クレア at:Mirrativ ゲリラ配信
+URL:https://twitter.com/SisterCleaire/status/1011863224130498562
+DESCRIPTION:https://twitter.com/SisterCleaire/status/1011863224130498562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T190000
+SUMMARY:■静凛 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1011866925293494272
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T203000
 SUMMARY:■家長むぎ at:YouTube チャンネル登録者6万人記念
 URL:https://twitter.com/ienaga_mugi23/status/1011706210796441600
@@ -4752,14 +4776,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T213000
 SUMMARY:■アキでろ(鈴谷アキ＆樋口楓) at:鈴谷アキのYouTubeチャンネル
-URL:https://twitter.com/aki_suzuya/status/1011605138883006464
-DESCRIPTION:https://twitter.com/aki_suzuya/status/1011605138883006464
+URL:https://twitter.com/nijisanji_app/status/1011866925293494272
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T223000
-SUMMARY:■鈴木勝 at:YouTube 本人Twitterネームより
-URL:
-DESCRIPTION:
+SUMMARY:■鈴木勝 at:YouTube
+URL:https://twitter.com/Nijisanji_Seeds/status/1011867001466179584
+DESCRIPTION:https://twitter.com/Nijisanji_Seeds/status/1011867001466179584
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T230000
@@ -4769,15 +4793,9 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1010834702360502272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T230000
-SUMMARY:■物述有栖 at:?  本人Twitterネームより
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180627
-SUMMARY:■鈴鹿詩子 at:?
-URL:https://twitter.com/suzukautako/status/1011544944325025794
-DESCRIPTION:https://twitter.com/suzukautako/status/1011544944325025794
+SUMMARY:■物述有栖 at:?
+URL:https://twitter.com/nijisanji_app/status/1011866925293494272
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180626T030000
