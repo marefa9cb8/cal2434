@@ -4702,6 +4702,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180629T210000
+SUMMARY:■叶 at:OPENREC.tv 金曜のPUBGPARK
+URL:https://twitter.com/OPENREC/status/1011932504356356096
+DESCRIPTION:https://twitter.com/OPENREC/status/1011932504356356096
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180628T000000
 SUMMARY:■剣持刀也 at:Mirrativ
 URL:https://twitter.com/nijisanji_app/status/1011866925293494272
@@ -4757,9 +4763,15 @@ DESCRIPTION:https://twitter.com/SisterCleaire/status/1011863224130498562
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T190000
-SUMMARY:■静凛 at:YouTube
+SUMMARY:■静凛 at:YouTube Dead by Daylight
 URL:https://twitter.com/nijisanji_app/status/1011866925293494272
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T200000
+SUMMARY:■渋谷ハジメ at:YouTube ニーア オートマタ
+URL:https://twitter.com/sibuya_hajime/status/1011919583425515520
+DESCRIPTION:https://twitter.com/sibuya_hajime/status/1011919583425515520
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T203000
@@ -4793,7 +4805,13 @@ DESCRIPTION:https://twitter.com/KT_seeds/status/1010834702360502272
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T230000
-SUMMARY:■物述有栖 at:?
+SUMMARY:■物述有栖 at:YouTube
+URL:https://twitter.com/nijisanji_app/status/1011866925293494272
+DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T240000
+SUMMARY:■剣持刀也 at:Mirrativ
 URL:https://twitter.com/nijisanji_app/status/1011866925293494272
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
 END:VEVENT

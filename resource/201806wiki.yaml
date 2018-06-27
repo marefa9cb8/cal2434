@@ -1,4 +1,11 @@
 ---
+- date: 2018-06-29
+  time:
+    hour: 21
+    min: 0
+  title: "■叶 at:OPENREC.tv 金曜のPUBGPARK"
+  end_time: 
+  uri: https://twitter.com/OPENREC/status/1011932504356356096
 - date: 2018-06-28
   time:
     hour: 0
@@ -66,9 +73,16 @@
   time:
     hour: 19
     min: 0
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube Dead by Daylight"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011866925293494272
+- date: 2018-06-27
+  time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:YouTube ニーア オートマタ"
+  end_time: 
+  uri: https://twitter.com/sibuya_hajime/status/1011919583425515520
 - date: 2018-06-27
   time:
     hour: 20
@@ -108,7 +122,14 @@
   time:
     hour: 23
     min: 0
-  title: "■物述有栖 at:?"
+  title: "■物述有栖 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/nijisanji_app/status/1011866925293494272
+- date: 2018-06-27
+  time:
+    hour: 24
+    min: 0
+  title: "■剣持刀也 at:Mirrativ"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011866925293494272
 - date: 2018-06-26
