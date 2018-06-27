@@ -33,15 +33,13 @@
     min: 0
   title: "■静凛 at:YouTube"
   end_time: 
-  uri: 
+  uri: https://twitter.com/ShizuRin23/status/1011791773222473728
 - date: 2018-06-27
   time:
     hour: 13
-    min: 0
-  title: "の間) ■静凛 at:? UNDERTALE"
-  end_time:
-    hour: 15
-    min: 0
+    min: 15
+  title: "■静凛 at:YouTube UNDERTALE"
+  end_time: 
   uri: https://twitter.com/ShizuRin23/status/1011568840373780481
 - date: 2018-06-27
   time:
@@ -50,6 +48,13 @@
   title: "■家長むぎ at:YouTube チャンネル登録者6万人記念"
   end_time: 
   uri: https://twitter.com/ienaga_mugi23/status/1011706210796441600
+- date: 2018-06-27
+  time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:YouTube 東方文花帖"
+  end_time: 
+  uri: https://twitter.com/god_yaksa23/status/1011842983107313665
 - date: 2018-06-27
   time:
     hour: 21
@@ -164,7 +169,7 @@
   time:
     hour: 23
     min: 38
-  title: "■■叶＆ふぇありす at:YouTube Realm Royale"
+  title: "■■叶＆ふぇありす at:YouTube Realm Royale,PUBG,ロケットリーグ"
   end_time: 
   uri: https://twitter.com/Kanae_2434/status/1011620071884509184
 - date: 2018-06-25
