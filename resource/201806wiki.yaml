@@ -1,4 +1,18 @@
 ---
+- date: 2018-06-30
+  time:
+    hour: 21
+    min: 0
+  title: "■おなえどし組(出雲霞＆鈴木勝＆卯月コウ)コラボ at:卯月コウのYouTubeチャンネル"
+  end_time: 
+  uri: https://twitter.com/udukikohh/status/1011978362716241922
+- date: 2018-06-29
+  time:
+    hour: 6
+    min: 45
+  title: "■伏見ガク at:YouTube おはガク！ カレー"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/1011937570215755776
 - date: 2018-06-29
   time:
     hour: 21
@@ -16,10 +30,10 @@
 - date: 2018-06-28
   time:
     hour: 21
-    min: 0
-  title: "■静凛＆？ at:? 本人Twitterネームより"
+    min: 30
+  title: "■■ときのそら＆静凛＆ロボ子＆樋口楓 at:ときのそらのOPENREC.tv"
   end_time: 
-  uri: 
+  uri: https://twitter.com/tokino_sora/status/1011943126125010944
 - date: 2018-06-27
   time:
     hour: 0
@@ -107,6 +121,13 @@
 - date: 2018-06-27
   time:
     hour: 22
+    min: 0
+  title: "■名伽尾アズマ at:Mirrativ"
+  end_time: 
+  uri: https://twitter.com/azuma_dazo/status/1011957089239875584
+- date: 2018-06-27
+  time:
+    hour: 22
     min: 30
   title: "■鈴木勝 at:YouTube"
   end_time: 
@@ -125,6 +146,13 @@
   title: "■物述有栖 at:YouTube"
   end_time: 
   uri: https://twitter.com/nijisanji_app/status/1011866925293494272
+- date: 2018-06-27
+  time:
+    hour: 23
+    min: 5
+  title: "■叶 at:YouTube PUBG"
+  end_time: 
+  uri: https://twitter.com/Kanae_2434/status/1011974183096479745
 - date: 2018-06-27
   time:
     hour: 24

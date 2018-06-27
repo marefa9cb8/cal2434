@@ -4702,6 +4702,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180630T210000
+SUMMARY:■おなえどし組(出雲霞＆鈴木勝＆卯月コウ)コラボ at:卯月コウのYouTubeチャンネル
+URL:https://twitter.com/udukikohh/status/1011978362716241922
+DESCRIPTION:https://twitter.com/udukikohh/status/1011978362716241922
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180629T064500
+SUMMARY:■伏見ガク at:YouTube おはガク！ カレー
+URL:https://twitter.com/gaku_fushimi/status/1011937570215755776
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1011937570215755776
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180629T210000
 SUMMARY:■叶 at:OPENREC.tv 金曜のPUBGPARK
 URL:https://twitter.com/OPENREC/status/1011932504356356096
@@ -4714,10 +4726,10 @@ URL:https://twitter.com/nijisanji_app/status/1011866925293494272
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180628T210000
-SUMMARY:■静凛＆？ at:? 本人Twitterネームより
-URL:
-DESCRIPTION:
+DTSTART;TZID=Asia/Tokyo:20180628T213000
+SUMMARY:■■ときのそら＆静凛＆ロボ子＆樋口楓 at:ときのそらのOPENREC.tv
+URL:https://twitter.com/tokino_sora/status/1011943126125010944
+DESCRIPTION:https://twitter.com/tokino_sora/status/1011943126125010944
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T000500
@@ -4792,6 +4804,12 @@ URL:https://twitter.com/nijisanji_app/status/1011866925293494272
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T220000
+SUMMARY:■名伽尾アズマ at:Mirrativ
+URL:https://twitter.com/azuma_dazo/status/1011957089239875584
+DESCRIPTION:https://twitter.com/azuma_dazo/status/1011957089239875584
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T223000
 SUMMARY:■鈴木勝 at:YouTube
 URL:https://twitter.com/Nijisanji_Seeds/status/1011867001466179584
@@ -4808,6 +4826,12 @@ DTSTART;TZID=Asia/Tokyo:20180627T230000
 SUMMARY:■物述有栖 at:YouTube
 URL:https://twitter.com/nijisanji_app/status/1011866925293494272
 DESCRIPTION:https://twitter.com/nijisanji_app/status/1011866925293494272
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180627T230500
+SUMMARY:■叶 at:YouTube PUBG
+URL:https://twitter.com/Kanae_2434/status/1011974183096479745
+DESCRIPTION:https://twitter.com/Kanae_2434/status/1011974183096479745
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180627T240000
