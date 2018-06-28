@@ -4702,6 +4702,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180630T120000
+SUMMARY:■轟京子 at:YouTube
+URL:https://twitter.com/KT_seeds/status/1012293181784895488
+DESCRIPTION:https://twitter.com/KT_seeds/status/1012293181784895488
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180630T150000
 SUMMARY:■安土桃 at:YouTube
 URL:https://twitter.com/momo_aduchi/status/1012005992958050304
@@ -4787,13 +4793,19 @@ DESCRIPTION:https://twitter.com/KazakiMorinaka/status/1012220530596823040
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180628T190000
-SUMMARY:■勇気ちひろ at:Mirrativ
+SUMMARY:19時20分～ ■勇気ちひろ at:Mirrativ 時間変更
 URL:https://twitter.com/Chihiro_yuki23/status/1012228650018586624
 DESCRIPTION:https://twitter.com/Chihiro_yuki23/status/1012228650018586624
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180628T194800
+SUMMARY:■夕陽リリ at:Mirrativ ゲリラ配信
+URL:https://twitter.com/Yuuhi_Riri/status/1012286657540677632
+DESCRIPTION:https://twitter.com/Yuuhi_Riri/status/1012286657540677632
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180628T200000
-SUMMARY:■卯月コウ at:?
+SUMMARY:■卯月コウ at:YouTube
 URL:https://twitter.com/udukikohh/status/1012244367480766464
 DESCRIPTION:https://twitter.com/udukikohh/status/1012244367480766464
 END:VEVENT
@@ -4814,6 +4826,12 @@ DTSTART;TZID=Asia/Tokyo:20180628T220000
 SUMMARY:■春崎エアル at:YouTube
 URL:https://twitter.com/harusakiair2434/status/1012245306702876673
 DESCRIPTION:https://twitter.com/harusakiair2434/status/1012245306702876673
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180628T223000
+SUMMARY:■伏見ガク at:?
+URL:https://twitter.com/gaku_fushimi/status/1012290260066131968
+DESCRIPTION:https://twitter.com/gaku_fushimi/status/1012290260066131968
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180628T230000

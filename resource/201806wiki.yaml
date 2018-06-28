@@ -1,6 +1,13 @@
 ---
 - date: 2018-06-30
   time:
+    hour: 12
+    min: 0
+  title: "■轟京子 at:YouTube"
+  end_time: 
+  uri: https://twitter.com/KT_seeds/status/1012293181784895488
+- date: 2018-06-30
+  time:
     hour: 15
     min: 0
   title: "■安土桃 at:YouTube"
@@ -101,14 +108,21 @@
   time:
     hour: 19
     min: 0
-  title: "■勇気ちひろ at:Mirrativ"
+  title: 19時20分～ ■勇気ちひろ at:Mirrativ 時間変更
   end_time: 
   uri: https://twitter.com/Chihiro_yuki23/status/1012228650018586624
 - date: 2018-06-28
   time:
+    hour: 19
+    min: 48
+  title: "■夕陽リリ at:Mirrativ ゲリラ配信"
+  end_time: 
+  uri: https://twitter.com/Yuuhi_Riri/status/1012286657540677632
+- date: 2018-06-28
+  time:
     hour: 20
     min: 0
-  title: "■卯月コウ at:?"
+  title: "■卯月コウ at:YouTube"
   end_time: 
   uri: https://twitter.com/udukikohh/status/1012244367480766464
 - date: 2018-06-28
@@ -132,6 +146,13 @@
   title: "■春崎エアル at:YouTube"
   end_time: 
   uri: https://twitter.com/harusakiair2434/status/1012245306702876673
+- date: 2018-06-28
+  time:
+    hour: 22
+    min: 30
+  title: "■伏見ガク at:?"
+  end_time: 
+  uri: https://twitter.com/gaku_fushimi/status/1012290260066131968
 - date: 2018-06-28
   time:
     hour: 23
