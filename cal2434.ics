@@ -4720,6 +4720,12 @@ URL:https://twitter.com/gaku_fushimi/status/1011937570215755776
 DESCRIPTION:https://twitter.com/gaku_fushimi/status/1011937570215755776
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180629T200000
+SUMMARY:■森中花咲 at:YouTube 10才が教える！モテ男講座っ☆
+URL:https://twitter.com/kazakimorinaka/status/1012136853242241024
+DESCRIPTION:https://twitter.com/kazakimorinaka/status/1012136853242241024
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180629T210000
 SUMMARY:■叶 at:PUBG PARKのOPENREC.tv 金曜のPUBGPARK
 URL:https://twitter.com/OPENREC/status/1011932504356356096
