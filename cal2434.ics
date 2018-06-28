@@ -4768,6 +4768,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180628T140500
+SUMMARY:辺り～ ■出雲霞 at:YouTube テスト配信
+URL:https://twitter.com/ikasumi_zzz/status/1012199002610122752
+DESCRIPTION:https://twitter.com/ikasumi_zzz/status/1012199002610122752
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180628T213000
 SUMMARY:■■ときのそら＆静凛＆ロボ子＆樋口楓 at:ときのそらのOPENREC.tv
 URL:https://twitter.com/tokino_sora/status/1011943126125010944
