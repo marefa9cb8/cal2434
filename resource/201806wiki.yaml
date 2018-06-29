@@ -1,6 +1,13 @@
 ---
 - date: 2018-06-30
   time:
+    hour: 10
+    min: 30
+  title: "■八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
     hour: 12
     min: 0
   title: "■轟京子 at:YouTube 食べ物について"
@@ -50,6 +57,13 @@
   uri: 
 - date: 2018-06-29
   time:
+    hour: 17
+    min: 30
+  title: "■ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-29
+  time:
     hour: 20
     min: 0
   title: "■森中花咲 at:YouTube 10才が教える！モテ男講座っ☆"
@@ -71,6 +85,13 @@
   uri: 
 - date: 2018-06-29
   time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-29
+  time:
     hour: 22
     min: 0
   title: "■モイラ at:YouTube もいらじ"
@@ -78,9 +99,16 @@
   uri: 
 - date: 2018-06-29
   time:
+    hour: 22
+    min: 30
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-29
+  time:
     hour: 23
     min: 0
-  title: "■海夜叉神 at:YouTube? 雑談・お悩み相談"
+  title: "■海夜叉神 at:YouTube 雑談・お悩み相談"
   end_time: 
   uri: 
 - date: 2018-06-28
