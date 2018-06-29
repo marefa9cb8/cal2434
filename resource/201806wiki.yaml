@@ -1,6 +1,13 @@
 ---
 - date: 2018-06-30
   time:
+    hour: 2
+    min: 43
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
     hour: 10
     min: 30
   title: "■八朔ゆず at:Mirrativ"
@@ -129,7 +136,7 @@
   time:
     hour: 24
     min: 0
-  title: "■緑仙 at:YouTube?"
+  title: "■緑仙 at:YouTube? 中止"
   end_time: 
   uri: 
 - date: 2018-06-28
