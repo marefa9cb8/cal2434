@@ -45,7 +45,21 @@
   time:
     hour: 15
     min: 0
-  title: "■安土桃 at:YouTube PUBG"
+  title: "■安土桃 at:YouTube OVERWATCH"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
+    hour: 16
+    min: 0
+  title: "■海夜叉神 at:YouTube 東方文花帖"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
+    hour: 16
+    min: 56
+  title: "■樋口楓 at:Mirrativ ゲリラ"
   end_time: 
   uri: 
 - date: 2018-06-30
@@ -72,9 +86,23 @@
   uri: 
 - date: 2018-06-30
   time:
+    hour: 21
+    min: 0
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-06-30
+  time:
     hour: 22
     min: 0
-  title: "■物述有栖 at:?"
+  title: "■物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-06-30
