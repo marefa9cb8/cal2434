@@ -117,15 +117,22 @@
 - date: 2018-07-01
   time:
     hour: 15
-    min: 0
-  title: "■春崎エアル at:?"
+    min: 9
+  title: "■春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-01
+  time:
+    hour: 16
+    min: 30
+  title: "■出雲霞 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-01
   time:
     hour: 17
     min: 0
-  title: "■勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル"
+  title: "■勇気ちひろ＆鈴谷アキ&夕陽リリ&伏見ガク&剣持刀也&宇志海いちご"
   end_time: 
   uri: 
 - date: 2018-07-01
