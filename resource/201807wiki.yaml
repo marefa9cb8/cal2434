@@ -88,9 +88,23 @@
   uri: 
 - date: 2018-07-01
   time:
+    hour: 12
+    min: 37
+  title: "■卯月コウ at:YouTube ゲリラ雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-01
+  time:
     hour: 14
     min: 0
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube UNDERTALE"
+  end_time: 
+  uri: 
+- date: 2018-07-01
+  time:
+    hour: 14
+    min: 40
+  title: "■叶 at:YouTube バイオハザード4"
   end_time: 
   uri: 
 - date: 2018-07-01
@@ -98,6 +112,13 @@
     hour: 15
     min: 0
   title: "■卯月コウ at:YouTube Summer Pockets"
+  end_time: 
+  uri: 
+- date: 2018-07-01
+  time:
+    hour: 15
+    min: 0
+  title: "■春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-07-01
