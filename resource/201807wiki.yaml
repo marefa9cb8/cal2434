@@ -51,9 +51,23 @@
   uri: 
 - date: 2018-07-03
   time:
+    hour: 6
+    min: 30
+  title: "■夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
     hour: 20
     min: 0
   title: "■名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
+    hour: 20
+    min: 0
+  title: "■宇志海いちご at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-03
@@ -151,7 +165,7 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-07-02
@@ -172,7 +186,7 @@
   time:
     hour: 24
     min: 0
-  title: "■花畑チャイカ at:?"
+  title: "■花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-01
