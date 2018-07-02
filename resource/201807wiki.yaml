@@ -33,6 +33,13 @@
   end_time: 
   uri: 
 - date: 2018-07-06
+  time:
+    hour: 6
+    min: 45
+  title: "■伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-07-06
   time: 
   title: "？時？分～ ■JK組コラボ (6/22の配信で告知)"
   end_time: 
@@ -60,9 +67,16 @@
   uri: 
 - date: 2018-07-02
   time:
+    hour: 4
+    min: 23
+  title: "■■叶＆ふぇありす at:ふぇありすのYouTubeチャンネル ロケットリーグ,PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-02
+  time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク"
+  title: "■伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
   uri: 
 - date: 2018-07-02
