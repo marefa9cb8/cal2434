@@ -807,48 +807,52 @@
   end_time: 
   uri: 
 - date: 2018-03-13
-  time: 
-  title: 7:30～8:00 mirrativにて伏見ガク
+  time:
+    hour: 7
+    min: 30
+  title: "伏見ガク at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-13
-  time: 
-  title: 12時くらい～ 詩子お姉さん at:Mirrativ
+  time:
+    hour: 12
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-13
   time:
     hour: 19
     min: 0
-  title: "宇志海いちご at:Mirrativ"
+  title: "宇志海いちご at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-13
   time:
     hour: 20
     min: 0
-  title: "カエル(樋口楓×えるコラボ)配信 樋口楓のチャンネルにて at:YouTube"
+  title: "かえる(樋口楓&える) at:樋口楓のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-03-13
   time:
     hour: 22
     min: 0
-  title: "ハジメくんコラボ"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-13
   time:
     hour: 23
     min: 0
-  title: "モイラ様 at:YouTube"
+  title: "モイラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-13
   time:
     hour: 24
     min: 0
-  title: "剣持刀也 ※詫びミラティブ"
+  title: "剣持刀也 at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-12
@@ -862,7 +866,7 @@
   time:
     hour: 20
     min: 30
-  title: "勇気ちひろ at:YouTube"
+  title: "勇気ちひろ at:初YouTubeLive with渋谷ハジメ"
   end_time: 
   uri: 
 - date: 2018-03-12
@@ -876,7 +880,7 @@
   time:
     hour: 22
     min: 30
-  title: "家長むぎ at:Mirrativ"
+  title: "家長むぎ at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-11
