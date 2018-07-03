@@ -20,6 +20,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180713T230000
+SUMMARY:■ 花畑チャイカ＆社築＆名伽尾アズマ at:花畑チャイカのYouTubeチャンネル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180709
 SUMMARY:20時頃～ ■シスター・クレア 異世界Vtuber女神エルミナとのコラボat:女神エルミナのYouTubeチャンネル
 URL:
