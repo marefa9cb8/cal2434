@@ -58,6 +58,13 @@
   uri: 
 - date: 2018-07-04
   time:
+    hour: 0
+    min: 0
+  title: "■剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
     hour: 14
     min: 0
   title: "■家長むぎ at:YouTube"
@@ -128,9 +135,30 @@
   uri: 
 - date: 2018-07-03
   time:
+    hour: 22
+    min: 30
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
+    hour: 23
+    min: 0
+  title: "■森中花咲 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
     hour: 23
     min: 0
   title: "■鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
+    hour: 24
+    min: 0
+  title: "■剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-02
