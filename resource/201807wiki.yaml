@@ -151,21 +151,28 @@
   time:
     hour: 21
     min: 0
-  title: "■ドーラ at:YouTube"
+  title: "■ドーラ at:YouTube Left 4 Dead 2"
+  end_time: 
+  uri: 
+- date: 2018-07-03
+  time:
+    hour: 21
+    min: 19
+  title: "■■渋谷ハジメ＆渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-07-03
   time:
     hour: 22
     min: 0
-  title: "■轟京子 at:YouTube"
+  title: "■轟京子 at:YouTube 狂い月"
   end_time: 
   uri: 
 - date: 2018-07-03
   time:
     hour: 22
     min: 30
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-07-03
@@ -179,7 +186,7 @@
   time:
     hour: 23
     min: 0
-  title: "■鈴木勝 at:YouTube"
+  title: "■鈴木勝 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-03
