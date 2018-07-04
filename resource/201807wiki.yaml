@@ -109,6 +109,13 @@
   uri: 
 - date: 2018-07-05
   time:
+    hour: 21
+    min: 0
+  title: "■卯月コウ at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
     hour: 24
     min: 0
   title: "■咎人(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
@@ -153,14 +160,14 @@
   time:
     hour: 19
     min: 32
-  title: "■叶 at:YouTube"
+  title: "■叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-04
   time:
     hour: 20
     min: 30
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube Far Cry 5"
   end_time: 
   uri: 
 - date: 2018-07-04
@@ -175,6 +182,13 @@
     hour: 21
     min: 0
   title: "■渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 21
+    min: 3
+  title: "■叶 at:YouTube PREY"
   end_time: 
   uri: 
 - date: 2018-07-04
@@ -209,7 +223,7 @@
   time:
     hour: 23
     min: 0
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:OPENREC.tv Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-07-03
