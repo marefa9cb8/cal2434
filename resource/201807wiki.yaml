@@ -26,8 +26,10 @@
   end_time: 
   uri: 
 - date: 2018-07-09
-  time: 
-  title: 20時頃～ ■シスター・クレア 異世界Vtuber女神エルミナとのコラボat:女神エルミナのYouTubeチャンネル
+  time:
+    hour: 20
+    min: 0
+  title: "■■シスター・クレア＆異世界女神エルミナ at:女神エルミナのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-08
@@ -55,14 +57,14 @@
   time:
     hour: 20
     min: 0
-  title: "■■静凛「PUBG配信者杯」に出場 at:ニコニコ生放送"
+  title: "■■静凛(PUBG配信者杯) at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-07-06
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク！"
+  title: "■伏見ガク＆ゲスト：剣持刀也 at:YouTube おはガク！"
   end_time: 
   uri: 
 - date: 2018-07-06
@@ -74,7 +76,7 @@
   time:
     hour: 24
     min: 0
-  title: "■トリガー at:? 7/4剣持刀也配信内より"
+  title: "■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:? 7/4剣持刀也配信内より"
   end_time: 
   uri: 
 - date: 2018-07-05
@@ -88,14 +90,14 @@
   time:
     hour: 20
     min: 0
-  title: "■漢組radio(剣持刀也, 伏見ガク) at:剣持刀也のYouTube"
+  title: "■剣持刀也＆伏見ガク at:剣持刀也のYouTubeチャンネル 漢組radio第3回"
   end_time: 
   uri: 
 - date: 2018-07-05
   time:
     hour: 24
     min: 0
-  title: "■剣持刀也, 伏見ガク at:剣持刀也のYouTube"
+  title: "■咎人(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-04
