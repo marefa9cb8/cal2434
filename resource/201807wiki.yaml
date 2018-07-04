@@ -48,6 +48,13 @@
   uri: 
 - date: 2018-07-07
   time:
+    hour: 0
+    min: 0
+  title: "■叶 at:YouTube 誕生日配信（7/4の配信で言及）"
+  end_time: 
+  uri: 
+- date: 2018-07-07
+  time:
     hour: 19
     min: 0
   title: "■宇志海いちご at:Mirrativ"
@@ -144,9 +151,30 @@
   uri: 
 - date: 2018-07-04
   time:
+    hour: 19
+    min: 32
+  title: "■叶 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
     hour: 20
     min: 30
   title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:YouTube 海夜叉神と学ぶ戦国時代"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "■渋谷ハジメ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-04
