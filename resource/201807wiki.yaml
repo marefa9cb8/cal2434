@@ -88,6 +88,20 @@
   uri: 
 - date: 2018-07-05
   time:
+    hour: 1
+    min: 3
+  title: "■渋谷ハジメ at:YouTube バイオハザード6"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 1
+    min: 45
+  title: "■いわながCOO＆渋谷ハル at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
     hour: 14
     min: 0
   title: "■静凛 at:YouTube"
@@ -224,6 +238,20 @@
     hour: 23
     min: 0
   title: "■静凛 at:OPENREC.tv Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 23
+    min: 55
+  title: "■海夜叉神 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 23
+    min: 55
+  title: "■シスタークレア at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-03
