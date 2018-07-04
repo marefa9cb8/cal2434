@@ -102,13 +102,6 @@
   uri: 
 - date: 2018-07-04
   time:
-    hour: 0
-    min: 0
-  title: "■剣持刀也 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-07-04
-  time:
     hour: 1
     min: 2
   title: "■海夜叉神 at:YouTube PUBG"
@@ -119,6 +112,13 @@
     hour: 2
     min: 14
   title: "■渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time:
+    hour: 2
+    min: 54
+  title: "■いわながCOO at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-04
