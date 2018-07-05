@@ -71,7 +71,7 @@
   time:
     hour: 20
     min: 0
-  title: "■■静凛(PUBG配信者杯) at:ニコニコ生放送"
+  title: "■■静凛(PUBG配信者杯) at:ニコニコ生放送、本人視点OPENREC.tv"
   end_time: 
   uri: 
 - date: 2018-07-06
@@ -132,7 +132,7 @@
   time:
     hour: 14
     min: 0
-  title: "■静凛 at:YouTube"
+  title: 15分～ ■静凛 at:YouTube Undertale 時間変更
   end_time: 
   uri: 
 - date: 2018-07-05
@@ -287,6 +287,11 @@
     hour: 23
     min: 55
   title: "■海夜叉神 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-04
+  time: 
+  title: "【PUBG_2日目】にじさんじSEEDs＿海夜叉神_PUBG頑張りますっ"
   end_time: 
   uri: 
 - date: 2018-07-04
