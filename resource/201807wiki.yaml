@@ -14,8 +14,17 @@
   end_time: 
   uri: 
 - date: 2018-07-16
-  time: 
-  title: "？時？分～ ■勇気ちひろ at:? （6月24日の配信後のチャット欄にて）"
+  time:
+    hour: 21
+    min: 0
+  title: "■勇気ちひろ at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 22
+    min: 0
+  title: "■鈴木勝 at:YouTube Weather Typing 視聴者参加型タイピング対決"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -30,6 +39,29 @@
     hour: 20
     min: 0
   title: "■■シスター・クレア＆異世界女神エルミナ at:女神エルミナのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-09
+  time:
+    hour: 22
+    min: 0
+  title: "■鈴木勝 at:YouTube Home sweet Home"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time:
+    hour: 12
+    min: 15
+  title: "■渋谷ハジメ お悩み相談"
+  end_time:
+    hour: 13
+    min: 15
+  uri: 
+- date: 2018-07-08
+  time:
+    hour: 14
+    min: 30
+  title: "■文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-08
@@ -124,6 +156,13 @@
 - date: 2018-07-05
   time:
     hour: 11
+    min: 3
+  title: "■シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 11
     min: 30
   title: "■鈴鹿詩子 at:Mirrativ ゲーム配信"
   end_time: 
@@ -133,6 +172,20 @@
     hour: 14
     min: 0
   title: 15分～ ■静凛 at:YouTube Undertale 時間変更
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 17
+    min: 45
+  title: "■シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 17
+    min: 22
+  title: "■叶 at:YouTube SUMOMOXqX（すもも）さんとPUBG"
   end_time: 
   uri: 
 - date: 2018-07-05
@@ -165,6 +218,13 @@
   uri: 
 - date: 2018-07-05
   time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
     hour: 22
     min: 30
   title: "■社築 at:YouTube MAGIC ONLINE"
@@ -175,6 +235,11 @@
     hour: 24
     min: 0
   title: "■咎人(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time: 
+  title: "夜3回目予定 ■シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-07-04
