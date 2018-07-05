@@ -17,7 +17,7 @@
   time:
     hour: 21
     min: 0
-  title: "■勇気ちひろ at:?"
+  title: "■勇気ちひろ at:? おたん生日ライブ"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -38,7 +38,7 @@
   time:
     hour: 20
     min: 0
-  title: "■■シスター・クレア＆異世界女神エルミナ at:女神エルミナのYouTubeチャンネル"
+  title: "■■シスター・クレア＆異世界女神エルミナ%% at:女神エルミナのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-09
@@ -94,6 +94,15 @@
   uri: 
 - date: 2018-07-07
   time:
+    hour: 1
+    min: 0
+  title: "■■月ノ美兎が「VIRTUAL BUZZ TALK!」にゲスト出演"
+  end_time:
+    hour: 1
+    min: 5
+  uri: 
+- date: 2018-07-07
+  time:
     hour: 19
     min: 0
   title: "■宇志海いちご at:Mirrativ"
@@ -110,7 +119,7 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク＆ゲスト：剣持刀也 at:YouTube おはガク！"
+  title: "■伏見ガク＆ゲスト：剣持刀也 at:YouTube おはガク！ うどん"
   end_time: 
   uri: 
 - date: 2018-07-06
@@ -200,6 +209,13 @@
     hour: 20
     min: 0
   title: "■剣持刀也＆伏見ガク at:剣持刀也のYouTubeチャンネル 漢組radio第3回"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 20
+    min: 30
+  title: "■■渋谷ハジメ＆渋谷ハル at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-05
