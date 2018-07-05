@@ -122,6 +122,27 @@
   uri: 
 - date: 2018-07-06
   time:
+    hour: 0
+    min: 30
+  title: "■静凛 at:YouTube 作業配信"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 0
+    min: 39
+  title: "■シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 2
+    min: 9
+  title: "■■渋谷ハジメ＆ユキミお姉ちゃん at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
     hour: 6
     min: 45
   title: "■伏見ガク＆ゲスト：剣持刀也 at:YouTube おはガク！ うどん"
@@ -244,6 +265,13 @@
     hour: 21
     min: 30
   title: "■鈴谷アキ at:YouTube 140"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 22
+    min: 16
+  title: "■春崎エアル at:YouTube 告知・雑談"
   end_time: 
   uri: 
 - date: 2018-07-05
