@@ -68,7 +68,7 @@
   time:
     hour: 19
     min: 0
-  title: "■轟京子 at:?"
+  title: "■轟京子 at:YouTube 狂い月"
   end_time: 
   uri: 
 - date: 2018-07-08
@@ -83,6 +83,11 @@
     hour: 23
     min: 0
   title: "■剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time: 
+  title: "※樋口楓の定期配信（おえかきの森）はお休み　(7/5の配信にて告知)"
   end_time: 
   uri: 
 - date: 2018-07-07
@@ -123,8 +128,10 @@
   end_time: 
   uri: 
 - date: 2018-07-06
-  time: 
-  title: "？時？分～ ■JK組コラボ (6/22の配信で告知)"
+  time:
+    hour: 20
+    min: 0
+  title: "■JK組コラボ タイトー オンラインクレーンゲーム"
   end_time: 
   uri: 
 - date: 2018-07-06
@@ -222,7 +229,7 @@
   time:
     hour: 21
     min: 0
-  title: "■卯月コウ at:?"
+  title: "■卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-05
@@ -236,14 +243,36 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube 140"
   end_time: 
   uri: 
 - date: 2018-07-05
   time:
     hour: 22
     min: 30
-  title: "■社築 at:YouTube MAGIC ONLINE"
+  title: "■社築 at:YouTube MAGIC ONLINE→MTG講座＆トーク"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 22
+    min: 42
+  title: "■樋口楓 at:Mirrativ 告知等"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 23
+    min: 33
+  title: "■■叶＆あっくん大魔王＆歌衣メイカ＆天開司＆ドーセット・アカホシ＆環右金＆ケリン＆シロウケン＆万楽えね＆宇宙怪獣アンチン＆城星譲友&VIC＆ふぇありす
+    at:YouTube ロケットリーグ"
+  end_time: 
+  uri: 
+- date: 2018-07-05
+  time:
+    hour: 23
+    min: 37
+  title: "■シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-05
@@ -251,11 +280,6 @@
     hour: 24
     min: 0
   title: "■咎人(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2018-07-05
-  time: 
-  title: "夜3回目予定 ■シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-07-04
