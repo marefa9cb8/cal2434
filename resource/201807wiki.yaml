@@ -22,6 +22,15 @@
   uri: 
 - date: 2018-07-14
   time:
+    hour: 1
+    min: 0
+  title: "■■月ノ美兎が「VIRTUAL BUZZ TALK!」にゲスト出演"
+  end_time:
+    hour: 1
+    min: 5
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 22
     min: 0
   title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル"
@@ -107,8 +116,8 @@
 - date: 2018-07-07
   time:
     hour: 0
-    min: 0
-  title: "■叶 at:YouTube＆OPENREC.tv 誕生日配信（7/4の配信で言及）"
+    min: 54
+  title: "■■渋谷ハジメ＆渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-07-07
@@ -119,6 +128,20 @@
   end_time:
     hour: 1
     min: 5
+  uri: 
+- date: 2018-07-07
+  time:
+    hour: 1
+    min: 28
+  title: "■海夜叉神 at:YouTube ゲリラ PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-07
+  time:
+    hour: 1
+    min: 33
+  title: "■緑仙 at:YouTube"
+  end_time: 
   uri: 
 - date: 2018-07-07
   time:
@@ -145,7 +168,7 @@
   time:
     hour: 22
     min: 30
-  title: "■夕陽リリ at:Mirrativ おうたの配信"
+  title: "■夕陽リリ at:Mirrativ おうた"
   end_time: 
   uri: 
 - date: 2018-07-06
