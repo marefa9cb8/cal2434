@@ -134,6 +134,13 @@
   title: "■■静凛(PUBG配信者杯) at:ニコニコ生放送、本人視点OPENREC.tv"
   end_time: 
   uri: 
+- date: 2018-07-07
+  time:
+    hour: 22
+    min: 30
+  title: "■夕陽リリ at:Mirrativ おうたの配信"
+  end_time: 
+  uri: 
 - date: 2018-07-06
   time:
     hour: 0
@@ -164,9 +171,23 @@
   uri: 
 - date: 2018-07-06
   time:
+    hour: 18
+    min: 40
+  title: "■勇気ちひろ at:Mirrativ PUBGモバイル"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
     hour: 20
     min: 0
   title: "■JK組コラボ タイトー オンラインクレーンゲーム"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 20
+    min: 0
+  title: "■渋谷ハジメ at:OPENREC.tv マリオテニス エース"
   end_time: 
   uri: 
 - date: 2018-07-06
