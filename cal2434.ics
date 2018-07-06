@@ -26,6 +26,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180713T210000
+SUMMARY:■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演at:ときのそらのYouTubeチャンネル & cluster.
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180713T220000
 SUMMARY:■鈴木勝 at:YouTube Weather Typing 視聴者参加型タイピング対決
 URL:
