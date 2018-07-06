@@ -24,14 +24,14 @@
   time:
     hour: 22
     min: 0
-  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル 刀剣乱舞談義"
+  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-13
   time:
     hour: 21
     min: 0
-  title: "■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演at:ときのそらのYouTubeチャンネル & cluster."
+  title: "■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -171,9 +171,23 @@
   uri: 
 - date: 2018-07-06
   time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:? 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 22
+    min: 0
+  title: "■モイラ at:YouTube MoimoiRadio"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
     hour: 24
     min: 0
-  title: "■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:? 7/4剣持刀也配信内より"
+  title: "■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-05

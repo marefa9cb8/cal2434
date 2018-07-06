@@ -21,13 +21,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180714T220000
-SUMMARY:■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル 刀剣乱舞談義
+SUMMARY:■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180713T210000
-SUMMARY:■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演at:ときのそらのYouTubeチャンネル & cluster.
+SUMMARY:■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -148,8 +148,20 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180706T210000
+SUMMARY:■海夜叉神 at:? 雑談枠
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180706T220000
+SUMMARY:■モイラ at:YouTube MoimoiRadio
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180706T240000
-SUMMARY:■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:? 7/4剣持刀也配信内より
+SUMMARY:■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:YouTube
 URL:
 DESCRIPTION:
 END:VEVENT
