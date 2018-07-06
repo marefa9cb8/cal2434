@@ -108,7 +108,7 @@
   time:
     hour: 0
     min: 0
-  title: "■叶 at:YouTube 誕生日配信（7/4の配信で言及）"
+  title: "■叶 at:YouTube＆OPENREC.tv 誕生日配信（7/4の配信で言及）"
   end_time: 
   uri: 
 - date: 2018-07-07
@@ -132,6 +132,13 @@
     hour: 20
     min: 0
   title: "■■静凛(PUBG配信者杯) at:ニコニコ生放送、本人視点OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "■渋谷ハジメ＆鈴谷アキ at:渋谷ハジメのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-07
@@ -194,7 +201,21 @@
   time:
     hour: 21
     min: 0
-  title: "■海夜叉神 at:? 雑談枠"
+  title: "■海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 21
+    min: 4
+  title: "■叶 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 21
+    min: 45
+  title: "■叶 at:YouTube HOLLOW KNIGHT"
   end_time: 
   uri: 
 - date: 2018-07-06
@@ -206,9 +227,30 @@
   uri: 
 - date: 2018-07-06
   time:
+    hour: 22
+    min: 51
+  title: "■静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 23
+    min: 0
+  title: "■轟京子 at:Mirrativ ゲリラ マシュマロ返信・雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
+    hour: 23
+    min: 0
+  title: "■海夜叉神 at:YouTube 東方文花帖"
+  end_time: 
+  uri: 
+- date: 2018-07-06
+  time:
     hour: 24
     min: 0
-  title: "■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:YouTube"
+  title: "■トリガー(剣持刀也＆夕陽リリ＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-05
