@@ -27,6 +27,13 @@
   title: "■勇気ちひろ at:? おたん生日ライブ"
   end_time: 
   uri: 
+- date: 2018-07-15
+  time:
+    hour: 19
+    min: 0
+  title: "■轟京子 at:?"
+  end_time: 
+  uri: 
 - date: 2018-07-14
   time:
     hour: 1
@@ -110,16 +117,16 @@
   uri: 
 - date: 2018-07-08
   time:
-    hour: 19
+    hour: 21
     min: 0
-  title: "■轟京子 at:YouTube 狂い月"
+  title: "■■えるかざ(える＆森中花咲) at:森中花咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-08
   time:
-    hour: 21
+    hour: 22
     min: 0
-  title: "■■えるかざ(える＆森中花咲) at:森中花咲のYouTubeチャンネル"
+  title: "■轟京子 at:YouTube 狂い月"
   end_time: 
   uri: 
 - date: 2018-07-08
@@ -214,6 +221,11 @@
   end_time: 
   uri: 
 - date: 2018-07-07
+  time: 
+  title: 19時頃?～ ■いわながCOO at:?
+  end_time: 
+  uri: 
+- date: 2018-07-07
   time:
     hour: 20
     min: 0
@@ -224,7 +236,14 @@
   time:
     hour: 21
     min: 0
-  title: "■渋谷ハジメ＆鈴谷アキ at:渋谷ハジメのYouTubeチャンネル"
+  title: "■渋谷ハジメ＆鈴谷アキ at:渋谷ハジメのYouTubeチャンネルタイトー オンラインクレーンゲーム ※コラボ延期"
+  end_time: 
+  uri: 
+- date: 2018-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "■鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-07
@@ -237,8 +256,8 @@
 - date: 2018-07-07
   time:
     hour: 16
-    min: 0
-  title: "■■叶＆びっくりちゃん at:YouTube? ロケットリーグ"
+    min: 14
+  title: "■■叶＆びっくりちゃん at:YouTube ロケットリーグ・フォートナイト"
   end_time: 
   uri: 
 - date: 2018-07-06
