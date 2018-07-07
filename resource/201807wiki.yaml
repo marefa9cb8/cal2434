@@ -221,11 +221,6 @@
   end_time: 
   uri: 
 - date: 2018-07-07
-  time: 
-  title: 19時頃?～ ■いわながCOO at:?
-  end_time: 
-  uri: 
-- date: 2018-07-07
   time:
     hour: 20
     min: 0
@@ -244,6 +239,13 @@
     hour: 21
     min: 0
   title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "■勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-07
