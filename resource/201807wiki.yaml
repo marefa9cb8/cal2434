@@ -145,7 +145,7 @@
   time:
     hour: 12
     min: 15
-  title: "■渋谷ハジメ お悩み相談"
+  title: 14時00分～ ■渋谷ハジメ お悩み相談 時間変更
   end_time:
     hour: 13
     min: 15
@@ -168,7 +168,7 @@
   time:
     hour: 21
     min: 0
-  title: "■■燃える萌える？えるかざ生放送(える＆森中花咲) at:森中花咲のYouTubeチャンネル"
+  title: "■■燃萌える？えるかざ生放送(える＆森中花咲) at:森中花咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-08
