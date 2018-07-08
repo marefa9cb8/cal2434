@@ -94,6 +94,13 @@
   uri: 
 - date: 2018-07-09
   time:
+    hour: 14
+    min: 0
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-09
+  time:
     hour: 19
     min: 0
   title: "■宇志海いちご at:YouTube"
@@ -104,6 +111,13 @@
     hour: 22
     min: 0
   title: "■鈴木勝 at:YouTube Home sweet Home"
+  end_time: 
+  uri: 
+- date: 2018-07-09
+  time:
+    hour: 23
+    min: 0
+  title: "■花畑チャイカ at:YouTube?"
   end_time: 
   uri: 
 - date: 2018-07-09
@@ -173,9 +187,30 @@
   uri: 
 - date: 2018-07-08
   time:
+    hour: 20
+    min: 17
+  title: "■いわながCOO＆ケリン＆万楽えね＆杉ノ美兎 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time:
+    hour: 20
+    min: 22
+  title: "■海夜叉神 at:YouTube ゲリラPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time:
     hour: 21
     min: 0
   title: "■■燃萌える？えるかざ生放送(える＆森中花咲) at:森中花咲のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-08
@@ -187,9 +222,21 @@
   uri: 
 - date: 2018-07-08
   time:
+    hour: 22
+    min: 0
+  title: "■春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time:
     hour: 23
     min: 0
   title: "■剣持刀也 at:YouTube SharpnessRadio ※中止"
+  end_time: 
+  uri: 
+- date: 2018-07-08
+  time: 
+  title: "深夜？～ ■■深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube?"
   end_time: 
   uri: 
 - date: 2018-07-08
