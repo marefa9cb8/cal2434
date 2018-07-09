@@ -20,6 +20,13 @@
   title: 'VTuber最強決定戦(PUBG) at:'
   end_time: 
   uri: 
+- date: 2018-07-20
+  time:
+    hour: 20
+    min: 0
+  title: "■■第一回キズナアイ杯の予選に物述有栖と剣持刀也が参加。"
+  end_time: 
+  uri: 
 - date: 2018-07-16
   time:
     hour: 21
@@ -109,8 +116,8 @@
 - date: 2018-07-09
   time:
     hour: 14
-    min: 0
-  title: "■静凛 at:YouTube"
+    min: 50
+  title: "■静凛 at:YouTube UNDERTALE"
   end_time: 
   uri: 
 - date: 2018-07-09
