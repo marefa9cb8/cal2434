@@ -27,11 +27,21 @@
   title: "■■第一回キズナアイ杯の予選に物述有栖と剣持刀也が参加。"
   end_time: 
   uri: 
+- date: 2018-07-18
+  time: 
+  title: "？時？分～ ■える at:? (7/9の配信で告知)"
+  end_time: 
+  uri: 
 - date: 2018-07-16
   time:
     hour: 21
     min: 0
   title: "■勇気ちひろ at:? おたん生日ライブ"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time: 
+  title: "※えるの定期配信は水曜に振り替え(7/9の配信で告知)"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -45,16 +55,23 @@
   time:
     hour: 1
     min: 0
-  title: "■■月ノ美兎が「VIRTUAL BUZZ TALK!」にゲスト出演"
+  title: "■■月ノ美兎 at:TOKYO MX1 (エムキャスで視聴可能)"
   end_time:
     hour: 1
     min: 5
   uri: 
 - date: 2018-07-14
   time:
+    hour: 20
+    min: 0
+  title: "■■赤羽葉子 at:ムラタのYouTubeチャンネル ガールズVtuber人狼2"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 22
     min: 0
-  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル"
+  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル 刀剣乱舞談義"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -101,9 +118,30 @@
   uri: 
 - date: 2018-07-11
   time:
+    hour: 22
+    min: 0
+  title: "■森中花咲 at:YouTube 夢の国談義"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
     hour: 23
     min: 0
-  title: "■本間ひまわり(初配信) at:YouTube"
+  title: "■本間ひまわり at:YouTube 初配信"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 0
+    min: 2
+  title: "■海夜叉神 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 0
+    min: 31
+  title: "■いわながCOO at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-10
@@ -111,6 +149,13 @@
     hour: 1
     min: 0
   title: "■静凛 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 2
+    min: 0
+  title: "■■渋谷ハジメ＆白百合 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-10
@@ -216,6 +261,13 @@
     hour: 23
     min: 29
   title: "■花畑チャイカ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-09
+  time:
+    hour: 23
+    min: 31
+  title: "■静凛 at:YouTube Soul at Stake"
   end_time: 
   uri: 
 - date: 2018-07-09
