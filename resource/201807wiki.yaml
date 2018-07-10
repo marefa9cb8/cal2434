@@ -190,7 +190,7 @@
   time:
     hour: 19
     min: 32
-  title: "■叶 at:YouTube 雑談→PUBG"
+  title: "■叶 at:YouTube 雑談→PUBG・ロケットリーグ"
   end_time: 
   uri: 
 - date: 2018-07-10
@@ -204,14 +204,14 @@
   time:
     hour: 21
     min: 30
-  title: "■ドーラ at:YouTube"
+  title: "■ドーラ at:YouTube Goat Simulator"
   end_time: 
   uri: 
 - date: 2018-07-10
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube E.Z"
   end_time: 
   uri: 
 - date: 2018-07-10
@@ -238,8 +238,15 @@
 - date: 2018-07-10
   time:
     hour: 23
+    min: 25
+  title: "■叶 at:YouTube 作業雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 23
     min: 30
-  title: "■月ノ美兎 at:YouTube"
+  title: "■月ノ美兎 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-09
