@@ -155,7 +155,7 @@
   time:
     hour: 2
     min: 0
-  title: "■■渋谷ハジメ＆白百合 at:YouTube"
+  title: "■■渋谷ハジメ＆白百合 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-10
@@ -163,6 +163,13 @@
     hour: 22
     min: 0
   title: "■轟京子 at:YouTube 狂い月(終)"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 23
+    min: 0
+  title: "■社築 at:YouTube ※本人Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-09
