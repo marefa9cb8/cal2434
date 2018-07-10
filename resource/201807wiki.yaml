@@ -125,6 +125,13 @@
   uri: 
 - date: 2018-07-11
   time:
+    hour: 21
+    min: 0
+  title: "■■渋谷ハジメ&渋谷ハル at:YouTube sumomoxqx（すもも）さんとPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
     hour: 22
     min: 0
   title: "■森中花咲 at:YouTube 夢の国談義"
@@ -169,14 +176,21 @@
   time:
     hour: 15
     min: 30
-  title: "■出雲霞 at:YouTube"
+  title: "■出雲霞 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-10
   time:
     hour: 19
     min: 30
-  title: "■卯月コウ at:YouTube"
+  title: "■卯月コウ at:YouTube 納豆の日 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-10
+  time:
+    hour: 19
+    min: 32
+  title: "■叶 at:YouTube 雑談→PUBG"
   end_time: 
   uri: 
 - date: 2018-07-10
