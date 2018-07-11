@@ -202,6 +202,20 @@
   uri: 
 - date: 2018-07-11
   time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:YouTube 壺"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
     hour: 22
     min: 0
   title: "■森中花咲 at:YouTube 夢の国談義"
@@ -212,11 +226,6 @@
     hour: 23
     min: 0
   title: "■本間ひまわり at:YouTube 初配信"
-  end_time: 
-  uri: 
-- date: 2018-07-11
-  time: 
-  title: "夜？ ■海夜叉神 at:YouTube 壺 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-10
