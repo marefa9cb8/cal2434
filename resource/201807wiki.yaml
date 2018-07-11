@@ -123,7 +123,7 @@
   time:
     hour: 21
     min: 0
-  title: "■■月ノ美兎が「ガチ恋VTuber#マイベストイレブン」にゲスト出演"
+  title: "■■月ノ美兎&ときのそら＆響木アオ"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -142,9 +142,23 @@
   uri: 
 - date: 2018-07-12
   time:
+    hour: 0
+    min: 0
+  title: "■出雲霞 at:Mirrativ ゲリラ"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
     hour: 1
     min: 0
   title: "■闇夜乃モルル at:YouTube 初配信"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 2
+    min: 17
+  title: "■■深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube 視聴者参加型PUBG"
   end_time: 
   uri: 
 - date: 2018-07-12
@@ -278,6 +292,13 @@
     hour: 23
     min: 0
   title: "■本間ひまわり at:YouTube 初配信"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
+    hour: 23
+    min: 57
+  title: "■海夜叉神 at:YouTube ゲリラPUBG"
   end_time: 
   uri: 
 - date: 2018-07-10
