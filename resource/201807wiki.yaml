@@ -24,7 +24,7 @@
   time:
     hour: 20
     min: 0
-  title: "■■第一回キズナアイ杯の予選に物述有栖と剣持刀也が参加。"
+  title: "■■物述有栖,剣持刀也 at:? 第一回キズナアイ杯(マリオカート8) 予選"
   end_time: 
   uri: 
 - date: 2018-07-18
@@ -48,7 +48,19 @@
   time:
     hour: 19
     min: 0
+  title: "■■にじさんじの部屋～でろーんとおしゃべり編！～in ニコぶくろスタジオ"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 19
+    min: 0
   title: "■轟京子 at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time: 
+  title: "※樋口楓の定期配信（おえかきの森）はお休み　(7/11の配信にて告知)"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -71,7 +83,12 @@
   time:
     hour: 22
     min: 0
-  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル 刀剣乱舞談義"
+  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time: 
+  title: "？時？分(夜)～ ■緑仙 at:?"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -120,7 +137,7 @@
   time:
     hour: 20
     min: 0
-  title: "■出雲霞 at:YouTube ※Twitterネームより"
+  title: "■出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-11
@@ -175,15 +192,15 @@
 - date: 2018-07-11
   time:
     hour: 19
-    min: 0
-  title: "■宇志海いちご at:Mirrativ"
+    min: 11
+  title: "■宇志海いちご at:Mirrativ #コンパス,ミルクチョコ-オンラインFPS"
   end_time: 
   uri: 
 - date: 2018-07-11
   time:
     hour: 19
-    min: 30
-  title: "■物述有栖 at:OPENREC.tv"
+    min: 3038
+  title: "■物述有栖 at:OPENREC.tv(OPENREC.tv初配信) マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-07-11
@@ -191,6 +208,13 @@
     hour: 20
     min: 0
   title: "■樋口楓 at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
+    hour: 20
+    min: 47
+  title: " ■叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-11
