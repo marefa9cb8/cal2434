@@ -28,6 +28,13 @@
   end_time: 
   uri: 
 - date: 2018-07-18
+  time:
+    hour: 21
+    min: 0
+  title: "■剣持刀也＆森中花咲 at:森中花咲のYouTube 刀かざ生放送R"
+  end_time: 
+  uri: 
+- date: 2018-07-18
   time: 
   title: "？時？分～ ■える at:? (7/9の配信で告知)"
   end_time: 
@@ -56,6 +63,13 @@
     hour: 19
     min: 0
   title: "■轟京子 at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:? Suzuno ne kocafe プレオープン"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -95,7 +109,7 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク！ 隔週カレー ※本人Twitterネームより"
+  title: "■伏見ガク at:YouTube おはガク！ 隔週カレー"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -138,6 +152,13 @@
     hour: 20
     min: 0
   title: "■出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "■笹木咲 at:YouTube 初配信"
   end_time: 
   uri: 
 - date: 2018-07-11
@@ -228,14 +249,21 @@
   time:
     hour: 21
     min: 0
-  title: "■海夜叉神 at:YouTube 壺"
+  title: "■海夜叉神 at:YouTube Getting Over It(壺)"
+  end_time: 
+  uri: 
+- date: 2018-07-11
+  time:
+    hour: 21
+    min: 15
+  title: "■静凛 at:YouTube WHITEDAY～学校という名の迷宮～"
   end_time: 
   uri: 
 - date: 2018-07-11
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube 140"
   end_time: 
   uri: 
 - date: 2018-07-11
