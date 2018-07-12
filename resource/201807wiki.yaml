@@ -100,6 +100,13 @@
   uri: 
 - date: 2018-07-14
   time:
+    hour: 14
+    min: 30
+  title: "■出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 20
     min: 0
   title: "■■赤羽葉子 at:ムラタのYouTubeチャンネル ガールズVtuber人狼2"
@@ -113,8 +120,22 @@
   end_time: 
   uri: 
 - date: 2018-07-14
+  time:
+    hour: 23
+    min: 0
+  title: "■轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-14
   time: 
   title: "？時？分(夜)～ ■緑仙 at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 0
+    min: 0
+  title: "■鈴木勝 at:YouTube 5分くらい"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -226,14 +247,35 @@
   time:
     hour: 21
     min: 0
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-12
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube Poly Bridge"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 22
+    min: 0
+  title: "■シスター・クレア at:Mirrativ アイス談義"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 22
+    min: 17
+  title: "■■叶 at:YouTube sumomoxqx（すもも）さんとPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 23
+    min: 0
+  title: "■海夜叉神 at:YouTube お悩み相談"
   end_time: 
   uri: 
 - date: 2018-07-12
