@@ -13,6 +13,11 @@
   title: "■森中花咲＆夕陽リリ at:Mirrativ(同時配信)"
   end_time: 
   uri: 
+- date: 2018-07-23
+  time: 
+  title: "時間未定(夜) ■■ 樋口楓＆甲賀流忍者ぽんぽこ at:ぽんぽこのYouTubeチャンネル?"
+  end_time: 
+  uri: 
 - date: 2018-07-21
   time: 
   title: "■■樋口楓＆文野環 at:ニコニコ生放送"
@@ -100,6 +105,13 @@
   uri: 
 - date: 2018-07-14
   time:
+    hour: 12
+    min: 0
+  title: "■鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 14
     min: 30
   title: "■出雲霞 at:YouTube"
@@ -135,7 +147,14 @@
   time:
     hour: 0
     min: 0
-  title: "■鈴木勝 at:YouTube 5分くらい"
+  title: "■鈴木勝 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 2
+    min: 14
+  title: "■海夜叉神 at:YouTube ゲリラPUBG"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -143,6 +162,13 @@
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！ 隔週カレー"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 8
+    min: 0
+  title: "■鈴鹿詩子 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -279,8 +305,10 @@
   end_time: 
   uri: 
 - date: 2018-07-12
-  time: 
-  title: 23時頃～ ■樋口楓 at:Mirrativ 告知
+  time:
+    hour: 23
+    min: 59
+  title: "■樋口楓 at:Mirrativ 告知"
   end_time: 
   uri: 
 - date: 2018-07-11
