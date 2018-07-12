@@ -14,6 +14,11 @@
   end_time: 
   uri: 
 - date: 2018-07-21
+  time: 
+  title: "■■樋口楓＆文野環 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-07-21
   time:
     hour: 19
     min: 0
@@ -25,6 +30,13 @@
     hour: 20
     min: 0
   title: "■■物述有栖,剣持刀也 at:? 第一回キズナアイ杯(マリオカート8) 予選"
+  end_time: 
+  uri: 
+- date: 2018-07-18
+  time:
+    hour: 20
+    min: 30
+  title: "■■物述有栖＆アズマリム at:? マリオカート8デラックス(7/11の配信で告知)"
   end_time: 
   uri: 
 - date: 2018-07-18
@@ -177,6 +189,20 @@
   uri: 
 - date: 2018-07-12
   time:
+    hour: 15
+    min: 22
+  title: "■海夜叉神 at:YouTube ゲリラPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 18
+    min: 0
+  title: "■勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
     hour: 20
     min: 0
   title: "■出雲霞 at:YouTube"
@@ -187,6 +213,32 @@
     hour: 21
     min: 0
   title: "■笹木咲 at:YouTube 初配信"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "■卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "■静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time: 
+  title: 23時頃～ ■樋口楓 at:Mirrativ 告知
   end_time: 
   uri: 
 - date: 2018-07-11
