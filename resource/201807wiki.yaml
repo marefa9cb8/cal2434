@@ -227,7 +227,14 @@
   time:
     hour: 19
     min: 0
-  title: "■宇志海いちご at:YouTube"
+  title: "■宇志海いちご at:YouTube お絵かき"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 20
+    min: 16
+  title: "■勇気ちひろ at:YouTube ゲリラ 雑談"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -235,6 +242,13 @@
     hour: 20
     min: 0
   title: "■海夜叉神 at:YouTube Getting Over It(壺)"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 20
+    min: 8
+  title: "■叶 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -255,7 +269,7 @@
   time:
     hour: 21
     min: 45
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube Friday the 13th:The Game"
   end_time: 
   uri: 
 - date: 2018-07-13
