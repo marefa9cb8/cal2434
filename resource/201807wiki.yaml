@@ -13,6 +13,11 @@
   title: "■森中花咲＆夕陽リリ at:Mirrativ(同時配信)"
   end_time: 
   uri: 
+- date: 2018-07-26
+  time: 
+  title: "？時？分(夜)～ ■森中花咲＆夕陽リリ at:? ホラゲー実況 オフラインコラボ"
+  end_time: 
+  uri: 
 - date: 2018-07-23
   time: 
   title: "時間未定(夜) ■■ 樋口楓＆甲賀流忍者ぽんぽこ at:ぽんぽこのYouTubeチャンネル?"
@@ -54,6 +59,13 @@
 - date: 2018-07-18
   time: 
   title: "？時？分～ ■える at:? (7/9の配信で告知)"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time:
+    hour: 6
+    min: 45
+  title: "■伏見ガク at:YouTube おはガク！ ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-16
@@ -143,6 +155,11 @@
   title: "？時？分(夜)～ ■緑仙 at:?"
   end_time: 
   uri: 
+- date: 2018-07-14
+  time: 
+  title: "？時？分～ ■家長むぎ at:?"
+  end_time: 
+  uri: 
 - date: 2018-07-13
   time:
     hour: 0
@@ -187,9 +204,23 @@
   uri: 
 - date: 2018-07-13
   time:
+    hour: 11
+    min: 36
+  title: "■叶 at:OPENREC.tv sumomoxqx（すもも）さんとPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
     hour: 19
     min: 0
   title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 20
+    min: 0
+  title: "■海夜叉神 at:YouTube Getting Over It(壺)"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -203,7 +234,21 @@
   time:
     hour: 22
     min: 0
+  title: "■モイラ at:YouTube MoimoiRadio"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 22
+    min: 0
   title: "■鈴木勝 at:YouTube Weather Typing 視聴者参加型タイピング対決"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 22
+    min: 0
+  title: "■春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-13
