@@ -70,6 +70,13 @@
   uri: 
 - date: 2018-07-16
   time:
+    hour: 20
+    min: 0
+  title: "■名伽尾アズマ&ドーラ at:ドーラのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time:
     hour: 21
     min: 0
   title: "■勇気ちひろ at:? おたん生日ライブ"
@@ -248,7 +255,7 @@
   time:
     hour: 20
     min: 8
-  title: "■叶 at:YouTube スプラトゥーン2"
+  title: "■叶 at:YouTube スプラトゥーン2→マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -262,14 +269,14 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube E.Z"
   end_time: 
   uri: 
 - date: 2018-07-13
   time:
     hour: 21
     min: 45
-  title: "■静凛 at:YouTube Friday the 13th:The Game"
+  title: "■静凛 at:YouTube Friday the 13th:The Game・新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -288,9 +295,9 @@
   uri: 
 - date: 2018-07-13
   time:
-    hour: 22
+    hour: 23
     min: 0
-  title: "■春崎エアル at:YouTube"
+  title: "■春崎エアル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -298,6 +305,13 @@
     hour: 23
     min: 0
   title: "■花畑チャイカ＆社築＆名伽尾アズマ at:花畑チャイカのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 23
+    min: 34
+  title: "■モイラ at:YouTube 雑談→新衣装お披露目＆ホラー実況"
   end_time: 
   uri: 
 - date: 2018-07-12
