@@ -115,6 +115,20 @@
   uri: 
 - date: 2018-07-14
   time:
+    hour: 0
+    min: 5
+  title: "■緑仙 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 0
+    min: 53
+  title: "■■海夜叉神＆渋谷ハル at:お互いのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 1
     min: 0
   title: "■■月ノ美兎 at:TOKYO MX1 (エムキャスで視聴可能)"
@@ -126,7 +140,14 @@
   time:
     hour: 1
     min: 0
-  title: "■静凛 at:?"
+  title: "■静凛 at:OPENREC.tv Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 1
+    min: 48
+  title: "■渋谷ハジメ at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -173,7 +194,7 @@
   uri: 
 - date: 2018-07-14
   time: 
-  title: "？時？分(夜)～ ■緑仙 at:?"
+  title: "？時？分～ ■渋谷ハジメ at:YouTube マリオカート8"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -311,7 +332,7 @@
   time:
     hour: 23
     min: 34
-  title: "■モイラ at:YouTube 雑談→新衣装お披露目＆ホラー実況"
+  title: "■モイラ at:YouTube 雑談→新衣装お披露目＆ホラー実況→Euro Truck Simulator 2"
   end_time: 
   uri: 
 - date: 2018-07-12
