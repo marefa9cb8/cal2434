@@ -107,7 +107,7 @@
   time:
     hour: 12
     min: 0
-  title: "■鈴鹿詩子 at:YouTube"
+  title: 10時00分～ ■鈴鹿詩子 at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -176,6 +176,13 @@
     hour: 8
     min: 0
   title: "■鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 9
+    min: 30
+  title: "■本間ひまわり at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-13
