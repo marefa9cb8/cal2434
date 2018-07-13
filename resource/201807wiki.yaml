@@ -117,9 +117,23 @@
   uri: 
 - date: 2018-07-14
   time:
+    hour: 1
+    min: 0
+  title: "■静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
     hour: 12
     min: 0
   title: 10時00分～ ■鈴鹿詩子 at:YouTube ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 14
+    min: 0
+  title: "■静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -227,7 +241,21 @@
   time:
     hour: 21
     min: 0
-  title: "■■月ノ美兎&ときのそら＆響木アオ"
+  title: "■■月ノ美兎＆ときのそら＆響木アオ"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time:
+    hour: 21
+    min: 45
+  title: "■静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-13
