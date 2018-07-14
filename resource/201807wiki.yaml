@@ -103,6 +103,20 @@
   uri: 
 - date: 2018-07-15
   time:
+    hour: 0
+    min: 0
+  title: "■緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 1
+    min: 0
+  title: "■家長むぎ at:YouTube おやすみ配信 ※中止の可能性あり"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
     hour: 19
     min: 0
   title: "■■にじさんじの部屋～でろーんとおしゃべり編！～in ニコぶくろスタジオ"
@@ -127,6 +141,13 @@
     hour: 21
     min: 30
   title: "■鈴谷アキ at:? Suzuno ne kocafe プレオープン"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 22
+    min: 0
+  title: "■出雲霞 at:Mirrativ 「ダーリン・イン・ザ・フランキス」語り"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -196,7 +217,7 @@
   time:
     hour: 13
     min: 9
-  title: "■■安土桃 at:YouTube 宇森ひなこ&日ノ隈らん(あにまーれ)とのコラボ(ひなこ枠と同時配信) PUBG"
+  title: "■■安土桃 at:YouTube 宇森ひなこ&日ノ隈らん(あにまーれ)とのコラボ PUBG"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -216,8 +237,8 @@
 - date: 2018-07-14
   time:
     hour: 14
-    min: 30
-  title: "■出雲霞 at:YouTube"
+    min: 34
+  title: "■出雲霞 at:YouTube 一ヶ月振り返り雑談"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -230,8 +251,29 @@
 - date: 2018-07-14
   time:
     hour: 15
+    min: 33
+  title: "■■安土桃＆宇森ひなこ(あにまーれ) at:安土桃のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 16
+    min: 41
+  title: "■海夜叉神 at:YouTube ゲリラPUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 15
     min: 30
   title: 19時00分～ ■家長むぎ at:YouTube 雑談 ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 18
+    min: 30
+  title: "■静凛 at:YouTube ※予定変更"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -239,6 +281,13 @@
     hour: 20
     min: 0
   title: "■■赤羽葉子 at:ムラタのYouTubeチャンネル ガールズVtuber人狼2"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 22
+    min: 0
+  title: "静凛＆???コラボ at:?"
   end_time: 
   uri: 
 - date: 2018-07-14
