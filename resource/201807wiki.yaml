@@ -125,6 +125,13 @@
 - date: 2018-07-15
   time:
     hour: 1
+    min: 0
+  title: "?～ ■闇夜乃モルル at:Mirrativ テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 1
     min: 15
   title: "■海夜叉神 at:YouTube SEEDsメンバーの良い所語り"
   end_time: 
@@ -137,8 +144,17 @@
   end_time: 
   uri: 
 - date: 2018-07-15
-  time: 
-  title: 01時？分～ ■闇夜乃モルル at:Mirrativ テスト配信
+  time:
+    hour: 3
+    min: 5
+  title: "■渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 3
+    min: 21
+  title: "■■海夜叉神＆姫野裕子(アマリリス組) at:海夜叉神のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-07-15
