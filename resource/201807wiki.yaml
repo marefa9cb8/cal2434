@@ -30,6 +30,13 @@
   uri: 
 - date: 2018-07-21
   time:
+    hour: 15
+    min: 0
+  title: "■シスター・クレア at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-21
+  time:
     hour: 19
     min: 0
   title: 'VTuber最強決定戦(PUBG) at:'
@@ -40,6 +47,13 @@
     hour: 20
     min: 0
   title: "■■物述有栖,剣持刀也 at:? 第一回キズナアイ杯(マリオカート8) 予選"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 22
+    min: 0
+  title: "■シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-07-18
@@ -154,7 +168,21 @@
   time:
     hour: 12
     min: 0
-  title: 10時00分～ ■鈴鹿詩子 at:YouTube ※時間変更
+  title: 10時0030分～ ■鈴鹿詩子 at:YouTube 新衣装お披露目
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 10
+    min: 42
+  title: "■安土桃 at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 12
+    min: 0
+  title: "■■安土桃 at:YouTube あにまーれの宇森ひなこ&日ノ隈らんとのコラボ(ひなこ枠と同時配信)"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -169,6 +197,13 @@
     hour: 14
     min: 30
   title: "■出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 15
+    min: 30
+  title: 19時00分～ ■家長むぎ at:YouTube 雑談 ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -194,12 +229,7 @@
   uri: 
 - date: 2018-07-14
   time: 
-  title: "？時？分～ ■渋谷ハジメ at:YouTube マリオカート8"
-  end_time: 
-  uri: 
-- date: 2018-07-14
-  time: 
-  title: "？時？分～ ■家長むぎ at:?"
+  title: "？時？分～ ■渋谷ハジメ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -207,6 +237,11 @@
     hour: 0
     min: 0
   title: "■鈴木勝 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-07-13
+  time: 
+  title: 01時頃？～ ■■渋谷ハジメ＆渋谷ハル＆たかさき咲＆バーチャル実況司会者ケモおじさんゆきんこ at:渋谷ハルのYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -332,7 +367,7 @@
   time:
     hour: 23
     min: 34
-  title: "■モイラ at:YouTube 雑談→新衣装お披露目＆ホラー実況→Euro Truck Simulator 2"
+  title: "■モイラ at:YouTube 雑談→新衣装お披露目＆ホラーゲーム実況→Euro Truck Simulator 2"
   end_time: 
   uri: 
 - date: 2018-07-12
