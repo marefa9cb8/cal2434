@@ -266,7 +266,7 @@
   time:
     hour: 15
     min: 30
-  title: 19時00分～ ■家長むぎ at:YouTube 雑談 ※時間変更
+  title: 19時00分～ ■家長むぎ at:YouTube 雑談・新衣装お披露目 ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -281,6 +281,20 @@
     hour: 20
     min: 0
   title: "■■赤羽葉子 at:ムラタのYouTubeチャンネル ガールズVtuber人狼2"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 20
+    min: 0
+  title: "ブレスト軍(勇気ちひろ&宇志海いちご) at:勇気ちひろのMirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 20
+    min: 37
+  title: "■渋谷ハジメ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-07-14
