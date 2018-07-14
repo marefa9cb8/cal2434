@@ -117,6 +117,13 @@
   uri: 
 - date: 2018-07-15
   time:
+    hour: 20
+    min: 0
+  title: "■■渋谷大ガク(渋谷ハジメ＆伏見ガク) at:? セリフ枠＆ゲーム"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
     hour: 21
     min: 30
   title: "■鈴谷アキ at:? Suzuno ne kocafe プレオープン"
@@ -181,15 +188,29 @@
 - date: 2018-07-14
   time:
     hour: 12
-    min: 0
-  title: "■■安土桃 at:YouTube あにまーれの宇森ひなこ&日ノ隈らんとのコラボ(ひなこ枠と同時配信)"
+    min: 5
+  title: "■春崎エアル at:YouTube Twitterフォロワー2000人突破記念"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 13
+    min: 9
+  title: "■■安土桃 at:YouTube 宇森ひなこ&日ノ隈らん(あにまーれ)とのコラボ(ひなこ枠と同時配信) PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 13
+    min: 46
+  title: "■叶 at:OPENREC.tv スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-07-14
   time:
     hour: 14
     min: 0
-  title: "■静凛 at:YouTube"
+  title: "■静凛 at:YouTube UNDERTALE"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -197,6 +218,13 @@
     hour: 14
     min: 30
   title: "■出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-14
+  time:
+    hour: 14
+    min: 48
+  title: "■渋谷ハジメ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-07-14
@@ -227,21 +255,11 @@
   title: "■轟京子 at:YouTube"
   end_time: 
   uri: 
-- date: 2018-07-14
-  time: 
-  title: "？時？分～ ■渋谷ハジメ at:YouTube マリオカート8 デラックス"
-  end_time: 
-  uri: 
 - date: 2018-07-13
   time:
     hour: 0
     min: 0
   title: "■鈴木勝 at:YouTube テスト配信"
-  end_time: 
-  uri: 
-- date: 2018-07-13
-  time: 
-  title: 01時頃？～ ■■渋谷ハジメ＆渋谷ハル＆たかさき咲＆バーチャル実況司会者ケモおじさんゆきんこ at:渋谷ハルのYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-07-13
@@ -459,6 +477,13 @@
     hour: 22
     min: 0
   title: "■シスター・クレア at:Mirrativ アイス談義"
+  end_time: 
+  uri: 
+- date: 2018-07-12
+  time:
+    hour: 22
+    min: 13
+  title: "?～ ■■渋谷ハジメ＆渋谷ハル＆たかさき咲＆バーチャル実況司会者ケモおじさんゆきんこ"
   end_time: 
   uri: 
 - date: 2018-07-12
