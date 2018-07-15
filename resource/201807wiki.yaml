@@ -79,7 +79,7 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク！ ※Twitterネームより"
+  title: "■伏見ガク at:YouTube おはガク！ オムライス"
   end_time: 
   uri: 
 - date: 2018-07-16
@@ -147,7 +147,7 @@
   time:
     hour: 3
     min: 5
-  title: "■渋谷ハジメ at:YouTube"
+  title: "■渋谷ハジメ at:YouTube LoL→PUBG"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -161,28 +161,42 @@
   time:
     hour: 15
     min: 0
-  title: "■卯月コウ at:YouTube テスト配信"
+  title: "■卯月コウ at:YouTube テスト配信 NOSTALGIC TRAIN"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 16
+    min: 24
+  title: "■静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 18
     min: 0
-  title: "■轟京子 at:YouTube"
+  title: "■轟京子 at:YouTube ゲームについて雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 18
+    min: 0
+  title: "■叶 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 19
     min: 0
-  title: "■■にじさんじの部屋～でろーんとおしゃべり編！～in ニコぶくろスタジオ"
+  title: "■■樋口楓＆ゲスト：中音ナタ先生 at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 20
     min: 0
-  title: "■■渋谷大ガク(渋谷ハジメ＆伏見ガク) at:? セリフ枠＆ゲーム"
+  title: "■■渋谷大ガク(渋谷ハジメ＆伏見ガク) at:YouTube セリフ枠＆ゲーム"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -201,9 +215,23 @@
   uri: 
 - date: 2018-07-15
   time:
+    hour: 20
+    min: 0
+  title: "■叶 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 21
+    min: 0
+  title: "■海夜叉神 at:YouTube Getting Over It(壺)"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:? Suzuno ne kocafe プレオープン"
+  title: "■鈴谷アキ at:YouTube Suzuno ne kocafe プレオープン"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -217,7 +245,14 @@
   time:
     hour: 23
     min: 0
-  title: "■物述有栖 at:?"
+  title: "■物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 23
+    min: 0
+  title: "■叶 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2018-07-15
