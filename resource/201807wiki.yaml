@@ -104,6 +104,13 @@
   end_time: 
   uri: 
 - date: 2018-07-16
+  time:
+    hour: 23
+    min: 0
+  title: "■本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-16
   time: 
   title: "※えるの定期配信は水曜に振り替え(7/9の配信で告知)"
   end_time: 
@@ -158,6 +165,11 @@
   end_time: 
   uri: 
 - date: 2018-07-15
+  time: 
+  title: "？時？分(朝)～ ■静凛 at:YouTube おやすみASMR"
+  end_time: 
+  uri: 
+- date: 2018-07-15
   time:
     hour: 15
     min: 0
@@ -182,7 +194,7 @@
   time:
     hour: 18
     min: 0
-  title: "■叶 at:YouTube"
+  title: "■叶 at:YouTube Islands of Nyne: Battle Royale"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -196,27 +208,27 @@
   time:
     hour: 20
     min: 0
-  title: "■■渋谷大ガク(渋谷ハジメ＆伏見ガク) at:YouTube セリフ枠＆ゲーム"
+  title: "■■渋谷大ガク(渋谷ハジメ＆伏見ガク) at:渋谷ハジメのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 20
     min: 0
-  title: "■笹木咲 at:YouTube"
+  title: "■笹木咲 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 20
     min: 0
-  title: "■卯月コウ at:YouTube"
+  title: "■卯月コウ at:YouTube 陰キャグランプリ"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 20
-    min: 0
+    min: 23
   title: "■叶 at:OPENREC.tv"
   end_time: 
   uri: 
