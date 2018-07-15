@@ -75,6 +75,20 @@
   title: "？時？分～ ■える at:? (7/9の配信で告知)"
   end_time: 
   uri: 
+- date: 2018-07-17
+  time:
+    hour: 0
+    min: 0
+  title: "■闇夜乃モルル at:YouTube ドクターマリオ"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time:
+    hour: 0
+    min: 30
+  title: "■■渋谷ハジメ&白百合&万楽えね&ユキミお姉ちゃん at:YouTube PUBG"
+  end_time: 
+  uri: 
 - date: 2018-07-16
   time:
     hour: 6
@@ -87,6 +101,13 @@
     hour: 10
     min: 30
   title: "■八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time:
+    hour: 18
+    min: 0
+  title: "■闇夜乃モルル at:YouTube グラディウスⅡ"
   end_time: 
   uri: 
 - date: 2018-07-16
@@ -165,8 +186,10 @@
   end_time: 
   uri: 
 - date: 2018-07-15
-  time: 
-  title: "？時？分(朝)～ ■静凛 at:YouTube おやすみASMR"
+  time:
+    hour: 5
+    min: 43
+  title: "■静凛 at:YouTube おやすみASMR"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -243,7 +266,14 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube Suzuno ne kocafe プレオープン"
+  title: "■鈴谷アキ at:YouTube Suzuno ne kocafe プレオープン・新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-07-15
+  time:
+    hour: 22
+    min: 0
+  title: "■静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-07-15
@@ -257,13 +287,13 @@
   time:
     hour: 23
     min: 0
-  title: "■物述有栖 at:YouTube"
+  title: "■物述有栖 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2018-07-15
   time:
     hour: 23
-    min: 0
+    min: 15
   title: "■叶 at:YouTube バイノーラル"
   end_time: 
   uri: 
