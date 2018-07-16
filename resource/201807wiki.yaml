@@ -100,14 +100,35 @@
   time:
     hour: 0
     min: 0
-  title: "■剣持刀也 at:YouTube"
+  title: "■闇夜乃モルル at:YouTube ドクターマリオ"
   end_time: 
   uri: 
 - date: 2018-07-17
   time:
     hour: 0
-    min: 0
-  title: "■闇夜乃モルル at:YouTube ドクターマリオ"
+    min: 48
+  title: "■叶 at:OPENREC.tv スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 1
+    min: 24
+  title: "■静凛 at:OPENREC.tv Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 1
+    min: 53
+  title: "■■渋谷ハジメ＆白百合＆りぃこ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 2
+    min: 35
+  title: "■いわながCOO＆杉ノ美兎 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-17
@@ -269,6 +290,13 @@
     hour: 23
     min: 0
   title: "■本間ひまわり at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2018-07-16
+  time:
+    hour: 24
+    min: 0
+  title: "■剣持刀也 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-07-16
