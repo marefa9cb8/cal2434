@@ -128,7 +128,28 @@
   time:
     hour: 2
     min: 35
-  title: "■いわながCOO＆杉ノ美兎 at:YouTube PUBG"
+  title: "■いわながCOO＆杉ノ美兎＆さんたーP＆date at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 3
+    min: 30
+  title: "■静凛 at:YouTube Soul at Stake"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 4
+    min: 28
+  title: "■渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 4
+    min: 50
+  title: "■■叶＆本間ひまわり＆ふぇありす＆環右金 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-17
@@ -150,6 +171,13 @@
     hour: 21
     min: 0
   title: "■森中花咲 at:YouTube 新衣装&企画発表会 30分間予定"
+  end_time: 
+  uri: 
+- date: 2018-07-17
+  time:
+    hour: 21
+    min: 30
+  title: "■家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-16
