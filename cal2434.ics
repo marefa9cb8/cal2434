@@ -98,8 +98,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20180719
-SUMMARY:02時xx分～ ■■海夜叉神&花畑チャイカ&鈴木勝&本間ひまわり at:海夜叉神, 花畑チャイカのYouTube PUBG
+DTSTART;TZID=Asia/Tokyo:20180719T013700
+SUMMARY:?～ ■シスター・クレア at:YouTube テスト配信
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180719T030300
+SUMMARY:■■海夜叉神&花畑チャイカ&鈴木勝&本間ひまわり at:各々のYouTubeチャンネル PUBG
 URL:
 DESCRIPTION:
 END:VEVENT
