@@ -27,7 +27,7 @@
   time:
     hour: 12
     min: 30
-  title: "■文野環 オープニング"
+  title: "■■樋口楓＆文野環 at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -48,7 +48,7 @@
   time:
     hour: 19
     min: 0
-  title: 'VTuber最強決定戦(PUBG) at:'
+  title: "■■■VTuber最強決定戦(PUBG) at:?"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -60,14 +60,14 @@
   time:
     hour: 6
     min: 45
-  title: "■伏見ガク at:YouTube おはガク！"
+  title: "■伏見ガク at:YouTube おはガク！ コーンフレーク"
   end_time: 
   uri: 
 - date: 2018-07-20
   time:
     hour: 20
     min: 0
-  title: "■■■物述有栖,剣持刀也,叶 at:? 第一回キズナアイ杯(マリオカート8) 予選"
+  title: "■■■第一回キズナアイ杯(マリオカート8) 予選 at:キズナアイ視点のLIVE配信は無し(後日動画をアップ)"
   end_time: 
   uri: 
 - date: 2018-07-20
@@ -77,11 +77,32 @@
   title: "■シスター・クレア at:?"
   end_time: 
   uri: 
+- date: 2018-07-20
+  time:
+    hour: 23
+    min: 0
+  title: "■本間ひまわり at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-19
+  time:
+    hour: 15
+    min: 30
+  title: "■八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: 
 - date: 2018-07-19
   time:
     hour: 19
     min: 0
   title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-19
+  time:
+    hour: 22
+    min: 0
+  title: "■樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-19
@@ -193,7 +214,14 @@
   time:
     hour: 21
     min: 30
-  title: "■鈴谷アキ at:YouTube"
+  title: "■鈴谷アキ at:YouTube Mimpi Dreams"
+  end_time: 
+  uri: 
+- date: 2018-07-18
+  time:
+    hour: 22
+    min: 46
+  title: "■緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-18
@@ -201,6 +229,13 @@
     hour: 23
     min: 0
   title: "■える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-18
+  time:
+    hour: 23
+    min: 19
+  title: "■静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-17
