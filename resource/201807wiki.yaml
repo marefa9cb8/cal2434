@@ -13,6 +13,13 @@
   title: "■森中花咲＆夕陽リリ at:Mirrativ(同時配信)"
   end_time: 
   uri: 
+- date: 2018-07-28
+  time:
+    hour: 13
+    min: 30
+  title: "■剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
+  end_time: 
+  uri: 
 - date: 2018-07-26
   time: 
   title: "？時？分(夜)～ ■森中花咲＆夕陽リリ at:? ホラゲー実況 オフラインコラボ"
@@ -49,6 +56,13 @@
     hour: 19
     min: 0
   title: "■■■VTuber最強決定戦(PUBG) at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-21
+  time:
+    hour: 22
+    min: 0
+  title: "■森中花咲 at:YouTube?"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -185,8 +199,15 @@
 - date: 2018-07-19
   time:
     hour: 19
-    min: 0
+    min: 12
   title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-19
+  time:
+    hour: 20
+    min: 0
+  title: "■■ChroNoiR(叶＆葛葉) at:OPENREC.tv PUBG PARK×アイドル部"
   end_time: 
   uri: 
 - date: 2018-07-19
