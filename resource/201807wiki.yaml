@@ -34,7 +34,7 @@
   time:
     hour: 15
     min: 0
-  title: "■シスター・クレア at:?"
+  title: "■シスター・クレア at:? 夏だ！夏休みだ！クレアちゃん祭り"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -74,7 +74,7 @@
   time:
     hour: 22
     min: 0
-  title: "■シスター・クレア at:?"
+  title: "■シスター・クレア at:? 前夜祭"
   end_time: 
   uri: 
 - date: 2018-07-20
@@ -82,6 +82,13 @@
     hour: 23
     min: 0
   title: "■本間ひまわり at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 23
+    min: 0
+  title: "■社築 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-19
