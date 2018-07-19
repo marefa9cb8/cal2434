@@ -135,9 +135,16 @@
   uri: 
 - date: 2018-07-19
   time:
+    hour: 10
+    min: 30
+  title: "■本間ひまわり at:Mirrativ 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-19
+  time:
     hour: 11
     min: 30
-  title: "■鈴鹿詩子 at:Mirrativ or SHOWROOM"
+  title: "■鈴鹿詩子 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-19
@@ -152,6 +159,13 @@
     hour: 19
     min: 0
   title: "■宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-19
+  time:
+    hour: 20
+    min: 0
+  title: "■卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-19
