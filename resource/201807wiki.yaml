@@ -41,7 +41,7 @@
   time:
     hour: 0
     min: 0
-  title: "■ ■でろたま(樋口楓＆文野環) at:? ※樋口楓Twitterネームより"
+  title: "■■でろたま(樋口楓＆文野環) at:Mirrativ ※両名Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -110,6 +110,13 @@
     hour: 6
     min: 45
   title: "■伏見ガク at:YouTube おはガク！ コーンフレーク"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 19
+    min: 0
+  title: "■勇気ちひろ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-20
