@@ -32,6 +32,20 @@
   uri: 
 - date: 2018-07-22
   time:
+    hour: 18
+    min: 0
+  title: "■■本間ひまわり＆叶＆SUMOMOXqX(すもも)さん at:YouTube? OVERWATCH"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 18
+    min: 45
+  title: "■伏見ガク at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
     hour: 22
     min: 0
   title: "■海夜叉神 at:YouTube? 15000人記念ライブ"
@@ -41,7 +55,7 @@
   time:
     hour: 0
     min: 0
-  title: "■■でろたま(樋口楓＆文野環) at:Mirrativ ※両名Twitterネームより"
+  title: "■■でろたま(樋口楓＆文野環) at:Mirrativ ※開始時刻:両名Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -55,7 +69,7 @@
   time:
     hour: 15
     min: 0
-  title: "■シスター・クレア at:? 夏だ！夏休みだ！クレアちゃん祭り"
+  title: "■シスター・クレア at:YouTube 夏だ！夏休みだ！クレアちゃん祭り"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -102,7 +116,7 @@
   time:
     hour: 2
     min: 51
-  title: "■渋谷ハジメ at:YouTube"
+  title: "■渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-20
@@ -130,14 +144,21 @@
   time:
     hour: 20
     min: 0
+  title: "■シスター・クレア at:YouTube 前夜祭"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 20
+    min: 0
   title: "■■■第一回キズナアイ杯(マリオカート8) 予選 at:キズナアイ視点のLIVE配信は無し(後日動画をアップ)"
   end_time: 
   uri: 
 - date: 2018-07-20
   time:
-    hour: 22
-    min: 0
-  title: "■シスター・クレア at:? 前夜祭"
+    hour: 21
+    min: 30
+  title: "■鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-20
@@ -145,6 +166,13 @@
     hour: 22
     min: 0
   title: "■鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 22
+    min: 20
+  title: "■静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-20
@@ -158,7 +186,14 @@
   time:
     hour: 23
     min: 0
-  title: "■社築 at:YouTube ※Twitterネームより"
+  title: "■社築 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-20
+  time:
+    hour: 24
+    min: 0
+  title: "■緑仙 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2018-07-19
