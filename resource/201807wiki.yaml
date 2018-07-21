@@ -6,6 +6,13 @@
   title: "森中花咲＆夕陽リリ at:Mirrativ(同時配信)"
   end_time: 
   uri: 
+- date: 2018-07-29
+  time:
+    hour: 21
+    min: 0
+  title: "鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-07-28
   time:
     hour: 0
@@ -27,6 +34,18 @@
   title: "剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2018-07-24
+  time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆青道アカト at:青道アカトのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time: 
+  title: "？時？分～ 夕陽リリ at:?"
+  end_time: 
+  uri: 
 - date: 2018-07-23
   time: 
   title: "時間未定(夜) 樋口楓＆甲賀流忍者ぽんぽこ at:ぽんぽこのYouTubeチャンネル? ※7/13の配信で告知"
@@ -34,9 +53,16 @@
   uri: 
 - date: 2018-07-22
   time:
+    hour: 3
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
     hour: 15
     min: 0
-  title: "樋口楓 おえかきの森配信 ※7/21ニコ生配信で言及"
+  title: "樋口楓 at:YouTube? おえかきの森 ※7/21ニコ生配信で言及"
   end_time: 
   uri: 
 - date: 2018-07-22
@@ -57,7 +83,7 @@
   time:
     hour: 18
     min: 45
-  title: "伏見ガク at:? ※Twitterネームより"
+  title: "伏見ガク at:YouTube? 夜ガク！ ガッツリ系＋2万人記念"
   end_time: 
   uri: 
 - date: 2018-07-22
@@ -71,7 +97,21 @@
   time:
     hour: 22
     min: 0
-  title: "淫語ワードウルフ at:万楽えねのチャンネル"
+  title: "淫語ワードウルフ at:万楽えねのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2018-07-21
@@ -204,21 +244,28 @@
   time:
     hour: 22
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube 森中花咲とクマさんS（きみたち）"
   end_time: 
   uri: 
 - date: 2018-07-21
   time:
     hour: 23
-    min: 0
-  title: "笹木咲 at:OPENREC.tv"
+    min: 11
+  title: "笹木咲 at:OPENREC.tv マリオテニス エース"
+  end_time: 
+  uri: 
+- date: 2018-07-21
+  time:
+    hour: 23
+    min: 35
+  title: ChroNoiR(叶＆葛葉) at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2018-07-21
   time:
     hour: 23
     min: 59
-  title: "渋谷ハジメ＆海夜叉神＆渋谷ハル＆白百合 at:YouTube? PUBG"
+  title: "渋谷ハジメ＆海夜叉神＆渋谷ハル＆白百合 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-20
