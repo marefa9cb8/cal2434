@@ -63,6 +63,13 @@
 - date: 2018-07-22
   time:
     hour: 0
+    min: 2
+  title: "渋谷ハジメ＆海夜叉神＆渋谷ハル＆白百合"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 0
     min: 18
   title: "静凛 at:YouTube CLOSED NIGHTMARE"
   end_time: 
@@ -71,7 +78,7 @@
   time:
     hour: 1
     min: 10
-  title: "?～ いわながCOO＆田角CEO＆杉ノ美兎＆いちろうた at:YouTube PUBG"
+  title: "?～ いわながCOO＆ずみさん(≠田角CEO,いちから社員)＆杉ノ美兎＆いちろうた at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-22
@@ -79,6 +86,20 @@
     hour: 3
     min: 0
   title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 3
+    min: 11
+  title: "ギルザレンⅢ世 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 5
+    min: 17
+  title: "渋谷ハジメ＆白百合 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-22
@@ -295,14 +316,7 @@
   time:
     hour: 23
     min: 49
-  title: "?～ いわながCOO＆田角CEO at:YouTube PUBG"
-  end_time: 
-  uri: 
-- date: 2018-07-21
-  time:
-    hour: 24
-    min: 2
-  title: "渋谷ハジメ＆海夜叉神＆渋谷ハル＆白百合＆梔子スイ"
+  title: "?～ いわながCOO＆ずみさん（≠田角CEO,いちから社員) at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-20
