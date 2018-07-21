@@ -53,6 +53,7 @@ def parse_title(doc)
       elsif time_title = line.text.match(/(.*)/) then
         title = time_title[1]
       end
+      title.gsub!(/■/,'')   if title.include?('■')
       linearray.push({'time' => time, 'end_time' => end_time, 'title' => title, 'uri' => uri}) unless title.nil?
     }
     titlearray.push(linearray)
@@ -71,7 +72,7 @@ def make_event(dayarray, titlearray)
   return eventarray
 end
 
-pages = ['201803', '201804', '201805', '201806', '201807']
+pages = ['201803', '201804', '201805', '201806', '201807', '201808']
 base_url = 'https://wikiwiki.jp/nijisanji/?plugin=minicalendar&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&date='
 pages.each{|month|
   puts month
