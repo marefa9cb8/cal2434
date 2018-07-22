@@ -69,9 +69,23 @@
   uri: 
 - date: 2018-07-23
   time:
+    hour: 19
+    min: 30
+  title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-23
+  time:
     hour: 20
     min: 0
   title: "樋口楓＆甲賀流忍者ぽんぽこ at:ぽんぽこのYouTubeチャンネル?"
+  end_time: 
+  uri: 
+- date: 2018-07-23
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube? 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-07-23
@@ -167,6 +181,27 @@
   uri: 
 - date: 2018-07-22
   time:
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube CLOSED NIGHTMARE"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 21
+    min: 47
+  title: "モイラ at:Mirrativ お料理ゲリラ"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 21
+    min: 53
+  title: "勇気ちひろ＆宇志海いちご at:YouTube 前枠続き"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
     hour: 22
     min: 0
   title: "海夜叉神 at:YouTube 15000人記念ライブ"
@@ -183,14 +218,14 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
+  title: "本間ひまわり at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2018-07-22
   time:
     hour: 23
     min: 0
-  title: "本間ひまわり at:YouTube Layers of Fear"
+  title: 24時00分～ 剣持刀也 at:YouTube SharpnessRadio ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-21
