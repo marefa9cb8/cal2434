@@ -104,13 +104,6 @@
   uri: 
 - date: 2018-07-22
   time:
-    hour: 15
-    min: 0
-  title: "樋口楓 at:YouTube? おえかきの森 ※7/21ニコ生配信で言及"
-  end_time: 
-  uri: 
-- date: 2018-07-22
-  time:
     hour: 17
     min: 0
   title: "家長むぎ at:YouTube"
@@ -135,6 +128,20 @@
     hour: 18
     min: 45
   title: "伏見ガク at:YouTube? 夜ガク！ ガッツリ系＋2万人記念"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-22
+  time:
+    hour: 15
+    min: 0
+  title: 21時00分～ 樋口楓 at:YouTube おえかきの森 ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-22
