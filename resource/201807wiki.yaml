@@ -62,9 +62,30 @@
   uri: 
 - date: 2018-07-24
   time:
-    hour: 1
-    min: 0
-  title: or02時00分頃～ 勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル?
+    hour: 0
+    min: 29
+  title: "渋谷ハジメ＆渋谷ハル at:両名のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 0
+    min: 52
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 2
+    min: 6
+  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 2
+    min: 37
+  title: "叶 at:OPENREC.tv マリオテニス エース"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -266,7 +287,7 @@
   time:
     hour: 24
     min: 0
-  title: "海夜叉神、鈴木勝、花畑チャイカ、ドーラ at:YouTube PUBG"
+  title: "海夜叉神、鈴木勝、花畑チャイカ、ドーラ at:各々のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-07-23
