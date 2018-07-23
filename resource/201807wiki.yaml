@@ -38,7 +38,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:? ※7/23の配信で言及"
+  title: "伏見ガク at:? ※7/23の配信で言及＆Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -46,6 +46,13 @@
     hour: 0
     min: 0
   title: "海夜叉神、鈴木勝、花畑チャイカ、ドーラ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 14
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -154,9 +161,30 @@
   uri: 
 - date: 2018-07-23
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-23
+  time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube? 新衣装お披露目"
+  title: "物述有栖 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-07-23
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-23
+  time:
+    hour: 23
+    min: 0
+  title: "える at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-23
