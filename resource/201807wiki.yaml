@@ -78,7 +78,7 @@
   time:
     hour: 21
     min: 0
-  title: "卯月コウ&神楽めあ at:YouTube"
+  title: "卯月コウ＆神楽めあ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -197,7 +197,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube Mimpi Dreams"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -205,6 +205,34 @@
     hour: 22
     min: 0
   title: "名伽尾アズマ＆青道アカト at:青道アカトのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube お悩み相談"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 22
+    min: 10
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 23
+    min: 1
+  title: "闇夜乃モルル&本間ひまわり at:本間ひまわりのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 23
+    min: 43
+  title: "シスター・クレア at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-23
