@@ -74,6 +74,13 @@
   title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
+- date: 2018-07-25
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ&神楽めあ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-07-24
   time:
     hour: 0
@@ -148,14 +155,14 @@
   time:
     hour: 16
     min: 0
-  title: "夕陽リリ at:Mirrativ"
+  title: "夕陽リリ at:Mirrativ 雑談"
   end_time: 
   uri: 
 - date: 2018-07-24
   time:
     hour: 17
     min: 12
-  title: "鈴鹿詩子 at:YouTube"
+  title: "鈴鹿詩子 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -176,7 +183,7 @@
   time:
     hour: 21
     min: 0
-  title: "叶＆笹木咲  at:OPENREC.tv? マリオテニス エース"
+  title: "叶＆笹木咲  at:OPENREC.tv マリオテニス エース"
   end_time: 
   uri: 
 - date: 2018-07-24
