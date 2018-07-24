@@ -69,9 +69,44 @@
   uri: 
 - date: 2018-07-25
   time:
-    hour: 2
+    hour: 0
+    min: 33
+  title: "渋谷ハジメ&渋谷ハル&りぃこ at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 1
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "海夜叉神 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 2
+    min: 12
+  title: "夕陽リリ at:YouTube anotherStory"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 2
+    min: 2
+  title: ChroNoiR(叶＆葛葉) at:YouTube ぬゆりさんとPUBG
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 2
+    min: 41
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 12
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-25
