@@ -60,6 +60,20 @@
   title: "？時？分(夜)～ 緑仙 at:?"
   end_time: 
   uri: 
+- date: 2018-07-26
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲＆本間ひまわり＆ロボ子さん＆白上フブキ at:笹木咲＆ロボ子さんのYouTubeチャンネル Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 2
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-07-24
   time:
     hour: 0
@@ -132,9 +146,23 @@
   uri: 
 - date: 2018-07-24
   time:
-    hour: 17
+    hour: 16
     min: 0
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 17
+    min: 12
   title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-24
+  time:
+    hour: 19
+    min: 0
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-07-24
@@ -160,14 +188,16 @@
   uri: 
 - date: 2018-07-24
   time:
-    hour: 22
-    min: 0
-  title: "名伽尾アズマ＆青道アカト at:青道アカトのYouTubeチャンネル"
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-24
-  time: 
-  title: "？時？分～ 夕陽リリ at:?"
+  time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆青道アカト at:青道アカトのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-23
