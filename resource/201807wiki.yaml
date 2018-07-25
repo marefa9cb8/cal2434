@@ -20,6 +20,11 @@
   title: "鈴木勝 at:YouTube ※30日へ延期"
   end_time: 
   uri: 
+- date: 2018-07-29
+  time: 
+  title: "??時??分～ 出雲霞 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-07-28
   time:
     hour: 13
@@ -32,6 +37,13 @@
     hour: 22
     min: 0
   title: "森中花咲＆夕陽リリ at:森中花咲のYouTubeチャンネル ホラゲー実況 オフラインコラボ"
+  end_time: 
+  uri: 
+- date: 2018-07-28
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり at:YouTube? Layers of Fear"
   end_time: 
   uri: 
 - date: 2018-07-27
@@ -58,6 +70,20 @@
 - date: 2018-07-27
   time: 
   title: "？時？分(夜)～ 緑仙 at:?"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time:
+    hour: 2
+    min: 0
+  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube?"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-26
@@ -138,29 +164,43 @@
 - date: 2018-07-25
   time:
     hour: 21
+    min: 5
+  title: "渋谷ハジメ at:OPENREC.tv マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube NightSky"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 22
+    min: 7
+  title: "海夜叉神、渋谷ハル、ゆきんこ、花咲アヤメ at:各々のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 22
+    min: 30
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-25
   time:
     hour: 22
     min: 0
-  title: "シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-07-25
-  time:
-    hour: 22
-    min: 30
-  title: "物述有栖 at:?"
+  title: 23時27分～ シスター・クレア at:YouTube ※
   end_time: 
   uri: 
 - date: 2018-07-25
   time:
     hour: 23
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: 05分～ 笹木咲 at:YouTube
   end_time: 
   uri: 
 - date: 2018-07-25
