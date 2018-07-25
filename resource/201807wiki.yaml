@@ -22,16 +22,16 @@
   uri: 
 - date: 2018-07-28
   time:
-    hour: 22
-    min: 0
-  title: "森中花咲＆夕陽リリ at:森中花咲のYouTubeチャンネル ホラゲー実況 オフラインコラボ"
+    hour: 13
+    min: 30
+  title: "剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-07-28
   time:
-    hour: 13
-    min: 30
-  title: "剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
+    hour: 22
+    min: 0
+  title: "森中花咲＆夕陽リリ at:森中花咲のYouTubeチャンネル ホラゲー実況 オフラインコラボ"
   end_time: 
   uri: 
 - date: 2018-07-27
@@ -125,9 +125,30 @@
   uri: 
 - date: 2018-07-25
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 22
+    min: 0
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
     hour: 23
     min: 0
   title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-24
