@@ -38,7 +38,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:? ※7/23の配信で言及＆Twitterネームより"
+  title: "伏見ガク at:YouTube おはガク！ そうめん"
   end_time: 
   uri: 
 - date: 2018-07-27
@@ -65,6 +65,11 @@
     hour: 22
     min: 0
   title: "笹木咲＆本間ひまわり＆ロボ子さん＆白上フブキ at:笹木咲＆ロボ子さんのYouTubeチャンネル Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time: 
+  title: "？時？分～ 森中花咲 at:?"
   end_time: 
   uri: 
 - date: 2018-07-25
@@ -111,9 +116,16 @@
   uri: 
 - date: 2018-07-25
   time:
+    hour: 19
+    min: 0
+  title: "伏見ガク at:YouTube ゲリラ 先行登録者３万人ありがとう配信"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
     hour: 20
     min: 0
-  title: "叶 at:? biohazard"
+  title: "叶 at:YouTube バイオハザード4"
   end_time: 
   uri: 
 - date: 2018-07-25
@@ -135,6 +147,13 @@
     hour: 22
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-25
+  time:
+    hour: 22
+    min: 30
+  title: "物述有栖 at:?"
   end_time: 
   uri: 
 - date: 2018-07-25
