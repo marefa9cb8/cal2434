@@ -15,6 +15,13 @@
   uri: 
 - date: 2018-07-29
   time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
     hour: 21
     min: 0
   title: "鈴木勝 at:YouTube ※30日へ延期"
@@ -30,6 +37,13 @@
     hour: 13
     min: 30
   title: "剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-07-28
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-07-28
@@ -102,9 +116,23 @@
   uri: 
 - date: 2018-07-26
   time:
+    hour: 19
+    min: 0
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time:
     hour: 20
     min: 0
   title: "森中花咲&剣持刀也 at:森中花咲のYouTubeチャンネル スーパーボンバーマンR"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time:
+    hour: 20
+    min: 51
+  title: "海夜叉神＆渋谷ハジメ＆渋谷ハル＆日ノ隈らん) at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-26
@@ -123,6 +151,13 @@
   uri: 
 - date: 2018-07-26
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-26
+  time:
     hour: 22
     min: 0
   title: "笹木咲＆本間ひまわり＆ロボ子さん＆白上フブキ"
@@ -132,14 +167,14 @@
   time:
     hour: 22
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:YouTube?
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-07-26
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※Twitterネームで告知"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-25
