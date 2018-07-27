@@ -201,7 +201,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube"
+  title: 03分～ 緑仙 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-07-27
+  time:
+    hour: 23
+    min: 3
+  title: "モイラ at:YouTube MoimoiRadio"
   end_time: 
   uri: 
 - date: 2018-07-27
