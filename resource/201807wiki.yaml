@@ -17,14 +17,14 @@
   time:
     hour: 0
     min: 30
-  title: "森中花咲＆夕陽リリ at:Mirrativ(同時配信)"
+  title: "森中花咲＆夕陽リリ at:Mirrativ(同時配信) おやすみなさい配信"
   end_time: 
   uri: 
 - date: 2018-07-29
   time:
     hour: 1
     min: 0
-  title: "家長むぎ at:? おやすみ配信(バイノーラル) 放送内で言及"
+  title: "家長むぎ at:? おやすみなさい配信(バイノーラル) 放送内で言及"
   end_time:
     hour: 3
     min: 0
@@ -75,6 +75,13 @@
   time:
     hour: 10
     min: 0
+  title: "鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-28
+  time:
+    hour: 10
+    min: 0
   title: "八朔ゆず at:Mirrativ"
   end_time: 
   uri: 
@@ -83,6 +90,13 @@
     hour: 13
     min: 30
   title: "剣持刀也、夕陽リリ、物述有栖 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-07-28
+  time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-28
