@@ -1,9 +1,23 @@
 ---
 - date: 2018-07-30
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ TKG"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓＆モイラ at:? Twitterネームから"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -23,8 +37,36 @@
 - date: 2018-07-29
   time:
     hour: 0
+    min: 24
+  title: "シスター・クレア at:YouTube ※回線不調のため中止"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 0
+    min: 24
+  title: "緑仙 at:YouTube 面接"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 0
     min: 30
-  title: "森中花咲＆夕陽リリ at:Mirrativ(同時配信) おやすみなさい配信"
+  title: 34分～ 森中花咲＆夕陽リリ at:Mirrativ(同時配信) おやすみなさい配信
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 0
+    min: 45
+  title: "海夜叉神、渋谷ハジメ、渋谷ハル、日ノ隈らん at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 1
+    min: 3
+  title: "叶＆AlphaAzur at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-07-29
@@ -32,6 +74,13 @@
     hour: 1
     min: 30
   title: "家長むぎ at:YouTube おやすみなさい配信(バイノーラル)"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 2
+    min: 21
+  title: "笹木咲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-29
@@ -186,11 +235,6 @@
     hour: 23
     min: 0
   title: "本間ひまわり at:YouTube Layers of Fear"
-  end_time: 
-  uri: 
-- date: 2018-07-28
-  time: 
-  title: "？時？分(深夜)～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-27
