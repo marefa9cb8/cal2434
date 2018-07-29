@@ -1,6 +1,13 @@
 ---
 - date: 2018-07-30
   time:
+    hour: 0
+    min: 22
+  title: "静凛 at:YouTube 青鬼3"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ TKG"
@@ -17,7 +24,7 @@
   time:
     hour: 21
     min: 0
-  title: "でろもい(樋口楓＆モイラ) at:? ※Twitterネームより"
+  title: "でろもい(樋口楓＆モイラ) at:モイラのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -42,8 +49,10 @@
   end_time: 
   uri: 
 - date: 2018-07-30
-  time: 
-  title: "？時？分(夜)～ 月ノ美兎 at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "月ノ美兎 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-29
