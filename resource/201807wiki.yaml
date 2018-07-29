@@ -17,7 +17,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓＆モイラ at:? Twitterネームから"
+  title: "でろもい(樋口楓＆モイラ) at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -31,7 +31,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり＆笹木咲＆叶＆闇夜乃モルル＆SUMOMOXqX（すもも） at:各々のYouTubeチャンネル OVERWATCH"
+  title: "本間ひまわり＆笹木咲＆叶＆闇夜乃モルル＆SUMOMOXqX（すもも）"
   end_time: 
   uri: 
 - date: 2018-07-29
@@ -114,15 +114,22 @@
 - date: 2018-07-29
   time:
     hour: 15
-    min: 0
-  title: "緑仙 at:? 歌 ※Twitterネームより"
+    min: 30
+  title: 50分～ 出雲霞 at:YouTube
   end_time: 
   uri: 
 - date: 2018-07-29
   time:
     hour: 15
-    min: 30
-  title: "出雲霞 at:YouTube"
+    min: 0
+  title: 16時02分～ 緑仙 at:YouTube 歌
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 17
+    min: 39
+  title: "静凛 at:YouTube 青鬼"
   end_time: 
   uri: 
 - date: 2018-07-29
@@ -154,8 +161,24 @@
   end_time: 
   uri: 
 - date: 2018-07-29
-  time: 
-  title: "夜～ 海夜叉神 at:YouTube? ウミリーグ"
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube ウミリーグ"
+  end_time: 
+  uri: 
+- date: 2018-07-29
+  time:
+    hour: 22
+    min: 0
+  title: "シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-07-29
