@@ -1,4 +1,11 @@
 ---
+- date: 2018-08-06
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
 - date: 2018-08-05
   time:
     hour: 0
@@ -9,8 +16,15 @@
 - date: 2018-08-04
   time:
     hour: 14
-    min: 0
+    min: 30
   title: "静凛、伏見ガク、モイラ at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
   end_time: 
   uri: 
 - date: 2018-08-02
@@ -30,5 +44,10 @@
 - date: 2018-08-01
   time: 
   title: "？時？分(夜)～ 卯月コウ at:YouTube? エモグランプリ"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time: 
+  title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 

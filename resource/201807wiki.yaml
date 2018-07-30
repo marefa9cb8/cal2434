@@ -1,9 +1,21 @@
 ---
 - date: 2018-07-31
   time:
+    hour: 10
+    min: 30
+  title: "八朔ゆず at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
     hour: 22
     min: 0
   title: "社築 at:? 「企業であった怖い話」 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time: 
+  title: "？時？分～ 夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -78,30 +90,44 @@
   uri: 
 - date: 2018-07-30
   time:
+    hour: 18
+    min: 45
+  title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
     hour: 19
     min: 0
-  title: "シスター・クレア at:?"
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
+    hour: 19
+    min: 0
+  title: 02分～ シスター・クレア at:YouTube
   end_time: 
   uri: 
 - date: 2018-07-30
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:YouTube"
+  title: 11分～ 葛葉 at:YouTube
   end_time: 
   uri: 
 - date: 2018-07-30
   time:
     hour: 20
     min: 0
-  title: "葛葉 at:YouTube"
+  title: 12分～ 轟京子 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2018-07-30
   time:
     hour: 20
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -116,13 +142,6 @@
     hour: 21
     min: 0
   title: "鈴木勝 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-07-30
-  time:
-    hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-30
