@@ -57,9 +57,23 @@
   uri: 
 - date: 2018-07-30
   time:
+    hour: 14
+    min: 0
+  title: "叶 at:YouTube PUBG→ロケットリーグ"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
+    hour: 20
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-30
@@ -74,6 +88,13 @@
     hour: 21
     min: 0
   title: "鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-30
+  time:
+    hour: 22
+    min: 0
+  title: "森中花咲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-30
