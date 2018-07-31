@@ -14,6 +14,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180731T210000
+SUMMARY:笹木咲 at:? 実況パワフルプロ野球2018
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180731T220000
 SUMMARY:社築 at:YouTube 「企業であった怖い話」
 URL:
@@ -8252,7 +8258,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180803T240000
-SUMMARY:もるｘひま（本間ひまわり＆闇夜乃モルル） at:闇夜乃モルルのYouTubeチャンネル
+SUMMARY:もるｘひま（本間ひまわり＆闇夜乃モルル） at:闇夜乃モルルのYouTubeチャンネル BattleBlock Theater
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -8270,7 +8276,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180801T220000
-SUMMARY:もるｘひま（本間ひまわり＆闇夜乃モルル） at:本間ひまわりのYouTubeチャンネル
+SUMMARY:もるｘひま（本間ひまわり＆闇夜乃モルル） at:本間ひまわりのYouTubeチャンネル BattleBlock Theater
 URL:
 DESCRIPTION:
 END:VEVENT
