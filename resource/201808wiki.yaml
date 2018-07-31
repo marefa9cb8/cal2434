@@ -48,9 +48,23 @@
   uri: 
 - date: 2018-08-01
   time:
+    hour: 0
+    min: 2
+  title: "花畑チャイカ at:YouTube Getting Over It(壺)・Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
     hour: 1
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: 26分～ 夕陽リリ at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ＆？？？ at:? anotherStory"
   end_time: 
   uri: 
 - date: 2018-08-01
@@ -61,17 +75,19 @@
   end_time: 
   uri: 
 - date: 2018-08-01
-  time: 
-  title: "？時？分(夜)～ 夕陽リリ＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2018-08-01
-  time: 
-  title: "？時？分(夜)～ 卯月コウ at:YouTube エモグランプリ"
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:?"
   end_time: 
   uri: 
 - date: 2018-08-01
   time: 
   title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time: 
+  title: "？時？分(夜)～ 卯月コウ at:YouTube エモグランプリ 中止"
   end_time: 
   uri: 
