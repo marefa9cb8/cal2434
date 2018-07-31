@@ -22,9 +22,9 @@
   uri: 
 - date: 2018-07-31
   time:
-    hour: 21
+    hour: 20
     min: 0
-  title: "静凛 at:YouTube"
+  title: "渋谷ハジメ＆渋谷ハル at:? ※時間変更"
   end_time: 
   uri: 
 - date: 2018-07-31
@@ -39,6 +39,13 @@
     hour: 21
     min: 0
   title: "海夜叉神 at:YouTube? 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 0
+  title: 15分～ 静凛 at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-31
@@ -59,7 +66,12 @@
   time:
     hour: 23
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time: 
+  title: "？時？分～ 花畑チャイカ at:?"
   end_time: 
   uri: 
 - date: 2018-07-30
