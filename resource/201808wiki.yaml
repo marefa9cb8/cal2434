@@ -48,9 +48,21 @@
   uri: 
 - date: 2018-08-01
   time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
     hour: 22
     min: 0
   title: "もるｘひま（本間ひまわり＆闇夜乃モルル） at:本間ひまわりのYouTubeチャンネル BattleBlock Theater"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time: 
+  title: "？時？分(夜)～ 夕陽リリ＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2018-08-01

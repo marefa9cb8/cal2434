@@ -15,9 +15,37 @@
   uri: 
 - date: 2018-07-31
   time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
     hour: 21
     min: 0
   title: "笹木咲 at:? 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神 at:YouTube? 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-31
@@ -28,8 +56,10 @@
   end_time: 
   uri: 
 - date: 2018-07-31
-  time: 
-  title: "？時？分～ 夕陽リリ at:YouTube"
+  time:
+    hour: 23
+    min: 30
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-07-30
