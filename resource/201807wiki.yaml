@@ -22,44 +22,65 @@
   uri: 
 - date: 2018-07-31
   time:
+    hour: 21
+    min: 0
+  title: "笹木咲 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆渋谷ハル at:? ※時間変更"
+  title: 21時06分～ 渋谷ハジメ＆渋谷ハル at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-31
   time:
     hour: 21
     min: 0
-  title: "笹木咲 at:? 実況パワフルプロ野球2018"
-  end_time: 
-  uri: 
-- date: 2018-07-31
-  time:
-    hour: 21
-    min: 0
-  title: "海夜叉神 at:YouTube? 雑談枠"
-  end_time: 
-  uri: 
-- date: 2018-07-31
-  time:
-    hour: 21
-    min: 0
-  title: 15分～ 静凛 at:YouTube ※時間変更
+  title: 15分～ 静凛 at:YouTube DARK SOULS REMASTERED ※時間変更
   end_time: 
   uri: 
 - date: 2018-07-31
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube NightSky2"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 21
+    min: 34
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-07-31
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube 「企業であった怖い話」"
+  title: 07分～ 社築 at:YouTube 「企業であった怖い話」
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 23
+    min: 17
+  title: "海夜叉神、ユキミお姉ちゃん、アイシィVソリッド、ぐんない at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-07-31
+  time:
+    hour: 23
+    min: 18
+  title: "叶 at:YouTube PREY"
   end_time: 
   uri: 
 - date: 2018-07-31
