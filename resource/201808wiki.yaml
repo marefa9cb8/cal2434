@@ -1,4 +1,11 @@
 ---
+- date: 2018-08-25
+  time:
+    hour: 20
+    min: 0
+  title: SEEDs全員集合!!!24時間生配信 at:? (※8/1緑仙配信内で告知)
+  end_time: 
+  uri: 
 - date: 2018-08-10
   time:
     hour: 23
@@ -160,14 +167,21 @@
   time:
     hour: 21
     min: 0
-  title: "海夜叉神 at:YouTube 雑談"
+  title: 03分～ 海夜叉神 at:YouTube 雑談
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 21
+    min: 16
+  title: "叶＆Ruytv＆vuelo＆ovagong  at:YouTube PUBG Scrim"
   end_time: 
   uri: 
 - date: 2018-08-01
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube みんなでパンパヤ"
   end_time: 
   uri: 
 - date: 2018-08-01
@@ -181,7 +195,21 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube メゾン・ド・魔王"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 23
+    min: 3
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 23
+    min: 20
+  title: "静凛 at:YouTube Euro Truck Simulator 2"
   end_time: 
   uri: 
 - date: 2018-08-01
@@ -189,11 +217,6 @@
     hour: 23
     min: 30
   title: "海夜叉神＆渋谷ハル at:YouTube PUBG"
-  end_time: 
-  uri: 
-- date: 2018-08-01
-  time: 
-  title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-01
