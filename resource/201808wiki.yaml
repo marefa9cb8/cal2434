@@ -1,4 +1,11 @@
 ---
+- date: 2018-08-10
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
 - date: 2018-08-06
   time:
     hour: 6
@@ -29,7 +36,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ フレンチトースト"
   end_time: 
   uri: 
 - date: 2018-08-03
@@ -51,6 +58,13 @@
     hour: 20
     min: 0
   title: "笹木咲 at:? 恐怖の森(DeathForest～森からの脱出～)"
+  end_time: 
+  uri: 
+- date: 2018-08-02
+  time:
+    hour: 22
+    min: 0
+  title: "椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2018-08-02
@@ -118,7 +132,14 @@
   time:
     hour: 18
     min: 0
-  title: "叶＆本間ひまわり＆SUMOMOXqX（すもも） at:? PUBG"
+  title: 09分～ 叶＆本間ひまわり＆SUMOMOXqX（すもも） at:叶のYouTubeチャンネル PUBG
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 18
+    min: 21
+  title: "渋谷ハジメ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-01
@@ -132,7 +153,14 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ＆？？？ at:YouTube anotherStory"
+  title: 07分～ 夕陽リリ＆伏見ガク at:YouTube EfframaiII
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-01
@@ -154,6 +182,13 @@
     hour: 23
     min: 0
   title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-01
+  time:
+    hour: 23
+    min: 30
+  title: "海夜叉神＆渋谷ハル at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-01
