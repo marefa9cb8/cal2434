@@ -16,6 +16,13 @@
   title: "？時？分～ 勇気ちひろ＆文野環＆家長むぎ at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2018-08-18
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ＆文野環 at:Mirrativ"
+  end_time: 
+  uri: 
 - date: 2018-08-14
   time: 
   title: "？時？分～ 樋口楓＆剣持刀也＆森中花咲 at:ニコニコ生放送"
@@ -85,6 +92,27 @@
 - date: 2018-08-04
   time: 
   title: "？時？分～ 鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 0
+    min: 32
+  title: "いわながCOO at:OPENREC.tv スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 1
+    min: 10
+  title: "闇夜乃モルル at:YouTube スーパーマリオカート"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 1
+    min: 15
+  title: "渋谷ハジメ at:YouTube PUBG ゾンビモード"
   end_time: 
   uri: 
 - date: 2018-08-03
@@ -229,7 +257,7 @@
   time:
     hour: 23
     min: 0
-  title: 05分～ える at:Mirrativ
+  title: 05分～ える at:YouTubeMirrativ
   end_time: 
   uri: 
 - date: 2018-08-02
@@ -258,6 +286,13 @@
     hour: 23
     min: 29
   title: "モイラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-02
+  time:
+    hour: 23
+    min: 45
+  title: "鈴木勝 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-02
