@@ -35,6 +35,11 @@
   title: "月ノ美兎＆アキラ100% at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2018-08-08
+  time: 
+  title: "？時？分～ シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-08-06
   time:
     hour: 6
@@ -71,6 +76,13 @@
   end_time: 
   uri: 
 - date: 2018-08-04
+  time:
+    hour: 22
+    min: 0
+  title: "魔界ノりりむ at:? 初配信 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-04
   time: 
   title: "？時？分～ 鈴鹿詩子 at:YouTube"
   end_time: 
@@ -86,7 +98,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:YouTube LAYERS OF FEAR INHERITANCE"
+  title: "本間ひまわり at:YouTube Layers of Fear Inheritance"
   end_time: 
   uri: 
 - date: 2018-08-03
@@ -105,7 +117,7 @@
   uri: 
 - date: 2018-08-03
   time: 
-  title: "？時？分～ 緑仙 at:? ※Twitterネームより"
+  title: "？時？分～ 緑仙 at:?"
   end_time: 
   uri: 
 - date: 2018-08-02
@@ -154,14 +166,28 @@
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:YouTube"
+  title: "笹木咲 at:YouTube 恐怖の森(DeathForest～森からの脱出～)"
   end_time: 
   uri: 
 - date: 2018-08-02
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:? 恐怖の森(DeathForest～森からの脱出～)"
+  title: 04分～ 勇気ちひろ at:YouTube One Shot
+  end_time: 
+  uri: 
+- date: 2018-08-02
+  time:
+    hour: 20
+    min: 12
+  title: "渋谷ハジメ＆渋谷ハル at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-02
+  time:
+    hour: 20
+    min: 47
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-02
@@ -204,6 +230,13 @@
     hour: 24
     min: 0
   title: "家長むぎ at:YouTube INSIDE"
+  end_time: 
+  uri: 
+- date: 2018-08-02
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-02
