@@ -3,7 +3,7 @@
   time:
     hour: 20
     min: 0
-  title: SEEDs全員集合!!!24時間生配信 at:? (※8/1緑仙配信内で告知)
+  title: SEEDs全員集合!!!24時間生配信 at:SEEDsメンバー各々のチャンネル
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -134,6 +134,13 @@
     hour: 8
     min: 9
   title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 9
+    min: 59
+  title: "叶＆Ruytv at:OPENREC.tv PUBG"
   end_time: 
   uri: 
 - date: 2018-08-03
