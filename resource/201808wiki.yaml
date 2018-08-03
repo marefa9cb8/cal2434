@@ -147,14 +147,28 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:YouTube Layers of Fear Inheritance"
+  title: 21時30分～ 本間ひまわり at:YouTube 雑談, Layers of Fear Inheritance ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-03
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-03
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙 at:YouTube セリフ枠"
   end_time: 
   uri: 
 - date: 2018-08-03
@@ -166,14 +180,16 @@
   uri: 
 - date: 2018-08-03
   time:
-    hour: 24
+    hour: 23
     min: 0
-  title: "もるｘひま（本間ひまわり＆闇夜乃モルル） at:闇夜乃モルルのYouTubeチャンネル BattleBlock Theater"
+  title: "静凛 at:YouTube 町会議前夜祭"
   end_time: 
   uri: 
 - date: 2018-08-03
-  time: 
-  title: "？時？分～ 緑仙 at:?"
+  time:
+    hour: 24
+    min: 0
+  title: "もるｘひま（本間ひまわり＆闇夜乃モルル） at:闇夜乃モルルのYouTubeチャンネル BattleBlock Theater"
   end_time: 
   uri: 
 - date: 2018-08-02
