@@ -70,7 +70,7 @@
   time:
     hour: 20
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ＆竹花ノート at:家長むぎのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-08-05
@@ -168,40 +168,49 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり＆海夜又神＆宇宙怪獣アンチン＆ケリン＆蟒蛇ミキ＆白上フブキ at:宇宙怪獣アンチンのYouTubeチャンネル PUBG(ゾンビモード)"
+  title: "本間ひまわり＆海夜又神＆宇宙怪獣アンチン＆ケリン＆蟒蛇ミキ＆白上フブキ"
   end_time: 
   uri: 
 - date: 2018-08-04
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube ※お休みになりました"
+  title: "鈴谷アキ at:YouTube ※お休み"
   end_time: 
   uri: 
 - date: 2018-08-04
   time:
     hour: 22
     min: 0
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube 初配信 Grand Theft Auto V"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 22
+    min: 0
+  title: 03分～ 緑仙 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2018-08-04
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:OPENREC.tv"
+  title: 25分～ 剣持刀也 at:OPENREC.tv マリオカート8 デラックス
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 23
+    min: 45
+  title: "鈴木勝 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-04
   time:
     hour: 24
     min: 0
-  title: "勇気ちひろ＆森中花咲＆宇志海いちご＆樋口楓 at:勇気ちひろのYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2018-08-04
-  time: 
-  title: "？時？分(夜)～ 緑仙 at:YouTube 雑談・歌"
+  title: "メーブレストロベア(勇気ちひろ＆森中花咲＆宇志海いちご＆樋口楓)"
   end_time: 
   uri: 
 - date: 2018-08-04
