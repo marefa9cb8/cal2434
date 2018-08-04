@@ -82,6 +82,20 @@
   uri: 
 - date: 2018-08-05
   time:
+    hour: 0
+    min: 0
+  title: 06分～ メーブレストロベア(勇気ちひろ＆森中花咲＆宇志海いちご＆樋口楓)
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 0
+    min: 47
+  title: "渋谷ハジメ at:YouTube 雑談, Getting Over It(壺), Euro Truck Simulator 2"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
     hour: 1
     min: 0
   title: "家長むぎ at:YouTube ※中止"
@@ -89,9 +103,33 @@
   uri: 
 - date: 2018-08-05
   time:
+    hour: 1
+    min: 43
+  title: "社築＆緑仙＆名伽尾アズマ at:社築のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 1
+    min: 57
+  title: "静凛 at:YouTube Euro Truck Simulator 2"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
     hour: 21
     min: 0
   title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time: 
+  title: "？時？分～  渋谷ハジメ＆渋谷ハル＆環右金＆宇森ひなこ＆日ノ隈らん at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time: 
+  title: "？時？分(深夜)～ 椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2018-08-04
@@ -209,13 +247,8 @@
 - date: 2018-08-04
   time:
     hour: 24
-    min: 0
+    min: 6
   title: "メーブレストロベア(勇気ちひろ＆森中花咲＆宇志海いちご＆樋口楓)"
-  end_time: 
-  uri: 
-- date: 2018-08-04
-  time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2018-08-04
