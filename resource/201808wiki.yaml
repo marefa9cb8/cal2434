@@ -63,7 +63,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ 昔食べたおこさまランチに入っていたもの"
   end_time: 
   uri: 
 - date: 2018-08-06
@@ -117,6 +117,27 @@
   uri: 
 - date: 2018-08-05
   time:
+    hour: 2
+    min: 25
+  title: "渋谷ハル＆ユキミお姉ちゃん＆歌衣メイカ＆オボロリュウ"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 3
+    min: 36
+  title: "花畑チャイカ＆名伽尾アズマ＆社築＆緑仙 at:花畑チャイカのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
     hour: 21
     min: 0
   title: "葛葉 at:?"
@@ -129,7 +150,7 @@
   uri: 
 - date: 2018-08-05
   time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:?"
+  title: "？時？分(8/4深夜)～ 椎名唯華 at:? ※中止"
   end_time: 
   uri: 
 - date: 2018-08-04
