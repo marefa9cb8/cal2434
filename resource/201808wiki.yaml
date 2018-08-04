@@ -73,6 +73,20 @@
   title: "轟京子 at:YouTube 納涼！ガチhorror▽night"
   end_time: 
   uri: 
+- date: 2018-08-05
+  time:
+    hour: 1
+    min: 0
+  title: "家長むぎ at:YouTube ※なし"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-04
   time:
     hour: 1
@@ -103,13 +117,6 @@
   uri: 
 - date: 2018-08-04
   time:
-    hour: 1215
-    min: 0
-  title: "安土桃 at:YouTube 時間変更"
-  end_time: 
-  uri: 
-- date: 2018-08-04
-  time:
     hour: 14
     min: 30
   title: "静凛＆伏見ガク＆モイラ at:ニコニコ生放送"
@@ -117,9 +124,37 @@
   uri: 
 - date: 2018-08-04
   time:
+    hour: 12
+    min: 0
+  title: 14時49分～ 安土桃 at:YouTube ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 16
+    min: 43
+  title: "シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
     hour: 17
     min: 0
-  title: "渋谷ハジメ(渋谷ハルの「5000人＆スパチャ解放記念Vector杯」) at:?"
+  title: "「5000人＆スパチャ解放記念Vector杯」 at:渋谷ハルのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 17
+    min: 6
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル at:YouTube グラディウスⅡ -GOFERの野望-"
   end_time: 
   uri: 
 - date: 2018-08-04
@@ -131,9 +166,23 @@
   uri: 
 - date: 2018-08-04
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
     hour: 22
     min: 0
   title: "魔界ノりりむ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2018-08-04
@@ -145,12 +194,17 @@
   uri: 
 - date: 2018-08-04
   time: 
-  title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
+  title: "？時？分(夜)～ 緑仙 at:YouTube 雑談・歌"
   end_time: 
   uri: 
 - date: 2018-08-04
   time: 
-  title: "？時？分～ 鈴鹿詩子 at:YouTube 中止"
+  title: "？時？分(深夜)～ 椎名唯華 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-04
+  time: 
+  title: "？時？分～ 鈴鹿詩子 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2018-08-03
