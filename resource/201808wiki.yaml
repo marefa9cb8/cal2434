@@ -56,7 +56,7 @@
   uri: 
 - date: 2018-08-07
   time: 
-  title: "？時？分～ 樋口楓＆モイラ＆勇気ちひろ＆える at:? お料理配信"
+  title: "？時？分～ もちがえる(樋口楓＆モイラ＆勇気ちひろ＆える) at:? お料理配信"
   end_time: 
   uri: 
 - date: 2018-08-06
@@ -133,7 +133,7 @@
   time:
     hour: 15
     min: 0
-  title: "樋口楓 at:YouTube おえかきの森"
+  title: "樋口楓＆勇気ちひろ＆宇志海いちご at:樋口楓のYouTubeチャンネル おえかきの森"
   end_time: 
   uri: 
 - date: 2018-08-05
@@ -148,6 +148,27 @@
     hour: 21
     min: 0
   title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 23
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 24
+    min: 0
+  title: "花畑チャイカ at:?"
   end_time: 
   uri: 
 - date: 2018-08-05
