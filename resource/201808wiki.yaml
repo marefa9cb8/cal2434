@@ -68,6 +68,41 @@
   uri: 
 - date: 2018-08-06
   time:
+    hour: 0
+    min: 0
+  title: 02分～ 花畑チャイカ at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time:
+    hour: 0
+    min: 20
+  title: "伏見ガク at:YouTube DeathForest ～森からの脱出～"
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time:
+    hour: 0
+    min: 51
+  title: "海夜叉神 at:YouTube 東方文花帖"
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time:
+    hour: 2
+    min: 16
+  title: "静凛 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time:
+    hour: 2
+    min: 27
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 昔食べたおこさまランチに入っていたもの"
@@ -78,6 +113,11 @@
     hour: 20
     min: 0
   title: "家長むぎ＆竹花ノート at:家長むぎのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-08-06
+  time: 
+  title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-05
@@ -230,7 +270,7 @@
 - date: 2018-08-05
   time:
     hour: 23
-    min: 45
+    min: 46
   title: "鈴木勝 at:Mirrativ"
   end_time: 
   uri: 
