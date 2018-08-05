@@ -42,6 +42,11 @@
   title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
+- date: 2018-08-10
+  time: 
+  title: "？時？分～ 森中花咲 at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-08
   time:
     hour: 18
@@ -55,8 +60,10 @@
   end_time: 
   uri: 
 - date: 2018-08-07
-  time: 
-  title: "？時？分～ もちがえる(樋口楓＆モイラ＆勇気ちひろ＆える) at:? お料理配信"
+  time:
+    hour: 20
+    min: 0
+  title: "もちがえる(樋口楓＆モイラ＆勇気ちひろ＆える) at:? お料理配信"
   end_time: 
   uri: 
 - date: 2018-08-06
@@ -147,6 +154,13 @@
   time:
     hour: 20
     min: 0
+  title: SUMOMOXqX（すもも） at:OPENREC.tv PUBG
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 20
+    min: 0
   title: 10分～ 椎名唯華 at:YouTube DeathForest～森からの脱出～
   end_time: 
   uri: 
@@ -161,49 +175,70 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:?"
+  title: 09分～ 静凛 at:YouTube DARK SOULS REMASTERED
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 21
+    min: 21
+  title: "海夜叉神 at:YouTube 東方文花帖"
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube"
+  title: 28分～ 葛葉 at:YouTube 龍が如く0 誓いの場所
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 21
     min: 30
-  title: "ドーラ at:YouTube"
+  title: 45分～ ドーラ at:YouTube 雑談
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 23
+    min: 3
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 23
     min: 0
-  title: " 渋谷ハジメ＆渋谷ハル＆環右金＆宇森ひなこ＆日ノ隈らん at:? PUBG"
+  title: 16分～  渋谷ハジメ＆渋谷ハル＆環右金＆宇森ひなこ＆日ノ隈らん
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 23
-    min: 0
-  title: "海夜叉神 at:? 雑談"
+    min: 18
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 23
     min: 30
-  title: "静凛 at:YouTube"
+  title: 42分～ 静凛 at:YouTube FF14
+  end_time: 
+  uri: 
+- date: 2018-08-05
+  time:
+    hour: 23
+    min: 45
+  title: "鈴木勝 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-05
   time:
     hour: 24
     min: 0
-  title: "花畑チャイカ at:?"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-05
