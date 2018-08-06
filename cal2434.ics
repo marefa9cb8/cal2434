@@ -8341,6 +8341,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20180808T190000
+SUMMARY:える＆樋口楓＆静凛＆渋谷ハジメ＆モイラ＆宇志海いちご＆家長むぎ＆夕陽リリ＆文野環＆伏見ガク＆剣持刀也＆森中花咲 at:? おすしたべる！コラボ！よ！！ ～たこさんvsいかさん～
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180808
 SUMMARY:？時？分～ シスター・クレア at:YouTube
 URL:
