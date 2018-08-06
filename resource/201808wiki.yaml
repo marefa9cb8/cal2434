@@ -99,7 +99,21 @@
   time:
     hour: 2
     min: 10
-  title: "渋谷ハジメ at:YouTube LoL"
+  title: "渋谷ハジメ at:YouTube LoL, PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-07
+  time:
+    hour: 3
+    min: 20
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-07
+  time:
+    hour: 4
+    min: 24
+  title: "海夜叉神＆アイシィＶソリッド at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-07
@@ -282,13 +296,6 @@
   title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
-- date: 2018-08-06
-  time:
-    hour: 24
-    min: 0
-  title: 04分～ 海夜叉神＆渋谷ハル＆日ノ隈らん＆ゆきんこ at:YouTube PUBG
-  end_time: 
-  uri: 
 - date: 2018-08-05
   time:
     hour: 0
@@ -444,13 +451,6 @@
   end_time: 
   uri: 
 - date: 2018-08-05
-  time:
-    hour: 24
-    min: 0
-  title: "花畑チャイカ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-08-05
   time: 
   title: "？時？分(8/4深夜)～ 椎名唯華 at:? ※中止"
   end_time: 
@@ -460,13 +460,6 @@
     hour: 1
     min: 0
   title: 03分～ 椎名唯華 at:YouTube DARK SOULS REMASTERED
-  end_time: 
-  uri: 
-- date: 2018-08-04
-  time:
-    hour: 1
-    min: 7
-  title: "静凛 at:YouTube 町会議前夜祭"
   end_time: 
   uri: 
 - date: 2018-08-04
@@ -565,13 +558,6 @@
     hour: 23
     min: 45
   title: "鈴木勝 at:Mirrativ"
-  end_time: 
-  uri: 
-- date: 2018-08-04
-  time:
-    hour: 24
-    min: 6
-  title: "メーブレストロベア(勇気ちひろ＆森中花咲＆宇志海いちご＆樋口楓)"
   end_time: 
   uri: 
 - date: 2018-08-04
