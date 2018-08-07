@@ -75,6 +75,11 @@
   title: "？時？分(夜遅く)～ 春崎エアル at:?"
   end_time: 
   uri: 
+- date: 2018-08-09
+  time: 
+  title: "？時？分(夜)～ 叶＆赤羽葉子 at:叶の?チャンネル PUBG"
+  end_time: 
+  uri: 
 - date: 2018-08-08
   time:
     hour: 0
@@ -84,9 +89,30 @@
   uri: 
 - date: 2018-08-08
   time:
+    hour: 0
+    min: 3
+  title: "静凛 at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 0
+    min: 13
+  title: "花畑チャイカ at:YouTube 謝罪,雑談,Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 0
+    min: 29
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
     hour: 2
     min: 0
-  title: "魔界ノりりむ at:?"
+  title: "魔界ノりりむ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-08
@@ -122,7 +148,14 @@
   time:
     hour: 22
     min: 0
-  title: "(すもも幼稚園)本間ひまわり＆闇夜乃モルル＆魔界ノりりむ＆SUMOMOXqX（すもも） at:YouTube PUBG"
+  title: "物述有栖 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり＆闇夜乃モルル＆魔界ノりりむ＆SUMOMOXqX（すもも） at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-07

@@ -314,28 +314,28 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube Poly Bridgeをしながら雑談5"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-24
   time:
     hour: 22
     min: 0
-  title: "物述有栖 atYouTube ♡有栖のお茶会withましゅまろ♡"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-24
   time:
     hour: 22
     min: 45
-  title: "静凛 YouTube"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-24
   time:
     hour: 24
     min: 0
-  title: "剣持刀也 at:YouTube ～VSオーストラリアの痴漢～"
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-23
@@ -356,28 +356,28 @@
   time:
     hour: 20
     min: 30
-  title: "家長むぎ ミラティブ"
+  title: "家長むぎ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-03-23
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube #もいらじ MoimoiRadio 第１もい"
+  title: "モイラ at:YouTube #もいらじ"
   end_time: 
   uri: 
 - date: 2018-03-23
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube アーカイブ"
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-23
   time:
     hour: 24
     min: 0
-  title: "剣持刀也 at:YouTube ～YouTubeに降りたった変態～"
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-22
@@ -691,14 +691,14 @@
   time:
     hour: 21
     min: 0
-  title: "でろもい(仮)(樋口楓xモイラコラボ) 樋口楓のYouTubeチャンネルにて"
+  title: "でろもい(仮)(樋口楓xモイラコラボ) at:樋口楓のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-03-16
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ @YouTube"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-03-16
@@ -859,7 +859,7 @@
   time:
     hour: 4
     min: 30
-  title: "? ギルザレンⅢ世 at:Mirrativ"
+  title: "ギルザレンIII世 at:Mirrativ 初配信"
   end_time: 
   uri: 
 - date: 2018-03-12
@@ -881,13 +881,6 @@
     hour: 22
     min: 30
   title: "家長むぎ at:Mirrativ 初配信"
-  end_time: 
-  uri: 
-- date: 2018-03-11
-  time:
-    hour: 4
-    min: 30
-  title: "ギルザレンⅢ世 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-03-11
