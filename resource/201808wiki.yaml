@@ -120,7 +120,7 @@
   time:
     hour: 8
     min: 0
-  title: "鈴鹿詩子 at:Mirrativ"
+  title: 01分～ 鈴鹿詩子 at:Mirrativ パズドラ & グラブル
   end_time: 
   uri: 
 - date: 2018-08-07
@@ -135,6 +135,13 @@
     hour: 21
     min: 0
   title: "本間ひまわり＆白上フブキ at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2018-08-07
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神＆花畑チャイカ＆日ノ隈らん＆稲荷くろむ at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-08-07
