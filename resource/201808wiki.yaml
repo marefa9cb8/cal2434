@@ -227,50 +227,71 @@
 - date: 2018-08-08
   time:
     hour: 20
-    min: 0
-  title: "シスター・クレア at:YouTube ※時間変更"
-  end_time: 
-  uri: 
-- date: 2018-08-08
-  time:
-    hour: 21
-    min: 0
+    min: 58
   title: "春崎エアル at:YouTube(PS4ブロードキャスト) BORDER BREAK"
   end_time: 
   uri: 
 - date: 2018-08-08
   time:
-    hour: 22
-    min: 0
-  title: "物述有栖 at:YouTube"
+    hour: 21
+    min: 21
+  title: "叶 at:OPENREC.tv PUBG"
   end_time: 
   uri: 
 - date: 2018-08-08
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり＆闇夜乃モルル＆魔界ノりりむ＆SUMOMOXqX（すもも） at:YouTube PUBG"
+  title: "本間ひまわり＆闇夜乃モルル＆魔界ノりりむ＆SUMOMOXqX（すもも）"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 22
+    min: 0
+  title: 06分～ 物述有栖 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 20
+    min: 0
+  title: 22時11分～ シスター・クレア at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-08
   time:
     hour: 23
     min: 0
-  title: "椎名唯華 at:? 雑談"
+  title: 06分～ 椎名唯華 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2018-08-08
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:Mirrativ"
+  title: 17分～ 緑仙 at:Mirrativ
   end_time: 
   uri: 
 - date: 2018-08-08
   time:
     hour: 23
     min: 0
-  title: "静凛 at:YouTube 活動半年ありがとうLIVE"
+  title: 24時過ぎ頃～ 静凛 at:YouTube 活動半年ありがとうLIVE ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 23
+    min: 45
+  title: "鈴木勝 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 24
+    min: 0
+  title: "椎名唯華 at:? ゲーム"
   end_time: 
   uri: 
 - date: 2018-08-07
