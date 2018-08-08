@@ -118,8 +118,22 @@
 - date: 2018-08-08
   time:
     hour: 8
+    min: 6
+  title: "シスター・クレア at:YouTube Mirrativ 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 8
     min: 0
-  title: "鈴鹿詩子 at:Mirrativ"
+  title: 06分～ 鈴鹿詩子 at:Mirrativ パズドラ
+  end_time: 
+  uri: 
+- date: 2018-08-08
+  time:
+    hour: 8
+    min: 31
+  title: "出雲霞 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-08
