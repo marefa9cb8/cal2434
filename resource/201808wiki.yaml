@@ -150,14 +150,21 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube ※Twitterネームより"
+  title: "樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-09
   time:
     hour: 21
     min: 0
-  title: "叶＆赤羽葉子 at:? PUBG"
+  title: "叶＆赤羽葉子 at:叶のOPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-09
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:?"
   end_time: 
   uri: 
 - date: 2018-08-09
@@ -169,17 +176,17 @@
   uri: 
 - date: 2018-08-09
   time: 
-  title: "？時？分～ 静凛 at:YouTube 活動半年ありがとうLIVE"
-  end_time: 
-  uri: 
-- date: 2018-08-09
-  time: 
-  title: "？時？分～ モイラ at:YouTube もいらじ"
-  end_time: 
-  uri: 
-- date: 2018-08-09
-  time: 
   title: "？時？分(夕方)～ 文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-09
+  time: 
+  title: "？時？分(夜)～ モイラ at:YouTube もいらじ"
+  end_time: 
+  uri: 
+- date: 2018-08-09
+  time: 
+  title: "？時？分～ 静凛 at:YouTube 活動半年ありがとうLIVE"
   end_time: 
   uri: 
 - date: 2018-08-08
