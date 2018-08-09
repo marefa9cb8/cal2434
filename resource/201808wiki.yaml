@@ -12,8 +12,10 @@
   end_time: 
   uri: 
 - date: 2018-08-19
-  time: 
-  title: "？時？分～ 勇気ちひろ＆文野環＆家長むぎ at:ニコニコ生放送"
+  time:
+    hour: 12
+    min: 30
+  title: "勇気ちひろ＆文野環＆家長むぎ at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -96,7 +98,7 @@
   time:
     hour: 10
     min: 0
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:? コミケ実況を自宅から優雅に眺める配信"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -125,6 +127,13 @@
     hour: 1
     min: 0
   title: "静凛 at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 3
+    min: 17
+  title: "椎名唯華 at:Mirrativ 雑談"
   end_time: 
   uri: 
 - date: 2018-08-10
