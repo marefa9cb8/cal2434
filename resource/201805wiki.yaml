@@ -1789,9 +1789,7 @@
     hour: 18
     min: 30
   title: "勇気ちひろ at:Mirrativ"
-  end_time:
-    hour: 22
-    min: 0
+  end_time: 
   uri: 
 - date: 2018-05-11
   time:
@@ -1812,18 +1810,14 @@
     hour: 22
     min: 0
   title: "モイラ at:YouTube もいらじ"
-  end_time:
-    hour: 23
-    min: 0
+  end_time: 
   uri: 
 - date: 2018-05-11
   time:
     hour: 22
     min: 30
-  title: "家長むぎ at: Mirrativ"
-  end_time:
-    hour: 23
-    min: 30
+  title: "家長むぎ at:Mirrativ"
+  end_time: 
   uri: 
 - date: 2018-05-11
   time:
@@ -1837,15 +1831,13 @@
     hour: 23
     min: 0
   title: "静凛 at:YouTube"
-  end_time:
-    hour: 24
-    min: 30
+  end_time: 
   uri: 
 - date: 2018-05-11
   time:
     hour: 23
     min: 13
-  title: "文野環 テスト配信(荒野行動) at;Mirrativ"
+  title: "文野環 テスト配信(荒野行動) at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-05-10
