@@ -11,6 +11,13 @@
   title: "？時？分～ 静凛＆物述有栖＆モイラ at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2018-08-21
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ at:?  8/10の放送で言及"
+  end_time: 
+  uri: 
 - date: 2018-08-19
   time:
     hour: 12
@@ -96,6 +103,20 @@
   uri: 
 - date: 2018-08-11
   time:
+    hour: 1
+    min: 0
+  title: "闇夜乃モルル at:YouTube メタルスラッグ ※開始時刻:待機画面より"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 2
+    min: 0
+  title: "魔界ノりりむ at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
     hour: 10
     min: 0
   title: "卯月コウ at:YouTube コミケ実況を自宅から優雅に眺める配信"
@@ -161,28 +182,28 @@
   time:
     hour: 17
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: 14分～ 鈴鹿詩子 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 17
+    min: 0
+  title: 18時00分～ 本間ひまわり at:OPENREC.tv マリオカート８ デラックス ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-10
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:OPENREC.tv マリオカート８"
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time:
-    hour: 18
-    min: 0
-  title: "渋谷ハジメ at:? 放送開始6か月突破記念"
+  title: 03分～ 渋谷ハジメ at:YouTube 放送開始6か月突破記念
   end_time: 
   uri: 
 - date: 2018-08-10
   time:
     hour: 18
     min: 30
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -201,9 +222,23 @@
   uri: 
 - date: 2018-08-10
   time:
+    hour: 20
+    min: 0
+  title: "叶 at:YouTube FF15"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
     hour: 21
     min: 0
-  title: JK組(月ノ美兎＆樋口楓＆静凛) at:?
+  title: JK組(月ノ美兎＆樋口楓＆静凛) at:各々のチャンネル
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ at:あさひのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -236,17 +271,7 @@
   uri: 
 - date: 2018-08-10
   time: 
-  title: "？時？分～ 魔界ノりりむ at:?"
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time: 
   title: "？時？分(夜遅く)～ 春崎エアル at:?"
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time: 
-  title: "？時？分(深夜)～ 闇夜乃モルル at:YouTube メタルスラッグ"
   end_time: 
   uri: 
 - date: 2018-08-09
