@@ -154,7 +154,21 @@
   time:
     hour: 2
     min: 55
-  title: "春崎エアル at:YouTube BORDER BREAK"
+  title: "春崎エアル at:YouTube(PS4ブロードキャスト) BORDER BREAK"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 4
+    min: 44
+  title: "闇夜乃モルル at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 5
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -166,6 +180,27 @@
   uri: 
 - date: 2018-08-11
   time:
+    hour: 16
+    min: 0
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 19
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 19
+    min: 30
+  title: "物述有栖 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
     hour: 21
     min: 0
   title: "月ノ美兎 at:REALITY"
@@ -173,16 +208,26 @@
   uri: 
 - date: 2018-08-11
   time:
-    hour: 21
-    min: 30
-  title: "?～ 鈴谷アキ at:YouTube? みんなでパンパヤ"
+    hour: 22
+    min: 0
+  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-08-11
   time:
-    hour: 22
+    hour: 24
     min: 0
-  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル"
+  title: "闇夜乃モルル at:? ※開始時刻:Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time: 
+  title: "？時？分～ 鈴谷アキ at:? みんなでパンパヤ"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time: 
+  title: "？時？分～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-10
