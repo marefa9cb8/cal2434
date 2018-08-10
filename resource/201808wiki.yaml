@@ -86,7 +86,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ＆名伽尾アズマ at:? アズドラオフラインコラボ"
+  title: "ドーラ＆名伽尾アズマ at:YouTube アズドラオフラインコラボ"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -147,14 +147,14 @@
   time:
     hour: 8
     min: 30
-  title: 43分～ 出雲霞 at:YouTube
+  title: 43分～ 出雲霞 at:YouTube 朝ごろごろ
   end_time: 
   uri: 
 - date: 2018-08-10
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube"
+  title: "出雲霞 at:YouTube 昼ごろごろ 「チョコ系」のお菓子"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -180,6 +180,13 @@
   uri: 
 - date: 2018-08-10
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube ホノボノ"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
     hour: 21
     min: 0
   title: JK組(月ノ美兎＆樋口楓＆静凛) at:?
@@ -193,8 +200,10 @@
   end_time: 
   uri: 
 - date: 2018-08-10
-  time: 
-  title: "？時？分～ 森中花咲 at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-08-10
