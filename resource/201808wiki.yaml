@@ -11,11 +11,18 @@
   title: "？時？分～ 静凛＆物述有栖＆モイラ at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2018-08-22
+  time:
+    hour: 23
+    min: 0
+  title: "?～ 剣持刀也 at:? SharpnessRadio"
+  end_time: 
+  uri: 
 - date: 2018-08-21
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:?  8/10の放送で言及"
+  title: "渋谷ハジメ at:YouTube 渋谷カフェ：つなげようお客様の輪"
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -98,21 +105,56 @@
   uri: 
 - date: 2018-08-12
   time: 
-  title: "？時？分(夜)～ 卯月コウ at:?"
+  title: "？時？分(夜)～ 卯月コウ at:? イチオシにじさんじの会"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 0
+    min: 0
+  title: 42分～ 剣持刀也 at:YouTube SharpnessRadio
   end_time: 
   uri: 
 - date: 2018-08-11
   time:
     hour: 1
     min: 0
-  title: "闇夜乃モルル at:YouTube メタルスラッグ ※開始時刻:待機画面より"
+  title: "闇夜乃モルル at:YouTube メタルスラッグ"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 1
+    min: 26
+  title: "渋谷ハジメ＆渋谷ハル at:両名のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-08-11
   time:
     hour: 2
     min: 0
-  title: "魔界ノりりむ at:?"
+  title: "魔界ノりりむ at:YouTube Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 2
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 0
+    min: 0
+  title: 02時53分～ 静凛 at:OPENREC.tvYouTube Euro Truck Simulator 2
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 2
+    min: 55
+  title: "春崎エアル at:YouTube BORDER BREAK"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -140,7 +182,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル Fortnite"
+  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -274,25 +316,6 @@
     hour: 23
     min: 37
   title: "シスター・クレア at:Mirrativ 雑談"
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time:
-    hour: 23
-    min: 0
-  title: 24時00分～ 剣持刀也 at:YouTube SharpnessRadio
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time:
-    hour: 24
-    min: 0
-  title: "静凛 at:OPENREC.tv ※時間変更"
-  end_time: 
-  uri: 
-- date: 2018-08-10
-  time: 
-  title: "？時？分(夜遅く)～ 春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-08-09
