@@ -98,14 +98,7 @@
   time:
     hour: 10
     min: 0
-  title: "卯月コウ at:? コミケ実況を自宅から優雅に眺める配信"
-  end_time: 
-  uri: 
-- date: 2018-08-11
-  time:
-    hour: 18
-    min: 0
-  title: "渋谷ハジメ at:? 放送開始6か月突破記念"
+  title: "卯月コウ at:YouTube コミケ実況を自宅から優雅に眺める配信"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -159,9 +152,30 @@
   uri: 
 - date: 2018-08-10
   time:
+    hour: 15
+    min: 30
+  title: 32分～ 笹木咲 at:YouTube Octodad
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
     hour: 17
     min: 0
   title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:OPENREC.tv マリオカート８"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 18
+    min: 0
+  title: "渋谷ハジメ at:? 放送開始6か月突破記念"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -194,9 +208,9 @@
   uri: 
 - date: 2018-08-10
   time:
-    hour: 23
-    min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -207,13 +221,32 @@
   end_time: 
   uri: 
 - date: 2018-08-10
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 24
+    min: 0
+  title: "静凛 at:OPENREC.tv ※時間変更"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time: 
+  title: "？時？分～ 魔界ノりりむ at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-10
   time: 
   title: "？時？分(夜遅く)～ 春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-08-10
   time: 
-  title: "？時？分～ 魔界ノりりむ at:?"
+  title: "？時？分(深夜)～ 闇夜乃モルル at:YouTube メタルスラッグ"
   end_time: 
   uri: 
 - date: 2018-08-09
