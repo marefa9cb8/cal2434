@@ -139,8 +139,15 @@
 - date: 2018-08-10
   time:
     hour: 8
+    min: 35
+  title: "鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 8
     min: 30
-  title: "出雲霞 at:YouTube"
+  title: 43分～ 出雲霞 at:YouTube
   end_time: 
   uri: 
 - date: 2018-08-10
@@ -148,6 +155,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-10
+  time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-10
