@@ -25,6 +25,13 @@
   title: "渋谷ハジメ at:YouTube 渋谷カフェ：つなげようお客様の輪"
   end_time: 
   uri: 
+- date: 2018-08-21
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア＆メリーミルク at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-19
   time:
     hour: 12
@@ -87,6 +94,27 @@
 - date: 2018-08-13
   time: 
   title: "？時？分～ 本間ひまわり＆皆守ひいろ at:本間ひまわりのYouTubeチャンネル ※8/8皆守ひいろの配信で言及"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:? ホラー企画 the 呪怨"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:? ありがとう祭"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -214,20 +242,13 @@
   end_time: 
   uri: 
 - date: 2018-08-11
-  time:
-    hour: 24
-    min: 0
-  title: "闇夜乃モルル at:? ※開始時刻:Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2018-08-11
   time: 
   title: "？時？分～ 鈴谷アキ at:? みんなでパンパヤ"
   end_time: 
   uri: 
 - date: 2018-08-11
   time: 
-  title: "？時？分～ 緑仙 at:? ※Twitterネームより"
+  title: "？時？分(夜)～ 緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-10
