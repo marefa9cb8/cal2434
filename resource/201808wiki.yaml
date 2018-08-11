@@ -1,14 +1,16 @@
 ---
 - date: 2018-08-25
   time:
-    hour: 20
+    hour: 12
     min: 0
-  title: SEEDs全員集合!!!24時間生配信 at:SEEDsメンバー各々のチャンネル
+  title: "静凛＆物述有栖＆モイラ at:ニコニコ生放送"
   end_time: 
   uri: 
 - date: 2018-08-25
-  time: 
-  title: "？時？分～ 静凛＆物述有栖＆モイラ at:ニコニコ生放送"
+  time:
+    hour: 20
+    min: 0
+  title: SEEDs全員集合!!!24時間生配信 at:SEEDsメンバー各々のチャンネル
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -94,6 +96,11 @@
 - date: 2018-08-13
   time: 
   title: "？時？分～ 本間ひまわり＆皆守ひいろ at:本間ひまわりのYouTubeチャンネル ※8/8皆守ひいろの配信で言及"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time: 
+  title: "？時？分～ 勇気ちひろ at:? テリアサーガ ※8/11モイラの配信で言及"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -248,9 +255,9 @@
   uri: 
 - date: 2018-08-11
   time:
-    hour: 19
-    min: 0
-  title: "モイラ at:? テリアサーガ(視聴者参加型)"
+    hour: 18
+    min: 1
+  title: "叶＆本間ひまわり＆sumomoxqx（すもも） at:OPENREC.tv COD:BO4"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -263,8 +270,22 @@
 - date: 2018-08-11
   time:
     hour: 19
+    min: 0
+  title: 20分～ モイラ at:YouTube テリアサーガ
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 19
     min: 30
   title: "物述有栖 at:YouTube キズナアイ杯観戦お茶会"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube 作業雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-11
