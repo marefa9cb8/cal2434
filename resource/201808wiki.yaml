@@ -74,6 +74,20 @@
   title: "？時？分～ 月ノ美兎 at:? ※8/9の配信で言及"
   end_time: 
   uri: 
+- date: 2018-08-15
+  time:
+    hour: 14
+    min: 0
+  title: "出雲霞 at:? 昼やスミ 「ゼリー系」のお菓子"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 19
+    min: 0
+  title: "鷹宮リオン at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-14
   time:
     hour: 12
@@ -90,7 +104,21 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ パンフェス"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
+    hour: 8
+    min: 0
+  title: "出雲霞 at:YouTube 朝やスミ"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり＆闇夜乃モルル＆ドーラ at:? おえかきの森"
   end_time: 
   uri: 
 - date: 2018-08-13
@@ -107,26 +135,35 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube The HOUSE 2"
   end_time: 
   uri: 
 - date: 2018-08-12
   time:
     hour: 0
     min: 0
-  title: "闇夜乃モルル at:? ホラー企画 the 呪怨"
+  title: "闇夜乃モルル at:YouTube ホラー企画 the 呪怨, I MISS YOU"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 0
+    min: 31
+  title: "叶 at:YouTube COD:BO4"
   end_time: 
   uri: 
 - date: 2018-08-12
   time:
     hour: 1
     min: 0
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube OUTLAST"
   end_time: 
   uri: 
 - date: 2018-08-12
-  time: 
-  title: "？時？分(深夜)～ 緑仙 at:?"
+  time:
+    hour: 2
+    min: 10
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -147,7 +184,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube? でろーんが森を燃やすRPG ※Twitterプロフィール欄より"
+  title: "樋口楓 at:YouTube? でろーんが森を燃やすRPG ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -336,7 +373,7 @@
   time:
     hour: 23
     min: 42
-  title: "ブレスト軍（勇気ちひろ＆宇志海いちご） at:勇気ちひろのMirrativ"
+  title: "ブレスト軍（勇気ちひろ＆宇志海いちご） at:勇気ちひろのMirrativ PUBGモバイル"
   end_time: 
   uri: 
 - date: 2018-08-10
