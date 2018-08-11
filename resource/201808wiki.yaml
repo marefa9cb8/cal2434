@@ -131,6 +131,13 @@
   uri: 
 - date: 2018-08-12
   time:
+    hour: 19
+    min: 0
+  title: "卯月コウ at:YouTube イチオシにじさんじの会"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
     hour: 20
     min: 0
   title: "本間ひまわり at:? ありがとう祭"
@@ -148,11 +155,6 @@
     hour: 22
     min: 0
   title: "ドーラ＆名伽尾アズマ at:YouTube アズドラオフラインコラボ"
-  end_time: 
-  uri: 
-- date: 2018-08-12
-  time: 
-  title: "？時？分(夜)～ 卯月コウ at:? イチオシにじさんじの会"
   end_time: 
   uri: 
 - date: 2018-08-11
@@ -306,21 +308,35 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル"
+  title: "樋口楓＆ロボ子さん at:ロボ子さんのYouTubeチャンネル→OPENREC.tvに移行"
   end_time: 
   uri: 
 - date: 2018-08-11
   time:
     hour: 22
     min: 0
-  title: "椎名唯華 at:? DARK SOULS REMASTERED"
+  title: "椎名唯華 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-08-11
   time:
     hour: 22
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 22
+    min: 35
+  title: "渋谷ハジメ&渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-11
+  time:
+    hour: 23
+    min: 42
+  title: "ブレスト軍（勇気ちひろ＆宇志海いちご） at:勇気ちひろのMirrativ"
   end_time: 
   uri: 
 - date: 2018-08-10
