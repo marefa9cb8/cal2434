@@ -131,6 +131,13 @@
   end_time: 
   uri: 
 - date: 2018-08-14
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-14
   time: 
   title: "？時？分～ 月ノ美兎＆金剛いろは(.LIVE アイドル部) at:YouTube 第5回みとらじ"
   end_time: 
@@ -165,6 +172,20 @@
   uri: 
 - date: 2018-08-13
   time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:? テリアサーガ"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
     hour: 21
     min: 30
   title: "本間ひまわり＆闇夜乃モルル＆ドーラ at:本間ひまわりのYouTubeチャンネル"
@@ -191,7 +212,7 @@
   uri: 
 - date: 2018-08-13
   time: 
-  title: "？時？分～ 勇気ちひろ at:? テリアサーガ ※8/11モイラの配信で言及"
+  title: "？時？分～ 春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -281,7 +302,7 @@
 - date: 2018-08-12
   time:
     hour: 20
-    min: 0
+    min: 7
   title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -303,7 +324,14 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube Botanicula"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 21
+    min: 49
+  title: "渋谷ハジメ＆渋谷ハル at:渋谷ハルのYouTubeチャンネル CoD:BO4"
   end_time: 
   uri: 
 - date: 2018-08-12
@@ -317,14 +345,21 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ＆名伽尾アズマ at:YouTube アズドラオフラインコラボ"
+  title: "ドーラ＆名伽尾アズマ at:ドーラのYouTubeチャンネル アズドラオフラインコラボ"
   end_time: 
   uri: 
 - date: 2018-08-12
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:?"
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-12
+  time:
+    hour: 23
+    min: 7
+  title: "海夜叉神＆渋谷ハル＆神楽彩＆エックス at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-11
