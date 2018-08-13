@@ -125,9 +125,16 @@
   uri: 
 - date: 2018-08-15
   time:
+    hour: 1
+    min: 0
+  title: "魔界ノりりむ＆椎名唯華 at:? The Forest"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
     hour: 14
     min: 0
-  title: "出雲霞 at:? 昼やスミ 「ゼリー系」のお菓子"
+  title: "出雲霞 at:YouTube 昼やスミ 「ゼリー系」のお菓子"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -160,6 +167,20 @@
   uri: 
 - date: 2018-08-14
   time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube 初配信"
+  end_time: 
+  uri: 
+- date: 2018-08-14
+  time:
+    hour: 0
+    min: 10
+  title: "海夜叉神＆あさひ＆あっくん大魔王＆流川ルカ＆渋谷ハル＆オボロリュウ＆ユキミお姉ちゃん at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-14
+  time:
     hour: 12
     min: 30
   title: "樋口楓＆剣持刀也＆森中花咲 at:ニコニコ生放送"
@@ -169,7 +190,7 @@
   time:
     hour: 19
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube 未定"
   end_time: 
   uri: 
 - date: 2018-08-14
@@ -345,13 +366,6 @@
     hour: 23
     min: 4
   title: "叶＆ふぇありす at:OPENREC.tv PUBG"
-  end_time: 
-  uri: 
-- date: 2018-08-13
-  time:
-    hour: 24
-    min: 0
-  title: "神田笑一 at:YouTube 初配信"
   end_time: 
   uri: 
 - date: 2018-08-13
