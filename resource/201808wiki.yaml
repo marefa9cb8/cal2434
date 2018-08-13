@@ -109,6 +109,13 @@
   title: "笹木咲＆椎名唯華 at:笹木咲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
+- date: 2018-08-16
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:? テリアサーガ"
+  end_time: 
+  uri: 
 - date: 2018-08-15
   time:
     hour: 0
@@ -155,7 +162,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube テリアサーガ"
   end_time: 
   uri: 
 - date: 2018-08-14
@@ -260,14 +267,21 @@
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:YouTube テリアサーガ"
+  title: "魔界ノりりむ＆SUMOMOXqX（すもも） at:YouTube CoD:BO4"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
+    hour: 20
+    min: 10
+  title: "海夜叉神 at:YouTube 東方文花帖"
   end_time: 
   uri: 
 - date: 2018-08-13
   time:
     hour: 20
     min: 0
-  title: "魔界ノりりむ＆SUMOMOXqX（すもも） at:YouTube CoD:BO4"
+  title: 15分～ 勇気ちひろ at:YouTube テリアサーガ ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-13
