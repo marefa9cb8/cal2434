@@ -17,7 +17,7 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:?"
+  title: "飛鳥ひな at:? 初配信"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -106,7 +106,7 @@
   time:
     hour: 0
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -120,7 +120,7 @@
   time:
     hour: 19
     min: 0
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:? 初配信"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -228,6 +228,13 @@
   uri: 
 - date: 2018-08-13
   time:
+    hour: 16
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-13
+  time:
     hour: 18
     min: 0
   title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED"
@@ -258,14 +265,14 @@
   time:
     hour: 23
     min: 0
-  title: "舞元啓介 at:?"
+  title: "舞元啓介 at:? 初配信"
   end_time: 
   uri: 
 - date: 2018-08-13
   time:
     hour: 24
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube 初配信"
   end_time: 
   uri: 
 - date: 2018-08-13
