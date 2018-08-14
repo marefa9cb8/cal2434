@@ -148,14 +148,14 @@
   time:
     hour: 0
     min: 0
-  title: "える at:YouTube 歌枠"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-15
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube"
+  title: 01時00分頃～ える at:YouTube 歌枠 ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -170,6 +170,13 @@
     hour: 1
     min: 0
   title: "静凛 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 2
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -219,6 +226,13 @@
     hour: 23
     min: 0
   title: "社築 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 23
+    min: 0
+  title: "闇夜乃モルル at:YouTube ロックマン クラシックス コレクション"
   end_time: 
   uri: 
 - date: 2018-08-14
@@ -316,13 +330,13 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube Botanicula"
   end_time: 
   uri: 
 - date: 2018-08-14
   time:
-    hour: 21
-    min: 30
+    hour: 22
+    min: 0
   title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
@@ -338,11 +352,6 @@
     hour: 22
     min: 30
   title: "笹木咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-08-14
-  time: 
-  title: "？時？分～ 葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-08-13
