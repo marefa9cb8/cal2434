@@ -132,6 +132,13 @@
   uri: 
 - date: 2018-08-15
   time:
+    hour: 10
+    min: 0
+  title: "鳴門こがね at:Mirrativ 初配信 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
     hour: 14
     min: 0
   title: "出雲霞 at:YouTube 昼やスミ 「ゼリー系」のお菓子"
@@ -163,6 +170,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-14
