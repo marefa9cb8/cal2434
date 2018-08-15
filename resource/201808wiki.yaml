@@ -370,6 +370,20 @@
   uri: 
 - date: 2018-08-15
   time:
+    hour: 23
+    min: 0
+  title: "森中花咲＆夕陽リリ at:YouTube ホノボノ"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
     hour: 24
     min: 0
   title: "笹木咲＆椎名唯華 at:笹木咲のYouTubeチャンネル Minecraft"
@@ -387,6 +401,11 @@
     hour: 24
     min: 0
   title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time: 
+  title: "深夜頃～ 渋谷ハジメ&渋谷ハル at:? バイオ5"
   end_time: 
   uri: 
 - date: 2018-08-14
