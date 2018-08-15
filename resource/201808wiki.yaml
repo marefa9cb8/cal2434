@@ -113,6 +113,13 @@
   uri: 
 - date: 2018-08-17
   time:
+    hour: 17
+    min: 0
+  title: "ユキミお姉ちゃん＆本間ひまわり＆鞍馬つむぎ＆ロボ子さん"
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
     hour: 20
     min: 30
   title: "鈴木勝 at:YouTube 雑談"
@@ -147,22 +154,29 @@
 - date: 2018-08-16
   time:
     hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 0
     min: 30
-  title: "鷹宮リオン at:YouTube or Mirrativ"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 1
     min: 30
-  title: "舞元啓介 at:?"
+  title: "舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 3
     min: 30
-  title: "舞元啓介 at:?"
+  title: "舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -251,6 +265,13 @@
   uri: 
 - date: 2018-08-15
   time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ at:? Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
     hour: 19
     min: 0
   title: "鷹宮リオン at:YouTube ※初配信"
@@ -265,16 +286,23 @@
   uri: 
 - date: 2018-08-15
   time:
-    hour: 21
+    hour: 20
     min: 0
-  title: "樋口楓＆海月ねう＆宇宙怪獣アンチン＆星咲ちあ＆仮面チューバー剛]"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-15
   time:
     hour: 21
     min: 0
-  title: "緑仙 at:? ※Twitterネームより"
+  title: "樋口楓＆海月ねう＆宇宙怪獣アンチン＆星咲ちあ＆仮面チューバー剛"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 21
+    min: 0
+  title: "緑仙 at:?"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -282,6 +310,13 @@
     hour: 21
     min: 0
   title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-15
