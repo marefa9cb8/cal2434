@@ -148,7 +148,14 @@
   time:
     hour: 0
     min: 0
-  title: "笹木咲＆椎名唯華 at:笹木咲のYouTubeチャンネル Minecraft ※"
+  title: "笹木咲＆椎名唯華 at:笹木咲のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 0
+    min: 0
+  title: "叶 at:? バイノーラル"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -267,7 +274,7 @@
   time:
     hour: 17
     min: 0
-  title: "魔界ノりりむ at:? Fortnite"
+  title: "魔界ノりりむ at:YouTube Fortnite"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -281,14 +288,35 @@
   time:
     hour: 19
     min: 0
-  title: "椎名唯華 at:? DQ11"
+  title: "ブレスト軍(勇気ちひろ＆宇志海いちご) at:勇気ちひろのMirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 19
+    min: 8
+  title: "椎名唯華 at:YouTube DQ11"
   end_time: 
   uri: 
 - date: 2018-08-15
   time:
     hour: 20
     min: 0
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 20
+    min: 8
+  title: "渋谷ハジメ at:YouTube LoL"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 20
+    min: 30
+  title: "叶 at:OPENREC.tv Fortnite"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -302,14 +330,14 @@
   time:
     hour: 21
     min: 0
-  title: "緑仙 at:?"
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-08-15
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:?"
+  title: "本間ひまわり at:YouTube Rise of the Tomb Raider"
   end_time: 
   uri: 
 - date: 2018-08-15
@@ -338,6 +366,27 @@
     hour: 23
     min: 0
   title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 24
+    min: 0
+  title: "笹木咲＆椎名唯華 at:笹木咲のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 24
+    min: 0
+  title: "叶 at:? バイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-08-15
+  time:
+    hour: 24
+    min: 0
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-14
