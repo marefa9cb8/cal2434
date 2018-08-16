@@ -175,7 +175,14 @@
   time:
     hour: 19
     min: 0
-  title: "?～ 月ノ美兎 at:? ※8/9の配信で言及"
+  title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
+    hour: 19
+    min: 0
+  title: "勇気ちひろ＆宇志海いちご at:宇志海いちごのYouTubeチャンネル オフコラボ"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -287,28 +294,28 @@
   time:
     hour: 20
     min: 0
-  title: "鈴鹿詩子 at:YouTube テリアサーガ"
+  title: "椎名唯華 at:YouTube DQ11"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:? DQ11"
+  title: 04分～ 鈴鹿詩子 at:YouTube テリアサーガ
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 20
     min: 30
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:? OVERWATCH"
+  title: "本間ひまわり at:YouTube OVERWATCH"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -337,6 +344,13 @@
     hour: 22
     min: 0
   title: "物述有栖 at:YouTube スライムづくり"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:? バイノーラルマシュマロ"
   end_time: 
   uri: 
 - date: 2018-08-16
