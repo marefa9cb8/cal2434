@@ -123,7 +123,7 @@
   time:
     hour: 0
     min: 0
-  title: "月ノ美兎&樋口楓 at:月ノ美兎のYouTubeチャンネル?"
+  title: "椎名唯華 at:? DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -138,6 +138,13 @@
     hour: 17
     min: 0
   title: "ユキミお姉ちゃん＆本間ひまわり＆鞍馬つむぎ＆ロボ子さん"
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
+    hour: 19
+    min: 0
+  title: "?～ 月ノ美兎 at:? ※8/9の配信で言及"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -165,12 +172,14 @@
   time:
     hour: 24
     min: 0
-  title: "森中花咲 at:YouTube 10分配信 ※8/15の配信で言及"
+  title: "ドーラ at:YouTube 寝落ち配信"
   end_time: 
   uri: 
 - date: 2018-08-17
-  time: 
-  title: "？時？分～ 月ノ美兎 at:? ※8/9の配信で言及"
+  time:
+    hour: 24
+    min: 0
+  title: "森中花咲 at:YouTube 10分配信 ※8/15の配信で言及"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -260,8 +269,29 @@
 - date: 2018-08-16
   time:
     hour: 20
+    min: 0
+  title: "椎名唯華 at:? DQ11"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 20
     min: 30
   title: "鷹宮リオン at:? 配信中に告知"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:? OVERWATCH"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神＆渋谷ハル＆日ノ隈らん＆皆守ひいろ at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-08-16
