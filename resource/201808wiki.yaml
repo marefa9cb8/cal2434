@@ -153,6 +153,11 @@
   end_time: 
   uri: 
 - date: 2018-08-17
+  time: 
+  title: "？時？分(深夜)～ ドーラ＆花畑チャイカ at:? Minecraft?"
+  end_time: 
+  uri: 
+- date: 2018-08-17
   time:
     hour: 6
     min: 45
@@ -282,7 +287,7 @@
   time:
     hour: 20
     min: 0
-  title: "鈴鹿詩子 at:? テリアサーガ"
+  title: "鈴鹿詩子 at:YouTube テリアサーガ"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -290,6 +295,13 @@
     hour: 20
     min: 0
   title: "椎名唯華 at:? DQ11"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 20
+    min: 30
+  title: "鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -303,21 +315,28 @@
   time:
     hour: 21
     min: 0
-  title: "海夜叉神＆渋谷ハル＆日ノ隈らん＆皆守ひいろ at:? PUBG"
+  title: "海夜叉神＆渋谷ハル＆日ノ隈らん＆皆守ひいろ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 21
     min: 30
-  title: "神田笑一 at:?"
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-16
+  time:
+    hour: 21
+    min: 30
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? スライムづくり"
+  title: "物述有栖 at:YouTube スライムづくり"
   end_time: 
   uri: 
 - date: 2018-08-16
@@ -331,7 +350,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※Twitterネームより"
+  title: "緑仙&花畑チャイカ&社築&名伽尾アズマ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-15
