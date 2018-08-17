@@ -149,7 +149,14 @@
   time:
     hour: 1
     min: 0
-  title: "闇夜乃モルル at:YouTube TRINE2 ※公開予定画面より　"
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 1
+    min: 0
+  title: "闇夜乃モルル at:YouTube Trine2:Complete Story"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -323,22 +330,22 @@
 - date: 2018-08-17
   time:
     hour: 18
-    min: 0
+    min: 6
   title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-17
   time:
-    hour: 19
-    min: 0
-  title: "月ノ美兎 at:YouTube"
+    hour: 18
+    min: 28
+  title: "渋谷ハジメ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-17
   time:
     hour: 19
     min: 0
-  title: "勇気ちひろ＆宇志海いちご at:宇志海いちごのYouTubeチャンネル オフコラボ"
+  title: "月ノ美兎 at:にじさんじ公式のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -350,23 +357,23 @@
   uri: 
 - date: 2018-08-17
   time:
-    hour: 20
-    min: 0
-  title: "葛葉 at:?"
+    hour: 19
+    min: 34
+  title: "叶 at:OPENREC.tv 雑談"
   end_time: 
   uri: 
 - date: 2018-08-17
   time:
     hour: 20
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube 雑談, ガチャ"
   end_time: 
   uri: 
 - date: 2018-08-17
   time:
     hour: 20
-    min: 30
-  title: or21時00分～ 文野環 at:Mirrativ
+    min: 3
+  title: "葛葉 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -378,9 +385,37 @@
   uri: 
 - date: 2018-08-17
   time:
+    hour: 20
+    min: 30
+  title: or21時00分～ 文野環 at:Mirrativ ※
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube ホラーゲーム"
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
+    hour: 19
+    min: 0
+  title: 21時00分～ 勇気ちひろ＆宇志海いちご at:宇志海いちごのYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-17
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-17
@@ -394,7 +429,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※Twitterネームより"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-16
