@@ -1,4 +1,25 @@
 ---
+- date: 2018-08-31
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
 - date: 2018-08-26
   time:
     hour: 20
@@ -11,6 +32,13 @@
     hour: 12
     min: 0
   title: "静凛＆物述有栖＆モイラ at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time:
+    hour: 19
+    min: 0
+  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -80,6 +108,13 @@
     hour: 21
     min: 0
   title: ChroNoiR(叶＆葛葉) at:? くろのわTV
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
   end_time: 
   uri: 
 - date: 2018-08-19
