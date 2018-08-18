@@ -175,7 +175,7 @@
   time:
     hour: 1
     min: 0
-  title: "舞元啓介 at:? セリエA開幕戦実況 キエーヴォ対ユヴェントス"
+  title: 00時30分～ 舞元啓介 at:? セリエA開幕戦実況 キエーヴォ対ユヴェントス 時間変更
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -257,14 +257,42 @@
   time:
     hour: 17
     min: 30
-  title: "神田笑一 at:Mirrativ 料理"
+  title: "神田笑一 at:Mirrativ→YouTube 料理"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 18
+    min: 0
+  title: "魔界ノりりむ at:YouTube Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 18
+    min: 27
+  title: "静凛 at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 18
+    min: 53
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 19
+    min: 39
+  title: "シスター・クレア at:YouTube ※"
   end_time: 
   uri: 
 - date: 2018-08-18
   time:
     hour: 21
     min: 0
-  title: "宇志海いちご at:YouTube 5万人記念"
+  title: "宇志海いちご at:YouTube チャンネル登録者数5万人記念"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -278,7 +306,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:? メンバーシップバッジ公開, 雑談"
+  title: "本間ひまわり at:YouTube メンバーシップバッジ公開, 雑談"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -292,7 +320,7 @@
   time:
     hour: 22
     min: 0
-  title: "むぎたま(家長むぎ＆文野環) at:Mirrativ むぎたまコラボ 第2戦 ～ うどん二人羽織 ～"
+  title: "むぎたま(家長むぎ＆文野環) at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -314,11 +342,6 @@
     hour: 20
     min: 0
   title: 23時00分～ 樋口楓 at:YouTube テリアサーガ ※時間変更
-  end_time: 
-  uri: 
-- date: 2018-08-18
-  time: 
-  title: "？時？分(夜)～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-08-17
