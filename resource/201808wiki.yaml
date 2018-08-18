@@ -250,7 +250,7 @@
   time:
     hour: 15
     min: 0
-  title: "八朔ゆず&出雲霞 at:出雲霞のYouTubeチャンネル"
+  title: 30分～ 八朔ゆず&出雲霞 at:出雲霞のYouTubeチャンネル ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -264,7 +264,14 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:? セリエA開幕直前予習"
+  title: "宇志海いちご at:YouTube 5万人記念"
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介 at:YouTube セリエA開幕直前予習"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -278,14 +285,14 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube? Suzuno ne kocafe #1"
+  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #1"
   end_time: 
   uri: 
 - date: 2018-08-18
   time:
     hour: 22
     min: 0
-  title: "家長むぎ＆文野環 at:Mirrativ むぎたまコラボ 第2戦 ～ うどん二人羽織 ～"
+  title: "むぎたま(家長むぎ＆文野環) at:Mirrativ むぎたまコラボ 第2戦 ～ うどん二人羽織 ～"
   end_time: 
   uri: 
 - date: 2018-08-18
@@ -306,7 +313,12 @@
   time:
     hour: 20
     min: 0
-  title: 23時00分～ 樋口楓 at:? テリアサーガ ※時間変更
+  title: 23時00分～ 樋口楓 at:YouTube テリアサーガ ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-18
+  time: 
+  title: "？時？分(夜)～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-08-17
