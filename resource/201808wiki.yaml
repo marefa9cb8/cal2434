@@ -180,9 +180,30 @@
   uri: 
 - date: 2018-08-20
   time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル&魔界ノりりむ&本間ひまわり&SUMOMOXqX（すもも）"
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
+    hour: 19
+    min: 30
+  title: "渋谷ハジメ at:? KOF ALLSTAR"
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
     hour: 21
     min: 0
   title: ChroNoiR(叶＆葛葉) at:OPENREC.tv くろのわTV
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:? KOF ALLSTAR"
   end_time: 
   uri: 
 - date: 2018-08-20
@@ -245,14 +266,35 @@
   time:
     hour: 18
     min: 0
-  title: "闇夜乃モルル at:YouTube 雑談"
+  title: "闇夜乃モルル at:YouTube 雑談, 早口言葉"
   end_time: 
   uri: 
 - date: 2018-08-19
   time:
     hour: 18
+    min: 6
+  title: "静凛 at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-19
+  time:
+    hour: 18
+    min: 15
+  title: "宇志海いちご at:YouTube KOF ALLSTAR ※"
+  end_time: 
+  uri: 
+- date: 2018-08-19
+  time:
+    hour: 19
+    min: 10
+  title: "卯月コウ at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-19
+  time:
+    hour: 19
     min: 0
-  title: "宇志海いちご at:YouTube KOF ALLSTAR"
+  title: 11分～ 叶 at:OPENREC.tv ゼルダの伝説 風のタクト
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -266,7 +308,14 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ at:YouTube"
+  title: 03分～ 渋谷ハジメ at:YouTube 雑談枠
+  end_time: 
+  uri: 
+- date: 2018-08-19
+  time:
+    hour: 20
+    min: 17
+  title: "卯月コウ at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -280,7 +329,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-19
@@ -288,6 +337,13 @@
     hour: 22
     min: 0
   title: "本間ひまわり at:YouTube Rise of the Tomb Raider"
+  end_time: 
+  uri: 
+- date: 2018-08-19
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube ドールズフロントライン"
   end_time: 
   uri: 
 - date: 2018-08-18
