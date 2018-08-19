@@ -173,6 +173,20 @@
   uri: 
 - date: 2018-08-20
   time:
+    hour: 3
+    min: 32
+  title: "渋谷ハジメ at:YouTube 歌枠"
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
+    hour: 3
+    min: 37
+  title: "椎名唯華 at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 目玉焼き+パンorご飯"
