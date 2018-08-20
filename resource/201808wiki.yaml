@@ -98,6 +98,13 @@
   uri: 
 - date: 2018-08-23
   time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:? 昼やスミ"
@@ -105,9 +112,16 @@
   uri: 
 - date: 2018-08-22
   time:
-    hour: 20
+    hour: 21
     min: 0
-  title: "名伽尾アズマ at:YouTube"
+  title: "名伽尾アズマ at:YouTube アズマお誕生日会"
+  end_time: 
+  uri: 
+- date: 2018-08-22
+  time:
+    hour: 21
+    min: 30
+  title: "物述有栖 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -133,9 +147,9 @@
   uri: 
 - date: 2018-08-22
   time:
-    hour: 23
-    min: 0
-  title: "?～ 剣持刀也 at:? SharpnessRadio"
+    hour: 22
+    min: 30
+  title: "剣持刀也 at:? 誕生日配信"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -145,18 +159,46 @@
   title: "鷹宮リオン at:?"
   end_time: 
   uri: 
+- date: 2018-08-22
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
 - date: 2018-08-21
   time:
     hour: 0
     min: 0
-  title: "舞元啓介 at:YouTube 雑談枠"
+  title: "舞元啓介 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-21
+  time:
+    hour: 0
+    min: 9
+  title: "闇夜乃モルル at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-21
+  time:
+    hour: 0
+    min: 45
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-21
   time:
     hour: 1
+    min: 8
+  title: "椎名唯華 at:YouTube 絶体絶命都市4(体験版)"
+  end_time: 
+  uri: 
+- date: 2018-08-21
+  time:
+    hour: 2
     min: 0
-  title: "椎名唯華 at:?  DARK SOULS REMASTERED"
+  title: "静凛 at:YouTube Euro Truck Simulator 2"
   end_time: 
   uri: 
 - date: 2018-08-21
@@ -164,6 +206,13 @@
     hour: 13
     min: 45
   title: "舞元啓介 at:YouTube 甲子園実況"
+  end_time: 
+  uri: 
+- date: 2018-08-21
+  time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-21
@@ -192,6 +241,13 @@
     hour: 21
     min: 30
   title: "える at:? KOF ALLSTAR"
+  end_time: 
+  uri: 
+- date: 2018-08-21
+  time:
+    hour: 22
+    min: 0
+  title: "鈴谷アキ at:?"
   end_time: 
   uri: 
 - date: 2018-08-21
@@ -231,14 +287,14 @@
   time:
     hour: 3
     min: 32
-  title: "渋谷ハジメ at:YouTube 歌枠"
+  title: "渋谷ハジメ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-08-20
   time:
     hour: 3
     min: 37
-  title: "椎名唯華 at:YouTube 雑談枠"
+  title: "椎名唯華 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-20
@@ -323,7 +379,7 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube 雑談枠"
+  title: "物述有栖 at:YouTube 告知, Gears for Breakfast"
   end_time: 
   uri: 
 - date: 2018-08-20
@@ -331,6 +387,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube ※YouTubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-20
+  time:
+    hour: 23
+    min: 3
+  title: "渋谷ハジメ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-19
