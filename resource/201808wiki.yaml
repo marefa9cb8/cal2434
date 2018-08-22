@@ -190,22 +190,29 @@
 - date: 2018-08-22
   time:
     hour: 3
-    min: 46
-  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube"
+    min: 26
+  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 18
     min: 0
-  title: "渋谷ハジメ at?"
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-22
+  time:
+    hour: 19
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:? KOF ALLSTAR"
+  title: "森中花咲 at:YouTube KOF ALLSTAR"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -219,7 +226,7 @@
   time:
     hour: 21
     min: 0
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -233,14 +240,14 @@
   time:
     hour: 21
     min: 30
-  title: "物述有栖 at:? KOF ALLSTAR"
+  title: "物述有栖 at:YouTube KOF ALLSTAR"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 21
     min: 30
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -261,14 +268,14 @@
   time:
     hour: 22
     min: 30
-  title: "剣持刀也 at:? 誕生日配信"
+  title: "剣持刀也 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 23
     min: 0
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-21
