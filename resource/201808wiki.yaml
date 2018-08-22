@@ -98,31 +98,15 @@
   end_time: 
   uri: 
 - date: 2018-08-25
+  time: 
+  title: "⇒特設サイト / タイムテーブル前半 / ハッシュタグ「#SEEDs24h」"
+  end_time: 
+  uri: 
+- date: 2018-08-25
   time:
     hour: 20
     min: 0
   title: "ホームルーム [ch:にじさんじ公式]"
-  end_time: 
-  uri: 
-- date: 2018-08-25
-  time:
-    hour: 21
-    min: 0
-  title: "クイズ！？大人と子供賢いのはどっちだ対決 [ch:出雲霞]"
-  end_time: 
-  uri: 
-- date: 2018-08-25
-  time:
-    hour: 22
-    min: 0
-  title: "本物の八朔ゆずは誰だ！ [ch:八朔ゆず]"
-  end_time: 
-  uri: 
-- date: 2018-08-25
-  time:
-    hour: 23
-    min: 0
-  title: SEEDsブサイク～女心を見抜け～ [ch:社築]
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -159,6 +143,13 @@
 - date: 2018-08-24
   time: 
   title: "？時？分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:YouTube? The Forest"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -278,13 +269,6 @@
     hour: 23
     min: 0
   title: "鷹宮リオン at:?"
-  end_time: 
-  uri: 
-- date: 2018-08-22
-  time:
-    hour: 24
-    min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-08-21
