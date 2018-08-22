@@ -3,14 +3,14 @@
   time:
     hour: 20
     min: 0
-  title: "トリガー(剣持刀也&夕陽リリ&伏見ガク) at:? 22日の放送内で言及"
+  title: "トリガー(剣持刀也&夕陽リリ&伏見ガク) at:? オフラインコラボ 8/22の放送内で言及"
   end_time: 
   uri: 
 - date: 2018-08-31
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
+  title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -119,18 +119,6 @@
   end_time: 
   uri: 
 - date: 2018-08-25
-  time: 
-  title: "⇒特設サイト / タイムテーブル前半 / ハッシュタグ「#SEEDs24h」"
-  end_time: 
-  uri: 
-- date: 2018-08-25
-  time:
-    hour: 20
-    min: 0
-  title: "ホームルーム [ch:にじさんじ公式]"
-  end_time: 
-  uri: 
-- date: 2018-08-25
   time:
     hour: 20
     min: 30
@@ -186,7 +174,28 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
+  title: 02分～ 剣持刀也 at:YouTube SharpnessRadio
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 0
+    min: 25
+  title: "叶 at:OPENREC.tv ゼルダの伝説 風のタクト"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 1
+    min: 19
+  title: "渋谷ハジメ&渋谷ハル&たかさき咲&梔子スイ&紗樹 万咲 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 2
+    min: 32
+  title: "椎名唯華 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -198,14 +207,30 @@
   uri: 
 - date: 2018-08-23
   time:
-    hour: 22
+    hour: 21
     min: 0
-  title: "闇夜乃モルル at:?"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-23
-  time: 
-  title: "？時？分(夜)～ 神田笑一 at:? マシュマロ返し, 雑談枠"
+  time:
+    hour: 21
+    min: 0
+  title: "神田笑一 at:YouTube マシュマロ返し, 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2018-08-22
