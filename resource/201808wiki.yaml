@@ -1,9 +1,23 @@
 ---
 - date: 2018-08-31
   time:
+    hour: 20
+    min: 0
+  title: "トリガー(剣持刀也&夕陽リリ&伏見ガク) at:? 22日の放送内で言及"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:? ※youtubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:? ささやきバイノーラル"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -179,7 +193,7 @@
   time:
     hour: 19
     min: 0
-  title: "勇気ちひろ at:?"
+  title: "勇気ちひろ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -268,14 +282,14 @@
   time:
     hour: 21
     min: 0
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube NightSky"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 21
     min: 0
-  title: "名伽尾アズマ at:YouTube アズマお誕生日会"
+  title: 02分～ 名伽尾アズマ&ドーラ&八朔ゆず at:YouTube アズマお誕生日会
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -283,6 +297,13 @@
     hour: 21
     min: 30
   title: "物述有栖 at:YouTube KOF ALLSTAR"
+  end_time: 
+  uri: 
+- date: 2018-08-22
+  time:
+    hour: 22
+    min: 0
+  title: 21時30分～ 本間ひまわり at:YouTube Dead by Daylight ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -296,14 +317,14 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:YouTube  ※初配信"
+  title: "飛鳥ひな at:YouTube  ※初配信 バイノーラル"
   end_time: 
   uri: 
 - date: 2018-08-22
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:? Dead by Daylight"
+  title: 12分～ ChroNoiR(叶＆葛葉) at:YouTube Super Bunny Man
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -317,7 +338,7 @@
   time:
     hour: 23
     min: 0
-  title: "鷹宮リオン at:YouTube"
+  title: 22時52分～ 鷹宮リオン at:YouTube ※時間変更(リマインダーから)
   end_time: 
   uri: 
 - date: 2018-08-21
