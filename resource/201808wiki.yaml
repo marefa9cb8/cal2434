@@ -130,6 +130,20 @@
   uri: 
 - date: 2018-08-24
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ TKG"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube? 昼やスミ アイス系 ※23日から日程変更"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
     hour: 20
     min: 0
   title: "本間ひまわり at:? Alliance of Valiant Arms"
@@ -163,16 +177,14 @@
   uri: 
 - date: 2018-08-23
   time:
-    hour: 14
-    min: 30
-  title: "出雲霞 at:? 昼やスミ"
-  end_time: 
-  uri: 
-- date: 2018-08-23
-  time:
     hour: 22
     min: 0
   title: "闇夜乃モルル at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time: 
+  title: "？時？分(夜)～ 神田笑一 at:? マシュマロ返し, 雑談"
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -201,6 +213,13 @@
     hour: 3
     min: 26
   title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-22
+  time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-08-22
