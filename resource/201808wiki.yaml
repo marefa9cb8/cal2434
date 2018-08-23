@@ -119,6 +119,13 @@
   uri: 
 - date: 2018-08-25
   time:
+    hour: 0
+    min: 0
+  title: "飛鳥ひな at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time:
     hour: 12
     min: 0
   title: "静凛＆物述有栖＆モイラ at:ニコニコ生放送"
@@ -202,6 +209,13 @@
     hour: 0
     min: 35
   title: "叶 at:OPENREC.tv ゼルダの伝説 風のタクト"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 3
+    min: 36
+  title: "渋谷ハジメ at:YouTube Vカツ"
   end_time: 
   uri: 
 - date: 2018-08-24
