@@ -20,6 +20,13 @@
   title: "シスター・クレア at:? ささやきバイノーラル"
   end_time: 
   uri: 
+- date: 2018-08-30
+  time:
+    hour: 21
+    min: 0
+  title: "にじさんじ×BANs 夏休みゲーム大会 at:? 人狼"
+  end_time: 
+  uri: 
 - date: 2018-08-29
   time:
     hour: 20
@@ -32,6 +39,11 @@
     hour: 23
     min: 0
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time: 
+  title: "？時？分～ にじさんじ×BANs 夏休みゲーム大会 at:? 人狼"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -137,6 +149,27 @@
   uri: 
 - date: 2018-08-24
   time:
+    hour: 0
+    min: 0
+  title: "魔界ノりりむ at:Twitch テスト配信 Fortnite?"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 0
+    min: 0
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 0
+    min: 0
+  title: "八朔ゆずwith ドーラ at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ TKG"
@@ -153,14 +186,21 @@
   time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:? Alliance of Valiant Arms"
+  title: "本間ひまわり at:? Alliance of Valiant Arms(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-08-24
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube or Twitch LoL"
+  title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル ピクトセンス"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン at:YouTube or Twitch LoL ※"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -242,28 +282,21 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-08-23
   time:
     hour: 21
     min: 0
-  title: "神田笑一 at:YouTube  雑談枠(マシュマロ返し)"
+  title: "神田笑一 at:YouTube  マシュマロ返し"
   end_time: 
   uri: 
 - date: 2018-08-23
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-08-23
-  time:
-    hour: 22
-    min: 0
-  title: "春崎エアル at:YouTube 雑談枠"
+  title: 15分～ 闇夜乃モルル at:YouTube ロマンシング サ・ガ2 ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -277,7 +310,35 @@
   time:
     hour: 22
     min: 0
+  title: 39分～ 春崎エアル at:YouTube お悩み相談 ※
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 22
+    min: 44
+  title: "叶&Ruytv at:YouTube PUBG(公開収録)"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 22
+    min: 0
   title: 23時00分～ 家長むぎ at:YouTube ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 23
+    min: 15
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 23
+    min: 38
+  title: "春崎エアル at:YouTube バイノーラル雑談"
   end_time: 
   uri: 
 - date: 2018-08-22
