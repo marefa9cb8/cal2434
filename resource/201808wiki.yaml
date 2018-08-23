@@ -127,6 +127,11 @@
   uri: 
 - date: 2018-08-25
   time: 
+  title: "？時？分～ 鈴谷アキ at:? 怪談"
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time: 
   title: "？時？分(夜)～ 赤羽葉子 at:?"
   end_time: 
   uri: 
@@ -166,6 +171,13 @@
   end_time: 
   uri: 
 - date: 2018-08-24
+  time:
+    hour: 23
+    min: 0
+  title: "舞元啓介 at:? 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-24
   time: 
   title: "？時？分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:YouTube? The Forest"
   end_time: 
@@ -195,7 +207,7 @@
   time:
     hour: 2
     min: 32
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube レインボーシックス シージ"
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -216,21 +228,28 @@
   time:
     hour: 21
     min: 0
-  title: "神田笑一 at:YouTube マシュマロ返し, 雑談枠"
+  title: "神田笑一 at:YouTube  雑談枠(マシュマロ返し)"
   end_time: 
   uri: 
 - date: 2018-08-23
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "闇夜乃モルル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-23
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:?"
+  title: "春崎エアル at:? 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time:
+    hour: 22
+    min: 0
+  title: 23時00分～ 家長むぎ at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-22
@@ -343,6 +362,13 @@
     hour: 22
     min: 0
   title: "飛鳥ひな at:YouTube  ※初配信 バイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-08-22
+  time:
+    hour: 22
+    min: 1
+  title: "宇志海いちご at:kakooyo!"
   end_time: 
   uri: 
 - date: 2018-08-22
