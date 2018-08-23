@@ -242,7 +242,7 @@
   time:
     hour: 22
     min: 0
-  title: "春崎エアル at:? 雑談枠"
+  title: "春崎エアル at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-23
@@ -250,6 +250,11 @@
     hour: 22
     min: 0
   title: 23時00分～ 家長むぎ at:YouTube ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-23
+  time: 
+  title: "？時？分～ 海夜叉神 at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-22
