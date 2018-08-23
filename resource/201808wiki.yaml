@@ -8,6 +8,13 @@
   uri: 
 - date: 2018-08-31
   time:
+    hour: 22
+    min: 0
+  title: "宇志海いちご＆本間ひまわり＆闇夜乃モルル＆SUMOMOXqX（すもも） at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
@@ -20,11 +27,21 @@
   title: "シスター・クレア at:? ささやきバイノーラル"
   end_time: 
   uri: 
+- date: 2018-08-31
+  time: 
+  title: "？時？分～ 卯月コウ at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-30
   time:
     hour: 21
     min: 0
   title: "にじさんじ×BANs 夏休みゲーム大会 at:? 人狼"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time: 
+  title: "？時？分～ 卯月コウ at:?"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -41,6 +58,11 @@
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
   end_time: 
   uri: 
+- date: 2018-08-29
+  time: 
+  title: "？時？分～ 卯月コウ at:?"
+  end_time: 
+  uri: 
 - date: 2018-08-28
   time: 
   title: "？時？分～ にじさんじ×BANs 夏休みゲーム大会 at:? 人狼"
@@ -51,6 +73,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 23
+    min: 0
+  title: "える at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -151,21 +180,28 @@
   time:
     hour: 0
     min: 0
-  title: "魔界ノりりむ at:Twitch テスト配信 Fortnite?"
+  title: 02分～ 八朔ゆずwith ドーラ at:YouTube テスト配信
   end_time: 
   uri: 
 - date: 2018-08-24
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:Mirrativ"
+  title: 02分～ 魔界ノりりむ at:Twitch テスト配信 Fortnite
   end_time: 
   uri: 
 - date: 2018-08-24
   time:
     hour: 0
     min: 0
-  title: "八朔ゆずwith ドーラ at:YouTube テスト配信"
+  title: 09分～ 夕陽リリ at:Mirrativ
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 0
+    min: 35
+  title: "叶 at:OPENREC.tv ゼルダの伝説 風のタクト"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -200,7 +236,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube or Twitch LoL ※"
+  title: "鷹宮リオン at:YouTube LoL ※"
   end_time: 
   uri: 
 - date: 2018-08-24
