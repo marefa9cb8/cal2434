@@ -48,6 +48,13 @@
   title: "にじさんじ×BANs 夏休みゲーム大会 at:? 人狼"
   end_time: 
   uri: 
+- date: 2018-08-30
+  time:
+    hour: 23
+    min: 0
+  title: "渋谷ハジメ＆鷹宮リオン＆渋谷ハル＆宇森ひなこ＆日ノ隈らん at:YouTube LoL"
+  end_time: 
+  uri: 
 - date: 2018-08-29
   time:
     hour: 6
@@ -270,14 +277,14 @@
   time:
     hour: 12
     min: 0
-  title: "日ノ隈らん&天羽よつは at:YouTube LOL"
+  title: "日ノ隈らん&天羽よつは at:日ノ隈らん、天羽よつはのYouTubeチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2018-08-24
   time:
     hour: 14
     min: 8
-  title: "万楽えね＆鷹宮リオン＆甘羽よつは＆スパイト at:YouTube LoL"
+  title: "万楽えね＆鷹宮リオン＆天羽よつは＆スパイト＆おどろく at:万楽えね、天羽よつはのYouTubeチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -289,9 +296,16 @@
   uri: 
 - date: 2018-08-24
   time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ at:YouTube Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:? Alliance of Valiant Arms(視聴者参加型)"
+  title: "本間ひまわり at:YouTube Alliance of Valiant Arms(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -305,7 +319,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube LoL ※"
+  title: "鷹宮リオン at:YouTube League of Legends ※"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -313,6 +327,13 @@
     hour: 21
     min: 0
   title: "神田笑一 at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-08-24
+  time:
+    hour: 22
+    min: 0
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のYouTubeチャンネル The Forest"
   end_time: 
   uri: 
 - date: 2018-08-24
@@ -341,11 +362,6 @@
     hour: 23
     min: 30
   title: "伏見ガク at:YouTube 夏休みラスト31日の○○○○○○を一緒に頼む配信！"
-  end_time: 
-  uri: 
-- date: 2018-08-24
-  time: 
-  title: "？時？分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? The Forest"
   end_time: 
   uri: 
 - date: 2018-08-24
