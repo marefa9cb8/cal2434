@@ -344,16 +344,23 @@
   uri: 
 - date: 2018-08-25
   time:
-    hour: 20
-    min: 30
-  title: 21時00分～ リリかざ(夕陽リリ＆森中花咲) at:夕陽リリのYouTubeチャンネル リリかざオフラインコラボ ※時間変更
+    hour: 21
+    min: 0
+  title: "赤羽葉子 at:YouTube Don't Knock Twice"
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 21
     min: 0
-  title: "赤羽葉子 at:YouTube Don't Knock Twice"
+  title: "渋谷ハジメ at:YouTube PUPG ※初心者VSガチ勢下克上PUBG大会！ 本会場"
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time:
+    hour: 20
+    min: 30
+  title: 21時09分～ リリかざ(夕陽リリ＆森中花咲) at:夕陽リリのYouTubeチャンネル リリかざオフラインコラボ ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -374,7 +381,14 @@
   time:
     hour: 22
     min: 0
-  title: "にじさんじ×BANs 夏休みゲーム大会 at:OPENREC.tv PUBGモバイル"
+  title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル PUBGモバイル"
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time:
+    hour: 22
+    min: 53
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-24
