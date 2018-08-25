@@ -303,15 +303,22 @@
 - date: 2018-08-25
   time:
     hour: 18
-    min: 0
-  title: "宇志海いちご at:? Alliance of Valiant Arms"
+    min: 1
+  title: "魔界ノりりむ at:YouTube Fortnite"
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 18
     min: 0
-  title: "文野環 at:Mirrativ"
+  title: 07分～ 文野環 at:Mirrativ
+  end_time: 
+  uri: 
+- date: 2018-08-25
+  time:
+    hour: 18
+    min: 0
+  title: 15分～ 宇志海いちご at:YouTube Alliance of Valiant Arms
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -325,28 +332,28 @@
   time:
     hour: 19
     min: 0
-  title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
+  title: 05分～ 緑仙 at:YouTube ※YouTubeチャンネルコミュニティより
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 20
     min: 0
-  title: SEEDs全員集合!!!24時間生配信【前半戦】
+  title: 09分～ SEEDs全員集合!!!24時間生配信【前半戦】
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 20
     min: 30
-  title: "夕陽リリ＆森中花咲 at:夕陽リリのYouTubeチャンネル リリかざオフラインコラボ"
+  title: 21時00分～ リリかざ(夕陽リリ＆森中花咲) at:夕陽リリのYouTubeチャンネル リリかざオフラインコラボ ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 21
     min: 0
-  title: "赤羽葉子 at:?"
+  title: "赤羽葉子 at:YouTube Don't Knock Twice"
   end_time: 
   uri: 
 - date: 2018-08-25
@@ -360,14 +367,14 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:? Rise of the Tomb Raider ※Twitterネームより"
+  title: "本間ひまわり at:YouTube Rise of the Tomb Raider"
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 22
     min: 0
-  title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル PUBGモバイル"
+  title: "にじさんじ×BANs 夏休みゲーム大会 at:OPENREC.tv PUBGモバイル"
   end_time: 
   uri: 
 - date: 2018-08-24
