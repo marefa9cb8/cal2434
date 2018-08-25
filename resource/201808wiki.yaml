@@ -136,6 +136,13 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 0
+    min: 0
   title: "リリかざ(森中花咲&夕陽リリ) at:Mirrativ おやすみ配信"
   end_time: 
   uri: 
@@ -241,14 +248,14 @@
   time:
     hour: 3
     min: 50
-  title: "飛鳥ひな at:YouTube"
+  title: "飛鳥ひな at:YouTube バイノーラル・ASMR"
   end_time: 
   uri: 
 - date: 2018-08-25
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！夏の〆早起き うどん"
+  title: 50分～ 伏見ガク at:YouTube おはガク！夏の〆早起き うどん
   end_time: 
   uri: 
 - date: 2018-08-25
