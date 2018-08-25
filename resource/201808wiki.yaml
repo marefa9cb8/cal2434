@@ -136,13 +136,6 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube ASMR"
-  end_time: 
-  uri: 
-- date: 2018-08-26
-  time:
-    hour: 0
-    min: 0
   title: "リリかざ(森中花咲&夕陽リリ) at:Mirrativ おやすみ配信"
   end_time: 
   uri: 
@@ -151,6 +144,13 @@
     hour: 0
     min: 0
   title: SEEDs全員集合!!!24時間生配信【前半戦】 ※昨日に引き続き
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 1
+    min: 0
+  title: "家長むぎ at:YouTube ASMR ※時間変更"
   end_time: 
   uri: 
 - date: 2018-08-26
