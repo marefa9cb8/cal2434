@@ -118,6 +118,13 @@
   title: "渋谷ハジメ&薬袋カルテ at:YouTube 渋谷カフェ：つなげようお客様の輪 第2回"
   end_time: 
   uri: 
+- date: 2018-08-28
+  time:
+    hour: 23
+    min: 0
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
+  end_time: 
+  uri: 
 - date: 2018-08-27
   time:
     hour: 6
@@ -141,6 +148,13 @@
   uri: 
 - date: 2018-08-27
   time:
+    hour: 22
+    min: 30
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
@@ -157,14 +171,21 @@
   time:
     hour: 0
     min: 0
-  title: "リリかざ(森中花咲&夕陽リリ) at:Mirrativ おやすみ配信"
+  title: SEEDs全員集合!!!24時間生配信【前半戦】 ※昨日に引き続き
   end_time: 
   uri: 
 - date: 2018-08-26
   time:
     hour: 0
-    min: 0
-  title: SEEDs全員集合!!!24時間生配信【前半戦】 ※昨日に引き続き
+    min: 8
+  title: "リリかざ(森中花咲&夕陽リリ) at:両名のMirrativ おやすみ配信"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 0
+    min: 35
+  title: "叶 at:OPENREC.tv ゼルダの伝説 風のタクト"
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -172,6 +193,13 @@
     hour: 1
     min: 0
   title: "家長むぎ at:YouTube ASMR ※時間変更"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 1
+    min: 38
+  title: "静凛 at:YouTube 町会議後夜回"
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -190,9 +218,16 @@
   uri: 
 - date: 2018-08-26
   time:
-    hour: 13
+    hour: 12
+    min: 30
+  title: "舞元啓介 at:? NPB 福岡ソフトバンクホークス×埼玉西武ライオンズ実況"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 19
     min: 0
-  title: "舞元啓介 at:? ※Twitterネームより"
+  title: "勇気ちひろ at:YouTube 夜廻"
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -206,7 +241,12 @@
   time:
     hour: 23
     min: 0
-  title: "闇夜乃モルル at:?"
+  title: 22時30分～ 闇夜乃モルル at:? ※時間変更:Twitterネームより
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time: 
+  title: "？時？分～ 叶 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-25
