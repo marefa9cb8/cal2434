@@ -190,9 +190,9 @@
   uri: 
 - date: 2018-08-26
   time:
-    hour: 1
+    hour: 0
     min: 0
-  title: "家長むぎ at:YouTube ASMR ※時間変更"
+  title: 01時00分～ 家長むぎ at:YouTube ASMR ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -200,6 +200,13 @@
     hour: 1
     min: 38
   title: "静凛 at:YouTube 町会議後夜回"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 3
+    min: 48
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-08-26
@@ -239,14 +246,30 @@
   uri: 
 - date: 2018-08-26
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
+    hour: 22
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
     hour: 23
     min: 0
   title: 22時30分～ 闇夜乃モルル at:? ※時間変更:Twitterネームより
   end_time: 
   uri: 
 - date: 2018-08-26
-  time: 
-  title: "？時？分～ 叶 at:YouTube"
+  time:
+    hour: 24
+    min: 0
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-25
