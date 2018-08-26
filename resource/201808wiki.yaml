@@ -232,6 +232,13 @@
   uri: 
 - date: 2018-08-26
   time:
+    hour: 11
+    min: 38
+  title: "鷹宮リオン at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-26
+  time:
     hour: 12
     min: 30
   title: "舞元啓介 at:? NPB 福岡ソフトバンクホークス×埼玉西武ライオンズ実況"
@@ -267,9 +274,9 @@
   uri: 
 - date: 2018-08-26
   time:
-    hour: 23
-    min: 0
-  title: 22時30分～ 闇夜乃モルル at:? ※時間変更:Twitterネームより
+    hour: 22
+    min: 30
+  title: "闇夜乃モルル at:YouTube ロマンシング・サガ2"
   end_time: 
   uri: 
 - date: 2018-08-25
