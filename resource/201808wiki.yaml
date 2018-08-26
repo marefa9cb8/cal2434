@@ -150,14 +150,28 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: 06分～ 剣持刀也 at:YouTube カラオケ
   end_time: 
   uri: 
 - date: 2018-08-27
   time:
     hour: 0
     min: 30
-  title: "魔界ノりりむ at:YouTube? 雑談枠（マシュマロ）"
+  title: "魔界ノりりむ at:YouTube 雑談枠（マシュマロ）"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 1
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBGカスタム"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 2
+    min: 37
+  title: "闇夜乃モルル at:Mirrativ ゲリラ雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -165,6 +179,20 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！夏の〆早起き フレンチトースト"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 8
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -178,7 +206,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? ※Twitterネームより"
+  title: "物述有栖 at:? 嘘つき姫と盲目王子"
   end_time: 
   uri: 
 - date: 2018-08-27
