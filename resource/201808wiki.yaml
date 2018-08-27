@@ -164,7 +164,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:?"
+  title: "剣持刀也 at:YouTube Ori and the Blind Forest"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
+    hour: 0
+    min: 0
+  title: "シスター・クレア at:YouTube SEEDs24h配信のうらばなし"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -185,7 +192,7 @@
   time:
     hour: 10
     min: 0
-  title: "八朔ゆず at:YouTube 雑談"
+  title: "八朔ゆず at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -197,9 +204,16 @@
   uri: 
 - date: 2018-08-28
   time:
-    hour: 20
+    hour: 19
     min: 0
   title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
+    hour: 20
+    min: 0
+  title: "雨森小夜 at:Mirrativ ※初配信"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -231,8 +245,10 @@
   end_time: 
   uri: 
 - date: 2018-08-28
-  time: 
-  title: "？時？分～ 物述有栖 at:?"
+  time:
+    hour: 23
+    min: 30
+  title: "物述有栖 at:? ※開始時刻：Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-27
