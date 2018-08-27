@@ -106,6 +106,13 @@
   uri: 
 - date: 2018-08-29
   time:
+    hour: 22
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
@@ -122,7 +129,7 @@
   time:
     hour: 16
     min: 0
-  title: "夕陽リリ at:? お絵かきの森"
+  title: "夕陽リリ at:? おえかきの森"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -143,7 +150,7 @@
   time:
     hour: 23
     min: 0
-  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル 延期"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -255,7 +262,7 @@
   time:
     hour: 22
     min: 30
-  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル 延期"
   end_time: 
   uri: 
 - date: 2018-08-27
