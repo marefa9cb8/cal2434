@@ -72,6 +72,13 @@
 - date: 2018-08-30
   time:
     hour: 19
+    min: 0
+  title: "轟京子 at:? 歌枠"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 19
     min: 30
   title: "える at:YouTube ８万人記念配信"
   end_time: 
@@ -190,6 +197,13 @@
   uri: 
 - date: 2018-08-28
   time:
+    hour: 20
+    min: 0
+  title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
     hour: 21
     min: 0
   title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル 人狼"
@@ -206,17 +220,19 @@
   time:
     hour: 23
     min: 0
+  title: "樋口楓 at:YouTube リネージュ2 レボリューション"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
+    hour: 23
+    min: 0
   title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル 延期"
   end_time: 
   uri: 
 - date: 2018-08-28
   time: 
   title: "？時？分～ 物述有栖 at:?"
-  end_time: 
-  uri: 
-- date: 2018-08-28
-  time: 
-  title: "？時？分(夜)～ 樋口楓 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -306,9 +322,16 @@
   uri: 
 - date: 2018-08-27
   time:
+    hour: 22
+    min: 30
+  title: 21時00分～ 静凛 at:YouTube ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-27
+  time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -322,14 +345,7 @@
   time:
     hour: 22
     min: 0
-  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:魔界ノりりむのYouTube The Forest PUBG"
-  end_time: 
-  uri: 
-- date: 2018-08-27
-  time:
-    hour: 22
-    min: 30
-  title: "静凛 at:YouTube ※"
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:魔界ノりりむのYouTubeチャンネル The Forest PUBG"
   end_time: 
   uri: 
 - date: 2018-08-27
@@ -350,7 +366,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
+  title: 02分～ える at:YouTube
   end_time: 
   uri: 
 - date: 2018-08-26
