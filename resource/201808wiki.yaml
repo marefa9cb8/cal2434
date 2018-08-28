@@ -106,6 +106,13 @@
   uri: 
 - date: 2018-08-29
   time:
+    hour: 0
+    min: 0
+  title: "静凛&物述有栖&叶&本間ひまわり&ドーラ at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！夏の〆早起き コーンフレーク"
@@ -197,6 +204,13 @@
   uri: 
 - date: 2018-08-28
   time:
+    hour: 5
+    min: 57
+  title: "叶 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！夏の〆早起き ねこまんま"
@@ -213,7 +227,7 @@
   time:
     hour: 16
     min: 0
-  title: "夕陽リリ at:? おえかきの森"
+  title: "夕陽リリ at:YouTube おえかきの森"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -232,6 +246,13 @@
   uri: 
 - date: 2018-08-28
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
     hour: 21
     min: 0
   title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル 人狼"
@@ -242,6 +263,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ&薬袋カルテ at:YouTube 渋谷カフェ：つなげようお客様の輪 第2回"
+  end_time: 
+  uri: 
+- date: 2018-08-28
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-28
@@ -259,10 +287,8 @@
   end_time: 
   uri: 
 - date: 2018-08-28
-  time:
-    hour: 23
-    min: 30
-  title: "静凛&物述有栖&叶&本間ひまわり&ドーラ at:? PUBG"
+  time: 
+  title: "？時？分(日中)～ 静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-27
