@@ -99,6 +99,13 @@
   time:
     hour: 19
     min: 0
+  title: "魔界ノりりむ at:? Fortnite(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 19
+    min: 0
   title: "轟京子 at:? 歌枠"
   end_time: 
   uri: 
@@ -114,6 +121,13 @@
     hour: 21
     min: 0
   title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル 人狼"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -211,7 +225,14 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:? レインボーシックスシージ"
+  title: "椎名唯華 at:YouTube レインボーシックスシージ"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
+    hour: 18
+    min: 12
+  title: "闇夜乃モルル at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -225,14 +246,14 @@
   time:
     hour: 20
     min: 0
-  title: "葛葉 at:?"
+  title: "轟京子 at:YouTube SEEDs24h振り返り雑談"
   end_time: 
   uri: 
 - date: 2018-08-29
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:YouTube SEEDs24h振り返り雑談"
+  title: 08分～ 葛葉 at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -274,14 +295,14 @@
   time:
     hour: 21
     min: 30
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-29
   time:
     hour: 22
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube 都道府県大戦　"
   end_time: 
   uri: 
 - date: 2018-08-29
