@@ -64,14 +64,14 @@
   time:
     hour: 0
     min: 0
-  title: "月ノ美兎 at:? 百物語"
+  title: "月ノ美兎 at:YouTube 百物語"
   end_time: 
   uri: 
 - date: 2018-08-30
   time:
     hour: 1
     min: 0
-  title: "夕陽リリ at:? 歌枠"
+  title: "夕陽リリ at:YouTube 歌枠"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -176,7 +176,14 @@
   time:
     hour: 12
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: 06分～ 出雲霞 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:? レインボーシックスシージ"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -197,7 +204,7 @@
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:? 雑談枠"
+  title: "轟京子 at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -217,8 +224,22 @@
 - date: 2018-08-29
   time:
     hour: 21
+    min: 0
+  title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神 at:? 東方妖々夢 ※中止の場合アリ"
+  end_time: 
+  uri: 
+- date: 2018-08-29
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-29
@@ -239,14 +260,14 @@
   time:
     hour: 22
     min: 30
-  title: "勇気ちひろ at:? リネージュ2 レボリューション"
+  title: "勇気ちひろ at:YouTube リネージュ2 レボリューション"
   end_time: 
   uri: 
 - date: 2018-08-29
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※YouTubeチャンネルコミュニティより"
+  title: "緑仙 at:YouTube ※YouTubeチャンネルコミュニティより"
   end_time: 
   uri: 
 - date: 2018-08-28
