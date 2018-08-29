@@ -85,14 +85,28 @@
   time:
     hour: 0
     min: 0
-  title: "月ノ美兎 at:YouTube 百物語 ※9月1日23時～に延期"
+  title: "月ノ美兎 at:YouTube 百物語 ※9月1日23時に延期"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 0
+    min: 43
+  title: "叶 at:OPENREC.tv ゼルダの伝説 風のタクト"
   end_time: 
   uri: 
 - date: 2018-08-30
   time:
     hour: 1
     min: 0
-  title: "夕陽リリ at:YouTube 歌枠"
+  title: 04分～ 夕陽リリ at:YouTube 歌枠
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 0
+    min: 45
+  title: "ユキミお姉ちゃん＆白百合 at:ユキミお姉ちゃんのYouTubeチャンネル PUPG"
   end_time: 
   uri: 
 - date: 2018-08-30
