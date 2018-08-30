@@ -15,6 +15,13 @@
   uri: 
 - date: 2018-08-31
   time:
+    hour: 3
+    min: 11
+  title: "渋谷ハジメ  at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！夏の〆早起き おぼろやっこ"
@@ -59,7 +66,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:?"
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -73,7 +80,7 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:? リネージュ2 レボリューション"
+  title: "静凛 at:YouTube リネージュ2 レボリューション"
   end_time: 
   uri: 
 - date: 2018-08-31
