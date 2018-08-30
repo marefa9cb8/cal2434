@@ -3,7 +3,14 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介 at:? UEFAチャンピオンズリーグGL抽選会実況"
+  title: "舞元啓介 at:YouTube UEFAチャンピオンズリーグGL抽選会実況"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -146,16 +153,30 @@
   uri: 
 - date: 2018-08-30
   time:
-    hour: 19
+    hour: 14
+    min: 3
+  title: "雪汝 at:YouTube テスト・初配信"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 17
     min: 0
-  title: "魔界ノりりむ at:? Fortnite(視聴者参加型)"
+  title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-08-30
   time:
     hour: 19
     min: 0
-  title: "轟京子 at:? 歌枠"
+  title: "魔界ノりりむ at:YouTube Fortnite(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 19
+    min: 0
+  title: "轟京子 at:YouTube 歌枠"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -163,6 +184,13 @@
     hour: 19
     min: 30
   title: "える at:YouTube ８万人記念配信"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 20
+    min: 0
+  title: "神田笑一 at:YouTube OVERWATCH"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -175,15 +203,22 @@
 - date: 2018-08-30
   time:
     hour: 21
+    min: 0
+  title: "海夜叉神＆皆守ひいろ＆流川ルカ＆白雪レイド at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-30
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? ※Twitterネームより"
+  title: "物述有栖 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -197,14 +232,14 @@
   time:
     hour: 22
     min: 0
-  title: "卯月コウ at:? ※"
+  title: "卯月コウ at:YouTube ※"
   end_time: 
   uri: 
 - date: 2018-08-30
   time:
     hour: 22
     min: 0
-  title: "舞元啓介 at:? 特撮トーク"
+  title: "舞元啓介 at:YouTube 特撮トーク"
   end_time: 
   uri: 
 - date: 2018-08-30
