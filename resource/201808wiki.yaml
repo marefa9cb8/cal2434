@@ -10,7 +10,7 @@
   time:
     hour: 0
     min: 0
-  title: "闇夜乃モルル at:?"
+  title: "闇夜乃モルル at:? ※中止"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -162,7 +162,14 @@
   time:
     hour: 17
     min: 0
-  title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED"
+  title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED ※中止"
+  end_time: 
+  uri: 
+- date: 2018-08-30
+  time:
+    hour: 17
+    min: 30
+  title: 33分～ 葛葉 at:YouTube SCUM
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -218,7 +225,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "物述有栖 at:YouTube 嘘つき姫と盲目王子"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -247,11 +254,6 @@
     hour: 23
     min: 0
   title: "渋谷ハジメ＆鷹宮リオン＆渋谷ハル＆宇森ひなこ＆日ノ隈らん at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-08-30
-  time: 
-  title: "？時？分～ 葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-08-29
