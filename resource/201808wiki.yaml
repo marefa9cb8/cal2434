@@ -31,7 +31,14 @@
   time:
     hour: 10
     min: 0
-  title: "八朔ゆず at:YouTube 仮面ライダービルド感想会"
+  title: "八朔ゆず at:YouTube 仮面ライダービルド感想会 ※延期"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
+    hour: 10
+    min: 31
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -73,7 +80,7 @@
   time:
     hour: 20
     min: 0
-  title: "トリガー(剣持刀也&夕陽リリ&伏見ガク)  at:? オフラインコラボ"
+  title: "トリガー(剣持刀也&夕陽リリ&伏見ガク) at:夕陽リリのYouTubeチャンネル オフラインコラボ"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -85,16 +92,9 @@
   uri: 
 - date: 2018-08-31
   time:
-    hour: 21
+    hour: 22
     min: 0
-  title: "ドーラ at:YouTube 歌枠"
-  end_time: 
-  uri: 
-- date: 2018-08-31
-  time:
-    hour: 21
-    min: 0
-  title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル マリオカート"
+  title: "にじさんじ×BANs 夏休みゲーム大会 at:BANs公式のOPENREC.tvチャンネル マリオカート(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -120,6 +120,13 @@
   uri: 
 - date: 2018-08-31
   time:
+    hour: 21
+    min: 0
+  title: 22時00分～ ドーラ at:YouTube 歌枠 ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
     hour: 22
     min: 0
   title: "宇志海いちご＆本間ひまわり＆闇夜乃モルル＆SUMOMOXqX（すもも） at:? 9/2へ延期"
@@ -137,6 +144,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:? ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-08-31
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-08-31
