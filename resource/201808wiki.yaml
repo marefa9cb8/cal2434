@@ -158,7 +158,7 @@
   time:
     hour: 21
     min: 0
-  title: 22時00分～ ドーラ at:YouTube 歌 ※時間変更
+  title: 22時00分～ ドーラ at:YouTube 歌枠 ※時間変更
   end_time: 
   uri: 
 - date: 2018-08-31
@@ -196,6 +196,13 @@
   title: "シスター・クレア at:YouTube ささやきバイノーラル"
   end_time: 
   uri: 
+- date: 2018-08-31
+  time:
+    hour: 23
+    min: 55
+  title: "海夜叉神 at:YouTube PUBG"
+  end_time: 
+  uri: 
 - date: 2018-08-30
   time:
     hour: 0
@@ -214,7 +221,7 @@
   time:
     hour: 1
     min: 0
-  title: 04分～ 夕陽リリ at:YouTube 歌
+  title: 04分～ 夕陽リリ at:YouTube 歌枠
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -284,7 +291,7 @@
   time:
     hour: 19
     min: 0
-  title: "轟京子 at:YouTube 歌"
+  title: "轟京子 at:YouTube 歌枠"
   end_time: 
   uri: 
 - date: 2018-08-30
@@ -326,7 +333,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube 雑談"
+  title: "鈴谷アキ at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-08-30
