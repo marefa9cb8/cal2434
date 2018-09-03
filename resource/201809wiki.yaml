@@ -62,6 +62,13 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 11
+    min: 0
+  title: "安土桃 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 和菓子"
@@ -219,6 +226,13 @@
     hour: 21
     min: 0
   title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-04
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-04
