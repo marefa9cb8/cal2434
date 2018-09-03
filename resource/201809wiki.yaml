@@ -43,9 +43,21 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 15
+    min: 0
+  title: "樋口楓 at:? お絵かきの森"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 21
     min: 0
   title: "出雲霞 at:城星譲友VICのYouTubeチャンネル BANトーク「めだかボックス」"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time: 
+  title: "？時？分(夜)～ かえる(樋口楓&える) at:?"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -192,7 +204,7 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル at:?"
+  title: "闇夜乃モルル at:? 学力テスト振替り雑談"
   end_time: 
   uri: 
 - date: 2018-09-03
@@ -227,7 +239,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:?"
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-03
