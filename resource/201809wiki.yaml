@@ -34,6 +34,20 @@
   title: "月ノ美兎 at:RAGE公式のOPENREC.tv, AbemaTV"
   end_time: 
   uri: 
+- date: 2018-09-15
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-11
   time:
     hour: 21
@@ -41,11 +55,25 @@
   title: "八朔ゆず at:YouTube"
   end_time: 
   uri: 
+- date: 2018-09-11
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-09
   time:
     hour: 15
     min: 0
   title: "樋口楓 at:? お絵かきの森"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 21
+    min: 0
+  title: "月ノ美兎 at:REALITY 放課後ラジオ#6 (ゲスト: すーぱーそに子)"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -72,6 +100,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 和菓子"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -121,6 +156,13 @@
     hour: 23
     min: 30
   title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 21
+    min: 0
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -223,9 +265,30 @@
   uri: 
 - date: 2018-09-04
   time:
+    hour: 16
+    min: 4
+  title: "花畑チャイカ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-04
+  time:
     hour: 18
     min: 0
   title: "椎名唯華 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-04
+  time:
+    hour: 18
+    min: 0
+  title: "神田笑一 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-04
+  time:
+    hour: 19
+    min: 0
+  title: "ブレスト軍(勇気ちひろ&宇志海いちご) at:勇気ちひろのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-04
