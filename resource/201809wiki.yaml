@@ -181,6 +181,13 @@
   uri: 
 - date: 2018-09-06
   time:
+    hour: 19
+    min: 0
+  title: "家長むぎ at:YouTube リネージュ2レボリューション"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
     hour: 21
     min: 0
   title: "轟京子 at:YouTube"
@@ -197,7 +204,21 @@
   time:
     hour: 0
     min: 0
-  title: "おしぃりぃ(椎名唯華&魔界ノりりむ) at:魔界ノりりむのYouTubeチャンネル The Forest"
+  title: 04分～ おしぃりぃ(椎名唯華&魔界ノりりむ) at:魔界ノりりむのYouTubeチャンネル The Forest
+  end_time: 
+  uri: 
+- date: 2018-09-05
+  time:
+    hour: 1
+    min: 30
+  title: 35分～ ドーラ&本間ひまわり at:ドーラのYouTubeチャンネル PUBGPARKお疲れ様会
+  end_time: 
+  uri: 
+- date: 2018-09-05
+  time:
+    hour: 2
+    min: 5
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-05
@@ -240,6 +261,13 @@
     hour: 21
     min: 0
   title: "樋口楓 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-05
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-05
