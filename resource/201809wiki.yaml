@@ -204,7 +204,14 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆稲荷くろむ at:YouTube PUBG"
+  title: 01分～ 椎名唯華＆稲荷くろむ at:YouTube PUBG
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 1
+    min: 31
+  title: "渋谷ハジメ at:YouTube League of Legends, PUBG"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -232,7 +239,7 @@
   time:
     hour: 21
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube Stardew Valley"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -246,7 +253,7 @@
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ at:?"
+  title: "名伽尾アズマ at:YouTube ※"
   end_time: 
   uri: 
 - date: 2018-09-05
