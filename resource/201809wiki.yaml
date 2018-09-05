@@ -204,7 +204,21 @@
   time:
     hour: 21
     min: 0
+  title: "える at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 21
+    min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 21
+    min: 30
+  title: "笹木咲 at:YouTube リネージュ2 レボリューション"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -267,7 +281,14 @@
   time:
     hour: 20
     min: 0
-  title: "叶 at:? リネージュ2 レボリューション"
+  title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-05
+  time:
+    hour: 20
+    min: 0
+  title: 21時00分～ 叶 at:? リネージュ2 レボリューション ※時間変更
   end_time: 
   uri: 
 - date: 2018-09-05
@@ -295,6 +316,13 @@
   time:
     hour: 22
     min: 0
+  title: "笹木咲 at:YouTube 学力テスト振り返り"
+  end_time: 
+  uri: 
+- date: 2018-09-05
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:YouTube SEEDs24時間振り返り"
   end_time: 
   uri: 
@@ -302,7 +330,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築&レンチ&あくまのゴート&夏色まつり&？ at:? Minecraft"
+  title: "社築&レンチ&あくまのゴート&夏色まつり&？ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-09-05
@@ -316,7 +344,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※Twitterネームより"
+  title: "緑仙 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-04
