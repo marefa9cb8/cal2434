@@ -176,6 +176,13 @@
   time:
     hour: 20
     min: 0
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? The Forest"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 20
+    min: 0
   title: "轟京子 at:YouTube"
   end_time: 
   uri: 
@@ -183,14 +190,21 @@
   time:
     hour: 0
     min: 0
-  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? The Forest"
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? The Forest ※8日に延期"
   end_time: 
   uri: 
 - date: 2018-09-07
   time:
     hour: 0
     min: 0
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 0
+    min: 30
+  title: "闇夜乃モルル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -365,7 +379,7 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -379,7 +393,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 夜廻"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -400,12 +414,12 @@
   time:
     hour: 23
     min: 30
-  title: "夕陽リリ at:YouTube 雑談, 報告"
+  title: 41分～ 夕陽リリ at:YouTube 雑談, 報告
   end_time: 
   uri: 
 - date: 2018-09-06
   time: 
-  title: "？時？分～ 本間ひまわり at:? ※Twitterネームより"
+  title: "？時？分～ 本間ひまわり at:? ※Twitterネームより ※中止"
   end_time: 
   uri: 
 - date: 2018-09-05
