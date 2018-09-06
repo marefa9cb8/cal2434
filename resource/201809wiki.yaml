@@ -251,6 +251,20 @@
   uri: 
 - date: 2018-09-06
   time:
+    hour: 15
+    min: 0
+  title: "闇夜乃モルル at:YouTube DARK SOULS REMASTERED"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 15
+    min: 30
+  title: "鷹宮リオン at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
     hour: 18
     min: 0
   title: "椎名唯華 at:? Battlefield V"
@@ -295,6 +309,13 @@
   time:
     hour: 21
     min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 21
+    min: 30
   title: "笹木咲 at:YouTube リネージュ2 レボリューション"
   end_time: 
   uri: 
@@ -302,7 +323,7 @@
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ at:YouTube ※"
+  title: "名伽尾アズマ at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2018-09-06
