@@ -17,7 +17,7 @@
   time:
     hour: 22
     min: 0
-  title: "帝華組(鷹宮リオン &飛鳥ひな) at:?"
+  title: "帝華組(鷹宮リオン &飛鳥ひな) at:? ※Twitterネーム＆9/6の配信で告知"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -41,6 +41,13 @@
   title: "月ノ美兎 at:RAGE公式のOPENREC.tv, AbemaTV"
   end_time: 
   uri: 
+- date: 2018-09-16
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-15
   time:
     hour: 20
@@ -48,11 +55,32 @@
   title: "轟京子 at:YouTube"
   end_time: 
   uri: 
+- date: 2018-09-14
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-13
   time:
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 22
+    min: 0
+  title: "万楽えね＆仮面ライバーもやし＆？？？＆？？？ at:? Fortnite"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -74,6 +102,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -153,9 +188,16 @@
   uri: 
 - date: 2018-09-07
   time:
+    hour: 0
+    min: 0
+  title: "卯月コウ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -176,7 +218,7 @@
   time:
     hour: 18
     min: 45
-  title: "舞元啓介 at:? サッカー日本代表×チリ代表戦実況"
+  title: "舞元啓介 at:? サッカー日本代表×チリ代表戦実況 ※中止"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -184,6 +226,13 @@
     hour: 20
     min: 0
   title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -198,6 +247,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 22
+    min: 0
+  title: "月ノ美兎 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -274,7 +330,7 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:? Battlefield V"
+  title: "椎名唯華 at:YouTube Battlefield V (オープンβ)"
   end_time: 
   uri: 
 - date: 2018-09-06
@@ -295,14 +351,21 @@
   time:
     hour: 19
     min: 30
-  title: "桜凛月 at:?"
+  title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-06
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube Battlefield V"
   end_time: 
   uri: 
 - date: 2018-09-06
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-06
