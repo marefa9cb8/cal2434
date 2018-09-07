@@ -162,6 +162,13 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 4
     min: 45
   title: "舞元啓介 at:YouTube テニス全米オープン女子決勝実況"
@@ -246,6 +253,20 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 2
+    min: 52
+  title: "静凛 at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 3
+    min: 0
+  title: "葛葉 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 11
     min: 0
   title: "安土桃 at:YouTube ※Twitterネームより"
@@ -255,14 +276,14 @@
   time:
     hour: 11
     min: 0
-  title: "鈴鹿詩子 at:YouTube 9/9へ延期"
+  title: "鈴鹿詩子 at:YouTube ※9/9へ延期"
   end_time: 
   uri: 
 - date: 2018-09-08
   time:
     hour: 12
     min: 0
-  title: "渋谷ハジメ at:YouTube 4万人突破記念枠"
+  title: "渋谷ハジメ at:YouTube チャンネル登録者数4万人突破記念 4万秒放送"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -309,6 +330,13 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 22
     min: 0
   title: "モイラ at:YouTube MoimoiRadio"
@@ -333,13 +361,6 @@
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＆青道アカト at:花畑チャイカのYouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2018-09-08
-  time:
-    hour: 23
-    min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-09-07
