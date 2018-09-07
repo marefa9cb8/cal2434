@@ -94,7 +94,7 @@
   time:
     hour: 21
     min: 0
-  title: "八朔ゆず at:YouTube"
+  title: "八朔ゆず at:YouTube ※延期？"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -148,7 +148,7 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:?"
+  title: "竜胆尊 at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -156,6 +156,13 @@
     hour: 11
     min: 0
   title: "安土桃 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 11
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -191,6 +198,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -259,7 +273,7 @@
 - date: 2018-09-07
   time:
     hour: 13
-    min: 0
+    min: 11
   title: "渋谷ハジメ＆白百合 at:YouTube PUBG"
   end_time: 
   uri: 
@@ -267,7 +281,14 @@
   time:
     hour: 15
     min: 0
-  title: "八朔ゆず at:YouTube 仮面ライダービルド・ジオウ感想会"
+  title: "八朔ゆず at:YouTube 仮面ライダービルド・ジオウ感想会 ※延期"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -295,14 +316,14 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube ※Twitterネームより"
+  title: "樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
   time:
     hour: 20
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -322,6 +343,13 @@
 - date: 2018-09-07
   time:
     hour: 21
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談枠"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
   end_time: 
@@ -330,7 +358,7 @@
   time:
     hour: 22
     min: 0
-  title: "月ノ美兎 at:YouTube ※Twitterネームより"
+  title: "月ノ美兎 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -344,14 +372,21 @@
   time:
     hour: 23
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: "鈴鹿詩子 at:YouTube 8万人突破記念枠(バイノーラル配信)"
   end_time: 
   uri: 
 - date: 2018-09-07
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※Twitterネームより"
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -359,6 +394,13 @@
     hour: 23
     min: 30
   title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 23
+    min: 30
+  title: "春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-09-06
