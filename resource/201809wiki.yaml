@@ -188,6 +188,13 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 22
+    min: 0
+  title: "月見しずく at:? 初配信"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＆青道アカト at:花畑チャイカのYouTubeチャンネル
@@ -240,6 +247,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 13
+    min: 0
+  title: "渋谷ハジメ＆白百合 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -545,7 +559,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube マインスイーパ, カラータイル"
+  title: "闇夜乃モルル at:YouTube マインスイーパー, カラータイル"
   end_time: 
   uri: 
 - date: 2018-09-05
