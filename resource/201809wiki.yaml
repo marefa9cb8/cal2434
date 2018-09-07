@@ -17,7 +17,7 @@
   time:
     hour: 22
     min: 0
-  title: "帝華組(鷹宮リオン &飛鳥ひな) at:? ※Twitterネーム＆9/6の配信で告知"
+  title: "帝華組(鷹宮リオン &飛鳥ひな) at:?"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -29,8 +29,8 @@
   uri: 
 - date: 2018-09-17
   time:
-    hour: 12
-    min: 30
+    hour: 11
+    min: 40
   title: "える＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
   end_time: 
   uri: 
@@ -120,6 +120,13 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 12
+    min: 0
+  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 15
     min: 0
   title: "樋口楓 at:? お絵かきの森"
@@ -175,6 +182,13 @@
 - date: 2018-09-08
   time:
     hour: 14
+    min: 0
+  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 和菓子"
   end_time: 
@@ -198,6 +212,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube MoimoiRadio"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -309,21 +330,35 @@
   time:
     hour: 20
     min: 0
-  title: "葛葉 at:?"
+  title: 02分～ 神田笑一 at:YouTube OVERWATCH(視聴者参加型)
   end_time: 
   uri: 
 - date: 2018-09-07
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube"
+  title: 03分～ 葛葉 at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2018-09-07
   time:
     hour: 20
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: 05分～ 樋口楓 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 20
+    min: 40
+  title: "静凛 at:YouTube マーベル スパイダーマン"
+  end_time: 
+  uri: 
+- date: 2018-09-07
+  time:
+    hour: 21
+    min: 0
+  title: 20時56分～ 海夜叉神 at:YouTube 雑談枠
   end_time: 
   uri: 
 - date: 2018-09-07
@@ -338,13 +373,6 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-07
-  time:
-    hour: 21
-    min: 0
-  title: "海夜叉神 at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-09-07
