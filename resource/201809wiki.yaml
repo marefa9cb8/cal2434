@@ -13,6 +13,11 @@
   title: "勇気ちひろ＆家長むぎ＆夕陽リリ at:ニコニコ生放送 ※森中花咲出演取り止め"
   end_time: 
   uri: 
+- date: 2018-09-23
+  time: 
+  title: "？時？分～ 出雲霞 at:? チャンネル登録者数一万人突破記念"
+  end_time: 
+  uri: 
 - date: 2018-09-20
   time:
     hour: 22
@@ -59,7 +64,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube"
+  title: "出雲霞 at:YouTube 昼やスミ 駄菓子"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -192,7 +197,7 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube 入眠配信"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -200,6 +205,13 @@
     hour: 0
     min: 0
   title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 1
+    min: 0
+  title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -235,6 +247,13 @@
     hour: 18
     min: 0
   title: "本間ひまわり at:? Rise of the Tomb Raider"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 19
+    min: 0
+  title: "町田ちま at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -395,7 +414,7 @@
   time:
     hour: 20
     min: 0
-  title: 26分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のyoutubeチャンネル The Forest & Battlefield V
+  title: 26分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のYouTubeチャンネル The Forest
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -416,14 +435,14 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube ペヤングやきそばMAXEND"
   end_time: 
   uri: 
 - date: 2018-09-08
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube MoimoiRadio"
+  title: 21時56分～ モイラ at:YouTube MoimoiRadio
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -442,19 +461,30 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 22
+    min: 3
+  title: "海夜叉神 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 23
+    min: 0
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＆青道アカト at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-09-08
-  time: 
-  title: "？時？分(22時以降)～ シスター・クレア at:? 懺悔室"
-  end_time: 
-  uri: 
-- date: 2018-09-08
-  time: 
-  title: "？時？分(00時前後)～ 竜胆尊 at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のYouTubeチャンネル Battlefield V → PUBG"
   end_time: 
   uri: 
 - date: 2018-09-07
