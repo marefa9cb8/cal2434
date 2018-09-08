@@ -230,6 +230,13 @@
   title: "(月ノ美兎のREALITY配信が終わり次第)～ かえる(樋口楓&える) at:?"
   end_time: 
   uri: 
+- date: 2018-09-09
+  time:
+    hour: 23
+    min: 0
+  title: "ジョー・力一 at:YouTube ※初配信"
+  end_time: 
+  uri: 
 - date: 2018-09-08
   time:
     hour: 0
@@ -267,9 +274,16 @@
   uri: 
 - date: 2018-09-08
   time:
+    hour: 10
+    min: 24
+  title: "安土桃 at:YouTube テスト放送"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
     hour: 11
     min: 0
-  title: "安土桃 at:YouTube ※Twitterネームより"
+  title: "安土桃 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -277,6 +291,13 @@
     hour: 11
     min: 0
   title: "鈴鹿詩子 at:YouTube ※9/9へ延期"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 11
+    min: 29
+  title: "叶 at:YouTube 新デバイステスト・PUBG"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -305,6 +326,13 @@
     hour: 19
     min: 0
   title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -353,7 +381,7 @@
   time:
     hour: 22
     min: 0
-  title: "月見しずく at:? 初配信"
+  title: "月見しずく at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2018-09-08
