@@ -136,7 +136,7 @@
   time:
     hour: 22
     min: 0
-  title: "森中花咲 at:? Twitterネームより"
+  title: "森中花咲 at:? One Hand Clapping"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -310,15 +310,22 @@
 - date: 2018-09-08
   time:
     hour: 14
-    min: 0
-  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2"
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ 和菓子"
   end_time: 
   uri: 
 - date: 2018-09-08
   time:
-    hour: 14
-    min: 30
-  title: "出雲霞 at:YouTube 昼やスミ 和菓子"
+    hour: 16
+    min: 0
+  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2 14時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 17
+    min: 0
+  title: "神田笑一 at:? お料理"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -351,9 +358,16 @@
   uri: 
 - date: 2018-09-08
   time:
-    hour: 21
+    hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -389,6 +403,11 @@
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＆青道アカト at:花畑チャイカのYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time: 
+  title: "？時？分(22時以降)～ シスター・クレア at:? 懺悔室"
   end_time: 
   uri: 
 - date: 2018-09-07
