@@ -57,6 +57,13 @@
   uri: 
 - date: 2018-09-15
   time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
@@ -64,9 +71,23 @@
   uri: 
 - date: 2018-09-14
   time:
+    hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
     hour: 22
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -81,6 +102,13 @@
     hour: 22
     min: 0
   title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 17
+    min: 30
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -123,6 +151,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -318,7 +353,7 @@
   time:
     hour: 16
     min: 0
-  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2 14時から時間変更"
+  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2 ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -330,9 +365,9 @@
   uri: 
 - date: 2018-09-08
   time:
-    hour: 19
-    min: 0
-  title: "宇志海いちご at:YouTube"
+    hour: 18
+    min: 9
+  title: "神田笑一 at:YouTube 晩御飯"
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -344,16 +379,9 @@
   uri: 
 - date: 2018-09-08
   time:
-    hour: 20
+    hour: 19
     min: 0
-  title: "勇気ちひろ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-08
-  time:
-    hour: 20
-    min: 0
-  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? The Forest & Battlefield V"
+  title: 20分～ 宇志海いちご at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-08
@@ -361,6 +389,20 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 20
+    min: 0
+  title: 26分～ おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のyoutubeチャンネル The Forest & Battlefield V
+  end_time: 
+  uri: 
+- date: 2018-09-08
+  time:
+    hour: 20
+    min: 30
+  title: "勇気ちひろ at:YouTube ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-08
