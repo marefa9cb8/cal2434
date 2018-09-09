@@ -291,6 +291,11 @@
   title: "緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
+- date: 2018-09-10
+  time: 
+  title: "？時？分(夜)～ 渋谷ハジメ＆海夜叉神 at:? PUBG"
+  end_time: 
+  uri: 
 - date: 2018-09-09
   time:
     hour: 0
@@ -419,16 +424,16 @@
   uri: 
 - date: 2018-09-09
   time:
-    hour: 19
-    min: 0
-  title: "町田ちま at:Mirrativ"
+    hour: 18
+    min: 28
+  title: "叶＆葛葉＆Ruytv＆Vuelo at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-09
   time:
     hour: 19
-    min: 50
-  title: "叶＆葛葉＆Ruytv＆Vuelo at:Twitch PUBG大会 DONCUP SQUAD#14"
+    min: 0
+  title: "町田ちま at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -442,21 +447,35 @@
   time:
     hour: 20
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: "渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華)&稲荷くろむ at:渋谷ハジメのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-09
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華)&稲荷くろむ at:? PUBG"
+  title: "シスター・クレア at:YouTube 懺悔室"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 20
+    min: 0
+  title: 06分～ 雨森小夜 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 20
+    min: 48
+  title: "叶 at:YouTube Beat Saber"
   end_time: 
   uri: 
 - date: 2018-09-09
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:REALITY 放課後ラジオ#6 (ゲスト: すーぱーそに子)"
+  title: "月ノ美兎 at:YouTube ＆ REALITY 放課後ラジオ#6 (ゲスト: すーぱーそに子)"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -485,11 +504,6 @@
     hour: 23
     min: 0
   title: "ジョー・力一 at:YouTube ※初配信"
-  end_time: 
-  uri: 
-- date: 2018-09-09
-  time: 
-  title: "？時？分(夜)～ シスター・クレア at:? 懺悔室"
   end_time: 
   uri: 
 - date: 2018-09-08
