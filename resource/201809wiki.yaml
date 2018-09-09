@@ -174,6 +174,20 @@
   uri: 
 - date: 2018-09-10
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 飯フェス"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube"
@@ -205,6 +219,13 @@
     hour: 23
     min: 0
   title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -265,9 +286,37 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 10
+    min: 45
+  title: "出雲霞 at:Mirrativ ボイス販売についての調査"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 11
+    min: 35
+  title: "叶＆葛葉＆Ruytv＆Vuelo at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 12
     min: 0
-  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2"
+  title: "闇夜乃モルル at:YouTube ロマンシング サ・ガ2 ※中止"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 12
+    min: 45
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 12
+    min: 56
+  title: "でびでび・でびる at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -286,9 +335,16 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 16
+    min: 30
+  title: "舞元啓介 at:YouTube 大相撲9月場所初日実況"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:? Rise of the Tomb Raider"
+  title: "本間ひまわり at:YouTube Rise of the Tomb Raider"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -296,6 +352,13 @@
     hour: 19
     min: 0
   title: "町田ちま at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 19
+    min: 50
+  title: "叶＆葛葉＆Ruytv＆Vuelo at:Twitch PUBG大会 DONCUP SQUAD#14"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -314,6 +377,13 @@
   uri: 
 - date: 2018-09-09
   time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
     hour: 21
     min: 0
   title: "月ノ美兎 at:REALITY 放課後ラジオ#6 (ゲスト: すーぱーそに子)"
@@ -324,6 +394,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:城星譲友VICのYouTubeチャンネル BANトーク「めだかボックス」"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -342,7 +419,7 @@
   uri: 
 - date: 2018-09-09
   time: 
-  title: "？時？分～ 渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? PUBG ※放送内で言及"
+  title: "？時？分(夜)～ シスター・クレア at:? 懺悔室"
   end_time: 
   uri: 
 - date: 2018-09-08
