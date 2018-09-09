@@ -123,6 +123,13 @@
   title: "ドーラ at:YouTube"
   end_time: 
   uri: 
+- date: 2018-09-16
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲 at:?"
+  end_time: 
+  uri: 
 - date: 2018-09-15
   time:
     hour: 0
@@ -149,6 +156,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
+    hour: 21
+    min: 0
+  title: "笹木咲 at:?"
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -223,6 +237,13 @@
   uri: 
 - date: 2018-09-11
   time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube　※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
@@ -239,7 +260,14 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? 雑談"
+  title: "椎名唯華 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 1
+    min: 26
+  title: "でびでび・でびる at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -272,9 +300,16 @@
   uri: 
 - date: 2018-09-10
   time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
     hour: 22
     min: 0
-  title: "森中花咲 at:? One Hand Clapping"
+  title: "森中花咲 at:YouTube One Hand Clapping"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -282,6 +317,13 @@
     hour: 22
     min: 0
   title: "鈴木勝 at:YouTube ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 23
+    min: 0
+  title: "える at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -296,6 +338,11 @@
     hour: 23
     min: 0
   title: "緑仙 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time: 
+  title: "？時？分(昼)～ 静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-10
