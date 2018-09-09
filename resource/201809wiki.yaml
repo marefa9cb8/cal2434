@@ -1,9 +1,44 @@
 ---
+- date: 2018-09-30
+  time:
+    hour: 0
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-29
   time:
     hour: 11
     min: 0
   title: "モイラ＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-25
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-23
@@ -16,6 +51,20 @@
 - date: 2018-09-23
   time: 
   title: "？時？分～ 出雲霞 at:? チャンネル登録者数一万人突破記念"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -32,11 +81,25 @@
   title: "飛鳥ひな at:YouTube"
   end_time: 
   uri: 
+- date: 2018-09-18
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-17
   time:
     hour: 11
     min: 40
   title: "える＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-09-17
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -330,7 +393,7 @@
   time:
     hour: 15
     min: 30
-  title: "鈴鹿詩子 at:YouTube"
+  title: 38分～ 鈴鹿詩子 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -338,6 +401,13 @@
     hour: 16
     min: 30
   title: "舞元啓介 at:YouTube 大相撲9月場所初日実況"
+  end_time: 
+  uri: 
+- date: 2018-09-09
+  time:
+    hour: 17
+    min: 10
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-09
@@ -379,7 +449,7 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? PUBG"
+  title: "渋谷ハジメ＆おしぃりぃ(魔界ノりりむ＆椎名唯華)&稲荷くろむ at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-09-09
