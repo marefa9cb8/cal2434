@@ -167,6 +167,13 @@
   uri: 
 - date: 2018-09-14
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube"
@@ -230,6 +237,13 @@
   uri: 
 - date: 2018-09-12
   time:
+    hour: 21
+    min: 0
+  title: "える at:YouTube ※9/10Mirative（1:02:08）にて"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
     hour: 22
     min: 0
   title: "万楽えね＆仮面ライバーもやし＆？？？＆？？？ at:? Fortnite"
@@ -242,25 +256,37 @@
   title: "ドーラ at:YouTube"
   end_time: 
   uri: 
+- date: 2018-09-12
+  time: 
+  title: "？時？分(00時以降)～ 静凛 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-11
   time:
     hour: 0
-    min: 0
-  title: "叶 at:?"
+    min: 2
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:?"
+  title: 02分～ 神田笑一 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-11
   time:
     hour: 0
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: 22分～ 叶 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 2
+    min: 5
+  title: "椎名唯華 at:YouTube CoD:BO4 ベータ版"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -268,6 +294,13 @@
     hour: 14
     min: 30
   title: "八朔ゆず at:YouTube 仮面ライダービルド＋ジオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 17
+    min: 0
+  title: "渋谷ハジメ at:? Marvel's SPIDER-MAN"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -288,7 +321,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube　※Twitterネームより"
+  title: "樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -296,6 +329,13 @@
     hour: 21
     min: 0
   title: "八朔ゆず at:YouTube ※延期の可能性あり"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -421,7 +461,7 @@
   time:
     hour: 21
     min: 0
-  title: 03分～ 勇気ちひろ at:YouTube
+  title: 03分～ 勇気ちひろ at:YouTube ペヤングやきそばMAXEND
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -435,7 +475,7 @@
   time:
     hour: 21
     min: 46
-  title: "出雲霞 at:Mirrativ"
+  title: "出雲霞 at:Mirrativ ペヤングやきそばMAXEND"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -848,7 +888,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube ペヤングやきそばMAXEND"
+  title: "鈴谷アキ at:YouTube やきそばMAXEND"
   end_time: 
   uri: 
 - date: 2018-09-08
