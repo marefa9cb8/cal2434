@@ -328,6 +328,20 @@
   uri: 
 - date: 2018-09-10
   time:
+    hour: 19
+    min: 47
+  title: "渋谷ハジメ＆渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 20
+    min: 0
+  title: "宇志海いちご＆sumomoxqx（すもも） at:sumomoxqx（すもも）のOPENREC.tvチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
     hour: 20
     min: 0
   title: "魔界ノりりむ at:YouTube Surgeon Simulator"
@@ -344,7 +358,14 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆海夜叉神 at:YouTube PUBG"
+  title: "勇気ちひろ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆海夜叉神 at:両名のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-10
