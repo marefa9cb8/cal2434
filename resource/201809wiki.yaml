@@ -111,6 +111,13 @@
   uri: 
 - date: 2018-09-16
   time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
     hour: 21
     min: 0
   title: "春崎エアル＆美影ルクス(SuiSay) at:?"
@@ -239,7 +246,35 @@
   time:
     hour: 0
     min: 0
+  title: "叶 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 0
+    min: 0
   title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 14
+    min: 30
+  title: "八朔ゆず at:YouTube 仮面ライダービルド＋ジオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 19
+    min: 0
+  title: "舞元啓介 at:YouTube サッカー国際親善試合 日本代表vsコスタリカ代表実況"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -253,14 +288,21 @@
   time:
     hour: 21
     min: 0
-  title: "八朔ゆず at:YouTube ※延期の可能性あり"
+  title: "樋口楓 at:YouTube　※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-11
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube　※Twitterネームより"
+  title: "八朔ゆず at:YouTube ※延期の可能性あり"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -268,6 +310,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 23
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -358,13 +407,6 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:?"
-  end_time: 
-  uri: 
-- date: 2018-09-10
-  time:
-    hour: 21
-    min: 0
   title: "渋谷ハジメ＆海夜叉神 at:両名のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
@@ -372,14 +414,28 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:Mirrativ→YouTube"
+  title: "ドーラ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-10
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:?"
+  title: 03分～ 勇気ちひろ at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 21
+    min: 0
+  title: 15分～ 葛葉 at:YouTube Dead by Daylight
+  end_time: 
+  uri: 
+- date: 2018-09-10
+  time:
+    hour: 21
+    min: 46
+  title: "出雲霞 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-10
@@ -418,8 +474,10 @@
   end_time: 
   uri: 
 - date: 2018-09-10
-  time: 
-  title: "？時？分(22時以降)～ シスター・クレア at:YouTube"
+  time:
+    hour: 23
+    min: 36
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-09
