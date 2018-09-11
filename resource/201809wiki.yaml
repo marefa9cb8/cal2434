@@ -223,6 +223,13 @@
   uri: 
 - date: 2018-09-12
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube CoD"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
     hour: 17
     min: 30
   title: "出雲霞 at:YouTube"
@@ -321,7 +328,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube"
+  title: 02分～ 文野環 at:Mirrativ
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -356,7 +363,7 @@
   time:
     hour: 21
     min: 30
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -370,7 +377,21 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube 3D作り"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 22
+    min: 0
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:? ※中止"
+  end_time: 
+  uri: 
+- date: 2018-09-11
+  time:
+    hour: 20
+    min: 0
+  title: 22時30分～ 鷹宮リオン at:YouTube ※時間変更
   end_time: 
   uri: 
 - date: 2018-09-11
@@ -385,11 +406,6 @@
     hour: 23
     min: 0
   title: "海夜叉神 at:YouTube 東方永夜抄"
-  end_time: 
-  uri: 
-- date: 2018-09-11
-  time: 
-  title: "？時？分(20～23時の間)～ 文野環 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-10
