@@ -239,7 +239,7 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ※9/10Mirative（1:02:08）にて"
+  title: "える at:YouTube ※9/10 Mirrativ(1:02:08)にて"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -254,6 +254,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-12
