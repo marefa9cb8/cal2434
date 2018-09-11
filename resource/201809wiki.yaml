@@ -216,6 +216,13 @@
   uri: 
 - date: 2018-09-13
   time:
+    hour: 0
+    min: 30
+  title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube"
@@ -302,7 +309,14 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -316,7 +330,7 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:?"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -331,6 +345,18 @@
     hour: 23
     min: 0
   title: "緑仙 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 23
+    min: 30
+  title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time: 
+  title: "？時？分(夜)～ 静凛 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2018-09-11
