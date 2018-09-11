@@ -223,6 +223,13 @@
   uri: 
 - date: 2018-09-13
   time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
     hour: 22
     min: 0
   title: "轟京子 at:YouTube"
@@ -253,7 +260,14 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube CoD"
+  title: 02分～ 椎名唯華 at:YouTube CoD:BO4 ベータ版
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 2
+    min: 0
+  title: "静凛 at:YouTube Euro Truck Simulator 2"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -288,14 +302,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:?"
-  end_time: 
-  uri: 
-- date: 2018-09-12
-  time:
-    hour: 21
-    min: 0
-  title: "える at:YouTube ※9/10 Mirrativ(1:02:08)にて"
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -309,14 +316,14 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:? ※9/11配信内で告知"
+  title: "伏見ガク at:?"
   end_time: 
   uri: 
 - date: 2018-09-12
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "本間ひまわり＆ドーラ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -324,11 +331,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:? ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2018-09-12
-  time: 
-  title: "？時？分(00時以降)～ 静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-11
