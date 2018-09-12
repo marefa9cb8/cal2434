@@ -218,7 +218,7 @@
   time:
     hour: 0
     min: 30
-  title: "闇夜乃モルル at:YouTube"
+  title: "闇夜乃モルル at:YouTube 雑談枠"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -254,6 +254,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:?"
   end_time: 
   uri: 
 - date: 2018-09-12
