@@ -176,7 +176,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube ※Twitterネームより"
+  title: "樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -191,6 +191,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -316,7 +323,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -330,7 +337,7 @@
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-13
