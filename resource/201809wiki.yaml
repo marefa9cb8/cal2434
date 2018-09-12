@@ -217,6 +217,13 @@
 - date: 2018-09-13
   time:
     hour: 0
+    min: 0
+  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
+    hour: 0
     min: 30
   title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
@@ -295,7 +302,14 @@
   time:
     hour: 12
     min: 0
-  title: "鈴鹿詩子 at:YouTube 新PCテスト配信"
+  title: 30分～ 鈴鹿詩子 at:YouTube 新PCテスト配信 ※時間変更
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 14
+    min: 56
+  title: "海夜叉神 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -303,6 +317,13 @@
     hour: 17
     min: 30
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -324,6 +345,13 @@
     hour: 21
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神 at:? 東方永夜抄"
   end_time: 
   uri: 
 - date: 2018-09-12
@@ -376,8 +404,10 @@
   end_time: 
   uri: 
 - date: 2018-09-12
-  time: 
-  title: "？時？分(夜)～ 静凛 at:OPENREC.tv"
+  time:
+    hour: 20
+    min: 30
+  title: or22時30分～ 静凛 at:OPENREC.tv
   end_time: 
   uri: 
 - date: 2018-09-11
