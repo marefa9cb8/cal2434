@@ -218,7 +218,7 @@
   time:
     hour: 0
     min: 30
-  title: "闇夜乃モルル at:YouTube 雑談枠"
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -314,9 +314,23 @@
   uri: 
 - date: 2018-09-12
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターストライク"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
     hour: 21
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-12
+  time:
+    hour: 21
+    min: 0
+  title: "神田笑一 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-09-12
