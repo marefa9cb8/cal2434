@@ -183,14 +183,14 @@
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-09-15
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:?"
+  title: 22時00分～ 轟京子 at:YouTube 黄昏のオード ※時間変更
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -205,6 +205,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ オムレツ"
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
+    hour: 17
+    min: 45
+  title: "舞元啓介 at:? 横浜DeNAベイスターズvs読売ジャイアンツ実況"
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -265,6 +272,13 @@
   uri: 
 - date: 2018-09-13
   time:
+    hour: 13
+    min: 0
+  title: "椎名唯華 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-13
+  time:
     hour: 17
     min: 0
   title: "渋谷ハジメ at:YouTube"
@@ -288,7 +302,7 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:?"
+  title: "笹木咲 at:YouTube マリオパーティ２"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -323,7 +337,7 @@
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube ※中止の可能性あり"
   end_time: 
   uri: 
 - date: 2018-09-13
@@ -337,7 +351,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube ※体調不良の為15日に延期"
   end_time: 
   uri: 
 - date: 2018-09-13
