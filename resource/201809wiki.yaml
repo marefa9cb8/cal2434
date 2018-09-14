@@ -188,6 +188,13 @@
   uri: 
 - date: 2018-09-17
   time:
+    hour: 20
+    min: 30
+  title: "遠北千南 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-17
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube"
@@ -258,7 +265,7 @@
   time:
     hour: 0
     min: 0
-  title: "渋谷ハジメ＆渋谷ハル＆あさひ＆環右金 at:? PUBG"
+  title: "渋谷ハジメ＆渋谷ハル＆あさひ＆環右金 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -300,7 +307,21 @@
   time:
     hour: 20
     min: 0
+  title: "宇志海いちご at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 20
+    min: 0
   title: "シスター・クレア at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -440,13 +461,6 @@
   time:
     hour: 21
     min: 0
-  title: "文野環 at:YouTube MAXEND"
-  end_time: 
-  uri: 
-- date: 2018-09-14
-  time:
-    hour: 21
-    min: 0
   title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
@@ -454,7 +468,14 @@
   time:
     hour: 21
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: 08分～ 文野環 at:YouTube MAXEND
+  end_time: 
+  uri: 
+- date: 2018-09-14
+  time:
+    hour: 21
+    min: 0
+  title: 22分～ 出雲霞 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -468,7 +489,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube おうたわく"
   end_time: 
   uri: 
 - date: 2018-09-14
@@ -482,14 +503,14 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:?"
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-14
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube"
+  title: 10分～ 緑仙 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-13
