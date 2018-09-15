@@ -141,7 +141,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 渋谷カフェ：つなげようお客様の輪 第5回"
+  title: "渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 渋谷カフェ：つなげようお客様の輪 第5回 ※25日に延期"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -354,6 +354,13 @@
   uri: 
 - date: 2018-09-15
   time:
+    hour: 14
+    min: 30
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
     hour: 17
     min: 0
   title: "鈴鹿詩子 at:YouTube BL体験談スペシャル"
@@ -439,8 +446,15 @@
 - date: 2018-09-15
   time:
     hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 22
     min: 30
-  title: "？？×？？？ at:?"
+  title: "りんかえ(静凛＆樋口楓) at:? 3D化ありがとう前夜祭LIVE"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -448,11 +462,6 @@
     hour: 23
     min: 0
   title: "樋口楓 at:?"
-  end_time: 
-  uri: 
-- date: 2018-09-15
-  time: 
-  title: "？時？分(13時以降)～ 文野環 at:?"
   end_time: 
   uri: 
 - date: 2018-09-14
