@@ -204,12 +204,33 @@
   time:
     hour: 21
     min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-17
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-17
   time:
     hour: 23
+    min: 0
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 0
+    min: 0
+  title: "ドーラ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 0
     min: 0
   title: "緑仙 at:YouTube"
   end_time: 
@@ -233,6 +254,13 @@
     hour: 19
     min: 0
   title: "出雲霞 at:YouTube 昼やスミ特別編 甘味麺"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -313,6 +341,13 @@
 - date: 2018-09-15
   time:
     hour: 14
+    min: 0
+  title: "叶＆本間ひまわり＆sumomoxqx（すもも） at:sumomoxqx（すもも）のOPENREC.tvチャンネル CoD:BO4"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 駄菓子"
   end_time: 
@@ -362,8 +397,22 @@
 - date: 2018-09-15
   time:
     hour: 21
+    min: 0
+  title: "安土桃 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-15
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-15
@@ -399,13 +448,6 @@
     hour: 23
     min: 0
   title: "樋口楓 at:?"
-  end_time: 
-  uri: 
-- date: 2018-09-15
-  time:
-    hour: 23
-    min: 0
-  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-15
