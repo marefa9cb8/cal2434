@@ -276,7 +276,21 @@
   time:
     hour: 3
     min: 0
-  title: ChroNoiR(叶＆葛葉) at:OPENREC.tv Call of Duty:Black Ops 4
+  title: ChroNoiR(叶＆葛葉) at:OPENREC.tv Call of Duty:Black Ops 4 ※明日に繰越
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 3
+    min: 3
+  title: "静凛 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 5
+    min: 2
+  title: "渋谷ハジメ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -358,9 +372,16 @@
   uri: 
 - date: 2018-09-16
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
     hour: 22
     min: 0
-  title: "伏見ガク at:? ※9/14配信内で告知"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
