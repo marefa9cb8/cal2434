@@ -458,28 +458,28 @@
   time:
     hour: 21
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "葛葉 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-16
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: 03分～ 夕陽リリ at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-16
   time:
     hour: 21
     min: 0
-  title: "春崎エアル＆美影ルクス(SuiSay) at:春崎エアルのYouTubeチャンネル"
+  title: 03分～ 春崎エアル＆美影ルクス(SuiSay) at:春崎エアルのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-09-16
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube みんなでパンパヤ"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -487,6 +487,13 @@
     hour: 22
     min: 0
   title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 22
+    min: 0
+  title: "叶 at:YouTube ドールズフロントライン"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -506,7 +513,7 @@
 - date: 2018-09-16
   time:
     hour: 22
-    min: 0
+    min: 12
   title: "月見しずく at:YouTube 雑談"
   end_time: 
   uri: 
