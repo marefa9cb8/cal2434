@@ -15,6 +15,13 @@
   uri: 
 - date: 2018-09-29
   time:
+    hour: 18
+    min: 0
+  title: "シスター・クレア at:? お料理"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
     hour: 20
     min: 0
   title: "ドーラ at:YouTube"
@@ -73,7 +80,7 @@
   time:
     hour: 18
     min: 0
-  title: "シスター・クレア at:? お料理配信"
+  title: "シスター・クレア at:? お料理 ※29日に変更"
   end_time: 
   uri: 
 - date: 2018-09-23
@@ -416,7 +423,7 @@
   time:
     hour: 18
     min: 0
-  title: "ドーラ at:? 配信テスト"
+  title: "ドーラ at:YouTube 配信テスト"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -424,13 +431,6 @@
     hour: 19
     min: 0
   title: "出雲霞 at:YouTube 昼やスミ特別編 甘味麺"
-  end_time: 
-  uri: 
-- date: 2018-09-16
-  time:
-    hour: 20
-    min: 0
-  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -449,6 +449,13 @@
   uri: 
 - date: 2018-09-16
   time:
+    hour: 20
+    min: 0
+  title: 13分～ 勇気ちひろ at:YouTube 夜廻
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
     hour: 21
     min: 0
   title: "夕陽リリ at:YouTube"
@@ -458,14 +465,14 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:?"
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
   time:
     hour: 21
     min: 0
-  title: "春崎エアル＆美影ルクス(SuiSay) at:?"
+  title: "春崎エアル＆美影ルクス(SuiSay) at:春崎エアルのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -498,9 +505,16 @@
   uri: 
 - date: 2018-09-16
   time:
+    hour: 22
+    min: 0
+  title: "月見しずく at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ&社築&花畑チャイカ)&鈴木勝 at:?
+  title: OTN組(名伽尾アズマ&社築&花畑チャイカ)&鈴木勝 at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-09-15
