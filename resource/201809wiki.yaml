@@ -43,6 +43,13 @@
   uri: 
 - date: 2018-09-24
   time:
+    hour: 22
+    min: 0
+  title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
@@ -241,6 +248,13 @@
   time:
     hour: 22
     min: 0
+  title: "笹木咲 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-17
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル League of Legends"
   end_time: 
   uri: 
@@ -346,7 +360,7 @@
   time:
     hour: 20
     min: 0
-  title: "飛鳥ひな at:?"
+  title: "飛鳥ひな at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -388,7 +402,7 @@
   time:
     hour: 22
     min: 0
-  title: "笹木咲 at:?"
+  title: "笹木咲 at:? ※明日に繰越"
   end_time: 
   uri: 
 - date: 2018-09-16
