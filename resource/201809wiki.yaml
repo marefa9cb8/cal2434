@@ -241,7 +241,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ おにぎり"
   end_time: 
   uri: 
 - date: 2018-09-17
@@ -346,7 +346,7 @@
   time:
     hour: 3
     min: 0
-  title: ChroNoiR(叶＆葛葉) at:OPENREC.tv Call of Duty:Black Ops 4 ※明日に繰越
+  title: ChroNoiR(叶＆葛葉) at:OPENREC.tv Call of Duty:Black Ops 4 ※中止
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -393,9 +393,16 @@
   uri: 
 - date: 2018-09-16
   time:
+    hour: 15
+    min: 14
+  title: "叶 at:OPENREC.tv Call of Duty:Black Ops 4"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
     hour: 16
     min: 0
-  title: "月ノ美兎 at:RAGE公式のOPENREC.tv, AbemaTV"
+  title: "月ノ美兎 at:RAGE公式のOPENREC.tv(前半戦, 後半戦), AbemaTV"
   end_time: 
   uri: 
 - date: 2018-09-16
@@ -403,6 +410,13 @@
     hour: 17
     min: 0
   title: "魔界ノりりむ＆ロボ子さん at:? ※延期"
+  end_time: 
+  uri: 
+- date: 2018-09-16
+  time:
+    hour: 18
+    min: 0
+  title: "ドーラ at:? 配信テスト"
   end_time: 
   uri: 
 - date: 2018-09-16
