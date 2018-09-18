@@ -183,6 +183,13 @@
   uri: 
 - date: 2018-09-20
   time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
     hour: 21
     min: 0
   title: "月ノ美兎&ウェザーロイドAiri(ポン子) at:ウェザーロイドAiri(ポン子)のYouTubeチャンネル"
@@ -235,6 +242,13 @@
     hour: 22
     min: 0
   title: "笹木咲&？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり&？？？ at:コラボ相手のチャンネル(9/18の配信より)"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -337,13 +351,6 @@
   uri: 
 - date: 2018-09-18
   time:
-    hour: 21
-    min: 30
-  title: "ドーラ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-18
-  time:
     hour: 22
     min: 0
   title: "家長むぎ at:YouTube"
@@ -361,6 +368,13 @@
     hour: 23
     min: 0
   title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-18
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube ※21時半から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-17
