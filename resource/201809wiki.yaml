@@ -85,7 +85,7 @@
   uri: 
 - date: 2018-09-23
   time:
-    hour: 13
+    hour: 12
     min: 30
   title: "勇気ちひろ＆家長むぎ＆夕陽リリ at:ニコニコ生放送 ※森中花咲出演取り止め"
   end_time: 
@@ -213,21 +213,21 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube"
+  title: "家長むぎ at:YouTube ※前日22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-19
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube ※前日22時から時間変更"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-19
   time:
     hour: 13
     min: 0
-  title: "文野環 at:?"
+  title: "文野環 at:? ※中止"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -382,13 +382,6 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:?"
-  end_time: 
-  uri: 
-- date: 2018-09-18
-  time:
-    hour: 21
-    min: 0
   title: "飛鳥ひな at:YouTube"
   end_time: 
   uri: 
@@ -396,7 +389,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 深夜廻"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -410,7 +403,21 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube"
+  title: 10分～ 轟京子 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-18
+  time:
+    hour: 21
+    min: 0
+  title: 22時18分～ 葛葉 at:YouTube PUBG
+  end_time: 
+  uri: 
+- date: 2018-09-18
+  time:
+    hour: 22
+    min: 19
+  title: "海夜叉神＆ゆきんこ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-18
