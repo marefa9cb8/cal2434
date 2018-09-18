@@ -71,6 +71,13 @@
   uri: 
 - date: 2018-09-24
   time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
     hour: 22
     min: 0
   title: "飛鳥ひな at:YouTube"
@@ -130,6 +137,13 @@
     hour: 20
     min: 0
   title: "ドーラ at:YouTube アベンジャーズ観賞＆解説会"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 20
+    min: 0
+  title: "社築＆バーチャルねこ at:YouTube 音楽ゲーム談話"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -197,6 +211,13 @@
   uri: 
 - date: 2018-09-20
   time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり＆闇夜乃モルル＆笹木咲 at:闇夜乃モルルのチャンネル Party Panic"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ at:?"
@@ -241,7 +262,7 @@
   time:
     hour: 0
     min: 0
-  title: "叶＆ふぇありす at:YouTube Fortnite"
+  title: "叶＆ふぇありす at:YouTube Fortnite, PUBG"
   end_time: 
   uri: 
 - date: 2018-09-19
