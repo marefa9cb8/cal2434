@@ -211,6 +211,20 @@
   uri: 
 - date: 2018-09-19
   time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube ※前日22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
     hour: 13
     min: 0
   title: "文野環 at:?"
@@ -221,6 +235,20 @@
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 21
+    min: 0
+  title: "でろもい(樋口楓&モイラ) at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -297,21 +325,21 @@
   time:
     hour: 17
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: 07分～ 夕陽リリ at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-18
   time:
     hour: 19
     min: 0
-  title: "える at:YouTube"
+  title: 03分～ える at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-18
   time:
     hour: 19
     min: 0
-  title: "シスター・クレア at:?"
+  title: 05分～ シスター・クレア at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -333,14 +361,14 @@
   time:
     hour: 20
     min: 0
-  title: "卯月コウ at:YouTube"
+  title: 02分～ 卯月コウ at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-18
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube"
+  title: "樋口楓 at:YouTube よみうりランド感想回"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -348,6 +376,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 渋谷カフェ：つなげようお客様の輪 第5回 ※25日に延期"
+  end_time: 
+  uri: 
+- date: 2018-09-18
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-18
@@ -368,7 +403,7 @@
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube ※24時に時間変更"
   end_time: 
   uri: 
 - date: 2018-09-18
