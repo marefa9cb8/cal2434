@@ -108,6 +108,13 @@
   time:
     hour: 21
     min: 0
+  title: "月ノ美兎 at:REALITY ※REALITYタイムテーブルより"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 21
+    min: 0
   title: "出雲霞 at:YouTube チャンネル登録者数一万人突破記念"
   end_time: 
   uri: 
@@ -123,6 +130,13 @@
     hour: 20
     min: 0
   title: "ドーラ at:YouTube アベンジャーズ観賞＆解説会"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -144,6 +158,13 @@
     hour: 13
     min: 0
   title: "静凛＆叶＆いなわがCOO＆Ruytv at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-21
@@ -172,6 +193,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:? ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
+    hour: 17
+    min: 30
+  title: "夕陽リリ at:?"
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -213,7 +241,7 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube ※前日22時から時間変更"
+  title: "叶＆ふぇありす at:YouTube Fortnite"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -221,6 +249,20 @@
     hour: 0
     min: 0
   title: "花畑チャイカ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 0
+    min: 0
+  title: 03分～ 家長むぎ at:YouTube ※前日22時から時間変更
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 1
+    min: 34
+  title: "静凛 at:YouTube よみうりランド・PUBG PARK感想会"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -235,6 +277,20 @@
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 19
+    min: 0
+  title: "勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 20
+    min: 0
+  title: "町田ちま at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-19
