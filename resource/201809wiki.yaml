@@ -234,6 +234,13 @@
   time:
     hour: 0
     min: 0
+  title: "海夜叉神＆歌衣メイカ＆渋谷ハル＆CrySheep at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
+    hour: 0
+    min: 0
   title: "過ぎ～ でびでび・でびる at:Mirrativ"
   end_time: 
   uri: 
@@ -339,7 +346,7 @@
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: 10分～ 出雲霞 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -367,21 +374,21 @@
   time:
     hour: 20
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: 05分～ 家長むぎ at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-19
   time:
     hour: 20
-    min: 0
-  title: "町田ちま at:Mirrativ"
+    min: 30
+  title: "でろもい(樋口楓&モイラ) at:樋口楓のYouTubeチャンネル ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-19
   time:
-    hour: 21
-    min: 0
-  title: "でろもい(樋口楓&モイラ) at:YouTube"
+    hour: 20
+    min: 30
+  title: "町田ちま at:Mirrativ  ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-19
