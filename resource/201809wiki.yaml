@@ -220,7 +220,14 @@
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり＆闇夜乃モルル＆笹木咲 at:闇夜乃モルルのチャンネル Party Panic"
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり＆闇夜乃モルル＆笹木咲 at:闇夜乃モルルのYouTubeチャンネル Party Panic"
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -316,6 +323,20 @@
   uri: 
 - date: 2018-09-19
   time:
+    hour: 16
+    min: 0
+  title: "海夜叉神 at:YouTube でろーんが森を燃やすRPG"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
+    hour: 17
+    min: 26
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube"
@@ -360,7 +381,7 @@
   time:
     hour: 21
     min: 0
-  title: "でろもい(樋口楓&モイラ) at:?"
+  title: "でろもい(樋口楓&モイラ) at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-19
@@ -372,9 +393,16 @@
   uri: 
 - date: 2018-09-19
   time:
+    hour: 21
+    min: 0
+  title: "神田笑一 at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2018-09-19
+  time:
     hour: 22
     min: 0
-  title: "伏見ガク at:? ※9/17配信で告知"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-19
