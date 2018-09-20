@@ -143,6 +143,13 @@
   time:
     hour: 0
     min: 0
+  title: "??? at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 0
+    min: 0
   title: "咎人(伏見ガク＆剣持刀也) at:?"
   end_time: 
   uri: 
@@ -248,13 +255,6 @@
   time:
     hour: 20
     min: 0
-  title: "える at:? ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2018-09-21
-  time:
-    hour: 20
-    min: 0
   title: "緑仙 at:YouTube"
   end_time: 
   uri: 
@@ -269,7 +269,21 @@
   time:
     hour: 21
     min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 21
+    min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 21
+    min: 0
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-21
