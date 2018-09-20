@@ -204,6 +204,27 @@
   uri: 
 - date: 2018-09-21
   time:
+    hour: 1
+    min: 28
+  title: "静凛 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 2
+    min: 10
+  title: "渋谷ハジメ at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 2
+    min: 25
+  title: "叶 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -387,21 +408,6 @@
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+八朔ゆず at:名伽尾アズマのYouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2018-09-20
-  time: 
-  title: 22時以降 静凛 at:?
-  end_time: 
-  uri: 
-- date: 2018-09-20
-  time: 
-  title: 22時過ぎ シスター・クレア at:?
-  end_time: 
-  uri: 
-- date: 2018-09-20
-  time: 
-  title: "？時？分(深夜)～ 叶 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-20
