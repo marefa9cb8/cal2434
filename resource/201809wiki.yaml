@@ -302,7 +302,7 @@
   time:
     hour: 1
     min: 27
-  title: "渋谷ハジメ＆叶＆ふぇありす＆あっくん大魔王 at:YouTube PUBG"
+  title: "渋谷ハジメ＆叶＆ふぇありす＆あっくん大魔王 at:叶のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -351,21 +351,14 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-09-20
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-20
-  time:
-    hour: 22
-    min: 0
-  title: "帝華組(鷹宮リオン&飛鳥ひな) at:?"
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -386,7 +379,14 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+八朔ゆず at:YouTube
+  title: "家長むぎ at:YouTube Left 4 Dead 2 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-20
+  time:
+    hour: 23
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+八朔ゆず at:名伽尾アズマのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-09-20
@@ -401,7 +401,7 @@
   uri: 
 - date: 2018-09-20
   time: 
-  title: "？時？分(夜)～ 叶 at:Mirrativ"
+  title: "？時？分(深夜)～ 叶 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-20
