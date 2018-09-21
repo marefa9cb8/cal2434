@@ -157,14 +157,14 @@
   time:
     hour: 0
     min: 0
-  title: " 咎人(伏見ガク＆剣持刀也) at:剣持刀也のチャンネル"
+  title: "咎人(伏見ガク＆剣持刀也) at:剣持刀也のチャンネル"
   end_time: 
   uri: 
 - date: 2018-09-22
   time:
     hour: 0
     min: 0
-  title: "社築 at:? ※Twitterネームより"
+  title: "社築 at:?"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -193,13 +193,6 @@
     hour: 20
     min: 0
   title: "社築＆バーチャルねこ at:YouTube 音楽ゲーム談話"
-  end_time: 
-  uri: 
-- date: 2018-09-22
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:? 500曲歌う配信"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -297,7 +290,7 @@
   time:
     hour: 18
     min: 0
-  title: "葛葉 at:? Dead by Daylight"
+  title: "葛葉 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-21
@@ -309,16 +302,23 @@
   uri: 
 - date: 2018-09-21
   time:
-    hour: 20
-    min: 0
-  title: "勇気ちひろ at:YouTube"
+    hour: 19
+    min: 50
+  title: "渋谷ブラザーズ(渋谷ハジメ&渋谷ハル) at:渋谷ハルのYouTubeチャンネル  PUBG"
   end_time: 
   uri: 
 - date: 2018-09-21
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube"
+  title: "緑仙 at:YouTube 500曲歌う配信"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 20
+    min: 0
+  title: 07分～ 勇気ちひろ at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-21
