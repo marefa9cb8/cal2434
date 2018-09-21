@@ -146,6 +146,13 @@
   title: "出雲霞 at:YouTube チャンネル登録者数一万人突破記念"
   end_time: 
   uri: 
+- date: 2018-09-23
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-09-22
   time:
     hour: 0
@@ -157,14 +164,21 @@
   time:
     hour: 0
     min: 0
-  title: "咎人(伏見ガク＆剣持刀也) at:剣持刀也のチャンネル"
+  title: "咎人(伏見ガク＆剣持刀也) at:剣持刀也のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-09-22
   time:
     hour: 0
     min: 0
-  title: "社築 at:?"
+  title: "叶＆渋谷ハジメ＆ふくやマスター＆ピーナッツくん at:叶のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 0
+    min: 0
+  title: "社築 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -332,35 +346,35 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-21
-  time:
-    hour: 21
-    min: 0
-  title: "家長むぎ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-21
-  time:
-    hour: 21
-    min: 0
   title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-21
   time:
     hour: 21
+    min: 0
+  title: 04分～ える at:YouTube→Mirrativ
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 21
+    min: 0
+  title: 12分～ 家長むぎ at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 深夜廻"
   end_time: 
   uri: 
 - date: 2018-09-21
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube MoimoiRadio"
+  title: 21時55分～ モイラ at:YouTube MoimoiRadio
   end_time: 
   uri: 
 - date: 2018-09-21
@@ -374,12 +388,14 @@
   time:
     hour: 23
     min: 0
-  title: "シスター・クレア at:YouTube ささやきバイノーラル"
+  title: 18分～ シスター・クレア at:YouTube ささやきバイノーラル
   end_time: 
   uri: 
 - date: 2018-09-21
-  time: 
-  title: "？時？分～ 叶＆？ at:? PUBG"
+  time:
+    hour: 23
+    min: 32
+  title: "モイラ at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2018-09-20
