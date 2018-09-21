@@ -220,7 +220,7 @@
   time:
     hour: 2
     min: 10
-  title: "渋谷ハジメ at:YouTube League of Legends"
+  title: "渋谷ハジメ at:YouTube League of Legends, PUBG"
   end_time: 
   uri: 
 - date: 2018-09-21
@@ -234,7 +234,14 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ 2nd回で美味しかった・思い出深かったもの"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 8
+    min: 6
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-21
@@ -284,6 +291,13 @@
     hour: 21
     min: 0
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-21
+  time:
+    hour: 21
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-21
