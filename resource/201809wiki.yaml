@@ -183,6 +183,20 @@
   uri: 
 - date: 2018-09-22
   time:
+    hour: 3
+    min: 30
+  title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 4
+    min: 34
+  title: "静凛 at:YouTube バイノーラル/ASMR"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ドーナツ"
@@ -199,6 +213,13 @@
   time:
     hour: 20
     min: 0
+  title: "家長むぎ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 20
+    min: 0
   title: "ドーラ at:YouTube アベンジャーズ観賞＆解説会"
   end_time: 
   uri: 
@@ -206,7 +227,7 @@
   time:
     hour: 20
     min: 0
-  title: "社築＆バーチャルねこ at:YouTube 音楽ゲーム談話"
+  title: "社築＆バーチャルねこ at:バーチャルねこのYouTubeチャンネル 音楽ゲーム談話"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -248,7 +269,7 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:? SharpnessRadio"
+  title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-09-22
