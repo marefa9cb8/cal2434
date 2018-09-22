@@ -149,6 +149,13 @@
 - date: 2018-09-23
   time:
     hour: 22
+    min: 0
+  title: "海夜叉神 at:? 『ドラゴンクエスト』についてを語る枠"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
   end_time: 
@@ -255,7 +262,7 @@
   time:
     hour: 22
     min: 0
-  title: "しぃさー(椎名唯華＆笹木咲) at:椎名唯華のYouTubeチャンネル しぃさーらじお。"
+  title: "しぃさー(椎名唯華＆笹木咲) at:椎名唯華のYouTubeチャンネル しぃさーらじお。 ※延期"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -263,6 +270,13 @@
     hour: 22
     min: 0
   title: "舞元啓介＆大空スバル(ホロライブ2期生) at:舞元啓介のYouTubeチャンネル 激辛MAXEND早食い勝負"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 22
+    min: 30
+  title: "春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -283,7 +297,7 @@
   time:
     hour: 23
     min: 0
-  title: "勇気ちひろ at:Mirrativ (21時から変更)"
+  title: "勇気ちひろ at:Mirrativ ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-21
