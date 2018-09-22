@@ -234,7 +234,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:Mirrativ"
+  title: "森中花咲 at:YouTube 新衣装発表"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -277,6 +277,13 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 23
+    min: 0
+  title: "勇気ちひろ at:Mirrativ (21時から変更)"
   end_time: 
   uri: 
 - date: 2018-09-21
