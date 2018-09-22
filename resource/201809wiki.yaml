@@ -31,7 +31,14 @@
   time:
     hour: 22
     min: 0
-  title: "一期生コラボ at:にじさんじ公式のYouTubeチャンネル ワードウルフ ※9/19でろもいにて告知"
+  title: "一期生コラボ at:にじさんじ公式のYouTubeチャンネル  ※9/19でろもいにて告知"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 22
+    min: 0
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -67,6 +74,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:?"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -218,6 +232,13 @@
   uri: 
 - date: 2018-09-22
   time:
+    hour: 11
+    min: 1
+  title: "町田ちま at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ドーナツ"
@@ -241,7 +262,7 @@
   time:
     hour: 19
     min: 0
-  title: "月見しずく at:? 雑談"
+  title: "月見しずく at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -283,28 +304,28 @@
   time:
     hour: 20
     min: 0
-  title: 44分～ リリむぎ(夕陽リリ＆家長むぎ) at:夕陽リリのYouTubeチャンネル
+  title: 44分～ リリむぎ(夕陽リリ＆家長むぎ) at:夕陽リリのYouTubeチャンネル 名古屋町会議前夜祭
   end_time: 
   uri: 
 - date: 2018-09-22
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:YouTube 新衣装発表"
+  title: "本間ひまわり at:YouTube Rat Simulator ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-22
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:YouTube ※23時から時間変更"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-22
   time:
     hour: 21
     min: 0
-  title: "鷹宮リオン at:?"
+  title: 04分～ 森中花咲 at:YouTube 新衣装発表
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -318,13 +339,6 @@
   time:
     hour: 22
     min: 0
-  title: "える at:YouTube 3Dお披露目 ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2018-09-22
-  time:
-    hour: 22
-    min: 0
   title: "しぃさー(椎名唯華＆笹木咲) at:椎名唯華のYouTubeチャンネル しぃさーらじお。 ※延期"
   end_time: 
   uri: 
@@ -332,14 +346,7 @@
   time:
     hour: 22
     min: 0
-  title: "舞元啓介＆大空スバル(ホロライブ2期生) at:舞元啓介のYouTubeチャンネル 激辛MAXEND早食い勝負"
-  end_time: 
-  uri: 
-- date: 2018-09-22
-  time:
-    hour: 22
-    min: 30
-  title: "春崎エアル at:YouTube"
+  title: "舞元啓介＆大空スバル(ホロライブ2期生)＆白上フブキ at:舞元啓介のYouTubeチャンネル 激辛MAXEND早食い勝負"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -360,7 +367,21 @@
   time:
     hour: 23
     min: 0
-  title: "鈴木勝 at:? ※Twitterネームより"
+  title: "鈴木勝 at:YouTube Home Sweet Home"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 23
+    min: 7
+  title: "春崎エアル at:YouTube おやすみバイノーラル・ASMR"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 23
+    min: 0
+  title: 20分～ える at:YouTube 3Dお披露目 ※22時から時間変更
   end_time: 
   uri: 
 - date: 2018-09-21
