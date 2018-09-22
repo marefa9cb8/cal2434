@@ -101,7 +101,21 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 0
+    min: 0
   title: "竜胆尊 at:? 晩酌配信"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 12
+    min: 0
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-23
@@ -211,6 +225,20 @@
   uri: 
 - date: 2018-09-22
   time:
+    hour: 16
+    min: 30
+  title: "神田笑一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 17
+    min: 30
+  title: "渋谷ハジメ at:YouTube Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
     hour: 19
     min: 0
   title: "月見しずく at:? 雑談"
@@ -218,9 +246,16 @@
   uri: 
 - date: 2018-09-22
   time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
     hour: 20
     min: 0
-  title: "家長むぎ at:? ※Twitterネームより"
+  title: "リリむぎ(夕陽リリ＆家長むぎ) at:?"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -235,6 +270,13 @@
     hour: 20
     min: 0
   title: "社築＆バーチャルねこ at:バーチャルねこのYouTubeチャンネル 音楽ゲーム談話"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 20
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-22
@@ -262,6 +304,13 @@
   time:
     hour: 22
     min: 0
+  title: "える at:YouTube 3Dお披露目 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 22
+    min: 0
   title: "しぃさー(椎名唯華＆笹木咲) at:椎名唯華のYouTubeチャンネル しぃさーらじお。 ※延期"
   end_time: 
   uri: 
@@ -283,6 +332,13 @@
   time:
     hour: 23
     min: 0
+  title: "勇気ちひろ at:Mirrativ ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-22
+  time:
+    hour: 23
+    min: 0
   title: "剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
@@ -291,13 +347,6 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:? ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2018-09-22
-  time:
-    hour: 23
-    min: 0
-  title: "勇気ちひろ at:Mirrativ ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-21
