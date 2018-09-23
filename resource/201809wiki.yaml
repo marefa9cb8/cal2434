@@ -108,6 +108,13 @@
   time:
     hour: 22
     min: 0
+  title: "伏見ガク at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:YouTube"
   end_time: 
   uri: 
@@ -115,14 +122,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube"
+  title: "森中花咲 at:?"
   end_time: 
   uri: 
 - date: 2018-09-26
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:?"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -151,6 +158,13 @@
     hour: 23
     min: 0
   title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
+    hour: 0
+    min: 14
+  title: "静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-24
@@ -270,6 +284,13 @@
     hour: 20
     min: 0
   title: "月見しずく at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 20
+    min: 27
+  title: "天開司 at:天開司のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-23
