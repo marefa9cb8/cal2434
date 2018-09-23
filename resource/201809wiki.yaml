@@ -178,7 +178,14 @@
   time:
     hour: 2
     min: 24
-  title: "叶 at:YouTube PUBG"
+  title: "叶 at:YouTube PUBG, Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 6
+    min: 57
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-23
@@ -199,14 +206,7 @@
   time:
     hour: 18
     min: 0
-  title: "緑仙＆？？？ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-23
-  time:
-    hour: 18
-    min: 0
-  title: "シスター・クレア&？？？ at:?"
+  title: "シスター・クレア＆緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-23
