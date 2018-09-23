@@ -17,7 +17,7 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+出雲霞 at:?
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+出雲霞 at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -25,6 +25,13 @@
     hour: 11
     min: 0
   title: "モイラ＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ お団子"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -71,6 +78,13 @@
   uri: 
 - date: 2018-09-28
   time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
@@ -109,6 +123,13 @@
     hour: 23
     min: 0
   title: "森中花咲 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-25
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -284,6 +305,13 @@
     hour: 22
     min: 30
   title: "遠北千南 at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2018-09-23
+  time:
+    hour: 23
+    min: 7
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-22
