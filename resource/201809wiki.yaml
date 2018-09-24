@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 3万人記念(その２)"
   end_time: 
   uri: 
 - date: 2018-09-30
@@ -45,7 +45,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 3万人記念(その１)"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -73,7 +73,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube おはなしとごはん"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -115,7 +115,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube Marvel's Spider-Man"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -143,7 +143,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube しゅうはじめおうたわく"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -176,6 +176,20 @@
   uri: 
 - date: 2018-09-24
   time:
+    hour: 14
+    min: 42
+  title: "桜凛月 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
+    hour: 18
+    min: 0
+  title: "葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
     hour: 21
     min: 0
   title: "轟京子 at:YouTube Stardew Valley"
@@ -192,7 +206,7 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:YouTube 25日へ変更"
+  title: "飛鳥ひな at:YouTube ※25日へ変更"
   end_time: 
   uri: 
 - date: 2018-09-24
@@ -206,7 +220,19 @@
   time:
     hour: 23
     min: 0
+  title: "月ノ美兎 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time:
+    hour: 23
+    min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-24
+  time: 
+  title: "？時？分(夜)～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-09-23
@@ -325,7 +351,7 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神 at:YouTube 『ドラゴンクエスト』語り"
+  title: "海夜叉神 at:YouTube 『ドラゴンクエスト』語る枠"
   end_time: 
   uri: 
 - date: 2018-09-23
