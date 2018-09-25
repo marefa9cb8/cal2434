@@ -241,7 +241,7 @@
   time:
     hour: 19
     min: 0
-  title: "月ノ美兎 at:?"
+  title: "月ノ美兎 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -263,6 +263,27 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ユキミお姉ちゃん at:YouTube 渋谷カフェ：つなげようお客様の輪 第5回"
+  end_time: 
+  uri: 
+- date: 2018-09-25
+  time:
+    hour: 21
+    min: 0
+  title: "緑仙 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-09-25
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-25
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-25
@@ -295,7 +316,7 @@
   uri: 
 - date: 2018-09-25
   time: 
-  title: "??時??分～(夜遅く) 鷹宮リオン at:? Vtuberland感想会"
+  title: "？時？分(夜遅く)～ 鷹宮リオン at:? Vtuberland感想会"
   end_time: 
   uri: 
 - date: 2018-09-24
@@ -498,7 +519,7 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神 at:YouTube 『ドラゴンクエスト』語る枠"
+  title: "海夜叉神 at:YouTube 『ドラゴンクエスト』語り"
   end_time: 
   uri: 
 - date: 2018-09-23
