@@ -127,6 +127,13 @@
   uri: 
 - date: 2018-09-27
   time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-27
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:Mirrativ ※Twitterネームより"
@@ -178,7 +185,7 @@
   time:
     hour: 0
     min: 0
-  title: "叶＆ふぇありす at:YouTube Realm Royale"
+  title: "叶＆ふぇありす at:YouTube Realm Royale, The Culling, Ring of Elysium"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -193,6 +200,13 @@
     hour: 1
     min: 0
   title: "鷹宮リオン at:YouTube Vtuberland感想会"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 3
+    min: 0
+  title: "渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-26
