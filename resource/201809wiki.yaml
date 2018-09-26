@@ -141,6 +141,13 @@
   uri: 
 - date: 2018-09-27
   time:
+    hour: 19
+    min: 0
+  title: "舞元啓介 at:? Shadowverse"
+  end_time: 
+  uri: 
+- date: 2018-09-27
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:Mirrativ ※Twitterネームより"
@@ -283,7 +290,7 @@
   time:
     hour: 21
     min: 0
-  title: "海夜叉神＆八朔ゆず at:両名のYouTubeチャンネル Who's Your Daddy"
+  title: "海夜叉神＆八朔ゆず at:両名海夜叉神のYouTubeチャンネル Who's Your Daddy"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -304,7 +311,14 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:YouTube"
+  title: "樋口楓 at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 22
+    min: 0
+  title: "伏見ガク at:YouTube 麻雀"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -325,7 +339,7 @@
   time:
     hour: 23
     min: 0
-  title: "文野環 at:YouTube ※17時半から時間変更"
+  title: 10分～ 文野環 at:YouTube ※17時半から時間変更
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -340,6 +354,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-25
