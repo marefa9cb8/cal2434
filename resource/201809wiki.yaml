@@ -185,7 +185,7 @@
   time:
     hour: 0
     min: 0
-  title: "叶＆ふぇありす at:YouTube Realm Royale, The Culling, Ring of Elysium"
+  title: "叶＆ふぇありす at:YouTube Realm Royale, The Culling, Ring of Elysium, PUBG"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -221,6 +221,13 @@
     hour: 19
     min: 0
   title: "月見しずく at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
+    hour: 19
+    min: 30
+  title: "桜凛月 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-09-26
