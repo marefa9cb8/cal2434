@@ -94,7 +94,7 @@
   time:
     hour: 20
     min: 0
-  title: "矢車りね at:Mirrativ"
+  title: "矢車りね at:Mirrativ ※初配信"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -260,9 +260,16 @@
   uri: 
 - date: 2018-09-26
   time:
+    hour: 21
+    min: 30
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-26
+  time:
     hour: 22
     min: 0
-  title: "伏見ガク at:?"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -302,7 +309,7 @@
   uri: 
 - date: 2018-09-26
   time: 
-  title: "？時？分～ 樋口楓 at:? 野球実況＆雑談"
+  title: "？時？分(19時以降)～ 樋口楓 at:YouTube 野球実況＆雑談"
   end_time: 
   uri: 
 - date: 2018-09-25
