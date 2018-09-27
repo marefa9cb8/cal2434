@@ -36,6 +36,13 @@
   uri: 
 - date: 2018-09-29
   time:
+    hour: 0
+    min: 0
+  title: "森中花咲 at:YouTube オトナ花咲の悪いコNight"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
     hour: 11
     min: 0
   title: "モイラ＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
@@ -88,6 +95,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 19
+    min: 0
+  title: "月見しずく at:? Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -171,14 +185,28 @@
   time:
     hour: 19
     min: 0
+  title: "闇夜乃モルル at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-27
+  time:
+    hour: 19
+    min: 0
   title: "舞元啓介 at:? Shadowverse"
+  end_time: 
+  uri: 
+- date: 2018-09-27
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:? モンスターストライク"
   end_time: 
   uri: 
 - date: 2018-09-27
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:Mirrativ ※Twitterネームより"
+  title: "勇気ちひろ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-27
@@ -221,6 +249,11 @@
     hour: 23
     min: 0
   title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-27
+  time: 
+  title: "？時？分(深夜)～ 闇夜乃モルル at:? ロマンシング サ・ガ2"
   end_time: 
   uri: 
 - date: 2018-09-26
@@ -387,8 +420,8 @@
 - date: 2018-09-26
   time:
     hour: 23
-    min: 0
-  title: "叶 at:YouTube"
+    min: 13
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-25
