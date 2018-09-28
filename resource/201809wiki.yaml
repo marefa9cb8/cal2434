@@ -52,7 +52,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華&魔界ノりりむ&稲荷くろむ&???&??? at:? Dead by Daylight"
+  title: "椎名唯華&魔界ノりりむ&ロボ子&稲荷くろむ&宇森ひなこ at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -60,6 +60,13 @@
     hour: 0
     min: 0
   title: "竜胆尊 at:YouTube 晩酌配信"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 1
+    min: 0
+  title: "鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -94,7 +101,7 @@
   time:
     hour: 20
     min: 0
-  title: SUMOMOXqX（すもも）&本間ひまわり&葛葉&魔界ノりりむ&闇夜乃モルル at:魔界ノりりむのYouTubeチャンネル Dead by Daylight
+  title: "魔界ノりりむ&本間ひまわり&葛葉&闇夜乃モルル&SUMOMOXqX（すもも） at:魔界ノりりむのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -172,6 +179,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 16
+    min: 48
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-28
