@@ -10,6 +10,13 @@
   time:
     hour: 20
     min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 20
+    min: 0
   title: "成瀬鳴 at:YouTube ※移籍後初配信 ※Twitterネームより"
   end_time: 
   uri: 
@@ -71,6 +78,13 @@
   uri: 
 - date: 2018-09-29
   time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
     hour: 13
     min: 0
   title: "モイラ＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
@@ -95,6 +109,13 @@
     hour: 19
     min: 0
   title: "でびでび・でびる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -199,7 +220,7 @@
   time:
     hour: 19
     min: 0
-  title: "海夜叉神＆桜凛月 at:YouTube PUBG"
+  title: "海夜叉神＆桜凛月 at:両名のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -207,6 +228,13 @@
     hour: 19
     min: 0
   title: "月見しずく at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 19
+    min: 30
+  title: "飛鳥ひな at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -235,6 +263,20 @@
     hour: 21
     min: 0
   title: "神田笑一 at:YouTube Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-09-28
