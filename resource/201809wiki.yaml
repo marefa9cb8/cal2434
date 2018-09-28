@@ -45,14 +45,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "森中花咲 at:YouTube オトナ花咲の悪いコNight#5"
   end_time: 
   uri: 
 - date: 2018-09-29
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:YouTube オトナ花咲の悪いコNight#5"
+  title: "椎名唯華&魔界ノりりむ&稲荷くろむ&???&??? at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌配信"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -73,7 +80,7 @@
   time:
     hour: 18
     min: 0
-  title: "シスター・クレア at:? お料理"
+  title: "シスター・クレア at:? お料理 ※延期"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -87,6 +94,13 @@
   time:
     hour: 20
     min: 0
+  title: SUMOMOXqX（すもも）&本間ひまわり&葛葉&魔界ノりりむ&闇夜乃モルル at:魔界ノりりむのYouTubeチャンネル Dead by Daylight
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 20
+    min: 0
   title: "ドーラ at:YouTube 3万人記念(その１)"
   end_time: 
   uri: 
@@ -94,7 +108,7 @@
   time:
     hour: 20
     min: 0
-  title: SUMOMOXqX（すもも）&本間ひまわり&葛葉&魔界ノりりむ&闇夜乃モルル at:魔界ノりりむのYouTubeチャンネル Dead by Daylight
+  title: "安土桃＆？？？ at:YouTube Shadowverse ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -171,7 +185,7 @@
   time:
     hour: 19
     min: 0
-  title: "海夜叉神＆桜凛月 at:?"
+  title: "海夜叉神＆桜凛月 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -206,7 +220,7 @@
   time:
     hour: 21
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube Marvel's Spider-Man"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -220,7 +234,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube"
+  title: "静凛 at:YouTube 3D配信"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -228,6 +242,20 @@
     hour: 23
     min: 0
   title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-27
