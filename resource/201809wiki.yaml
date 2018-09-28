@@ -31,7 +31,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:?"
+  title: "轟京子 at:? ※お休み"
   end_time: 
   uri: 
 - date: 2018-09-30
@@ -164,7 +164,7 @@
   time:
     hour: 18
     min: 0
-  title: "黒井しば at:? ※初配信 ※19時から時間変更"
+  title: "黒井しば at:YouTube ※初配信 ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -221,6 +221,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 23
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-27
