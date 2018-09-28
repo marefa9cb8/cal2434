@@ -73,7 +73,7 @@
   time:
     hour: 1
     min: 0
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -248,13 +248,6 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube 3D配信"
-  end_time: 
-  uri: 
-- date: 2018-09-28
-  time:
-    hour: 21
-    min: 0
   title: "ドーラ at:YouTube おはなしとごはん"
   end_time: 
   uri: 
@@ -269,42 +262,42 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube NightSky"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 21
+    min: 0
+  title: 36分～ 樋口楓 at:YouTube 3D配信
   end_time: 
   uri: 
 - date: 2018-09-28
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:?"
+  title: "葛葉 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-09-28
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: 09分～ 出雲霞 at:YouTube
   end_time: 
   uri: 
 - date: 2018-09-28
   time:
     hour: 23
     min: 0
-  title: "静凛 at:YouTube 3D配信"
+  title: "家長むぎ at:YouTube 延期"
   end_time: 
   uri: 
 - date: 2018-09-28
   time:
     hour: 23
     min: 0
-  title: "家長むぎ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-09-28
-  time:
-    hour: 23
-    min: 0
-  title: "緑仙 at:YouTube"
+  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-09-28
@@ -312,6 +305,20 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 23
+    min: 0
+  title: 20分～ 静凛 at:YouTube 3D配信
+  end_time: 
+  uri: 
+- date: 2018-09-28
+  time:
+    hour: 23
+    min: 34
+  title: "渋谷ハジメ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-27
