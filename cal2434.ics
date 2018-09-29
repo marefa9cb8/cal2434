@@ -153,7 +153,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180929T153000
-SUMMARY:帝華組(鷹宮リオン＆飛鳥ひな) at:?
+SUMMARY:帝華組(鷹宮リオン＆飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -195,7 +195,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20180929T200000
-SUMMARY:魔界ノりりむ&本間ひまわり&葛葉&闇夜乃モルル&SUMOMOXqX（すもも） at:魔界ノりりむのYouTubeチャンネル Dead by Daylight
+SUMMARY:魔界ノりりむ&本間ひまわり&葛葉&闇夜乃モルル&SUMOMOXqX（すもも） at:各々のYouTubeチャンネル Dead by Daylight
 URL:
 DESCRIPTION:
 END:VEVENT
