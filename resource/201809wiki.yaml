@@ -30,6 +30,13 @@
 - date: 2018-09-30
   time:
     hour: 1
+    min: 0
+  title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 1
     min: 15
   title: "舞元啓介 at:YouTube イングランド・プレミアリーグ「チェルシーvsリヴァプール」実況"
   end_time: 
@@ -53,6 +60,13 @@
     hour: 2120
     min: 0
   title: JK組(月ノ美兎＆静凛＆樋口楓) at:REALITY　※時間変更
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 21
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-30
@@ -262,13 +276,6 @@
   time:
     hour: 22
     min: 0
-  title: "一期生コラボ at:にじさんじ公式のYouTubeチャンネル ものづくりゲーム"
-  end_time: 
-  uri: 
-- date: 2018-09-29
-  time:
-    hour: 22
-    min: 0
   title: "家長むぎ at:YouTube ※24時に時間変更"
   end_time: 
   uri: 
@@ -284,6 +291,13 @@
     hour: 22
     min: 0
   title: "夢追翔 at:? ※初配信 10/1へ変更"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 22
+    min: 0
+  title: 45分～ 一期生コラボ at:にじさんじ公式のYouTubeチャンネル ものづくりゲーム
   end_time: 
   uri: 
 - date: 2018-09-29
