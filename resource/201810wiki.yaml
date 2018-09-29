@@ -48,6 +48,13 @@
   uri: 
 - date: 2018-10-02
   time:
+    hour: 20
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆白百合 at:YouTube 渋谷カフェ：つなげようお客様の輪 第6回"
@@ -64,7 +71,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? お悩み相談 ※前日から振替"
+  title: "椎名唯華 at:YouTube お悩み相談 ※前日から振替"
   end_time: 
   uri: 
 - date: 2018-10-01
