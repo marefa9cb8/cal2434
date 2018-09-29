@@ -3,6 +3,20 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube ※前日から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 0
+    min: 0
   title: "ドーラ at:YouTube 3万人記念(その２)"
   end_time: 
   uri: 
@@ -11,6 +25,13 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:? お悩み相談"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 1
+    min: 15
+  title: "舞元啓介 at:YouTube イングランド・プレミアリーグ「チェルシーvsリヴァプール」実況"
   end_time: 
   uri: 
 - date: 2018-09-30
@@ -127,6 +148,13 @@
   uri: 
 - date: 2018-09-29
   time:
+    hour: 12
+    min: 9
+  title: "緑仙 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
     hour: 13
     min: 0
   title: "モイラ＆渋谷ハジメ＆文野環 at:ニコニコ生放送"
@@ -141,9 +169,9 @@
   uri: 
 - date: 2018-09-29
   time:
-    hour: 18
+    hour: 15
     min: 30
-  title: "椎名唯華 at:? Dead by Daylight"
+  title: "帝華組(鷹宮リオン＆飛鳥ひな) at:?"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -151,6 +179,27 @@
     hour: 18
     min: 0
   title: "シスター・クレア at:? お料理 ※延期"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 18
+    min: 0
+  title: "神田笑一 at:?"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 18
+    min: 30
+  title: "椎名唯華 at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 19
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -178,7 +227,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube 3万人記念(その１)"
+  title: "ドーラ at:YouTube 3万人記念(その１) Minecraft"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -186,6 +235,13 @@
     hour: 20
     min: 0
   title: "安土桃 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-29
@@ -213,6 +269,13 @@
   time:
     hour: 22
     min: 0
+  title: "家長むぎ at:YouTube ※24時に時間変更"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 22
+    min: 0
   title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
@@ -221,6 +284,13 @@
     hour: 22
     min: 0
   title: "夢追翔 at:? ※初配信 10/1へ変更"
+  end_time: 
+  uri: 
+- date: 2018-09-29
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-09-29
