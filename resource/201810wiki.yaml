@@ -1,4 +1,11 @@
 ---
+- date: 2018-10-20
+  time:
+    hour: 19
+    min: 0
+  title: "第1回 VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル PUBG(SQUAD)"
+  end_time: 
+  uri: 
 - date: 2018-10-10
   time:
     hour: 23
@@ -44,6 +51,13 @@
     hour: 23
     min: 0
   title: "出雲霞＆白上フブキ at:出雲霞のYouTubeチャンネル FGOトーク"
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:FMラジオほか ニコラジパーク"
   end_time: 
   uri: 
 - date: 2018-10-02
