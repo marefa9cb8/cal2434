@@ -81,6 +81,13 @@
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:FMラジオほか ニコラジパーク"
   end_time: 
   uri: 
+- date: 2018-10-03
+  time:
+    hour: 21
+    min: 30
+  title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-10-02
   time:
     hour: 20
@@ -93,6 +100,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆白百合 at:YouTube 渋谷カフェ：つなげようお客様の輪 第6回"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:?"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -113,7 +127,14 @@
   time:
     hour: 1
     min: 0
-  title: "鷹宮リオン&でびでび・でびる at:YouTube LOL"
+  title: "鷹宮リオン&でびでび・でびる at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-10-01
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ TKG"
   end_time: 
   uri: 
 - date: 2018-10-01
