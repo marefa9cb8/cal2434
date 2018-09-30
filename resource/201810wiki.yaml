@@ -27,9 +27,23 @@
   uri: 
 - date: 2018-10-07
   time:
+    hour: 0
+    min: 0
+  title: "ぽんぽこ＆白上フブキ＆本間ひまわり POCO'S BAR"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
     hour: 1
     min: 0
   title: "鷹宮リオン at:? キリト誕生日祝い"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 21
+    min: 0
+  title: "春崎エアル&飛鳥ひな&美影ルクス at:春崎エアルのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -125,14 +139,21 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube お悩み相談 ※前日から振替"
+  title: "椎名唯華 at:YouTube お悩み相談 ※前日から振替 延期"
   end_time: 
   uri: 
 - date: 2018-10-01
   time:
     hour: 1
-    min: 0
+    min: 25
   title: "鷹宮リオン&でびでび・でびる at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-10-01
+  time:
+    hour: 2
+    min: 38
+  title: "ギルザレンⅢ世 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-01
