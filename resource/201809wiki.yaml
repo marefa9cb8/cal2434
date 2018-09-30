@@ -71,9 +71,23 @@
   uri: 
 - date: 2018-09-30
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
     hour: 18
     min: 0
   title: "椎名唯華 at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:?"
   end_time: 
   uri: 
 - date: 2018-09-30
@@ -116,6 +130,13 @@
     hour: 22
     min: 0
   title: "伏見ガク at:? 雑談 ※9/26配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2018-09-30
