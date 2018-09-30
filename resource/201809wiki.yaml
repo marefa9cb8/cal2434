@@ -92,6 +92,20 @@
   uri: 
 - date: 2018-09-30
   time:
+    hour: 15
+    min: 50
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 17
+    min: 0
+  title: "本間ひまわり at:YouTube マシュマロ返し＆空気読み"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
     hour: 18
     min: 0
   title: "椎名唯華 at:? Dead by Daylight"
@@ -130,6 +144,13 @@
     hour: 21
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-09-30
+  time:
+    hour: 21
+    min: 30
+  title: "闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2018-09-30
