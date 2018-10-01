@@ -1,6 +1,13 @@
 ---
 - date: 2018-10-20
   time:
+    hour: 14
+    min: 30
+  title: "出雲霞＆安土桃＆八朔ゆず at:出雲霞のYouTubeチャンネル 昼やスミ特別編 グミ"
+  end_time: 
+  uri: 
+- date: 2018-10-20
+  time:
     hour: 19
     min: 0
   title: "第1回 VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル PUBG(SQUAD)"
@@ -67,6 +74,13 @@
   uri: 
 - date: 2018-10-05
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-10-05
+  time:
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube"
@@ -105,6 +119,13 @@
     hour: 21
     min: 30
   title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 22
+    min: 0
+  title: "伏見ガク at:? ※10/1配信で告知"
   end_time: 
   uri: 
 - date: 2018-10-02
