@@ -71,6 +71,13 @@
   uri: 
 - date: 2018-10-07
   time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆社築＆白上フブキ＆夏色まつり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
     hour: 23
     min: 0
   title: "勇気ちひろ&森中花咲 at:勇気ちひろのYouTubeチャンネル 初めてのオトナコラボ配信!?"
@@ -114,6 +121,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 9
+    min: 30
+  title: "本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -166,10 +180,22 @@
   end_time: 
   uri: 
 - date: 2018-10-02
+  time: 
+  title: "？時？分(夕方)～ 叶&本間ひまわり at:叶のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-02
   time:
     hour: 19
     min: 0
   title: "椎名唯華 at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -184,6 +210,20 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆白百合 at:YouTube 渋谷カフェ：つなげようお客様の輪 第6回"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 21
+    min: 0
+  title: "闇夜乃モルル at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 21
+    min: 0
+  title: "名伽尾アズマ at:?"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -258,6 +298,20 @@
   uri: 
 - date: 2018-10-01
   time:
+    hour: 18
+    min: 2
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-01
+  time:
+    hour: 18
+    min: 30
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-01
+  time:
     hour: 19
     min: 0
   title: "本間ひまわり at:YouTube ドンキーコング"
@@ -323,7 +377,7 @@
   time:
     hour: 23
     min: 0
-  title: "海夜叉神+OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:YouTube Minecraft"
+  title: "海夜叉神＆轟京子+OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-01
