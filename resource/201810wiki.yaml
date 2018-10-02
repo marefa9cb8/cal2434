@@ -272,7 +272,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: 12分～ 剣持刀也 at:YouTube
   end_time: 
   uri: 
 - date: 2018-10-03
@@ -301,6 +301,13 @@
     hour: 19
     min: 0
   title: "魔界ノりりむ at:? Saints Row"
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン&でびでび・でびる at:YouTube LOL"
   end_time: 
   uri: 
 - date: 2018-10-03
