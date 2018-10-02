@@ -359,28 +359,37 @@
   uri: 
 - date: 2018-10-02
   time:
-    hour: 18
-    min: 0
-  title: "文野環 at:YouTube 自作バイノーラル配信"
+    hour: 17
+    min: 15
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 17
+    min: 30
+  title: "神田笑一 at:YouTube Dead by Daylight, Overwatch"
   end_time: 
   uri: 
 - date: 2018-10-02
   time:
     hour: 18
     min: 0
-  title: "叶&本間ひまわり at:叶のYouTubeチャンネル"
+  title: "叶&本間ひまわり at:叶のYouTubeチャンネル The Escapists 2"
   end_time: 
   uri: 
 - date: 2018-10-02
-  time: 
-  title: 18時??分～ 闇夜乃モルル at:?? お料理配信
+  time:
+    hour: 18
+    min: 1
+  title: "闇夜乃モルル at:Mirrativ お料理"
   end_time: 
   uri: 
 - date: 2018-10-02
   time:
     hour: 19
     min: 0
-  title: "椎名唯華 at:? Dead by Daylight"
+  title: "椎名唯華 at:? Dead by Daylight ※中止"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -388,6 +397,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 19
+    min: 0
+  title: 17分～ 文野環 at:YouTube 自作バイノーラル・ASMR ※18時から時間変更
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -401,7 +417,7 @@
   time:
     hour: 20
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば at:YouTube 早口言葉, お悩み相談"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -429,7 +445,7 @@
   time:
     hour: 21
     min: 0
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-02
