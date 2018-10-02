@@ -188,6 +188,13 @@
   time:
     hour: 23
     min: 0
+  title: "森中花咲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 23
+    min: 0
   title: "出雲霞＆白上フブキ at:出雲霞のYouTubeチャンネル FGOトーク"
   end_time: 
   uri: 
@@ -312,7 +319,14 @@
   time:
     hour: 12
     min: 10
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-02
+  time:
+    hour: 16
+    min: 0
+  title: "雪汝 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-02
@@ -411,11 +425,6 @@
     hour: 22
     min: 0
   title: "轟京子＆八朔ゆず at:八朔ゆずのYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2018-10-02
-  time: 
-  title: "？時？分(昼)～ 雪汝 at:?"
   end_time: 
   uri: 
 - date: 2018-10-02
