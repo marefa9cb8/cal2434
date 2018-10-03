@@ -169,7 +169,7 @@
   time:
     hour: 23
     min: 0
-  title: "飛鳥ひな at:?"
+  title: "飛鳥ひな at:? 1万人記念企画配信"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -177,6 +177,11 @@
     hour: 23
     min: 0
   title: "舞元啓介 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time: 
+  title: "？時？分～ 月見しずく at:? Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-06
@@ -249,6 +254,13 @@
   uri: 
 - date: 2018-10-05
   time:
+    hour: 21
+    min: 0
+  title: "八朔ゆず＆鈴木勝 at:八朔ゆずのYouTubeチャンネル おえかきの森"
+  end_time: 
+  uri: 
+- date: 2018-10-05
+  time:
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube"
@@ -256,7 +268,7 @@
   uri: 
 - date: 2018-10-05
   time: 
-  title: "？時？分～ あさひ at:あさひのYouTubeチャンネル 白夜ラジオ"
+  title: "？時？分～ 渋谷ハジメ&あさひ at:あさひのYouTubeチャンネル 白夜ラジオ"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -264,6 +276,20 @@
     hour: 0
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 0
+    min: 24
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 2
+    min: 18
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-04
