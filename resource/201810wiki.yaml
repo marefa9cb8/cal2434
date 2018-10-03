@@ -282,7 +282,7 @@
   time:
     hour: 0
     min: 24
-  title: "静凛 at:YouTube"
+  title: "静凛 at:YouTube 麻雀"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -290,6 +290,13 @@
     hour: 2
     min: 18
   title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 2
+    min: 53
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -303,7 +310,7 @@
   time:
     hour: 12
     min: 0
-  title: "夢追翔 at:? 「amazarashi」縛り"
+  title: "夢追翔 at:YouTube 「amazarashi」縛り"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -311,6 +318,20 @@
     hour: 13
     min: 0
   title: "文野環 at:? 猫の写真グランプリ(昼の部)"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 17
+    min: 30
+  title: "夕陽リリ at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 18
+    min: 0
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -332,6 +353,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube お誕生日配信"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 20
+    min: 45
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -360,6 +388,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -443,7 +478,7 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube 夜廻"
   end_time: 
   uri: 
 - date: 2018-10-03
@@ -506,7 +541,7 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:YouTube LEFT4DEAD2"
+  title: "伏見ガク at:YouTube Left 4 Dead 2"
   end_time: 
   uri: 
 - date: 2018-10-03
