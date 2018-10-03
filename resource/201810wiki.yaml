@@ -97,6 +97,13 @@
   uri: 
 - date: 2018-10-08
   time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:?  ※10/3の配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
     hour: 23
     min: 0
   title: "える at:? よし子単独配信 ※10/1の配信で告知"
@@ -417,7 +424,7 @@
   time:
     hour: 20
     min: 0
-  title: "葛葉 at:?"
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-03
@@ -450,30 +457,58 @@
   uri: 
 - date: 2018-10-03
   time:
-    hour: 22
-    min: 0
-  title: "伏見ガク at:? ※10/1配信で告知"
+    hour: 21
+    min: 31
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 21
+    min: 43
+  title: "渋谷ハジメ at:YouTube Worlds2018観戦"
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 21
+    min: 54
+  title: "鷹宮リオン&でびでび・でびる at:YouTube Worlds2018観戦"
   end_time: 
   uri: 
 - date: 2018-10-03
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "伏見ガク at:YouTube LEFT4DEAD2"
   end_time: 
   uri: 
 - date: 2018-10-03
   time:
     hour: 22
     min: 0
-  title: "シスター・クレア at:YouTube 懺悔室"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-03
   time:
     hour: 22
     min: 0
-  title: "鷹宮リオン&でびでび・でびる at:? Worlds2018観戦 ※中止の可能性あり"
+  title: 08分～ シスター・クレア at:YouTube 懺悔室
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 22
+    min: 0
+  title: 10分～ 花畑チャイカ at:YouTube お悩み相談
+  end_time: 
+  uri: 
+- date: 2018-10-03
+  time:
+    hour: 22
+    min: 36
+  title: "叶 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2018-10-03
@@ -484,8 +519,10 @@
   end_time: 
   uri: 
 - date: 2018-10-03
-  time: 
-  title: "？時？分～ 叶 at:? バイノーラル"
+  time:
+    hour: 23
+    min: 18
+  title: "叶 at:YouTube Zeus' Battlegrounds"
   end_time: 
   uri: 
 - date: 2018-10-02
