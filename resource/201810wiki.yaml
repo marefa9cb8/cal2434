@@ -34,6 +34,13 @@
   title: "第1回 VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル PUBG(SQUAD)"
   end_time: 
   uri: 
+- date: 2018-10-18
+  time:
+    hour: 22
+    min: 30
+  title: "轟京子&出雲霞&鷹宮リオン&飛鳥ひな&町田ちま at.? お絵かきの森"
+  end_time: 
+  uri: 
 - date: 2018-10-15
   time:
     hour: 20
@@ -46,11 +53,25 @@
   title: "？時？分～ 叶 at:? バイノーラル"
   end_time: 
   uri: 
+- date: 2018-10-13
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube お誕生日会"
+  end_time: 
+  uri: 
 - date: 2018-10-12
   time:
     hour: 22
     min: 0
   title: "社築＆クゥ・フラン・ゾーパー＆佐藤ホームズ＆星城譲友V.I.C＆ドーセット・アカホシ at:? BANトーク「遊戯王5D's」"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube 夜やスミ"
   end_time: 
   uri: 
 - date: 2018-10-10
@@ -209,7 +230,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG"
+  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG ※日程変更"
   end_time: 
   uri: 
 - date: 2018-10-06
@@ -228,7 +249,7 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:? ※Twitterネームより"
+  title: "社築 at:YouTube お悩み相談"
   end_time: 
   uri: 
 - date: 2018-10-05
@@ -331,7 +352,14 @@
   time:
     hour: 13
     min: 0
-  title: "文野環 at:? 猫の写真グランプリ(昼の部)"
+  title: "文野環 at:YouTube 猫の写真グランプリ(昼の部)"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 14
+    min: 12
+  title: "雪汝 at:YouTube 無言作業枠"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -352,14 +380,14 @@
   time:
     hour: 18
     min: 30
-  title: "遠北千南 at:?"
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-04
   time:
     hour: 19
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -394,7 +422,7 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:? 7 Days to Die"
+  title: "舞元啓介 at:YouTube 7 Days to Die"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -408,7 +436,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:?"
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-04
