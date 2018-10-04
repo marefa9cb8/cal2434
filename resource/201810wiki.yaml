@@ -76,9 +76,16 @@
   uri: 
 - date: 2018-10-10
   time:
+    hour: 20
+    min: 0
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
     hour: 23
     min: 0
-  title: "?～ 剣持刀也＆ゲスト：月ノ美兎 at:YouTube SharpnessRadio"
+  title: "剣持刀也＆ゲスト：月ノ美兎 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-10-09
@@ -364,9 +371,16 @@
   uri: 
 - date: 2018-10-04
   time:
+    hour: 15
+    min: 45
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
     hour: 17
     min: 30
-  title: "夕陽リリ at:?"
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-04
