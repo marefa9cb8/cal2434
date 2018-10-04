@@ -20,6 +20,13 @@
   title: "でびでび・でびる at:?"
   end_time: 
   uri: 
+- date: 2018-10-21
+  time:
+    hour: 10
+    min: 0
+  title: "月ノ美兎＆樋口楓＆える at:ニコニコ生放送"
+  end_time: 
+  uri: 
 - date: 2018-10-20
   time:
     hour: 14
@@ -237,7 +244,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG ※日程変更"
+  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG ※延期"
   end_time: 
   uri: 
 - date: 2018-10-06
@@ -263,7 +270,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ サンドイッチ"
   end_time: 
   uri: 
 - date: 2018-10-05
@@ -387,7 +394,7 @@
   time:
     hour: 18
     min: 0
-  title: "静凛 at:?"
+  title: 30分～ 静凛 at:YouTube Layers of Fear
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -399,9 +406,16 @@
   uri: 
 - date: 2018-10-04
   time:
+    hour: 18
+    min: 33
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
     hour: 19
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -422,7 +436,7 @@
   time:
     hour: 20
     min: 45
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-04
@@ -436,6 +450,13 @@
   time:
     hour: 21
     min: 0
+  title: "海夜叉神 at:YouTube Happy Wheels"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 21
+    min: 0
   title: "舞元啓介 at:YouTube 7 Days to Die"
   end_time: 
   uri: 
@@ -443,7 +464,14 @@
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at?"
+  title: "家長むぎ at? ※中止"
+  end_time: 
+  uri: 
+- date: 2018-10-04
+  time:
+    hour: 22
+    min: 0
+  title: "渋谷ハジメ＆叶＆ふくやマスター＆あっくん大魔王 at:? The Escapists 2"
   end_time: 
   uri: 
 - date: 2018-10-04
