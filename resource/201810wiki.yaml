@@ -225,7 +225,7 @@
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆社築＆白上フブキ＆夏色まつり at:YouTube Minecraft"
+  title: "名伽尾アズマ＆社築＆白上フブキ＆夏色まつり at:社築のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -265,14 +265,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2018-10-06
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:? スーパーマリオパーティ"
+  title: "椎名唯華 at:YouTube スーパーマリオパーティ"
+  end_time: 
+  uri: 
+- date: 2018-10-06
+  time:
+    hour: 1
+    min: 16
+  title: "静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-06
