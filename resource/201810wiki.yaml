@@ -181,6 +181,20 @@
   uri: 
 - date: 2018-10-07
   time:
+    hour: 20
+    min: 30
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 21
+    min: 0
+  title: "安土桃&碧色のMIMI at:? ※Twitterネーム＆碧色のMIMIの配信より"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
     hour: 21
     min: 0
   title: "春崎エアル&飛鳥ひな&美影ルクス at:春崎エアルのYouTubeチャンネル"
@@ -244,6 +258,13 @@
   time:
     hour: 0
     min: 0
+  title: "葛葉 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-06
+  time:
+    hour: 0
+    min: 0
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
@@ -257,8 +278,8 @@
 - date: 2018-10-06
   time:
     hour: 1
-    min: 0
-  title: "神田笑一 at:YouTube Marvel's Spider-Man"
+    min: 30
+  title: "神田笑一 at:YouTube Marvel's Spider-Man ※1時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-06
@@ -294,11 +315,6 @@
     hour: 22
     min: 0
   title: "モイラ&海夜叉神&巣籠ツル&秋里夢女子 at:海夜叉神のYouTubeチャンネル 刀剣乱舞宴会ライブ配信"
-  end_time: 
-  uri: 
-- date: 2018-10-06
-  time: 
-  title: "？時？分～ 安土桃&碧色のMIMI at:?"
   end_time: 
   uri: 
 - date: 2018-10-05
@@ -401,6 +417,20 @@
   uri: 
 - date: 2018-10-05
   time:
+    hour: 21
+    min: 3
+  title: "渋谷ハジメ&あさひ at:あさひのYouTubeチャンネル 白夜ラジオ"
+  end_time: 
+  uri: 
+- date: 2018-10-05
+  time:
+    hour: 21
+    min: 13
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-05
+  time:
     hour: 22
     min: 0
   title: "モイラ at:YouTube MoimoiRadio"
@@ -417,7 +447,7 @@
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:?"
+  title: "葛葉 at:? ※0時に時間変更"
   end_time: 
   uri: 
 - date: 2018-10-05
@@ -438,6 +468,13 @@
   time:
     hour: 23
     min: 0
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-05
+  time:
+    hour: 23
+    min: 0
   title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -446,11 +483,6 @@
     hour: 23
     min: 30
   title: "シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-10-05
-  time: 
-  title: "？時？分～ 渋谷ハジメ&あさひ at:あさひのYouTubeチャンネル 白夜ラジオ"
   end_time: 
   uri: 
 - date: 2018-10-04
