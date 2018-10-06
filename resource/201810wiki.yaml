@@ -146,6 +146,13 @@
   uri: 
 - date: 2018-10-08
   time:
+    hour: 22
+    min: 0
+  title: "夢追翔 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
     hour: 23
     min: 0
   title: "える at:? よし子単独配信 ※10/1の配信で告知"
@@ -176,7 +183,7 @@
   time:
     hour: 1
     min: 0
-  title: "鷹宮リオン at:? キリト誕生日祝い"
+  title: "鷹宮リオン at:YouTube キリト誕生日祝い"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -218,13 +225,6 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-10-07
-  time:
-    hour: 22
-    min: 0
   title: "轟京子 at:? Stardew Valley"
   end_time: 
   uri: 
@@ -233,6 +233,13 @@
     hour: 22
     min: 0
   title: "名伽尾アズマ＆社築＆白上フブキ＆夏色まつり at:社築のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 22
+    min: 30
+  title: "出雲霞 at:YouTube ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -300,7 +307,7 @@
   time:
     hour: 3
     min: 0
-  title: "緑仙&花畑チャイカ&社築 at:YouTube Minecraft"
+  title: "緑仙&花畑チャイカ&社築 at:緑仙のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-06
