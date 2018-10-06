@@ -176,7 +176,7 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube バイノーラル配信"
+  title: "家長むぎ at:YouTube バイノーラル配信 ※中止"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -396,13 +396,6 @@
   uri: 
 - date: 2018-10-06
   time:
-    hour: 21
-    min: 37
-  title: "月ノ美兎 ぽんぽこ24にゲスト参加 at:甲賀流忍者！ぽんぽこのYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2018-10-06
-  time:
     hour: 22
     min: 0
   title: "モイラ&海夜叉神&巣籠ツル&秋里夢女子 at:海夜叉神のYouTubeチャンネル 刀剣乱舞宴会ライブ"
@@ -445,9 +438,9 @@
   uri: 
 - date: 2018-10-06
   time:
-    hour: 23
-    min: 52
-  title: "シスター・クレア＆緑仙＆ドーラ ぽんぽこ24のCM(ビデオ出演) at:甲賀流忍者！ぽんぽこのYouTubeチャンネル"
+    hour: 21
+    min: 0
+  title: ") ぽんぽこ24 at:甲賀流忍者ぽんぽこのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-05
