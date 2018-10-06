@@ -134,6 +134,13 @@
   time:
     hour: 20
     min: 0
+  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 20
+    min: 0
   title: "でびでび・でびる at:?"
   end_time: 
   uri: 
@@ -349,21 +356,28 @@
   time:
     hour: 19
     min: 0
-  title: "勇気ちひろ&森中花咲 at:勇気ちひろのYouTubeチャンネル まじもり生放送#2"
+  title: 07分～ 勇気ちひろ&森中花咲 at:勇気ちひろのYouTubeチャンネル まじもり生放送#2
   end_time: 
   uri: 
 - date: 2018-10-06
   time:
     hour: 19
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-06
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG ※延期"
+  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG ※8日に延期"
+  end_time: 
+  uri: 
+- date: 2018-10-06
+  time:
+    hour: 21
+    min: 0
+  title: "花畑チャイカ at:?"
   end_time: 
   uri: 
 - date: 2018-10-06
@@ -377,6 +391,13 @@
   time:
     hour: 22
     min: 0
+  title: "モイラ&海夜叉神&巣籠ツル&秋里夢女子 at:海夜叉神のYouTubeチャンネル 刀剣乱舞宴会ライブ"
+  end_time: 
+  uri: 
+- date: 2018-10-06
+  time:
+    hour: 22
+    min: 0
   title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
@@ -384,7 +405,7 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ&海夜叉神&巣籠ツル&秋里夢女子 at:海夜叉神のYouTubeチャンネル 刀剣乱舞宴会ライブ配信"
+  title: "叶 at:YouTube アサシン クリード オデッセイ"
   end_time: 
   uri: 
 - date: 2018-10-06
