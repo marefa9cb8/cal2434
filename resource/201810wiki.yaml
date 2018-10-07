@@ -113,6 +113,13 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:? 入眠バイノーラル配信"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 0
+    min: 0
   title: "遠北千南 at:? 霧雨が降る森"
   end_time: 
   uri: 
@@ -197,14 +204,14 @@
   time:
     hour: 19
     min: 0
-  title: "月見しずく at:Youtube DbD実況配信"
+  title: "月見しずく at:Youtube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-07
   time:
     hour: 20
     min: 0
-  title: "舞元啓介 at:? ボクシング井上尚弥応援実況"
+  title: "舞元啓介 at:YouTube ボクシング井上尚弥応援実況"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -216,9 +223,16 @@
   uri: 
 - date: 2018-10-07
   time:
+    hour: 20
+    min: 30
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
     hour: 21
     min: 0
-  title: "安土桃&碧色のMIMI at:? ※Twitterネーム＆碧色のMIMIの配信より"
+  title: "安土桃&碧色のMIMI at:YouTube おえかきの森"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -246,13 +260,13 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:? Stardew Valley"
+  title: "轟京子 at:YouTube Stardew Valley"
   end_time: 
   uri: 
 - date: 2018-10-07
   time:
     hour: 22
-    min: 0
+    min: 30
   title: "名伽尾アズマ＆社築＆白上フブキ＆夏色まつり at:社築のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
@@ -274,6 +288,13 @@
   time:
     hour: 23
     min: 0
+  title: "海夜叉神 at:YouTube しょぼんのアクション4"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 23
+    min: 0
   title: "飛鳥ひな at:? 1万人記念企画配信"
   end_time: 
   uri: 
@@ -282,6 +303,21 @@
     hour: 23
     min: 0
   title: "舞元啓介 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time: 
+  title: "？時？分(昼)～ 町田ちま at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time: 
+  title: "？時？分(夕方頃)～ 安土桃 at:? Shadowverse"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time: 
+  title: "？時？分～ 鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2018-10-06
