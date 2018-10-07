@@ -45,7 +45,7 @@
   time:
     hour: 22
     min: 30
-  title: "轟京子&出雲霞&鷹宮リオン&飛鳥ひな&町田ちま at.? お絵かきの森"
+  title: "轟京子&出雲霞&鷹宮リオン&飛鳥ひな&町田ちま at.? おえかきの森"
   end_time: 
   uri: 
 - date: 2018-10-17
@@ -125,6 +125,13 @@
   uri: 
 - date: 2018-10-08
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ パンフェス"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
     hour: 13
     min: 0
   title: "える＆夕陽リリ＆剣持刀也 at:ニコニコ生放送"
@@ -181,6 +188,13 @@
   uri: 
 - date: 2018-10-07
   time:
+    hour: 20
+    min: 45
+  title: ") ぽんぽこ24裏実況 at:ふぇありすのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
     hour: 0
     min: 0
   title: "家長むぎ at:YouTube バイノーラル配信 ※中止"
@@ -198,6 +212,27 @@
     hour: 1
     min: 0
   title: "鷹宮リオン at:YouTube キリト誕生日祝い"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 10
+    min: 20
+  title: "町田ちま at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 12
+    min: 0
+  title: "叶 at:YouTube アサシン クリード オデッセイ"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -303,11 +338,6 @@
     hour: 23
     min: 0
   title: "舞元啓介 at:?"
-  end_time: 
-  uri: 
-- date: 2018-10-07
-  time: 
-  title: "？時？分(昼)～ 町田ちま at:?"
   end_time: 
   uri: 
 - date: 2018-10-07
