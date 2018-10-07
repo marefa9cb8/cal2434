@@ -125,6 +125,13 @@
   uri: 
 - date: 2018-10-08
   time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり at:? POCO's BAR 振り返り"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ パンフェス"
@@ -142,6 +149,13 @@
     hour: 19
     min: 0
   title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆神楽めあ＆日ノ隈らん at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月&神田笑一 at.桜凛月のyoutubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -328,9 +342,9 @@
   uri: 
 - date: 2018-10-07
   time:
-    hour: 21
+    hour: 22
     min: 30
-  title: "樋口楓&伏見ガク&シスター・クレア at:にじさんじ公式のYouTubeチャンネル にじさんじMIX UP!!"
+  title: "静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -349,16 +363,9 @@
   uri: 
 - date: 2018-10-07
   time:
-    hour: 23
-    min: 0
-  title: "勇気ちひろ&森中花咲 at:勇気ちひろのYouTubeチャンネル 初めてのオトナコラボ配信!?"
-  end_time: 
-  uri: 
-- date: 2018-10-07
-  time:
-    hour: 23
-    min: 0
-  title: "海夜叉神 at:YouTube しょぼんのアクション4"
+    hour: 21
+    min: 30
+  title: 22時40分～ 樋口楓&伏見ガク&シスター・クレア at:にじさんじ公式のYouTubeチャンネル にじさんじMIX UP!!
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -371,8 +378,22 @@
 - date: 2018-10-07
   time:
     hour: 23
-    min: 0
-  title: "舞元啓介 at:?"
+    min: 30
+  title: "海夜叉神 at:YouTube しょぼんのアクション4 ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 23
+    min: 40
+  title: "竜胆尊 at:? マシュマロ配信"
+  end_time: 
+  uri: 
+- date: 2018-10-07
+  time:
+    hour: 23
+    min: 45
+  title: "勇気ちひろ&森中花咲 at:勇気ちひろのYouTubeチャンネル 初めてのオトナコラボ配信!? ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-06
