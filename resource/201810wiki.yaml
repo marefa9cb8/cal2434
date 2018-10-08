@@ -63,6 +63,13 @@
   end_time: 
   uri: 
 - date: 2018-10-15
+  time:
+    hour: 21
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-15
   time: 
   title: "？時？分～ 叶 at:? バイノーラル"
   end_time: 
@@ -123,6 +130,13 @@
   title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV
   end_time: 
   uri: 
+- date: 2018-10-09
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
 - date: 2018-10-08
   time:
     hour: 0
@@ -167,8 +181,15 @@
   uri: 
 - date: 2018-10-08
   time:
-    hour: 13
-    min: 0
+    hour: 12
+    min: 4
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 12
+    min: 30
   title: "える＆夕陽リリ＆剣持刀也 at:ニコニコ生放送"
   end_time: 
   uri: 
