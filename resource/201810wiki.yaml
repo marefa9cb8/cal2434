@@ -223,9 +223,23 @@
   uri: 
 - date: 2018-10-09
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
     hour: 22
     min: 0
   title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-10-09
