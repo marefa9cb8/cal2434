@@ -55,6 +55,13 @@
   title: "月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也 at:AbemaTVウルトラゲームス にじさんじのくじじゅうじ #1"
   end_time: 
   uri: 
+- date: 2018-10-16
+  time:
+    hour: 19
+    min: 0
+  title: "飛鳥ひな＆？？？ at:飛鳥ひなのYouTubeチャンネル"
+  end_time: 
+  uri: 
 - date: 2018-10-15
   time:
     hour: 20
@@ -72,6 +79,13 @@
 - date: 2018-10-15
   time: 
   title: "？時？分～ 叶 at:? バイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-10-14
+  time:
+    hour: 21
+    min: 0
+  title: "轟京子 at:? お絵描き"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -116,11 +130,32 @@
   title: "出雲霞 at:YouTube 夜やスミ"
   end_time: 
   uri: 
+- date: 2018-10-11
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:? Stardew Valley"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
+    hour: 0
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-10-10
   time:
     hour: 20
     min: 0
-  title: "帝華組(鷹宮リオン&飛鳥ひな) at:?"
+  title: "帝華組(鷹宮リオン&飛鳥ひな) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
+    hour: 21
+    min: 0
+  title: "える at:?"
   end_time: 
   uri: 
 - date: 2018-10-10
@@ -139,9 +174,23 @@
   uri: 
 - date: 2018-10-09
   time:
+    hour: 0
+    min: 27
+  title: "渋谷ハジメ at:YouTube しぶ丸Mk.2お披露目"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 1
+    min: 38
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube ※Twitterネームより"
+  title: "樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-09
@@ -163,6 +212,27 @@
     hour: 21
     min: 0
   title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神＆轟京子 at:? QWOP"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 22
+    min: 40
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-09
