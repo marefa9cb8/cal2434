@@ -74,6 +74,13 @@
   title: "？時？分～ 叶 at:? バイノーラル"
   end_time: 
   uri: 
+- date: 2018-10-14
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神&？？？ at.? ジンジャの神様"
+  end_time: 
+  uri: 
 - date: 2018-10-13
   time:
     hour: 22
@@ -155,14 +162,14 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube ママ配信"
   end_time: 
   uri: 
 - date: 2018-10-09
   time:
     hour: 23
     min: 0
-  title: "八朔ゆず at:YouTube ※開始時刻：YouTubeリマインダーより"
+  title: "八朔ゆず at:YouTube ゆずっとうたってみた２"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -239,7 +246,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆神楽めあ＆日ノ隈らん at:渋谷ハルのYouTubeチャンネル PUBG"
+  title: 06分～ 渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆神楽めあ＆日ノ隈らん at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -253,21 +260,22 @@
   time:
     hour: 19
     min: 30
-  title: "文野環 at:YouTube"
+  title: 34分～ 文野環 at:YouTube Remember Ehime２
   end_time: 
   uri: 
 - date: 2018-10-08
   time:
     hour: 20
     min: 0
-  title: "月ノ美兎&ゲスト：竹花ノート at:? 月ノ美兎の放課後ラジオ #7"
+  title: "月ノ美兎&ゲスト：竹花ノート at:YouTube 月ノ美兎の放課後ラジオ #7"
   end_time: 
   uri: 
 - date: 2018-10-08
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:? PUBG"
+  title: "闇夜乃モルル&魔界ノりりむ&ドーラ&SUMOMOXqX（すもも） at:SUMOMOXqX（すもも）のOPENREC.tvチャンネル PUBG
+    ※闇夜乃モルル体調不良の為欠席"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -281,7 +289,14 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at.? 新衣装お披露"
+  title: "勇気ちひろ at.YouTube 新衣装お披露"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at.YouTube 新衣装ライブ"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -295,7 +310,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -316,7 +331,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:? よし子単独配信"
+  title: "える at:YouTube よし子単独配信"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -324,6 +339,13 @@
     hour: 23
     min: 0
   title: OTN組(花畑チャイカ&社築&名伽尾アズマ) at:? Minecraft
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
+    hour: 23
+    min: 0
+  title: "海夜叉神＆ゲスト：？？？ at:YouTube 刀剣乱舞"
   end_time: 
   uri: 
 - date: 2018-10-07
