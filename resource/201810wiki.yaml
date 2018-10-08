@@ -146,6 +146,13 @@
   uri: 
 - date: 2018-10-08
   time:
+    hour: 7
+    min: 57
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-08
+  time:
     hour: 13
     min: 0
   title: "える＆夕陽リリ＆剣持刀也 at:ニコニコ生放送"
@@ -162,14 +169,14 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月&神田笑一 at.桜凛月のyoutubeチャンネル Dead by Daylight"
+  title: "桜凛月&神田笑一 at.桜凛月のYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-08
   time:
     hour: 19
     min: 30
-  title: "文野環 at:?"
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -211,7 +218,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?  ※10/3の配信で告知"
+  title: "物述有栖 at:?"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -225,7 +232,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:? よし子単独配信 ※10/1の配信で告知"
+  title: "える at:? よし子単独配信"
   end_time: 
   uri: 
 - date: 2018-10-08
@@ -407,7 +414,7 @@
   time:
     hour: 23
     min: 0
-  title: "飛鳥ひな at:? 1万人記念企画"
+  title: "飛鳥ひな at:YouTube 1万人記念企画"
   end_time: 
   uri: 
 - date: 2018-10-07
@@ -420,8 +427,8 @@
 - date: 2018-10-07
   time:
     hour: 23
-    min: 40
-  title: "竜胆尊 at:? マシュマロ配信"
+    min: 30
+  title: 40分～ 竜胆尊 at:YouTube マシュマロ回答
   end_time: 
   uri: 
 - date: 2018-10-07
