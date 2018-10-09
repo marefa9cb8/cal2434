@@ -207,6 +207,13 @@
   uri: 
 - date: 2018-10-10
   time:
+    hour: 2
+    min: 2
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
     hour: 12
     min: 0
   title: "夢追翔 at:YouTube"
