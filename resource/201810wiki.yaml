@@ -69,6 +69,13 @@
   title: "飛鳥ひな＆？？？ at:飛鳥ひなのYouTubeチャンネル"
   end_time: 
   uri: 
+- date: 2018-10-16
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆雅まつり(まじかるどーる) at:YouTube 渋谷カフェ：つなげようお客様の輪 第8回"
+  end_time: 
+  uri: 
 - date: 2018-10-15
   time:
     hour: 20
@@ -93,6 +100,11 @@
     hour: 0
     min: 30
   title: "鷹宮リオン at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-14
+  time: 
+  title: "??時??分～ 樋口楓 at:YouTube おえかきの森 ※10/9の配信で告知"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -149,6 +161,13 @@
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube 夜やスミ"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 0
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず at:名伽尾アズマのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-11
@@ -274,7 +293,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆朝ノ瑠璃 at:YouTube 渋谷カフェ：つなげようお客様の輪 第7回"
+  title: "渋谷ハジメ＆朝ノ瑠璃(朝ノ姉妹ぷろじぇくと) at:YouTube 渋谷カフェ：つなげようお客様の輪 第7回"
   end_time: 
   uri: 
 - date: 2018-10-09
@@ -295,7 +314,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube 深夜廻"
   end_time: 
   uri: 
 - date: 2018-10-09
@@ -310,6 +329,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 22
+    min: 7
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-09
@@ -338,6 +364,13 @@
     hour: 23
     min: 0
   title: "八朔ゆず at:YouTube ゆずっとうたってみた２"
+  end_time: 
+  uri: 
+- date: 2018-10-09
+  time:
+    hour: 23
+    min: 0
+  title: "春崎エアル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-08
