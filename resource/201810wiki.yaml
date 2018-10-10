@@ -66,7 +66,7 @@
   time:
     hour: 19
     min: 15
-  title: "舞元啓介&帝華組(鷹宮リオン&飛鳥ひな) at.? キリンチャレンジカップ2018 日本代表vsウルグアイ代表観戦"
+  title: "舞元啓介&帝華組(鷹宮リオン&飛鳥ひな) at.YouTube キリンチャレンジカップ2018 日本代表vsウルグアイ代表観戦"
   end_time: 
   uri: 
 - date: 2018-10-16
@@ -88,6 +88,13 @@
     hour: 21
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 22
+    min: 40
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -123,9 +130,9 @@
   uri: 
 - date: 2018-10-13
   time:
-    hour: 0
+    hour: 12
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: "安土桃 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -140,6 +147,13 @@
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube お誕生日会"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 0
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -203,6 +217,20 @@
     hour: 0
     min: 0
   title: "名伽尾アズマ＆八朔ゆず at:名伽尾アズマのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 1
+    min: 15
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 1
+    min: 44
+  title: "伏見ガク at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-11
