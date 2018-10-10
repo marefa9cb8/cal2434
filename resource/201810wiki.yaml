@@ -118,7 +118,7 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神&樋口楓&ゆきんこ&？？？ at.海夜叉神のYouTubeチャンネル ジンジャの神様"
+  title: "海夜叉神&樋口楓&桜凛月&ゆきんこ&夏色まつり＆白上フブキ&？？？ at.海夜叉神のYouTubeチャンネル ジンジャの神様"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -126,6 +126,13 @@
     hour: 0
     min: 0
   title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 18
+    min: 0
+  title: "樋口楓 at:ニコニコ生放送 「ネットユーザーが本気で選ぶ！アニメ総選挙2018夏」"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -140,6 +147,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 19
+    min: 0
+  title: "しぃさー(椎名唯華&笹木咲) at.笹木咲のYouTubeチャンネル スーパーマリオパーティ"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -265,7 +279,7 @@
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:?"
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-10
@@ -287,6 +301,20 @@
     hour: 20
     min: 0
   title: "帝華組(鷹宮リオン&飛鳥ひな) at:鷹宮リオンのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
+    hour: 20
+    min: 48
+  title: "叶 at:YouTube 負荷テスト, PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-10
+  time:
+    hour: 20
+    min: 56
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-10
@@ -328,7 +356,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり＆ドーラ at:YouTube Minecraft"
+  title: "本間ひまわり＆ドーラ at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-10
@@ -342,7 +370,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:?"
+  title: "緑仙 at:? ※明日に振替"
   end_time: 
   uri: 
 - date: 2018-10-09
