@@ -110,11 +110,6 @@
   end_time: 
   uri: 
 - date: 2018-10-14
-  time: 
-  title: "??時??分～ 樋口楓 at:YouTube おえかきの森 ※10/9の配信で告知"
-  end_time: 
-  uri: 
-- date: 2018-10-14
   time:
     hour: 21
     min: 0
@@ -126,6 +121,11 @@
     hour: 22
     min: 0
   title: "海夜叉神&樋口楓&桜凛月&ゆきんこ&夏色まつり＆白上フブキ&？？？ at.海夜叉神のYouTubeチャンネル ジンジャの神様"
+  end_time: 
+  uri: 
+- date: 2018-10-14
+  time: 
+  title: "？時？分～ 樋口楓 at:YouTube おえかきの森 ※10/9の配信で告知"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -149,6 +149,11 @@
   title: "出雲霞 at:YouTube お誕生日会"
   end_time: 
   uri: 
+- date: 2018-10-13
+  time: 
+  title: "？時？分(昼)～ 椎名唯華 at:? ポケットモンスター プラチナ"
+  end_time: 
+  uri: 
 - date: 2018-10-12
   time:
     hour: 0
@@ -161,6 +166,13 @@
     hour: 0
     min: 0
   title: "ジョー・力一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:? Minecraft(テスト配信)"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -242,6 +254,20 @@
   uri: 
 - date: 2018-10-11
   time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 18
+    min: 30
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
     hour: 19
     min: 0
   title: "月見しずく at:YouTube Dead by Daylight"
@@ -273,6 +299,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア＆？？？ at:シスター・クレアのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-11
