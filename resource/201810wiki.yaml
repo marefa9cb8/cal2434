@@ -111,9 +111,9 @@
   uri: 
 - date: 2018-10-14
   time:
-    hour: 21
+    hour: 13
     min: 0
-  title: "?～ 伏見ガク at:?"
+  title: "舞元啓介 at:? パ・リーグCSファーストステージ実況"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -135,6 +135,11 @@
   title: "？時？分～ 樋口楓 at:YouTube おえかきの森 ※10/9の配信で告知"
   end_time: 
   uri: 
+- date: 2018-10-14
+  time: 
+  title: "？時？分(夜)～ 伏見ガク at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-13
   time:
     hour: 0
@@ -154,6 +159,13 @@
     hour: 18
     min: 0
   title: "樋口楓 at:ニコニコ生放送 「ネットユーザーが本気で選ぶ！アニメ総選挙2018夏」"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介 at:?"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -194,6 +206,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ カレー"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 18
+    min: 0
+  title: "舞元啓介 at:? 7 Days to Die"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -269,6 +288,13 @@
 - date: 2018-10-11
   time:
     hour: 17
+    min: 0
+  title: "静凛 at:YouTube Overkill's The Walking Dead"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 17
     min: 30
   title: "夕陽リリ at:YouTube"
   end_time: 
@@ -277,7 +303,7 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:? Dead by Daylight"
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-11
@@ -313,6 +339,13 @@
     hour: 20
     min: 0
   title: "海夜叉神&黒井しば&日ノ隈らん&ユキミお姉ちゃん&皆守ひいろ at:海夜叉神のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ League of Legends企画"
   end_time: 
   uri: 
 - date: 2018-10-11
