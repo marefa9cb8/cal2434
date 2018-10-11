@@ -173,7 +173,7 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:?"
+  title: "舞元啓介＆宇宙怪獣アンチン at:宇宙怪獣アンチンのYouTubeチャンネル 大特撮トーク"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -209,9 +209,23 @@
   uri: 
 - date: 2018-10-12
   time:
+    hour: 20
+    min: 0
+  title: ") 叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:? Minecraft(テスト配信)"
+  title: "椎名唯華＆稲荷くろむ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 1
+    min: 1
+  title: "静凛 at:YouTube PUPG"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -275,6 +289,13 @@
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube 夜やスミ"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-11
