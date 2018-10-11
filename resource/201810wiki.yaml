@@ -166,6 +166,13 @@
   time:
     hour: 21
     min: 0
+  title: "勇気ちひろ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 21
+    min: 0
   title: "舞元啓介 at:?"
   end_time: 
   uri: 
@@ -179,6 +186,11 @@
 - date: 2018-10-13
   time: 
   title: "？時？分(昼)～ 椎名唯華 at:? ポケットモンスター プラチナ"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time: 
+  title: "？時？分～ 月見しずく at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -381,14 +393,7 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア＆社築 at:シスター・クレアのYouTubeチャンネル Minecraft"
-  end_time: 
-  uri: 
-- date: 2018-10-11
-  time:
-    hour: 22
-    min: 0
-  title: "家長むぎ at:YouTube"
+  title: 12分～ シスター・クレア＆社築 at:シスター・クレアのYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-10-11
@@ -409,7 +414,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? ※前日から振替"
+  title: "家長むぎ at:YouTube ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 23
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+クレッシェンド(シスター・クレア＆緑仙＆ドーラ) at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-10-10
