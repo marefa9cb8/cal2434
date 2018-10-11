@@ -127,7 +127,8 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神&樋口楓&桜凛月&ゆきんこ&夏色まつり＆白上フブキ&？？？ at.海夜叉神のYouTubeチャンネル ジンジャの神様"
+  title: "海夜叉神&樋口楓&桜凛月&ゆきんこ&夏色まつり＆白上フブキ&秋里夢女子&日ノ隈らん&皆守ひいろ&？？？ at.海夜叉神のYouTubeチャンネル
+    ジンジャの神様"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -220,6 +221,13 @@
     hour: 19
     min: 0
   title: "しぃさー(椎名唯華&笹木咲) at.笹木咲のYouTubeチャンネル スーパーマリオパーティ"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓&ロボ子さん at:YouTube Ultimate Chicken Horse"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -324,6 +332,13 @@
   time:
     hour: 19
     min: 0
+  title: "静凛 at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 19
+    min: 0
   title: "月見しずく at:YouTube Dead by Daylight"
   end_time: 
   uri: 
@@ -345,7 +360,14 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ League of Legends企画"
+  title: "渋谷ハジメ at:YouTube League of Legends企画"
+  end_time: 
+  uri: 
+- date: 2018-10-11
+  time:
+    hour: 20
+    min: 0
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-11
