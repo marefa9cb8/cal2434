@@ -276,7 +276,7 @@
   time:
     hour: 18
     min: 0
-  title: "舞元啓介 at:? 7 Days to Die"
+  title: "舞元啓介 at:YouTube 7 Days to Die"
   end_time: 
   uri: 
 - date: 2018-10-12
@@ -284,6 +284,13 @@
     hour: 19
     min: 0
   title: "しぃさー(椎名唯華&笹木咲) at.笹木咲のYouTubeチャンネル スーパーマリオパーティ"
+  end_time: 
+  uri: 
+- date: 2018-10-12
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube 雑談, 休むな！8部音符ちゃん"
   end_time: 
   uri: 
 - date: 2018-10-12
