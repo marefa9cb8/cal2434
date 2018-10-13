@@ -295,7 +295,7 @@
   time:
     hour: 20
     min: 0
-  title: "葛葉 at:? CoD:BO4"
+  title: "葛葉 at:YouTube CoD:BO4"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -309,14 +309,7 @@
   time:
     hour: 21
     min: 0
-  title: "物述有栖 at:? 3Dお披露目"
-  end_time: 
-  uri: 
-- date: 2018-10-13
-  time:
-    hour: 21
-    min: 0
-  title: "叶＆ケリン at:YouTube CoD:BO4"
+  title: "物述有栖 at:YouTube 3Dお披露目"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -338,6 +331,13 @@
     hour: 22
     min: 0
   title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆ケリン at:YouTube CoD:BO4 ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-13
