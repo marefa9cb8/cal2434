@@ -102,7 +102,7 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube ※Twitterネームより"
+  title: "鈴木勝 at:YouTube 作業・雑談"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -156,7 +156,7 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube 囁きバイノーラルASMR"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -309,28 +309,28 @@
   time:
     hour: 21
     min: 0
-  title: "物述有栖 at:YouTube 3Dお披露目"
-  end_time: 
-  uri: 
-- date: 2018-10-13
-  time:
-    hour: 21
-    min: 0
   title: "舞元啓介＆宇宙怪獣アンチン at:宇宙怪獣アンチンのYouTubeチャンネル 大特撮トーク"
   end_time: 
   uri: 
 - date: 2018-10-13
   time:
     hour: 21
+    min: 0
+  title: 25分～ 物述有栖 at:YouTube 3Dお披露目
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube NightSky"
   end_time: 
   uri: 
 - date: 2018-10-13
   time:
     hour: 22
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube CoD:BO4"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -344,7 +344,21 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube お誕生日会"
+  title: 08分～ 出雲霞 at:YouTube お誕生日会
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 23
+    min: 15
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
+    hour: 23
+    min: 27
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-13
