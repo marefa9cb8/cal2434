@@ -163,21 +163,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:? 晩酌配信"
+  title: "竜胆尊 at:YouTube 晩酌配信"
   end_time: 
   uri: 
 - date: 2018-10-14
   time:
     hour: 0
     min: 30
-  title: "鷹宮リオン at:?"
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-14
   time:
     hour: 13
     min: 0
-  title: "舞元啓介 at:? パ・リーグCSファーストステージ実況"
+  title: "舞元啓介 at:YouTube パ・リーグCSファーストステージ実況"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -246,7 +246,7 @@
   time:
     hour: 12
     min: 0
-  title: "安土桃 at:YouTube ※Twitterネームより"
+  title: "安土桃 at:YouTube マシュマロ回答"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -279,9 +279,16 @@
   uri: 
 - date: 2018-10-13
   time:
+    hour: 20
+    min: 0
+  title: "葛葉 at:? CoD:BO4"
+  end_time: 
+  uri: 
+- date: 2018-10-13
+  time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube ※Twitterネームより ※延期 at:?"
+  title: "勇気ちひろ at:YouTube ※Twitterネームより ※延期"
   end_time: 
   uri: 
 - date: 2018-10-13
@@ -329,11 +336,6 @@
 - date: 2018-10-13
   time: 
   title: "？時？分(昼)～ 椎名唯華 at:? ポケットモンスター プラチナ"
-  end_time: 
-  uri: 
-- date: 2018-10-13
-  time: 
-  title: "？時？分～ 葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-10-13
