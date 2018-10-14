@@ -122,7 +122,7 @@
   time:
     hour: 22
     min: 30
-  title: "轟京子&出雲霞&鷹宮リオン&飛鳥ひな&町田ちま at.鷹宮リオンのYouTubeチャンネル おえかきの森 ※飛鳥ひな不参加"
+  title: "轟京子&出雲霞&鷹宮リオン&飛鳥ひな&町田ちま＆遠北千南 at.鷹宮リオンのYouTubeチャンネル おえかきの森 ※飛鳥ひな不参加"
   end_time: 
   uri: 
 - date: 2018-10-17
@@ -177,9 +177,23 @@
   uri: 
 - date: 2018-10-15
   time:
+    hour: 0
+    min: 41
+  title: "静凛 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube 作業・雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 2
+    min: 35
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆ゆきんこ at:渋谷ハルのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -207,7 +221,7 @@
   time:
     hour: 21
     min: 0
-  title: "剣持刀也 at? ３Dお披露目"
+  title: "剣持刀也 at:? 3Dお披露目"
   end_time: 
   uri: 
 - date: 2018-10-15
