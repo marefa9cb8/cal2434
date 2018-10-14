@@ -147,6 +147,13 @@
   uri: 
 - date: 2018-10-15
   time:
+    hour: 0
+    min: 0
+  title: "ベルモンド・バンデラス at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube 作業・雑談"
@@ -257,9 +264,16 @@
   uri: 
 - date: 2018-10-14
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-10-14
+  time:
     hour: 13
     min: 0
-  title: "舞元啓介 at:YouTube パ・リーグCSファーストステージ実況"
+  title: "舞元啓介 at:YouTube パ・リーグCSファーストステージ実況 ※中止"
   end_time: 
   uri: 
 - date: 2018-10-14
@@ -299,10 +313,16 @@
   uri: 
 - date: 2018-10-14
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-14
+  time:
     hour: 22
     min: 0
-  title: "海夜叉神&樋口楓&卯月コウ&桜凛月&ジョー・力一&ゆきんこ&夏色まつり＆白上フブキ&秋里夢女子&日ノ隈らん&皆守ひいろ&ウル＝ケン・ノース&ふくやマスター&オボロリュウ&道明寺晴翔&風見涼
-    at.海夜叉神のYouTubeチャンネル ジンジャの神様"
+  title: "海夜叉神&樋口楓&ゆきんこ at.海夜叉神のYouTubeチャンネル ジンジャの神様"
   end_time: 
   uri: 
 - date: 2018-10-14
