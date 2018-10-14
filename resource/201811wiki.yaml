@@ -1,5 +1,12 @@
 ---
 - date: 2018-11-03
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-03
   time: 
   title: "？時？分～ 月ノ美兎 at:ニコニコ生放送 ※全編視聴するにはネットチケットの購入が必要。"
   end_time: 
