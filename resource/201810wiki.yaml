@@ -55,6 +55,13 @@
   title: "でびでび・でびる at:?"
   end_time: 
   uri: 
+- date: 2018-10-22
+  time:
+    hour: 22
+    min: 0
+  title: "遠北千南&飛鳥ひな at:遠北千南のYouTubeチャンネル"
+  end_time: 
+  uri: 
 - date: 2018-10-21
   time:
     hour: 10
@@ -125,6 +132,13 @@
   title: "鈴木勝 at:YouTube"
   end_time: 
   uri: 
+- date: 2018-10-19
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
 - date: 2018-10-18
   time:
     hour: 22
@@ -152,6 +166,27 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #3』"
+  end_time: 
+  uri: 
+- date: 2018-10-17
+  time:
+    hour: 22
+    min: 0
+  title: "伏見ガク at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-17
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:YouTube 森中オンリーカフェ"
+  end_time: 
+  uri: 
+- date: 2018-10-16
+  time:
+    hour: 0
+    min: 0
+  title: "叶 at:? バイノーラル"
   end_time: 
   uri: 
 - date: 2018-10-16
@@ -263,7 +298,7 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:? CoD:BO4"
+  title: "椎名唯華 at:YouTube CoD:BO4"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -284,7 +319,14 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ&叶&葛葉 at:? PUBG"
+  title: "渋谷ハジメ&叶&葛葉 at:渋谷ハジメ、叶のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 20
+    min: 0
+  title: "海夜叉神＆オボロリュウ＆ゆきんこ at:YouTube ジンジャの神様振り返り雑談"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -298,7 +340,7 @@
   time:
     hour: 21
     min: 0
-  title: "剣持刀也 at:? 3Dお披露目"
+  title: "剣持刀也 at:YouTube 3Dお披露目"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -312,7 +354,14 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?※中止"
+  title: "物述有栖 at:? ※中止"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 22
+    min: 0
+  title: "叶&ダステル-DustelBox at:?"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -341,11 +390,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2018-10-15
-  time: 
-  title: "？時？分～ 叶 at:? バイノーラル"
   end_time: 
   uri: 
 - date: 2018-10-14
