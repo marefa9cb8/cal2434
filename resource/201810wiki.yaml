@@ -156,6 +156,27 @@
   uri: 
 - date: 2018-10-16
   time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-16
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:? Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2018-10-16
+  time:
+    hour: 19
+    min: 0
+  title: "勇気ちひろ at:Mirrativ ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-16
+  time:
     hour: 19
     min: 15
   title: "舞元啓介&帝華組(鷹宮リオン&飛鳥ひな) at.YouTube キリンチャレンジカップ2018 日本代表vsウルグアイ代表観戦 ※中止"
@@ -222,6 +243,27 @@
     hour: 8
     min: 10
   title: "赤羽葉子 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:? CoD:BO4"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 19
+    min: 30
+  title: "文野環 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-15
