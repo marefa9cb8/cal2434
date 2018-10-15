@@ -247,6 +247,20 @@
   uri: 
 - date: 2018-10-15
   time:
+    hour: 16
+    min: 29
+  title: "渋谷ハジメ at:YouTube CoD:BO4"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 17
+    min: 43
+  title: "叶 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
     hour: 18
     min: 0
   title: "椎名唯華 at:? CoD:BO4"
@@ -264,6 +278,13 @@
     hour: 19
     min: 30
   title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-15
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ&叶&葛葉 at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-10-15
@@ -291,7 +312,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:?※中止"
   end_time: 
   uri: 
 - date: 2018-10-15
