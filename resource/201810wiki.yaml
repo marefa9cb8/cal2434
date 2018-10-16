@@ -213,14 +213,21 @@
   time:
     hour: 0
     min: 0
-  title: "黒井しば at:YouTube ゆめにっき"
+  title: "黒井しば at:YouTube YUMENIKKI-DREAM DIARY"
   end_time: 
   uri: 
 - date: 2018-10-17
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:? Dead by Daylight"
+  title: "椎名唯華 at:YouTube Dead by Daylight Getting Over It"
+  end_time: 
+  uri: 
+- date: 2018-10-17
+  time:
+    hour: 1
+    min: 22
+  title: "でびリオン(でびでび・でびる&鷹宮リオン) at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-17
@@ -235,6 +242,13 @@
     hour: 19
     min: 0
   title: "卯月コウ at:YouTube うづコウランド建設議論"
+  end_time: 
+  uri: 
+- date: 2018-10-17
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:? 歌枠"
   end_time: 
   uri: 
 - date: 2018-10-17
@@ -446,11 +460,6 @@
     hour: 23
     min: 54
   title: "宇志海いちご at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2018-10-16
-  time: 
-  title: "？時？分～ 静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-10-15
