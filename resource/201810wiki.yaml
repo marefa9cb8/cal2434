@@ -88,6 +88,13 @@
   time:
     hour: 20
     min: 0
+  title: "物述有栖＆夕陽リリ＆緑仙＆椎名唯華 at:にじさんじ公式のYouTubeチャンネル にじさんじMIX UP!! 第2回"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 20
+    min: 0
   title: "でびでび・でびる at:?"
   end_time: 
   uri: 
@@ -214,6 +221,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 0
+    min: 0
   title: "椎名唯華 at:? マシュマロ質問返し"
   end_time: 
   uri: 
@@ -229,6 +243,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 温かいスープ系"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:OPENREC.tv スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-10-19
@@ -327,14 +348,15 @@
   time:
     hour: 21
     min: 0
-  title: "海夜叉神＆ベルモンド・バンデラス＆黒井しば＆日ノ隈らん＆ユキミお姉ちゃん at:海夜叉神のYouTubeチャンネル Minecraft"
+  title: "海夜叉神＆ベルモンド・バンデラス＆黒井しば＆日ノ隈らん＆ユキミお姉ちゃん at:海夜叉神、ベルモンド・バンデラス、黒井しばのYouTubeチャンネル
+    Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-18
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube PixelJunk Shooter"
   end_time: 
   uri: 
 - date: 2018-10-18
@@ -348,14 +370,14 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-18
   time:
     hour: 22
     min: 0
-  title: "シスター・クレア＆？？？ at:? Minecraft"
+  title: "シスター・クレア＆社築 at:シスター・クレアのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-18
@@ -369,7 +391,14 @@
   time:
     hour: 23
     min: 30
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube Mirrativ 雑談 ※配信場所変更"
+  end_time: 
+  uri: 
+- date: 2018-10-18
+  time:
+    hour: 23
+    min: 37
+  title: ChroNoiR(叶&葛葉) at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2018-10-17
