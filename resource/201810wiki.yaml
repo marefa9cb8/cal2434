@@ -228,7 +228,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? マシュマロ質問返し"
+  title: "椎名唯華 at:YouTube マシュマロ返し"
   end_time: 
   uri: 
 - date: 2018-10-19
@@ -236,6 +236,20 @@
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube Home Sweet Home"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 1
+    min: 20
+  title: "静凛 at:YouTube 感想会"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 2
+    min: 29
+  title: "渋谷ハジメ&稲荷くろむ&神楽めあ&あさひ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-19
@@ -250,6 +264,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:OPENREC.tv スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓＆ドーラ＆闇夜乃モルル＆本間ひまわり at:YouTube スーパーマリオパーティ ミニゲームオンライン対戦"
   end_time: 
   uri: 
 - date: 2018-10-19
@@ -390,6 +411,13 @@
 - date: 2018-10-18
   time:
     hour: 23
+    min: 16
+  title: "でろちー(樋口楓&勇気ちひろ) at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-18
+  time:
+    hour: 23
     min: 30
   title: "ドーラ at:YouTube Mirrativ 雑談 ※配信場所変更"
   end_time: 
@@ -398,7 +426,7 @@
   time:
     hour: 23
     min: 37
-  title: ChroNoiR(叶&葛葉) at:YouTube PUBG
+  title: ChroNoiR(叶&葛葉) at:叶のYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-10-17
