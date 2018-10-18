@@ -198,9 +198,16 @@
   uri: 
 - date: 2018-10-19
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:? マシュマロ質問返し"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube"
+  title: "鈴木勝 at:YouTube Home Sweet Home"
   end_time: 
   uri: 
 - date: 2018-10-19
@@ -247,9 +254,30 @@
   uri: 
 - date: 2018-10-18
   time:
+    hour: 12
+    min: 30
+  title: "シスター・クレア at:YouTube Minecraft(テスト配信)"
+  end_time: 
+  uri: 
+- date: 2018-10-18
+  time:
+    hour: 14
+    min: 25
+  title: "シスター・クレア at:YouTube お料理"
+  end_time: 
+  uri: 
+- date: 2018-10-18
+  time:
+    hour: 18
+    min: 0
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-18
+  time:
     hour: 19
     min: 0
-  title: "神田笑一 at:? Overwatch ※Twitterネームより"
+  title: "神田笑一 at:? Overwatch"
   end_time: 
   uri: 
 - date: 2018-10-18
@@ -263,7 +291,8 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆日ノ隈らん＆ふくやマスター＆雅市華(まじかるどーる)＆実況：雅まつり at:? PUBG ※16日の渋谷カフェで告知"
+  title: "渋谷ハジメ＆日ノ隈らん＆ふくやマスター＆雅市華(まじかるどーる)＆実況：雅まつり at:まじかるどーる/Magical DollのYouTubeチャンネル
+    PUBG"
   end_time: 
   uri: 
 - date: 2018-10-18
