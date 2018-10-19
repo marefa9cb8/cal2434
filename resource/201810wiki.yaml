@@ -227,8 +227,8 @@
 - date: 2018-10-20
   time:
     hour: 3
-    min: 0
-  title: "椎名唯華 at:? Dead by Daylight"
+    min: 4
+  title: "椎名唯華 at:YouTube Dead by Daylight お悩み相談返し"
   end_time: 
   uri: 
 - date: 2018-10-20
@@ -292,6 +292,11 @@
     hour: 22
     min: 0
   title: "竜胆尊 at:? 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2018-10-20
+  time: 
+  title: "？時？分～ 遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-19
