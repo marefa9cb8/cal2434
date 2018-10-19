@@ -268,6 +268,20 @@
   uri: 
 - date: 2018-10-19
   time:
+    hour: 9
+    min: 44
+  title: "雪汝 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 18
+    min: 0
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:OPENREC.tv スプラトゥーン2"
@@ -278,6 +292,13 @@
     hour: 21
     min: 0
   title: "樋口楓＆ドーラ＆闇夜乃モルル＆本間ひまわり at:YouTube スーパーマリオパーティ ミニゲームオンライン対戦"
+  end_time: 
+  uri: 
+- date: 2018-10-19
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-19
