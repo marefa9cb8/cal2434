@@ -203,6 +203,18 @@
   title: "遠北千南&飛鳥ひな at:遠北千南のYouTubeチャンネル"
   end_time: 
   uri: 
+- date: 2018-10-22
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time: 
+  title: "（不確定）？時？分（夕方）～ 成瀬鳴 at:OPENREC.tv"
+  end_time: 
+  uri: 
 - date: 2018-10-21
   time:
     hour: 0
@@ -336,6 +348,20 @@
   title: OTN組(名伽尾アズマ&花畑チャイカ&社築) at:名伽尾アズマのYouTubeチャンネル 即興コント
   end_time: 
   uri: 
+- date: 2018-10-21
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-21
+  time:
+    hour: 23
+    min: 0
+  title: "春崎エアル at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-20
   time:
     hour: 0
@@ -460,6 +486,13 @@
     hour: 23
     min: 24
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-20
+  time:
+    hour: 23
+    min: 37
+  title: "緑仙 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-20
