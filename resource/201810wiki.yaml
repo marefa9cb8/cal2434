@@ -186,7 +186,21 @@
   time:
     hour: 1
     min: 0
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 1
+    min: 0
   title: "舞元啓介 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -201,6 +215,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆みるくぷりん at:YouTube 渋谷カフェ：つなげようお客様の輪 第9回"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -331,9 +352,23 @@
   uri: 
 - date: 2018-10-22
   time:
+    hour: 19
+    min: 30
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
     hour: 20
     min: 0
   title: "物述有栖＆夕陽リリ＆緑仙＆椎名唯華 at:にじさんじ公式のYouTubeチャンネル にじさんじMIX UP!! 第2回 ※延期"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 20
+    min: 0
+  title: "文野環 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -354,7 +389,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube ※Twitterネームより"
+  title: "ドーラ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-22
