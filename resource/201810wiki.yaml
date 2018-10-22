@@ -97,6 +97,13 @@
   title: "勇気ちひろ at:YouTube ハロウィンパーティ"
   end_time: 
   uri: 
+- date: 2018-10-27
+  time:
+    hour: 23
+    min: 0
+  title: "飛鳥ひな＆？？？ at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-26
   time:
     hour: 20
@@ -130,6 +137,13 @@
     hour: 0
     min: 0
   title: "黒井しば at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:?"
   end_time: 
   uri: 
 - date: 2018-10-24
@@ -175,6 +189,11 @@
   title: "伏見ガク at:? ※21日配信で告知"
   end_time: 
   uri: 
+- date: 2018-10-24
+  time: 
+  title: "？時？分～ 飛鳥ひな at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-23
   time:
     hour: 0
@@ -193,14 +212,21 @@
   time:
     hour: 1
     min: 0
-  title: "舞元啓介 at:YouTube"
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-23
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube Dead by Daylight"
+  title: "舞元啓介 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -226,9 +252,16 @@
   uri: 
 - date: 2018-10-23
   time:
+    hour: 22
+    min: 0
+  title: "海夜叉神＆ベルモンド・バンデラス＆黒井しば＆日ノ隈らん＆皆守ひいろ at:? Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
     hour: 23
     min: 0
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -396,28 +429,28 @@
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:OPENREC.tv"
+  title: "成瀬鳴 at:OPENREC.tv ウイニングイレブン2018"
   end_time: 
   uri: 
 - date: 2018-10-22
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:?"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-10-22
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube MoimoiRadio ※19日(金曜)からの振替"
+  title: "モイラ at:YouTube MoimoiRadio 雑談 ※19日(金曜)からの振替"
   end_time: 
   uri: 
 - date: 2018-10-22
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆花畑チャイカ at:? 第一回名言サミット"
+  title: "名伽尾アズマ＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル 第一回名言サミット"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -431,7 +464,21 @@
   time:
     hour: 23
     min: 0
-  title: "える at:?"
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 23
+    min: 30
+  title: 48分～ でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-10-21
