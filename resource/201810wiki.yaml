@@ -214,7 +214,7 @@
   time:
     hour: 23
     min: 0
-  title: "八朔ゆず at:YouTube"
+  title: "八朔ゆず at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -243,6 +243,13 @@
     hour: 1
     min: 0
   title: "渋谷ハジメ at:YouTube League of Legends, PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 1
+    min: 27
+  title: "鈴木勝 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -296,9 +303,16 @@
   uri: 
 - date: 2018-10-22
   time:
+    hour: 16
+    min: 30
+  title: "渋谷ハジメ＆卯束のいれ＆神楽彩＆五色クウ at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
     hour: 18
     min: 0
-  title: "宇志海いちご at:?"
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -346,6 +360,13 @@
 - date: 2018-10-22
   time:
     hour: 21
+    min: 0
+  title: "成瀬鳴 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-10-22
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:?"
   end_time: 
@@ -354,7 +375,7 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:? MoimoiRadio ※19日(金曜)からの振替"
+  title: "モイラ at:YouTube MoimoiRadio ※19日(金曜)からの振替"
   end_time: 
   uri: 
 - date: 2018-10-22
@@ -376,11 +397,6 @@
     hour: 23
     min: 0
   title: "える at:?"
-  end_time: 
-  uri: 
-- date: 2018-10-22
-  time: 
-  title: "（不確定）？時？分（夕方）～ 成瀬鳴 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2018-10-21
