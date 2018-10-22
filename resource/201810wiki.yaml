@@ -203,9 +203,16 @@
   uri: 
 - date: 2018-10-23
   time:
-    hour: 1
-    min: 0
-  title: "夕陽リリ at:Mirrativ"
+    hour: 0
+    min: 5
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 0
+    min: 49
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆アベレージ＆隻翼フィナ at:OPENREC.tv→YouTube CoD:BO4"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -220,6 +227,13 @@
     hour: 1
     min: 0
   title: "舞元啓介 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time:
+    hour: 1
+    min: 0
+  title: 17分～ 夕陽リリ at:Mirrativ
   end_time: 
   uri: 
 - date: 2018-10-23
