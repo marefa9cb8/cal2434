@@ -303,7 +303,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひわまり at:? Rat Simulator"
+  title: "本間ひまわり at:? Rat Simulator"
   end_time: 
   uri: 
 - date: 2018-10-23
@@ -332,6 +332,11 @@
     hour: 23
     min: 0
   title: "八朔ゆず at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2018-10-23
+  time: 
+  title: "??時??分～ 葛葉 at:?"
   end_time: 
   uri: 
 - date: 2018-10-22
