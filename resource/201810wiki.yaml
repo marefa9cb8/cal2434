@@ -20,11 +20,18 @@
   title: "渋谷ハジメ＆バーチャルねこ at:YouTube 渋谷カフェ：つなげようお客様の輪 第10回"
   end_time: 
   uri: 
+- date: 2018-10-30
+  time:
+    hour: 22
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.ｔｖチャンネル くろのわTV
+  end_time: 
+  uri: 
 - date: 2018-10-29
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ 卵焼き ゲスト:「も」で始まる子"
+  title: "伏見ガク at:YouTube おはガク！ 卵焼き"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -64,9 +71,16 @@
   uri: 
 - date: 2018-10-28
   time:
-    hour: 21
+    hour: 22
     min: 0
   title: "静凛 at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 23
+    min: 0
+  title: "鈴木勝 at:?"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -129,7 +143,14 @@
   time:
     hour: 23
     min: 0
-  title: "飛鳥ひな＆？？？ at:?"
+  title: "飛鳥ひな＆舞元啓介 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-26
+  time:
+    hour: 0
+    min: 0
+  title: "社築 at:? 第三回クイズ出題王決定戦 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-26
@@ -143,7 +164,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ フレンチトースト"
   end_time: 
   uri: 
 - date: 2018-10-26
@@ -195,9 +216,9 @@
   uri: 
 - date: 2018-10-25
   time:
-    hour: 0
+    hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube ※Twitterネームより"
+  title: "鈴木勝 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -308,15 +329,15 @@
 - date: 2018-10-24
   time:
     hour: 18
-    min: 0
-  title: "出雲霞 at:YouTube 夕やスミ"
+    min: 30
+  title: "出雲霞 at:YouTube 夕やスミ ※18時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-24
   time:
     hour: 19
     min: 0
-  title: "宇志海いちご at:YouTube"
+  title: "宇志海いちご at:YouTube 新衣装お披露目, スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-10-24
@@ -335,6 +356,20 @@
   uri: 
 - date: 2018-10-24
   time:
+    hour: 19
+    min: 15
+  title: ") 渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 20
+    min: 0
+  title: ") ふくやマスター at:ふくやマスターのOPENREC.tvチャンネル ふくやマスターのTalking.tv(OPENREC VTuberランキング連動番組第1弾)"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
     hour: 20
     min: 50
   title: "ドーラ＆八朔ゆず＆でびでび・でびる＆飛鳥ひな at:にじさんじ公式のYouTubeチャンネル 「にじさんじのくじじゅうじ」副音声 #2"
@@ -346,6 +381,14 @@
     min: 0
   title: 'Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
     にじさんじのくじじゅうじ #2'
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #4』"
   end_time: 
   uri: 
 - date: 2018-10-24
