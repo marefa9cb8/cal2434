@@ -54,7 +54,14 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:?"
+  title: "でびでび・でびる at:YouTube 11月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 22
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる at:? チャイルド・プレイ鑑賞会"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -90,6 +97,13 @@
     hour: 22
     min: 0
   title: "静凛 at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず＋鷹宮リオン at:? アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -145,7 +159,7 @@
   time:
     hour: 21
     min: 0
-  title: "みかえる(月ノ美兎&樋口楓&える) at:cluster にじさんじが贈る秋の文化祭 in cluster"
+  title: "みかえる(月ノ美兎&樋口楓&える) at:cluster、にじさんじ公式のYouTubeチャンネル にじさんじが贈る秋の文化祭 in cluster"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -153,6 +167,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube ハロウィンパーティ ※28日20時に変更"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #3"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -166,7 +187,7 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:? 第三回クイズ出題王決定戦 ※Twitterネームより"
+  title: "社築 at:? 第三回クイズ出題王決定戦"
   end_time: 
   uri: 
 - date: 2018-10-26
@@ -195,6 +216,13 @@
     hour: 20
     min: 0
   title: "ドーラ at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-10-26
+  time:
+    hour: 22
+    min: 0
+  title: JK組(月ノ美兎＆静凛＆樋口楓) at:月ノ美兎のYouTubeチャンネル ハロウィン衣装お披露目
   end_time: 
   uri: 
 - date: 2018-10-26
@@ -234,7 +262,21 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube"
+  title: "鈴木勝 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 1
+    min: 33
+  title: "渋谷ハジメ at:YouTube 雑談, PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 2
+    min: 6
+  title: "でびでび・でびる at:YouTube ヨルダケ"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -246,9 +288,37 @@
   uri: 
 - date: 2018-10-25
   time:
+    hour: 18
+    min: 0
+  title: "渋谷ハジメ at:? ※同日深夜配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 20
+    min: 0
+  title: "卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:Youtube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 22
+    min: 0
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -439,7 +509,7 @@
   time:
     hour: 22
     min: 30
-  title: "叶 at:YouTube PUBG"
+  title: "叶 at:YouTube PUBG, Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2018-10-24
