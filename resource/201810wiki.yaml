@@ -50,9 +50,23 @@
   uri: 
 - date: 2018-10-28
   time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube ハロウィンパーティ"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
     hour: 21
     min: 0
   title: "静凛 at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 0
+    min: 0
+  title: "森中花咲 at:YouTube オトナ花咲の悪い子night ゲスト:？？？"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -101,7 +115,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube ハロウィンパーティ"
+  title: "勇気ちひろ at:YouTube ハロウィンパーティ ※28日20時に変更"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -154,6 +168,13 @@
   end_time: 
   uri: 
 - date: 2018-10-26
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-26
   time: 
   title: "(不確定)？時？分～ 飛鳥ひな at:?"
   end_time: 
@@ -177,6 +198,20 @@
     hour: 17
     min: 0
   title: "舞元啓介 at:YouTube NPBドラフト会議実況"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 22
+    min: 0
+  title: "黒井しば at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -205,6 +240,13 @@
     hour: 0
     min: 27
   title: "でびリオン(鷹宮リオン＆でびでび・でびる)+湊あくあ(ホロライブ2期生) at:鷹宮リオンのYouTubeチャンネル League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 0
+    min: 30
+  title: "鳴門こがね at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-24
@@ -253,6 +295,13 @@
   time:
     hour: 19
     min: 0
+  title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube モンスターストライク"
   end_time: 
   uri: 
@@ -282,7 +331,7 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:? ※21日配信で告知"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-24
@@ -290,6 +339,20 @@
     hour: 22
     min: 0
   title: "本間ひまわり at:? クラッシュ・バンディクー"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-24
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-23
