@@ -194,14 +194,14 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆黒井しば＆大空スバル＆テトラ at:? Minecraft"
+  title: "椎名唯華 at:? Red Dead Redemption 2"
   end_time: 
   uri: 
 - date: 2018-10-26
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? Red Dead Redemption 2"
+  title: "舞元啓介＆黒井しば＆大空スバル＆テトラ at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-26
@@ -295,9 +295,16 @@
   uri: 
 - date: 2018-10-25
   time:
-    hour: 17
-    min: 0
-  title: "本間ひまわり＆葛葉＆SUMOMOXqX（すもも） at:?"
+    hour: 14
+    min: 5
+  title: "緑仙 at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 15
+    min: 53
+  title: "渋谷ハジメ at:OPENREC.tv League of Legends"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -305,6 +312,13 @@
     hour: 17
     min: 0
   title: "舞元啓介 at:YouTube NPBドラフト会議実況"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 17
+    min: 0
+  title: 25分～ 本間ひまわり＆葛葉＆SUMOMOXqX（すもも） at:本間ひまわり、葛葉のYouTubeチャンネル CoD:BO4
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -319,6 +333,13 @@
     hour: 19
     min: 0
   title: "宇志海いちご at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -340,6 +361,20 @@
     hour: 21
     min: 0
   title: "樋口楓 at:Youtube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 21
+    min: 0
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2018-10-25
@@ -368,6 +403,13 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube case:04初配信"
+  end_time: 
+  uri: 
+- date: 2018-10-25
+  time:
+    hour: 23
+    min: 0
+  title: "海夜叉神＆ベルモンド・バンデラス＆ユキミお姉ちゃん＆？？？ at:? Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-25
