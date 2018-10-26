@@ -166,7 +166,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:? 晩酌配信"
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌配信"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -239,6 +253,13 @@
   title: "飛鳥ひな＆舞元啓介 at:?"
   end_time: 
   uri: 
+- date: 2018-10-27
+  time:
+    hour: 1
+    min: 30
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-26
   time:
     hour: 0
@@ -286,6 +307,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フレンチトースト"
+  end_time: 
+  uri: 
+- date: 2018-10-26
+  time:
+    hour: 19
+    min: 0
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-26
