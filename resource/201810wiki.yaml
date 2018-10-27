@@ -64,6 +64,11 @@
   title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.ｔｖチャンネル くろのわTV
   end_time: 
   uri: 
+- date: 2018-10-30
+  time: 
+  title: "？時？分～ 遠北千南 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2018-10-29
   time:
     hour: 6
@@ -390,6 +395,13 @@
 - date: 2018-10-27
   time:
     hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube Suzuno ne kocafe #3"
   end_time: 
@@ -403,9 +415,16 @@
   uri: 
 - date: 2018-10-27
   time:
+    hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
     hour: 23
     min: 0
-  title: "飛鳥ひな＆舞元啓介 at:?"
+  title: "飛鳥ひな＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-26
