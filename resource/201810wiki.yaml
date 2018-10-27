@@ -276,6 +276,13 @@
   uri: 
 - date: 2018-10-27
   time:
+    hour: 10
+    min: 0
+  title: "成瀬鳴 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
     hour: 12
     min: 0
   title: "安土桃 at:YouTube"
@@ -292,7 +299,7 @@
   time:
     hour: 14
     min: 0
-  title: "安土桃 at:YouTube Dead by Daylight"
+  title: "安土桃 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -300,6 +307,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ブルボンプチ"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 16
+    min: 0
+  title: "安土桃 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-27
