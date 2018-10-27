@@ -17,7 +17,7 @@
   time:
     hour: 20
     min: 0
-  title: "飛鳥ひな&春崎エアル&美影ルクス&折緒コウヤ(SuiSay) at:飛鳥ひなのYouTubeチャンネル 声劇"
+  title: "飛鳥ひな&春崎エアル&美影ルクス&折緒コウヤ(SuiSay) at:飛鳥ひなのYouTubeチャンネル 声劇 ※延期"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -134,6 +134,20 @@
   uri: 
 - date: 2018-10-28
   time:
+    hour: 1
+    min: 0
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 2
+    min: 21
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
     hour: 7
     min: 30
   title: "伏見ガク at:YouTube おはガク！ 中華まん再"
@@ -228,11 +242,6 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-10-28
-  time: 
-  title: "？時？分(深夜)～ 緑仙 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-27
