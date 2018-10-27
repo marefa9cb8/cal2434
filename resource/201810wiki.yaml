@@ -285,7 +285,14 @@
   time:
     hour: 12
     min: 0
-  title: "安土桃 at:YouTube"
+  title: 15分～ 安土桃 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 13
+    min: 0
+  title: "八朔ゆず at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -298,8 +305,8 @@
 - date: 2018-10-27
   time:
     hour: 14
-    min: 0
-  title: "安土桃 at:YouTube"
+    min: 30
+  title: "安土桃 at:YouTube ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -307,6 +314,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ブルボンプチ"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 15
+    min: 23
+  title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -319,8 +333,15 @@
 - date: 2018-10-27
   time:
     hour: 16
-    min: 30
-  title: "神田笑一 at:YouTube Marvel's Spider-Man"
+    min: 0
+  title: "神田笑一 at:YouTube Marvel's Spider-Man 16時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 17
+    min: 9
+  title: ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル PJS同時視聴
   end_time: 
   uri: 
 - date: 2018-10-27
