@@ -122,7 +122,7 @@
   time:
     hour: 0
     min: 0
-  title: "名伽尾アズマ＆社築 at:?"
+  title: "名伽尾アズマ＆社築 at:名伽尾アズマのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -141,9 +141,37 @@
   uri: 
 - date: 2018-10-28
   time:
+    hour: 10
+    min: 30
+  title: "八朔ゆず at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 11
+    min: 0
+  title: "春崎エアル at:Mirrativ プリン作り"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
     hour: 13
     min: 0
   title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 15
+    min: 0
+  title: "春崎エアル at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 17
+    min: 0
+  title: "シスター・クレア at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -200,6 +228,11 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time: 
+  title: "？時？分(深夜)～ 緑仙 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -325,7 +358,7 @@
   time:
     hour: 15
     min: 23
-  title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル PUBG
+  title: ChroNoiR(叶＆葛葉) at:叶のOPENREC.tvチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-10-27
@@ -418,6 +451,20 @@
     hour: 22
     min: 0
   title: "ベルモンド・バンデラス at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2018-10-27
+  time:
+    hour: 22
+    min: 32
+  title: ChroNoiR(叶＆葛葉) at:叶のOPENREC.tvチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-10-27
