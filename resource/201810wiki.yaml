@@ -156,8 +156,15 @@
 - date: 2018-10-28
   time:
     hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 10
     min: 30
-  title: "八朔ゆず at:?"
+  title: "八朔ゆず at:YouTube いちろ少年忌憚"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -221,6 +228,13 @@
     hour: 21
     min: 0
   title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-28
