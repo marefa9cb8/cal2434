@@ -36,11 +36,25 @@
     #5』"
   end_time: 
   uri: 
+- date: 2018-10-31
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube case:03初配信"
+  end_time: 
+  uri: 
 - date: 2018-10-30
   time:
     hour: 19
     min: 0
   title: "える&森中花咲&伏見ガク at:えるのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -65,8 +79,17 @@
   end_time: 
   uri: 
 - date: 2018-10-30
-  time: 
-  title: "？時？分～ 遠北千南 at:YouTube 誕生日配信"
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube case:02初配信"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 23
+    min: 0
+  title: "でびでび・でびる at:?"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -80,7 +103,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube スーパーボンバーマン R"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -92,9 +115,30 @@
   uri: 
 - date: 2018-10-29
   time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 1
+    min: 30
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク＆ゲスト:森中花咲 at:YouTube おはガク！ 卵焼き"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -128,8 +172,22 @@
 - date: 2018-10-29
   time:
     hour: 21
-    min: 40
-  title: "飛鳥ひな at:?"
+    min: 0
+  title: "遠北千南 at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり＆ドーラ at:? Minecraft"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -137,6 +195,13 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:? チャイルド・プレイ鑑賞会"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 23
+    min: 0
+  title: "える at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -312,6 +377,13 @@
     hour: 23
     min: 13
   title: "赤羽葉子＆本間ひまわり at:赤羽葉子のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 23
+    min: 50
+  title: " モイラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-27
