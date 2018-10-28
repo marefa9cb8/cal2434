@@ -73,6 +73,20 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 0
+    min: 0
   title: "舞元啓介 at:YouTube 「エル・クラシコ」バルセロナvsレアル・マドリード実況"
   end_time: 
   uri: 
@@ -88,6 +102,13 @@
     hour: 19
     min: 0
   title: "宇志海いちご at:?"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:OPENREC.tv PUBG"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -241,7 +262,7 @@
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎＆樋口楓 at:REALITY"
+  title: "月ノ美兎＆樋口楓 at:REALITY＆月ノ美兎のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -255,7 +276,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube Poly Bridge"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -269,14 +290,14 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube"
+  title: "モイラ at:YouTube MoimoiRadio"
   end_time: 
   uri: 
 - date: 2018-10-28
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず＋鷹宮リオン at:? アズゆずヌーボ～恋愛妄想トーク～"
+  title: "名伽尾アズマ＆八朔ゆず＋鷹宮リオン at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -284,6 +305,13 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 23
+    min: 13
+  title: "赤羽葉子＆本間ひまわり at:赤羽葉子のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-10-27
