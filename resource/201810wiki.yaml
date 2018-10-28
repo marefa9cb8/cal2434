@@ -71,6 +71,13 @@
   uri: 
 - date: 2018-10-29
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube 「エル・クラシコ」バルセロナvsレアル・マドリード実況"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク＆ゲスト:森中花咲 at:YouTube おはガク！ 卵焼き"
@@ -171,7 +178,7 @@
   time:
     hour: 11
     min: 0
-  title: "春崎エアル at:Mirrativ プリン作り"
+  title: 15分～ 春崎エアル at:Mirrativ プリン作り
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -191,22 +198,29 @@
 - date: 2018-10-28
   time:
     hour: 15
+    min: 29
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 15
     min: 0
-  title: "春崎エアル at:?"
+  title: 55分～ 春崎エアル at:YouTube
   end_time: 
   uri: 
 - date: 2018-10-28
   time:
     hour: 17
     min: 0
-  title: "シスター・クレア at:YouTube ※Twitterネームより"
+  title: 35分～ シスター・クレア at:YouTube たこやきパーティ
   end_time: 
   uri: 
 - date: 2018-10-28
   time:
     hour: 19
     min: 0
-  title: "轟京子 at:YouTube ハロウィンお菓子づくり"
+  title: "轟京子 at:Mirrativ ハロウィンお菓子づくり"
   end_time: 
   uri: 
 - date: 2018-10-28
@@ -249,6 +263,13 @@
     hour: 22
     min: 0
   title: "静凛 at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-10-28
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-28
