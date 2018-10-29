@@ -54,7 +54,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:?"
+  title: "椎名唯華 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -97,6 +97,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆バーチャルねこ at:YouTube 渋谷カフェ：つなげようお客様の輪 第10回"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:?"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -257,7 +264,14 @@
   time:
     hour: 21
     min: 0
-  title: "遠北千南 at:?"
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 21
+    min: 45
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -271,7 +285,14 @@
   time:
     hour: 22
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:? チャイルド・プレイ鑑賞会"
+  title: "八朔ゆず＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル チャイルド・プレイ鑑賞会"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 22
+    min: 43
+  title: "叶 at:OPENREC.tv デビルメイクライ"
   end_time: 
   uri: 
 - date: 2018-10-29
