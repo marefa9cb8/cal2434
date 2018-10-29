@@ -60,7 +60,7 @@
   time:
     hour: 20
     min: 0
-  title: "鈴木勝 at:? 第三回視聴者参加型タイピング対決"
+  title: "鈴木勝 at:YouTube Weather Typing(第三回視聴者参加型タイピング対決)"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -68,6 +68,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube 9万人感謝"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 21
+    min: 30
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:? Minecraft ※10/30配信で告知"
   end_time: 
   uri: 
 - date: 2018-11-01
