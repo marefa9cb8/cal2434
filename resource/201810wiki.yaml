@@ -10,6 +10,13 @@
   time:
     hour: 19
     min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 19
+    min: 0
   title: "黒井しば at:? ※Twitterネームより"
   end_time: 
   uri: 
@@ -90,6 +97,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆バーチャルねこ at:YouTube 渋谷カフェ：つなげようお客様の輪 第10回"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -206,9 +220,23 @@
   uri: 
 - date: 2018-10-29
   time:
+    hour: 19
+    min: 13
+  title: "葛葉 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
     hour: 20
     min: 0
   title: "でびでび・でびる at:YouTube 11月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2018-10-29
+  time:
+    hour: 20
+    min: 25
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-29
@@ -236,7 +264,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:? ※Twitterネームより"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-29
