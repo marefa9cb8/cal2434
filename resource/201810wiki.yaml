@@ -17,7 +17,7 @@
   time:
     hour: 1
     min: 20
-  title: "漢組(伏見ガク&ギルザレンIII世) at:伏見ガクのYouTubeチャンネル 第4回漢組radi"
+  title: "漢組(伏見ガク&ギルザレンIII世) at:伏見ガクのYouTubeチャンネル 第4回漢組radio"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -25,6 +25,20 @@
     hour: 1
     min: 43
   title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 3
+    min: 44
+  title: "渋谷ハジメ at:YouTube GRID Autosport"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 14
+    min: 30
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -45,7 +59,7 @@
   time:
     hour: 19
     min: 0
-  title: "黒井しば at:? ※Twitterネームより"
+  title: "黒井しば at:?"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -87,9 +101,16 @@
   uri: 
 - date: 2018-10-31
   time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
     hour: 23
     min: 0
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-30
