@@ -3,6 +3,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:Youtube ゲームと雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 0
+    min: 0
   title: "名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:?"
   end_time: 
   uri: 
@@ -87,9 +94,23 @@
   uri: 
 - date: 2018-10-30
   time:
+    hour: 15
+    min: 58
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
     hour: 18
     min: 0
   title: "神田笑一 at:YouTube 雑談, マシュマロ回答"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 17
+    min: 9
+  title: "鷹宮リオン at:YouTube テスト配信(Dead by Daylight)"
   end_time: 
   uri: 
 - date: 2018-10-30
