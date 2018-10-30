@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:Youtube ゲームと雑談"
+  title: "剣持刀也 at:YouTube ゲーム, 雑談"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -32,6 +32,13 @@
     hour: 20
     min: 0
   title: "飛鳥ひな&春崎エアル&美影ルクス&折緒コウヤ(SuiSay) at:飛鳥ひなのYouTubeチャンネル 声劇 ※延期"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 20
+    min: 50
+  title: "森中花咲＆ギルザレンIII世＆海夜叉神＆桜凛月 at:にじさんじ公式のYouTubeチャンネル 「にじさんじのくじじゅうじ」副音声 #3"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -88,14 +95,14 @@
 - date: 2018-10-30
   time:
     hour: 12
-    min: 45
+    min: 30
   title: "雪汝 at:YouTube Red Dead Redemption 2"
   end_time: 
   uri: 
 - date: 2018-10-30
   time:
     hour: 15
-    min: 58
+    min: 48
   title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
@@ -104,6 +111,13 @@
     hour: 18
     min: 0
   title: "神田笑一 at:YouTube 雑談, マシュマロ回答"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 17
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -124,7 +138,7 @@
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:?"
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -157,9 +171,9 @@
   uri: 
 - date: 2018-10-30
   time:
-    hour: 22
-    min: 0
-  title: "家長むぎ at:YouTube"
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -181,6 +195,13 @@
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube case:02初配信"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 23
+    min: 0
+  title: "家長むぎ at:YouTube ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-30
