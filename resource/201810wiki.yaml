@@ -10,7 +10,14 @@
   time:
     hour: 0
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:?"
+  title: "名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:八朔ゆずのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 18
+    min: 0
+  title: "ジョー・力一 at:?"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -64,6 +71,13 @@
   title: "出雲霞 at:YouTube case:03初配信"
   end_time: 
   uri: 
+- date: 2018-10-31
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:?"
+  end_time: 
+  uri: 
 - date: 2018-10-30
   time:
     hour: 0
@@ -108,13 +122,6 @@
   uri: 
 - date: 2018-10-30
   time:
-    hour: 18
-    min: 0
-  title: "神田笑一 at:YouTube 雑談, マシュマロ回答"
-  end_time: 
-  uri: 
-- date: 2018-10-30
-  time:
     hour: 17
     min: 0
   title: "渋谷ハジメ at:YouTube PUBG"
@@ -125,6 +132,13 @@
     hour: 17
     min: 9
   title: "鷹宮リオン at:YouTube テスト配信(Dead by Daylight)"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 18
+    min: 0
+  title: "神田笑一 at:YouTube 雑談, マシュマロ回答"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -159,7 +173,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube お絵描き ※Twitterネームより"
+  title: "樋口楓 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -173,7 +187,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube PixelJunk Shooter"
   end_time: 
   uri: 
 - date: 2018-10-30
@@ -194,21 +208,28 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube case:02初配信"
+  title: "出雲霞 at:YouTube case:02初配信(anotherStory)"
+  end_time: 
+  uri: 
+- date: 2018-10-30
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-10-30
   time:
     hour: 23
     min: 0
-  title: "家長むぎ at:YouTube ※22時から時間変更"
+  title: "家長むぎ at:YouTube ふぁんしーあいらんど ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-30
   time:
     hour: 23
     min: 0
-  title: "でびでび・でびる at:?"
+  title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
 - date: 2018-10-29
