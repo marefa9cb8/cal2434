@@ -15,7 +15,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181105T200000
-SUMMARY: 樋口楓＆文野環＆クゥ・フラン・ゾーパー＆イヌージョン at:樋口楓のYouTubeチャンネル ラブライブ！談義 ※樋口楓の10/30配信で告知
+SUMMARY:樋口楓＆文野環＆クゥ・フラン・ゾーパー＆イヌージョン at:樋口楓のYouTubeチャンネル ラブライブ！談義
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -11171,6 +11171,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181031T000000
 SUMMARY:名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:八朔ゆずのYouTubeチャンネル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181031T012000
+SUMMARY:漢組(伏見ガク&ギルザレンIII世) at:伏見ガクのYouTubeチャンネル 第4回漢組radi
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181031T014300
+SUMMARY:静凛 at:YouTube Dead by Daylight
 URL:
 DESCRIPTION:
 END:VEVENT
