@@ -137,15 +137,15 @@
 - date: 2018-10-31
   time:
     hour: 22
-    min: 0
-  title: "伏見ガク at:?"
+    min: 12
+  title: "でびでび・でびる at:YouTube ヨルダケ"
   end_time: 
   uri: 
 - date: 2018-10-31
   time:
     hour: 22
-    min: 0
-  title: "出雲霞 at:YouTube case:03初配信"
+    min: 15
+  title: "伏見ガク at:YouTube Dead by Daylight 22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -153,6 +153,13 @@
     hour: 22
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 22
+    min: 30
+  title: "出雲霞 at:YouTube case:03初配信 22時から時間変更"
   end_time: 
   uri: 
 - date: 2018-10-31
@@ -167,6 +174,27 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 23
+    min: 35
+  title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 23
+    min: 37
+  title: "シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-10-31
+  time:
+    hour: 23
+    min: 38
+  title: "叶 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-10-30
