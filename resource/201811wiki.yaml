@@ -55,6 +55,11 @@
   title: "かえる(樋口楓＆える) at:? ※10/30樋口楓の配信にて告知"
   end_time: 
   uri: 
+- date: 2018-11-10
+  time: 
+  title: "？時？分～ 葛葉 at:? 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2018-11-09
   time:
     hour: 22
@@ -97,6 +102,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆テトラ at:YouTube 渋谷カフェ：つなげようお客様の輪 第11回"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
   end_time: 
   uri: 
 - date: 2018-11-05
@@ -172,6 +184,20 @@
   uri: 
 - date: 2018-11-02
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ TKG"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 20
+    min: 0
+  title: "黒井しば at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
     hour: 21
     min: 45
   title: "笹木咲 at:?"
@@ -195,7 +221,21 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube"
+  title: "花畑チャイカ at:YouTube 雑談, Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 1
+    min: 37
+  title: "渋谷ハジメ at:OPENREC.tv League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube Overwatch"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -203,6 +243,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube 9万人感謝"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 20
+    min: 0
+  title: "叶 at:? ソウルオブディフェンス"
   end_time: 
   uri: 
 - date: 2018-11-01
