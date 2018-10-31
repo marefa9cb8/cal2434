@@ -86,9 +86,30 @@
   uri: 
 - date: 2018-11-02
   time:
+    hour: 21
+    min: 45
+  title: "笹木咲 at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 22
+    min: 0
+  title: "ゲーマーズ2・3期生 at:? Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
     hour: 22
     min: 0
   title: "夢追翔＆ぴろぱる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:?"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -103,6 +124,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube 9万人感謝"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 20
+    min: 30
+  title: "渋谷ハジメ＆鈴谷アキ at:渋谷ハジメのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -124,10 +152,5 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-11-01
-  time: 
-  title: "？時？分～ 渋谷ハジメ＆鈴谷アキ at:? Minecraft 25日配信で告知"
   end_time: 
   uri: 
