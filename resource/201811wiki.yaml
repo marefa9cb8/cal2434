@@ -200,7 +200,7 @@
   time:
     hour: 17
     min: 0
-  title: "神田笑一 at:YouTube  料理配信"
+  title: "神田笑一 at:YouTube  お料理"
   end_time: 
   uri: 
 - date: 2018-11-03
@@ -218,8 +218,10 @@
   end_time: 
   uri: 
 - date: 2018-11-03
-  time: 
-  title: "？時？分(夜中)～ 勇気ちひろ at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也＆静凛＆勇気ちひろ＆伏見ガク at:剣持刀也のYouTubeチャンネル 麻雀"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -247,14 +249,15 @@
   time:
     hour: 21
     min: 45
-  title: "笹木咲 at:?"
+  title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-02
   time:
     hour: 22
     min: 0
-  title: "ゲーマーズ2・3期生 at:? Minecraft"
+  title: "ゲーマーズ2・3期生(笹木咲＆闇夜乃モルル＆本間ひまわり＆魔界ノりりむ＆葛葉＆雪汝＆椎名唯華) at:笹木咲、本間ひまわり、魔界ノりりむ、葛葉のYouTubeチャンネル
+    Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -269,6 +272,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube ちひろちゃんにまかせ隊"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -310,7 +320,7 @@
   time:
     hour: 20
     min: 0
-  title: "叶 at:YouTube 雑談, ソウルオブディフェンス"
+  title: "叶 at:YouTube ソウルオブディフェンス 雑談"
   end_time: 
   uri: 
 - date: 2018-11-01
@@ -331,27 +341,34 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア＆社築 at:YouTube Minecraft"
+  title: "叶 at:YouTube ソウルオブディフェンス"
+  end_time: 
+  uri: 
+- date: 2018-11-01
+  time:
+    hour: 21
+    min: 0
+  title: 14分～ シスター・クレア＆社築 at:シスター・クレアのYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-11-01
   time:
     hour: 21
     min: 30
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:? Minecraft"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-01
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube 思い出話"
   end_time: 
   uri: 
 - date: 2018-11-01
   time:
     hour: 22
-    min: 55
+    min: 30
   title: "ベルモンド・バンデラス at:YouTube 大乱闘スマッシュブラザーズ SPECIAL Direct 2018.11.1視聴"
   end_time: 
   uri: 
@@ -359,13 +376,13 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube"
+  title: 22時48分～ 海夜叉神 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL Direct 2018.11.1視聴
   end_time: 
   uri: 
 - date: 2018-11-01
   time:
     hour: 23
     min: 0
-  title: "海夜叉神 at:YouTube"
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
