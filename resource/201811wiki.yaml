@@ -256,7 +256,7 @@
   time:
     hour: 2
     min: 30
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル Dead by Daylight"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル テスト配信(Dead by Daylight）"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -290,6 +290,13 @@
 - date: 2018-11-02
   time:
     hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 21
     min: 45
   title: "笹木咲 at:YouTube"
   end_time: 
@@ -298,7 +305,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube ちひろちゃんにまかせ隊"
+  title: "勇気ちひろ at:YouTube ちひろちゃんにまかせ隊 ※"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -328,6 +335,18 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time: 
+  title: "(未定)？時？分～ 静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-11-01
