@@ -298,6 +298,13 @@
   time:
     hour: 20
     min: 30
+  title: "勇気ちひろ at:YouTube ちひろちゃんにまかせ隊 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 20
+    min: 30
   title: "卯月コウ at:?"
   end_time: 
   uri: 
@@ -313,13 +320,6 @@
     hour: 21
     min: 45
   title: "笹木咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-11-02
-  time:
-    hour: 22
-    min: 0
-  title: "勇気ちひろ at:YouTube ちひろちゃんにまかせ隊 ※"
   end_time: 
   uri: 
 - date: 2018-11-02
