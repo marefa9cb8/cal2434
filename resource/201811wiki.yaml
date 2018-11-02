@@ -206,7 +206,7 @@
 - date: 2018-11-03
   time:
     hour: 10
-    min: 0
+    min: 30
   title: "八朔ゆず at:YouTube"
   end_time: 
   uri: 
@@ -361,7 +361,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -390,7 +390,14 @@
   time:
     hour: 22
     min: 0
-  title: "夢追翔＆ぴろぱる at:YouTube"
+  title: "夢追翔＆ぴろぱる at:YouTube 即興ライブ"
+  end_time: 
+  uri: 
+- date: 2018-11-02
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-02
@@ -398,18 +405,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-11-02
-  time:
-    hour: 22
-    min: 30
-  title: "静凛 at:?"
-  end_time: 
-  uri: 
-- date: 2018-11-02
-  time: 
-  title: "(未定)？時？分～ 静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-11-01
