@@ -226,6 +226,13 @@
   uri: 
 - date: 2018-11-04
   time:
+    hour: 12
+    min: 0
+  title: "ドーラ at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
     hour: 14
     min: 0
   title: "卯月コウ at:?"
@@ -250,6 +257,13 @@
     hour: 22
     min: 0
   title: "出雲霞＆飛鳥ひな at:出雲霞のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-11-03
@@ -324,9 +338,16 @@
   uri: 
 - date: 2018-11-03
   time:
+    hour: 14
+    min: 34
+  title: ") 渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-03
+  time:
     hour: 15
     min: 0
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube Dead by Daylight, League of Legends, 雑談"
   end_time: 
   uri: 
 - date: 2018-11-03
@@ -340,7 +361,14 @@
   time:
     hour: 17
     min: 0
-  title: "神田笑一 at:YouTube  お料理"
+  title: "神田笑一 at:Mirrativ  お料理"
+  end_time: 
+  uri: 
+- date: 2018-11-03
+  time:
+    hour: 17
+    min: 6
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル LoL世界大会決勝(Worlds2018)観戦"
   end_time: 
   uri: 
 - date: 2018-11-03
@@ -382,7 +410,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube ※4日に変更"
   end_time: 
   uri: 
 - date: 2018-11-03
