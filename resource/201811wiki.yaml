@@ -143,6 +143,13 @@
   time:
     hour: 21
     min: 0
+  title: "文野環＆ウル＝ケン･ノース at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 21
+    min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -292,6 +299,20 @@
     hour: 13
     min: 0
   title: ") ニコニコ超パーティー2018 at:ニコニコ生放送 ※全編視聴するにはネットチケットの購入が必要。"
+  end_time: 
+  uri: 
+- date: 2018-11-03
+  time:
+    hour: 13
+    min: 1
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-03
+  time:
+    hour: 14
+    min: 23
+  title: " 叶＆ふくやマスター at:YouTube Grand Theft Auto V"
   end_time: 
   uri: 
 - date: 2018-11-03
