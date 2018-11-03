@@ -85,9 +85,9 @@
   uri: 
 - date: 2018-11-11
   time:
-    hour: 20
+    hour: 22
     min: 0
-  title: "かえる(樋口楓＆える) at:? ※10/30樋口楓の配信にて告知"
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -114,6 +114,13 @@
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 夕やスミ"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 19
+    min: 30
+  title: "夢追翔 at:YouTube MIX講座"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -164,7 +171,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ 好きな朝食+和菓子"
   end_time: 
   uri: 
 - date: 2018-11-05
@@ -207,6 +214,13 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:YouTube 振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
@@ -215,6 +229,13 @@
     hour: 1
     min: 0
   title: "緑仙 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 2
+    min: 0
+  title: "春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -243,6 +264,13 @@
     hour: 18
     min: 0
   title: "勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ at:?"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -403,7 +431,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:? テスト配信 ※Twitterネームより"
+  title: "夕陽リリ at:? テスト配信 ※Twitterネームより ※4日に変更"
   end_time: 
   uri: 
 - date: 2018-11-03
@@ -453,6 +481,13 @@
     hour: 23
     min: 0
   title: "剣持刀也＆静凛＆勇気ちひろ＆伏見ガク at:剣持刀也のYouTubeチャンネル 麻雀"
+  end_time: 
+  uri: 
+- date: 2018-11-03
+  time:
+    hour: 23
+    min: 7
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:名伽尾アズマのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2018-11-02
