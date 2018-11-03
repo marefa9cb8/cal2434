@@ -228,21 +228,28 @@
   time:
     hour: 1
     min: 0
-  title: "緑仙 at:YouTube ※Twitterネームより"
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 1
+    min: 3
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-04
   time:
     hour: 2
     min: 0
-  title: "春崎エアル at:?"
+  title: "春崎エアル at:YouTube マシュマロ回答"
   end_time: 
   uri: 
 - date: 2018-11-04
   time:
     hour: 10
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube 仮面ライダートーク"
   end_time: 
   uri: 
 - date: 2018-11-04
