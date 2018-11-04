@@ -91,8 +91,20 @@
   end_time: 
   uri: 
 - date: 2018-11-10
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ ポッキー(トッポ・プリッツ可)"
+  end_time: 
+  uri: 
+- date: 2018-11-10
   time: 
   title: "？時？分～ 葛葉 at:? 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time: 
+  title: "？時？分(昼)～ 安土桃 at:YouTube テロップ選手権"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -113,7 +125,7 @@
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:YouTube 夕やスミ"
+  title: "出雲霞 at:YouTube 夕やスミ 人狼"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -137,6 +149,13 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #6』"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 19
+    min: 0
+  title: "黒井しば at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -289,23 +308,23 @@
   uri: 
 - date: 2018-11-04
   time:
-    hour: 13
-    min: 40
-  title: "ドーラ at:YouTube 作業"
+    hour: 12
+    min: 0
+  title: 13時40分～ ドーラ at:YouTube 作業
   end_time: 
   uri: 
 - date: 2018-11-04
   time:
     hour: 14
     min: 0
-  title: "卯月コウ at:Youtube 超パ感想,VA-11 Hall-A Cyberpunk Bartender Action"
+  title: "卯月コウ at:YouTube ニコニコ超パーティー2018感想,VA-11 Hall-A Cyberpunk Bartender Action"
   end_time: 
   uri: 
 - date: 2018-11-04
   time:
     hour: 17
     min: 0
-  title: "宇志海いちご at:Youtube"
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -326,14 +345,14 @@
   time:
     hour: 19
     min: 45
-  title: "卯月コウ at:Youtube VA-11 Hall-A Cyberpunk Bartender Action"
+  title: "卯月コウ at:YouTube VA-11 Hall-A Cyberpunk Bartender Action"
   end_time: 
   uri: 
 - date: 2018-11-04
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:Youtube"
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -354,7 +373,7 @@
   time:
     hour: 21
     min: 0
-  title: "伏見ガク at:Youtube"
+  title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -374,8 +393,8 @@
 - date: 2018-11-04
   time:
     hour: 22
-    min: 0
-  title: "樋口楓 at:YouTubeプレミア公開 「焼森のファンファーレ」full その後雑談 ※コメント欄より"
+    min: 10
+  title: "樋口楓 焼森のファンファーレ公開感想, 雑談"
   end_time: 
   uri: 
 - date: 2018-11-04
