@@ -305,7 +305,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:?"
+  title: "夕陽リリ at:Youtube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -317,9 +317,16 @@
   uri: 
 - date: 2018-11-04
   time:
+    hour: 20
+    min: 58
+  title: "渋谷ハジメ at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
     hour: 21
     min: 0
-  title: "伏見ガク at:?"
+  title: "伏見ガク at:Youtube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -340,7 +347,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:YouTubeプレミア公開 「焼森のファンファーレ」full"
+  title: "樋口楓 at:YouTubeプレミア公開 「焼森のファンファーレ」full その後雑談 ※コメント欄より"
   end_time: 
   uri: 
 - date: 2018-11-04
