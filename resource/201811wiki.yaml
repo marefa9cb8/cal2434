@@ -277,7 +277,7 @@
   time:
     hour: 17
     min: 0
-  title: "宇志海いちご at:?"
+  title: "宇志海いちご at:Youtube"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -285,6 +285,20 @@
     hour: 18
     min: 0
   title: "勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 18
+    min: 30
+  title: "社築＆名伽尾アズマ＆緑仙 at:社築のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 19
+    min: 45
+  title: "卯月コウ at:Youtube VA-11 Hall-A Cyberpunk Bartender Action"
   end_time: 
   uri: 
 - date: 2018-11-04
