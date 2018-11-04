@@ -164,7 +164,21 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube ※Twitterネームより"
+  title: "鈴木勝 at:YouTube 5ヶ月振り返り"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 0
+    min: 46
+  title: "叶 at:YouTube PUPG"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 2
+    min: 35
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-05
@@ -172,6 +186,20 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 好きな朝食+和菓子"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube PUBG ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-11-05
@@ -355,6 +383,13 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 23
+    min: 45
+  title: "静凛 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-03
