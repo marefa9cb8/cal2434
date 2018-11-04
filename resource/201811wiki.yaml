@@ -261,8 +261,8 @@
   uri: 
 - date: 2018-11-04
   time:
-    hour: 12
-    min: 0
+    hour: 13
+    min: 40
   title: "ドーラ at:YouTube 作業"
   end_time: 
   uri: 
@@ -271,6 +271,13 @@
     hour: 14
     min: 0
   title: "卯月コウ at:Youtube 超パ感想,VA-11 Hall-A Cyberpunk Bartender Action"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 17
+    min: 0
+  title: "宇志海いちご at:?"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -298,6 +305,13 @@
   time:
     hour: 21
     min: 0
+  title: "伏見ガク at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 21
+    min: 0
   title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
@@ -306,6 +320,13 @@
     hour: 22
     min: 0
   title: "出雲霞＆飛鳥ひな at:出雲霞のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:YouTubeプレミア公開 「焼森のファンファーレ」full"
   end_time: 
   uri: 
 - date: 2018-11-04
