@@ -270,7 +270,7 @@
   time:
     hour: 14
     min: 0
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:Youtube 超パ感想,VA-11 Hall-A Cyberpunk Bartender Action"
   end_time: 
   uri: 
 - date: 2018-11-04
@@ -292,6 +292,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2018-11-04
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-04
