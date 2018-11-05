@@ -107,11 +107,11 @@
   title: "？時？分(昼)～ 安土桃 at:YouTube テロップ選手権"
   end_time: 
   uri: 
-- date: 2018-11-09
+- date: 2018-11-08
   time:
-    hour: 22
+    hour: 19
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: "神田笑一 at:YouTube Overwatch"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -156,6 +156,20 @@
     hour: 0
     min: 0
   title: "社築 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 17
+    min: 0
+  title: "神田笑一 at:YouTube Marvel's Spider-Man"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -261,7 +275,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:? ※Twitterネームより"
+  title: "える＆緑仙 at:?"
   end_time: 
   uri: 
 - date: 2018-11-04
