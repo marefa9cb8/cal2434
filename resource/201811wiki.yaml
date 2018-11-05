@@ -123,6 +123,20 @@
   uri: 
 - date: 2018-11-07
   time:
+    hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 1
+    min: 0
+  title: "舞元啓介 at:YouTube 7 Days to Die"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 夕やスミ 人狼"
@@ -151,6 +165,13 @@
     #6』"
   end_time: 
   uri: 
+- date: 2018-11-07
+  time:
+    hour: 22
+    min: 0
+  title: "伏見ガク at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
 - date: 2018-11-06
   time:
     hour: 0
@@ -162,14 +183,21 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:YouTube"
+  title: "神田笑一 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-06
   time:
     hour: 0
+    min: 5
+  title: "社築 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 16
     min: 0
-  title: "神田笑一 at:YouTube Dead by Daylight"
+  title: "八朔ゆず at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -203,7 +231,14 @@
 - date: 2018-11-06
   time:
     hour: 21
-    min: 0
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 21
+    min: 30
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -267,8 +302,8 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆叶＆葛葉＆天開司＆あっくん大魔王＆ふくやマスター＆ふぇありす＆ピーナッツくん at:各々のチャンネル Grand Theft Auto
-    ONLINE"
+  title: "渋谷ハジメ＆叶＆葛葉＆天開司＆あっくん大魔王＆ふくやマスター＆ふぇありす＆ピーナッツくん at:各々のYouTubeチャンネル Grand Theft
+    Auto ONLINE"
   end_time: 
   uri: 
 - date: 2018-11-05
@@ -304,6 +339,13 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube あくまのしわざ"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 22
+    min: 52
+  title: "海夜叉神＆白雪レイド＆先端恐怖症＆ねこ。 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-05
