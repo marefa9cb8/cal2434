@@ -155,6 +155,13 @@
   time:
     hour: 0
     min: 0
+  title: "おなえどし組（卯月コウ＆鈴木勝＆出雲霞） at:YouTube プレミア公開動画 おなえどしの文化発表会"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 0
+    min: 0
   title: "社築 at:YouTube"
   end_time: 
   uri: 
@@ -266,6 +273,20 @@
   uri: 
 - date: 2018-11-05
   time:
+    hour: 21
+    min: 30
+  title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube プレミア公開動画 Vtuber最協決定戦総集編"
+  end_time: 
+  uri: 
+- date: 2018-11-05
+  time:
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube あくまのしわざ"
@@ -275,7 +296,7 @@
   time:
     hour: 23
     min: 0
-  title: "える＆緑仙 at:?"
+  title: "える＆緑仙 at:緑仙のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-11-04
