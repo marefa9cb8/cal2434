@@ -107,6 +107,20 @@
   title: "？時？分(昼)～ 安土桃 at:YouTube テロップ選手権"
   end_time: 
   uri: 
+- date: 2018-11-09
+  time:
+    hour: 22
+    min: 0
+  title: "舞元啓介 at:? Getting Over It"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆？？？ at:?"
+  end_time: 
+  uri: 
 - date: 2018-11-08
   time:
     hour: 19
@@ -172,6 +186,20 @@
   title: "伏見ガク at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
+- date: 2018-11-07
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-11-06
   time:
     hour: 0
@@ -190,7 +218,14 @@
   time:
     hour: 0
     min: 5
-  title: "社築 at:YouTube"
+  title: "社築 at:YouTube OVIVO"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 0
+    min: 33
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -205,13 +240,6 @@
     hour: 17
     min: 0
   title: "神田笑一 at:YouTube Marvel's Spider-Man"
-  end_time: 
-  uri: 
-- date: 2018-11-06
-  time:
-    hour: 19
-    min: 0
-  title: "黒井しば at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -231,6 +259,13 @@
 - date: 2018-11-06
   time:
     hour: 21
+    min: 0
+  title: "第三回Vtuberモノマネ大会 at:ユキミお姉ちゃんのチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
   end_time: 
@@ -240,6 +275,13 @@
     hour: 21
     min: 30
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-05
