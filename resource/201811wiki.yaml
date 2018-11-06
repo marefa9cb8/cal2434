@@ -71,9 +71,23 @@
   uri: 
 - date: 2018-11-13
   time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆吟醸姉妹 ギン at:YouTube 渋谷カフェ：つなげようお客様の輪 第12回"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 20
+    min: 0
+  title: "静凛＆雪汝＆社築＆葛葉(録音) at:にじさんじ公式YouTubeチャンネル 第2回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -95,6 +109,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ポッキー(トッポ・プリッツ可)"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 21
+    min: 0
+  title: "すとろべあ(宇志海いちご＆森中花咲)+咎人(剣持刀也＆伏見ガク) at:宇志海いちごのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -133,6 +154,13 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube しーちゃんねる。"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -191,6 +219,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -288,7 +323,7 @@
   time:
     hour: 20
     min: 0
-  title: 12分～ 椎名唯華 at:YouTube ピクミン1
+  title: 12分～ 椎名唯華 at:YouTube ピクミン
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -316,7 +351,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -330,14 +365,21 @@
   time:
     hour: 22
     min: 0
-  title: "椎名唯華 at:YouTube ピクミン1"
+  title: "家長むぎ at:YouTube 殺戮の天使, 雑談"
   end_time: 
   uri: 
 - date: 2018-11-06
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "椎名唯華 at:YouTube ピクミン"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 22
+    min: 26
+  title: "海夜叉神 at:YouTube お悩み相談"
   end_time: 
   uri: 
 - date: 2018-11-06
