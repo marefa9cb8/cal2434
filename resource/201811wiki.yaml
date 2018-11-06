@@ -230,6 +230,20 @@
   uri: 
 - date: 2018-11-06
   time:
+    hour: 13
+    min: 29
+  title: "叶＆先端恐怖症 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
+    hour: 14
+    min: 31
+  title: "渋谷ハジメ at:OPENREC.tv League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-06
+  time:
     hour: 16
     min: 0
   title: "八朔ゆず at:YouTube 歌"
@@ -246,7 +260,7 @@
   time:
     hour: 18
     min: 0
-  title: "夕陽リリ at:?"
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-06
@@ -302,7 +316,7 @@
   time:
     hour: 21
     min: 30
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-06
