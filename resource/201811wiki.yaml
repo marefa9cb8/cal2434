@@ -120,6 +120,22 @@
   uri: 
 - date: 2018-11-14
   time:
+    hour: 21
+    min: 0
+  title: 'Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
+    にじさんじのくじじゅうじ #5'
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #7』"
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time:
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube"
@@ -221,6 +237,13 @@
   uri: 
 - date: 2018-11-09
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
     hour: 20
     min: 0
   title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート"
@@ -238,13 +261,6 @@
     hour: 22
     min: 0
   title: "舞元啓介 at:? Getting Over It"
-  end_time: 
-  uri: 
-- date: 2018-11-08
-  time:
-    hour: 0
-    min: 0
-  title: "椎名唯華 at:YouTube Wii リゾート"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -273,6 +289,13 @@
     hour: 20
     min: 0
   title: "夢追翔 at:YouTube MIX講座"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:YouTube Wii リゾート ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -349,7 +372,7 @@
   time:
     hour: 18
     min: 45
-  title: "剣持刀也 at:Mirrativ"
+  title: "月ノ美兎&樋口楓&える&物述有栖&剣持刀也 at:剣持刀也のMirrativ"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -393,7 +416,7 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:YouTube"
+  title: "伏見ガク at:YouTube Witch It"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -407,14 +430,22 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神＆ベルモンド・バンデラス＆黒井しば＆ユキミお姉ちゃん＆あっくん大魔王＆日ノ隈らん at:YouTube Minecraft"
+  title: "海夜叉神＆ベルモンド・バンデラス＆黒井しば＆ユキミお姉ちゃん＆あっくん大魔王＆日ノ隈らん at:海夜叉神、ベルモンド・バンデラスのYouTubeチャンネル
+    Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 22
+    min: 2
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-07
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-07
@@ -422,6 +453,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-07
+  time:
+    hour: 20
+    min: 47
+  title: ") 渋谷ハル at:渋谷ハルのＹｏｕＴｕｂｅチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2018-11-06
