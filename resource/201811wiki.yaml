@@ -222,7 +222,7 @@
   time:
     hour: 21
     min: 0
-  title: "すとろべあ(宇志海いちご＆森中花咲)+咎人(剣持刀也＆伏見ガク) at:宇志海いちごのYouTubeチャンネル"
+  title: "すとろべあ(宇志海いちご＆森中花咲)+†咎人†(剣持刀也＆伏見ガク) at:宇志海いちごのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -239,14 +239,14 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ ホットケーキ"
   end_time: 
   uri: 
 - date: 2018-11-09
   time:
     hour: 20
     min: 0
-  title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート"
+  title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -267,7 +267,28 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆黒井しば＆大空スバル＆テトラ at:YouTube Minecraft"
+  title: "舞元啓介＆黒井しば＆大空スバル＆テトラ at:各々のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 0
+    min: 32
+  title: "叶 at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 1
+    min: 26
+  title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 2
+    min: 30
+  title: "叶 at:YouTube OVERKILL's The Walking Dead"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -296,6 +317,13 @@
     hour: 21
     min: 0
   title: "椎名唯華 at:YouTube Wii リゾート ※0時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 22
+    min: 0
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-08
