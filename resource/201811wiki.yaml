@@ -199,6 +199,13 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 18
+    min: 0
+  title: "夕陽リリ at:YouTube 4万人記念 ※YouTube概要欄より"
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ"
@@ -216,6 +223,13 @@
     hour: 18
     min: 0
   title: "勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 19
+    min: 0
+  title: color(#64BCEE){};夕陽リリ at:YouTube クリーチャーと恋しよっ！ for乙女 ※YouTube概要欄より
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -240,6 +254,13 @@
 - date: 2018-11-10
   time: 
   title: "？時？分(昼)～ 安土桃 at:YouTube テロップ選手権"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -270,6 +291,13 @@
   title: "舞元啓介 at:YouTube Getting Over It"
   end_time: 
   uri: 
+- date: 2018-11-09
+  time:
+    hour: 22
+    min: 30
+  title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-11-08
   time:
     hour: 0
@@ -296,6 +324,13 @@
     hour: 2
     min: 30
   title: "叶 at:YouTube OVERKILL's The Walking Dead"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 14
+    min: 6
+  title: "叶＆SUMOMOXqX（すもも） at:OPENREC.tv PUBG"
   end_time: 
   uri: 
 - date: 2018-11-08
