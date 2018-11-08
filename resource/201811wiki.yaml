@@ -48,6 +48,13 @@
   title: "でびでび・でびる at:YouTube 映画紹介"
   end_time: 
   uri: 
+- date: 2018-11-24
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:?"
+  end_time: 
+  uri: 
 - date: 2018-11-23
   time:
     hour: 1
@@ -74,6 +81,13 @@
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 夕やスミ"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:?"
   end_time: 
   uri: 
 - date: 2018-11-20
@@ -109,6 +123,13 @@
     hour: 1
     min: 0
   title: "ドーラ at:YouTube Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:?"
   end_time: 
   uri: 
 - date: 2018-11-16
@@ -173,6 +194,13 @@
   time:
     hour: 20
     min: 0
+  title: "樋口楓 at:REALITY ぶいにゅーす！ ※REALITYタイムテーブルより"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 20
+    min: 0
   title: "静凛＆雪汝＆社築＆葛葉(録音) at:にじさんじ公式YouTubeチャンネル 第2回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
@@ -192,6 +220,13 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 12
     min: 0
   title: "ドーラ at:YouTube 作業"
@@ -206,6 +241,13 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 21
+    min: 0
+  title: "笹木咲 at:YouTube 最終回"
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ"
@@ -213,9 +255,37 @@
   uri: 
 - date: 2018-11-10
   time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube Dead by Daylight(or Overwatch)"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 12
+    min: 0
+  title: "安土桃 at:YouTube テロップ選手権"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ポッキー(トッポ・プリッツ可)"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 17
+    min: 0
+  title: "神田笑一 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -229,14 +299,21 @@
   time:
     hour: 19
     min: 0
-  title: color(#64BCEE){};夕陽リリ at:YouTube クリーチャーと恋しよっ！ for乙女 ※YouTube概要欄より
+  title: "夕陽リリ at:YouTube クリーチャーと恋しよっ！ for乙女 ※YouTube概要欄より"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube 夕やスミ 人狼"
   end_time: 
   uri: 
 - date: 2018-11-10
   time:
     hour: 20
     min: 0
-  title: "える at:REALITY ※REALITYタイムテーブルより"
+  title: "える at:REALITY"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -253,7 +330,7 @@
   uri: 
 - date: 2018-11-10
   time: 
-  title: "？時？分(昼)～ 安土桃 at:YouTube テロップ選手権"
+  title: "？時？分～ 安土桃 at:? 雑談"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -272,6 +349,13 @@
   uri: 
 - date: 2018-11-09
   time:
+    hour: 2
+    min: 0
+  title: "舞元啓介 at:YouTube テスト配信(Minecraft)"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ ホットケーキ"
@@ -282,6 +366,13 @@
     hour: 20
     min: 0
   title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 21
+    min: 0
+  title: "海夜叉神＆ふくやマスター＆先端恐怖症＆高生紳士＆日ノ隈らん＆巣籠ツル＆秋里夢女子 at:YouTube 人狼説明会"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -303,6 +394,13 @@
     hour: 22
     min: 30
   title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 23
+    min: 0
+  title: "叶＆赤羽葉子＆皆守ひいろ＆ふくやマスター at:?(各自配信) OVERKILL’s The Walking Dead ※1時間ほど遅れる可能性あり"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -379,21 +477,28 @@
   time:
     hour: 21
     min: 0
-  title: "椎名唯華 at:YouTube Wii リゾート ※0時から時間変更"
+  title: "椎名唯華 at:YouTube Wii Sports Resort ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2018-11-08
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: 12分～ シスター・クレア at:YouTube 新グッズ企画会議
   end_time: 
   uri: 
 - date: 2018-11-08
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube True or False 2"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 22
+    min: 0
+  title: "渋谷ハジメ＆ふくやマスター at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -414,7 +519,14 @@
   time:
     hour: 22
     min: 0
-  title: " 轟京子 at:YouTube Stardew Valley"
+  title: "轟京子 at:YouTube Stardew Valley"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 22
+    min: 45
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-11-08
@@ -429,6 +541,13 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube しーちゃんねる。"
+  end_time: 
+  uri: 
+- date: 2018-11-08
+  time:
+    hour: 23
+    min: 15
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-07
