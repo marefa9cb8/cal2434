@@ -342,16 +342,30 @@
   uri: 
 - date: 2018-11-09
   time:
+    hour: 0
+    min: 0
+  title: "叶 at:YouTube Undertale"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
     hour: 1
     min: 0
-  title: "黒井しば at:YouTube"
+  title: "黒井しば at:YouTube YUMENIKKI-DREAM DIARY"
   end_time: 
   uri: 
 - date: 2018-11-09
   time:
     hour: 2
-    min: 0
+    min: 2
   title: "舞元啓介 at:YouTube テスト配信(Minecraft)"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 2
+    min: 12
+  title: "静凛 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-09
