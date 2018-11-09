@@ -313,7 +313,21 @@
   time:
     hour: 0
     min: 0
-  title: "神田笑一 at:YouTube Dead by Daylight(or Overwatch)"
+  title: "神田笑一 at:YouTube Overwatch"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 1
+    min: 21
+  title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 2
+    min: 17
+  title: "渋谷ハジメ at:OPENREC.tv League of Legends"
   end_time: 
   uri: 
 - date: 2018-11-10
