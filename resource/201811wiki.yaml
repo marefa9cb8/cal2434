@@ -64,6 +64,13 @@
   uri: 
 - date: 2018-11-23
   time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル スナック瑠璃"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube"
@@ -283,6 +290,13 @@
   uri: 
 - date: 2018-11-10
   time:
+    hour: 13
+    min: 30
+  title: "安土桃 at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ポッキー(トッポ・プリッツ可)"
@@ -340,11 +354,6 @@
 - date: 2018-11-10
   time: 
   title: "？時？分～ 葛葉 at:? 誕生日配信"
-  end_time: 
-  uri: 
-- date: 2018-11-10
-  time: 
-  title: "？時？分～ 安土桃 at:? 雑談"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -415,6 +424,20 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 19
+    min: 34
+  title: "渋谷ハジメ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 19
+    min: 43
+  title: "鈴木勝(卯月コウ) at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-11-09
