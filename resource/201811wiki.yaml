@@ -405,9 +405,23 @@
   uri: 
 - date: 2018-11-09
   time:
+    hour: 13
+    min: 13
+  title: "渋谷ハジメ at:OPENREC.tv PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-09
+  time:
     hour: 20
     min: 0
-  title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート8 デラックス"
+  title: "笹木咲＆道明寺晴翔 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-11-09
