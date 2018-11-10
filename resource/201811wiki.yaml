@@ -276,6 +276,20 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 0
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 飲酒配信"
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
+    hour: 1
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 10
     min: 0
   title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
@@ -341,7 +355,7 @@
   time:
     hour: 10
     min: 0
-  title: "八朔ゆず at:?"
+  title: "八朔ゆず at:YouTube いちろ少年忌憚"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -402,9 +416,23 @@
   uri: 
 - date: 2018-11-10
   time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
     hour: 21
     min: 0
   title: "すとろべあ(宇志海いちご＆森中花咲)+†咎人†(剣持刀也＆伏見ガク) at:宇志海いちごのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -418,7 +446,14 @@
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:? 誕生日配信"
+  title: "家長むぎ at:YouTube 3D配信テスト"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube 嘘つき姫と盲目王子"
   end_time: 
   uri: 
 - date: 2018-11-09
@@ -558,7 +593,7 @@
   time:
     hour: 23
     min: 0
-  title: "叶＆赤羽葉子＆皆守ひいろ＆ふくやマスター at:OPENREC.tv(叶) OVERKILL’s The Walking Dead ※1時間ほど遅れる可能性あり"
+  title: "叶＆赤羽葉子＆皆守ひいろ＆ふくやマスター at:叶のOPENREC.tvチャンネル OVERKILL’s The Walking Dead ※1時間ほど遅れる可能性あり"
   end_time: 
   uri: 
 - date: 2018-11-08
