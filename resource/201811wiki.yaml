@@ -369,7 +369,7 @@
   time:
     hour: 13
     min: 30
-  title: "安土桃 at:? 雑談"
+  title: 06分～ 安土桃 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -377,6 +377,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ポッキー(トッポ・プリッツ可)"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 17
+    min: 0
+  title: "海夜叉神＆raito at:raitoのYouTubeチャンネル 大乱闘スマッシュブラザーズ"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -391,6 +398,13 @@
     hour: 18
     min: 0
   title: "勇気ちひろ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 18
+    min: 0
+  title: "叶＆稲荷くろむ at:OPENREC.tv バイオハザード6"
   end_time: 
   uri: 
 - date: 2018-11-10
