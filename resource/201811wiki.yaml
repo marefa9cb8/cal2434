@@ -381,16 +381,23 @@
   uri: 
 - date: 2018-11-10
   time:
-    hour: 17
+    hour: 15
     min: 0
-  title: "海夜叉神＆raito at:raitoのYouTubeチャンネル 大乱闘スマッシュブラザーズ"
+  title: "叶 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 16
+    min: 30
+  title: "神田笑一 at:YouTube FF14 17時から時間変更"
   end_time: 
   uri: 
 - date: 2018-11-10
   time:
     hour: 17
     min: 0
-  title: "神田笑一 at:YouTube FF14"
+  title: "海夜叉神＆Raito at:RaitoのYouTubeチャンネル 大乱闘スマッシュブラザーズ"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -411,7 +418,7 @@
   time:
     hour: 19
     min: 0
-  title: "夕陽リリ at:YouTube クリーチャーと恋しよっ！ for乙女 ※YouTube概要欄より"
+  title: "夕陽リリ at:YouTube クリーチャーと恋しよっ！ for乙女"
   end_time: 
   uri: 
 - date: 2018-11-10
@@ -440,6 +447,13 @@
     hour: 21
     min: 0
   title: "すとろべあ(宇志海いちご＆森中花咲)+†咎人†(剣持刀也＆伏見ガク) at:宇志海いちごのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-10
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-10
