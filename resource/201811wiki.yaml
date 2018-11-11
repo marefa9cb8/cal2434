@@ -271,7 +271,7 @@
   time:
     hour: 0
     min: 20
-  title: "叶 at:YouTube PUPG"
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -279,6 +279,20 @@
     hour: 0
     min: 32
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 2
+    min: 1
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 2
+    min: 20
+  title: "静凛 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-12
