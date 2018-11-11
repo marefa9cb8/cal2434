@@ -430,16 +430,9 @@
   uri: 
 - date: 2018-11-11
   time:
-    hour: 22
-    min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ"
-  end_time: 
-  uri: 
-- date: 2018-11-11
-  time:
-    hour: 22
-    min: 0
-  title: "叶＆ふくやマスター at:?"
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-11
@@ -451,6 +444,13 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 22
+    min: 0
+  title: 44分～ 勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube ※Twitterネームより"
@@ -458,9 +458,16 @@
   uri: 
 - date: 2018-11-11
   time:
+    hour: 22
+    min: 0
+  title: 23時02分～ 叶＆ふくやマスター at:Youtube
+  end_time: 
+  uri: 
+- date: 2018-11-11
+  time:
     hour: 23
     min: 0
-  title: "椎名唯華 at:YouTube 雑談、マシュマロ返し"
+  title: "椎名唯華 at:YouTube 雑談、マシュマロ返し ※12日に延期"
   end_time: 
   uri: 
 - date: 2018-11-10
