@@ -269,6 +269,20 @@
   uri: 
 - date: 2018-11-12
   time:
+    hour: 0
+    min: 20
+  title: "叶 at:YouTube PUPG"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 0
+    min: 32
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ チキン系"
@@ -446,7 +460,7 @@
   time:
     hour: 22
     min: 0
-  title: 44分～ 勇気ちひろ＆鈴谷アキ at:YouTube まほうのすずラジオ
+  title: 44分～ 勇気ちひろ＆鈴谷アキ＆渋谷ハジメ at:YouTube まほうのすずラジオ
   end_time: 
   uri: 
 - date: 2018-11-11
