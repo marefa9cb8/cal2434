@@ -155,6 +155,20 @@
   uri: 
 - date: 2018-11-18
   time:
+    hour: 0
+    min: 30
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
     hour: 14
     min: 0
   title: "みかえる(月ノ美兎＆樋口楓＆える) at:cluster バーチャルハロウィン リベンジ"
@@ -165,6 +179,13 @@
     hour: 20
     min: 0
   title: "月ノ美兎＆静凛＆える at:REALITY ※11/10えるの配信にて告知"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
+    hour: 21
+    min: 0
+  title: "モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症 at:YouTube 神社で神狼"
   end_time: 
   uri: 
 - date: 2018-11-17
@@ -183,9 +204,23 @@
   uri: 
 - date: 2018-11-17
   time:
+    hour: 9
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
     hour: 10
     min: 0
   title: "八朔ゆず at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 11
+    min: 0
+  title: "安土桃＆神田笑一 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-11-17
@@ -209,11 +244,32 @@
   title: "ドーラ at:YouTube 外郎売読み"
   end_time: 
   uri: 
+- date: 2018-11-16
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-15
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube Overwatch"
+  end_time: 
+  uri: 
 - date: 2018-11-15
   time:
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-15
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-14
@@ -246,11 +302,32 @@
   title: "出雲霞 at:YouTube case:03 うぉっちみー 質疑応答"
   end_time: 
   uri: 
+- date: 2018-11-14
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-11-13
   time:
     hour: 0
     min: 0
   title: "剣持刀也 at:? ホラーゲーム"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 17
+    min: 0
+  title: "神田笑一 at:YouTube Marvel's Spider-Man"
   end_time: 
   uri: 
 - date: 2018-11-13
@@ -285,7 +362,28 @@
   time:
     hour: 22
     min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 22
+    min: 0
   title: "出雲霞 at:YouTube case:02 つーかい！ 物申す配信"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 23
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず+舞元啓介 at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -369,7 +467,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube PUBG"
+  title: "桜凛月 at:YouTube PUBG(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -383,7 +481,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 歌"
+  title: "ドーラ at:YouTube 歌 ※"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -432,6 +530,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 23
+    min: 0
   title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
@@ -453,7 +558,7 @@
   time:
     hour: 1
     min: 0
-  title: "鈴鹿詩子 at:Mirrativ"
+  title: 23分～ 鈴鹿詩子 at:Mirrativ
   end_time: 
   uri: 
 - date: 2018-11-11
