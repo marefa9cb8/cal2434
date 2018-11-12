@@ -188,6 +188,16 @@
   title: "モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症 at:YouTube 神社で神狼"
   end_time: 
   uri: 
+- date: 2018-11-18
+  time: 
+  title: "？時？分(昼)～ 渋谷ハジメ at:? バイオハザード4"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time: 
+  title: "？時？分(夜)～ 渋谷ハジメ at:? PUBG or League of Legends"
+  end_time: 
+  uri: 
 - date: 2018-11-17
   time:
     hour: 0
@@ -232,6 +242,13 @@
   uri: 
 - date: 2018-11-16
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:? ポケモン ※11/12の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2018-11-16
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ カレー"
@@ -249,6 +266,16 @@
     hour: 22
     min: 0
   title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-16
+  time: 
+  title: "？時？分(昼)～ 渋谷ハジメ at:? Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-11-16
+  time: 
+  title: "？時？分(夜)～ 渋谷ハジメ at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-11-15
@@ -272,6 +299,16 @@
   title: "春崎エアル at:YouTube"
   end_time: 
   uri: 
+- date: 2018-11-15
+  time: 
+  title: "？時？分(昼)～ 渋谷ハジメ at:? バイオハザード6"
+  end_time: 
+  uri: 
+- date: 2018-11-15
+  time: 
+  title: "？時？分(夜)～ 渋谷ハジメ at:? 雑談"
+  end_time: 
+  uri: 
 - date: 2018-11-14
   time:
     hour: 21
@@ -292,6 +329,13 @@
   time:
     hour: 22
     min: 0
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆花芽すみれ＆花芽なずな at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time:
+    hour: 22
+    min: 0
   title: "伏見ガク at:YouTube"
   end_time: 
   uri: 
@@ -306,14 +350,26 @@
   time:
     hour: 22
     min: 0
+  title: "社築 at:YouTube beatmaniaⅡDX"
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time:
+    hour: 22
+    min: 0
   title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time: 
+  title: "？時？分(昼)～ 渋谷ハジメ at:? League of Legends"
   end_time: 
   uri: 
 - date: 2018-11-13
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:? ホラーゲーム"
+  title: "剣持刀也 at:YouTube Home Sweet Home"
   end_time: 
   uri: 
 - date: 2018-11-13
@@ -328,6 +384,13 @@
     hour: 17
     min: 0
   title: "神田笑一 at:YouTube Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 18
+    min: 0
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-13
@@ -384,6 +447,11 @@
     hour: 23
     min: 0
   title: "名伽尾アズマ＆八朔ゆず+舞元啓介 at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time: 
+  title: "？時？分(昼)～ 渋谷ハジメ(渋谷オワリ) at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -480,29 +548,50 @@
 - date: 2018-11-12
   time:
     hour: 21
-    min: 0
-  title: "ドーラ at:YouTube 歌 ※"
+    min: 5
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-12
   time:
     hour: 21
     min: 0
-  title: "椎名唯華 at:YouTube マシュマロ返し"
+  title: 15分～ ドーラ at:YouTube 歌(米津玄師・ハチ縛り) ※
   end_time: 
   uri: 
 - date: 2018-11-12
   time:
     hour: 21
     min: 0
-  title: "春崎エアル at:YouTube"
+  title: 16分～ 椎名唯華 at:YouTube マシュマロ返し
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 21
+    min: 19
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 21
+    min: 0
+  title: 24分～ 春崎エアル at:YouTube 紅茶選び ※
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 21
+    min: 26
+  title: "静凛＆雪汝＆社築葛葉(録音) at:社築のYouTubeチャンネル 第2回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2018-11-12
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -522,8 +611,15 @@
 - date: 2018-11-12
   time:
     hour: 22
+    min: 0
+  title: "シスター・クレア at:YouTube バイノーラルテスト"
+  end_time: 
+  uri: 
+- date: 2018-11-12
+  time:
+    hour: 22
     min: 40
-  title: "飛鳥ひな at:YouTube"
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-12
@@ -537,7 +633,7 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Catlateral Damage（にゃんこラテラル・ダメージ）"
   end_time: 
   uri: 
 - date: 2018-11-11
