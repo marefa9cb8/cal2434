@@ -349,6 +349,11 @@
   title: "？時？分～ 椎名唯華&花畑チャイカ at:? レジスタンスラジオ ※11/12椎名唯華の配信にて告知"
   end_time: 
   uri: 
+- date: 2018-11-15
+  time: 
+  title: "？時？分～ 雪汝 at:? ヒットマン2"
+  end_time: 
+  uri: 
 - date: 2018-11-14
   time:
     hour: 21
@@ -465,13 +470,6 @@
   time:
     hour: 20
     min: 0
-  title: "卯月コウ at:YouTube 激くさツイート作戦"
-  end_time: 
-  uri: 
-- date: 2018-11-13
-  time:
-    hour: 20
-    min: 0
   title: "月見しずく at:YouTube 雑談"
   end_time: 
   uri: 
@@ -487,6 +485,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:Mirrativ お料理(オムライス)"
+  end_time: 
+  uri: 
+- date: 2018-11-13
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube 激くさツイート作戦 ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2018-11-13
