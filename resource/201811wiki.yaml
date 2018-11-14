@@ -409,14 +409,14 @@
   time:
     hour: 1
     min: 58
-  title: "渋谷ハジメ at:YouTube PUPG"
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-14
   time:
     hour: 2
     min: 12
-  title: "静凛 at:YouTube PUPG"
+  title: "静凛 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-14
@@ -496,6 +496,13 @@
     hour: 22
     min: 0
   title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-14
+  time:
+    hour: 22
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-14
@@ -1791,7 +1798,7 @@
   time:
     hour: 0
     min: 46
-  title: "叶 at:YouTube PUPG"
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-05
