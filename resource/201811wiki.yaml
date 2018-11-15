@@ -338,7 +338,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? ポケモン"
+  title: "椎名唯華 at:? ポケモンレッツゴー"
   end_time: 
   uri: 
 - date: 2018-11-16
@@ -444,6 +444,13 @@
   uri: 
 - date: 2018-11-15
   time:
+    hour: 13
+    min: 34
+  title: "雪汝 at:YouTube ヒットマン2"
+  end_time: 
+  uri: 
+- date: 2018-11-15
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ at:YouTube"
@@ -501,17 +508,12 @@
   uri: 
 - date: 2018-11-15
   time: 
-  title: "？時？分(昼)～ 渋谷ハジメ at:? バイオハザード6"
+  title: "？時？分(昼)～ 渋谷ハジメ at:? バイオハザード6 ※中止"
   end_time: 
   uri: 
 - date: 2018-11-15
   time: 
-  title: "？時？分(夜)～ 渋谷ハジメ at:? 雑談"
-  end_time: 
-  uri: 
-- date: 2018-11-15
-  time: 
-  title: "？時？分～ 雪汝 at:? ヒットマン2"
+  title: "？時？分(夜)～ 渋谷ハジメ at:? 雑談 ※19時半コラボに変更"
   end_time: 
   uri: 
 - date: 2018-11-14
