@@ -104,6 +104,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181121T210000
+SUMMARY:Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス にじさんじのくじじゅうじ #6
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181121T210000
+SUMMARY:椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日) #8』
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181120T100000
 SUMMARY:八朔ゆず at:?
 URL:
@@ -279,7 +291,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181116T000000
-SUMMARY:椎名唯華 at:? ポケモン ※11/12の配信にて告知
+SUMMARY:椎名唯華 at:? ポケモン
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181116T000000
+SUMMARY:矢車りね at:Mirrativ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -344,7 +362,7 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181115T022600
+DTSTART;TZID=Asia/Tokyo:20181115T022400
 SUMMARY:静凛 at:YouTube Minecraft
 URL:
 DESCRIPTION:
@@ -357,7 +375,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181115T023700
-SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:宇森ひなこのYouTube League of Legends
+SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:宇森ひなこのYouTubeチャンネル League of Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181115T031600
+SUMMARY:渋谷ハジメ at:YouTube League of Legends
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -374,8 +398,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181115T193000
+SUMMARY:渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆日ノ隈らん＆神楽めあ＆天羽よつは at:? League of Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181115T200000
-SUMMARY:まじかるどーるイケボ祭り（ゲスト:剣持刀也＆叶＆天開司＆歌衣メイカ＆Fate＆ちはやYTS3＆ウル＝ケン･ノース） at:まじかるどーるのYouTubeチャンネル マリオカート8 デラックス
+SUMMARY:まじかるどーるイケボ祭り（ゲスト:剣持刀也＆叶＆天開司＆歌衣メイカ＆Fate＆ちはやYTS3＆ウル＝ケン･ノース） at:まじかるどーる / Magical DollのYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -388,6 +418,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181115T220000
 SUMMARY:春崎エアル at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181115T230000
+SUMMARY:椎名唯華＆花畑チャイカ at:? レジスタンスラジオ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -406,12 +442,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181115
 SUMMARY:？時？分(夜)～ 渋谷ハジメ at:? 雑談
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181115
-SUMMARY:？時？分～ 椎名唯華&花畑チャイカ at:? レジスタンスラジオ ※11/12椎名唯華の配信にて告知
 URL:
 DESCRIPTION:
 END:VEVENT
