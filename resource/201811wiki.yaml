@@ -69,6 +69,11 @@
   title: "八朔ゆず at:?"
   end_time: 
   uri: 
+- date: 2018-11-24
+  time: 
+  title: "？時？分～ ロリ組(勇気ちひろ＆宇志海いちご＆物述有栖＆森中花咲) at:勇気ちひろのYouTubeチャンネル ※11/16物述有栖の配信で告知"
+  end_time: 
+  uri: 
 - date: 2018-11-23
   time:
     hour: 1
@@ -182,6 +187,13 @@
     hour: 22
     min: 40
   title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
+    hour: 23
+    min: 0
+  title: "名伽尾アズマ at:YouTube ※20時からのコラボに変更"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -298,6 +310,13 @@
   end_time: 
   uri: 
 - date: 2018-11-18
+  time:
+    hour: 23
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-18
   time: 
   title: "？時？分(昼)～ 渋谷ハジメ at:? バイオハザード4"
   end_time: 
@@ -330,9 +349,16 @@
   uri: 
 - date: 2018-11-17
   time:
+    hour: 0
+    min: 50
+  title: "シスター・クレア at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:? 4万人企画会議"
+  title: "椎名唯華 at:YouTube 4万人企画会議 ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-17
@@ -340,6 +366,20 @@
     hour: 1
     min: 0
   title: "ドーラ at:YouTube Marvel's Spider-Man"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 1
+    min: 30
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 2
+    min: 0
+  title: "成瀬鳴 at:Mirrativ 青鬼"
   end_time: 
   uri: 
 - date: 2018-11-17
@@ -402,7 +442,7 @@
   time:
     hour: 22
     min: 0
-  title: 1期生コラボ（月ノ美兎＆樋口楓＆静凛＆＆える＆モイラ＆渋谷ハジメ＆鈴谷アキ＆勇気ちひろ） at:にじさんじ公式YouTubeチャンネル たほいや
+  title: 1期生コラボ（月ノ美兎＆樋口楓＆静凛＆える＆モイラ＆渋谷ハジメ＆鈴谷アキ＆勇気ちひろ） at:にじさんじ公式YouTubeチャンネル たほいや
   end_time: 
   uri: 
 - date: 2018-11-17
