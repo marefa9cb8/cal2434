@@ -207,7 +207,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube 雑談 ※中止"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -247,6 +247,13 @@
   uri: 
 - date: 2018-11-18
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
     hour: 10
     min: 0
   title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
@@ -264,6 +271,13 @@
     hour: 14
     min: 0
   title: "叶＆赤羽葉子＆皆守ひいろ＆ふくやマスター at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
+    hour: 16
+    min: 0
+  title: "ドーラ at:YouTube ベイマックス同時視聴"
   end_time: 
   uri: 
 - date: 2018-11-18
@@ -406,15 +420,15 @@
 - date: 2018-11-17
   time:
     hour: 9
-    min: 35
-  title: "シスター・クレア at:YouTube 歌"
+    min: 0
+  title: "春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-17
   time:
     hour: 9
-    min: 0
-  title: "春崎エアル at:YouTube"
+    min: 35
+  title: "シスター・クレア at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-11-17
@@ -434,8 +448,29 @@
 - date: 2018-11-17
   time:
     hour: 14
+    min: 0
+  title: "安土桃＆緑仙 at:安土桃のYouTubeチャンネル お絵かき"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ フィナンシェ"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 14
+    min: 37
+  title: "宇志海いちご at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 16
+    min: 0
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-17
