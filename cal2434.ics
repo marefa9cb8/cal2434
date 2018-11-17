@@ -273,7 +273,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181118T210000
-SUMMARY:モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症＆？？？ at:海夜叉神のYouTubeチャンネル 神社で神狼
+SUMMARY:モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症＆ケリン at:海夜叉神のYouTubeチャンネル 神社で神狼
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -447,13 +447,25 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181117T190000
-SUMMARY:春崎エアル＆成瀬鳴 at:?
+SUMMARY:春崎エアル＆成瀬鳴 at:春崎エアルのYouTubeチャンネル
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181117T194500
-SUMMARY:夕陽リリ＆？？？ at:YouTube ガールズ＆パンツァー一挙放送同時視聴
+SUMMARY:夕陽リリ＆宇志海いちご＆伏見ガク＆森中花咲 at:夕陽リリのYouTubeチャンネル ガールズ＆パンツァー一挙放送同時視聴
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181117T200800
+SUMMARY:静凛 at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181117T202500
+SUMMARY:叶 at:YouTube PUBG
 URL:
 DESCRIPTION:
 END:VEVENT

@@ -319,7 +319,7 @@
   time:
     hour: 21
     min: 0
-  title: "モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症＆？？？ at:海夜叉神のYouTubeチャンネル
+  title: "モイラ＆海夜叉神＆卯月コウ＆巣籠ツル＆皆守ひいろ＆高生紳士＆秋里夢女子＆天開司＆日ノ隈らん＆ふくやマスター＆先端恐怖症＆ケリン at:海夜叉神のYouTubeチャンネル
     神社で神狼"
   end_time: 
   uri: 
@@ -519,14 +519,28 @@
   time:
     hour: 19
     min: 0
-  title: "春崎エアル＆成瀬鳴 at:?"
+  title: "春崎エアル＆成瀬鳴 at:春崎エアルのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-11-17
   time:
     hour: 19
     min: 45
-  title: "夕陽リリ＆？？？ at:YouTube ガールズ＆パンツァー一挙放送同時視聴"
+  title: "夕陽リリ＆宇志海いちご＆伏見ガク＆森中花咲 at:夕陽リリのYouTubeチャンネル ガールズ＆パンツァー一挙放送同時視聴"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 20
+    min: 8
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-17
+  time:
+    hour: 20
+    min: 25
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-17
