@@ -196,6 +196,11 @@
   title: "名伽尾アズマ at:YouTube ※20時からのコラボに変更"
   end_time: 
   uri: 
+- date: 2018-11-20
+  time: 
+  title: "??時??分～ JK組(月ノ美兎＆静凛＆樋口楓) at:樋口楓のYouTubeチャンネル ※11/17の1期生コラボにて告知"
+  end_time: 
+  uri: 
 - date: 2018-11-19
   time:
     hour: 6
@@ -235,7 +240,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube マリオカート"
+  title: "剣持刀也 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-11-18
@@ -249,7 +254,7 @@
   time:
     hour: 0
     min: 30
-  title: "春崎エアル at:YouTube"
+  title: 51分～ 春崎エアル at:YouTube バイノーラル
   end_time: 
   uri: 
 - date: 2018-11-18
@@ -263,14 +268,14 @@
   time:
     hour: 1
     min: 0
-  title: "緑仙 at:YouTube 歌 ※Twitterネームより"
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-11-18
   time:
     hour: 1
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube 影廊 -Shadow Corridor-"
   end_time: 
   uri: 
 - date: 2018-11-18
@@ -319,7 +324,14 @@
   time:
     hour: 20
     min: 0
-  title: "月ノ美兎＆静凛＆える at:REALITY ※11/10えるの配信にて告知"
+  title: "月ノ美兎＆静凛＆える at:REALITY"
+  end_time: 
+  uri: 
+- date: 2018-11-18
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube 簡単3D配信 ※11/17の1期生コラボにて告知"
   end_time: 
   uri: 
 - date: 2018-11-18
