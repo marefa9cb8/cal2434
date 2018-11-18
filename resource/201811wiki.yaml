@@ -241,8 +241,50 @@
 - date: 2018-11-19
   time:
     hour: 1
+    min: 0
+  title: "雪汝 at:YouTube プレミア公開動画 ヒットマン2 (朝7時から時間変更)"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 1
     min: 5
   title: "モイラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 3
+    min: 4
+  title: "渋谷ブラザーズ(渋谷ハジメ＆渋谷ハル) at:渋谷ハルのYouTubeチャンネル 歌枠"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 3
+    min: 36
+  title: "ギルザレンIII世 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 4
+    min: 8
+  title: "葛葉 at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 4
+    min: 13
+  title: "安土桃 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 4
+    min: 30
+  title: "渋谷ハジメ at:YouTube PUPG"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -255,15 +297,15 @@
 - date: 2018-11-19
   time:
     hour: 7
-    min: 0
-  title: "雪汝 at:YouTube プレミア公開動画 ヒットマン2"
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
   end_time: 
   uri: 
 - date: 2018-11-19
   time:
-    hour: 7
-    min: 30
-  title: "出雲霞 at:YouTube いずもーにんぐ"
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -299,6 +341,13 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube あくまのしょくじ"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華 at:YouTube マシュマロ雑談"
   end_time: 
   uri: 
 - date: 2018-11-19
