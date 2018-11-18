@@ -171,6 +171,13 @@
   uri: 
 - date: 2018-11-20
   time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:Mirrativ 料理"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube"
@@ -221,7 +228,21 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ 取りやめ"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 0
+    min: 25
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 1
+    min: 5
+  title: "モイラ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -229,6 +250,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ コーンフレーク"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 7
+    min: 0
+  title: "雪汝 at:YouTube プレミア公開動画 ヒットマン2"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -261,9 +289,23 @@
   uri: 
 - date: 2018-11-19
   time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube あくまのしょくじ"
+  end_time: 
+  uri: 
+- date: 2018-11-19
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-19
@@ -494,7 +536,7 @@
   time:
     hour: 23
     min: 0
-  title: "雪汝 at:YouTube プレミア公開動画 ヒットマン2 ※23時に変更"
+  title: "雪汝 at:YouTube プレミア公開動画 ヒットマン2 ※23時に変更 ※19日に変更"
   end_time: 
   uri: 
 - date: 2018-11-18
