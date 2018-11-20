@@ -340,6 +340,13 @@
   uri: 
 - date: 2018-11-20
   time:
+    hour: 13
+    min: 32
+  title: "神田笑一 at:YouTube テスト配信(スプラトゥーン2, ゼルダの伝説 ブレス オブ ザ ワイルド)"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
     hour: 16
     min: 0
   title: "八朔ゆず at:YouTube ※中止"
@@ -363,7 +370,7 @@
   time:
     hour: 19
     min: 0
-  title: "文野環 at:?"
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-20
@@ -419,6 +426,13 @@
 - date: 2018-11-20
   time:
     hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
+    hour: 22
     min: 40
   title: "飛鳥ひな at:YouTube バイノーラル"
   end_time: 
@@ -435,11 +449,6 @@
     hour: 23
     min: 0
   title: "名伽尾アズマ at:YouTube ※20時からのコラボに変更"
-  end_time: 
-  uri: 
-- date: 2018-11-20
-  time: 
-  title: "？時？分(夜)～ 海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-19
