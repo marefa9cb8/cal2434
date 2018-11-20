@@ -324,6 +324,13 @@
   uri: 
 - date: 2018-11-21
   time:
+    hour: 5
+    min: 37
+  title: "渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 夕やスミ"
@@ -385,6 +392,13 @@
     hour: 23
     min: 0
   title: "飛鳥ひな＆春崎エアル＆美影ルクス at:飛鳥ひなのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-21
