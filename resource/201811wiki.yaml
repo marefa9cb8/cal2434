@@ -83,6 +83,13 @@
   title: "轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
+- date: 2018-11-25
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #3"
+  end_time: 
+  uri: 
 - date: 2018-11-24
   time:
     hour: 0
@@ -131,6 +138,13 @@
     min: 0
   title: "渋谷ハジメ＆渋谷ハル＆日ノ隈らん＆天羽よつは＆神楽めあ at:魔族ちゃんねる[游] Gaming(YouTube),サブ配信(ニコニコ生放送)
     VTuberだらけのLoL天下一武道会"
+  end_time: 
+  uri: 
+- date: 2018-11-24
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #4"
   end_time: 
   uri: 
 - date: 2018-11-24
@@ -215,6 +229,20 @@
     hour: 1
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 17
+    min: 30
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆鈴谷アキ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -315,6 +343,13 @@
     hour: 22
     min: 0
   title: "名伽尾アズマ＆八朔ゆず+ドーラ at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-21
@@ -490,7 +525,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-20
@@ -505,6 +540,13 @@
     hour: 22
     min: 0
   title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-20
+  time:
+    hour: 22
+    min: 22
+  title: "葛葉 at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2018-11-20
