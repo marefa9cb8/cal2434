@@ -240,6 +240,13 @@
   uri: 
 - date: 2018-11-22
   time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ&伏見ガク at:YouTube Hide and Shriek"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆鈴谷アキ at:YouTube Minecraft"
@@ -284,7 +291,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube"
+  title: "鈴木勝 at:YouTube SEEDsシェアハウス 屋根裏男子（？）会議"
   end_time: 
   uri: 
 - date: 2018-11-21
@@ -292,6 +299,27 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 1
+    min: 6
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 1
+    min: 26
+  title: "安土桃 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 2
+    min: 27
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-21
