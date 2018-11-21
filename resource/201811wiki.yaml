@@ -338,6 +338,27 @@
   uri: 
 - date: 2018-11-22
   time:
+    hour: 2
+    min: 52
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 3
+    min: 0
+  title: "雨森小夜 at:YouTube 朗読"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 3
+    min: 27
+  title: "でびでび・でびる at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ at:YouTube"
