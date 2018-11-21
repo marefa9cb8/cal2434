@@ -22,6 +22,22 @@
   uri: 
 - date: 2018-11-28
   time:
+    hour: 21
+    min: 0
+  title: 'Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
+    にじさんじのくじじゅうじ #7'
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #9』"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube"
@@ -101,7 +117,7 @@
   time:
     hour: 18
     min: 0
-  title: にじさんじゲーム合戦「FAITH」"カルバヌス"サーバー(視聴者参加型) at:?
+  title: にじさんじゲーム合戦 at:? FAITH "カルバヌス"サーバー(視聴者参加型)
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -263,7 +279,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ ※中止"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -461,14 +477,21 @@
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+ドーラ at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  title: "名伽尾アズマ＆八朔ゆず+ドーラ at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-11-21
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube Hidden Folks"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 振り返り反省会"
   end_time: 
   uri: 
 - date: 2018-11-21
@@ -489,7 +512,7 @@
   time:
     hour: 23
     min: 30
-  title: "赤羽葉子 at:? 新衣装お披露目"
+  title: "赤羽葉子 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-11-20
