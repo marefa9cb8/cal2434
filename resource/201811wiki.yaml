@@ -212,6 +212,13 @@
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
+- date: 2018-11-24
+  time:
+    hour: 23
+    min: 0
+  title: "赤羽葉子+ゲーマーズ(不明) at:? ※11/21配信で告知"
+  end_time: 
+  uri: 
 - date: 2018-11-23
   time:
     hour: 1
@@ -263,6 +270,13 @@
   uri: 
 - date: 2018-11-23
   time:
+    hour: 21
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:社築のYouTubeチャンネル 誕生日配信
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube 歌"
@@ -273,6 +287,11 @@
     hour: 23
     min: 0
   title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time: 
+  title: "？時？分(夕方)～ 叶＆赤羽葉子 at:? 活動半年記念"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -286,7 +305,28 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆白上フブキ＆大空スバル＆天開司 at:大空スバルのYouTubeチャンネル マリオカート8 デラックス"
+  title: "舞元啓介＆白上フブキ＆大空スバル＆天開司 at:白上フブキ、大空スバル、天開司のチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 0
+    min: 12
+  title: "鷹宮リオン＆でびでび・でびる＆湊あくあ at:鷹宮リオンのYouTubeチャンネル League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 0
+    min: 15
+  title: "鳴門こがね at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 1
+    min: 0
+  title: "叶＆ふぇありす at:YouTube Minecraft, Realm Royale ※2時から時間変更"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -294,13 +334,6 @@
     hour: 1
     min: 0
   title: "黒井しば at:YouTube YUMENIKKI-DREAM DIARY"
-  end_time: 
-  uri: 
-- date: 2018-11-22
-  time:
-    hour: 2
-    min: 0
-  title: "叶＆ふぇありす at:?"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -314,7 +347,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ&伏見ガク at:YouTube Hide and Shriek"
+  title: "楽陽(夕陽リリ&伏見ガク) at:YouTube Hide and Shriek"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -335,7 +368,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり＆葛葉＆ドーラ＆社築 at:YouTube"
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -343,6 +376,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube Ben and Ed"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 22
+    min: 0
+  title: "夢追翔 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -513,6 +553,13 @@
     hour: 23
     min: 30
   title: "赤羽葉子 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-11-21
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-20
