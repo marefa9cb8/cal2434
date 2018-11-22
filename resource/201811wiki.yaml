@@ -101,6 +101,13 @@
   uri: 
 - date: 2018-11-26
   time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア＆犬山たまき at:犬山たまきのYouTubeチャンネル 漫画アフレコ"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 映画紹介"
@@ -245,6 +252,13 @@
     hour: 23
     min: 0
   title: "赤羽葉子+ゲーマーズ(不明) at:? ※11/21配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 0
+    min: 0
+  title: "?～ 剣持刀也 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2018-11-23
@@ -417,14 +431,21 @@
   time:
     hour: 16
     min: 0
-  title: "渋谷ハジメ at:YouTube ポケットモンスター Let's Go! イーブイ"
+  title: 22分～ 渋谷ハジメ at:YouTube ポケットモンスター Let's Go! イーブイ
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 17
+    min: 41
+  title: "町田ちま at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-11-22
   time:
     hour: 17
     min: 30
-  title: "夕陽リリ at:YouTube"
+  title: 55分～ 夕陽リリ at:YouTube
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -453,6 +474,13 @@
     hour: 21
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 22
+    min: 0
+  title: "える at:YouTube よし子 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-11-22
