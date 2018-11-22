@@ -52,6 +52,13 @@
   uri: 
 - date: 2018-11-27
   time:
+    hour: 20
+    min: 0
+  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:PUBG PARK公式OPENREC.tvチャンネル PUBG PARK SANHOK #6"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
@@ -69,6 +76,13 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ＆ユキミお姉ちゃん at:? 「劇場版コードギアス Ⅱ 叛道」感想会"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -134,6 +148,13 @@
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #3"
   end_time: 
   uri: 
+- date: 2018-11-25
+  time:
+    hour: 23
+    min: 0
+  title: "夕陽リリ at:? ※YouTube概要欄より"
+  end_time: 
+  uri: 
 - date: 2018-11-24
   time:
     hour: 0
@@ -194,6 +215,13 @@
 - date: 2018-11-24
   time:
     hour: 21
+    min: 0
+  title: "夕陽リリ at:? ※YouTube概要欄より"
+  end_time: 
+  uri: 
+- date: 2018-11-24
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube Suzuno ne kocafe #4"
   end_time: 
@@ -228,6 +256,13 @@
   uri: 
 - date: 2018-11-23
   time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -249,6 +284,13 @@
   uri: 
 - date: 2018-11-23
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
     hour: 20
     min: 0
   title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル スナック瑠璃"
@@ -259,6 +301,13 @@
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube ポケットモンスター Let's Go! イーブイ ※中止"
   end_time: 
   uri: 
 - date: 2018-11-23
@@ -286,7 +335,14 @@
   time:
     hour: 23
     min: 0
-  title: "本間ひまわり at:?"
+  title: "本間ひまわり at:? 中止"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 23
+    min: 0
+  title: "ジョー・力一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-23
@@ -359,6 +415,13 @@
   uri: 
 - date: 2018-11-22
   time:
+    hour: 16
+    min: 0
+  title: "渋谷ハジメ at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ at:YouTube"
@@ -382,7 +445,7 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube ※24時プレミア公開動画に変更"
   end_time: 
   uri: 
 - date: 2018-11-22
@@ -403,7 +466,7 @@
   time:
     hour: 22
     min: 0
-  title: "夢追翔 at:YouTube"
+  title: "夢追翔 at:YouTube 架空CMソング作り"
   end_time: 
   uri: 
 - date: 2018-11-22
