@@ -23,6 +23,13 @@
   uri: 
 - date: 2018-11-29
   time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube マビノギ"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube"
@@ -278,9 +285,16 @@
   uri: 
 - date: 2018-11-23
   time:
-    hour: 1
+    hour: 23
     min: 0
-  title: "ドーラ at:YouTube Marvel's Spider-Man"
+  title: ") ふくやマスター at:ふくやマスターのYouTubeチャンネル ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 0
+    min: 52
+  title: "椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:でびでび・でびるのYouTubeチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2018-11-23
@@ -561,6 +575,13 @@
     hour: 23
     min: 0
   title: "椎名唯華＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
+  end_time: 
+  uri: 
+- date: 2018-11-22
+  time:
+    hour: 23
+    min: 54
+  title: "静凛 at:YouTube 絶体絶命都市4Plus -Summer Memories-"
   end_time: 
   uri: 
 - date: 2018-11-21
