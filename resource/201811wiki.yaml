@@ -95,6 +95,20 @@
   uri: 
 - date: 2018-11-26
   time:
+    hour: 0
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube お悩み相談"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ＆ユキミお姉ちゃん at:? 「劇場版コードギアス Ⅱ 叛道」感想会"
@@ -330,6 +344,20 @@
     hour: 12
     min: 0
   title: "卯月コウ at:YouTube 勤労に感謝するな！物申せニート ※中止"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 13
+    min: 47
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-23
+  time:
+    hour: 14
+    min: 30
+  title: "鷹宮リオン at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-23
