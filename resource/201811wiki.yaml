@@ -123,7 +123,14 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ パンフェス"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -156,16 +163,16 @@
   uri: 
 - date: 2018-11-26
   time:
+    hour: 21
+    min: 30
+  title: "葛葉 at:? お着換え配信"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 映画紹介"
-  end_time: 
-  uri: 
-- date: 2018-11-25
-  time:
-    hour: 0
-    min: 0
-  title: "剣持刀也 at:YouTube vtuber語り"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -177,9 +184,37 @@
   uri: 
 - date: 2018-11-25
   time:
+    hour: 0
+    min: 0
+  title: 16分～ 剣持刀也 at:YouTube vtuber語り
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
     hour: 1
     min: 0
-  title: "家長むぎ at:YouTube 雑談"
+  title: "家長むぎ at:YouTube 歌練習, 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube YUMENIKKI-DREAM DIARY"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 1
+    min: 10
+  title: "静凛 at:YouTube 絶体絶命都市4Plus -Summer Memories-"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:Mirrativ 仮面ライダージオウ感想会"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -187,6 +222,13 @@
     hour: 12
     min: 0
   title: "轟京子 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 15
+    min: 0
+  title: "遠北千南 at:?"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -212,6 +254,13 @@
   uri: 
 - date: 2018-11-25
   time:
+    hour: 19
+    min: 0
+  title: "海夜叉神 at:IcotsuのOPENREC.tvチャンネル VTuberスマブラ最強王決定戦"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
     hour: 20
     min: 0
   title: "モイラ&森中花咲&鈴鹿詩子 at:モイラのYouTubeチャンネル"
@@ -221,7 +270,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #3"
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #3"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -246,6 +295,11 @@
 - date: 2018-11-25
   time: 
   title: "？時？分～ 緑仙 at:?"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time: 
+  title: "？時？分(大会終了後)～ 海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-24
@@ -457,6 +511,13 @@
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 囁き雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-24
+  time:
+    hour: 23
+    min: 45
+  title: "静凛 at:YouTube 絶体絶命都市4Plus -Summer Memories-"
   end_time: 
   uri: 
 - date: 2018-11-23
