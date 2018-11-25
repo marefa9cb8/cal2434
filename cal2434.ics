@@ -206,8 +206,8 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181125T150000
-SUMMARY:遠北千南 at:?
+DTSTART;TZID=Asia/Tokyo:20181125T153400
+SUMMARY:遠北千南 at:YouTube
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -219,13 +219,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181125T180000
-SUMMARY:にじさんじゲーム合戦 at:? FAITH "カルバヌス"サーバー(視聴者参加型)
+SUMMARY:にじさんじゲーム合戦 at:樋口楓、叶のYouTubeチャンネル FAITH "カルバヌス"サーバー(視聴者参加型)
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181125T190000
-SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:? VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ
+SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル(メイン会場)、ニコニコ生放送(サブ) VTuberだらけのLoL天下一武道会 VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※
 URL:
 DESCRIPTION:
 END:VEVENT
