@@ -87,7 +87,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181127T220000
-SUMMARY:八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会
+SUMMARY:八朔ゆず＆でびでび・でびる at:YouTube ミッドナイト・ミート・トレイン鑑賞会
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -128,6 +128,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181126T190000
+SUMMARY:椎名唯華＆雪汝＆白上フブキ＆湊あくあ at:湊あくあのYouTubeチャンネル Human Fall Flat
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181126T200000
 SUMMARY:える＆文野環＆本間ひまわり＆ジョー・力一 at:にじさんじ公式YouTubeチャンネル 第3回「にじさんじMIX UP!!」
 URL:
@@ -147,7 +153,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181126T213000
-SUMMARY:葛葉 at:? お着換え配信
+SUMMARY:or22時00分頃～ 葛葉 at:? お着換え配信
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181126T220000
+SUMMARY:名伽尾アズマ＆八朔ゆず+大空スバル at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -231,7 +243,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181125T193000
-SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル VTuberだらけのLoL天下一武道会 VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※
+SUMMARY:椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -261,7 +273,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181125T213000
-SUMMARY:静凛 at:YouTube FF14 ※YouTubeリマインダーより
+SUMMARY:46分～ 静凛 at:YouTube FF14 ※YouTubeリマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -292,6 +304,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181125T230000
 SUMMARY:鈴木勝 at:YouTube Hollow Knight
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181125T231800
+SUMMARY:春崎エアル at:YouTube BORDER BREAK
 URL:
 DESCRIPTION:
 END:VEVENT

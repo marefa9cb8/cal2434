@@ -104,7 +104,7 @@
   time:
     hour: 22
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
+  title: "八朔ゆず＆でびでび・でびる at:YouTube ミッドナイト・ミート・トレイン鑑賞会"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -149,6 +149,13 @@
   uri: 
 - date: 2018-11-26
   time:
+    hour: 19
+    min: 0
+  title: "椎名唯華＆雪汝＆白上フブキ＆湊あくあ at:湊あくあのYouTubeチャンネル Human Fall Flat"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
     hour: 20
     min: 0
   title: "える＆文野環＆本間ひまわり＆ジョー・力一 at:にじさんじ公式YouTubeチャンネル 第3回「にじさんじMIX UP!!」"
@@ -172,7 +179,14 @@
   time:
     hour: 21
     min: 30
-  title: "葛葉 at:? お着換え配信"
+  title: or22時00分頃～ 葛葉 at:? お着換え配信
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず+大空スバル at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -271,7 +285,7 @@
     hour: 19
     min: 30
   title: "椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル VTuberだらけのLoL天下一武道会
-    VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※"
+    女子だらけのLoL エキシビジョンマッチ ※"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -306,7 +320,7 @@
   time:
     hour: 21
     min: 30
-  title: "静凛 at:YouTube FF14 ※YouTubeリマインダーより"
+  title: 46分～ 静凛 at:YouTube FF14 ※YouTubeリマインダーより
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -342,6 +356,13 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube Hollow Knight"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 23
+    min: 18
+  title: "春崎エアル at:YouTube BORDER BREAK"
   end_time: 
   uri: 
 - date: 2018-11-24
