@@ -116,7 +116,7 @@
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube 歌 ※Twitterネームより"
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -124,6 +124,27 @@
     hour: 0
     min: 0
   title: "ベルモンド・バンデラス at:YouTube お悩み相談"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 0
+    min: 37
+  title: "渋谷ハジメ＆叶＆ふぇありす＆あっくん大魔王 at:叶のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 1
+    min: 58
+  title: "ギルザレンIII世 at:YouTube 3万人記念"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 2
+    min: 33
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -179,7 +200,7 @@
   time:
     hour: 21
     min: 30
-  title: or22時00分頃～ 葛葉 at:? お着換え配信
+  title: or22時00分頃～ 葛葉 at:? お着換え配信 ※延期の可能性あり
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -348,7 +369,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華 at:YouTube 人生ゲームDX"
+  title: "椎名唯華 at:YouTube EX人生ゲーム"
   end_time: 
   uri: 
 - date: 2018-11-25
