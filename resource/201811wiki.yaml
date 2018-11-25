@@ -263,22 +263,29 @@
   time:
     hour: 19
     min: 0
-  title: "椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル(メイン会場)、ニコニコ生放送(サブ)
-    VTuberだらけのLoL天下一武道会 VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※"
+  title: "海夜叉神 at:IcotsuのOPENREC.tvチャンネル VTuberスマブラ最強王決定戦"
   end_time: 
   uri: 
 - date: 2018-11-25
   time:
     hour: 19
-    min: 0
-  title: "海夜叉神 at:IcotsuのOPENREC.tvチャンネル VTuberスマブラ最強王決定戦"
+    min: 30
+  title: "椎名唯華＆鷹宮リオン＆でびでび・でびる＆宇森ひなこ＆湊あくあ at:魔族ちゃんねる[游] GamingのYouTubeチャンネル VTuberだらけのLoL天下一武道会
+    VTuberだらけのLoL天下一武道会 女子だらけのLoL エキシビジョンマッチ ※"
   end_time: 
   uri: 
 - date: 2018-11-25
   time:
     hour: 20
     min: 0
-  title: "モイラ&森中花咲&鈴鹿詩子 at:モイラのYouTubeチャンネル"
+  title: "モイラ＆森中花咲＆鈴鹿詩子 at:モイラのYouTubeチャンネル BGクラブ"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 20
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -286,6 +293,27 @@
     hour: 21
     min: 0
   title: "社築＆バーチャルねこ at:バーチャルねこのYouTubeチャンネル 音楽ゲーム談話 第2回"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:REALITY 11/12ぶいにゅーす！再放送"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube FF14 ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 22
+    min: 0
+  title: "月ノ美兎 at:YouTube ちょっとした案件"
   end_time: 
   uri: 
 - date: 2018-11-25
@@ -306,17 +334,14 @@
   time:
     hour: 23
     min: 0
+  title: "椎名唯華 at:YouTube 人生ゲームDX"
+  end_time: 
+  uri: 
+- date: 2018-11-25
+  time:
+    hour: 23
+    min: 0
   title: "鈴木勝 at:YouTube Hollow Knight"
-  end_time: 
-  uri: 
-- date: 2018-11-25
-  time: 
-  title: "？時？分～ 月ノ美兎 at:YouTube ちょっとした案件 ※11/23配信にて告知"
-  end_time: 
-  uri: 
-- date: 2018-11-25
-  time: 
-  title: "？時？分(大会終了後)～ 海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-24
