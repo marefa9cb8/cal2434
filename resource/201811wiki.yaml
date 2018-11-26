@@ -69,7 +69,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華&花畑チャイカ at:? Minecraft"
+  title: "椎名唯華&花畑チャイカ at:? Minecraft ※早めに始まるかも"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -191,7 +191,7 @@
   time:
     hour: 15
     min: 0
-  title: "海夜叉神＆先端恐怖症＆ゆきんこ＆？？？ at:YouTube PUBG"
+  title: "海夜叉神＆先端恐怖症＆ゆきんこ＆さきかわしおん at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -205,7 +205,7 @@
   time:
     hour: 19
     min: 0
-  title: "椎名唯華＆雪汝＆白上フブキ＆湊あくあ at:湊あくあのYouTubeチャンネル Human Fall Flat"
+  title: "椎名唯華＆雪汝＆白上フブキ＆湊あくあ at:湊あくあのYouTubeチャンネル Human Fall Flat ※延期"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -226,7 +226,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:? 晩御飯"
+  title: "ドーラ at:? 晩御飯 ※中止"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -247,6 +247,13 @@
   time:
     hour: 22
     min: 0
+  title: "樋口楓 at:YouTube 「デロッパ！」プレミア公開"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 22
+    min: 0
   title: "名伽尾アズマ＆八朔ゆず+大空スバル at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
@@ -254,7 +261,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube 映画紹介"
+  title: "でびでび・でびる at:YouTube 12月映画紹介"
   end_time: 
   uri: 
 - date: 2018-11-25
