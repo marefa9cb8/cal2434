@@ -83,14 +83,14 @@
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:PUBG PARK公式OPENREC.tvチャンネル PUBG PARK SANHOK #6"
   end_time: 
   uri: 
 - date: 2018-11-27
   time:
     hour: 20
     min: 0
-  title: "深夜三傑RKS(静凛＆叶＆渋谷ハジメ) at:PUBG PARK公式OPENREC.tvチャンネル PUBG PARK SANHOK #6"
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -239,15 +239,29 @@
 - date: 2018-11-26
   time:
     hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube"
+    min: 7
+  title: ") ふくやマスター at:ふくやマスターのYouTubeチャンネル ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 21
+    min: 15
+  title: "える＆文野環＆本間ひまわり＆ジョー・力一 at:文野環のYouTubeチャンネル 第3回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2018-11-26
   time:
     hour: 21
     min: 30
-  title: or22時00分頃～ 葛葉 at:? お着換え配信 ※延期の可能性あり
+  title: "鈴谷アキ at:YouTube Hidden Folks"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 21
+    min: 30
+  title: "葛葉 at:YouTube 新衣装お披露目, 雑談 ※21時30分から時間変更 ※21時30分に時間変更"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -274,15 +288,15 @@
 - date: 2018-11-26
   time:
     hour: 23
-    min: 0
-  title: "鷹宮リオン＆でびでび・でびる at:でびでび・でびるのYouTube DbD"
+    min: 12
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-11-26
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube 雑談"
+  title: 30分～ 緑仙 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2018-11-25
