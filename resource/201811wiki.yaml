@@ -1,6 +1,20 @@
 ---
 - date: 2018-11-30
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube 日本酒テイスティング"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
     hour: 20
     min: 0
   title: "まじかるどーる(ゲスト:卯月コウ＆ジョー・力一＆神楽めあ＆ふぇありす＆ふくやマスター＆おだのぶ＆あごキング＆Sasuke) at:まじかるどーる
@@ -42,6 +56,18 @@
   title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
+- date: 2018-11-29
+  time: 
+  title: "？時？分～ 渋谷ハジメ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube Home Sweet Home"
+  end_time: 
+  uri: 
 - date: 2018-11-28
   time:
     hour: 21
@@ -62,14 +88,96 @@
   time:
     hour: 22
     min: 0
+  title: "伏見ガク at:YouTube Bendy and the Ink Machine"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 22
+    min: 0
   title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time: 
+  title: "？時？分～ 渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-27
   time:
     hour: 0
     min: 0
-  title: "椎名唯華&花畑チャイカ at:? Minecraft ※早めに始まるかも"
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華&花畑チャイカ at:花畑チャイカのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 2
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 13
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 13
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 31
+  title: "夕陽リリ at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 35
+  title: "本間ひまわり＆ドーラ at:ドーラのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 1
+    min: 45
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル League of Legends"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 2
+    min: 33
+  title: "椎名唯華&花畑チャイカ at:花畑チャイカのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 9
+    min: 0
+  title: "春崎エアル at:?"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -104,6 +212,13 @@
   time:
     hour: 22
     min: 0
+  title: "家長むぎ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 22
+    min: 0
   title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
@@ -111,7 +226,7 @@
   time:
     hour: 22
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:YouTube ミッドナイト・ミート・トレイン鑑賞会"
+  title: "八朔ゆず＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル ミッドナイト・ミート・トレイン鑑賞会"
   end_time: 
   uri: 
 - date: 2018-11-27
