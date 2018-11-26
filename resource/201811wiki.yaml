@@ -198,6 +198,13 @@
   time:
     hour: 19
     min: 0
+  title: 18時33分～ 桜凛月 at:YouTube ポケットモンスター Let's Go! ピカチュウ
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 19
+    min: 0
   title: "渋谷ハジメ＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル 「劇場版コードギアス Ⅱ 叛道」感想会"
   end_time: 
   uri: 
@@ -206,13 +213,6 @@
     hour: 19
     min: 0
   title: "椎名唯華＆雪汝＆白上フブキ＆湊あくあ at:湊あくあのYouTubeチャンネル Human Fall Flat ※延期"
-  end_time: 
-  uri: 
-- date: 2018-11-26
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -234,6 +234,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア＆犬山たまき at:犬山たまきのYouTubeチャンネル 漫画アフレコ"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-26
@@ -262,6 +269,20 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 12月映画紹介"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 23
+    min: 0
+  title: "鷹宮リオン＆でびでび・でびる at:でびでび・でびるのYouTube DbD"
+  end_time: 
+  uri: 
+- date: 2018-11-26
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-25
