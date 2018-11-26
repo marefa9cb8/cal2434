@@ -164,8 +164,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181126T150000
+SUMMARY:海夜叉神＆先端恐怖症＆ゆきんこ＆？？？ at:YouTube PUBG
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181126T190000
-SUMMARY:渋谷ハジメ＆ユキミお姉ちゃん at:? 「劇場版コードギアス Ⅱ 叛道」感想会
+SUMMARY:渋谷ハジメ＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル 「劇場版コードギアス Ⅱ 叛道」感想会
 URL:
 DESCRIPTION:
 END:VEVENT
