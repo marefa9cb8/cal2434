@@ -49,6 +49,13 @@
   uri: 
 - date: 2018-11-29
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube マビノギ"
@@ -77,7 +84,14 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? 新衣装発表・Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆黒井しば＆大空スバル＆テトラ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-28
@@ -224,7 +238,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談28日22時～に変更"
+  title: "ドーラ at:YouTube 雑談 ※28日22時に変更"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -238,7 +252,7 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+椎名唯華 at:YouTube
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -249,15 +263,8 @@
   end_time: 
   uri: 
 - date: 2018-11-27
-  time:
-    hour: 22
-    min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+椎名唯華 at:?
-  end_time: 
-  uri: 
-- date: 2018-11-27
   time: 
-  title: "？時？分～ 椎名唯華 at:? 新衣装お披露目 28日0時～に変更"
+  title: "？時？分～ 椎名唯華 at:? 新衣装お披露目 ※29日0時に変更"
   end_time: 
   uri: 
 - date: 2018-11-26
