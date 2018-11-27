@@ -127,6 +127,13 @@
 - date: 2018-11-28
   time:
     hour: 22
+    min: 0
+  title: "海夜叉神＆名伽尾アズマ at:名伽尾アズマのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 22
     min: 30
   title: "鈴谷アキ at:YouTube 誕生日配信"
   end_time: 
@@ -253,6 +260,20 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル ミッドナイト・ミート・トレイン鑑賞会"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 22
+    min: 9
+  title: "伏見ガク at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-27
+  time:
+    hour: 23
+    min: 3
+  title: "家長むぎ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-11-27
