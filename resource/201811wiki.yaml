@@ -42,6 +42,11 @@
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
+- date: 2018-11-30
+  time: 
+  title: "？時？分～ 椎名唯華＆花畑チャイカ at:？ レジスタンスラジオ"
+  end_time: 
+  uri: 
 - date: 2018-11-29
   time:
     hour: 20
@@ -96,6 +101,13 @@
     hour: 22
     min: 0
   title: "伏見ガク at:YouTube Bendy and the Ink Machine"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:? 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-11-28
@@ -184,7 +196,7 @@
   time:
     hour: 9
     min: 0
-  title: "春崎エアル at:?"
+  title: "春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-27
@@ -212,7 +224,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube 雑談28日22時～に変更"
   end_time: 
   uri: 
 - date: 2018-11-27
