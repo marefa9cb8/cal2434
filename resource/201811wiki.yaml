@@ -63,6 +63,13 @@
   uri: 
 - date: 2018-11-29
   time:
+    hour: 1
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUPG PARK感想会"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube マビノギ"
@@ -131,6 +138,13 @@
   uri: 
 - date: 2018-11-28
   time:
+    hour: 15
+    min: 8
+  title: "神田笑一 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
     hour: 20
     min: 0
   title: "本間ひまわり at:YouTube Dead by Daylight"
@@ -185,11 +199,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-11-28
-  time: 
-  title: "？時？分～ 渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-27
