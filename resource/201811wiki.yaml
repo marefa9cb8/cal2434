@@ -3,7 +3,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ ラーメン系"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -72,7 +72,7 @@
   time:
     hour: 1
     min: 0
-  title: "渋谷ハジメ at:YouTube PUPG PARK感想会"
+  title: "渋谷ハジメ at:YouTube PUBG PARK感想会"
   end_time: 
   uri: 
 - date: 2018-11-29
@@ -161,7 +161,7 @@
   time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:YouTube Dead by Daylight ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒(ゲーム変更)"
+  title: "本間ひまわり at:YouTube Dead by Daylight ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒(※ゲーム変更)"
   end_time: 
   uri: 
 - date: 2018-11-28
@@ -220,6 +220,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-28
+  time:
+    hour: 23
+    min: 55
+  title: "伏見ガク at:YouTube テスト配信(Bendy and the Ink Machine)"
   end_time: 
   uri: 
 - date: 2018-11-27

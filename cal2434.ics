@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//balar//2434 Event Calendar V0.3//JP
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181130T064500
-SUMMARY:伏見ガク at:YouTube おはガク！
+SUMMARY:伏見ガク at:YouTube おはガク！ ラーメン系
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -63,7 +63,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181129T010000
-SUMMARY:渋谷ハジメ at:YouTube PUPG PARK感想会
+SUMMARY:渋谷ハジメ at:YouTube PUBG PARK感想会
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -141,7 +141,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181128T200000
-SUMMARY:本間ひまわり at:YouTube Dead by Daylight ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒(ゲーム変更)
+SUMMARY:本間ひまわり at:YouTube Dead by Daylight ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒(※ゲーム変更)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -190,6 +190,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181128T230000
 SUMMARY:緑仙 at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181128T235500
+SUMMARY:伏見ガク at:YouTube テスト配信(Bendy and the Ink Machine)
 URL:
 DESCRIPTION:
 END:VEVENT
