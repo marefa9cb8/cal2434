@@ -22,10 +22,24 @@
   uri: 
 - date: 2018-11-30
   time:
+    hour: 19
+    min: 0
+  title: "遠北千南 at:YouTube 都道府県大戦"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
     hour: 20
     min: 0
   title: "まじかるどーる(ゲスト:卯月コウ＆ジョー・力一＆神楽めあ＆ふぇありす＆ふくやマスター＆おだのぶ＆あごキング＆Sasuke) at:まじかるどーる
     / Magical DollのYouTubeチャンネル 朝までそれまじ正解！２"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 21
+    min: 0
+  title: "轟京子 at:YouTube スライム作り"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -47,6 +61,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube Euro Truck Simulator 2"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -91,6 +112,34 @@
   uri: 
 - date: 2018-11-29
   time:
+    hour: 4
+    min: 10
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 5
+    min: 0
+  title: "渋谷ハジメ＆叶 at:叶のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 18
+    min: 0
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 19
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube マビノギ"
@@ -108,6 +157,20 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-29
