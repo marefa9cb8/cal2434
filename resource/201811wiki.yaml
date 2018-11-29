@@ -44,6 +44,20 @@
   uri: 
 - date: 2018-11-30
   time:
+    hour: 20
+    min: 0
+  title: "ロボ子＆白上フブキ＆ドーラ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル 嗚呼素晴らしきニャン生 プレミア公開"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 21
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:? PUBG
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
     hour: 21
     min: 0
   title: "轟京子 at:YouTube スライム作り"
@@ -81,7 +95,7 @@
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -184,6 +198,20 @@
   time:
     hour: 21
     min: 0
+  title: "静凛 at:YouTube Kerbal Space Program"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 21
+    min: 0
+  title: "宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 21
+    min: 0
   title: "海夜叉神＆ユキミお姉ちゃん＆レンチ＆ふくやマスター＆創好リナ(主催) at:創好リナのYouTubeチャンネル(メイン会場) VTuberWanted(視聴者参加型Minecraft鬼ごっこ)"
   end_time: 
   uri: 
@@ -198,19 +226,28 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-11-29
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube Minecraft"
+  title: "物述有栖 at:YouTube プレミア公開 future base歌ってみた"
   end_time: 
   uri: 
 - date: 2018-11-29
-  time: 
-  title: "？時？分～ 渋谷ハジメ at:YouTube"
+  time:
+    hour: 22
+    min: 0
+  title: 10分～ 轟京子 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2018-11-29
+  time:
+    hour: 23
+    min: 39
+  title: "叶 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-11-28
