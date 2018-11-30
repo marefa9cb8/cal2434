@@ -69,7 +69,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181130T200000
-SUMMARY:ロボ子＆白上フブキ＆ドーラ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル 嗚呼素晴らしきニャン生 プレミア公開
+SUMMARY:ドーラ＆鷹宮リオン＆ロボ子＆白上フブキ at:鷹宮リオンのYouTubeチャンネル 嗚呼素晴らしきニャン生 プレミア公開
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -2835,7 +2835,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181112T212600
-SUMMARY:静凛＆雪汝＆社築葛葉(録音) at:社築のYouTubeチャンネル 第2回「にじさんじMIX UP!!」 アフタートーク
+SUMMARY:静凛＆雪汝＆社築＆葛葉(録音) at:社築のYouTubeチャンネル 第2回「にじさんじMIX UP!!」 アフタートーク
 URL:
 DESCRIPTION:
 END:VEVENT
