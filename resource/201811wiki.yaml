@@ -87,6 +87,13 @@
   time:
     hour: 19
     min: 0
+  title: 18時37分～ 桜凛月 at:YouTube ポケットモンスター Let's Go! ピカチュウ
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 19
+    min: 0
   title: "渋谷ハジメ at:YouTube 日本酒テイスティング"
   end_time: 
   uri: 
@@ -95,13 +102,6 @@
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube プレミア公開動画 Minecraft リリかざハウス紹介"
-  end_time: 
-  uri: 
-- date: 2018-11-30
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -122,29 +122,36 @@
   time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:YouTube マリオカート8 デラックス"
+  title: "宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-30
   time:
     hour: 20
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "本間ひまわり at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-11-30
   time:
     hour: 20
     min: 0
-  title: "まじかるどーる(ゲスト:卯月コウ＆ジョー・力一＆神楽めあ＆ふぇありす＆ふくやマスター＆おだのぶ＆あごキング＆Sasuke) at:まじかるどーる
-    / Magical DollのYouTubeチャンネル 朝までそれまじ正解！２"
+  title: "神田笑一＆春崎エアル at:神田笑一のYouTubeチャンネル スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-11-30
   time:
     hour: 20
     min: 0
-  title: "ドーラ＆鷹宮リオン＆ロボ子＆白上フブキ at:鷹宮リオンのYouTubeチャンネル 嗚呼素晴らしきニャン生 プレミア公開"
+  title: "まじかるどーる(雅さくら＆雅紅羽)+(ゲスト:卯月コウ＆ジョー・力一＆神楽めあ＆ふぇありす＆ふくやマスター＆おだのぶ＆あごキング＆Sasuke)
+    at:まじかるどーる / Magical DollのYouTubeチャンネル 朝までそれまじ正解！２"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ＆鷹宮リオン＆ロボ子＆白上フブキ at:鷹宮リオンのYouTubeチャンネル プレミア公開動画 嗚呼素晴らしきニャン生"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -170,9 +177,16 @@
   uri: 
 - date: 2018-11-30
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube どうぶつタワーバトル"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
     hour: 22
     min: 0
-  title: "月ノ美兎＆ゲスト：ARu子(録画) at:YouTube 月ノ美兎の放課後ラジオ(みとらじ) #8"
+  title: "月ノ美兎＆ゲスト：ARu子(録画)at:YouTube 月ノ美兎の放課後ラジオ(みとらじ) #8"
   end_time: 
   uri: 
 - date: 2018-11-30
