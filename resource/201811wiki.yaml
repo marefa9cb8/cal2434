@@ -43,6 +43,20 @@
   uri: 
 - date: 2018-11-30
   time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 15
+    min: 0
+  title: "椎名唯華 at:? ポケモン"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
     hour: 18
     min: 0
   title: "八朔ゆず at:YouTube 新衣装お披露目"
@@ -67,6 +81,13 @@
     hour: 19
     min: 0
   title: "遠北千南 at:YouTube 都道府県大戦"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:? マリオカート"
   end_time: 
   uri: 
 - date: 2018-11-30
