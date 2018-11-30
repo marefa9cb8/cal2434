@@ -151,14 +151,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ＆鷹宮リオン＆ロボ子＆白上フブキ at:鷹宮リオンのYouTubeチャンネル プレミア公開動画 嗚呼素晴らしきニャン生"
-  end_time: 
-  uri: 
-- date: 2018-11-30
-  time:
-    hour: 21
-    min: 0
-  title: ChroNoiR(叶＆葛葉) at:? PUBG
+  title: "ドーラ＆鷹宮リオン＆ロボ子さん＆白上フブキ at:鷹宮リオンのYouTubeチャンネル プレミア公開動画 嗚呼素晴らしきニャン生"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -178,15 +171,15 @@
 - date: 2018-11-30
   time:
     hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube どうぶつタワーバトル"
+    min: 0
+  title: 15分～ ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2018-11-30
   time:
-    hour: 22
-    min: 0
-  title: "月ノ美兎＆ゲスト：ARu子(録画)at:YouTube 月ノ美兎の放課後ラジオ(みとらじ) #8"
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube どうぶつタワーバトル"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -198,16 +191,16 @@
   uri: 
 - date: 2018-11-30
   time:
-    hour: 23
+    hour: 22
     min: 0
-  title: "椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
+  title: '15分～ 月ノ美兎＆ゲスト：ARu子(録画) at:YouTube 月ノ美兎の放課後ラジオ(みとらじ) #8'
   end_time: 
   uri: 
 - date: 2018-11-30
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube"
+  title: "椎名唯華＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -215,6 +208,13 @@
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 23
+    min: 0
+  title: 19分～ 宇志海いちご＆緑仙 at:両名のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-11-29
