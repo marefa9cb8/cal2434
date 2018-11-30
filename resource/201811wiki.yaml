@@ -52,7 +52,7 @@
   time:
     hour: 15
     min: 0
-  title: "椎名唯華 at:? ポケモン"
+  title: "椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -87,7 +87,14 @@
   time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:? マリオカート"
+  title: "本間ひまわり at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-11-30
+  time:
+    hour: 20
+    min: 0
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-11-30
@@ -128,14 +135,6 @@
   uri: 
 - date: 2018-11-30
   time:
-    hour: 21
-    min: 0
-  title: "天開司（にじさんじ本戦参加予定者：渋谷ハジメ＆叶＆葛葉＆椎名唯華＆卯月コウ） at:天開司のYouTubeチャンネル Vtuberピカブイエキシビショントーナメント
-    対戦相手抽選放送"
-  end_time: 
-  uri: 
-- date: 2018-11-30
-  time:
     hour: 22
     min: 0
   title: "月ノ美兎＆ゲスト：ARu子(録画) at:YouTube 月ノ美兎の放課後ラジオ(みとらじ) #8"
@@ -167,11 +166,6 @@
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 新衣装お披露目"
-  end_time: 
-  uri: 
-- date: 2018-11-30
-  time: 
-  title: "？時？分(昼)～ 椎名唯華 at:YouTube ポケットモンスター Let's Go! ピカチュウ"
   end_time: 
   uri: 
 - date: 2018-11-29
