@@ -488,7 +488,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #4"
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #4"
   end_time: 
   uri: 
 - date: 2018-12-02
@@ -503,6 +503,13 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube プレミア公開動画"
+  end_time: 
+  uri: 
+- date: 2018-12-02
+  time:
+    hour: 22
+    min: 30
+  title: "飛鳥ひな at:Mirrativ?"
   end_time: 
   uri: 
 - date: 2018-12-02
