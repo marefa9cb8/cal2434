@@ -309,7 +309,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181203T020000
-SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル Dead by Daylight
+SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル Dead by Daylight, League of Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181203T031800
+SUMMARY:渋谷ハジメ at:YouTube 歌
 URL:
 DESCRIPTION:
 END:VEVENT
