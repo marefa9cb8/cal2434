@@ -150,14 +150,16 @@
   uri: 
 - date: 2018-12-12
   time:
-    hour: 22
+    hour: 16
     min: 0
-  title: "飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権"
+  title: "町田ちま at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-12-12
-  time: 
-  title: "？時？分～ 町田ちま at:YouTube 雑談"
+  time:
+    hour: 22
+    min: 0
+  title: "飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -237,21 +239,16 @@
   uri: 
 - date: 2018-12-06
   time:
-    hour: 21
+    hour: 16
     min: 0
-  title: ChroNoiR(叶&葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV
+  title: "町田ちま at:YouTube お絵描き, 雑談"
   end_time: 
   uri: 
 - date: 2018-12-06
-  time: 
-  title: "？時？分～ 町田ちま at:YouTube 歌"
-  end_time: 
-  uri: 
-- date: 2018-12-05
   time:
-    hour: 16
+    hour: 21
     min: 0
-  title: "町田ちま at:YouTube お絵描き"
+  title: ChroNoiR(叶&葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV 第五刻
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -340,6 +337,20 @@
   uri: 
 - date: 2018-12-03
   time:
+    hour: 0
+    min: 51
+  title: "静凛 at:YouTube Euro Truck Simulator 2"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
+    hour: 2
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ お茶漬け"
@@ -391,7 +402,7 @@
   time:
     hour: 23
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+緑仙 at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  title: "名伽尾アズマ＆八朔ゆず+緑仙 at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2018-12-03
