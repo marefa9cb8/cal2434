@@ -72,7 +72,7 @@ def make_event(dayarray, titlearray)
   return eventarray
 end
 
-pages = ['201803', '201804', '201805', '201806', '201807', '201808', '201809', '201810', '201811']
+pages = ['201803', '201804', '201805', '201806', '201807', '201808', '201809', '201810', '201811', '201812', '201901']
 base_url = 'https://wikiwiki.jp/nijisanji/?plugin=minicalendar&file=%E9%85%8D%E4%BF%A1%E4%BA%88%E5%AE%9A&date='
 pages.each{|month|
   puts month
