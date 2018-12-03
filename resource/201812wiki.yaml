@@ -265,6 +265,13 @@
   title: "？～ 竜胆尊＆周防パトラ at:周防パトラのYouTubeチャンネル 周防パトラのぱとらじ ※11/17のぱとらじにて告知"
   end_time: 
   uri: 
+- date: 2018-12-08
+  time:
+    hour: 21
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？"
+  end_time: 
+  uri: 
 - date: 2018-12-07
   time:
     hour: 6
@@ -284,6 +291,13 @@
     hour: 22
     min: 0
   title: "物述有栖＆周防パトラ at:周防パトラのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:？"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -310,6 +324,11 @@
 - date: 2018-12-06
   time: 
   title: "？時？分～ 伏見ガク＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time: 
+  title: "？時？分(深夜)～ 本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -352,6 +371,13 @@
     hour: 0
     min: 0
   title: "本間ひまわり at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 1
+    min: 0
+  title: "神田笑一 at:YouTube Dead by Daylight or FF14"
   end_time: 
   uri: 
 - date: 2018-12-04
@@ -403,6 +429,13 @@
   title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
   end_time: 
   uri: 
+- date: 2018-12-04
+  time:
+    hour: 22
+    min: 30
+  title: "舞元啓介＆テトラ＆みるくぷりん＆ルル・ルチカ＆らんまるちゃん at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2018-12-03
   time:
     hour: 0
@@ -448,9 +481,30 @@
   uri: 
 - date: 2018-12-03
   time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
     hour: 20
     min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
+    hour: 21
+    min: 0
+  title: "轟京子 at:YouTube ポジティブキャンペーン"
   end_time: 
   uri: 
 - date: 2018-12-03
@@ -478,6 +532,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華 at:YouTube 12月企画会議"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
@@ -498,6 +559,11 @@
 - date: 2018-12-03
   time: 
   title: "？時？分～ 静凛 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-12-03
+  time: 
+  title: "？時？分～ 桜凛月 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2018-12-02
