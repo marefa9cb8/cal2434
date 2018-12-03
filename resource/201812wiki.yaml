@@ -129,6 +129,11 @@
   title: "ドーラ at:YouTube 歌"
   end_time: 
   uri: 
+- date: 2018-12-18
+  time: 
+  title: "？時？分～ でびでび・でびる at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2018-12-17
   time:
     hour: 7
@@ -461,6 +466,20 @@
     hour: 1
     min: 33
   title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 3
+    min: 20
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 4
+    min: 52
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-04
