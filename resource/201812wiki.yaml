@@ -169,6 +169,13 @@
   title: "出雲霞 at:YouTube 昼やスミ"
   end_time: 
   uri: 
+- date: 2018-12-15
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube バイノーラルセリフ読み"
+  end_time: 
+  uri: 
 - date: 2018-12-14
   time:
     hour: 22
@@ -357,6 +364,14 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華＆魔界ノりりむ at:YouTube マリオカート8 デラックス　※12/5のマイクラコラボ中に ロボ子さん, 叶,  渋谷ハジメ, 舞元啓介,
+    天開司, 稲荷くろむの参加が明言されている。"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 0
+    min: 0
   title: "轟京子 at:YouTube"
   end_time: 
   uri: 
@@ -513,6 +528,13 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-05
