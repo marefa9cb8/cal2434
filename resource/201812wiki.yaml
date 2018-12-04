@@ -255,7 +255,8 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル＆？？？ at:？ ※待機画面サムネイルより"
+  title: "闇夜乃モルル＆本間ひまわり＆ドーラ＆SUMOMOXqX（すもも） at:SUMOMOXqX（すもも）のOPENREC.tvチャンネル マリオカート8
+    デラックス"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -303,6 +304,13 @@
     hour: 21
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？ 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ＆えーちゃん＆甲賀流忍者ぽんぽこ＆チャンチョ at:甲賀流忍者ぽんぽこのYouTubeチャンネル ASMR講座"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -584,14 +592,21 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-04
   time:
     hour: 21
     min: 30
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube にじさんじ聖パイ戦争設定考案"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 21
+    min: 37
+  title: "春崎エアル＆神田笑一＆成瀬鳴 at:春崎エアルのYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-04
