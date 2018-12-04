@@ -299,6 +299,13 @@
   end_time: 
   uri: 
 - date: 2018-12-08
+  time:
+    hour: 21
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？ 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-08
   time: 
   title: 21時以降 闇夜乃モルル at:？ ※待機画面サムネイルより
   end_time: 
@@ -491,6 +498,13 @@
   uri: 
 - date: 2018-12-04
   time:
+    hour: 19
+    min: 30
+  title: "矢車りね at:Mirrativ 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
     hour: 20
     min: 0
   title: "静凛 at:? 料理(ハンバーグ)"
@@ -542,6 +556,13 @@
   time:
     hour: 22
     min: 0
+  title: "海夜叉神 at:YouTube 半年記念雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 22
+    min: 0
   title: "八朔ゆず＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル 映画鑑賞会(武器人間)"
   end_time: 
   uri: 
@@ -557,6 +578,13 @@
     hour: 22
     min: 30
   title: "舞元啓介＆テトラ＆みるくぷりん＆ルル・ルチカ＆らんまるちゃん at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-04
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-04
