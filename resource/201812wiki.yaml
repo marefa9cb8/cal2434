@@ -213,6 +213,13 @@
   time:
     hour: 21
     min: 0
+  title: "渋谷ハジメ＆ちくわ at:YouTube 渋谷カフェ：つなげようお客様の輪 第15回"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:YouTube 雑談"
   end_time: 
   uri: 
@@ -235,6 +242,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ＆名伽尾アズマ＆花畑チャイカ＆社築＆レンチ＆白上フブキ＆ぴろぱる＆ふくやマスター at:? Minecraft(ワード宝探し)"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -329,7 +343,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 歌"
+  title: "ドーラ at:YouTube 歌(東京事変・椎名林檎縛り)"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -364,6 +378,13 @@
   time:
     hour: 19
     min: 0
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 19
+    min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -379,7 +400,7 @@
   time:
     hour: 21
     min: 0
-  title: "飛鳥ひな＆？？？ at:? 推し語り"
+  title: "飛鳥ひな＆ユキミお姉ちゃん at:YouTube 推し語り"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -405,7 +426,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆魔界ノりりむ at:YouTube Minecraft"
+  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -413,6 +434,34 @@
     hour: 0
     min: 0
   title: "ベルモンド・バンデラス at:YouTube セリフ読み"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 0
+    min: 31
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 0
+    min: 57
+  title: "渋谷ハジメ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 2
+    min: 25
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 2
+    min: 30
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -461,9 +510,23 @@
   uri: 
 - date: 2018-12-05
   time:
+    hour: 22
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
     hour: 23
     min: 0
   title: "葛葉 at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-05
