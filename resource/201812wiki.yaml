@@ -239,6 +239,13 @@
   uri: 
 - date: 2018-12-10
   time:
+    hour: 0
+    min: 0
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
@@ -276,6 +283,13 @@
   time:
     hour: 0
     min: 0
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信3日目"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
@@ -304,6 +318,13 @@
 - date: 2018-12-09
   time: 
   title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:? マリオカート8 デラックス練習会"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 0
+    min: 0
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -348,6 +369,13 @@
   uri: 
 - date: 2018-12-07
   time:
+    hour: 0
+    min: 0
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -371,7 +399,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆魔界ノりりむ&渋谷ハジメ＆叶＆（葛葉）＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:椎名唯華のYouTubeチャンネル
+  title: "椎名唯華＆魔界ノりりむ&渋谷ハジメ＆叶＆（葛葉）＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:各々のYouTubeチャンネル
     マリオカート8 デラックス"
   end_time: 
   uri: 
@@ -379,7 +407,21 @@
   time:
     hour: 0
     min: 0
+  title: "名伽尾アズマ&八朔ゆず&緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 0
+    min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 0
+    min: 0
+  title: "社築 at:YouTube 第4回クイズ出題王決定戦 「有給休暇」編"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -490,14 +532,21 @@
   time:
     hour: 19
     min: 0
-  title: "宇志海いちご＆伏見ガク at:YouTube KOF ALLSTAR(ガチャ対決)"
+  title: "出雲霞 at:YouTube プレミア公開動画 振り返り動画 ※18時から変更"
   end_time: 
   uri: 
 - date: 2018-12-05
   time:
     hour: 19
     min: 0
-  title: "出雲霞 at:YouTube プレミア公開動画 振り返り動画 ※18時から変更"
+  title: 18分～ 宇志海いちご＆伏見ガク at:伏見ガクのYouTubeチャンネル KOF ALLSTAR(ガチャ対決)
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 19
+    min: 43
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル) at:渋谷ハルのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -534,14 +583,21 @@
   time:
     hour: 22
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル"
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
 - date: 2018-12-05
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:YouTube 極上パロディウス ～過去の栄光を求めて～ ※待機画面サムネイルより"
+  title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル KILLER BEAR"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 22
+    min: 0
+  title: "?～ 闇夜乃モルル at:YouTube 極上パロディウス ～過去の栄光を求めて～"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -563,11 +619,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-12-05
-  time: 
-  title: "？時？分～ シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
 - date: 2018-12-04
