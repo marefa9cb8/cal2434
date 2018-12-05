@@ -30,6 +30,13 @@
   title: "出雲霞 at:YouTube 昼やスミ"
   end_time: 
   uri: 
+- date: 2018-12-29
+  time:
+    hour: 19
+    min: 0
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:? ※12/5配信にて告知"
+  end_time: 
+  uri: 
 - date: 2018-12-28
   time:
     hour: 22
@@ -108,6 +115,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 22
+    min: 0
+  title: "渋谷ハジメ＆ふくやマスター＆朝ノ瑠璃 at:? 飲み雑談"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -211,6 +225,22 @@
   uri: 
 - date: 2018-12-12
   time:
+    hour: 21
+    min: 0
+  title: 'Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
+    にじさんじのくじじゅうじ #9'
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #11』"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
     hour: 22
     min: 0
   title: "飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権"
@@ -295,6 +325,13 @@
   uri: 
 - date: 2018-12-09
   time:
+    hour: 17
+    min: 0
+  title: "勇気ちひろ at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
     hour: 20
     min: 0
   title: "闇夜乃モルル＆本間ひまわり＆ドーラ＆SUMOMOXqX（すもも） at:SUMOMOXqX（すもも）のOPENREC.tvチャンネル マリオカート8
@@ -313,6 +350,13 @@
     hour: 21
     min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #5"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -363,6 +407,13 @@
   end_time: 
   uri: 
 - date: 2018-12-08
+  time:
+    hour: 20
+    min: 0
+  title: or21時00分～ 勇気ちひろ＆鈴谷アキ at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2018-12-08
   time: 
   title: 21時以降 闇夜乃モルル at:？ ※待機画面サムネイルより
   end_time: 
@@ -407,7 +458,7 @@
   time:
     hour: 0
     min: 0
-  title: "名伽尾アズマ&八朔ゆず&緑仙 at:YouTube"
+  title: "名伽尾アズマ&八朔ゆず&緑仙 at:名伽尾アズマのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -422,6 +473,13 @@
     hour: 0
     min: 0
   title: "社築 at:YouTube 第4回クイズ出題王決定戦 「有給休暇」編"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube 性格診断"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -583,6 +641,13 @@
   time:
     hour: 22
     min: 0
+  title: "闇夜乃モルル at:YouTube 極上パロディウス ～過去の栄光を求めて～"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 22
+    min: 0
   title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
@@ -596,22 +661,22 @@
 - date: 2018-12-05
   time:
     hour: 22
-    min: 0
-  title: "?～ 闇夜乃モルル at:YouTube 極上パロディウス ～過去の栄光を求めて～"
+    min: 30
+  title: "鈴谷アキ at:YouTube Hidden Folks"
   end_time: 
   uri: 
 - date: 2018-12-05
   time:
     hour: 22
-    min: 30
-  title: "鈴谷アキ at:YouTube"
+    min: 48
+  title: "叶＆赤羽葉子＆皆守ひいろ＆ふくやマスター at:ふくやマスターのYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2018-12-05
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:？"
+  title: "葛葉 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-05
@@ -619,6 +684,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 23
+    min: 18
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-12-04
