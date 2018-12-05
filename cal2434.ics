@@ -333,7 +333,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181206T000000
-SUMMARY:椎名唯華＆魔界ノりりむ at:YouTube マリオカート8 デラックス　※12/5のマイクラコラボ中に ロボ子さん, 叶,  渋谷ハジメ, 舞元啓介, 天開司, 稲荷くろむの参加が明言されている。
+SUMMARY:椎名唯華＆魔界ノりりむ&渋谷ハジメ＆叶＆（葛葉）＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:椎名唯華のYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -434,14 +434,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181205T180000
-SUMMARY:出雲霞 at:YouTube プレミア公開動画 振り返り動画
+DTSTART;TZID=Asia/Tokyo:20181205T190000
+SUMMARY:宇志海いちご＆伏見ガク at:YouTube KOF ALLSTAR(ガチャ対決)
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181205T190000
-SUMMARY:宇志海いちご＆伏見ガク at:YouTube KOF ALLSTAR(ガチャ対決)
+SUMMARY:出雲霞 at:YouTube プレミア公開動画 振り返り動画 ※18時から変更
 URL:
 DESCRIPTION:
 END:VEVENT
