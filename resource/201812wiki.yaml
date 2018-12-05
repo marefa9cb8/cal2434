@@ -155,6 +155,13 @@
   title: "飛鳥ひな＆？？？ at:?"
   end_time: 
   uri: 
+- date: 2018-12-16
+  time:
+    hour: 0
+    min: 0
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
+  end_time: 
+  uri: 
 - date: 2018-12-15
   time:
     hour: 0
@@ -533,6 +540,13 @@
 - date: 2018-12-05
   time:
     hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube 極上パロディウス ～過去の栄光を求めて～ ※待機画面サムネイルより"
+  end_time: 
+  uri: 
+- date: 2018-12-05
+  time:
+    hour: 22
     min: 30
   title: "鈴谷アキ at:YouTube"
   end_time: 
@@ -549,11 +563,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-12-05
-  time: 
-  title: 21時以降 闇夜乃モルル at:？ ※待機画面サムネイルより
   end_time: 
   uri: 
 - date: 2018-12-05
