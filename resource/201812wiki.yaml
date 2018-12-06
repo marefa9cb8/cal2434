@@ -190,9 +190,16 @@
   uri: 
 - date: 2018-12-16
   time:
+    hour: 19
+    min: 0
+  title: "叶＆たかさき咲＆梔子スイ＆紗樹万咲 at:EGGNIS JAPAN公式のYouTubeチャンネル(本配信) PUBG HOLY NIGHT CUP"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
     hour: 20
     min: 0
-  title: "にじさんじライバー34名 at:?(本配信:剣持刀也) マリカにじさんじ杯"
+  title: "にじさんじライバー34名 at:剣持刀也のYouTubeチャンネル(本配信) マリカにじさんじ杯(マリオカート8 デラックス)"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -226,6 +233,11 @@
 - date: 2018-12-14
   time: 
   title: "？時？分～ 出雲霞＆八朔ゆず at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time: 
+  title: "？時？分～ 椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2018-12-13
@@ -340,6 +352,13 @@
     hour: 0
     min: 0
   title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信3日目"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:?"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -469,7 +488,21 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:？ 大乱闘スマッシュブラザーズSPECIAL"
+  title: "静凛 at:YouTube  大乱闘スマッシュブラザーズSPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 0
+    min: 0
+  title: "宇志海いちご at:YouTube  大乱闘スマッシュブラザーズSPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズSPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -490,7 +523,14 @@
   time:
     hour: 19
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一＆桜凛月 at:両名のYouTubeチャンネル スプラトゥーン2, PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube デロライブ！"
   end_time: 
   uri: 
 - date: 2018-12-07
