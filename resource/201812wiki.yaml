@@ -63,6 +63,13 @@
   title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
   end_time: 
   uri: 
+- date: 2018-12-25
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
+  end_time: 
+  uri: 
 - date: 2018-12-24
   time:
     hour: 22
@@ -199,7 +206,7 @@
   time:
     hour: 20
     min: 0
-  title: "にじさんじライバー34名 at:剣持刀也のYouTubeチャンネル(本配信) マリカにじさんじ杯(マリオカート8 デラックス)"
+  title: "にじさんじライバー34名 at:剣持刀也のYouTubeチャンネル マリカにじさんじ杯予選 マリオカート8 デラックス ※各視点あり"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -221,6 +228,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube バイノーラルセリフ読み"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -481,7 +495,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / ② スマブラ78時間リレー生配信"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -514,6 +528,13 @@
   uri: 
 - date: 2018-12-07
   time:
+    hour: 3
+    min: 18
+  title: "緑仙 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ うどん"
@@ -538,6 +559,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 歌(東京事変・椎名林檎縛り)"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube みんなでパンパヤ"
   end_time: 
   uri: 
 - date: 2018-12-07
