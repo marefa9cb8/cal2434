@@ -110,6 +110,11 @@
   title: "剣持刀也&道明寺晴翔 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
+- date: 2018-12-22
+  time: 
+  title: "??時??分～ 叶(囚人組?) at:? ※12/6のChroNoiR.tvで告知"
+  end_time: 
+  uri: 
 - date: 2018-12-21
   time:
     hour: 21
@@ -181,6 +186,13 @@
     hour: 0
     min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 20
+    min: 0
+  title: "にじさんじライバー34名 at:?(本配信:剣持刀也) マリカにじさんじ杯"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -316,6 +328,13 @@
   title: "でびでび・でびる at:YouTube あくまのしわざ"
   end_time: 
   uri: 
+- date: 2018-12-10
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
 - date: 2018-12-09
   time:
     hour: 0
@@ -387,6 +406,48 @@
   uri: 
 - date: 2018-12-08
   time:
+    hour: 0
+    min: 0
+  title: "森中花咲＆夕陽リリ at:YouTube Minecraft リリかざ警察24時"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 0
+    min: 0
+  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ 大福"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 19
+    min: 0
+  title: "竜胆尊＆周防パトラ at:周防パトラのYouTubeチャンネル 周防パトラのぱとらじ"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 21
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？ 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ＆えーちゃん＆甲賀流忍者ぽんぽこ＆チャンチョ at:甲賀流忍者ぽんぽこのYouTubeチャンネル ASMR講座"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
     hour: 20
     min: 0
   title: or21時00分～ 勇気ちひろ＆鈴谷アキ at:YouTube Minecraft
@@ -413,9 +474,23 @@
   uri: 
 - date: 2018-12-07
   time:
+    hour: 0
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube にじさんじスマブラ78時間観戦"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ うどん"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:?"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -430,6 +505,13 @@
     hour: 22
     min: 0
   title: "物述有栖＆周防パトラ at:周防パトラのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube beatmaniaⅡDX INFINITAS"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -563,28 +645,35 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:? ※Twitterネームより"
+  title: "飛鳥ひな＆ユキミお姉ちゃん at:YouTube 推し語り"
   end_time: 
   uri: 
 - date: 2018-12-06
   time:
     hour: 21
     min: 0
-  title: "飛鳥ひな＆ユキミお姉ちゃん at:飛鳥ひなのYouTubeチャンネル 推し語り"
+  title: "周防パトラ at:周防パトラのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-06
+  time:
+    hour: 21
+    min: 0
+  title: 15分～ シスター・クレア at:YouTube クリスマス会議
   end_time: 
   uri: 
 - date: 2018-12-06
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube PixelJunk Shooter"
   end_time: 
   uri: 
 - date: 2018-12-06
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube ノットトレジャーハンターRTA"
+  title: "轟京子 at:YouTube NOT TREASURE HUNTER RTA"
   end_time: 
   uri: 
 - date: 2018-12-06
@@ -598,7 +687,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2018-12-06
