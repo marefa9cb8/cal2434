@@ -447,7 +447,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信2日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -461,7 +461,7 @@
   time:
     hour: 0
     min: 0
-  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  title: "シスター・クレア at:YouTube おやすみバイノーラル ※"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -469,6 +469,13 @@
     hour: 1
     min: 0
   title: KMNZ(LITA＆LIZ)+ゲスト：かえる(樋口楓＆える) at:TOKYO MX1 (エムキャスで視聴可能) VIRTUAL BUZZ TALK！
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 1
+    min: 45
+  title: "静凛 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -496,6 +503,13 @@
   time:
     hour: 21
     min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 21
+    min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？ 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
@@ -511,13 +525,6 @@
     hour: 23
     min: 0
   title: "闇夜乃モルル at:YouTube ゲーム"
-  end_time: 
-  uri: 
-- date: 2018-12-08
-  time:
-    hour: 20
-    min: 0
-  title: or21時00分～ 勇気ちひろ＆鈴谷アキ at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2018-12-07
