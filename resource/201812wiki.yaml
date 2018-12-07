@@ -515,28 +515,29 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 / その4 スマブラ78時間リレー生配信"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 / その4 / その5 / その6 / その7
+    スマブラ78時間リレー生配信"
   end_time: 
   uri: 
 - date: 2018-12-07
   time:
     hour: 0
     min: 0
-  title: "静凛 at:YouTube  大乱闘スマッシュブラザーズSPECIAL"
+  title: "静凛 at:YouTube  大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-07
   time:
     hour: 0
     min: 0
-  title: "宇志海いちご at:YouTube  大乱闘スマッシュブラザーズSPECIAL"
+  title: "宇志海いちご at:YouTube  大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-07
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズSPECIAL"
+  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -583,6 +584,13 @@
   uri: 
 - date: 2018-12-07
   time:
+    hour: 17
+    min: 0
+  title: "本間ひまわり at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
     hour: 19
     min: 0
   title: "神田笑一＆桜凛月 at:両名のYouTubeチャンネル スプラトゥーン2, PUBG"
@@ -592,7 +600,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube おえもり"
+  title: "樋口楓 at:YouTube おえかきの森"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -600,6 +608,13 @@
     hour: 20
     min: 30
   title: "ジョー・力一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-07
