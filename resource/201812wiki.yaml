@@ -507,7 +507,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 スマブラ78時間リレー生配信"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 / その4 スマブラ78時間リレー生配信"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -578,6 +578,13 @@
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube デロライブ！"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 20
+    min: 30
+  title: "ジョー・力一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-07
