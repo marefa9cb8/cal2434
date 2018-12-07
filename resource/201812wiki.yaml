@@ -447,7 +447,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 スマブラ78時間リレー生配信2日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -480,6 +480,20 @@
   uri: 
 - date: 2018-12-08
   time:
+    hour: 2
+    min: 13
+  title: "緑仙 at:Mirrativ 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 3
+    min: 45
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 大福"
@@ -490,6 +504,13 @@
     hour: 16
     min: 30
   title: "闇夜乃モルル at:YouTube ゲーム"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 19
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -508,16 +529,16 @@
   uri: 
 - date: 2018-12-08
   time:
-    hour: 21
+    hour: 22
     min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:？ 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "家長むぎ＆えーちゃん＆甲賀流忍者ぽんぽこ＆チャンチョ at:甲賀流忍者ぽんぽこのYouTubeチャンネル ASMR講座"
   end_time: 
   uri: 
 - date: 2018-12-08
   time:
     hour: 22
     min: 0
-  title: "家長むぎ＆えーちゃん＆甲賀流忍者ぽんぽこ＆チャンチョ at:甲賀流忍者ぽんぽこのYouTubeチャンネル ASMR講座"
+  title: "舞元啓介＆大空スバル＆しぐれうい at:?"
   end_time: 
   uri: 
 - date: 2018-12-08
