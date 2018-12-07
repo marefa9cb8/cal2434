@@ -183,7 +183,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181216T190000
-SUMMARY:叶＆たかさき咲＆梔子スイ＆紗樹万咲 at:EGGNIS JAPAN公式のYouTubeチャンネル(本配信) PUBG HOLY NIGHT CUP
+SUMMARY:叶＆たかさき咲＆梔子スイ＆紗樹万咲 PUBG EGGNIS HOLY NIGHT CUP ※叶は不参加
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -261,7 +261,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181212T210000
-SUMMARY:Abema7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス にじさんじのくじじゅうじ #9
+SUMMARY:にじくじ7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス にじさんじのくじじゅうじ #9
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -363,7 +363,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T200000
-SUMMARY:闇夜乃モルル＆本間ひまわり＆ドーラ＆SUMOMOXqX（すもも） at:SUMOMOXqX（すもも）のOPENREC.tvチャンネル マリオカート8 デラックス
+SUMMARY:闇夜乃モルル＆本間ひまわり＆ドーラ＆SUMOMOXqX(すもも) at:SUMOMOXqX(すもも)のOPENREC.tvチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -422,6 +422,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T010000
+SUMMARY:名伽尾アズマ&八朔ゆずat:名伽尾アズマのYouTubeチャンネル 半年振り返り雑談
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T143000
 SUMMARY:出雲霞 at:YouTube 昼やスミ 大福
 URL:
@@ -459,7 +465,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181207T000000
-SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 / その4 / その5 / その6 / その7 スマブラ78時間リレー生配信
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 / その4 / その5 / その6 / その7 / その8 スマブラ78時間リレー生配信
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -500,20 +506,8 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181207T070000
-SUMMARY:ベルモンド・バンデラス at:YouTube にじさんじスマブラ78時間観戦part2
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181207T082000
 SUMMARY:魔界ノりりむ at:YouTube マリオカート8 デラックス
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181207T092800
-SUMMARY:ベルモンド・バンデラス at:YouTube にじさんじスマブラ78時間観戦part3
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -530,6 +524,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181207T193800
+SUMMARY:宇志海いちご＆SUMOMOXqX(すもも) at:SUMOMOXqX(すもも)のOPENREC.tvチャンネル 大乱闘スマッシュブラザーズ SPECIAL
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181207T200000
 SUMMARY:樋口楓 at:YouTube おえかきの森
 URL:
@@ -537,7 +537,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181207T203000
-SUMMARY:ジョー・力一 at:YouTube
+SUMMARY:ジョー・力一 at:YouTube 映画 HUGっと!プリキュア♡ふたりはプリキュア オールスターズメモリーズ語り
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181207T204500
+SUMMARY:静凛 at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
