@@ -241,7 +241,12 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ゲーム"
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time: 
+  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -453,6 +458,13 @@
   uri: 
 - date: 2018-12-08
   time:
+    hour: 1
+    min: 0
+  title: KMNZ(LITA＆LIZ)+ゲスト：かえる(樋口楓＆える) at:TOKYO MX1 (エムキャスで視聴可能) VIRTUAL BUZZ TALK！
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 大福"
@@ -495,7 +507,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / ② スマブラ78時間リレー生配信"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル / その2 / その3 スマブラ78時間リレー生配信"
   end_time: 
   uri: 
 - date: 2018-12-07
@@ -538,6 +550,20 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ うどん"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 7
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube にじさんじスマブラ78時間観戦part2"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
+    hour: 8
+    min: 20
+  title: "魔界ノりりむ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-07
