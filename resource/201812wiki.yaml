@@ -234,6 +234,14 @@
   time:
     hour: 23
     min: 0
+  title: 'SEEDs1期生(ドーラ＆海夜叉神＆名伽尾アズマ＆出雲霞＆轟京子＆シスター・クレア＆花畑チャイカ＆社築＆安土桃＆鈴木勝＆緑仙＆卯月コウ＆八朔ゆず)
+    at:？ #SEEDsマフィア 声劇「憂う少女のアルカディア」'
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 23
+    min: 0
   title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
@@ -568,6 +576,13 @@
   uri: 
 - date: 2018-12-07
   time:
+    hour: 9
+    min: 28
+  title: "ベルモンド・バンデラス at:YouTube にじさんじスマブラ78時間観戦part3"
+  end_time: 
+  uri: 
+- date: 2018-12-07
+  time:
     hour: 19
     min: 0
   title: "神田笑一＆桜凛月 at:両名のYouTubeチャンネル スプラトゥーン2, PUBG"
@@ -577,7 +592,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube デロライブ！"
+  title: "樋口楓 at:YouTube おえもり"
   end_time: 
   uri: 
 - date: 2018-12-07
