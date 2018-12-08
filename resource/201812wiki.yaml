@@ -254,7 +254,7 @@
   uri: 
 - date: 2018-12-14
   time: 
-  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2"
+  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2 ※12/7の伏見ガクの配信にて告知"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -447,7 +447,8 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 スマブラ78時間リレー生配信2日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 / その14
+    スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -461,7 +462,7 @@
   time:
     hour: 0
     min: 0
-  title: "シスター・クレア at:YouTube おやすみバイノーラル ※"
+  title: "シスター・クレア at:YouTube おやすみバイノーラル ※延期"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -504,6 +505,13 @@
     hour: 7
     min: 0
   title: "魔界ノりりむ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 10
+    min: 52
+  title: "雨森小夜 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-12-08

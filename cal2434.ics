@@ -231,7 +231,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181214
-SUMMARY:？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2
+SUMMARY:？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2 ※12/7の伏見ガクの配信にて告知
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -399,7 +399,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T000000
-SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 スマブラ78時間リレー生配信2日目
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 / その14 スマブラ78時間リレー生配信2日目
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -411,7 +411,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T000000
-SUMMARY:シスター・クレア at:YouTube おやすみバイノーラル ※
+SUMMARY:シスター・クレア at:YouTube おやすみバイノーラル ※延期
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -448,6 +448,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T070000
 SUMMARY:魔界ノりりむ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル マリオカート8 デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T105200
+SUMMARY:雨森小夜 at:Mirrativ
 URL:
 DESCRIPTION:
 END:VEVENT
