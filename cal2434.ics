@@ -266,6 +266,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181213T210000
+SUMMARY:舞元啓介＆天開司＆クゥ・フラン・ゾーパー＆ディアボロロ＆でお＆城星譲友VIC＆ドーセット・アカホシ at:城星譲友VICのYouTubeチャンネル BANトーク「ジョジョの奇妙な冒険 第6部 ストーンオーシャン」
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181212T160000
 SUMMARY:町田ちま at:YouTube 歌
 URL:
@@ -304,6 +310,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181211T210000
 SUMMARY:ドーラ at:YouTube 雑談
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181211T230000
+SUMMARY:舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル 三者面談
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -387,7 +399,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T200000
-SUMMARY:轟京子 at:?
+SUMMARY:轟京子＆八朔ゆず at:YouTube Surgeon Simulator
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -417,7 +429,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T000000
-SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 / その14 / その15 / その16 その17 / その18 スマブラ78時間リレー生配信2日目
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 / その14 / その15 / その16 その17 / その18 / その19 / その20 スマブラ78時間リレー生配信2日目
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -555,7 +567,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T220000
-SUMMARY:舞元啓介＆大空スバル＆しぐれうい at:?
+SUMMARY:舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル 三者面談 ※回線不調のため11日に延期
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T222100
+SUMMARY:叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T223000
+SUMMARY:静凛 at:YouTube FF14
 URL:
 DESCRIPTION:
 END:VEVENT

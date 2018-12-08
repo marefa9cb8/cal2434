@@ -286,6 +286,14 @@
   title: "シスター・クレア at:?"
   end_time: 
   uri: 
+- date: 2018-12-13
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介＆天開司＆クゥ・フラン・ゾーパー＆ディアボロロ＆でお＆城星譲友VIC＆ドーセット・アカホシ at:城星譲友VICのYouTubeチャンネル
+    BANトーク「ジョジョの奇妙な冒険 第6部 ストーンオーシャン」"
+  end_time: 
+  uri: 
 - date: 2018-12-12
   time:
     hour: 16
@@ -335,6 +343,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 23
+    min: 0
+  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル 三者面談"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -433,7 +448,7 @@
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:?"
+  title: "轟京子＆八朔ゆず at:YouTube Surgeon Simulator"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -467,7 +482,7 @@
     hour: 0
     min: 0
   title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 / その14
-    / その15 / その16 その17 / その18 スマブラ78時間リレー生配信2日目"
+    / その15 / その16 その17 / その18 / その19 / その20 スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -629,7 +644,21 @@
   time:
     hour: 22
     min: 0
-  title: "舞元啓介＆大空スバル＆しぐれうい at:?"
+  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル 三者面談 ※回線不調のため11日に延期"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 22
+    min: 21
+  title: "叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2018-12-08
