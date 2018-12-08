@@ -412,7 +412,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信3日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) スマブラ78時間リレー生配信3日目"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -420,6 +420,20 @@
     hour: 0
     min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 0
+    min: 36
+  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL 作業雑談 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 1
+    min: 1
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -470,11 +484,6 @@
     hour: 23
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+白上フブキ at:YouTube
-  end_time: 
-  uri: 
-- date: 2018-12-09
-  time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:? 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-08
