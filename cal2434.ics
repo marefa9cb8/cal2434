@@ -399,7 +399,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T000000
-SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 スマブラ78時間リレー生配信2日目
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 スマブラ78時間リレー生配信2日目
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -436,6 +436,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181208T034500
 SUMMARY:鷹宮リオン at:YouTube 雑談
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T062000
+SUMMARY:魔界ノりりむ at:YouTube マリオカート8 デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181208T070000
+SUMMARY:魔界ノりりむ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT

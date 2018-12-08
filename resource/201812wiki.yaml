@@ -447,7 +447,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 スマブラ78時間リレー生配信2日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その9) / その10 / その11 / その12 / その13 スマブラ78時間リレー生配信2日目"
   end_time: 
   uri: 
 - date: 2018-12-08
@@ -490,6 +490,20 @@
     hour: 3
     min: 45
   title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 6
+    min: 20
+  title: "魔界ノりりむ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-08
+  time:
+    hour: 7
+    min: 0
+  title: "魔界ノりりむ＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-08
