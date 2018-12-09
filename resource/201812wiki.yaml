@@ -419,7 +419,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 スマブラ78時間リレー生配信3日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 / その25 スマブラ78時間リレー生配信3日目"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -445,6 +445,13 @@
   uri: 
 - date: 2018-12-09
   time:
+    hour: 5
+    min: 45
+  title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
     hour: 6
     min: 40
   title: "魔界ノりりむ at:YouTube マリオカート8 デラックス"
@@ -455,6 +462,13 @@
     hour: 10
     min: 0
   title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 11
+    min: 0
+  title: "神田笑一 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-09
