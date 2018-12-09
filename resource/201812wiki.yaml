@@ -496,7 +496,7 @@
   time:
     hour: 16
     min: 0
-  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:? マリオカート8 デラックス練習会"
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYoutubeチャンネル マリオカート8 デラックス練習会"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -533,6 +533,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #5"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:他枠（詳細未定） PUBG雪マップ"
   end_time: 
   uri: 
 - date: 2018-12-09
