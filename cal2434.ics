@@ -321,7 +321,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181210T000000
-SUMMARY:深夜三傑RKS（静凛＆叶＆渋谷ハジメ） at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -351,7 +351,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181210T210000
-SUMMARY:ドーラ at:YouTube 雑談
+SUMMARY:ドーラ at:YouTube 雑談 ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -375,7 +375,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T000000
-SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 / その25 スマブラ78時間リレー生配信3日目
+SUMMARY:にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 / その25 / その26 / その27 / その28 / その29 / その30 スマブラ78時間リレー生配信3日目
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -435,19 +435,25 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T120000
-SUMMARY:14時34分～ 緑仙 at:YouTube 雑談 ※歌枠から変更
+SUMMARY:14時34分～ 緑仙 at:YouTube 歌 雑談 ※内容変更
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181209T152000
+SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Dead by Daylight
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T160000
-SUMMARY:おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYoutubeチャンネル マリオカート8 デラックス練習会
+SUMMARY:おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYouTubeチャンネル マリオカート8 デラックス練習会
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T170000
-SUMMARY:勇気ちひろ at:OPENREC.tv
+SUMMARY:勇気ちひろ at:OPENREC.tv PUBGモバイル
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -465,37 +471,49 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T200000
-SUMMARY:轟京子＆八朔ゆず at:YouTube Surgeon Simulator
+SUMMARY:轟京子＆八朔ゆず at:轟京子のYouTubeチャンネル Surgeon Simulator
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T210000
-SUMMARY:?～ 魔界ノりりむ at:? マリオカート8 デラックス
+SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181209T210000
-SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
+DTSTART;TZID=Asia/Tokyo:20181209T210600
+SUMMARY:魔界ノりりむ at:YouTube マリオカート8 デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181209T213000
+SUMMARY:叶 at:YouTube 6万人記念雑談
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T220000
-SUMMARY:勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #5
+SUMMARY:勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #5
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181209T223000
-SUMMARY:?～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:? PUBG 新マップVikendi
+DTSTART;TZID=Asia/Tokyo:20181209T225300
+SUMMARY:赤羽葉子＆本間ひまわり at:赤羽葉子のYouTubeチャンネル
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181209T230000
-SUMMARY:OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+白上フブキ at:YouTube
+SUMMARY:OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+白上フブキ at:花畑チャイカのYouTubeチャンネル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181209T223000
+SUMMARY:23時23分～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:叶のOPENREC.ｔｖ＆赤羽葉子のYouTubeチャンネル PUBG 新マップVikendi
 URL:
 DESCRIPTION:
 END:VEVENT

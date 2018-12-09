@@ -356,7 +356,7 @@
   time:
     hour: 0
     min: 0
-  title: "深夜三傑RKS（静凛＆叶＆渋谷ハジメ） at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -391,7 +391,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube 雑談 ※中止"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -419,7 +419,8 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 / その25 スマブラ78時間リレー生配信3日目"
+  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル(その21) / その22 / その23 / その24 / その25 /
+    その26 / その27 / その28 / その29 / その30 スマブラ78時間リレー生配信3日目"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -489,21 +490,28 @@
   time:
     hour: 12
     min: 0
-  title: 14時34分～ 緑仙 at:YouTube 雑談 ※歌枠から変更
+  title: 14時34分～ 緑仙 at:YouTube 歌 雑談 ※内容変更
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 15
+    min: 20
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
     hour: 16
     min: 0
-  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYoutubeチャンネル マリオカート8 デラックス練習会"
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYouTubeチャンネル マリオカート8 デラックス練習会"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
     hour: 17
     min: 0
-  title: "勇気ちひろ at:OPENREC.tv"
+  title: "勇気ちひろ at:OPENREC.tv PUBGモバイル"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -525,42 +533,56 @@
   time:
     hour: 20
     min: 0
-  title: "轟京子＆八朔ゆず at:YouTube Surgeon Simulator"
+  title: "轟京子＆八朔ゆず at:轟京子のYouTubeチャンネル Surgeon Simulator"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
     hour: 21
     min: 0
-  title: "?～ 魔界ノりりむ at:? マリオカート8 デラックス"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
     hour: 21
-    min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+    min: 6
+  title: "魔界ノりりむ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
-    hour: 22
-    min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #5"
-  end_time: 
-  uri: 
-- date: 2018-12-09
-  time:
-    hour: 22
+    hour: 21
     min: 30
-  title: "?～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:? PUBG 新マップVikendi"
+  title: "叶 at:YouTube 6万人記念雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #5"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 22
+    min: 53
+  title: "赤羽葉子＆本間ひまわり at:赤羽葉子のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-09
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+白上フブキ at:YouTube
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+白上フブキ at:花畑チャイカのYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 22
+    min: 30
+  title: 23時23分～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:叶のOPENREC.ｔｖ＆赤羽葉子のYouTubeチャンネル PUBG 新マップVikendi
   end_time: 
   uri: 
 - date: 2018-12-08
