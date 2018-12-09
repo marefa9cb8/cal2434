@@ -356,7 +356,7 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじオールスター at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日"
+  title: "深夜三傑RKS（静凛＆叶＆渋谷ハジメ） at:にじさんじ公式のYouTubeチャンネル スマブラ78時間リレー生配信最終日"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -475,7 +475,7 @@
   time:
     hour: 13
     min: 0
-  title: "鷹宮リオン at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "鷹宮リオン at:YouTube 大乱闘スマッシュブラザーズ SPECIAL、マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -489,7 +489,7 @@
   time:
     hour: 12
     min: 0
-  title: 14時34分～ 緑仙 at:YouTube 歌→雑談
+  title: 14時34分～ 緑仙 at:YouTube 雑談 ※歌枠から変更
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -504,6 +504,13 @@
     hour: 17
     min: 0
   title: "勇気ちひろ at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 19
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-09
@@ -525,6 +532,13 @@
   time:
     hour: 21
     min: 0
+  title: "?～ 魔界ノりりむ at:? マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-09
+  time:
+    hour: 21
+    min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
@@ -538,8 +552,8 @@
 - date: 2018-12-09
   time:
     hour: 22
-    min: 0
-  title: "本間ひまわり at:他枠（詳細未定） PUBG雪マップ"
+    min: 30
+  title: "?～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:? PUBG 新マップVikendi"
   end_time: 
   uri: 
 - date: 2018-12-09
