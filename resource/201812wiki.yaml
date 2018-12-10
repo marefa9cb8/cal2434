@@ -332,7 +332,7 @@
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:? マリオカート8 デラックス"
+  title: "森中花咲 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2018-12-12
@@ -384,6 +384,20 @@
     hour: 0
     min: 0
   title: "椎名唯華 at:？ にじさんじMIX UP!!感想"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 1
+    min: 0
+  title: "舞元啓介 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -456,6 +470,20 @@
   uri: 
 - date: 2018-12-10
   time:
+    hour: 16
+    min: 29
+  title: "海夜叉神＆先端恐怖症＆フラム・アルベルグ＆アベレージ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
+    hour: 18
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
     hour: 18
     min: 30
   title: "本間ひまわり at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
@@ -480,6 +508,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談 ※中止"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆海夜叉神＆ユキミお姉ちゃん＆日ノ隈らん＆渋谷ハル＆瀬戸あさひ＆先端恐怖症 at:YouTube Minecraft(ドラクエMOD)"
   end_time: 
   uri: 
 - date: 2018-12-10
