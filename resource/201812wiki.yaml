@@ -172,6 +172,13 @@
   title: "ドーラ at:YouTube ゲーム"
   end_time: 
   uri: 
+- date: 2018-12-19
+  time:
+    hour: 22
+    min: 30
+  title: "竜胆尊 at:YouTube 歌"
+  end_time: 
+  uri: 
 - date: 2018-12-18
   time:
     hour: 21
@@ -210,6 +217,13 @@
     hour: 0
     min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌"
   end_time: 
   uri: 
 - date: 2018-12-16
@@ -279,7 +293,7 @@
   time:
     hour: 19
     min: 0
-  title: "スマブラSPグループ対抗V-1グランプリ（主催：まじかるどーる）"
+  title: "まじかるどーる at:まじかるどーる / Magical DollのYouTubeチャンネル まじかるどーるpresents スマブラスペシャルグループ対抗！V-1グランプリ"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -330,6 +344,20 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 0
+  title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 30
+  title: "鷹宮リオン at:YouTube にじさんじ聖パイ戦争設定考案"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -396,9 +424,23 @@
   uri: 
 - date: 2018-12-12
   time:
+    hour: 17
+    min: 0
+  title: "夢追翔＆ぴろぱる at:ぴろぱるのYouTubeチャンネル 料理(カレー)"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
     hour: 18
     min: 0
   title: "伏見ガク at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 19
+    min: 30
+  title: "夢追翔＆ぴろぱる at:YouTube セッション"
   end_time: 
   uri: 
 - date: 2018-12-12
@@ -431,6 +473,20 @@
   title: "飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権"
   end_time: 
   uri: 
+- date: 2018-12-12
+  time:
+    hour: 22
+    min: 0
+  title: "竜胆尊 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 22
+    min: 30
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2018-12-11
   time:
     hour: 0
@@ -461,9 +517,16 @@
   uri: 
 - date: 2018-12-11
   time:
+    hour: 3
+    min: 1
+  title: " 静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
     hour: 13
     min: 0
-  title: "本間ひまわり at:？"
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -477,7 +540,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube 雑談枠(スマブラ78振り返り)"
+  title: "渋谷ハジメ at:YouTube 雑談(スマブラ78振り返り)"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -499,6 +562,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 21
+    min: 30
+  title: "鷹宮リオン at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-11
