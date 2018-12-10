@@ -72,6 +72,11 @@
   uri: 
 - date: 2018-12-25
   time: 
+  title: "？時？分～ 本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time: 
   title: "？時？分～ 闇夜乃モルル at:？ タコ焼きパーティー ※12/8Mirrativ配信にて告知"
   end_time: 
   uri: 
@@ -94,6 +99,11 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 1月映画紹介"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time: 
+  title: "？時？分～ 本間ひまわり at:？"
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -246,6 +256,13 @@
   uri: 
 - date: 2018-12-15
   time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 信玄餅"
@@ -289,6 +306,13 @@
   uri: 
 - date: 2018-12-14
   time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
     hour: 20
     min: 0
   title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2 ※12/7・10の伏見ガクの配信にて告知"
@@ -311,6 +335,20 @@
 - date: 2018-12-14
   time: 
   title: "？時？分～ 椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
+  end_time: 
+  uri: 
+- date: 2018-12-13
+  time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-13
+  time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:？"
   end_time: 
   uri: 
 - date: 2018-12-13
@@ -402,6 +440,20 @@
   uri: 
 - date: 2018-12-11
   time:
+    hour: 13
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
     hour: 20
     min: 0
   title: "シスター・クレア at:?"
@@ -419,6 +471,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 22
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル おばけ屋敷探検隊"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -514,14 +573,14 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆海夜叉神＆ユキミお姉ちゃん＆日ノ隈らん＆渋谷ハル＆瀬戸あさひ＆先端恐怖症 at:YouTube Minecraft(ドラクエMOD)"
+  title: "渋谷ハジメ＆海夜叉神＆ユキミお姉ちゃん＆日ノ隈らん＆渋谷ハル＆瀬戸あさひ＆先端恐怖症 at:各々のYouTubeチャンネル Minecraft(ドラクエMOD)"
   end_time: 
   uri: 
 - date: 2018-12-10
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -529,6 +588,13 @@
     hour: 21
     min: 0
   title: "飛鳥ひな＆春崎エアル＆美影ルクス at:飛鳥ひなのYouTubeチャンネル 発色オタク三銃士"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
+    hour: 21
+    min: 17
+  title: "物述有栖＆夕陽リリ＆椎名唯華＆緑仙 at:緑仙のYouTubeチャンネル 第4回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -542,7 +608,8 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ＆名伽尾アズマ＆花畑チャイカ＆社築＆レンチ＆白上フブキ＆ぴろぱる＆ふくやマスター at:レンチのYouTubeチャンネル Minecraft(ワード宝探し)"
+  title: "ドーラ＆名伽尾アズマ＆花畑チャイカ＆社築＆レンチ＆白上フブキ＆ぴろぱる＆ふくやマスター at:レンチ(仮想マイクラ部チーム視点)、社築(にじさんじSEEDsチーム視点)のYouTubeチャンネル
+    Minecraft(ワード宝探し)"
   end_time: 
   uri: 
 - date: 2018-12-10
@@ -563,7 +630,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "える＆静凛 at:えるのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-09
