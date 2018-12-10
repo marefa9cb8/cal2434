@@ -216,6 +216,13 @@
   title: "にじさんじライバー34名 at:剣持刀也のYouTubeチャンネル マリカにじさんじ杯予選 マリオカート8 デラックス ※各視点あり"
   end_time: 
   uri: 
+- date: 2018-12-16
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #6"
+  end_time: 
+  uri: 
 - date: 2018-12-15
   time:
     hour: 0
@@ -242,6 +249,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 信玄餅"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 19
+    min: 0
+  title: "勇気ちひろ＆森中花咲 at:森中花咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -274,8 +288,17 @@
   end_time: 
   uri: 
 - date: 2018-12-14
-  time: 
-  title: "２０時00分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2 ※12/7・10の伏見ガクの配信にて告知"
+  time:
+    hour: 20
+    min: 0
+  title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:? Left 4 Dead 2 ※12/7・10の伏見ガクの配信にて告知"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -450,6 +473,13 @@
     hour: 21
     min: 0
   title: "飛鳥ひな＆春崎エアル＆美影ルクス at:飛鳥ひなのYouTubeチャンネル 発色オタク三銃士"
+  end_time: 
+  uri: 
+- date: 2018-12-10
+  time:
+    hour: 21
+    min: 30
+  title: "勇気ちひろ at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-12-10
