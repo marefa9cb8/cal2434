@@ -471,6 +471,20 @@
   uri: 
 - date: 2018-12-12
   time:
+    hour: 3
+    min: 30
+  title: "渋谷ハジメ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 5
+    min: 22
+  title: "渋谷ハジメ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
     hour: 16
     min: 0
   title: "町田ちま at:YouTube 歌"
@@ -488,6 +502,13 @@
     hour: 18
     min: 0
   title: "伏見ガク at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 18
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-12
