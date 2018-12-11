@@ -465,6 +465,13 @@
 - date: 2018-12-12
   time:
     hour: 19
+    min: 0
+  title: "海夜叉神＆舞元啓介 at:? 大乱闘スマッシュブラザーズ SPECIAL ガチバトル"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 19
     min: 30
   title: "夢追翔＆ぴろぱる at:YouTube セッション"
   end_time: 
@@ -580,8 +587,10 @@
   time:
     hour: 18
     min: 30
-  title: "文野環 at:Youtube ネットリテラシーを学ぶ配信第2回"
-  end_time: 
+  title: "～ 文野環 at:Youtube ネットリテラシーを学ぼう第2回"
+  end_time:
+    hour: 19
+    min: 33
   uri: 
 - date: 2018-12-11
   time:
@@ -592,9 +601,16 @@
   uri: 
 - date: 2018-12-11
   time:
+    hour: 19
+    min: 0
+  title: "花畑チャイカ at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:?"
+  title: "シスター・クレア at:Youtube 冬のお歌配信"
   end_time: 
   uri: 
 - date: 2018-12-11
@@ -644,6 +660,13 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル おばけ屋敷探検隊"
+  end_time: 
+  uri: 
+- date: 2018-12-11
+  time:
+    hour: 23
+    min: 0
+  title: "鈴木勝 at:?"
   end_time: 
   uri: 
 - date: 2018-12-11
