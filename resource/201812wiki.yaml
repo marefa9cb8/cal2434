@@ -181,6 +181,13 @@
   uri: 
 - date: 2018-12-18
   time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube 演技やナレーションの基礎知識講座"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆竹花ノート at:YouTube 渋谷カフェ：つなげようお客様の輪 第16回"
@@ -343,7 +350,7 @@
   time:
     hour: 18
     min: 0
-  title: "出雲霞＆八朔ゆず at:?"
+  title: "八朔ゆず＆出雲霞 at:八朔ゆずのYouTubeチャンネル ゆずいず生増量中 #2"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -395,6 +402,20 @@
   uri: 
 - date: 2018-12-13
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-13
+  time:
+    hour: 0
+    min: 0
+  title: "町田ちま at:YouTube プレミア公開 『打上花火』歌ってみた"
+  end_time: 
+  uri: 
+- date: 2018-12-13
+  time:
     hour: 13
     min: 0
   title: "本間ひまわり at:？"
@@ -420,6 +441,13 @@
     min: 0
   title: "舞元啓介＆天開司＆クゥ・フラン・ゾーパー＆ディアボロロ＆でお＆城星譲友VIC＆ドーセット・アカホシ at:城星譲友VICのYouTubeチャンネル
     BANトーク「ジョジョの奇妙な冒険 第6部 ストーンオーシャン」"
+  end_time: 
+  uri: 
+- date: 2018-12-13
+  time:
+    hour: 22
+    min: 0
+  title: "夢追翔＆黒井しば+ゲスト：矢車りね at:YouTube #ゆめおレイディオ #1"
   end_time: 
   uri: 
 - date: 2018-12-13
@@ -501,14 +529,28 @@
   time:
     hour: 16
     min: 0
-  title: "町田ちま at:YouTube 歌"
+  title: "町田ちま at:YouTube→途中からMirrativへ変更 歌"
   end_time: 
   uri: 
 - date: 2018-12-12
   time:
     hour: 17
     min: 0
-  title: "夢追翔＆ぴろぱる at:ぴろぱるのYouTubeチャンネル 料理(カレー)"
+  title: "夢追翔＆黒井しば＆ぴろぱる at:ぴろぱるのYouTubeチャンネル 料理(カレー)"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 17
+    min: 31
+  title: "渋谷ハジメ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-12
+  time:
+    hour: 17
+    min: 46
+  title: "叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-12
