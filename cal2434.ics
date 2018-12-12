@@ -434,6 +434,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181212T081000
+SUMMARY:魔界ノりりむ at:YouTube マリオカート8 デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181212T160000
 SUMMARY:町田ちま at:YouTube 歌
 URL:
@@ -489,7 +495,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181212T220000
-SUMMARY:飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権
+SUMMARY:飛鳥ひな＆町田ちま＆遠北千南+成瀬鳴＆春崎エアル＆舞元啓介＆ジョー・力一 at:飛鳥ひなのYouTubeチャンネル 推しメン選手権
 URL:
 DESCRIPTION:
 END:VEVENT
