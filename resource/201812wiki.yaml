@@ -265,9 +265,9 @@
   uri: 
 - date: 2018-12-16
   time:
-    hour: 19
+    hour: 13
     min: 0
-  title: "叶＆たかさき咲＆梔子スイ＆紗樹万咲 PUBG EGGNIS HOLY NIGHT CUP ※叶は不参加"
+  title: "?～ 樋口楓 at:YouTube 樋口楓の放課後バーチャルトークショー"
   end_time: 
   uri: 
 - date: 2018-12-16
@@ -426,6 +426,20 @@
   uri: 
 - date: 2018-12-14
   time:
+    hour: 3
+    min: 15
+  title: "静凛 at:YouTube Home Sweet Home"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 5
+    min: 30
+  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:両名のYouTubeチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
     hour: 15
     min: 0
   title: "雪汝 at:? 新衣装発表"
@@ -456,7 +470,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凜月 at:YouTube マリオカート8 デラックス ※YouTubeリマインダーより"
+  title: "桜凛月 at:YouTube マリオカート8 デラックス ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -478,6 +492,13 @@
     hour: 21
     min: 0
   title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-14
