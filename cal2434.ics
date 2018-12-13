@@ -279,7 +279,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181215T120000
-SUMMARY:鈴鹿詩子 at:YouTube カラオケ
+SUMMARY:鈴鹿詩子 at:YouTube 9万人記念カラオケ(アニソン縛り)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -315,7 +315,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181215T230000
-SUMMARY:SEEDs1期生(ドーラ＆海夜叉神＆名伽尾アズマ＆出雲霞＆轟京子＆シスター・クレア＆花畑チャイカ＆社築＆安土桃＆鈴木勝＆緑仙＆卯月コウ＆八朔ゆず) at:？ SEEDsマフィア 声劇「憂う少女のアルカディア」
+SUMMARY:SEEDs1期生(ドーラ＆海夜叉神＆名伽尾アズマ＆出雲霞＆轟京子＆シスター・クレア＆花畑チャイカ＆社築＆安土桃＆鈴木勝＆緑仙＆卯月コウ＆八朔ゆず) at:にじさんじ公式YouTubeチャンネル SEEDsマフィア 声劇「憂う少女のアルカディア」
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -393,7 +393,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181214T220000
-SUMMARY:鈴鹿詩子 at:YouTube
+SUMMARY:鈴鹿詩子 at:YouTube 月に行く配信
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -452,8 +452,20 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181213T140000
+SUMMARY:闇夜乃モルル＆SUMOMOXqX(すもも) at:SUMOMOXqX(すもも)のOPENREC.tvチャンネル ボーダーランズ プリシークエル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181213T180000
+SUMMARY:でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181213T190000
-SUMMARY:本間ひまわり at:YouTube
+SUMMARY:本間ひまわり at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -483,7 +495,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181213T210000
-SUMMARY:シスター・クレア at:?
+SUMMARY:シスター・クレア at:YouTube 雑談+新衣装お披露目
 URL:
 DESCRIPTION:
 END:VEVENT
