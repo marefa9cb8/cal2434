@@ -72,6 +72,11 @@
   uri: 
 - date: 2018-12-25
   time: 
+  title: "？時？分～ 渋谷ハジメ at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time: 
   title: "？時？分～ 本間ひまわり at:？"
   end_time: 
   uri: 
@@ -104,6 +109,13 @@
 - date: 2018-12-24
   time: 
   title: "？時？分～ 本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-23
+  time:
+    hour: 0
+    min: 0
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -309,6 +321,13 @@
   time:
     hour: 0
     min: 0
+  title: "勇気ちひろ at:YouTube Minecraft ※前日23時半から変更"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 0
+    min: 0
   title: "シスター・クレア at:YouTube おやすみバイノーラル"
   end_time: 
   uri: 
@@ -352,6 +371,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ 信玄餅"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 17
+    min: 30
+  title: "月ノ美兎＆樋口楓 at:月ノ美兎のYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -526,14 +552,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube マリオカート8 デラックス"
-  end_time: 
-  uri: 
-- date: 2018-12-14
-  time:
-    hour: 21
-    min: 0
-  title: "渋谷ハジメ＆海夜叉神 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "渋谷ハジメ＆海夜叉神 at:両名のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -541,6 +560,13 @@
     hour: 21
     min: 0
   title: "竜胆尊 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 0
+  title: 24分～ 勇気ちひろ at:YouTube マリオカート8 デラックス
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -555,6 +581,20 @@
     hour: 21
     min: 30
   title: "鷹宮リオン at:YouTube にじさんじ聖パイ戦争設定考案"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube MoimoiRadio, フリートーク"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 22
+    min: 0
+  title: "静凛＆椎名唯華＆黒井しば＆ベルモンド・バンデラス at:各々のYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -580,9 +620,23 @@
   uri: 
 - date: 2018-12-14
   time:
+    hour: 22
+    min: 0
+  title: 18分～ 叶＆葛葉＆稲荷くろむ＆先端恐怖症 at:叶のYouTubeチャンネル PUBG
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 22
+    min: 34
+  title: "ふくやマスター at:ふくやマスターのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
     hour: 23
     min: 0
-  title: "椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -595,8 +649,15 @@
 - date: 2018-12-14
   time:
     hour: 23
-    min: 30
-  title: "勇気ちひろ at:YouTube Minecraft"
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 23
+    min: 0
+  title: 10分～ 宇志海いちご at:YouTube マリオカート8 デラックス
   end_time: 
   uri: 
 - date: 2018-12-13
