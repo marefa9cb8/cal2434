@@ -263,6 +263,13 @@
   uri: 
 - date: 2018-12-17
   time:
+    hour: 20
+    min: 0
+  title: "叶＆ふぇありす＆甲賀流忍者ぽんぽこ＆ピーナッツくん＆？？？ at:ふぇありすのYouTubeチャンネル VTuberスマブラ大合戦"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 悪夢朗読"
@@ -328,14 +335,14 @@
   time:
     hour: 0
     min: 0
-  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  title: "舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 舞元力一 #3"
   end_time: 
   uri: 
 - date: 2018-12-15
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #3"
+  title: 15分～ シスター・クレア at:YouTube おやすみバイノーラル バイノーラル, マリオカート8 デラックス(※ゲーム映像なし)
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -350,6 +357,20 @@
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 1
+    min: 3
+  title: "春崎エアル at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 1
+    min: 57
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル) at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-12-15
