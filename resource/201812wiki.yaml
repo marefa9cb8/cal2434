@@ -309,6 +309,13 @@
   time:
     hour: 1
     min: 0
+  title: KMNZ(LITA＆LIZ)+ゲスト：かえる(樋口楓＆える) at:TOKYO MX1 (エムキャスで視聴可能) VIRTUAL BUZZ TALK！
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 1
+    min: 0
   title: "鈴木勝 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -470,7 +477,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube マリオカート8 デラックス ※YouTubeリマインダーより"
+  title: "桜凛月 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -491,7 +498,14 @@
   time:
     hour: 21
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "渋谷ハジメ＆海夜叉神 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-14
+  time:
+    hour: 21
+    min: 0
+  title: "竜胆尊 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-14
@@ -527,11 +541,6 @@
     hour: 22
     min: 0
   title: "社築 at:YouTube メイプルストーリー"
-  end_time: 
-  uri: 
-- date: 2018-12-14
-  time: 
-  title: "？時？分～ 渋谷ハジメ＆海夜叉神 at:? 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-14
