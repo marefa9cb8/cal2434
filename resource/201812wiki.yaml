@@ -424,7 +424,7 @@
   time:
     hour: 13
     min: 0
-  title: "本間ひまわり at:？ ※予定変更の可能性あり"
+  title: "本間ひまわり at:？ ※予定変更"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -489,13 +489,6 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube 5万人企画 バイノーラルセリフ読み"
-  end_time: 
-  uri: 
-- date: 2018-12-15
-  time:
-    hour: 22
-    min: 0
-  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-15
