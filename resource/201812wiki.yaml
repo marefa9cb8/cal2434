@@ -438,14 +438,14 @@
   time:
     hour: 16
     min: 30
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2018-12-15
   time:
     hour: 17
     min: 30
-  title: "月ノ美兎＆樋口楓 at:月ノ美兎のYouTubeチャンネル マリオカート8 デラックス"
+  title: 40分～ 月ノ美兎＆樋口楓 at:月ノ美兎のYouTubeチャンネル マリオカート8 デラックス
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -459,7 +459,8 @@
   time:
     hour: 19
     min: 0
-  title: "まじかるどーる at:まじかるどーる / Magical DollのYouTubeチャンネル まじかるどーるpresents スマブラスペシャルグループ対抗！V-1グランプリ"
+  title: "まじかるどーる at:まじかるどーる / Magical DollのYouTubeチャンネル(メイン会場) まじかるどーるpresents スマブラスペシャルグループ対抗！V-1グランプリ
+    ※トーナメント表"
   end_time: 
   uri: 
 - date: 2018-12-15
@@ -489,6 +490,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube 5万人企画 バイノーラルセリフ読み"
+  end_time: 
+  uri: 
+- date: 2018-12-15
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2018-12-15
