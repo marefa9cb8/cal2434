@@ -285,7 +285,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181216T000000
-SUMMARY:椎名唯華 at:YouTube マリオカート8 デラックス GOD EATER 3に変更
+SUMMARY:椎名唯華 at:YouTube マリオカート8 デラックス GOD EATER 3 ※内容変更 ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -302,6 +302,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181216T004300
+SUMMARY:叶 at:YouTube マリオカート8 デラックス, 大乱闘スマッシュブラザーズ SPECIAL
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181216T010000
 SUMMARY:家長むぎ at:YouTube ASMR
 URL:
@@ -310,6 +316,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181216T010000
 SUMMARY:闇夜乃モルル at:YouTube みんなのリズム天国 ※前日22時から変更
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181216T010700
+SUMMARY:社築＆緑仙 at:緑仙のYouTubeチャンネル SEEDsマフィア裏話
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -501,7 +513,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181215T230000
-SUMMARY:10分～ SEEDs1期生(ドーラ＆海夜叉神＆名伽尾アズマ＆出雲霞＆轟京子＆シスター・クレア＆花畑チャイカ＆社築＆安土桃＆鈴木勝＆緑仙＆卯月コウ＆八朔ゆず)+？？？ at:にじさんじ公式YouTubeチャンネル SEEDsマフィア 声劇「憂う少女のアルカディア」 序章
+SUMMARY:10分～ SEEDs1期生(ドーラ＆海夜叉神＆名伽尾アズマ＆出雲霞＆轟京子＆シスター・クレア＆花畑チャイカ＆社築＆安土桃＆鈴木勝＆緑仙＆卯月コウ＆八朔ゆず) at:にじさんじ公式YouTubeチャンネル SEEDsマフィア 声劇「憂う少女のアルカディア」 序章
 URL:
 DESCRIPTION:
 END:VEVENT
