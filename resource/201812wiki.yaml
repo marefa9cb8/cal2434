@@ -291,6 +291,13 @@
   uri: 
 - date: 2018-12-17
   time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ＆吟醸姉妹ギン at:YouTube 飲み雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
     hour: 20
     min: 0
   title: "叶＆ふぇありす＆甲賀流忍者ぽんぽこ＆ピーナッツくん＆？？？ at:ふぇありすのYouTubeチャンネル VTuberスマブラ大合戦"
@@ -417,7 +424,14 @@
   time:
     hour: 15
     min: 0
-  title: "舞元啓介 at:YouTube マリオカート8 デラックス"
+  title: "舞元啓介 at:YouTube スマブラ大会・SEEDsマフィア感想, マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 16
+    min: 6
+  title: "叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-16
@@ -425,6 +439,13 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 17
+    min: 13
+  title: "渋谷ハジメ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-16
