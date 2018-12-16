@@ -136,7 +136,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ"
+  title: "出雲霞 at:YouTube 昼やスミ パイ"
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -387,9 +387,23 @@
   uri: 
 - date: 2018-12-16
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 11
+    min: 30
+  title: "神田笑一 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
     hour: 13
     min: 0
-  title: "?～ 樋口楓 at:YouTube 樋口楓の放課後バーチャルトークショー"
+  title: "樋口楓 at:VR SPARCのYouTubeチャンネル 樋口楓の放課後バーチャルトークショー"
   end_time: 
   uri: 
 - date: 2018-12-16
@@ -397,6 +411,20 @@
     hour: 14
     min: 0
   title: "伏見ガク&宇志海いちご&夕陽リリ&森中花咲 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 15
+    min: 0
+  title: "舞元啓介 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2018-12-16
+  time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-16
