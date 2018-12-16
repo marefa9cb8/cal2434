@@ -244,6 +244,20 @@
   uri: 
 - date: 2018-12-18
   time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
     hour: 19
     min: 0
   title: "神田笑一 at:YouTube 演技やナレーションの基礎知識講座"
@@ -354,9 +368,44 @@
   uri: 
 - date: 2018-12-17
   time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:YouTube メイプルストーリー ※リマインダー情報より"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
     hour: 20
     min: 0
   title: "叶＆ふぇありす＆甲賀流忍者ぽんぽこ＆ピーナッツくん＆？？？ at:ふぇありすのYouTubeチャンネル VTuberスマブラ大合戦"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 20
+    min: 0
+  title: "夢追翔 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 20
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 21
+    min: 15
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-12-17
@@ -374,8 +423,24 @@
   end_time: 
   uri: 
 - date: 2018-12-17
-  time: 
-  title: "？時？分(朝or昼)～ 雪汝 at:?"
+  time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 23
+    min: 0
+  title: "える at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:?"
   end_time: 
   uri: 
 - date: 2018-12-16
