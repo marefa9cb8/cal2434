@@ -221,6 +221,13 @@
   title: "叶 at:BS日テレ のばん組ゲスト出演"
   end_time: 
   uri: 
+- date: 2018-12-20
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:? アメコミトーク"
+  end_time: 
+  uri: 
 - date: 2018-12-19
   time:
     hour: 0
@@ -317,6 +324,13 @@
 - date: 2018-12-18
   time:
     hour: 22
+    min: 0
+  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 22
     min: 40
   title: "飛鳥ひな at:YouTube 収益化&推しメン選手権ありがとう雑談"
   end_time: 
@@ -400,6 +414,13 @@
   time:
     hour: 19
     min: 0
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 19
+    min: 0
   title: "本間ひまわり at:YouTube メイプルストーリー ※リマインダー情報より"
   end_time: 
   uri: 
@@ -407,7 +428,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:?"
+  title: "桜凛月 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-12-17
