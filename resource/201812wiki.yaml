@@ -1,9 +1,16 @@
 ---
 - date: 2018-12-31
   time:
+    hour: 19
+    min: 0
+  title: "月ノ美兎＆剣持刀也 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
     hour: 20
     min: 0
-  title: "える＆樋口楓＆静凛＆家長むぎ at:VR SPARC、キズナアイのYouTubeチャンネル、各AEON CINEMA Count0 一部 Vtuberライブバトル"
+  title: "える＆樋口楓＆静凛＆家長むぎ at:VR SPARC、キズナアイのYouTubeチャンネル、各AEON CINEMA"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -88,6 +95,13 @@
   time:
     hour: 23
     min: 0
+  title: "剣持刀也＆ピーナッツくん at:剣持刀也のYouTubeチャンネル クリスマス企画"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 23
+    min: 0
   title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
@@ -111,6 +125,13 @@
     hour: 18
     min: 0
   title: "出雲霞 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 20
+    min: 0
+  title: "静凛＆剣持刀也＆叶＆本間ひまわり＆ドーラ at:にじさんじ公式YouTubeチャンネル 第4.5回「にじさんじMIX UP!!」クリスマス特番"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -144,6 +165,13 @@
     hour: 19
     min: 0
   title: "樋口楓 at:REALITY REALITY Festival :connect 樋口楓の歌番組！"
+  end_time: 
+  uri: 
+- date: 2018-12-23
+  time:
+    hour: 0
+    min: 0
+  title: BGクラブ(鈴鹿詩子＆モイラ＆森中花咲) at:鈴鹿詩子のYouTubeチャンネル Beautiful Girls ～第2章 反逆の使者～(百合語り編)
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -192,7 +220,7 @@
   time:
     hour: 19
     min: 0
-  title: "ロリ組(勇気ちひろ＆宇志海いちご＆物述有栖＆森中花咲) at:森中花咲のYouTubeチャンネル クリスマス会"
+  title: "ロリ組(勇気ちひろ＆宇志海いちご＆物述有栖＆森中花咲) at:森中花咲のYouTubeチャンネル オフラインクリスマス会"
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -211,7 +239,14 @@
   uri: 
 - date: 2018-12-22
   time: 
-  title: "？時？分～ 叶(囚人組?) at:? ※12/6のChroNoiR.tvで告知"
+  title: "？時？分～ 囚人組(叶＆葛葉＆渋谷ハジメ＆あっくん大魔王＆ふぇありす＆天開司＆ピーナッツくん＆ふくやマスター) at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 20
+    min: 30
+  title: "森中花咲＆？？？ at:森中花咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -286,6 +321,13 @@
   uri: 
 - date: 2018-12-19
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
     hour: 21
     min: 0
   title: "にじくじ7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
@@ -318,7 +360,21 @@
   time:
     hour: 0
     min: 0
+  title: "闇夜乃モルル at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 0
+    min: 0
   title: "名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -339,7 +395,14 @@
   time:
     hour: 19
     min: 0
-  title: "家長むぎ at:REALITY REALITY Festival :connect ぶいにゅーす！"
+  title: "渋谷ハジメ＆黒井しば＆理原ひなり＆雅市華 at:まじかるどーる / Magical DollのYouTubeチャンネル マリオカート8 デラックス(方言マリカー対決)"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 19
+    min: 0
+  title: "家長むぎ at:REALITY＆YouTube REALITY Festival :connect ぶいにゅーす！"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -347,6 +410,13 @@
     hour: 19
     min: 0
   title: "神田笑一 at:YouTube 演技やナレーションの基礎知識講座"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube Minecraft アズカバン(にじさんじマンション)建設"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -396,6 +466,11 @@
     hour: 23
     min: 0
   title: "椎名唯華 at:YouTube しぃラジオ 第0回 ※12/13の配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time: 
+  title: "？時？分(昼頃)～ 文野環 at:?"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -546,6 +621,13 @@
 - date: 2018-12-17
   time:
     hour: 21
+    min: 0
+  title: "花畑チャイカ at:YouTube GOD EATER 3"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 21
     min: 15
   title: "静凛 at:YouTube FF14"
   end_time: 
@@ -554,7 +636,7 @@
   time:
     hour: 22
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube 6人の料理人と隻眼の少女"
   end_time: 
   uri: 
 - date: 2018-12-17
@@ -569,6 +651,20 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 悪夢朗読"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 22
+    min: 12
+  title: "シスター・クレア at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2018-12-17
+  time:
+    hour: 22
+    min: 15
+  title: "叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL(Vtuber限定 1v1)"
   end_time: 
   uri: 
 - date: 2018-12-17
