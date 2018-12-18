@@ -423,7 +423,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T190000
-SUMMARY:渋谷ハジメ＆黒井しば＆理原ひなり＆雅市華 at:まじかるどーる / Magical DollのYouTubeチャンネル マリオカート8 デラックス(方言マリカー対決)
+SUMMARY:渋谷ハジメ＆黒井しば＆理原ひなり＆雅市華 at:まじかるどーる / Magical DollのYouTubeチャンネル(本配信) マリオカート8 デラックス(方言マリカー対決)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -441,7 +441,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T190000
-SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube バースデーパーティ
+SUMMARY:でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル バースデーパーティ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -459,13 +459,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T200000
-SUMMARY:椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20181218T200000
-SUMMARY:シスター・クレア at:?
+SUMMARY:シスター・クレア at:YouTube メイプルストーリー
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -483,7 +477,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T210000
-SUMMARY:ドーラ at:YouTube 歌
+SUMMARY:ドーラ at:YouTube 歌 ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -495,7 +489,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T220000
-SUMMARY:渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:?
+SUMMARY:渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:YouTube PUBG
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -514,6 +508,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T230000
 SUMMARY:椎名唯華＆ゲスト:舞元啓介 at:YouTube しぃラジオ 第0回
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181218T200000
+SUMMARY:？時？分～ 椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※ラジオ終了後に時間変更
 URL:
 DESCRIPTION:
 END:VEVENT

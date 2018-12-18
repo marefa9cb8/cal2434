@@ -473,7 +473,8 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ＆黒井しば＆理原ひなり＆雅市華 at:まじかるどーる / Magical DollのYouTubeチャンネル マリオカート8 デラックス(方言マリカー対決)"
+  title: "渋谷ハジメ＆黒井しば＆理原ひなり＆雅市華 at:まじかるどーる / Magical DollのYouTubeチャンネル(本配信) マリオカート8
+    デラックス(方言マリカー対決)"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -494,7 +495,7 @@
   time:
     hour: 19
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube バースデーパーティ"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル バースデーパーティ"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -515,14 +516,7 @@
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
-  end_time: 
-  uri: 
-- date: 2018-12-18
-  time:
-    hour: 20
-    min: 0
-  title: "シスター・クレア at:?"
+  title: "シスター・クレア at:YouTube メイプルストーリー"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -543,7 +537,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 歌"
+  title: "ドーラ at:YouTube 歌 ※中止"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -557,7 +551,7 @@
   time:
     hour: 22
     min: 0
-  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:?"
+  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -579,6 +573,13 @@
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト:舞元啓介 at:YouTube しぃラジオ 第0回"
+  end_time: 
+  uri: 
+- date: 2018-12-18
+  time:
+    hour: 20
+    min: 0
+  title: "？時？分～ 椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※ラジオ終了後に時間変更"
   end_time: 
   uri: 
 - date: 2018-12-18
