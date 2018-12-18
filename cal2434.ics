@@ -429,7 +429,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T200000
-SUMMARY:森中花咲 at:YouTube Minecraft アズカバン(にじさんじマンション)建設
+SUMMARY:森中花咲 at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -495,13 +495,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218T230000
-SUMMARY:椎名唯華＆ゲスト：舞元啓介 at:YouTube しぃラジオ 第0回
+SUMMARY:椎名唯華＆ゲスト:舞元啓介 at:YouTube しぃラジオ 第0回
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181218
-SUMMARY:？時？分(昼頃)～ 文野環 at:?
+SUMMARY:？時？分(昼頃)～ 文野環 at:? ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
