@@ -338,14 +338,21 @@
   time:
     hour: 0
     min: 0
-  title: "†咎人†(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル"
+  title: 08分～ †咎人†(剣持刀也＆伏見ガク) at:剣持刀也のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL
   end_time: 
   uri: 
 - date: 2018-12-19
   time:
     hour: 1
     min: 0
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 1
+    min: 32
+  title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -389,7 +396,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ゲーム"
+  title: "ドーラ at:YouTube 歌(冬曲縛り)"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -404,6 +411,11 @@
     hour: 22
     min: 30
   title: "竜胆尊 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time: 
+  title: "？時？分～ 椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※前日20時から変更"
   end_time: 
   uri: 
 - date: 2018-12-18
@@ -594,13 +606,6 @@
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト:舞元啓介 at:YouTube しぃしぃラジオ 第0回"
-  end_time: 
-  uri: 
-- date: 2018-12-18
-  time:
-    hour: 20
-    min: 0
-  title: "？時？分～ 椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※ラジオ終了後に時間変更"
   end_time: 
   uri: 
 - date: 2018-12-18
