@@ -3,7 +3,7 @@
   time:
     hour: 19
     min: 0
-  title: "月ノ美兎＆剣持刀也 at:ニコニコ生放送"
+  title: "月ノ美兎＆剣持刀也 at:ニコニコ生放送 バーチャル大晦日2018～みんなで年越しブイッとね！～"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -143,6 +143,13 @@
   time:
     hour: 22
     min: 0
+  title: "樋口楓 at:YouTube? 歌動画のプレミア公開? ※Twitterプロフィールより"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 22
+    min: 0
   title: "勇気ちひろ at:? クリスマスパーティー"
   end_time: 
   uri: 
@@ -243,8 +250,8 @@
 - date: 2018-12-22
   time:
     hour: 21
-    min: 0
-  title: JK組(月ノ美兎＆静凛＆樋口楓) at:？ ※12/11静凛の配信で告知
+    min: 30
+  title: JK組(月ノ美兎＆静凛＆樋口楓) at:？ ※12/11静凛の配信で告知 ※開始時刻は樋口楓のTwitterプロフィールによる
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -266,6 +273,13 @@
   uri: 
 - date: 2018-12-21
   time:
+    hour: 0
+    min: 30
+  title: "黒井しば at:YouTube うちのこ自慢させてくれ！"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
     hour: 18
     min: 30
   title: "ジョー・力一 at:YouTube 歌(筋肉少女帯縛り)"
@@ -275,7 +289,7 @@
   time:
     hour: 20
     min: 30
-  title: "森中花咲＆？？？ at:森中花咲のYouTubeチャンネル"
+  title: "静凛＆森中花咲 at:森中花咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -350,6 +364,13 @@
   uri: 
 - date: 2018-12-20
   time:
+    hour: 20
+    min: 0
+  title: "樋口楓 ※Twitterのプロフィールより"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
     hour: 21
     min: 0
   title: "月ノ美兎 at:REALITY REALITY Festival :connect 覆面座談会"
@@ -374,6 +395,13 @@
     hour: 21
     min: 0
   title: "ジョー・力一 at:YouTube 雑談, キーワードねじこみお悩み相談"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-12-20
@@ -436,6 +464,13 @@
   time:
     hour: 19
     min: 0
+  title: "闇夜乃モルル at:OPENREC.tv モル'sキッチン"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 19
+    min: 0
   title: "春崎エアル＆皇噛ユカリ＆粛正罰丸＆花笠イリヤ＆蒔田陽丸＆楓山蓮太郎 at:ひま食堂のYouTubeチャンネル メンズVtuber 鍋パーティ"
   end_time: 
   uri: 
@@ -450,14 +485,14 @@
   time:
     hour: 19
     min: 30
-  title: "渋谷ハジメ at:?"
+  title: "渋谷ハジメ at:YouTube Oakwood"
   end_time: 
   uri: 
 - date: 2018-12-19
   time:
     hour: 19
     min: 30
-  title: "遠北千南 at:？ 近況報告"
+  title: "遠北千南 at:YouTube 近況報告"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -465,6 +500,13 @@
     hour: 20
     min: 0
   title: "森中花咲 at:YouTube プレミア公開 Minecraft実況動画"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 20
+    min: 0
+  title: "鈴木勝＆八朔ゆず at:YouTube プレミア公開 「ぼうけんのしょがきえました！」歌ってみた"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -501,7 +543,7 @@
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:？ アズゆずおじクリ"
+  title: "名伽尾アズマ＆八朔ゆず+花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆ベルモンド・バンデラス at:名伽尾アズマのYouTubeチャンネル アズゆずおじクリ"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -509,6 +551,13 @@
     hour: 22
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube プレミア公開 振り返り動画"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -522,7 +571,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:？"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -530,11 +579,6 @@
     hour: 23
     min: 30
   title: "静凛 at:？"
-  end_time: 
-  uri: 
-- date: 2018-12-19
-  time: 
-  title: "？時？分(夜)～ 出雲霞 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2018-12-18
