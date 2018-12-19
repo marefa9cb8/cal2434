@@ -303,6 +303,20 @@
   uri: 
 - date: 2018-12-20
   time:
+    hour: 0
+    min: 0
+  title: "夕陽リリ at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
@@ -378,9 +392,30 @@
   uri: 
 - date: 2018-12-19
   time:
+    hour: 18
+    min: 0
+  title: "出雲霞 at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
     hour: 19
     min: 0
   title: "春崎エアル＆皇噛ユカリ＆粛正罰丸＆花笠イリヤ＆蒔田陽丸 at:蒔田陽丸のYouTubeチャンネル メンズVtuber 鍋パーティ"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 19
+    min: 30
+  title: "遠北千南 at:？"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -428,8 +463,17 @@
   end_time: 
   uri: 
 - date: 2018-12-19
-  time: 
-  title: "？時？分～ 椎名唯華 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※前日20時から変更"
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 23
+    min: 30
+  title: "静凛 at:？"
   end_time: 
   uri: 
 - date: 2018-12-18
