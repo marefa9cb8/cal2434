@@ -427,9 +427,9 @@
   uri: 
 - date: 2018-12-19
   time:
-    hour: 18
-    min: 0
-  title: "出雲霞 at:YouTube プレミア公開"
+    hour: 17
+    min: 30
+  title: "鷹宮リオン at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -464,7 +464,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube プレミア公開"
+  title: "森中花咲 at:YouTube プレミア公開 Minecraft実況動画"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -530,6 +530,11 @@
     hour: 23
     min: 30
   title: "静凛 at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time: 
+  title: "？時？分(夜)～ 出雲霞 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2018-12-18
