@@ -66,6 +66,13 @@
   end_time: 
   uri: 
 - date: 2018-12-28
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:? 定期配信"
+  end_time: 
+  uri: 
+- date: 2018-12-28
   time: 
   title: "？時？分～ 出雲霞 at:? クッキー作り"
   end_time: 
@@ -82,6 +89,13 @@
     hour: 22
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 12
+    min: 0
+  title: "にじさんじのくじじゅうじ 過去分一挙放送 at:AbemaTVウルトラゲームス"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -289,7 +303,7 @@
   time:
     hour: 20
     min: 30
-  title: "静凛＆森中花咲 at:森中花咲のYouTubeチャンネル"
+  title: "静凛＆森中花咲 at:森中花咲のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -345,28 +359,35 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-20
   time:
     hour: 0
     min: 0
-  title: "でびでび・でびる at:？"
+  title: "椎名唯華 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる at:？ ※延期"
   end_time: 
   uri: 
 - date: 2018-12-20
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "鈴木勝 at:YouTube 雑談, 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-20
   time:
     hour: 20
     min: 0
-  title: "樋口楓 ※Twitterのプロフィールより"
+  title: "樋口楓 ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2018-12-20
@@ -380,7 +401,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:YouTube アメコミトーク"
+  title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:YouTube アメコミトーク 映画編"
   end_time: 
   uri: 
 - date: 2018-12-20
@@ -534,6 +555,13 @@
   uri: 
 - date: 2018-12-19
   time:
+    hour: 21
+    min: 0
+  title: "皇噛ユカリ＆粛正罰丸＆花笠イリヤ＆蒔田陽丸＆楓山蓮太郎 at:皇噛ユカリのYouTubeチャンネル メンズVtuber 鍋パーティ忘年会二次会"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
     hour: 22
     min: 0
   title: "ドーラ at:YouTube 歌(冬曲縛り)"
@@ -549,15 +577,22 @@
 - date: 2018-12-19
   time:
     hour: 22
-    min: 30
-  title: "鈴谷アキ at:YouTube"
+    min: 0
+  title: "出雲霞 at:YouTube プレミア公開 振り返り動画 出雲霞について 総集編#2"
   end_time: 
   uri: 
 - date: 2018-12-19
   time:
     hour: 22
-    min: 0
-  title: "出雲霞 at:YouTube プレミア公開 振り返り動画"
+    min: 30
+  title: "鈴谷アキ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 22
+    min: 30
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2018-12-19
@@ -578,7 +613,21 @@
   time:
     hour: 23
     min: 30
-  title: "静凛 at:？"
+  title: "勇気ちひろ at:YouTube おやすみ雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 23
+    min: 30
+  title: 50分～ 静凛 at:YouTube DARK SOULS REMASTERED
+  end_time: 
+  uri: 
+- date: 2018-12-19
+  time:
+    hour: 23
+    min: 51
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-18
