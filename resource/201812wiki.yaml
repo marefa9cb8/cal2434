@@ -366,7 +366,7 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:BS日テレ のばん組ゲスト出演"
+  title: "叶 at:BS日テレ『のばん組』ゲスト出演"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -417,6 +417,20 @@
     hour: 1
     min: 52
   title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
+    hour: 6
+    min: 37
+  title: "椎名唯華 at:YouTube ドラゴンクエストビルダーズ2"
+  end_time: 
+  uri: 
+- date: 2018-12-20
+  time:
+    hour: 8
+    min: 3
+  title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-20
