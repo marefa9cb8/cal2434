@@ -27,7 +27,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181230T210000
-SUMMARY:夢追翔＆黒井しば+ゲスト：ベルモンド・バンデラス at:YouTube もやしばラジオ #2 ※12/20夢追翔の配信で告知
+SUMMARY:夢追翔＆黒井しば+ゲスト：ベルモンド・バンデラス at:YouTube もやしばラジオ #2 ゆめおとしばの雨にも負けず風にも負けず(めしまず)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -272,6 +272,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181222T150000
+SUMMARY:夢追翔＆ぴろぱる＆夏色まつり＆天城てん＆星月せい at:YouTube 廃墟セッション
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181222T170000
 SUMMARY:飛鳥ひな＆錦山夢鷹 at:YouTube
 URL:
@@ -351,7 +357,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181221T033000
-SUMMARY:静凛 at:?
+SUMMARY:静凛 at:YouTube 作業雑談
 URL:
 DESCRIPTION:
 END:VEVENT

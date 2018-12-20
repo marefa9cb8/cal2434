@@ -29,7 +29,7 @@
   time:
     hour: 21
     min: 0
-  title: "夢追翔＆黒井しば+ゲスト：ベルモンド・バンデラス at:YouTube もやしばラジオ #2 ※12/20夢追翔の配信で告知"
+  title: "夢追翔＆黒井しば+ゲスト：ベルモンド・バンデラス at:YouTube もやしばラジオ #2 ゆめおとしばの雨にも負けず風にも負けず(めしまず)"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -296,6 +296,13 @@
   uri: 
 - date: 2018-12-22
   time:
+    hour: 15
+    min: 0
+  title: "夢追翔＆ぴろぱる＆夏色まつり＆天城てん＆星月せい at:YouTube 廃墟セッション"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
     hour: 17
     min: 0
   title: "飛鳥ひな＆錦山夢鷹 at:YouTube"
@@ -387,7 +394,7 @@
   time:
     hour: 3
     min: 30
-  title: "静凛 at:?"
+  title: "静凛 at:YouTube 作業雑談"
   end_time: 
   uri: 
 - date: 2018-12-21
