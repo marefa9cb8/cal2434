@@ -345,21 +345,7 @@
   time:
     hour: 0
     min: 0
-  title: "叶 at:YouTube バイノーラル"
-  end_time: 
-  uri: 
-- date: 2018-12-21
-  time:
-    hour: 0
-    min: 0
   title: "闇夜乃モルル at:YouTube ポケットモンスター Let's Go! イーブイ"
-  end_time: 
-  uri: 
-- date: 2018-12-21
-  time:
-    hour: 0
-    min: 0
-  title: "椎名唯華 at:YouTube ドラゴンクエストビルダーズ2"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -367,6 +353,27 @@
     hour: 0
     min: 30
   title: "黒井しば at:YouTube うちのこ自慢させてくれ！"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 0
+    min: 0
+  title: 43分～ 叶 at:YouTube バイノーラル
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 0
+    min: 0
+  title: 01時00分～ 椎名唯華 at:YouTube ドラゴンクエストビルダーズ2
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 1
+    min: 27
+  title: "葛葉 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -388,6 +395,14 @@
     hour: 18
     min: 30
   title: "ジョー・力一 at:YouTube 歌(筋肉少女帯縛り)"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ＆叶＆魔界ノりりむ＆葛葉＆椎名唯華＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:YouTube
+    大乱闘スマッシュブラザーズ SPECIAL ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-12-21
