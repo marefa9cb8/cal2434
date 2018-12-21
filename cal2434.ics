@@ -351,7 +351,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181221T020000
-SUMMARY:魔界ノりりむ＆紫咲シオン(ホロライブ2期生) at:YouTube Fortnite
+SUMMARY:魔界ノりりむ＆紫咲シオン at:YouTube Fortnite
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -369,7 +369,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181221T190000
-SUMMARY:渋谷ハジメ＆叶＆魔界ノりりむ＆葛葉＆椎名唯華＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※YouTubeリマインダーより
+SUMMARY:渋谷ハジメ＆叶＆魔界ノりりむ＆葛葉＆椎名唯華＆花畑チャイカ＆卯月コウ＆舞元啓介＆稲荷くろむ＆天開司＆湊あくあ＆ロボ子さん at:椎名唯華のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -424,6 +424,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181221T233000
 SUMMARY:轟京子 at:YouTube 誕生日＆クリスマスパーティ
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181221
+SUMMARY:？時？分～ 勇気ちひろ at:？
 URL:
 DESCRIPTION:
 END:VEVENT
