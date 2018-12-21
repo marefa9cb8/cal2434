@@ -216,6 +216,11 @@
   uri: 
 - date: 2018-12-24
   time: 
+  title: "？時？分～ 神田笑一 at:Mirrativ ブッシュドノエル作り"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time: 
   title: "？時？分～ 桜凛月 at:?"
   end_time: 
   uri: 
@@ -399,6 +404,13 @@
   uri: 
 - date: 2018-12-21
   time:
+    hour: 13
+    min: 3
+  title: "雪汝 at:YouTube ドラゴンクエストビルダーズ2"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
     hour: 18
     min: 30
   title: "ジョー・力一 at:YouTube 歌(筋肉少女帯縛り)"
@@ -415,6 +427,13 @@
 - date: 2018-12-21
   time:
     hour: 20
+    min: 0
+  title: "神田笑一 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 20
     min: 30
   title: "静凛＆森中花咲 at:森中花咲のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
@@ -423,7 +442,7 @@
   time:
     hour: 20
     min: 30
-  title: "鷹宮リオン at:? 3万人ありがとう配信"
+  title: "鷹宮リオン at:YouTube 3万人ありがとう配信"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -431,6 +450,20 @@
     hour: 21
     min: 0
   title: "ドーラ at:OPENREC.tv 大神"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -458,14 +491,14 @@
   time:
     hour: 22
     min: 0
-  title: "ベルモンド・バンデラス at:?"
+  title: "ベルモンド・バンデラス at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-21
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎 at:? 副案件的放送"
+  title: "月ノ美兎 at:YouTube 副案件的放送"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -484,7 +517,7 @@
   uri: 
 - date: 2018-12-21
   time: 
-  title: "？時？分～ 勇気ちひろ at:？"
+  title: "？時？分(夜)～ 勇気ちひろ＆？？？ at:？？？のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-21
