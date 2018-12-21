@@ -149,6 +149,28 @@
   uri: 
 - date: 2018-12-25
   time:
+    hour: 19
+    min: 0
+  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:? 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 21
+    min: 0
+  title: "夕陽リリ at:? 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子＆星空学園アイドルユニットH(天輝おこめ＆はかりかんな＆夏目シシ)＆風宮まつり＆犬山たまき＆朝ノ瑠璃 at:VRライブ＆天輝おこめのYouTubeチャンネル
+    星空学園 Xmas VR Live"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
     hour: 23
     min: 0
   title: "剣持刀也＆ピーナッツくん at:剣持刀也のYouTubeチャンネル クリスマス企画"
@@ -303,6 +325,13 @@
   time:
     hour: 0
     min: 0
+  title: "夕陽リリ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 0
+    min: 0
   title: "シスター・クレア at:YouTube おやすみバイノーラル ※前日22時～に変更"
   end_time: 
   uri: 
@@ -332,6 +361,13 @@
     hour: 19
     min: 0
   title: "ロリ組(勇気ちひろ＆宇志海いちご＆物述有栖＆森中花咲) at:森中花咲のYouTubeチャンネル オフラインクリスマス会"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 19
+    min: 0
+  title: "湊あくあ＆白上フブキ＆椎名唯華＆雪汝 at:湊あくあのYouTubeチャンネル Human Fall Flat"
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -477,21 +513,35 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:OPENREC.tv 大神"
+  title: "ドーラ at:OPENREC.tv 大神 ※中止"
   end_time: 
   uri: 
 - date: 2018-12-21
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:Mirrativ"
+  title: "成瀬鳴 at:Mirrativ ※"
   end_time: 
   uri: 
 - date: 2018-12-21
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube 雑談, マイクテスト"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 21
+    min: 30
+  title: "闇夜乃モルル at:YouTube ドラゴンボール映画トーク"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 21
+    min: 47
+  title: "叶 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -533,7 +583,21 @@
   time:
     hour: 22
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube"
+  title: "ベルモンド・バンデラス at:YouTube 振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 22
+    min: 0
+  title: 15分～ 勇気ちひろ＆宇志海いちご＆緑仙  at:宇志海いちご、緑仙のYouTubeチャンネル Minecraft
+  end_time: 
+  uri: 
+- date: 2018-12-21
+  time:
+    hour: 22
+    min: 35
+  title: "ドーラ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -555,16 +619,6 @@
     hour: 23
     min: 30
   title: "轟京子 at:YouTube 誕生日＆クリスマスパーティ"
-  end_time: 
-  uri: 
-- date: 2018-12-21
-  time: 
-  title: "？時？分(夜)～ 勇気ちひろ＆？？？ at:？？？のYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2018-12-21
-  time: 
-  title: "？時？分～ 宇志海いちご＆緑仙 at:? Minecraft ※12/20の配信で告知"
   end_time: 
   uri: 
 - date: 2018-12-20
