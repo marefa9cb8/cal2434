@@ -95,6 +95,13 @@
   time:
     hour: 20
     min: 0
+  title: "でびでび・でびる at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 20
+    min: 0
   title: "樋口楓 at:? ※Twitterプロフィール欄より"
   end_time: 
   uri: 
@@ -337,6 +344,41 @@
   uri: 
 - date: 2018-12-22
   time:
+    hour: 1
+    min: 7
+  title: "花畑チャイカ＆ikuyoan at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 1
+    min: 9
+  title: "叶＆ふくやマスター at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 1
+    min: 15
+  title: "勇気ちひろ＆宇志海いちご＆緑仙 at:宇志海いちごのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 1
+    min: 54
+  title: "渋谷ハジメ＆渋谷ハル＆いわながちゃん at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 9
+    min: 0
+  title: "町田ちま at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ パイ"
@@ -353,7 +395,7 @@
   time:
     hour: 17
     min: 0
-  title: "飛鳥ひな＆錦山夢鷹 at:YouTube"
+  title: "飛鳥ひな＆錦山夢鷹 at:YouTube バーチャルカレー作り"
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -381,7 +423,7 @@
   time:
     hour: 21
     min: 30
-  title: JK組(月ノ美兎＆静凛＆樋口楓) at:？ ※12/11静凛の配信で告知 ※開始時刻：樋口楓Twitterプロフィール欄より
+  title: JK組(月ノ美兎＆静凛＆樋口楓) at:？ クリスマス配信・新衣装お披露目
   end_time: 
   uri: 
 - date: 2018-12-22
@@ -520,7 +562,7 @@
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:Mirrativ ※"
+  title: "成瀬鳴 at:Mirrativ ※中止"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -590,7 +632,7 @@
   time:
     hour: 22
     min: 0
-  title: 15分～ 勇気ちひろ＆宇志海いちご＆緑仙  at:宇志海いちご、緑仙のYouTubeチャンネル Minecraft
+  title: 15分～ 勇気ちひろ＆宇志海いちご＆緑仙 at:宇志海いちご、緑仙のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-12-21
