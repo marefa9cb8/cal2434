@@ -254,6 +254,11 @@
   uri: 
 - date: 2018-12-24
   time: 
+  title: "？時？分～ 月ノ美兎 at:YouTube 歌配信 ※12/21の配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time: 
   title: "？時？分～ 本間ひまわり at:？"
   end_time: 
   uri: 
@@ -368,6 +373,20 @@
     hour: 1
     min: 54
   title: "渋谷ハジメ＆渋谷ハル＆いわながちゃん at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 4
+    min: 35
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 5
+    min: 40
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-22
