@@ -288,6 +288,13 @@
   uri: 
 - date: 2018-12-23
   time:
+    hour: 0
+    min: 30
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国 ※リマインダーサムネイルより"
+  end_time: 
+  uri: 
+- date: 2018-12-23
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:REALITY REALITY Festival :connect 樋口楓の歌番組！"
@@ -406,15 +413,22 @@
 - date: 2018-12-22
   time:
     hour: 9
-    min: 0
-  title: "町田ちま at:YouTube"
+    min: 30
+  title: 40分～ 町田ちま at:YouTube ※9時から変更
   end_time: 
   uri: 
 - date: 2018-12-22
   time:
     hour: 10
     min: 46
-  title: "緑仙 at:YouTube"
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-22
+  time:
+    hour: 12
+    min: 30
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-22
