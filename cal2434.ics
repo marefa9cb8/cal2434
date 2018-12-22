@@ -81,7 +81,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181227T000000
-SUMMARY:椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる at:？ 麻雀 ※12/20椎名唯華の配信にて告知
+SUMMARY:椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる　実況、解説：舞元啓介＆ジョー・力一at:？ 麻雀 ※12/20椎名唯華の配信にて告知
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -399,7 +399,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181222T150000
-SUMMARY:夢追翔＆ぴろぱる＆夏色まつり＆天城てん＆星月せい at:YouTube 廃墟セッション
+SUMMARY:夢追翔＆ぴろぱる＆夏色まつり＆天城てん＆星月せい at:YouTube 廃墟セッション ※延期
 URL:
 DESCRIPTION:
 END:VEVENT
