@@ -376,7 +376,7 @@
   time:
     hour: 1
     min: 16
-  title: "葛葉 at:YouTube 雑談"
+  title: "葛葉 at:YouTube 雑談, Thief Simulator"
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -390,21 +390,28 @@
   time:
     hour: 3
     min: 34
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-23
+  time:
+    hour: 4
+    min: 0
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
   end_time: 
   uri: 
 - date: 2018-12-23
   time:
     hour: 17
     min: 0
-  title: "伏見ガク at:？ Bendy and the Ink Machine"
+  title: "伏見ガク at:YouTube Bendy and the Ink Machine"
   end_time: 
   uri: 
 - date: 2018-12-23
   time:
     hour: 18
     min: 0
-  title: "夕陽リリ at:YouTube ※YouTubeリマインダーより"
+  title: "夕陽リリ at:YouTube マリオカート8 デラックス ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-12-23
