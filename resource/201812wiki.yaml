@@ -256,6 +256,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:？ 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 0
+    min: 0
   title: "ベルモンド・バンデラス at:YouTube ベルサンタ"
   end_time: 
   uri: 
@@ -423,7 +430,7 @@
   time:
     hour: 13
     min: 55
-  title: cresc.(緑仙＆ドーラ＆シスター・クレア) at:緑仙のYouTubeチャンネル
+  title: cresc.(緑仙＆ドーラ＆シスター・クレア) at:緑仙のYouTubeチャンネル ドライブ
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -437,7 +444,7 @@
   time:
     hour: 18
     min: 0
-  title: "夕陽リリ at:YouTube マリオカート8 デラックス ※YouTubeリマインダーより"
+  title: "夕陽リリ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -486,7 +493,7 @@
   time:
     hour: 21
     min: 0
-  title: "遠北千南 at:? 創作企画"
+  title: "遠北千南 at:YouTube 創作企画"
   end_time: 
   uri: 
 - date: 2018-12-23
@@ -500,14 +507,14 @@
   time:
     hour: 22
     min: 0
-  title: "社築 at:? ※Twitterネームより"
+  title: "社築 at:YouTube Pony Island"
   end_time: 
   uri: 
 - date: 2018-12-23
   time:
     hour: 23
     min: 0
-  title: RRR（ジョー・力一＆鷹宮リオン＆竜胆尊）  at:？ 秘密のR城#0
+  title: RRR（ジョー・力一＆鷹宮リオン＆竜胆尊）  at:鷹宮リオンのYouTubeチャンネル 秘密のR城#0
   end_time: 
   uri: 
 - date: 2018-12-23
