@@ -277,7 +277,21 @@
   time:
     hour: 0
     min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 0
+    min: 0
   title: "ベルモンド・バンデラス at:YouTube ベルサンタ, The House, The House2, OUTLAST"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 0
+    min: 30
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -285,6 +299,13 @@
     hour: 1
     min: 0
   title: "黒井しば at:YouTube クリスマス会"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 1
+    min: 11
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-24
