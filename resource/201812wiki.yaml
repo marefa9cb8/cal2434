@@ -402,6 +402,13 @@
   uri: 
 - date: 2018-12-23
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2018-12-23
+  time:
     hour: 17
     min: 0
   title: "伏見ガク at:YouTube Bendy and the Ink Machine"
@@ -865,7 +872,7 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:BS日テレ 『のばん組』ゲスト出演"
+  title: "キズナアイ at:BS日テレ『のばん組』"
   end_time: 
   uri: 
 - date: 2018-12-21
@@ -4650,7 +4657,7 @@
   time:
     hour: 19
     min: 0
-  title: "キズナアイ at:BS日テレ のばん組"
+  title: "キズナアイ at:BS日テレ『のばん組』"
   end_time: 
   uri: 
 - date: 2018-12-01
