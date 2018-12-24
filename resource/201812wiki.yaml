@@ -304,7 +304,7 @@
   time:
     hour: 0
     min: 30
-  title: 01時00分～ 家長むぎ at:YouTube クリスマスASMR  Mirrativ 雑談
+  title: 01時00分～ 家長むぎ at:YouTube Mirrativ クリスマスASMR 雑談
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -346,6 +346,13 @@
   time:
     hour: 19
     min: 0
+  title: "文野環 at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 19
+    min: 0
   title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
@@ -361,6 +368,13 @@
     hour: 20
     min: 0
   title: "森中花咲 at:YouTube 懺悔配信"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆柊椋 at:YouTube 渋谷カフェ：つなげようお客様の輪 第17回"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -404,6 +418,13 @@
     hour: 22
     min: 0
   title: "黒井しば＆星月せい＆天城てん＆レンチ at:レンチのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 40
+  title: "飛鳥ひな at:?"
   end_time: 
   uri: 
 - date: 2018-12-25
