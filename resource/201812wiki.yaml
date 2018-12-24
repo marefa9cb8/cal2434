@@ -193,7 +193,49 @@
   time:
     hour: 0
     min: 0
+  title: "物述有栖 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり at:？"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:? クリスマス企画"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 15
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 30
+  title: "家長むぎ at:？ クリスマスASMR"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 1
+    min: 0
+  title: "竜胆尊 at:?"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -331,9 +373,30 @@
   uri: 
 - date: 2018-12-24
   time:
+    hour: 7
+    min: 45
+  title: "葛葉 at:YouTube Atlas"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 8
+    min: 0
+  title: "緑仙 at:YouTube スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
     hour: 13
     min: 0
   title: "卯月コウ at:Youtube ギャルゲー"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 15
+    min: 0
+  title: "神田笑一 at:?"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -345,9 +408,44 @@
   uri: 
 - date: 2018-12-24
   time:
+    hour: 18
+    min: 30
+  title: "森中花咲 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
     hour: 20
     min: 0
   title: "静凛＆剣持刀也＆叶＆本間ひまわり＆ドーラ at:にじさんじ公式YouTubeチャンネル 第4.5回「にじさんじMIX UP!!」クリスマス特番"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 21
+    min: 30
+  title: "椎名唯華＆花畑チャイカ at:椎名唯華のYouTubeチャンネル クリスマスデート対決"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 21
+    min: 30
+  title: "竜胆尊 at:?"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -394,22 +492,7 @@
   uri: 
 - date: 2018-12-24
   time: 
-  title: "？時？分(深夜)～ 家長むぎ at:？ クリスマスASMR"
-  end_time: 
-  uri: 
-- date: 2018-12-24
-  time: 
-  title: "？時？分～ 本間ひまわり at:？"
-  end_time: 
-  uri: 
-- date: 2018-12-24
-  time: 
   title: "？時？分～ 神田笑一 at:Mirrativ ブッシュドノエル作り"
-  end_time: 
-  uri: 
-- date: 2018-12-24
-  time: 
-  title: "？時？分～ 桜凛月 at:?"
   end_time: 
   uri: 
 - date: 2018-12-23
