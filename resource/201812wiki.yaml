@@ -61,6 +61,13 @@
   end_time: 
   uri: 
 - date: 2018-12-30
+  time:
+    hour: 23
+    min: 0
+  title: "鷹宮リオン＆ジョー・力一 at:? ばったりラジオ ※12月25日鷹宮リオンの放送終盤で告知"
+  end_time: 
+  uri: 
+- date: 2018-12-30
   time: 
   title: "？時？分(早朝?)～ ドーラ at:? 冬コミ応援"
   end_time: 
@@ -241,7 +248,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴鹿詩子 at:? 飲酒配信"
+  title: "鈴鹿詩子 at:YouTube クリスマス＆忘年会"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -262,7 +269,14 @@
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり at:YouTube"
+  title: "本間ひまわり at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 0
+  title: "葛葉 at:YouTube ATLAS"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -281,20 +295,6 @@
   uri: 
 - date: 2018-12-25
   time:
-    hour: 0
-    min: 15
-  title: "静凛 at:?"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
-    hour: 0
-    min: 30
-  title: "家長むぎ at:YouTube クリスマスASMR"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
     hour: 1
     min: 0
   title: "渋谷ハジメ at:YouTube Vtuber限定凸待ち"
@@ -302,9 +302,16 @@
   uri: 
 - date: 2018-12-25
   time:
+    hour: 0
+    min: 30
+  title: 01時00分～ 家長むぎ at:YouTube クリスマスASMR  Mirrativ 雑談
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube Minecraft"
+  title: "鈴木勝 at:YouTube(新チャンネル) Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -312,6 +319,13 @@
     hour: 1
     min: 0
   title: "竜胆尊 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 0
+    min: 15
+  title: 01時45分～ 静凛 at:YouTube
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -326,6 +340,13 @@
     hour: 16
     min: 30
   title: "安土桃 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-12-25
