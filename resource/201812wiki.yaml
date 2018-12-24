@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:? マリオカート8"
+  title: "竜胆尊 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -207,7 +207,7 @@
   time:
     hour: 0
     min: 0
-  title: "物述有栖 at:?"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -235,21 +235,28 @@
   time:
     hour: 0
     min: 30
-  title: "家長むぎ at:？ クリスマスASMR"
+  title: "家長むぎ at:YouTube クリスマスASMR"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:?"
+  title: "鈴木勝 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 1
     min: 0
-  title: "竜胆尊 at:?"
+  title: "竜胆尊 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 16
+    min: 30
+  title: "安土桃 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -257,6 +264,13 @@
     hour: 19
     min: 0
   title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:? 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube 懺悔配信"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -272,6 +286,13 @@
     min: 0
   title: "鈴鹿詩子＆星空学園アイドルユニットH(天輝おこめ＆はかりかんな＆夏目シシ)＆風宮まつり＆犬山たまき＆朝ノ瑠璃 at:VRライブ＆天輝おこめのYouTubeチャンネル
     星空学園 Xmas VR Live"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -298,11 +319,6 @@
 - date: 2018-12-25
   time: 
   title: "？時？分～ 渋谷ハジメ at:？"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time: 
-  title: "？時？分(夜)～ 森中花咲 at:？"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -408,7 +424,7 @@
   time:
     hour: 10
     min: 0
-  title: "神田笑一 at:YouTube オーバーウォッチ"
+  title: "神田笑一 at:YouTube Overwatch"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -485,7 +501,7 @@
   time:
     hour: 21
     min: 30
-  title: "竜胆尊 at:?"
+  title: "竜胆尊 at:YouTube プレゼント開封, RRR感想会"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -499,7 +515,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:YouTube プレミア公開 歌動画"
+  title: "樋口楓 at:YouTube プレミア公開 皐月の風"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -507,6 +523,13 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 1月映画紹介"
+  end_time: 
+  uri: 
+- date: 2018-12-24
+  time:
+    hour: 22
+    min: 20
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-12-24
@@ -520,7 +543,7 @@
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎 at:YouTube 歌配信 ※12/21の配信で告知・12/22の配信で時間告知"
+  title: "月ノ美兎 at:YouTube 歌 ※12/21・12/22の配信＆Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-12-24
