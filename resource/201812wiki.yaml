@@ -79,12 +79,19 @@
   uri: 
 - date: 2018-12-30
   time: 
-  title: "？時？分～ cresc.(ドーラ＆シスター・クレア＆緑仙) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル コミケ配信①"
+  title: "？時？分～ cresc.(ドーラ＆シスター・クレア＆緑仙) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け①"
   end_time: 
   uri: 
 - date: 2018-12-30
   time: 
-  title: "？時？分～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル コミケ配信②"
+  title: "？時？分～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け②"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 0
+    min: 0
+  title: "森中花咲 at:YouTube 花咲の悪いコNight#8 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -124,12 +131,12 @@
   uri: 
 - date: 2018-12-29
   time: 
-  title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル コミケ配信①"
+  title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け①"
   end_time: 
   uri: 
 - date: 2018-12-29
   time: 
-  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル コミケ配信②"
+  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け②"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -234,14 +241,28 @@
   time:
     hour: 0
     min: 30
-  title: "ジョー・力一 at:YouTube"
+  title: "ジョー・力一 at:YouTube 振り返り雑談, 告知"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 0
+    min: 33
+  title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 0
+    min: 53
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード ※前日23時予定から遅れて開始"
   end_time: 
   uri: 
 - date: 2018-12-26
   time:
     hour: 1
     min: 0
-  title: "花畑チャイカ at:?"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -269,7 +290,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube? イメージソングを語る ※12/20の配信で告知"
+  title: "樋口楓 at:YouTube? イメージソング語り ※12/20の配信で告知＆Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -529,6 +550,13 @@
   time:
     hour: 22
     min: 0
+  title: "ドーラ at:? ※中止"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 0
   title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -578,13 +606,6 @@
   time:
     hour: 23
     min: 0
-  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード ※"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
-    hour: 23
-    min: 0
   title: "舞元啓介 at:YouTube Xmas飲み雑談"
   end_time: 
   uri: 
@@ -592,14 +613,14 @@
   time:
     hour: 23
     min: 30
-  title: "叶 at:YouTube"
+  title: "叶 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 23
     min: 45
-  title: ChroNoiR(叶＆葛葉) at:？
+  title: 58分～ ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル Five Nights at Freddy's
   end_time: 
   uri: 
 - date: 2018-12-24
