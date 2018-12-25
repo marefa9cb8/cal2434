@@ -374,7 +374,21 @@
   time:
     hour: 15
     min: 30
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 16
+    min: 20
+  title: "渋谷ハジメ＆日ノ隈らん＆神楽めあ at:日ノ隈らんのYouTubeチャンネル 麻雀"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 16
+    min: 20
+  title: "本間ひまわり＆ドーラ at:本間ひまわりのMirrativ"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -386,9 +400,16 @@
   uri: 
 - date: 2018-12-25
   time:
+    hour: 16
+    min: 30
+  title: "でびでび・でびる at:YouTube プレミア公開 クリスマスグロホラー映画10選"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
     hour: 18
     min: 0
-  title: "神田笑一 at:?"
+  title: "神田笑一 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -445,7 +466,7 @@
   time:
     hour: 21
     min: 0
-  title: "椎名唯華 at:?"
+  title: "椎名唯華 at:YouTube クリスマスプレゼント開封"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -515,13 +536,6 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 叶 at:？"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
-    hour: 23
-    min: 0
   title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
   end_time: 
   uri: 
@@ -530,6 +544,13 @@
     hour: 23
     min: 0
   title: "舞元啓介 at:YouTube Xmas飲み雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 23
+    min: 30
+  title: "叶 at:？ ※23時から変更"
   end_time: 
   uri: 
 - date: 2018-12-25
