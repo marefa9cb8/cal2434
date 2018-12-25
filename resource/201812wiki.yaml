@@ -57,14 +57,14 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #8"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのMirrativ まほすずラジオ #8 オフライン温泉旅行"
   end_time: 
   uri: 
 - date: 2018-12-30
   time:
     hour: 23
     min: 0
-  title: "鷹宮リオン＆ジョー・力一 at:? ばったりラジオ ※12月25日鷹宮リオンの放送終盤で告知"
+  title: "鷹宮リオン＆ジョー・力一 at:? ばったりラジオ"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -218,6 +218,27 @@
   uri: 
 - date: 2018-12-26
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube クリスマスプレゼント開封 ※前日から時間変更(YouTubeリマインダーより)"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 0
+    min: 30
+  title: "ジョー・力一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 1
+    min: 0
+  title: "花畑チャイカ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
     hour: 12
     min: 0
   title: "にじさんじのくじじゅうじ#1～10 過去分一挙放送 at:AbemaTVウルトラゲームス"
@@ -248,7 +269,7 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:? もいらじSP"
+  title: "モイラ at:YouTube MoimoiRadio もいらじSP"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -416,13 +437,6 @@
   time:
     hour: 19
     min: 0
-  title: "文野環 at:YouTube 新衣装お披露目"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
-    hour: 19
-    min: 0
   title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
@@ -430,7 +444,7 @@
   time:
     hour: 19
     min: 0
-  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:YouTube 伝説対決 -Arena of Valor-"
+  title: 15分～ 文野環 at:YouTube
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -465,13 +479,6 @@
 - date: 2018-12-25
   time:
     hour: 21
-    min: 0
-  title: "椎名唯華 at:YouTube クリスマスプレゼント開封"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time:
-    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭)"
   end_time: 
@@ -494,7 +501,14 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:?"
+  title: "おしぃりぃ(椎名唯華＆魔界ノりりむ) at:両名のYouTubeチャンネル 伝説対決 -Arena of Valor- ※19時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 0
+  title: "?～ ドーラ at:?"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -551,11 +565,6 @@
     hour: 23
     min: 30
   title: "叶 at:？ ※23時から変更"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:？ タコ焼きパーティー ※12/8Mirrativ配信にて告知"
   end_time: 
   uri: 
 - date: 2018-12-24
