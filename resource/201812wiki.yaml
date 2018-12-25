@@ -330,9 +330,23 @@
   uri: 
 - date: 2018-12-25
   time:
+    hour: 9
+    min: 32
+  title: "緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 10
+    min: 11
+  title: "宇志海いちご at:YouTube 絵文字作り"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
     hour: 12
     min: 0
-  title: "雪汝＆癒月ちょこ at:？"
+  title: "雪汝＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -410,6 +424,13 @@
   time:
     hour: 22
     min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
@@ -454,11 +475,6 @@
 - date: 2018-12-25
   time: 
   title: "？時？分～ 闇夜乃モルル at:？ タコ焼きパーティー ※12/8Mirrativ配信にて告知"
-  end_time: 
-  uri: 
-- date: 2018-12-25
-  time: 
-  title: "？時？分～ 春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-24
