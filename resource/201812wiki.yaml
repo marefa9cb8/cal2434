@@ -116,6 +116,13 @@
   end_time: 
   uri: 
 - date: 2018-12-29
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓＆叶＆葛葉 at:歌衣メイカのYouTubeチャンネル V紅白歌合戦"
+  end_time: 
+  uri: 
+- date: 2018-12-29
   time: 
   title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル コミケ配信①"
   end_time: 
@@ -213,14 +220,14 @@
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり at:?"
+  title: "本間ひまわり at:? ※中止"
   end_time: 
   uri: 
 - date: 2018-12-26
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube クリスマスプレゼント開封 ※前日から時間変更(YouTubeリマインダーより)"
+  title: "椎名唯華 at:YouTube クリスマスプレゼント開封 ※前日から時間変更"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -248,7 +255,7 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  title: "雪汝＆鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -263,6 +270,13 @@
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube? イメージソングを語る ※12/20の配信で告知"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 21
+    min: 0
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -472,8 +486,15 @@
   time:
     hour: 21
     min: 0
-  title: "鈴鹿詩子＆星空学園アイドルユニットH(天輝おこめ＆はかりかんな＆夏目シシ)＆風宮まつり＆犬山たまき＆朝ノ瑠璃 at:VRライブ＆天輝おこめのYouTubeチャンネル
+  title: "鈴鹿詩子＆星空学園アイドルユニットH(天輝おこめ＆はかりかんな＆夏目シシ)＆風宮まつり＆犬山たまき＆朝ノ瑠璃＆丸尾ぺこ at:VRライブ＆天輝おこめのYouTubeチャンネル
     星空学園 Xmas VR Live"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 21
+    min: 0
+  title: "大空スバル＆テトラ at:大空スバルのYouTubeチャンネル クリスマス会雑談"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -487,14 +508,14 @@
   time:
     hour: 22
     min: 0
-  title: "渋谷ハジメ at:? プチお披露目"
+  title: "渋谷ハジメ at:YouTube オプションお披露目"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 22
     min: 0
-  title: "家長むぎ at:？"
+  title: "家長むぎ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -508,35 +529,42 @@
   time:
     hour: 22
     min: 0
-  title: "?～ ドーラ at:?"
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 22
     min: 0
-  title: "春崎エアル at:YouTube"
+  title: "春崎エアル at:YouTube ホールケーキ喫食"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube"
+  title: 18分～ 黒井しば＆星月せい＆天城てん＆レンチ at:レンチのYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 22
     min: 0
-  title: "黒井しば＆星月せい＆天城てん＆レンチ at:レンチのYouTubeチャンネル Minecraft"
+  title: 24分～ でびでび・でびる at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 22
+    min: 28
+  title: "町田ちま at:Mirrativ"
   end_time: 
   uri: 
 - date: 2018-12-25
   time:
     hour: 22
     min: 40
-  title: "飛鳥ひな at:?"
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -550,7 +578,7 @@
   time:
     hour: 23
     min: 0
-  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード ※"
   end_time: 
   uri: 
 - date: 2018-12-25
@@ -564,7 +592,14 @@
   time:
     hour: 23
     min: 30
-  title: "叶 at:？ ※23時から変更"
+  title: "叶 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-25
+  time:
+    hour: 23
+    min: 45
+  title: ChroNoiR(叶＆葛葉) at:？
   end_time: 
   uri: 
 - date: 2018-12-24
