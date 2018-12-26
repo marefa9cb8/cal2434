@@ -183,6 +183,20 @@
   uri: 
 - date: 2018-12-27
   time:
+    hour: 0
+    min: 15
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 0
+    min: 30
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
     hour: 19
     min: 0
   title: "闇夜乃モルル at:? World of Warships"
@@ -274,6 +288,13 @@
   uri: 
 - date: 2018-12-26
   time:
+    hour: 9
+    min: 56
+  title: "緑仙 at:YouTube スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
     hour: 12
     min: 0
   title: "にじさんじのくじじゅうじ#1～10 過去分一挙放送 at:AbemaTVウルトラゲームス"
@@ -304,7 +325,22 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube"
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #13』"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 21
+    min: 0
+  title: "える＆シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 21
+    min: 20
+  title: "静凛 at:?"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -318,7 +354,28 @@
   time:
     hour: 22
     min: 0
+  title: "ドーラ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 22
+    min: 0
   title: "竜胆尊＆周防パトラ at:? Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-25
