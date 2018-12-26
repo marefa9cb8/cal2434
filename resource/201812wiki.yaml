@@ -90,6 +90,13 @@
   uri: 
 - date: 2018-12-30
   time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube 2018年振り返り"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
     hour: 21
     min: 0
   title: "夢追翔＆黒井しば+ゲスト：ベルモンド・バンデラス at:YouTube もやしばラジオ #2 ゆめおとしばの雨にも負けず風にも負けず(めしまず)"
@@ -197,6 +204,13 @@
   uri: 
 - date: 2018-12-28
   time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube 2018年振り返り"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube(新チャンネル) チャンネル名候補募集, 作業"
@@ -247,29 +261,57 @@
 - date: 2018-12-27
   time:
     hour: 0
-    min: 0
-  title: "椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる at:? にじさんじ麻雀王決定戦"
-  end_time: 
-  uri: 
-- date: 2018-12-27
-  time:
-    hour: 0
-    min: 0
-  title: "社築＆舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル にじさんじ麻雀王決定戦裏実況・解説"
-  end_time: 
-  uri: 
-- date: 2018-12-27
-  time:
-    hour: 0
     min: 15
-  title: "静凛 at:?"
+  title: "静凛 at:? ※中止"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 0
+    min: 0
+  title: 30分～ 椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる at:各々のYouTubeチャンネル にじさんじ麻雀王決定戦
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 0
+    min: 0
+  title: 30分～ 社築＆舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル にじさんじ麻雀王決定戦裏実況・解説
   end_time: 
   uri: 
 - date: 2018-12-27
   time:
     hour: 0
     min: 30
-  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) Minecraft"
+  title: 49分～ 勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) Minecraft
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 0
+    min: 55
+  title: "渋谷ハジメ at:YouTube 歌練習"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 12
+    min: 0
+  title: "夢追翔 at:YouTube 昼歌(ポルノグラフィティ縛り)"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 14
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 19
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -318,6 +360,13 @@
   time:
     hour: 22
     min: 0
+  title: "轟京子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 22
+    min: 0
   title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
   end_time: 
   uri: 
@@ -325,7 +374,14 @@
   time:
     hour: 23
     min: 0
-  title: "闇夜乃モルル at:? みんなのリズム天国"
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 22
+    min: 0
+  title: "静凛 at:YouTube にじ3Dお披露目"
   end_time: 
   uri: 
 - date: 2018-12-26
