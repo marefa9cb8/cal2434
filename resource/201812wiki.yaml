@@ -55,6 +55,20 @@
   uri: 
 - date: 2018-12-30
   time:
+    hour: 17
+    min: 0
+  title: "家長むぎ＆夕陽リリ at:? 忘年会"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 18
+    min: 0
+  title: "?～ 出雲霞 at:? 年納め"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
     hour: 19
     min: 0
   title: "赤羽葉子 at:？ World of Warships"
@@ -84,11 +98,6 @@
 - date: 2018-12-30
   time: 
   title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分(昼?)～ 出雲霞 at:? 年納め"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -160,6 +169,13 @@
   uri: 
 - date: 2018-12-28
   time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube(新チャンネル) チャンネル名候補募集, 作業"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:? クッキー作り"
@@ -197,14 +213,14 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる at:？ にじさんじ麻雀王決定戦 ※12/20椎名唯華の配信にて告知"
+  title: "椎名唯華＆緑仙＆鷹宮リオン＆でびでび・でびる at:？ にじさんじ麻雀王決定戦"
   end_time: 
   uri: 
 - date: 2018-12-27
   time:
     hour: 0
     min: 0
-  title: "社築＆舞元啓介＆ジョー・力一 at:? にじさんじ麻雀王決定戦裏実況"
+  title: "社築＆舞元啓介＆ジョー・力一 at:? にじさんじ麻雀王決定戦裏実況・解説"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -232,21 +248,21 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube 伝説対決 -Arena of Valor-"
+  title: "樋口楓 at:? ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2018-12-27
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:? ※Twitterプロフィール欄より"
+  title: "でびでび・でびる at:YouTube 伝説対決 -Arena of Valor-"
   end_time: 
   uri: 
 - date: 2018-12-27
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎＆鈴鹿詩子＆雪汝＆シスター・クレア at:にじさんじ公式YouTubeチャンネル 第5回「にじさんじMIX UP!!」にじさんじ大清楚選手権"
+  title: "月ノ美兎＆鈴鹿詩子＆雪汝＆シスター・クレア at:にじさんじ公式YouTubeチャンネル 第5回「にじさんじMIX UP!!」 にじさんじ大清楚選手権"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -344,6 +360,13 @@
   time:
     hour: 19
     min: 0
+  title: "森中花咲 at:YouTube プレミア公開 歌ってみた いかないで MIX Ver."
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube マシュマロ＆セリフ読み"
   end_time: 
   uri: 
@@ -351,7 +374,14 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube? イメージソング語り ※12/20の配信で告知＆Twitterネームより"
+  title: "樋口楓 at:YouTube イメージソング語り"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 21
+    min: 0
+  title: "える＆シスター・クレア at:シスター・クレアのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -360,13 +390,6 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #13』"
-  end_time: 
-  uri: 
-- date: 2018-12-26
-  time:
-    hour: 21
-    min: 0
-  title: "える＆シスター・クレア at:シスター・クレアのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -387,7 +410,14 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:?"
+  title: "叶 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube ケンタッキー喫食, 雑談"
   end_time: 
   uri: 
 - date: 2018-12-26
