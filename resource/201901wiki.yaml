@@ -15,6 +15,20 @@
     UP!!」にて告知"
   end_time: 
   uri: 
+- date: 2019-01-06
+  time:
+    hour: 21
+    min: 0
+  title: "森中花咲＆？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:? Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-01-03
   time:
     hour: 18
@@ -56,5 +70,19 @@
     hour: 23
     min: 35
   title: "月ノ美兎＆静凛＆樋口楓＆剣持刀也 at:総合テレビ NHKバーチャルのど自慢"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 19
+    min: 30
+  title: "森中花咲 at:? 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲＆? at:?"
   end_time: 
   uri: 
