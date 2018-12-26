@@ -24,6 +24,13 @@
   time:
     hour: 22
     min: 0
+  title: "ドーラ at:? 年越し配信?"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
@@ -36,7 +43,7 @@
   uri: 
 - date: 2018-12-31
   time: 
-  title: "？時？分(早朝?)～ ドーラ at:? 冬コミ応援"
+  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -76,7 +83,7 @@
   uri: 
 - date: 2018-12-30
   time: 
-  title: "？時？分(早朝?)～ ドーラ at:? 冬コミ応援"
+  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -138,6 +145,11 @@
   uri: 
 - date: 2018-12-29
   time: 
+  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time: 
   title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け①"
   end_time: 
   uri: 
@@ -171,7 +183,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:Mirrativ 料理"
+  title: "ドーラ at:Mirrativ 夕食作り"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -325,7 +337,14 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? 伝説対決 -Arena of Valor-"
+  title: "渋谷ハジメ at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube マシュマロ＆セリフ読み"
   end_time: 
   uri: 
 - date: 2018-12-26
@@ -375,7 +394,21 @@
   time:
     hour: 22
     min: 0
-  title: "竜胆尊＆周防パトラ at:? Minecraft"
+  title: "春崎エアル＆花笠イリヤ＆錦山夢鷹＆皇噛ユカリ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 22
+    min: 0
+  title: "竜胆尊＆周防パトラ at:周防パトラのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-26
+  time:
+    hour: 23
+    min: 0
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国 ※リマインダーサムネイルより"
   end_time: 
   uri: 
 - date: 2018-12-26
