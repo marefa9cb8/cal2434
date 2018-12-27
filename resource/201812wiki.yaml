@@ -213,7 +213,7 @@
   time:
     hour: 0
     min: 0
-  title: "宇志海いちご＆？ at:? お絵描き"
+  title: "宇志海いちご＆？？？ at:? お絵描き(MagicalDraw)"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -235,6 +235,13 @@
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube(新チャンネル) チャンネル名候補募集, 作業"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -379,14 +386,14 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:YouTube Shadowverse"
+  title: "椎名唯華 at:YouTube Shadowverse 新パック開封"
   end_time: 
   uri: 
 - date: 2018-12-27
   time:
     hour: 19
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -415,6 +422,13 @@
     hour: 20
     min: 0
   title: "でびでび・でびる at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
+    hour: 20
+    min: 41
+  title: "宇志海いちご＆文野環 at:文野環のMirrativ どうぶつタワーバトル"
   end_time: 
   uri: 
 - date: 2018-12-27
