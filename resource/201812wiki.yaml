@@ -154,6 +154,13 @@
   uri: 
 - date: 2018-12-29
   time:
+    hour: 14
+    min: 40
+  title: "雨森小夜 at:? 諸連絡＆歌"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
     hour: 18
     min: 0
   title: "樋口楓 at:ニコニコ生放送 『ネットユーザーが本気で選ぶ！アニメ総選挙2018秋』ゲストレポーターとして出演"
@@ -213,21 +220,21 @@
   time:
     hour: 0
     min: 0
-  title: "宇志海いちご＆矢車りね at:各々のYouTubeチャンネル お絵描き(MagicalDraw)"
+  title: 15分～ 宇志海いちご＆矢車りね at:両名のYouTubeチャンネル お絵描き(MagicalDraw)
   end_time: 
   uri: 
 - date: 2018-12-28
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 2018年振り返り"
+  title: 17分～ 剣持刀也 at:YouTube 2018年振り返り
   end_time: 
   uri: 
 - date: 2018-12-28
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube ドラゴンクエストビルダーズ2"
+  title: 01時00分～ 椎名唯華 at:YouTube ドラゴンクエストビルダーズ2
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -235,6 +242,13 @@
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube(新チャンネル) チャンネル名候補募集, 作業"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 1
+    min: 26
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -274,6 +288,13 @@
   uri: 
 - date: 2018-12-28
   time:
+    hour: 20
+    min: 0
+  title: "椎名唯華＆SUMOMOXqX(すもも)＆MC：岸大河 at:ドラゴンクエストビルダーズ２オプレク島のOPENREC.tvチャンネル ドラゴンクエストビルダーズ2"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
     hour: 21
     min: 0
   title: "夕陽リリ at:?"
@@ -305,6 +326,11 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube レゴシティ"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time: 
+  title: "？時？分(深夜or朝)～ 叶 at:YouTube ATLAS"
   end_time: 
   uri: 
 - date: 2018-12-28
