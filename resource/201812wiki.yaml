@@ -17,7 +17,7 @@
   time:
     hour: 20
     min: 0
-  title: "える＆樋口楓＆静凛＆家長むぎ at:VR SPARC、キズナアイのYouTubeチャンネル、各AEON CINEMA"
+  title: "える＆樋口楓＆静凛＆家長むぎ at:VR SPARC、キズナアイのYouTubeチャンネル、各AEON CINEMA Count0 第一部 Vtuberライブバトル"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -46,6 +46,11 @@
     hour: 23
     min: 30
   title: "鈴谷アキ at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time: 
+  title: "？時？分～ 渋谷ハジメ at:? 大晦日カウントダウン"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -79,6 +84,13 @@
     hour: 19
     min: 0
   title: "赤羽葉子 at:? World of Warships"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube 英会話教室"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -163,7 +175,7 @@
   time:
     hour: 18
     min: 0
-  title: "樋口楓 at:ニコニコ生放送 『ネットユーザーが本気で選ぶ！アニメ総選挙2018秋』ゲストレポーターとして出演"
+  title: "樋口楓 at:ニコニコ生放送 『ネットユーザーが本気で選ぶ！アニメ総選挙2018秋』 ゲストレポーター"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -185,6 +197,13 @@
     hour: 20
     min: 0
   title: "樋口楓＆叶＆葛葉 at:歌衣メイカのYouTubeチャンネル V紅白歌合戦"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆渋谷ハル＆白雪レイド＆青猫えいむ at:? PUBG"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -284,6 +303,13 @@
     hour: 20
     min: 0
   title: "える at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube 忘年会(1年振り返り雑談)"
   end_time: 
   uri: 
 - date: 2018-12-28
