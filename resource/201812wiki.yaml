@@ -156,7 +156,7 @@
   time:
     hour: 19
     min: 0
-  title: "椎名唯華 at:? World of Warships"
+  title: "椎名唯華 at:YouTube World of Warships"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -177,7 +177,14 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:? Minecraft"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -213,7 +220,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? ドラゴンクエストビルダーズ2"
+  title: "椎名唯華 at:YouTube ドラゴンクエストビルダーズ2"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -265,6 +272,18 @@
   title: "遠北千南 at:? 定期配信"
   end_time: 
   uri: 
+- date: 2018-12-28
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube レゴシティ"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time: 
+  title: "？時？分(朝)～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
 - date: 2018-12-27
   time:
     hour: 0
@@ -302,6 +321,13 @@
   uri: 
 - date: 2018-12-27
   time:
+    hour: 11
+    min: 49
+  title: "緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-27
+  time:
     hour: 12
     min: 0
   title: "夢追翔 at:YouTube 昼歌(ポルノグラフィティ縛り)"
@@ -311,7 +337,7 @@
   time:
     hour: 14
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば at:YouTube The Isle"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -360,7 +386,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube 雑談 ※中止"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -381,7 +407,7 @@
   time:
     hour: 22
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会"
+  title: "八朔ゆず＆でびでび・でびる at:YouTube 映画鑑賞会 ※延期"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -395,7 +421,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆花畑チャイカ at:? レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2018-12-27
