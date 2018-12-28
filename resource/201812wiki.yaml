@@ -8,9 +8,23 @@
   uri: 
 - date: 2018-12-31
   time:
+    hour: 4
+    min: 0
+  title: "ドーラ at:YouTube 冬コミ応援 ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 今年最後に食べたい和食"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 13
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -45,6 +59,13 @@
   time:
     hour: 23
     min: 0
+  title: "渋谷ハジメ at:? 大晦日カウントダウン ※開始時刻：12/28忘年会配信より"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 23
+    min: 0
   title: "森中花咲 at:YouTube プレミア公開 歌"
   end_time: 
   uri: 
@@ -64,17 +85,14 @@
   uri: 
 - date: 2018-12-31
   time: 
-  title: "？時？分(23時頃)～ 渋谷ハジメ at:? 大晦日カウントダウン"
-  end_time: 
-  uri: 
-- date: 2018-12-31
-  time: 
   title: "？時？分(夜)～ 椎名唯華＆花畑チャイカ at:? Minecraft ※12/27配信にて告知"
   end_time: 
   uri: 
-- date: 2018-12-31
-  time: 
-  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
+- date: 2018-12-30
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:YouTube 半年振り返りたこ焼きパーティ ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -86,9 +104,30 @@
   uri: 
 - date: 2018-12-30
   time:
+    hour: 4
+    min: 0
+  title: "ドーラ at:YouTube 冬コミ応援 ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 12
+    min: 0
+  title: "コミケ生配信 2日目 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
     hour: 17
     min: 0
   title: "家長むぎ＆夕陽リリ at:? 忘年会"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 17
+    min: 30
+  title: "闇夜乃モルル at:YouTube 1人バーチャルレコード大賞  ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -147,21 +186,6 @@
   title: "鷹宮リオン＆ジョー・力一 at:? ばったりラジオ"
   end_time: 
   uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分～ cresc.(ドーラ＆シスター・クレア＆緑仙) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け①"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分～ 叶＆赤羽葉子＆本間ひまわり＆葛葉 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け②"
-  end_time: 
-  uri: 
 - date: 2018-12-29
   time:
     hour: 0
@@ -173,14 +197,42 @@
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり at:YouTube"
+  title: "本間ひまわり at:YouTube Steamワンコインチャレンジ(Oakwood)"
   end_time: 
   uri: 
 - date: 2018-12-29
   time:
     hour: 0
+    min: 1
+  title: "葛葉 at:YouTube ATLAS"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 1
+    min: 9
+  title: "叶 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 2
+    min: 29
+  title: "神田笑一 at:YouTube Pokémon TCG Online"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 4
     min: 0
-  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  title: "ドーラ at:YouTube 冬コミ応援 ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 12
+    min: 0
+  title: "コミケ生配信 1日目 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -241,6 +293,13 @@
   uri: 
 - date: 2018-12-29
   time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア＆犬山たまき at:犬山たまきのYouTubeチャンネル 漫画アフレコ 第2弾"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:YouTube 歌"
@@ -249,21 +308,6 @@
 - date: 2018-12-29
   time: 
   title: 23時？分～ 物述有栖 at:YouTube 1年振り返り＆今後について
-  end_time: 
-  uri: 
-- date: 2018-12-29
-  time: 
-  title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
-  end_time: 
-  uri: 
-- date: 2018-12-29
-  time: 
-  title: "？時？分～ おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け①"
-  end_time: 
-  uri: 
-- date: 2018-12-29
-  time: 
-  title: "？時？分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け②"
   end_time: 
   uri: 
 - date: 2018-12-28
