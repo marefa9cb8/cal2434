@@ -236,6 +236,11 @@
   uri: 
 - date: 2018-12-29
   time: 
+  title: 23時？分～ 物述有栖 at:YouTube 1年振り返り＆今後について
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time: 
   title: "？時？分(早朝)～ ドーラ at:? 冬コミ応援"
   end_time: 
   uri: 
@@ -321,9 +326,23 @@
   uri: 
 - date: 2018-12-28
   time:
+    hour: 16
+    min: 29
+  title: "闇夜乃モルル at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
     hour: 17
     min: 0
-  title: "出雲霞 at:? クッキー作り"
+  title: "出雲霞 at:YouTube クッキー作り"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 17
+    min: 16
+  title: "渋谷ハジメ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -401,6 +420,13 @@
     hour: 22
     min: 30
   title: "遠北千南 at:? 定期配信 ※中止"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-28
