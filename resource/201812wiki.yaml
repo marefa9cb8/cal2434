@@ -280,6 +280,20 @@
 - date: 2018-12-28
   time:
     hour: 6
+    min: 0
+  title: "闇夜乃モルル at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 6
+    min: 8
+  title: "叶 at:YouTube ATLAS"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
@@ -344,7 +358,7 @@
   time:
     hour: 22
     min: 30
-  title: "遠北千南 at:? 定期配信"
+  title: "遠北千南 at:? 定期配信 ※中止"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -352,11 +366,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube レゴシティ"
-  end_time: 
-  uri: 
-- date: 2018-12-28
-  time: 
-  title: "？時？分(深夜or朝)～ 叶 at:YouTube ATLAS"
   end_time: 
   uri: 
 - date: 2018-12-28
