@@ -1,6 +1,13 @@
 ---
 - date: 2018-12-31
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 今年最後に食べたい和食"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
     hour: 0
     min: 0
   title: "竜胆尊 at:YouTube マリオカート8 デラックス"
@@ -314,6 +321,13 @@
   uri: 
 - date: 2018-12-28
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
     hour: 20
     min: 0
   title: "える at:? ※Twitterプロフィール欄より"
@@ -331,6 +345,13 @@
     hour: 20
     min: 0
   title: "椎名唯華＆SUMOMOXqX(すもも)＆MC：岸大河 at:ドラゴンクエストビルダーズ２オプレク島のOPENREC.tvチャンネル ドラゴンクエストビルダーズ2"
+  end_time: 
+  uri: 
+- date: 2018-12-28
+  time:
+    hour: 20
+    min: 0
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2018-12-28
@@ -365,12 +386,12 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube レゴシティ"
+  title: "緑仙 at:YouTube レゴシティ ※中止"
   end_time: 
   uri: 
 - date: 2018-12-28
   time: 
-  title: "？時？分(朝)～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "？時？分(朝)～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※中止"
   end_time: 
   uri: 
 - date: 2018-12-27
@@ -558,9 +579,9 @@
   uri: 
 - date: 2018-12-27
   time:
-    hour: 23
-    min: 0
-  title: 22時31分～ 闇夜乃モルル at:YouTube みんなのリズム天国 雑談 ※時間＆内容変更
+    hour: 22
+    min: 31
+  title: "闇夜乃モルル at:YouTube みんなのリズム天国 雑談 ※時間＆内容変更"
   end_time: 
   uri: 
 - date: 2018-12-27
