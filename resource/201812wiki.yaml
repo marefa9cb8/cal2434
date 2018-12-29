@@ -106,7 +106,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube 1年振り返り"
+  title: "椎名唯華 at:YouTube 1年振り返り ※中止"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -370,7 +370,7 @@
   time:
     hour: 22
     min: 0
-  title: "海夜叉神 at:YouTube"
+  title: "海夜叉神 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -378,6 +378,13 @@
     hour: 22
     min: 0
   title: "社築 at:YouTube Pony Island"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 22
+    min: 15
+  title: "静凛 at:YouTube 零 zero"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -392,11 +399,6 @@
     hour: 23
     min: 30
   title: "物述有栖 at:YouTube 1年振り返り＆今後について"
-  end_time: 
-  uri: 
-- date: 2018-12-29
-  time: 
-  title: "？時？分(夜)～ 静凛 at:YouTube 零 zero"
   end_time: 
   uri: 
 - date: 2018-12-28
