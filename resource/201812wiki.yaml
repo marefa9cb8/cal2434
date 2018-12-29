@@ -92,14 +92,14 @@
   time:
     hour: 0
     min: 0
-  title: "闇夜乃モルル at:YouTube 半年振り返りたこ焼きパーティ ※リマインダー画面より"
+  title: "闇夜乃モルル at:YouTube 半年振り返りたこ焼きパーティ"
   end_time: 
   uri: 
 - date: 2018-12-30
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:?"
+  title: "椎名唯華 at:YouTube 1年振り返り"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -107,6 +107,13 @@
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 舞元力一 #4"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 1
+    min: 30
+  title: "魔界ノりりむ at:YouTube 1年振り返り"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -258,7 +265,7 @@
   time:
     hour: 12
     min: 0
-  title: "コミケ生配信 1日目 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け"
+  title: "コミケ生配信 1日目 at:にじさんじブース＆にじさんじ公式Twitter・YouTubeチャンネル 新情報お届け"
   end_time: 
   uri: 
 - date: 2018-12-29
@@ -272,7 +279,7 @@
   time:
     hour: 14
     min: 40
-  title: "雨森小夜 at:? 諸連絡＆歌"
+  title: "雨森小夜 at:YouTube 諸連絡＆歌"
   end_time: 
   uri: 
 - date: 2018-12-29
