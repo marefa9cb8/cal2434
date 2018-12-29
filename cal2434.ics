@@ -159,6 +159,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20181230T190000
+SUMMARY:宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、本間ひまわりのYouTubeチャンネル Dead by Daylight
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20181230T190000
 SUMMARY:赤羽葉子 at:YouTube World of Warships
 URL:
 DESCRIPTION:
@@ -9495,7 +9501,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190106T210000
-SUMMARY:森中花咲＆？ at:?
+SUMMARY:森中花咲＆？？？ at:?
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -9531,7 +9537,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190102T173000
-SUMMARY:夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？＆？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」
+SUMMARY:夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」
 URL:
 DESCRIPTION:
 END:VEVENT
