@@ -99,6 +99,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 0
+    min: 0
   title: "舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 舞元力一 #4"
   end_time: 
   uri: 
@@ -238,6 +245,13 @@
     hour: 5
     min: 16
   title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-29
+  time:
+    hour: 8
+    min: 30
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-29
