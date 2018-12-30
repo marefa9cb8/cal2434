@@ -92,6 +92,11 @@
   uri: 
 - date: 2018-12-31
   time: 
+  title: "？時？分～ 文野環 at:?"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time: 
   title: "？時？分(夜)～ 椎名唯華＆花畑チャイカ at:? Minecraft ※12/27配信にて告知"
   end_time: 
   uri: 
@@ -162,7 +167,7 @@
   time:
     hour: 5
     min: 46
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube 作業雑談"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -176,7 +181,21 @@
   time:
     hour: 12
     min: 0
-  title: "コミケ生配信 2日目 at:にじさんじブース＆にじさんじ公式YouTubeチャンネル 新情報お届け"
+  title: "コミケ生配信 2日目 at:にじさんじブース＆にじさんじ公式Twitter・YouTubeチャンネル 新情報お届け"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 13
+    min: 10
+  title: 21分～ 文野環 at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 14
+    min: 0
+  title: "舞元啓介 at:YouTube テスト配信(Minecraft)"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -218,13 +237,6 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:? 忘年会"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time:
-    hour: 20
-    min: 0
   title: "轟京子 at:YouTube 2018年振り返り"
   end_time: 
   uri: 
@@ -232,7 +244,14 @@
   time:
     hour: 21
     min: 0
-  title: "椎名唯華 at:YouTube 今年の振り返り ※YouTubeリマインダーより"
+  title: "森中花咲 at:YouTube 忘年会(振り返り雑談) ※20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:YouTube 1年振り返り ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -272,17 +291,7 @@
   uri: 
 - date: 2018-12-30
   time: 
-  title: "？時？分(昼)～ 文野環 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:YouTube 1人バーチャルレコード大賞  ※リマインダー画面より"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time: 
-  title: "？時？分(昼頃)～ 舞元啓介 at:YouTube テスト配信(Minecraft)"
+  title: "？時？分(夕方頃?)～ 闇夜乃モルル at:YouTube 1人バーチャルレコード大賞  ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2018-12-29
