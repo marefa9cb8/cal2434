@@ -19,7 +19,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲＆？？？ at:?"
+  title: "森中花咲＆？？？ at:? 花札"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -60,6 +60,13 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
@@ -83,7 +90,7 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲＆？？？ at:?"
+  title: "森中花咲＆？？？ at:? ※2日1時～に変更"
   end_time: 
   uri: 
 - date: 2019-01-01
