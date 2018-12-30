@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:? ※12/30配信にて告知"
+  title: "夕陽リリ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -216,7 +216,14 @@
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:? 年納め(雑談)"
+  title: "出雲霞 at:YouTube 年納め雑談"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 18
+    min: 0
+  title: 14分～ 鷹宮リオン at:YouTube 大乱闘スマッシュブラザーズ SPECIAL
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -228,23 +235,31 @@
   uri: 
 - date: 2018-12-30
   time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆白百合 at:YouTube 英会話教室"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube 1年振り返り"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
     hour: 19
-    min: 0
-  title: 30分～ 宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、本間ひまわりのYouTubeチャンネル Dead by Daylight
+    min: 30
+  title: 20時02分～ 宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、伏見ガク、本間ひまわりのYouTubeチャンネル Dead
+    by Daylight ※19時から時間変更
   end_time: 
   uri: 
 - date: 2018-12-30
   time:
     hour: 20
-    min: 0
-  title: "渋谷ハジメ at:YouTube 英会話教室"
-  end_time: 
-  uri: 
-- date: 2018-12-30
-  time:
-    hour: 20
-    min: 0
-  title: "轟京子 at:YouTube 2018年振り返り"
+    min: 15
+  title: "桜凛月 at:YouTube 囁き雑談"
   end_time: 
   uri: 
 - date: 2018-12-30
@@ -259,6 +274,13 @@
     hour: 21
     min: 0
   title: "椎名唯華 at:YouTube 1年振り返り ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2018-12-30
+  time:
+    hour: 21
+    min: 0
+  title: "社築 at:YouTube やらかしエピソード紹介＆お炊き上げ"
   end_time: 
   uri: 
 - date: 2018-12-30
