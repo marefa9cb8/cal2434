@@ -29,6 +29,18 @@
   title: "森中花咲 at:? Minecraft"
   end_time: 
   uri: 
+- date: 2019-01-05
+  time: 
+  title: "？時？分～ 闇夜乃モルル at:YouTube 新春カラオケSP ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 0
+    min: 30
+  title: "夕陽リリ at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-01-03
   time:
     hour: 18
@@ -77,6 +89,13 @@
     hour: 1
     min: 0
   title: "森中花咲＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:?"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -137,6 +156,27 @@
   uri: 
 - date: 2019-01-01
   time:
+    hour: 3
+    min: 22
+  title: "赤羽葉子＆皆守ひいろ at:YouTube OVERKILL's The Walking Dead"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 3
+    min: 47
+  title: "静凛 at:YouTube DARK SOULS REMASTERED"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 5
+    min: 31
+  title: "椎名唯華 at:YouTube しいなーと紹介等"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
     hour: 12
     min: 0
   title: "?～ 社築 at:? 旅行中継"
@@ -151,9 +191,16 @@
   uri: 
 - date: 2019-01-01
   time:
-    hour: 23
+    hour: 21
+    min: 30
+  title: "?～ 樋口楓 at:YouTube 正月衣装お披露目 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 22
     min: 0
-  title: "森中花咲＆？？？ at:? ※2日1時～に変更"
+  title: "?～ 家長むぎ at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-01-01
@@ -164,12 +211,19 @@
   end_time: 
   uri: 
 - date: 2019-01-01
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲＆？？？ at:? ※2日1時～に変更"
+  end_time: 
+  uri: 
+- date: 2019-01-01
   time: 
   title: "？時？分～ 渋谷ハジメ at:?"
   end_time: 
   uri: 
 - date: 2019-01-01
   time: 
-  title: "？時？分(深夜or午前中)～ 赤羽葉子 at:?"
+  title: "？時？分～ 闇夜乃モルル at:YouTube DX人生ゲーム2 ※YouTubeリマインダーより"
   end_time: 
   uri: 
