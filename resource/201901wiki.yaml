@@ -53,9 +53,23 @@
   uri: 
 - date: 2019-01-03
   time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:YouTube プレミア公開 LoL声真似"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
     hour: 23
     min: 0
   title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:?"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -70,6 +84,13 @@
     hour: 17
     min: 30
   title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:YouTube プレミア公開 お正月お年玉シチュエーションボイス"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -91,6 +112,13 @@
     hour: 23
     min: 0
   title: "森中花咲＆？？？ at:? ※2日1時～に変更"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:YouTube プレミア公開 新年の挨拶とマシュマロ"
   end_time: 
   uri: 
 - date: 2019-01-01
