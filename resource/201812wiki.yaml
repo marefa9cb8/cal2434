@@ -100,8 +100,36 @@
 - date: 2018-12-31
   time:
     hour: 14
+    min: 20
+  title: "宇志海いちご＆緑仙 at:宇志海いちごのYouTubeチャンネル 歌"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 14
     min: 0
-  title: "黒井しば at:YouTube"
+  title: 20分～ 黒井しば at:YouTube
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 14
+    min: 54
+  title: "成瀬鳴＆安藤正基先生＆片山陽介先生＆阿東里枝先生 at:安藤正基氏のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 18
+    min: 0
+  title: "シスター・クレア at:YouTube 振り返り"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 18
+    min: 30
+  title: "本間ひまわり at:YouTube 1年振り返り"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -116,7 +144,7 @@
     hour: 19
     min: 0
   title: "お屋敷組(ドーラ＆シスター・クレア＆緑仙＆卯月コウ＆八朔ゆず＆鷹宮リオン＆竜胆尊＆ジョー・力一) at:にじさんじ公式YouTubeチャンネル
-    歌ってみたプレミア公開"
+    プレミア公開 Bad ∞ End ∞ Night 歌ってみた"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -144,7 +172,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:? 年越し配信?"
+  title: "ドーラ at:YouTube 年越し"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -158,7 +186,7 @@
   time:
     hour: 23
     min: 0
-  title: "渋谷ハジメ at:? 大晦日カウントダウン"
+  title: "渋谷ハジメ at:YouTube 大晦日カウントダウン"
   end_time: 
   uri: 
 - date: 2018-12-31
@@ -187,6 +215,13 @@
     hour: 23
     min: 30
   title: "叶 at:YouTube 年越しカウントダウン, あけおめ会"
+  end_time: 
+  uri: 
+- date: 2018-12-31
+  time:
+    hour: 23
+    min: 57
+  title: "出雲霞 at:YouTube プレミア公開 Intro.□"
   end_time: 
   uri: 
 - date: 2018-12-31
