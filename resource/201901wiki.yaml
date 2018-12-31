@@ -102,6 +102,13 @@
   uri: 
 - date: 2019-01-01
   time:
+    hour: 12
+    min: 0
+  title: "?～ 社築 at:? 旅行中継"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
     hour: 19
     min: 30
   title: "森中花咲 at:? 新衣装お披露目"
