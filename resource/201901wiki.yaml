@@ -53,7 +53,7 @@
     hour: 19
     min: 0
   title: "にじくじ7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
-    にじくじ新春３時間SP2019 にじさんじのしちじじゅうじ ※パブリックビューイングあり"
+    にじくじ新春３時間SP2019 にじさんじのしちじじゅうじ～やられる前にやれ～ ※パブリックビューイングあり"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -88,14 +88,14 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲＆？？？ at:?"
+  title: "夕陽リリ at:?"
   end_time: 
   uri: 
 - date: 2019-01-02
   time:
     hour: 1
     min: 0
-  title: "夕陽リリ at:?"
+  title: "森中花咲＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -115,8 +115,8 @@
 - date: 2019-01-02
   time:
     hour: 23
-    min: 35
-  title: "月ノ美兎＆静凛＆樋口楓＆剣持刀也 at:総合テレビ NHKバーチャルのど自慢"
+    min: 0
+  title: "える／いわながちゃん(動画出演) at:ニコニコ生放送 『バーチャルのど自慢』裏実況特番"
   end_time: 
   uri: 
 - date: 2019-01-01
@@ -184,16 +184,51 @@
   uri: 
 - date: 2019-01-01
   time:
+    hour: 8
+    min: 54
+  title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
     hour: 12
     min: 0
-  title: "?～ 社築 at:? 旅行中継"
+  title: "社築 at:YouTube ハワイ旅行中継（高橋名人の冒険島）"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 13
+    min: 34
+  title: "樋口楓 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 19
+    min: 0
+  title: "家長むぎ at:YouTube 正月衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-01-01
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:? 新衣装お披露目"
+  title: "森中花咲 at:YouTube 正月衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 20
+    min: 0
+  title: "える at:YouTube 正月衣装お披露目 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 21
+    min: 30
+  title: "?～ 月ノ美兎 at:YouTube 正月衣装お披露目 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-01
@@ -201,13 +236,6 @@
     hour: 21
     min: 30
   title: "?～ 樋口楓 at:YouTube 正月衣装お披露目 ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-01-01
-  time:
-    hour: 22
-    min: 0
-  title: "?～ 家長むぎ at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-01-01
