@@ -31,6 +31,11 @@
   uri: 
 - date: 2019-01-05
   time: 
+  title: "？時？分(午後から夕方頃?)～ 鈴鹿詩子＆妹子 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time: 
   title: "？時？分～ 闇夜乃モルル at:YouTube 新春カラオケSP ※YouTubeリマインダーより"
   end_time: 
   uri: 
@@ -61,6 +66,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ＆叶＆葛葉 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル 新春！バーチャル歌合戦"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -135,6 +147,20 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 3
+    min: 18
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 13
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 正月衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 13
     min: 0
   title: "桜凛月 at:YouTube 雑談 ※YouTubeリマインダーより"
@@ -142,9 +168,23 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 15
+    min: 0
+  title: "黒井しば at:YouTube 書き初め"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 17
     min: 30
   title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-02
