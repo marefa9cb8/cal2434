@@ -127,7 +127,21 @@
   time:
     hour: 2
     min: 35
-  title: "静凛 at:YouTube Minecraft ※YouTubeリマインダーより"
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 5
+    min: 16
+  title: "葛葉 at:YouTube ATLAS"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 10
+    min: 30
+  title: "遠北千南 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-03
