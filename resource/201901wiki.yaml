@@ -7,12 +7,33 @@
     ※ネットチケットの購入が必要
   end_time: 
   uri: 
+- date: 2019-01-08
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:? 大神"
+  end_time: 
+  uri: 
 - date: 2019-01-07
   time:
     hour: 20
     min: 0
   title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:にじさんじ公式YouTubeチャンネル 第7回「にじさんじMIX UP!!」 ※12/24第4.5回「にじさんじMIX
     UP!!」にて告知"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:? 大神"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 16
+    min: 0
+  title: "ドーラ at:? 歌 正月すぺしゃる"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -44,6 +65,13 @@
     hour: 14
     min: 0
   title: "?～ 町田ちま at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -175,6 +203,20 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 14
+    min: 0
+  title: "赤羽葉子 at:YouTube The Forest"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 14
+    min: 50
+  title: "樋口楓＆月ノ美兎 at:樋口楓のMirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 15
     min: 0
   title: "黒井しば at:YouTube 書き初め"
@@ -184,7 +226,7 @@
   time:
     hour: 17
     min: 30
-  title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
+  title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆ギルザレンIII世＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -203,9 +245,23 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 23
     min: 0
   title: "える／いわながちゃん(動画出演) at:ニコニコ生放送 『バーチャルのど自慢』裏実況特番"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 23
+    min: 30
+  title: "ドーラ at:YouTube バーチャルのど自慢視聴"
   end_time: 
   uri: 
 - date: 2019-01-02
