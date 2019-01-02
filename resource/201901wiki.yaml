@@ -84,6 +84,13 @@
 - date: 2019-01-03
   time:
     hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 0
     min: 30
   title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
@@ -115,6 +122,13 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 22
+    min: 0
+  title: "海夜叉神 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL Vtuber限定凸待ち"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -282,14 +296,57 @@
   time:
     hour: 17
     min: 30
-  title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆ギルザレンIII世＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」"
+  title: "夕陽リリ＆森中花咲＆卯月コウ＆鈴木勝＆ギルザレンIII世＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第6回「にじさんじMIX UP!!」＆アフタートーク"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 19
+    min: 30
+  title: "本間ひまわり at:YouTube ATLAS"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 19
+    min: 45
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 20
+    min: 0
+  title: "宇志海いちご at:YouTube 正月衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-01-02
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: 20時36分～ 葛葉 at:YouTube ATLAS
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:YouTube 正月衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #14』"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -325,6 +382,11 @@
     hour: 23
     min: 35
   title: "月ノ美兎＆静凛＆樋口楓＆剣持刀也 at:総合テレビ NHKバーチャルのど自慢"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time: 
+  title: "？時？分～ 闇夜乃モルル at:YouTube 音楽演奏会"
   end_time: 
   uri: 
 - date: 2019-01-01
@@ -395,6 +457,13 @@
     hour: 8
     min: 54
   title: "夕陽リリ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 10
+    min: 47
+  title: "ふくやマスター at:ふくやマスターのYouTubeチャンネル 新年挨拶＆凸待ち"
   end_time: 
   uri: 
 - date: 2019-01-01
