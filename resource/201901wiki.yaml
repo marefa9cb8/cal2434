@@ -51,6 +51,13 @@
   end_time: 
   uri: 
 - date: 2019-01-05
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube ばぶ初め(バイノーラル)"
+  end_time: 
+  uri: 
+- date: 2019-01-05
   time: 
   title: "？時？分(午後から夕方頃?)～ 鈴鹿詩子＆妹子 at:YouTube スプラトゥーン2"
   end_time: 
@@ -189,6 +196,20 @@
   uri: 
 - date: 2019-01-02
   time:
+    hour: 7
+    min: 30
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 12
+    min: 5
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
     hour: 13
     min: 0
   title: "鈴鹿詩子 at:YouTube 正月衣装お披露目"
@@ -198,7 +219,7 @@
   time:
     hour: 13
     min: 0
-  title: "桜凛月 at:YouTube 雑談 ※YouTubeリマインダーより"
+  title: "桜凛月 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -219,7 +240,42 @@
   time:
     hour: 15
     min: 0
-  title: "黒井しば at:YouTube 書き初め"
+  title: 15分～ 黒井しば at:YouTube 書き初め
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 16
+    min: 0
+  title: "鈴木勝 at:YouTube プレミア公開 10分で理解る鈴木勝"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 16
+    min: 10
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 16
+    min: 50
+  title: "シスター・クレア at:YouTube ポケットモンスター Let's Go! ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 17
+    min: 0
+  title: "轟京子 at:Mirrativ 福袋開封"
+  end_time: 
+  uri: 
+- date: 2019-01-02
+  time:
+    hour: 17
+    min: 4
+  title: "本間ひまわり at:YouTube ATLASテスト配信"
   end_time: 
   uri: 
 - date: 2019-01-02
@@ -240,14 +296,14 @@
   time:
     hour: 22
     min: 0
-  title: "鷹宮リオン at:YouTube プレミア公開 お正月お年玉シチュエーションボイス"
+  title: "ドーラ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-02
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "鷹宮リオン at:YouTube プレミア公開 お正月お年玉シチュエーションボイス"
   end_time: 
   uri: 
 - date: 2019-01-02
