@@ -68,6 +68,13 @@
   uri: 
 - date: 2019-01-05
   time:
+    hour: 11
+    min: 0
+  title: "緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:? Minecraft"
@@ -78,6 +85,13 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube ばぶ初め(バイノーラル)"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 歌・雑談"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -106,23 +120,44 @@
   uri: 
 - date: 2019-01-04
   time:
+    hour: 1
+    min: 0
+  title: "伏見ガク at:YouTube GOD EATER 3"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube 60 Seconds!"
+  title: 01時00分～ 緑仙 at:YouTube 60 Seconds!
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 1
+    min: 59
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 11
+    min: 0
+  title: "緑仙 at:YouTube 動画編集"
   end_time: 
   uri: 
 - date: 2019-01-04
   time:
     hour: 12
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "桜凛月＆黒井しば at:YouTube ※Twitterネーム＆YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-04
   time:
     hour: 14
     min: 0
-  title: "?～ 町田ちま at:?"
+  title: "町田ちま at:YouTube 歌い初め"
   end_time: 
   uri: 
 - date: 2019-01-04
@@ -130,6 +165,27 @@
     hour: 21
     min: 0
   title: "ドーラ at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 22
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介＆夢追翔 at:YouTube ドリームクラブ
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube レゴシティ"
   end_time: 
   uri: 
 - date: 2019-01-03
