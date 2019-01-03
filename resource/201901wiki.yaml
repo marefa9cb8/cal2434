@@ -51,6 +51,13 @@
   title: "森中花咲＆？？？ at:? 花札"
   end_time: 
   uri: 
+- date: 2019-01-06
+  time:
+    hour: 23
+    min: 0
+  title: "名伽尾アズマ at:YouTube ときめきメモリアル  girl's side premium 3rd story"
+  end_time: 
+  uri: 
 - date: 2019-01-05
   time:
     hour: 19
@@ -73,6 +80,13 @@
 - date: 2019-01-05
   time: 
   title: "？時？分～ 闇夜乃モルル at:YouTube 新春カラオケSP ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 12
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-04
@@ -182,9 +196,51 @@
   uri: 
 - date: 2019-01-03
   time:
+    hour: 14
+    min: 22
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
     hour: 15
     min: 0
-  title: "緑仙 at:YouTube Bouncing Duck Simulator"
+  title: "緑仙 at:YouTube Bouncing Duck Simulator ※枠取り直し"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 16
+    min: 0
+  title: "宇志海いちご at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 16
+    min: 9
+  title: "緑仙 at:YouTube 60 Seconds!"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 16
+    min: 30
+  title: "魔界ノりりむ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 17
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -241,7 +297,14 @@
   time:
     hour: 23
     min: 0
-  title: "勇気ちひろ at:YouTube"
+  title: "勇気ちひろ at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2019-01-03
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり at:YouTube Oakwood"
   end_time: 
   uri: 
 - date: 2019-01-03
@@ -698,6 +761,13 @@
     hour: 21
     min: 27
   title: "静凛 at:YouTube 零 zero"
+  end_time: 
+  uri: 
+- date: 2019-01-01
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube 正月衣装お披露目 ※中止"
   end_time: 
   uri: 
 - date: 2019-01-01
