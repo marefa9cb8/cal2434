@@ -47,6 +47,13 @@
   uri: 
 - date: 2019-01-06
   time:
+    hour: 15
+    min: 0
+  title: "夢追翔＆夏色まつり＆ぴろぱる＆天城てん＆星月せい at:YouTube 廃墟セッション(ポケモンソング)"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
     hour: 16
     min: 0
   title: "ドーラ at:? 歌 正月すぺしゃる"
@@ -137,6 +144,13 @@
     hour: 1
     min: 59
   title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 3
+    min: 35
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-04
