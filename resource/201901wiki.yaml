@@ -82,6 +82,13 @@
   uri: 
 - date: 2019-01-05
   time:
+    hour: 14
+    min: 0
+  title: or15時00分～ 鈴鹿詩子＆妹子 at:YouTube スプラトゥーン2
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:? Minecraft"
@@ -99,11 +106,6 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube 歌・雑談"
-  end_time: 
-  uri: 
-- date: 2019-01-05
-  time: 
-  title: "？時？分(午後から夕方頃?)～ 鈴鹿詩子＆妹子 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -164,14 +166,21 @@
   time:
     hour: 12
     min: 0
-  title: "桜凛月＆黒井しば at:YouTube ※Twitterネーム＆YouTubeリマインダーより"
+  title: "桜凛月＆黒井しば at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-04
   time:
     hour: 14
     min: 0
-  title: "町田ちま at:YouTube 歌い初め"
+  title: "町田ちま at:YouTube 歌い初め ※延期"
+  end_time: 
+  uri: 
+- date: 2019-01-04
+  time:
+    hour: 14
+    min: 32
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-04
