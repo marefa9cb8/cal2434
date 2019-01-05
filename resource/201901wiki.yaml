@@ -130,7 +130,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 2.0お披露目"
+  title: "剣持刀也 at:YouTube 2.0お披露目、マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -257,6 +257,20 @@
   uri: 
 - date: 2019-01-05
   time:
+    hour: 2
+    min: 40
+  title: "叶＆いわながちゃん at:いわながちゃんのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 4
+    min: 20
+  title: "いわながちゃん＆渋谷ハル at:いわながちゃんのYouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
     hour: 8
     min: 0
   title: "遠北千南 at:YouTube Minecraft"
@@ -343,14 +357,28 @@
   time:
     hour: 21
     min: 0
-  title: "宇志海いちご at:?"
+  title: "宇志海いちご at:YouTube 2.0お披露目、Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-05
   time:
     hour: 21
     min: 0
-  title: "椎名唯華 at:?"
+  title: "椎名唯華 at:? ※延期"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 21
+    min: 0
+  title: "もちひよこ＆甲賀流忍者ぽんぽこ＆他 at:もちひよこのYouTubeチャンネル 1周年記念"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 21
+    min: 30
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -369,9 +397,9 @@
   uri: 
 - date: 2019-01-05
   time:
-    hour: 23
-    min: 0
-  title: "本間ひまわり at:YouTube 2.0お披露目"
+    hour: 22
+    min: 30
+  title: "鷹宮リオン at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -392,7 +420,14 @@
   time:
     hour: 23
     min: 30
-  title: "鷹宮リオン at:YouTube 雑談"
+  title: "本間ひまわり at:YouTube 2.0お披露目 ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 23
+    min: 55
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-01-05
