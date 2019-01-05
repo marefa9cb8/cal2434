@@ -266,7 +266,7 @@
   time:
     hour: 11
     min: 0
-  title: 10時３８分～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL レゴシティ アンダーカバー
+  title: 10時38分～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL レゴシティ アンダーカバー
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -315,28 +315,35 @@
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:? 2.0お披露目"
+  title: "勇気ちひろ at:YouTube 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-01-05
   time:
     hour: 20
     min: 0
-  title: "叶＆シスター・クレア at:YouTube Minecraft"
+  title: "叶＆シスター・クレア at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-05
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube 新春カラオケSP"
+  title: "闇夜乃モルル at:YouTube 新春カラオケSP ※中断"
   end_time: 
   uri: 
 - date: 2019-01-05
   time:
     hour: 20
     min: 0
-  title: "八朔ゆず＆緑仙 at:? Left 4 Dead 2"
+  title: "八朔ゆず＆緑仙 at:緑仙のYouTubeチャンネル Left 4 Dead 2"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 21
+    min: 0
+  title: "宇志海いちご at:?"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -382,15 +389,15 @@
   end_time: 
   uri: 
 - date: 2019-01-05
-  time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:? マリオカート8 デラックス"
+  time:
+    hour: 23
+    min: 30
+  title: "鷹宮リオン at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-05
-  time:
-    hour: 22
-    min: 30
-  title: "鷹宮リオン at:?"
+  time: 
+  title: "？時？分(深夜)～ 椎名唯華 at:? マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-04
