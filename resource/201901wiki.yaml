@@ -151,9 +151,16 @@
   uri: 
 - date: 2019-01-06
   time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:? 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
     hour: 21
     min: 0
-  title: "森中花咲＆？？？ at:? 花札"
+  title: "森中花咲＆剣持刀也 at:森中花咲のYouTubeチャンネル 花札"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -182,6 +189,18 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 23
+    min: 30
+  title: "竜胆尊 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time: 
+  title: "？時？分～ 椎名唯華 at:? 2.0お披露目、Wii Fit"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -233,16 +252,16 @@
   uri: 
 - date: 2019-01-05
   time:
-    hour: 10
+    hour: 11
     min: 0
-  title: "町田ちま at:YouTube 歌い初め"
+  title: "緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2019-01-05
   time:
-    hour: 11
+    hour: 10
     min: 0
-  title: "緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: 12時??分～ 町田ちま at:YouTube 歌い初め ※時間変更
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -263,7 +282,14 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube Minecraft"
+  title: "森中花咲 at:YouTube 2.0お披露目、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:? 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -271,6 +297,13 @@
     hour: 20
     min: 0
   title: "叶＆シスター・クレア at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -311,6 +344,11 @@
 - date: 2019-01-05
   time: 
   title: "？時？分～ 闇夜乃モルル at:YouTube 新春カラオケSP ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time: 
+  title: "？時？分(深夜)～ 椎名唯華 at:? マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-05
