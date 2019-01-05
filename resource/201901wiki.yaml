@@ -261,7 +261,7 @@
   time:
     hour: 10
     min: 0
-  title: 12時??分～ 町田ちま at:YouTube 歌い初め ※時間変更
+  title: 12時11分～ 町田ちま at:YouTube 歌い初め ※時間変更
   end_time: 
   uri: 
 - date: 2019-01-05
@@ -269,6 +269,13 @@
     hour: 15
     min: 0
   title: "鈴鹿詩子＆妹子 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-01-05
+  time:
+    hour: 15
+    min: 0
+  title: "矢車りね＆??? at:?"
   end_time: 
   uri: 
 - date: 2019-01-05
