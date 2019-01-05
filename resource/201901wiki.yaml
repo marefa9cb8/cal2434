@@ -101,9 +101,23 @@
   uri: 
 - date: 2019-01-07
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 七草粥or正月の縁起物"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 10
+    min: 0
+  title: "町田ちま at:? お絵かき"
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -122,8 +136,15 @@
   end_time: 
   uri: 
 - date: 2019-01-07
+  time:
+    hour: 22
+    min: 30
+  title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:飛鳥ひなのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-01-07
   time: 
-  title: "？時？分～ 町田ちま at:? お絵かき ※01/05配信にて告知＆Twitterネームより"
+  title: "？時？分(昼)～ 町田ちま at:? 狂犬コラボ"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -131,6 +152,20 @@
     hour: 0
     min: 0
   title: "剣持刀也 at:YouTube 2.0お披露目、マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:Mirrativ 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 12
+    min: 0
+  title: "家長むぎ at:?"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -151,21 +186,21 @@
   time:
     hour: 16
     min: 0
-  title: "ドーラ at:? 歌 正月すぺしゃる"
+  title: "ドーラ at:YouTube 歌 正月すぺしゃる"
   end_time: 
   uri: 
 - date: 2019-01-06
   time:
     hour: 19
     min: 0
-  title: "叶 at:? 2.0お披露目"
+  title: "叶 at:YouTube 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-01-06
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:? 正月衣装お披露目"
+  title: "勇気ちひろ at:YouTube 正月衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -207,7 +242,7 @@
   time:
     hour: 23
     min: 30
-  title: "竜胆尊 at:?"
+  title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-06
