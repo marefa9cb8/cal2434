@@ -45,7 +45,7 @@
   time:
     hour: 17
     min: 0
-  title: 樋口楓＋ゲスト：月ノ美兎＆静凛＆える at:ニコニコ生放送 第一部 / 第二部 Kaede Higuchi 1st Live "KANA-DERO"
+  title: 樋口楓+ゲスト：月ノ美兎＆静凛＆える at:ニコニコ生放送 第一部 / 第二部 Kaede Higuchi 1st Live "KANA-DERO"
     ※ネットチケットの購入が必要
   end_time: 
   uri: 
@@ -158,9 +158,23 @@
   uri: 
 - date: 2019-01-07
   time:
+    hour: 21
+    min: 30
+  title: " 鷹宮リオン at:? 誕生日"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
     hour: 22
     min: 30
   title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:飛鳥ひなのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -228,12 +242,14 @@
   time:
     hour: 15
     min: 0
-  title: "夢追翔＆夏色まつり＆ぴろぱる＆天城てん＆星月せい at:YouTube 廃墟セッション(ポケモンソング)"
+  title: 10分～ 夢追翔＆夏色まつり＆ぴろぱる＆天城てん＆星月せい at:YouTube 廃墟セッション(ポケモンソング)
   end_time: 
   uri: 
 - date: 2019-01-06
-  time: 
-  title: 15時??分～ 雨森小夜 at:YouTube
+  time:
+    hour: 15
+    min: 23
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -248,6 +264,13 @@
     hour: 16
     min: 0
   title: "ドーラ at:YouTube 歌 正月すぺしゃる"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 16
+    min: 26
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -282,7 +305,7 @@
   time:
     hour: 20
     min: 0
-  title: "魔界ノりりむ at:? しょぼんのアクション"
+  title: "魔界ノりりむ at:YouTube しょぼんのアクション"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -290,6 +313,13 @@
     hour: 20
     min: 30
   title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭) 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 20
+    min: 30
+  title: "鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2019-01-06
