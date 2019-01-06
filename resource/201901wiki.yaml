@@ -191,6 +191,20 @@
   uri: 
 - date: 2019-01-06
   time:
+    hour: 13
+    min: 0
+  title: "宇志海いちご  at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 14
+    min: 0
+  title: "宇志海いちご  at:YouTube Switchゲーム または Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
     hour: 15
     min: 0
   title: "夢追翔＆夏色まつり＆ぴろぱる＆天城てん＆星月せい at:YouTube 廃墟セッション(ポケモンソング)"
@@ -229,6 +243,13 @@
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube 正月衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 20
+    min: 30
+  title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭) 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-01-06
