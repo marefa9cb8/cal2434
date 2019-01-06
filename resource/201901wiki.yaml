@@ -131,7 +131,14 @@
   time:
     hour: 0
     min: 0
-  title: "叶 at:? Minecraft"
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -157,10 +164,24 @@
   uri: 
 - date: 2019-01-07
   time:
+    hour: 19
+    min: 30
+  title: "でびでび・でびる at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
     hour: 20
     min: 0
   title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:にじさんじ公式YouTubeチャンネル 第7回「にじさんじMIX UP!!」 ※参加ライバー：12/24＆01/02「にじさんじMIX
     UP!!」にて告知"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube プレミア公開 月夜ノ空 full ver."
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -340,7 +361,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲＆剣持刀也 at:森中花咲のYouTubeチャンネル 花札"
+  title: "剣持刀也＆森中花咲 at:森中花咲のYouTubeチャンネル 花札"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -354,7 +375,7 @@
   time:
     hour: 22
     min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ドーラ、葛葉のYouTubeチャンネル Minecraft"
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ドーラのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-06
@@ -369,6 +390,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-06
+  time:
+    hour: 23
+    min: 16
+  title: "静凛at:YouTube ときめきメモリアル Girl's Side"
   end_time: 
   uri: 
 - date: 2019-01-06
