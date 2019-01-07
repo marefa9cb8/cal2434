@@ -151,6 +151,13 @@
   time:
     hour: 21
     min: 0
+  title: "渋谷ハジメ＆兎鞠まり at:YouTube 渋谷カフェ：つなげようお客様の輪 第18回"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:? 大神"
   end_time: 
   uri: 
@@ -241,21 +248,21 @@
   time:
     hour: 19
     min: 0
+  title: 18時37分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 18
+    min: 50
   title: "渋谷ハジメ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-07
   time:
     hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-07
-  time:
-    hour: 19
     min: 30
-  title: "鷹宮リオン＆でびでび・でびる at:?"
+  title: "鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -289,6 +296,13 @@
 - date: 2019-01-07
   time:
     hour: 21
+    min: 0
+  title: "海夜叉神 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 21
     min: 30
   title: " 鷹宮リオン at:YouTube 誕生日"
   end_time: 
@@ -305,6 +319,13 @@
     hour: 22
     min: 0
   title: "椎名唯華 at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-07
+  time:
+    hour: 22
+    min: 0
+  title: "春崎エアル at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-07
@@ -333,11 +354,6 @@
     hour: 23
     min: 0
   title: "える at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-01-07
-  time: 
-  title: "？時？分～ 春崎エアル at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-06
