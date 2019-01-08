@@ -165,8 +165,8 @@
 - date: 2019-01-09
   time:
     hour: 0
-    min: 0
-  title: "本間ひまわり at:YouTube ARK:Survival Evolved"
+    min: 30
+  title: "本間ひまわり at:YouTube ARK:Survival Evolved ※時間変更"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -188,13 +188,6 @@
     hour: 12
     min: 0
   title: "雪汝＆鷹宮リオン＆癒月ちょこ at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-09
-  time:
-    hour: 13
-    min: 0
-  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -232,6 +225,13 @@
   time:
     hour: 22
     min: 0
+  title: "社築 at:YouTube 星のカービィ 夢の泉の物語"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 22
+    min: 0
   title: "卯月コウ at:? 質問箱企画"
   end_time: 
   uri: 
@@ -239,7 +239,7 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:YouTube バイノーラルママ"
+  title: "飛鳥ひな at:YouTube バイノーラルママ ※延期"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -357,6 +357,13 @@
 - date: 2019-01-08
   time:
     hour: 21
+    min: 21
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 21
     min: 30
   title: "樋口楓 at:YouTube 雑談"
   end_time: 
@@ -365,7 +372,7 @@
   time:
     hour: 22
     min: 0
-  title: "剣持刀也＆渋谷ハジメ＆物述有栖＆叶＆本間ひまわり＆椎名唯華＆葛葉＆竜胆尊＆舞元啓介闇夜乃モルル＆神田笑一＆春崎エアル＆成瀬鳴 at:剣持刀也のYouTubeチャンネル
+  title: "剣持刀也＆渋谷ハジメ＆物述有栖＆叶＆本間ひまわり＆椎名唯華＆葛葉＆竜胆尊＆舞元啓介闇夜乃モルル＆神田笑一＆春崎エアル＆成瀬鳴 at:剣持刀也のYouTube(本配信)＆各々のYouTubeチャンネル
     マリオカート8 デラックス マリカにじさんじ杯 決勝 ※舞元啓介→闇夜乃モルルに変更"
   end_time: 
   uri: 
@@ -374,6 +381,13 @@
     hour: 22
     min: 30
   title: "ベルモンド・バンデラス at:YouTube 即興シチュエーションボイス ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 22
+    min: 48
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-08
@@ -387,24 +401,42 @@
   time:
     hour: 23
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:?"
+  title: "矢車りね at:YouTube Left 4 Dead 2 ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-08
   time:
     hour: 23
-    min: 0
-  title: "矢車りね at:YouTube Left 4 Dead 2 ※22時から時間変更"
+    min: 3
+  title: "神田笑一＆春崎エアル at:両名のYouTubeチャンネル マリオカート8 デラックス にじさんじ杯反省会"
   end_time: 
   uri: 
 - date: 2019-01-08
-  time: 
-  title: "？時？分(マリカにじさんじ杯終了後)～ 椎名唯華 at:?"
+  time:
+    hour: 23
+    min: 17
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-01-08
-  time: 
-  title: "？時？分～ シスター・クレア at:?"
+  time:
+    hour: 23
+    min: 29
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 23
+    min: 33
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 23
+    min: 50
+  title: "葛葉 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-08
