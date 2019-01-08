@@ -82,6 +82,32 @@
   title: "？時？分(夜)～ 闇夜乃モルル at:YouTube 新春カラオケライブSPリベンジ ※YouTubeリマインダーより"
   end_time: 
   uri: 
+- date: 2019-01-12
+  time: 
+  title: "？時？分(昼頃)～ 雨森小夜 at:YouTube 音響テスト"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 21
+    min: 0
+  title: "轟京子 at:YouTube  乙女ゲーム用3Dキャラ製作"
+  end_time: 
+  uri: 
 - date: 2019-01-11
   time:
     hour: 22
@@ -103,16 +129,37 @@
   uri: 
 - date: 2019-01-10
   time:
-    hour: 20
-    min: 30
-  title: "飛鳥ひな at:YouTube 雑談 ※22時半から時間変更"
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:?"
   end_time: 
   uri: 
 - date: 2019-01-10
   time:
-    hour: 21
+    hour: 0
     min: 0
-  title: "勇気ちひろ at:YouTube"
+  title: "ドーラ at:? 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 20
+    min: 30
+  title: "飛鳥ひな at:YouTube 雑談 ※22時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -133,7 +180,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube  乙女ゲーム用3Dキャラ製作"
+  title: "轟京子 at:YouTube  乙女ゲーム用3Dキャラ製作 ※11日に変更"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -173,7 +220,7 @@
   time:
     hour: 0
     min: 0
-  title: "ベルモンド・バンデラス＆渋谷ハル＆アベレージ＆屍鬼 at:渋谷ハルとアベレージと屍鬼のYouTubeチャンネル PUBG"
+  title: "ベルモンド・バンデラス＆渋谷ハル＆アベレージ＆屍鬼 at:他3名のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -187,7 +234,7 @@
   time:
     hour: 0
     min: 30
-  title: "本間ひまわり at:YouTube ARK:Survival Evolved ※時間変更"
+  title: "本間ひまわり at:YouTube ARK:Survival Evolved ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -195,6 +242,20 @@
     hour: 12
     min: 0
   title: "雪汝＆鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 17
+    min: 30
+  title: "森中花咲 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -232,6 +293,13 @@
   time:
     hour: 22
     min: 0
+  title: "闇夜乃モルル at:YouTube 星のカービィ スーパーデラックス ※リマインダー画面より"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 22
+    min: 0
   title: "社築 at:YouTube 星のカービィ 夢の泉の物語"
   end_time: 
   uri: 
@@ -252,6 +320,13 @@
 - date: 2019-01-09
   time:
     hour: 22
+    min: 0
+  title: "竜胆尊＆周防パトラ at:? Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 22
     min: 30
   title: "鈴谷アキ at:YouTube(アキくんちゃんネル)"
   end_time: 
@@ -261,6 +336,25 @@
     hour: 23
     min: 0
   title: "月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#1"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 23
+    min: 45
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time: 
+  title: "？時？分(夜)～ 成瀬鳴 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-08
@@ -436,7 +530,7 @@
   time:
     hour: 23
     min: 33
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube Crypt of the NecroDancer"
   end_time: 
   uri: 
 - date: 2019-01-08
