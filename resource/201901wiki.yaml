@@ -43,6 +43,13 @@
   uri: 
 - date: 2019-01-13
   time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
@@ -60,7 +67,7 @@
   time:
     hour: 20
     min: 0
-  title: "出雲霞＆桜塚和音 at:? Fate/stay night Heaven's Feel語り"
+  title: "出雲霞＆桜塚和音 at:YouTube Fate/stay night Heaven's Feel語り"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -112,7 +119,7 @@
   time:
     hour: 21
     min: 0
-  title: "童田明治 at:?"
+  title: "童田明治 at:? ※初配信"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -126,6 +133,13 @@
   time:
     hour: 22
     min: 0
+  title: "轟京子 at:YouTube  乙女ゲーム用3Dキャラ製作"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 22
+    min: 0
   title: "社築＆夏色まつり at:? お悩み相談"
   end_time: 
   uri: 
@@ -133,7 +147,7 @@
   time:
     hour: 22
     min: 0
-  title: "久遠千歳 at:?"
+  title: "久遠千歳 at:? ※初配信"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -178,6 +192,13 @@
   uri: 
 - date: 2019-01-09
   time:
+    hour: 13
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube 雑談"
@@ -197,6 +218,14 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #15』"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆本間ひまわり＆花畑チャイカ＆雨森小夜＆鷹宮リオン＆でびでび・でびる＆遠北千南＆ベルモンド・バンデラス＆夢追翔 at:でびでび・でびるのYouTubeチャンネル
+    にじさんじすごろく大会"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -273,7 +302,21 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル＆本間ひまわり at:YouTube マリオカート8 デラックス"
+  title: "闇夜乃モルル＆本間ひまわり at:両名のYouTubeチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 19
+    min: 0
+  title: 10分～ 宇志海いちご at:YouTube 作戦会議、Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 19
+    min: 50
+  title: "春崎エアル at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-08
@@ -288,6 +331,13 @@
     hour: 20
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time:
+    hour: 20
+    min: 48
+  title: "闇夜乃モルル at:OPENREC.tv マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-08
@@ -315,7 +365,7 @@
   time:
     hour: 22
     min: 0
-  title: "剣持刀也＆渋谷ハジメ＆物述有栖＆叶＆本間ひまわり＆椎名唯華＆葛葉＆竜胆尊＆舞元啓介闇夜乃モルル＆神田笑一＆春崎エアル＆成瀬鳴 at:YouTube
+  title: "剣持刀也＆渋谷ハジメ＆物述有栖＆叶＆本間ひまわり＆椎名唯華＆葛葉＆竜胆尊＆舞元啓介闇夜乃モルル＆神田笑一＆春崎エアル＆成瀬鳴 at:剣持刀也のYouTubeチャンネル
     マリオカート8 デラックス マリカにじさんじ杯 決勝 ※舞元啓介→闇夜乃モルルに変更"
   end_time: 
   uri: 
@@ -341,8 +391,20 @@
   end_time: 
   uri: 
 - date: 2019-01-08
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube Left 4 Dead 2 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-08
   time: 
   title: "？時？分(マリカにじさんじ杯終了後)～ 椎名唯華 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-08
+  time: 
+  title: "？時？分～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2019-01-08
