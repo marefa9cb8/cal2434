@@ -94,13 +94,15 @@
   end_time: 
   uri: 
 - date: 2019-01-12
-  time: 
-  title: "？時？分(夜)～ 闇夜乃モルル at:YouTube 新春カラオケライブSPリベンジ ※YouTubeリマインダーより"
+  time:
+    hour: 13
+    min: 0
+  title: or14時00分頃～ 雨森小夜 at:YouTube 音響テスト
   end_time: 
   uri: 
 - date: 2019-01-12
   time: 
-  title: "？時？分(昼頃)～ 雨森小夜 at:YouTube 音響テスト"
+  title: 19時-22時の間～ 闇夜乃モルル at:YouTube 新春カラオケライブSPリベンジ ※YouTubeリマインダーより
   end_time: 
   uri: 
 - date: 2019-01-11
@@ -108,6 +110,13 @@
     hour: 0
     min: 0
   title: "夕陽リリ＆森中花咲 at:森中花咲のYouTubeチャンネル New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-11
@@ -162,14 +171,42 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube バーガーバーガー"
+  title: 46分～ 椎名唯華 at:YouTube バーガーバーガー
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 0
+    min: 31
+  title: ") 渋谷ハル at:渋谷ハルのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 0
+    min: 56
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-01-10
   time:
     hour: 1
     min: 0
-  title: "静凛 at:?"
+  title: 02時00分～ 静凛 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 2
+    min: 6
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 2
+    min: 9
+  title: "叶 at:YouTube プレミア公開 キス部のみなさんとドン勝を食べました！"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -245,11 +282,6 @@
 - date: 2019-01-10
   time: 
   title: "？時？分(深夜)～ 月ノ美兎 at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-10
-  time: 
-  title: "？時？分(深夜)～ 叶 at:? PUBG"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -413,7 +445,7 @@
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#1"
+  title: "月ノ美兎(&静凛&樋口楓&える&物述有栖&家長むぎ)&剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#1"
   end_time: 
   uri: 
 - date: 2019-01-09
