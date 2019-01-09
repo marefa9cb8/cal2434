@@ -1,9 +1,37 @@
 ---
+- date: 2019-01-27
+  time:
+    hour: 21
+    min: 30
+  title: "鈴木勝 at:YouTube(D.E.放送局)"
+  end_time: 
+  uri: 
 - date: 2019-01-26
   time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 全case配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(D.E.放送局) ふぁんしーあいらんど"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 23
+    min: 0
+  title: "鈴木勝 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube(Re‡D.E.放送局) Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -18,6 +46,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ お餅"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(D.E.放送局) 雑談、心理テスト"
   end_time: 
   uri: 
 - date: 2019-01-16
@@ -41,6 +76,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
+    hour: 23
+    min: 0
+  title: "鈴木勝 at:?"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -69,6 +111,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube(Re‡D.E.放送局) Home Sweet Home"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -211,9 +260,16 @@
   uri: 
 - date: 2019-01-10
   time:
+    hour: 3
+    min: 50
+  title: "ベルモンド・バンデラス at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
     hour: 14
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば＆さくらみこ at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -262,7 +318,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築＆夏色まつり at:? お悩み相談"
+  title: "社築＆夏色まつり at:夏色まつりのYouTubeチャンネル お悩み相談"
   end_time: 
   uri: 
 - date: 2019-01-10
