@@ -96,6 +96,14 @@
   uri: 
 - date: 2019-01-11
   time:
+    hour: 19
+    min: 0
+  title: "まじかるどーる(雅まつり＆雅紅羽)+ベルモンド・バンデラス＆パンディ＆癒月ちょこ at:まじかるどーる / Magical DollのYouTubeチャンネル
+    新年会"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube"
@@ -160,6 +168,13 @@
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
+    hour: 20
+    min: 0
+  title: "竜胆尊 at:? 「にじさんじMIX UP!!」 感想会"
   end_time: 
   uri: 
 - date: 2019-01-10
@@ -253,6 +268,27 @@
   uri: 
 - date: 2019-01-09
   time:
+    hour: 15
+    min: 35
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 16
+    min: 30
+  title: "出雲霞 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ＆卯月コウ at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
     hour: 17
     min: 30
   title: "森中花咲 at:YouTube Minecraft"
@@ -321,7 +357,7 @@
   time:
     hour: 22
     min: 0
-  title: "卯月コウ at:? 質問箱企画"
+  title: "卯月コウ at:YouTube 質問箱企画 Vtuber学パロ妄想"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -335,7 +371,7 @@
   time:
     hour: 22
     min: 0
-  title: "竜胆尊＆周防パトラ at:? Minecraft"
+  title: "竜胆尊＆周防パトラ at:周防パトラのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -362,13 +398,15 @@
 - date: 2019-01-09
   time:
     hour: 23
-    min: 45
-  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
+    min: 0
+  title: "?～ 成瀬鳴 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-09
-  time: 
-  title: "？時？分(夜)～ 成瀬鳴 at:Mirrativ"
+  time:
+    hour: 23
+    min: 45
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-01-09
