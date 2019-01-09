@@ -150,6 +150,13 @@
   uri: 
 - date: 2019-01-10
   time:
+    hour: 14
+    min: 0
+  title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-10
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube ※21時から時間変更"
@@ -248,7 +255,14 @@
   time:
     hour: 17
     min: 30
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time:
+    hour: 19
+    min: 30
+  title: "雪汝 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -342,7 +356,7 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-09
@@ -355,6 +369,11 @@
 - date: 2019-01-09
   time: 
   title: "？時？分(夜)～ 成瀬鳴 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-09
+  time: 
+  title: "？時？分(深夜)～ 叶 at:? PUBG"
   end_time: 
   uri: 
 - date: 2019-01-08
@@ -516,7 +535,8 @@
   time:
     hour: 23
     min: 17
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Left 4 Dead 2、League of Legends、Minecraft"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Left 4 Dead 2、League of Legends、Dead
+    by Daylight、Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-08
