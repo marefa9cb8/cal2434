@@ -337,7 +337,7 @@
   uri: 
 - date: 2019-01-12
   time: 
-  title: "？時？分～ 魔界ノりりむ＆SUMOMOxqX(すもも) at:? ※コラボ相手は1/11のSUMOMOXqX(すもも)の配信で告知"
+  title: "？時？分～ 魔界ノりりむ＆SUMOMOxqX(すもも) at:?  Super Animal Royale"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -426,6 +426,13 @@
   uri: 
 - date: 2019-01-11
   time:
+    hour: 15
+    min: 6
+  title: "クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
     hour: 16
     min: 0
   title: "緑仙 at:YouTube レゴシティ アンダーカバー"
@@ -504,6 +511,13 @@
   uri: 
 - date: 2019-01-11
   time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ at:? ホラーゲーム"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
     hour: 23
     min: 0
   title: "鈴鹿詩子 at:? New スーパーマリオブラザーズ U デラックス"
@@ -512,11 +526,6 @@
 - date: 2019-01-11
   time: 
   title: "？時？分～ モイラ at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-11
-  time: 
-  title: "？時？分～ 夕陽リリ at:? ホラーゲーム"
   end_time: 
   uri: 
 - date: 2019-01-10
