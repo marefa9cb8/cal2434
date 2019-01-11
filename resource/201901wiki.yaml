@@ -132,6 +132,11 @@
   title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
+- date: 2019-01-16
+  time: 
+  title: "？時？分～ 久遠千歳 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-01-15
   time:
     hour: 1
@@ -267,6 +272,13 @@
   time:
     hour: 1
     min: 0
+  title: "闇夜乃モルル at:YouTube DX人生ゲームII"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 1
+    min: 0
   title: "鈴木勝 at:YouTube(Re‡D.E.放送局) Home Sweet Home"
   end_time: 
   uri: 
@@ -321,6 +333,11 @@
 - date: 2019-01-12
   time: 
   title: "？時？分(朝)～ ジョー・力一 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time: 
+  title: "？時？分～ 魔界ノりりむ＆SUMOMOxqX(すもも) at:? ※コラボ相手は1/11のSUMOMOXqX(すもも)の配信で告知"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -425,8 +442,22 @@
   time:
     hour: 19
     min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 19
+    min: 0
   title: "まじかるどーる(雅まつり＆雅紅羽)+ベルモンド・バンデラス＆パンディ＆癒月ちょこ at:まじかるどーる / Magical DollのYouTubeチャンネル
     新年会"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube 星のカービィ スーパーデラックス"
   end_time: 
   uri: 
 - date: 2019-01-11
@@ -434,6 +465,13 @@
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube CALLING ～黒き着信～"
   end_time: 
   uri: 
 - date: 2019-01-11
@@ -474,6 +512,11 @@
 - date: 2019-01-11
   time: 
   title: "？時？分～ モイラ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-11
+  time: 
+  title: "？時？分～ 夕陽リリ at:? ホラーゲーム"
   end_time: 
   uri: 
 - date: 2019-01-10
