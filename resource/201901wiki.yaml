@@ -174,6 +174,13 @@
   uri: 
 - date: 2019-01-14
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 飯フェス(ご飯+好きなおかず)"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
@@ -385,13 +392,6 @@
   time:
     hour: 21
     min: 0
-  title: "夢追翔 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-01-12
-  time:
-    hour: 21
-    min: 0
   title: "童田明治 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -414,6 +414,13 @@
     hour: 22
     min: 0
   title: "名伽尾アズマ at:YouTube ときめきメモリアル girl's side premium 3rd story"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 22
+    min: 0
+  title: "夢追翔 at:YouTube 雑談 ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -442,6 +449,13 @@
     hour: 23
     min: 0
   title: "魔界ノりりむ＆SUMOMOxqX(すもも) at:?  Super Animal Royale"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 23
+    min: 0
+  title: "海夜叉神 at:YouTube スマブラ質問受付"
   end_time: 
   uri: 
 - date: 2019-01-12
