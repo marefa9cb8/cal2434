@@ -160,7 +160,7 @@
   time:
     hour: 15
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば at:YouTube みんなのペット紹介"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -238,6 +238,20 @@
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー・力一+ゲスト：社築 at:ジョー・力一のYouTubeチャンネル 舞元力一 #5"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 3
+    min: 5
+  title: "町田ちま at:YouTube テスト配信(Minecraft)"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 3
+    min: 29
+  title: "叶 at:YouTube Super Animal Royale"
   end_time: 
   uri: 
 - date: 2019-01-13
