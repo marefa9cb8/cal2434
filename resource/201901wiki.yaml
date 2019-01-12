@@ -319,9 +319,23 @@
   uri: 
 - date: 2019-01-12
   time:
+    hour: 6
+    min: 4
+  title: "闇夜乃モルル at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
     hour: 7
     min: 0
   title: "ジョー・力一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 8
+    min: 34
+  title: "叶 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -406,7 +420,7 @@
   time:
     hour: 23
     min: 0
-  title: "鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 身体測定"
+  title: "叶＆シスター・クレア at:YouTube Minecraft ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -414,6 +428,13 @@
     hour: 23
     min: 0
   title: "魔界ノりりむ＆SUMOMOxqX(すもも) at:?  Super Animal Royale"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 23
+    min: 0
+  title: "鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-01-12
