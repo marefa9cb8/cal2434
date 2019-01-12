@@ -378,6 +378,13 @@
   time:
     hour: 20
     min: 0
+  title: "闇夜乃モルル at:YouTube 新春カラオケライブSPリベンジ"
+  end_time: 
+  uri: 
+- date: 2019-01-12
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞＆桜塚和音 at:YouTube Fate/stay night Heaven's Feel語り"
   end_time: 
   uri: 
@@ -468,13 +475,6 @@
 - date: 2019-01-12
   time: 
   title: "？時？分～ 家長むぎ at:? ※中止"
-  end_time: 
-  uri: 
-- date: 2019-01-12
-  time:
-    hour: 19
-    min: 30
-  title: "-22時00分の間～ 闇夜乃モルル at:YouTube 新春カラオケライブSPリベンジ"
   end_time: 
   uri: 
 - date: 2019-01-11
