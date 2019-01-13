@@ -200,9 +200,23 @@
   uri: 
 - date: 2019-01-15
   time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
     hour: 23
     min: 0
   title: "ドーラ at:? Minecraft or 麻雀、雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-01-14
@@ -242,9 +256,16 @@
   uri: 
 - date: 2019-01-14
   time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆魔界ノりりむ＆花畑チャイカ＆でびでび・でびる at:にじさんじ公式YouTubeチャンネル 第8回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
     hour: 21
     min: 0
-  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル"
+  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル ※15日に延期"
   end_time: 
   uri: 
 - date: 2019-01-14
@@ -361,6 +382,27 @@
   uri: 
 - date: 2019-01-13
   time:
+    hour: 18
+    min: 15
+  title: "静凛 at:YouTube Home Sweet Home"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 19
+    min: 10
+  title: "勇気ちひろ at:YouTube  Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube Minecraft にじさんじサーバーお宅訪問"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
     hour: 20
     min: 0
   title: "轟京子 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※中止"
@@ -375,9 +417,23 @@
   uri: 
 - date: 2019-01-13
   time:
-    hour: 20
+    hour: 22
     min: 0
-  title: "ドーラ at:YouTube Minecraft"
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 22
+    min: 0
+  title: "渋谷ハジメ＆白百合＆ユキミお姉ちゃん＆屍鬼 at:屍鬼のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -391,14 +447,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
-  end_time: 
-  uri: 
-- date: 2019-01-13
-  time:
-    hour: 22
-    min: 0
-  title: "本間ひまわり at:?"
+  title: "春崎エアル at:YouTube バイノーラル、マシュマロ読み"
   end_time: 
   uri: 
 - date: 2019-01-13
