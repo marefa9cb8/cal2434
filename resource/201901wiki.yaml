@@ -242,13 +242,6 @@
   uri: 
 - date: 2019-01-14
   time:
-    hour: 9
-    min: 0
-  title: "緑仙 at:YouTube レゴシティ アンダーカバー"
-  end_time: 
-  uri: 
-- date: 2019-01-14
-  time:
     hour: 19
     min: 0
   title: "勇気ちひろ at:YouTube"
@@ -280,6 +273,11 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube The Stanley Parable"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time: 
+  title: "?時?分(午後) 緑仙 at:YouTube レゴシティ アンダーカバー ※9時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -417,6 +415,13 @@
   uri: 
 - date: 2019-01-13
   time:
+    hour: 21
+    min: 13
+  title: "シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
@@ -433,7 +438,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:?"
+  title: "本間ひまわり at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -459,21 +464,51 @@
   uri: 
 - date: 2019-01-13
   time:
-    hour: 23
-    min: 0
-  title: "名伽尾アズマ＆八朔ゆず+ゲスト：鈴木勝 at:名伽尾アズマのYouTubeチャンネル アズゆずヌーボ"
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube バイオハザードRE:2"
   end_time: 
   uri: 
 - date: 2019-01-13
   time:
     hour: 23
     min: 0
-  title: "遠北千南＆矢車りね at:遠北千南のYouTubeチャンネル"
+  title: "叶 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-13
-  time: 
-  title: "？時？分(夜)～ でびでび・でびる at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず+ゲスト：鈴木勝 at:八朔ゆずのYouTubeチャンネル アズゆずヌーボ"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 23
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:両名のYouTubeチャンネル Left 4 Dead 2、Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 23
+    min: 14
+  title: "ベルモンド・バンデラス at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 23
+    min: 30
+  title: "遠北千南＆矢車りね at:遠北千南のYouTubeチャンネル スプラトゥーン2 ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 23
+    min: 39
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2019-01-12
