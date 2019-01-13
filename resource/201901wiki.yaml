@@ -93,11 +93,25 @@
   title: "勇気ちひろ at:YouTube"
   end_time: 
   uri: 
+- date: 2019-01-18
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-01-17
   time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-17
+  time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube 都道府県大戦"
   end_time: 
   uri: 
 - date: 2019-01-17
@@ -179,9 +193,23 @@
   uri: 
 - date: 2019-01-15
   time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
     hour: 23
     min: 0
   title: "ドーラ at:? Minecraft or 麻雀、雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-14
@@ -256,6 +284,20 @@
   uri: 
 - date: 2019-01-13
   time:
+    hour: 5
+    min: 47
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
     hour: 9
     min: 0
   title: 10時30分～ 緑仙 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL 雑談
@@ -286,7 +328,7 @@
   time:
     hour: 14
     min: 6
-  title: "宇志海いちご at:YouTube 歌枠"
+  title: "宇志海いちご at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -300,7 +342,14 @@
   time:
     hour: 15
     min: 0
-  title: "夢追翔 at:YouTube 公開MIX ※Twitterネームより"
+  title: "夢追翔 at:YouTube 公開MIX"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 17
+    min: 3
+  title: "勇気ちひろ＆闇夜乃モルル at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -314,7 +363,7 @@
   time:
     hour: 20
     min: 0
-  title: "轟京子 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "轟京子 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL ※中止"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -326,7 +375,7 @@
   uri: 
 - date: 2019-01-13
   time:
-    hour: 21
+    hour: 20
     min: 0
   title: "ドーラ at:YouTube Minecraft"
   end_time: 
@@ -335,7 +384,28 @@
   time:
     hour: 22
     min: 0
+  title: " 卯月コウ+ゲスト：魔界ノりりむ at:卯月コウのYouTubeチャンネル 陰キャグランプリ ※18時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 22
+    min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #9"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-13
+  time:
+    hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube バイオハザードRE:2"
   end_time: 
   uri: 
 - date: 2019-01-13
@@ -353,15 +423,8 @@
   end_time: 
   uri: 
 - date: 2019-01-13
-  time:
-    hour: 18
-    min: 0
-  title: 21時or22時～  卯月コウ+ゲスト：魔界ノりりむ at:卯月コウのYouTubeチャンネル 陰キャグランプリ ※時間変更
-  end_time: 
-  uri: 
-- date: 2019-01-13
   time: 
-  title: "？時？分～ でびでび・でびる at:?"
+  title: "？時？分(夜)～ でびでび・でびる at:?"
   end_time: 
   uri: 
 - date: 2019-01-12
