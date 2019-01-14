@@ -338,6 +338,13 @@
   uri: 
 - date: 2019-01-14
   time:
+    hour: 13
+    min: 6
+  title: "神田笑一 at:YouTube AREA 4643"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
     hour: 17
     min: 0
   title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
@@ -380,9 +387,23 @@
   uri: 
 - date: 2019-01-14
   time:
+    hour: 21
+    min: 30
+  title: "社築 at:YouTube 星のカービィ 夢の泉の物語"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
     hour: 22
     min: 0
   title: "椎名唯華 at:YouTube Wii Sports Resort ※20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:?"
   end_time: 
   uri: 
 - date: 2019-01-14
@@ -400,13 +421,15 @@
   end_time: 
   uri: 
 - date: 2019-01-14
-  time: 
-  title: "?時?分(午後) 緑仙 at:YouTube レゴシティ アンダーカバー ※9時から時間変更"
+  time:
+    hour: 23
+    min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-01-14
   time: 
-  title: 20時以降～ 舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド
+  title: "?時?分(午後) 緑仙 at:YouTube レゴシティ アンダーカバー ※9時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-13
