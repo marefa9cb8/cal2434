@@ -111,7 +111,7 @@
   time:
     hour: 23
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "(仮)～ 樋口楓＆勇気ちひろ at:? マリオカート8 デラックス ※01/14配信にて告知、時間はTwitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-01-17
@@ -132,7 +132,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "(仮)～ 樋口楓 at:YouTube? マビノギ＠ルエリサーバ ※01/14配信にて告知、時間はTwitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-01-17
@@ -195,14 +195,21 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:? Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft Wii Sports Resort"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 0
+    min: 24
+  title: "安土桃 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-15
   time:
     hour: 1
     min: 0
-  title: "緑仙 at:YouTube 歌"
+  title: "緑仙 at:YouTube 歌 雑談"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -217,6 +224,13 @@
     hour: 16
     min: 30
   title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 18
+    min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -244,7 +258,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "(仮)～ 樋口楓＆モイラ at:? ※01/14配信にて告知、開始時刻はTwitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-01-15
