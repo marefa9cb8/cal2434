@@ -324,6 +324,20 @@
   uri: 
 - date: 2019-01-14
   time:
+    hour: 9
+    min: 52
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
+    hour: 10
+    min: 15
+  title: "ベルモンド・バンデラス at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time:
     hour: 17
     min: 0
   title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
@@ -368,7 +382,7 @@
   time:
     hour: 22
     min: 0
-  title: "椎名唯華 at:? Wii Sports Resort ※20時から時間変更"
+  title: "椎名唯華 at:YouTube Wii Sports Resort ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-14
@@ -388,6 +402,11 @@
 - date: 2019-01-14
   time: 
   title: "?時?分(午後) 緑仙 at:YouTube レゴシティ アンダーカバー ※9時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-14
+  time: 
+  title: 20時以降～ 舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド
   end_time: 
   uri: 
 - date: 2019-01-13
