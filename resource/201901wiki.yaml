@@ -158,6 +158,13 @@
   uri: 
 - date: 2019-01-16
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
     hour: 17
     min: 30
   title: "森中花咲 at:? ※Twitterネームより"
@@ -228,16 +235,37 @@
   uri: 
 - date: 2019-01-15
   time:
-    hour: 15
-    min: 0
-  title: "椎名唯華＆雪汝 at:椎名唯華のYouTubeチャンネル PARTY PANIC"
+    hour: 13
+    min: 6
+  title: "シスター・クレア at:YouTube Minecraft ※回線不調により中断"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 14
+    min: 1
+  title: "黒井しば at:YouTube Montaro"
   end_time: 
   uri: 
 - date: 2019-01-15
   time:
     hour: 15
     min: 0
-  title: "黒井しば at:YouTube みんなのペット紹介"
+  title: "雪汝＆椎名唯華 at:椎名唯華のYouTubeチャンネル Party Panic"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 15
+    min: 0
+  title: "黒井しば at:YouTube うちのこがいちばんかわいい #2"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 16
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -245,6 +273,20 @@
     hour: 16
     min: 30
   title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 17
+    min: 0
+  title: "神田笑一 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル at:YouTube スーパーマリオ64"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -258,7 +300,7 @@
   time:
     hour: 19
     min: 0
-  title: "雨森小夜 at:YouTube プレミア公開動画 いままでのあらすじ"
+  title: "雨森小夜 at:YouTube プレミア公開 いままでのあらすじ"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -279,7 +321,7 @@
   time:
     hour: 20
     min: 0
-  title: "名伽尾アズマ＆緑仙＆八朔ゆず＆でびでび・でびる at:八朔ゆずとでびでび・でびるのYouTubeチャンネル? Left 4 Dead 2 ※1/15早朝緑仙の配信にて告知"
+  title: "名伽尾アズマ＆緑仙＆八朔ゆず＆でびでび・でびる at:八朔ゆずとでびでび・でびるのYouTubeチャンネル? Left 4 Dead 2"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -287,6 +329,20 @@
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆エルセとさめのぽき at:YouTube 渋谷カフェ：つなげようお客様の輪 第19回"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -300,14 +356,14 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓＆モイラ at:? ※01/14配信にて告知、開始時刻はTwitter自己紹介欄より"
+  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル 新年会"
   end_time: 
   uri: 
 - date: 2019-01-15
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル"
+  title: "(仮)～ 樋口楓＆モイラ at:? ※01/14配信にて告知、開始時刻：Twitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -328,7 +384,7 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:? Minecraft、雑談"
+  title: "ドーラ at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-01-15
