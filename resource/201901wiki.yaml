@@ -146,6 +146,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(D.E.放送局) 雑談、心理テスト"
   end_time: 
   uri: 
@@ -214,6 +221,20 @@
   uri: 
 - date: 2019-01-15
   time:
+    hour: 11
+    min: 3
+  title: "雪汝 at:YouTube 作業雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 15
+    min: 0
+  title: "椎名唯華＆雪汝 at:椎名唯華のYouTubeチャンネル PARTY PANIC"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
     hour: 15
     min: 0
   title: "黒井しば at:YouTube みんなのペット紹介"
@@ -235,9 +256,30 @@
   uri: 
 - date: 2019-01-15
   time:
+    hour: 19
+    min: 0
+  title: "雨森小夜 at:YouTube プレミア公開動画 いままでのあらすじ"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:? Wii Fit"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 20
+    min: 0
+  title: "名伽尾アズマ＆緑仙＆八朔ゆず＆でびでび・でびる at:八朔ゆずとでびでび・でびるのYouTubeチャンネル? Left 4 Dead 2 ※1/15早朝緑仙の配信にて告知"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -273,6 +315,13 @@
     hour: 22
     min: 0
   title: "闇夜乃モルル＆本間ひまわり＆周防パトラ at:周防パトラのYouTubeチャンネル Left 4 Dead 2"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 23
+    min: 0
+  title: "夕陽リリ at:?"
   end_time: 
   uri: 
 - date: 2019-01-15
