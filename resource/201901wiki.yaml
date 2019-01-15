@@ -172,6 +172,13 @@
   uri: 
 - date: 2019-01-16
   time:
+    hour: 19
+    min: 0
+  title: "久遠千歳 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
     hour: 21
     min: 0
   title: "にじくじ7(月ノ美兎&静凛&樋口楓&える&物述有栖&家長むぎ&剣持刀也)+タイムマシーン3号(山本浩司＆関太) at:AbemaTVウルトラゲームス
@@ -198,11 +205,6 @@
     hour: 22
     min: 30
   title: "勇気ちひろ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-01-16
-  time: 
-  title: "？時？分～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -270,13 +272,6 @@
   uri: 
 - date: 2019-01-15
   time:
-    hour: 16
-    min: 30
-  title: "緑仙 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-01-15
-  time:
     hour: 17
     min: 0
   title: "神田笑一 at:YouTube FF14"
@@ -300,6 +295,13 @@
   time:
     hour: 19
     min: 0
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
+    hour: 19
+    min: 0
   title: "雨森小夜 at:YouTube プレミア公開 いままでのあらすじ"
   end_time: 
   uri: 
@@ -314,7 +316,7 @@
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:? Wii Fit"
+  title: "椎名唯華 at:YouTube Wii Fit Plus"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -354,6 +356,13 @@
   uri: 
 - date: 2019-01-15
   time:
+    hour: 21
+    min: 40
+  title: "飛鳥ひな at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-15
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆渋谷ハジメ at:渋谷ハジメのYouTubeチャンネル 新年会"
@@ -363,7 +372,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓＆モイラ at:? ※01/14配信にて告知、開始時刻：Twitter自己紹介欄より"
+  title: "樋口楓＆モイラ at:?"
   end_time: 
   uri: 
 - date: 2019-01-15
@@ -388,8 +397,10 @@
   end_time: 
   uri: 
 - date: 2019-01-15
-  time: 
-  title: "？時？分～ 文野環 at:YouTube"
+  time:
+    hour: 16
+    min: 30
+  title: "?時?分(夕方)～ 緑仙 at:YouTube 雑談 ※中止の可能性あり(前配信より)"
   end_time: 
   uri: 
 - date: 2019-01-14
