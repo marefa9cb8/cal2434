@@ -9825,7 +9825,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190117T003500
-SUMMARY:静凛＆勇気ちひろ＆森中花咲 at:各々のYouTubeチャンネル Minecraft
+SUMMARY:静凛＆夕陽リリ＆森中花咲 at:各々のYouTubeチャンネル Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -10119,7 +10119,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190115T163000
-SUMMARY:?時?分(夕方)～ 緑仙 at:YouTube 雑談 ※中止の可能性あり(前配信より)
+SUMMARY:緑仙 at:YouTube 雑談 ※中止の可能性あり(前配信より)→中止
 URL:
 DESCRIPTION:
 END:VEVENT
