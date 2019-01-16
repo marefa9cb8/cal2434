@@ -249,16 +249,23 @@
   uri: 
 - date: 2019-01-16
   time:
+    hour: 15
+    min: 0
+  title: "闇夜乃モルル at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
     hour: 17
     min: 30
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:?"
   end_time: 
   uri: 
 - date: 2019-01-16
   time:
     hour: 19
     min: 0
-  title: "久遠千歳 at:YouTube"
+  title: "久遠千歳 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-16
@@ -289,6 +296,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube 歌(宇多田ヒカル縛り)"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
+    hour: 22
+    min: 0
+  title: "舞元啓介＆ふくやマスター at:?"
   end_time: 
   uri: 
 - date: 2019-01-16
