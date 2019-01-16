@@ -159,6 +159,13 @@
 - date: 2019-01-17
   time:
     hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-01-17
+  time:
+    hour: 0
     min: 35
   title: "静凛＆夕陽リリ＆森中花咲 at:各々のYouTubeチャンネル Minecraft"
   end_time: 
@@ -281,7 +288,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:? 歌(宇多田ヒカル縛り)"
+  title: "ドーラ at:YouTube 歌(宇多田ヒカル縛り)"
   end_time: 
   uri: 
 - date: 2019-01-16
@@ -295,7 +302,7 @@
   time:
     hour: 22
     min: 30
-  title: "鷹宮リオン at:? ゼルダの伝説 時のオカリナ ※前配信にて告知"
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ ※前配信にて告知＆YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-16
@@ -316,7 +323,7 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 轟京子 at:YouTube スライムASMR"
+  title: "轟京子 at:YouTube スライムASMR"
   end_time: 
   uri: 
 - date: 2019-01-15
