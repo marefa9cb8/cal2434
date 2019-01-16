@@ -18,6 +18,13 @@
   title: "？時？分～ ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
+- date: 2019-01-24
+  time:
+    hour: 20
+    min: 0
+  title: "える at:? 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2019-01-23
   time:
     hour: 0
@@ -53,6 +60,13 @@
   title: "ドーラ at:? 歌or料理"
   end_time: 
   uri: 
+- date: 2019-01-21
+  time:
+    hour: 23
+    min: 0
+  title: "える at:?"
+  end_time: 
+  uri: 
 - date: 2019-01-20
   time:
     hour: 1
@@ -86,6 +100,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 21
+    min: 0
+  title: "える at:YouTube えるのオタ活日記#2"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -166,6 +187,13 @@
 - date: 2019-01-17
   time:
     hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-01-17
+  time:
+    hour: 0
     min: 35
   title: "静凛＆夕陽リリ＆森中花咲 at:各々のYouTubeチャンネル Minecraft"
   end_time: 
@@ -189,6 +217,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube? マビノギ＠ルエリサーバ ※01/14配信にて告知、開始時刻：Twitter自己紹介欄より"
+  end_time: 
+  uri: 
+- date: 2019-01-17
+  time:
+    hour: 22
+    min: 0
+  title: "える at:YouTube プレミア公開動画"
   end_time: 
   uri: 
 - date: 2019-01-17
@@ -256,9 +291,16 @@
   uri: 
 - date: 2019-01-16
   time:
+    hour: 16
+    min: 30
+  title: "緑仙 at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
     hour: 17
     min: 30
-  title: "森中花咲 at:?"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-16
@@ -266,6 +308,13 @@
     hour: 19
     min: 0
   title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-16
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア at:YouTube 歌(ハロープロジェクト縛り)"
   end_time: 
   uri: 
 - date: 2019-01-16
