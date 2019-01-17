@@ -197,6 +197,13 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 12
     min: 30
   title: "雨森小夜 at:?"
@@ -255,7 +262,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube 常識力検定 ※1時から時間変更"
+  title: "椎名唯華 at:YouTube みんなの常識力テレビ ※1時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -269,14 +276,14 @@
   time:
     hour: 0
     min: 10
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル 雑談、ピクトセンス、でびリオンラジオ"
   end_time: 
   uri: 
 - date: 2019-01-18
   time:
     hour: 0
     min: 30
-  title: "鈴鹿詩子 at:YouTube 飲酒雑談＆ニューダンガンロンパV3"
+  title: "鈴鹿詩子 at:YouTube 飲酒雑談、ニューダンガンロンパV3"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -295,16 +302,23 @@
   uri: 
 - date: 2019-01-18
   time:
+    hour: 3
+    min: 17
+  title: "渋谷ハジメ at:YouTube League of Legends、雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ コーンポタージュ"
   end_time: 
   uri: 
 - date: 2019-01-18
   time:
     hour: 14
     min: 30
-  title: "町田ちま＆黒井しば at:? Minecraft"
+  title: "町田ちま＆黒井しば at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -330,9 +344,23 @@
   uri: 
 - date: 2019-01-18
   time:
+    hour: 19
+    min: 0
+  title: "花畑チャイカ at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:?"
+  title: "夕陽リリ at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -340,6 +368,13 @@
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 20
+    min: 30
+  title: "森中花咲 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -353,7 +388,21 @@
   time:
     hour: 21
     min: 0
+  title: "魔界ノりりむ at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:YouTube 大神"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(アキくんちゃんネル)"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -374,7 +423,7 @@
   time:
     hour: 22
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:?
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -402,12 +451,21 @@
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:? 晩酌"
+  title: "緑仙 at:YouTube プレミア公開 緑仙がわかる動画 2018.ver"
   end_time: 
   uri: 
 - date: 2019-01-18
-  time: 
-  title: 23時以降～ 樋口楓＆勇気ちひろ at:? マリオカート8 デラックス ※樋口楓Twitterネームより
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ＆樋口楓 at:? マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -642,6 +700,11 @@
 - date: 2019-01-17
   time: 
   title: "？時？分～ 静凛 at:? FF14 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-01-17
+  time: 
+  title: "？時？分～ 久遠千歳 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-01-16
