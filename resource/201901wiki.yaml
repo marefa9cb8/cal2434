@@ -39,6 +39,13 @@
   title: "？時？分～ ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
+- date: 2019-01-25
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-01-24
   time:
     hour: 20
@@ -99,6 +106,13 @@
   uri: 
 - date: 2019-01-22
   time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆さくらみこ at:YouTube 渋谷カフェ：つなげようお客様の輪 第20回"
@@ -150,7 +164,7 @@
   time:
     hour: 0
     min: 0
-  title: " 鷹宮リオン at:? SAO同時視聴+感想会"
+  title: " 鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -230,6 +244,11 @@
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
+- date: 2019-01-20
+  time: 
+  title: "？時？分(朝?)～ 遠北千南 at:?"
+  end_time: 
+  uri: 
 - date: 2019-01-19
   time:
     hour: 0
@@ -242,6 +261,13 @@
     hour: 0
     min: 0
   title: "椎名唯華 at:YouTube ポケモンスタジアム2メイドインワリオ"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 0
+    min: 41
+  title: "叶 at:YouTube Dead Cells→Minecraft、Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -268,8 +294,15 @@
 - date: 2019-01-19
   time:
     hour: 2
+    min: 15
+  title: "伏見ガク at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 2
     min: 30
-  title: "勇気ちひろ＆樋口楓 at:勇気ちひろのYouTubeチャンネル"
+  title: "勇気ちひろ＆樋口楓 at:勇気ちひろのYouTubeチャンネル 雑談(食レポ)"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -297,7 +330,7 @@
   time:
     hour: 13
     min: 0
-  title: "?  鷹宮リオン at:? ゼルダの伝説 時のオカリナ"
+  title: "?  鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -360,7 +393,21 @@
   time:
     hour: 22
     min: 0
+  title: "本間ひまわり at:YouTube プレミア公開 バイオハザード RE:2 30分一本勝負"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 23
+    min: 0
+  title: "遠北千南＆矢車りね at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -570,7 +617,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(アキくんちゃんネル)"
+  title: "鈴谷アキ at:YouTube(アキくんちゃんネル) 雑談"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -605,14 +652,14 @@
   time:
     hour: 22
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  title: 10分～ ベルモンド・バンデラス at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-01-18
   time:
     hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -654,7 +701,7 @@
   time:
     hour: 23
     min: 50
-  title: "静凛 at:YouTube Tom Clancy`s Rainbow Six"
+  title: "静凛 at:YouTube Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2019-01-17
