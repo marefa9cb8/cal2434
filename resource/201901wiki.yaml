@@ -122,6 +122,13 @@
   time:
     hour: 1
     min: 0
+  title: "伏見ガク at:YouTube GOD EATER 3"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 1
+    min: 0
   title: "鈴木勝 at:YouTube(Re‡D.E.放送局) Minecraft"
   end_time: 
   uri: 
@@ -190,9 +197,23 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:? ポケモンスタジアム2"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 1
     min: 0
   title: "鈴鹿詩子 at:YouTube 妹子錬成"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 1
+    min: 0
+  title: "伏見ガク at:YouTube GOD EATER 3"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -228,6 +249,13 @@
     hour: 21
     min: 0
   title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 21
+    min: 0
+  title: "伏見ガク at:YouTube 伝説対決 -Arena of Valor-"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -312,6 +340,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ コーンポタージュ"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 8
+    min: 0
+  title: "椎名唯華 at:YouTube Wii Fit U"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -466,11 +501,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ＆樋口楓 at:? マリオカート8 デラックス"
-  end_time: 
-  uri: 
-- date: 2019-01-18
-  time: 
-  title: "？時？分(夜)～ 伏見ガク at:?"
   end_time: 
   uri: 
 - date: 2019-01-17
