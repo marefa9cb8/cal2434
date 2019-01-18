@@ -220,7 +220,14 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube ※Twitterネームより"
+  title: "鈴木勝 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 10
+    min: 30
+  title: "緑仙 at:YouTube 雑談 ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -247,8 +254,8 @@
 - date: 2019-01-19
   time:
     hour: 20
-    min: 0
-  title: "リバーシ(轟京子＆シスター・クレア)+本間ひまわり at:シスター・クレアのYouTubeチャンネル ※YouTubeリマインダーより"
+    min: 30
+  title: REVERSI(轟京子＆シスター・クレア)+ゲスト：本間ひまわり at:シスター・クレアのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -366,8 +373,15 @@
 - date: 2019-01-18
   time:
     hour: 14
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 14
     min: 30
-  title: "町田ちま＆黒井しば at:YouTube Minecraft"
+  title: "町田ちま＆黒井しば at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -389,6 +403,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ＆神田笑一 at:渋谷ハジメのYouTubeチャンネル WIXOSS パック開封"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:YouTube バイオハザード HD REMASTER"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -423,7 +444,7 @@
   time:
     hour: 20
     min: 30
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -473,6 +494,13 @@
     hour: 22
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:花畑チャイカのYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 22
+    min: 0
+  title: "シスター・クレア at:? ASMRスライムバイノーラル ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-18
