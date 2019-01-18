@@ -46,6 +46,13 @@
   title: "える at:? 誕生日配信"
   end_time: 
   uri: 
+- date: 2019-01-24
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
+  end_time: 
+  uri: 
 - date: 2019-01-23
   time:
     hour: 0
@@ -409,7 +416,14 @@
   time:
     hour: 17
     min: 30
-  title: "魔界ノりりむ＆？？？ at:魔界ノりりむのYouTubeチャンネル 誕生日配信"
+  title: "魔界ノりりむ＆椎名唯華＆本間ひまわり at:魔界ノりりむのYouTubeチャンネル 誕生日配信(Layers of Fear)"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 19
+    min: 0
+  title: 18時35分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -423,13 +437,6 @@
   time:
     hour: 19
     min: 0
-  title: "本間ひまわり at:YouTube バイオハザード HD REMASTER"
-  end_time: 
-  uri: 
-- date: 2019-01-18
-  time:
-    hour: 19
-    min: 0
   title: "花畑チャイカ at:YouTube 伝説対決 -Arena of Valor-"
   end_time: 
   uri: 
@@ -437,21 +444,14 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 06分～ 本間ひまわり at:YouTube バイオハザード HD REMASTER
   end_time: 
   uri: 
 - date: 2019-01-18
   time:
     hour: 20
     min: 0
-  title: "宇志海いちご at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-18
-  time:
-    hour: 20
-    min: 0
-  title: "夕陽リリ at:YouTube Minecraft?"
+  title: "桃色冷蔵庫(宇志海いちご＆夕陽リリ) at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -459,6 +459,13 @@
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
   end_time: 
   uri: 
 - date: 2019-01-18
