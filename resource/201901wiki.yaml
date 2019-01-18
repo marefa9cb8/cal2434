@@ -148,9 +148,23 @@
   uri: 
 - date: 2019-01-20
   time:
+    hour: 0
+    min: 0
+  title: " 鷹宮リオン at:? SAO同時視聴+感想会"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
     hour: 1
     min: 0
   title: "伏見ガク at:YouTube GOD EATER 3"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 12
+    min: 0
+  title: "卯月コウ at:YouTube ニートからのお便り紹介"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -234,7 +248,7 @@
   time:
     hour: 1
     min: 0
-  title: "鈴鹿詩子 at:YouTube 妹子錬成"
+  title: 09分～ 鈴鹿詩子 at:YouTube 妹子錬成
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -253,9 +267,23 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 2
+    min: 30
+  title: "勇気ちひろ＆樋口楓 at:勇気ちひろのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 10
     min: 30
   title: "緑仙 at:YouTube 雑談 ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 12
+    min: 0
+  title: "卯月コウ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -267,9 +295,23 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 13
+    min: 0
+  title: "?  鷹宮リオン at:? ゼルダの伝説 時のオカリナ"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ お餅"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 17
+    min: 0
+  title: "赤羽葉子＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -298,6 +340,20 @@
     hour: 21
     min: 0
   title: "伏見ガク at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 21
+    min: 30
+  title: " 鷹宮リオン at:? ゼルダの伝説 時のオカリナ"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -561,9 +617,16 @@
   uri: 
 - date: 2019-01-18
   time:
+    hour: 22
+    min: 57
+  title: "叶 at:YouTube Thief Simulator"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
     hour: 23
     min: 0
-  title: "葛葉 at:?"
+  title: "葛葉 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-18
@@ -584,7 +647,14 @@
   time:
     hour: 23
     min: 30
-  title: "勇気ちひろ＆樋口楓 at:? マリオカート8 デラックス"
+  title: "勇気ちひろ＆樋口楓 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-18
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube Tom Clancy`s Rainbow Six"
   end_time: 
   uri: 
 - date: 2019-01-17
