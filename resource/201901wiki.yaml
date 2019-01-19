@@ -41,9 +41,23 @@
   uri: 
 - date: 2019-01-25
   time:
+    hour: 21
+    min: 0
+  title: "静凛 at:? バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
     hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 23
+    min: 0
+  title: "キズナアイ at:BS日テレ『のばん組』"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -164,7 +178,14 @@
   time:
     hour: 0
     min: 0
-  title: " 鷹宮リオン at:YouTube SAO同時視聴+感想会"
+  title: "叶 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 0
+    min: 0
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -377,9 +398,23 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 15
+    min: 1
+  title: "町田ちま at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 16
     min: 0
   title: " 神田笑一 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 16
+    min: 30
+  title: "宇志海いちご＆闇夜乃モルル at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -442,14 +477,14 @@
   time:
     hour: 21
     min: 0
-  title: "卯月コウ at:YouTube"
+  title: "卯月コウ at:YouTube ※18時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-19
   time:
     hour: 21
     min: 30
-  title: " 鷹宮リオン at:? ゼルダの伝説 時のオカリナ"
+  title: " 鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
   end_time: 
   uri: 
 - date: 2019-01-19
