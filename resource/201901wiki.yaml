@@ -329,8 +329,15 @@
 - date: 2019-01-19
   time:
     hour: 10
+    min: 1
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 10
     min: 30
-  title: "緑仙 at:YouTube 雑談 ※YouTubeリマインダーより"
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -345,6 +352,13 @@
     hour: 12
     min: 30
   title: "雨森小夜 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 13
+    min: 0
+  title: "宇志海いちご at:?"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -370,9 +384,23 @@
   uri: 
 - date: 2019-01-19
   time:
+    hour: 17
+    min: 0
+  title: " 神田笑一 at:? マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
     hour: 19
     min: 0
   title: "叶 at:YouTube 伝説対決 -Arena of Valor-"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月＆こうまい＆アジ吉＆先端恐怖症 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-01-19
