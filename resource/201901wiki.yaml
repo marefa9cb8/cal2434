@@ -234,6 +234,13 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:? まほすずラジオ"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 22
+    min: 0
   title: "郡道美玲 at:YouTube"
   end_time: 
   uri: 
@@ -242,6 +249,13 @@
     hour: 23
     min: 0
   title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 23
+    min: 30
+  title: "飛鳥ひな at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -260,7 +274,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube ポケモンスタジアム2メイドインワリオ"
+  title: "椎名唯華 at:YouTube ポケモンスタジアム2 おどるメイドインワリオ"
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -303,6 +317,13 @@
     hour: 2
     min: 30
   title: "勇気ちひろ＆樋口楓 at:勇気ちひろのYouTubeチャンネル 雑談(食レポ)"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 8
+    min: 6
+  title: "叶 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-19
