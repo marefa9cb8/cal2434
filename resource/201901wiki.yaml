@@ -178,13 +178,6 @@
   time:
     hour: 0
     min: 0
-  title: "叶 at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-20
-  time:
-    hour: 0
-    min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
@@ -200,6 +193,13 @@
     hour: 10
     min: 0
   title: "家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 12
+    min: 0
+  title: "叶 at:? ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -256,6 +256,13 @@
     hour: 21
     min: 0
   title: "える at:YouTube えるのオタ活日記#2"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 21
+    min: 0
+  title: "夢月ロア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -463,7 +470,7 @@
   time:
     hour: 20
     min: 30
-  title: REVERSI(轟京子＆シスター・クレア)+ゲスト：本間ひまわり at:シスター・クレアのYouTubeチャンネル
+  title: 43分～ REVERSI(轟京子＆シスター・クレア)+ゲスト：本間ひまわり at:シスター・クレアのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -519,7 +526,7 @@
   time:
     hour: 22
     min: 20
-  title: "静凛 at:YouTube KANA-DERO 同時視聴"
+  title: 53分～ 静凛 at:YouTube KANA-DERO 同時視聴
   end_time: 
   uri: 
 - date: 2019-01-19
@@ -533,7 +540,14 @@
   time:
     hour: 23
     min: 0
-  title: "遠北千南＆矢車りね at:YouTube Minecraft"
+  title: "遠北千南＆矢車りね at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-19
+  time:
+    hour: 23
+    min: 2
+  title: "緑仙 at:YouTube The Stanley Parable"
   end_time: 
   uri: 
 - date: 2019-01-18
