@@ -206,7 +206,7 @@
   time:
     hour: 0
     min: 36
-  title: "伏見ガク at:YouTube 大乱闘スマッシュブラザーズSPECIAL"
+  title: "伏見ガク at:YouTube マシュマロ返答、大乱闘スマッシュブラザーズSPECIAL"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -225,9 +225,30 @@
   uri: 
 - date: 2019-01-20
   time:
+    hour: 3
+    min: 4
+  title: "黒井しば at:YouTube Meadow"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
     hour: 10
     min: 0
   title: "家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 10
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -255,7 +276,22 @@
   time:
     hour: 13
     min: 0
-  title: "椎名唯華&天開司 at:? 実況パワフルクズ野球 ～栄冠ナイン一本勝負～"
+  title: "椎名唯華&天開司 at:YouTube 実況パワフルクズ野球 ～栄冠ナイン一本勝負～"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 16
+    min: 0
+  title: "ドーラ＆SUMOMOxqX(すもも) at:SUMOMOxqX(すもも)のOPENREC.tvチャンネル Super Animal Royale
+    ※20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 18
+    min: 0
+  title: "魔界ノりりむ at:YouTube 誕生日アフタートーク ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -277,13 +313,6 @@
     hour: 19
     min: 0
   title: "童田明治 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-20
-  time:
-    hour: 20
-    min: 0
-  title: "ドーラ＆SUMOMOxqX(すもも) at:SUMOMOxqX(すもも)のOPENREC.tvチャンネル Super Animal Royale"
   end_time: 
   uri: 
 - date: 2019-01-20
