@@ -375,7 +375,7 @@
   time:
     hour: 18
     min: 0
-  title: "魔界ノりりむ at:YouTube 誕生日アフタートーク"
+  title: 14分～ 魔界ノりりむ at:YouTube 誕生日アフタートーク
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -396,13 +396,6 @@
   time:
     hour: 19
     min: 0
-  title: "本間ひまわり at:YouTube バイオハザード HD REMASTER"
-  end_time: 
-  uri: 
-- date: 2019-01-20
-  time:
-    hour: 19
-    min: 0
   title: "出雲霞 at:YouTube 御噺企画発表会"
   end_time: 
   uri: 
@@ -416,8 +409,22 @@
 - date: 2019-01-20
   time:
     hour: 19
+    min: 0
+  title: 12分～ 本間ひまわり at:YouTube バイオハザード HD REMASTER
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 19
     min: 30
   title: "森中花咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -445,14 +452,14 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:? まほすずラジオ"
+  title: "郡道美玲 at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2019-01-20
   time:
     hour: 22
-    min: 0
-  title: "郡道美玲 at:YouTube ※初配信"
+    min: 30
+  title: "勇気ちひろ＆鈴谷アキ at:? まほすずラジオ ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-20
