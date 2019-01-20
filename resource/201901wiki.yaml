@@ -56,6 +56,13 @@
 - date: 2019-01-25
   time:
     hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube 2万人記念"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
   end_time: 
@@ -153,6 +160,13 @@
   title: "ドーラ at:? 歌or料理"
   end_time: 
   uri: 
+- date: 2019-01-22
+  time:
+    hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube バイオハザード RE:2 体験版"
+  end_time: 
+  uri: 
 - date: 2019-01-21
   time:
     hour: 6
@@ -169,9 +183,37 @@
   uri: 
 - date: 2019-01-21
   time:
+    hour: 17
+    min: 0
+  title: "久遠千歳 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ＆轟京子＆ジョー・力一＆夢追翔 at:にじさんじ公式YouTubeチャンネル 第9回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 20
+    min: 0
+  title: "久遠千歳 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 21
+    min: 30
+  title: "飛鳥ひな at:YouTube 雑談?"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 21
+    min: 55
+  title: "飛鳥ひな at:YouTube プレミア公開 秋葉原映画祭上映前お願い動画"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -324,16 +366,23 @@
   uri: 
 - date: 2019-01-20
   time:
+    hour: 17
+    min: 36
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
     hour: 18
     min: 0
-  title: "魔界ノりりむ at:YouTube 誕生日アフタートーク ※YouTubeリマインダーより"
+  title: "魔界ノりりむ at:YouTube 誕生日アフタートーク"
   end_time: 
   uri: 
 - date: 2019-01-20
   time:
     hour: 18
     min: 30
-  title: "月ノ美兎＆樋口楓＆静凛＆VTR出演：える at:ニコニコ生放送 平成最後のバーチャル新年会 ※月ノ美兎欠席"
+  title: "月ノ美兎＆樋口楓＆静凛＆える at:ニコニコ生放送 平成最後のバーチャル新年会 ※月ノ美兎欠席、代理・VTR出演：える"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -347,7 +396,7 @@
   time:
     hour: 19
     min: 0
-  title: "本間ひまわり at:YouTube バイオハザード HD REMASTER ※YouTubeリマインダーより"
+  title: "本間ひまわり at:YouTube バイオハザード HD REMASTER"
   end_time: 
   uri: 
 - date: 2019-01-20
@@ -411,6 +460,13 @@
     hour: 23
     min: 0
   title: "鈴鹿詩子 at:YouTube アズールレーン"
+  end_time: 
+  uri: 
+- date: 2019-01-20
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2019-01-20
