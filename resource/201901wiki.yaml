@@ -60,9 +60,11 @@
   title: "？時？分～ ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
-- date: 2019-01-26
-  time: 
-  title: "？時？分(仮)～ 町田ちま at:YouTube おえかきの森"
+- date: 2019-01-25
+  time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:? キングダムハーツIII"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -126,6 +128,13 @@
     hour: 21
     min: 0
   title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:? 雑談＆キングダムハーツストーリー解説"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -211,7 +220,7 @@
   time:
     hour: 17
     min: 0
-  title: "出雲霞 at:? Shadowverse"
+  title: "出雲霞 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -356,16 +365,30 @@
   uri: 
 - date: 2019-01-21
   time:
-    hour: 19
-    min: 0
-  title: "緑仙 at:YouTube 雑談"
+    hour: 18
+    min: 30
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 18
+    min: 44
+  title: "渋谷ハジメ at:YouTube Dragon Marked For Death"
   end_time: 
   uri: 
 - date: 2019-01-21
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時46分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 19
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -407,7 +430,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube 朗読"
+  title: "でびでび・でびる at:YouTube 悪夢朗読 「イワンのばか」"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -415,13 +438,6 @@
     hour: 22
     min: 30
   title: "飛鳥ひな at:YouTube バイノーラル雑談 ※21時30分から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-01-21
-  time:
-    hour: 22
-    min: 55
-  title: "飛鳥ひな at:YouTube プレミア公開 秋葉原映画祭上映前お願い動画 ※21時55分から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -435,7 +451,14 @@
   time:
     hour: 23
     min: 0
-  title: "闇夜乃モルル at:? 星のカービィ スーパーデラックス"
+  title: "闇夜乃モルル at:YouTube 星のカービィ スーパーデラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 23
+    min: 0
+  title: "飛鳥ひな at:YouTube プレミア公開 秋葉原映画祭2019 発声上映前お願い映像"
   end_time: 
   uri: 
 - date: 2019-01-21
