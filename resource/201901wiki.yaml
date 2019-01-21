@@ -60,11 +60,23 @@
   title: "？時？分～ ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
+- date: 2019-01-26
+  time: 
+  title: "？時？分(仮)～ 町田ちま at:YouTube おえかきの森"
+  end_time: 
+  uri: 
 - date: 2019-01-25
   time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 10
+    min: 0
+  title: "闇夜乃モルル at:? ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -164,28 +176,28 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-23
-  time:
-    hour: 23
-    min: 0
-  title: "?～ 轟京子 at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-23
-  time:
-    hour: 23
-    min: 0
-  title: "鈴木勝 at:?"
+  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル にじさんじなりきり人狼"
   end_time: 
   uri: 
 - date: 2019-01-22
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:? テスト配信(アイドルマスター ミリオンライブ！ シアターデイズ)"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 0
+    min: 0
+  title: "?～ 舞元啓介 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -193,6 +205,13 @@
     hour: 15
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:? Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -295,9 +314,30 @@
   uri: 
 - date: 2019-01-21
   time:
+    hour: 15
+    min: 14
+  title: "静凛 at:OPENREC.tv FF14"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 17
+    min: 0
+  title: "周防パトラ＆ゲスト(特別講師)：でびでび・でびる at:周防パトラのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
     hour: 17
     min: 0
   title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 17
+    min: 8
+  title: "シスター・クレア at:YouTube Minecrarft"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -312,6 +352,13 @@
     hour: 18
     min: 0
   title: "椎名唯華＆天開司 at:YouTube 実況パワフルクズ野球 ～栄冠ナイン一本勝負～"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 19
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -367,7 +414,7 @@
   time:
     hour: 22
     min: 30
-  title: "飛鳥ひな at:YouTube 雑談? ※21時30分から時間変更"
+  title: "飛鳥ひな at:YouTube バイノーラル雑談 ※21時30分から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-21
@@ -382,6 +429,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-21
+  time:
+    hour: 23
+    min: 0
+  title: "闇夜乃モルル at:? 星のカービィ スーパーデラックス"
   end_time: 
   uri: 
 - date: 2019-01-21
