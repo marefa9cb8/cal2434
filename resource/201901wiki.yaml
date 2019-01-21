@@ -219,8 +219,36 @@
 - date: 2019-01-22
   time:
     hour: 1
+    min: 10
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 1
     min: 30
-  title: "郡道美玲 at:YouTube マシュマロ返答"
+  title: "渋谷ハジメ at:? Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 1
+    min: 36
+  title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 1
+    min: 30
+  title: 50分～ 郡道美玲 at:YouTube マシュマロ返答
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 2
+    min: 45
+  title: " でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのOPENREC.tvのチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2019-01-22
