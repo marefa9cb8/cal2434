@@ -227,7 +227,7 @@
   time:
     hour: 1
     min: 30
-  title: "渋谷ハジメ at:? Shadowverse"
+  title: "渋谷ハジメ at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -248,7 +248,14 @@
   time:
     hour: 2
     min: 45
-  title: " でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのOPENREC.tvのチャンネル League of Legends"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのOPENREC.tvのチャンネル League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 3
+    min: 6
+  title: "黒井しば at:YouTube Meadow、Super Animal Royale"
   end_time: 
   uri: 
 - date: 2019-01-22
