@@ -155,6 +155,13 @@
   time:
     hour: 0
     min: 0
+  title: "夕陽リリ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(D.E.放送局) ふぁんしーあいらんど"
   end_time: 
   uri: 
@@ -274,6 +281,20 @@
   uri: 
 - date: 2019-01-22
   time:
+    hour: 13
+    min: 0
+  title: "神田笑一 at:YouTube テスト配信(タロットカード占い)"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 13
+    min: 30
+  title: "鷹宮リオン at:YouTube 雑談、歌、お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
     hour: 15
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
@@ -382,6 +403,13 @@
     hour: 23
     min: 0
   title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-21
