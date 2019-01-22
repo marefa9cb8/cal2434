@@ -1,6 +1,13 @@
 ---
 - date: 2019-01-29
   time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆黒井しば at:YouTube 渋谷カフェ：つなげようお客様の輪 第21回"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
     hour: 22
     min: 30
   title: "竜胆尊 at:YouTube 雑談 ※変更の可能性あり"
@@ -169,7 +176,7 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:?"
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -184,6 +191,20 @@
     hour: 1
     min: 0
   title: "黒井しば at:? ※前配信より"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 7
+    min: 0
+  title: "?～ 魔界ノりりむ at:? Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 19
+    min: 0
+  title: "轟京子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -388,7 +409,7 @@
   time:
     hour: 20
     min: 4
-  title: "闇夜乃モルル at:OPENREC.tv 料理"
+  title: "闇夜乃モルル at:OPENREC.tv モル's キッチン"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -437,7 +458,14 @@
   time:
     hour: 21
     min: 30
-  title: "葛葉 at:?"
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 21
+    min: 33
+  title: "闇夜乃モルル at:OPENREC.tv 晩酌配信"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -465,7 +493,14 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Wii Sports"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 23
+    min: 30
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-21
