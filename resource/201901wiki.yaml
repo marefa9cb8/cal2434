@@ -141,6 +141,13 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(D.E.放送局) ふぁんしーあいらんど"
   end_time: 
   uri: 
@@ -220,7 +227,7 @@
   time:
     hour: 1
     min: 10
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -234,7 +241,7 @@
   time:
     hour: 1
     min: 36
-  title: "闇夜乃モルル at:YouTube"
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -248,7 +255,7 @@
   time:
     hour: 2
     min: 45
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのOPENREC.tvのチャンネル League of Legends"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのOPENREC.tvチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -263,6 +270,13 @@
     hour: 15
     min: 0
   title: "黒井しば at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ at:YouTube 企画考案"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -290,7 +304,14 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:? 歌or料理"
+  title: "?～ 葛葉 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:? 料理"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -298,6 +319,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 22
+    min: 0
+  title: "シスター・クレア at:YouTube プーさんのホームランダービー ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-22
