@@ -38,7 +38,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ＆ゲスト:剣持刀也 at:勇気ちひろのYouTubeチャンネル まほすずラジオ #11"
+  title: "勇気ちひろ＆鈴谷アキ＆ゲスト:剣持刀也 at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) まほすずラジオ #11"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -92,7 +92,7 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:? バイオハザード RE:2"
+  title: "?～ 静凛 at:? バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -134,6 +134,13 @@
   time:
     hour: 21
     min: 0
+  title: "渋谷ハジメ＆鈴谷アキ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 21
+    min: 0
   title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
   end_time: 
   uri: 
@@ -162,7 +169,21 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(D.E.放送局) ふぁんしーあいらんど"
+  title: "花畑チャイカ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 0
+    min: 0
+  title: "ドーラ＆鈴木勝 at:鈴木勝のYouTubeチャンネル(D.E.放送局) ふぁんしーあいらんど"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:? ※前配信より"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -332,7 +353,7 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル at:YouTube バイオハザード RE:2"
+  title: "闇夜乃モルル at:YouTube バイオハザード RE:2 体験版"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -344,9 +365,16 @@
   uri: 
 - date: 2019-01-22
   time:
+    hour: 19
+    min: 2
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
     hour: 20
     min: 0
-  title: "椎名唯華＆鷹宮リオン at:椎名唯華のYouTubeチャンネル Dead by Daylight"
+  title: "椎名唯華 ＆鷹宮リオン at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -354,6 +382,13 @@
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 20
+    min: 4
+  title: "闇夜乃モルル at:OPENREC.tv 料理"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -367,6 +402,13 @@
   time:
     hour: 21
     min: 0
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 21
+    min: 0
   title: "本間ひまわり at:YouTube バイオハザード HD REMASTER"
   end_time: 
   uri: 
@@ -374,35 +416,35 @@
   time:
     hour: 21
     min: 0
-  title: "?～ 葛葉 at:?"
+  title: "ドーラ at:YouTube 料理"
   end_time: 
   uri: 
 - date: 2019-01-22
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:? 料理"
-  end_time: 
-  uri: 
-- date: 2019-01-22
-  time:
-    hour: 21
-    min: 0
-  title: "卯月コウ at:YouTube Shadowverse?"
+  title: "卯月コウ at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-22
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-22
+  time:
+    hour: 21
+    min: 30
+  title: "葛葉 at:?"
   end_time: 
   uri: 
 - date: 2019-01-22
   time:
     hour: 22
     min: 0
-  title: "シスター・クレア at:YouTube プーさんのホームランダービー ※YouTubeリマインダーより"
+  title: "シスター・クレア at:YouTube プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2019-01-22
@@ -424,11 +466,6 @@
     hour: 23
     min: 0
   title: "森中花咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-01-22
-  time: 
-  title: "？時？分～ 花畑チャイカ at:?"
   end_time: 
   uri: 
 - date: 2019-01-21
