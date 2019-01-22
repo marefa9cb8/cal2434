@@ -148,6 +148,13 @@
   time:
     hour: 21
     min: 0
+  title: "鷹宮リオン at:? 5万人記念"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 21
+    min: 0
   title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
   end_time: 
   uri: 
@@ -162,7 +169,7 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:?"
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -183,14 +190,21 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ＆鈴木勝 at:鈴木勝のYouTubeチャンネル(D.E.放送局) ふぁんしーあいらんど"
+  title: "鈴木勝＆ドーラ at:鈴木勝のYouTubeチャンネル(D.E.放送局) ふぁんしーあいらんど"
   end_time: 
   uri: 
 - date: 2019-01-23
   time:
     hour: 1
     min: 0
-  title: "黒井しば at:? ※前配信より"
+  title: "黒井しば at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 2
+    min: 5
+  title: "郡道美玲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -255,6 +269,13 @@
   time:
     hour: 23
     min: 0
+  title: "夢月ロア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 23
+    min: 0
   title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#3"
   end_time: 
   uri: 
@@ -262,7 +283,7 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル にじさんじなりきり人狼"
+  title: "鷹宮リオン＆ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル にじさんじなりきり人狼"
   end_time: 
   uri: 
 - date: 2019-01-22
