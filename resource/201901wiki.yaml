@@ -6,6 +6,34 @@
   title: "舞元啓介＆大空スバル at:YouTube"
   end_time: 
   uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 0
+    min: 30
+  title: "ジョー・力一 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 23
+    min: 0
+  title: "ジョー・力一 at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ＆轟京子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-01-29
   time:
     hour: 21
@@ -32,6 +60,13 @@
     hour: 20
     min: 0
   title: "闇夜乃モルル at:? ※リマインダー画面より"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -76,6 +111,13 @@
   title: "ジョー・力一 at:? 年賀状大喜利"
   end_time: 
   uri: 
+- date: 2019-01-27
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-01-26
   time:
     hour: 0
@@ -102,6 +144,20 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 全case配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 21
+    min: 0
+  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #6"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -194,13 +250,6 @@
 - date: 2019-01-24
   time:
     hour: 0
-    min: 15
-  title: "夕陽リリ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-24
-  time:
-    hour: 0
     min: 0
   title: "椎名唯華 at:YouTube 「バーチャルさんはみている」同時視聴 ※中止"
   end_time: 
@@ -222,6 +271,13 @@
 - date: 2019-01-24
   time:
     hour: 0
+    min: 15
+  title: "夕陽リリ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 0
     min: 30
   title: "森中花咲 at:YouTube Minecraft"
   end_time: 
@@ -235,9 +291,23 @@
   uri: 
 - date: 2019-01-24
   time:
+    hour: 0
+    min: 43
+  title: "夢月ロア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 1
+    min: 33
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
     hour: 18
     min: 30
-  title: "?～ 童田明治 at:YouTube"
+  title: "童田明治 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -266,7 +336,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆鈴谷アキ at:両名のYouTubeチャンネル Minecraft"
+  title: "渋谷ハジメ＆鈴谷アキ at:両名のYouTubeチャンネル(鈴谷アキ：鈴谷アキの陽だまりの庭) Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -287,7 +357,14 @@
   time:
     hour: 21
     min: 0
-  title: "久遠千歳 at:? 雑談"
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 22
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる＆宗谷いちか＆湊あくあ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル テトリス"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -304,7 +381,7 @@
   uri: 
 - date: 2019-01-24
   time: 
-  title: "？時？分(夜)～ 樋口楓 at:? ※めっちゃ仮"
+  title: "？時？分(夜・仮)～ 樋口楓 at:?"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -495,7 +572,8 @@
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#3"
+  title: "月ノ美兎＆(静凛＆樋口楓＆)える＆物述有栖＆(家長むぎ＆剣持刀也＆)シスター・クレア+次回予告：竜胆尊 at:TOKYO MX、Periscope、ニコニコ生放送
+    「バーチャルさんはみている」#3"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -510,7 +588,7 @@
   time:
     hour: 23
     min: 0
-  title: "夢月ロア at:YouTube ※時間変更になる可能性あり"
+  title: "夢月ロア at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -524,7 +602,7 @@
   time:
     hour: 23
     min: 30
-  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル ワンナイト人狼
+  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル 各種人狼・他
     ※なりきり人狼延期代替配信"
   end_time: 
   uri: 
@@ -539,7 +617,7 @@
   time:
     hour: 23
     min: 50
-  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴 ※YouTubeリマインダーより"
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-01-22
