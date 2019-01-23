@@ -20,11 +20,25 @@
   title: "出雲霞 at:YouTube いずもーにんぐ"
   end_time: 
   uri: 
+- date: 2019-01-28
+  time:
+    hour: 20
+    min: 0
+  title: "闇夜乃モルル at:? ※リマインダー画面より"
+  end_time: 
+  uri: 
 - date: 2019-01-27
   time:
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー・力一 at:ジョー・力一のYouTubeチャンネル 舞元力一 #6"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 10
+    min: 0
+  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -52,7 +66,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:?"
+  title: "森中花咲＆ゲスト：伏見ガク at:YouTube オトナ花咲の悪いコNight#9"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 0
+    min: 0
+  title: RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:?
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 10
+    min: 0
+  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -60,6 +88,13 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 全case配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 23
+    min: 0
+  title: "勇気ちひろ＆闇夜乃モルル at:両名のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -85,7 +120,7 @@
   time:
     hour: 10
     min: 0
-  title: "?～ 闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
+  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -146,7 +181,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube Wii Party"
+  title: "椎名唯華 at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -167,14 +202,21 @@
   time:
     hour: 0
     min: 30
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
     hour: 0
     min: 30
-  title: "闇夜乃モルル at:YouTube Minecraft ※リマインダー画面より"
+  title: "椎名唯華 at:YouTube ぼくのなつやすみ"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube Wii Party"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -182,6 +224,14 @@
     hour: 20
     min: 0
   title: "える at:? 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 20
+    min: 45
+  title: UMANCHU＆中川ﾗﾝ･ﾄﾞ･ﾗ･ｳﾞｧﾘｴｰﾙ＆スペシャルゲスト：静凛 at:レインボーシックス シージESPORTSのOPENREC.tvチャンネル
+    「レインボーシックス シージ」プロリーグシーズンIX」DAY5
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -203,6 +253,13 @@
     hour: 21
     min: 0
   title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 21
+    min: 0
+  title: "久遠千歳 at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -312,6 +369,20 @@
   time:
     hour: 19
     min: 0
+  title: 18時48分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 18
+    min: 50
+  title: "闇夜乃モルル at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 19
+    min: 0
   title: "轟京子 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -319,21 +390,7 @@
   time:
     hour: 19
     min: 0
-  title: "花畑チャイカ at:YouTube Shadowverse"
-  end_time: 
-  uri: 
-- date: 2019-01-23
-  time:
-    hour: 19
-    min: 0
-  title: "舞元啓介 at:YouTube Shadowverse"
-  end_time: 
-  uri: 
-- date: 2019-01-23
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube Minecraft ※YouTubeリマインダーより"
+  title: "花畑チャイカ＆舞元啓介 at:両名のYouTubeチャンネル Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -347,7 +404,7 @@
   time:
     hour: 20
     min: 0
-  title: "童田明治 at:YouTube"
+  title: "童田明治 at:YouTube ※中断・延期"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -371,6 +428,13 @@
     hour: 22
     min: 0
   title: "伏見ガク at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-23
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-23
@@ -405,7 +469,8 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル にじさんじなりきり人狼"
+  title: "ドーラ＆名伽尾アズマ＆轟京子＆花畑チャイカ＆社築＆鈴木勝＆鷹宮リオン＆でびでび・でびる at:鷹宮リオンのYouTubeチャンネル にじさんじなりきり人狼
+    ※延期"
   end_time: 
   uri: 
 - date: 2019-01-23
