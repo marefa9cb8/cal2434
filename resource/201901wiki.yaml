@@ -267,7 +267,7 @@
   time:
     hour: 21
     min: 0
-  title: "?～ 静凛 at:? バイオハザード RE:2"
+  title: "静凛 at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -412,7 +412,28 @@
   time:
     hour: 16
     min: 0
-  title: "でびでび・でびる at:? 大乱闘スマッシュブラザーズSP"
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 16
+    min: 11
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 18
+    min: 0
+  title: "宇志海いちご＆緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 18
+    min: 30
+  title: "雪汝 at:YouTube プレミア公開 Friday the 13th:The Game"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -484,6 +505,13 @@
     hour: 22
     min: 0
   title: "魔界ノりりむ＆花畑チャイカ at:YouTube Dark Deception"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 22
+    min: 0
+  title: "卯月コウ at:YouTube Dark Deception"
   end_time: 
   uri: 
 - date: 2019-01-24
