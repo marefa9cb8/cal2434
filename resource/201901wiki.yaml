@@ -66,7 +66,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:? ※リマインダー画面より"
+  title: "鈴谷アキ＆家長むぎ＆闇夜乃モルル＆シスター・クレア at:にじさんじ公式YouTubeチャンネル 第10回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-01-28
@@ -102,6 +102,13 @@
     hour: 10
     min: 0
   title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 20
+    min: 0
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル Beautiful Girls 最終回
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -218,6 +225,11 @@
   uri: 
 - date: 2019-01-26
   time: 
+  title: "？時？分～ 椎名唯華＆ゲスト:笹木咲 at:YouTube しぃしぃラジオ 第2回 ※01/24笹木咲の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time: 
   title: "？時？分～ ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
@@ -230,23 +242,30 @@
   uri: 
 - date: 2019-01-25
   time:
+    hour: 2
+    min: 0
+  title: "鈴木勝 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
     hour: 3
     min: 0
-  title: "郡道美玲 at:YouTube バジュランギおじさん布教会"
+  title: "郡道美玲 at:YouTube 「バジュランギおじさんと小さな迷子」布教会"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ ホットケーキ"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 10
     min: 0
-  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
+  title: "闇夜乃モルル at:YouTube キングダムハーツIII"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -254,6 +273,13 @@
     hour: 18
     min: 0
   title: "郡道美玲 at:YouTube 早口言葉"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -288,7 +314,14 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 22
+    min: 0
+  title: "桜凛月＆黒井しば at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -310,6 +343,25 @@
     hour: 23
     min: 0
   title: "キズナアイ at:BS日テレ『のばん組』"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 23
+    min: 0
+  title: "葛葉 at:YouTube 5万人記念"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 23
+    min: 0
+  title: "神田笑一 at:? 動物番長"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time: 
+  title: "？時？分(夜)～ 鈴鹿詩子 at:? 10万人記念"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -432,6 +484,13 @@
 - date: 2019-01-24
   time:
     hour: 18
+    min: 5
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 18
     min: 30
   title: "雪汝 at:YouTube プレミア公開 Friday the 13th:The Game"
   end_time: 
@@ -440,7 +499,21 @@
   time:
     hour: 18
     min: 30
-  title: "童田明治 at:YouTube 雑談、マシュマロ返答"
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 18
+    min: 30
+  title: "童田明治 at:YouTube 雑談、マシュマロ返答、歌"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 18
+    min: 43
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -468,14 +541,21 @@
   time:
     hour: 20
     min: 0
-  title: "える at:? 誕生日配信"
+  title: "える at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 20
+    min: 15
+  title: "叶 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
     hour: 20
     min: 45
-  title: UMANCHU＆中川ﾗﾝ･ﾄﾞ･ﾗ･ｳﾞｧﾘｴｰﾙ＆スペシャルゲスト：静凛 at:レインボーシックス シージESPORTSのOPENREC.tvチャンネル
+  title: UMANCHU＆中川ラン・ド・ラ・ヴァリエール＆スペシャルゲスト：静凛 at:レインボーシックス シージESPORTSのOPENREC.tvチャンネル
     「レインボーシックス シージ」プロリーグシーズンIX」DAY5
   end_time: 
   uri: 
@@ -490,21 +570,35 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:ゆきんこのYouTubeチャンネル 麻雀"
+  title: "舞元啓介＆白上フブキ＆ふくやマスター＆ゆきんこ at:YouTube 麻雀"
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
     hour: 21
     min: 0
-  title: "久遠千歳 at:YouTube 雑談"
+  title: "久遠千歳 at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 21
+    min: 0
+  title: 10分～ 本間ひまわり at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
     hour: 22
     min: 0
-  title: "魔界ノりりむ＆花畑チャイカ at:YouTube Dark Deception"
+  title: "樋口楓 at:YouTube Surgeon Simulator"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 22
+    min: 0
+  title: "魔界ノりりむ＆花畑チャイカ at:魔界ノりりむのYouTubeチャンネル Dark Deception"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -523,28 +617,37 @@
   uri: 
 - date: 2019-01-24
   time:
-    hour: 23
-    min: 0
-  title: "笹木咲 at:? 雑談＆キングダムハーツストーリー解説"
+    hour: 22
+    min: 18
+  title: "叶 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
-    hour: 18
-    min: 0
-  title: "(仮)～ シスター・クレア at:?"
+    hour: 22
+    min: 30
+  title: "モイラ at:YouTube 雑談 ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 22
+    min: 46
+  title: "飛鳥ひな at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-24
   time:
     hour: 23
     min: 0
-  title: "(仮)～ シスター・クレア at:?"
+  title: "笹木咲 at:YouTube 雑談＆キングダムハーツストーリー解説"
   end_time: 
   uri: 
 - date: 2019-01-24
-  time: 
-  title: "？時？分(夜・仮)～ 樋口楓 at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ シスター・クレア at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-01-23
