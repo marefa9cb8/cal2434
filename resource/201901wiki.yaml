@@ -267,7 +267,7 @@
   time:
     hour: 21
     min: 0
-  title: "八朔ゆず at:?"
+  title: "八朔ゆず at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -368,6 +368,20 @@
   uri: 
 - date: 2019-01-24
   time:
+    hour: 12
+    min: 0
+  title: "文野環 at:Mirrativ"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 13
+    min: 0
+  title: "舞元啓介 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
     hour: 18
     min: 30
   title: "童田明治 at:YouTube 雑談、マシュマロ返答"
@@ -378,6 +392,20 @@
     hour: 19
     min: 0
   title: "椎名唯華 at:YouTube Wii Party"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube タロットカード占い"
+  end_time: 
+  uri: 
+- date: 2019-01-24
+  time:
+    hour: 19
+    min: 30
+  title: "鷹宮リオン at:YouTube 5万人記念"
   end_time: 
   uri: 
 - date: 2019-01-24
@@ -400,13 +428,6 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆鈴谷アキ at:両名のYouTubeチャンネル(鈴谷アキ：鈴谷アキの陽だまりの庭) Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-24
-  time:
-    hour: 21
-    min: 0
-  title: "鷹宮リオン at:YouTube 5万人記念"
   end_time: 
   uri: 
 - date: 2019-01-24
