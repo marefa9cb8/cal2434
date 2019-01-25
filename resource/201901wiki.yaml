@@ -94,6 +94,13 @@
   time:
     hour: 0
     min: 0
+  title: "家長むぎ at:YouTube LIMBO"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
@@ -185,7 +192,7 @@
   time:
     hour: 0
     min: 0
-  title: RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:?
+  title: RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:竜胆尊のYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -206,14 +213,21 @@
   time:
     hour: 1
     min: 0
-  title: "剣持刀也 at:YouTube ※開始時刻：Twitterネームより"
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-26
   time:
-    hour: 10
+    hour: 1
     min: 0
-  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
+  title: "黒井しば at:YouTube Meadow(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 12
+    min: 30
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -256,6 +270,13 @@
     hour: 23
     min: 0
   title: "勇気ちひろ＆闇夜乃モルル at:両名のYouTubeチャンネル? Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube 4万人記念 ※YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -445,6 +466,13 @@
   uri: 
 - date: 2019-01-25
   time:
+    hour: 21
+    min: 10
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube プレミア公開 にじさんじオーディション裏話公開！その２"
@@ -461,14 +489,21 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 22
     min: 0
-  title: "桜凛月＆黒井しば at:YouTube Minecraft"
+  title: "海夜叉神 at:YouTube プレミア公開 鬼と神の物語"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 22
+    min: 0
+  title: "桜凛月＆黒井しば at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -482,7 +517,7 @@
   time:
     hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-25
