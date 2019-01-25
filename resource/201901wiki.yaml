@@ -314,14 +314,21 @@
   time:
     hour: 15
     min: 0
-  title: "黒井しば at:YouTube"
+  title: 18分～ 黒井しば at:YouTube The End
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 16
-    min: 0
-  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+    min: 34
+  title: "鷹宮リオン＆でびでび・でびる＆周防パトラ at:でびでび・でびるのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 16
+    min: 58
+  title: "渋谷ハジメ＆渋谷ハル at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -392,6 +399,13 @@
     hour: 21
     min: 0
   title: "八朔ゆず at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 にじさんじオーディション裏話公開！その２"
   end_time: 
   uri: 
 - date: 2019-01-25
