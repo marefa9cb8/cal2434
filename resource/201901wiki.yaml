@@ -190,6 +190,13 @@
   uri: 
 - date: 2019-01-26
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
     hour: 10
     min: 0
   title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
@@ -279,7 +286,14 @@
   time:
     hour: 10
     min: 0
-  title: "闇夜乃モルル at:YouTube キングダムハーツIII"
+  title: 12分～ 闇夜乃モルル at:YouTube キングダムハーツIII
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 12
+    min: 0
+  title: "文野環 at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-25
