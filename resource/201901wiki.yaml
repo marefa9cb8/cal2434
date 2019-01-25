@@ -213,7 +213,7 @@
   time:
     hour: 1
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube The Stanley Parable"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -221,6 +221,20 @@
     hour: 1
     min: 0
   title: "黒井しば at:YouTube Meadow(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 3
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 10
+    min: 0
+  title: "ドーラ at:? キングダムハーツIII"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -249,6 +263,27 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 全case配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 20
+    min: 0
+  title: "(仮)～ 童田明治 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆神田笑一 at:? 仮面ライダー雑談"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -293,7 +328,7 @@
   uri: 
 - date: 2019-01-26
   time: 
-  title: "？時？分～ ドーラ at:? キングダムハーツIII"
+  title: "？時？分～ 緑仙 at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
