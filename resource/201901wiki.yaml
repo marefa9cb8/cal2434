@@ -293,21 +293,42 @@
   time:
     hour: 12
     min: 0
-  title: "文野環 at:Mirrativ"
+  title: 09分～ 文野環 at:Mirrativ
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 13
+    min: 3
+  title: "闇夜乃モルル at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 14
+    min: 0
+  title: "闇夜乃モルル at:YouTube キングダムハーツIII"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 15
     min: 0
-  title: "黒井しば at:YouTube ※Twitterネームより"
+  title: "黒井しば at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 16
+    min: 0
+  title: "でびでび・でびる at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 17
     min: 30
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -329,6 +350,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 19
+    min: 0
+  title: "久遠千歳 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -356,7 +384,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:YouTube バイオハザード RE:2 ※Twitterネーム＆YouTubeリマインダーより"
+  title: "本間ひまわり at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-01-25
