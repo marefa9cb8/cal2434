@@ -197,6 +197,20 @@
   uri: 
 - date: 2019-01-26
   time:
+    hour: 1
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 10万人記念"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 1
+    min: 0
+  title: "剣持刀也 at:YouTube ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
     hour: 10
     min: 0
   title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
@@ -207,6 +221,13 @@
     hour: 13
     min: 30
   title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 15
+    min: 30
+  title: "鈴鹿詩子＆妹子 at:?"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -314,7 +335,7 @@
   time:
     hour: 15
     min: 0
-  title: 18分～ 黒井しば at:YouTube The End
+  title: 18分～ 黒井しば at:YouTube The End、Goat Simulator
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -349,14 +370,21 @@
   time:
     hour: 19
     min: 0
-  title: "笹木咲 at:?"
+  title: 18時45分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 18
+    min: 55
+  title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-01-25
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube"
+  title: "笹木咲 at:YouTube キングダムハーツIII"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -364,6 +392,20 @@
     hour: 19
     min: 0
   title: "久遠千歳 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube Dragon Marked For Death"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 20
+    min: 0
+  title: "宇志海いちご at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -412,7 +454,7 @@
   time:
     hour: 22
     min: 0
-  title: "夕陽リリ at:?"
+  title: "夕陽リリ at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-01-25
@@ -461,17 +503,14 @@
   time:
     hour: 23
     min: 0
+  title: "シスター・クレア at:YouTube シスター・クレアのクレア・ラ・モード"
+  end_time: 
+  uri: 
+- date: 2019-01-25
+  time:
+    hour: 23
+    min: 0
   title: "神田笑一 at:YouTube 動物番長"
-  end_time: 
-  uri: 
-- date: 2019-01-25
-  time: 
-  title: "？時？分(夜)～ 鈴鹿詩子 at:? 10万人記念"
-  end_time: 
-  uri: 
-- date: 2019-01-25
-  time: 
-  title: "？時？分～ 剣持刀也 at:?"
   end_time: 
   uri: 
 - date: 2019-01-24
