@@ -13,6 +13,13 @@
   title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
+- date: 2019-01-31
+  time:
+    hour: 23
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-01-30
   time:
     hour: 0
@@ -32,6 +39,13 @@
     hour: 23
     min: 0
   title: "ジョー・力一 at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-29
@@ -80,6 +94,13 @@
   time:
     hour: 22
     min: 0
+  title: JK組(月ノ美兎＆樋口楓＆静凛) at:?  ※樋口楓のTwitter自己紹介欄より
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 22
+    min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -88,6 +109,11 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube 2月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time: 
+  title: "？時？分～ 雪汝 at:?"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -120,9 +146,16 @@
   uri: 
 - date: 2019-01-27
   time:
-    hour: 10
+    hour: 2
     min: 0
-  title: "闇夜乃モルル at:? キングダムハーツIII ※リマインダー画面より"
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 11
+    min: 0
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -157,7 +190,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ＆ゲスト:剣持刀也 at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) まほすずラジオ #11"
+  title: "勇気ちひろ＆鈴谷アキ＆ゲスト：剣持刀也 at:鈴谷アキのYouTubeチャンネル(鈴谷アキの陽だまりの庭) まほすずラジオ #11"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -239,9 +272,37 @@
   uri: 
 - date: 2019-01-26
   time:
+    hour: 9
+    min: 54
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
     hour: 10
     min: 0
-  title: "ドーラ at:YouTube キングダムハーツIII?"
+  title: "ドーラ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 11
+    min: 10
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 11
+    min: 15
+  title: "シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 11
+    min: 32
+  title: "緑仙 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -297,7 +358,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:? Twitterネームより"
+  title: "森中花咲 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -359,11 +420,6 @@
 - date: 2019-01-26
   time: 
   title: "？時？分～ 椎名唯華＆ゲスト:笹木咲 at:YouTube しぃしぃラジオ 第2回 ※01/24笹木咲の配信にて告知 ※Discord不調につき中止？"
-  end_time: 
-  uri: 
-- date: 2019-01-26
-  time: 
-  title: "？時？分～ 緑仙 at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-25
