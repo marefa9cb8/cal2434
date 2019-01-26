@@ -50,6 +50,13 @@
   uri: 
 - date: 2019-01-29
   time:
+    hour: 19
+    min: 0
+  title: "出雲霞＆舞元啓介 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube"
@@ -142,13 +149,6 @@
     hour: 0
     min: 0
   title: "椎名唯華 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-27
-  time:
-    hour: 0
-    min: 0
-  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -494,28 +494,21 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆神田笑一 at:? 仮面ライダー雑談"
+  title: "渋谷ハジメ＆神田笑一 at:渋谷ハジメのYouTubeチャンネル 仮面ライダー雑談"
   end_time: 
   uri: 
 - date: 2019-01-26
   time:
     hour: 21
     min: 0
-  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:剣持刀也のYouTubeチャンネル"
+  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:剣持刀也のYouTubeチャンネル ペチャリブレ"
   end_time: 
   uri: 
 - date: 2019-01-26
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #6"
-  end_time: 
-  uri: 
-- date: 2019-01-26
-  time:
-    hour: 22
-    min: 0
-  title: "葛葉 at:YouTube バイオハザード RE:2 クリアまで耐久"
+  title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭) Suzuno ne kocafe #6"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -527,33 +520,56 @@
   uri: 
 - date: 2019-01-26
   time:
-    hour: 23
+    hour: 22
+    min: 2
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 22
     min: 0
-  title: "勇気ちひろ＆闇夜乃モルル at:両名のYouTubeチャンネル? Minecraft"
+  title: 13分～ 葛葉 at:YouTube バイオハザード RE:2 クリアまで耐久
   end_time: 
   uri: 
 - date: 2019-01-26
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ at:YouTube 4万人記念 ※YouTubeリマインダーより"
+  title: "勇気ちひろ＆闇夜乃モルル at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube 4万人記念"
   end_time: 
   uri: 
 - date: 2019-01-26
   time:
     hour: 23
     min: 30
-  title: "飛鳥ひな at:YouTube バイノーラル"
+  title: "飛鳥ひな at:YouTube バイノーラルヤンデレ"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 23
+    min: 45
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-01-26
   time: 
   title: "？時？分～ 椎名唯華＆ゲスト:笹木咲 at:YouTube しぃしぃラジオ 第2回 ※01/24笹木咲の配信にて告知 ※Discord不調につき中止？"
-  end_time: 
-  uri: 
-- date: 2019-01-26
-  time: 
-  title: 22時以降?～ シスター・クレア at:?
   end_time: 
   uri: 
 - date: 2019-01-25
