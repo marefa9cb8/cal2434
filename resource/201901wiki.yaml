@@ -127,6 +127,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
@@ -142,6 +149,13 @@
     hour: 0
     min: 30
   title: "郡道美玲 at:Mirrativ 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 1
+    min: 0
+  title: "社築 at:YouTube 星のカービィ 夢の泉の物語"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -281,7 +295,7 @@
   time:
     hour: 10
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube 雑談、キングダムハーツ ファイナルミックス・Re:チェインオブメモリーズ"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -308,7 +322,7 @@
 - date: 2019-01-26
   time:
     hour: 12
-    min: 30
+    min: 52
   title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
@@ -317,6 +331,13 @@
     hour: 13
     min: 30
   title: "鷹宮リオン at:YouTube ゼルダの伝説 時のオカリナ"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 14
+    min: 8
+  title: "叶 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -351,7 +372,21 @@
   time:
     hour: 18
     min: 0
+  title: "叶 at:YouTube プレミア公開 Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 18
+    min: 0
   title: "本間ひまわり at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube Nintendo Land"
   end_time: 
   uri: 
 - date: 2019-01-26
