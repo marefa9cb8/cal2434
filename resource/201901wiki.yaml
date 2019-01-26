@@ -120,13 +120,6 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube LIMBO"
-  end_time: 
-  uri: 
-- date: 2019-01-27
-  time:
-    hour: 0
-    min: 0
   title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -148,7 +141,14 @@
   time:
     hour: 0
     min: 30
-  title: "郡道美玲 at:Mirrativ 雑談"
+  title: "郡道美玲 at:Mirrativ 雑談 ※中止or時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 1
+    min: 0
+  title: "家長むぎ at:YouTube LIMBO ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -351,7 +351,7 @@
   time:
     hour: 15
     min: 30
-  title: "鈴鹿詩子＆妹子 at:YouTube バイオハザード RE:2"
+  title: "鈴鹿詩子＆妹子 at:YouTube 妹子受肉式、バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -365,7 +365,28 @@
   time:
     hour: 17
     min: 0
+  title: "鈴鹿詩子＆妹子 at:YouTube New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 17
+    min: 0
   title: "出雲霞 at:YouTube 全case配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 17
+    min: 30
+  title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-26
+  time:
+    hour: 17
+    min: 30
+  title: "矢車りね＆黒井しば at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -393,7 +414,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:? ※Twitterネームより"
+  title: "森中花咲 at:YouTube おどるメイド イン ワリオ ※Twitterネーム＆YouTubeリマインダーより"
   end_time: 
   uri: 
 - date: 2019-01-26
@@ -407,7 +428,7 @@
   time:
     hour: 20
     min: 0
-  title: "(仮)～ 童田明治 at:YouTube"
+  title: "童田明治 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-01-26
