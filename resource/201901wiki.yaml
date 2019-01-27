@@ -158,6 +158,13 @@
   time:
     hour: 23
     min: 0
+  title: "椎名唯華＆ゲスト：笹木咲 at:YouTube しぃしぃラジオ 第2回"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 23
+    min: 0
   title: "ドーラ at:?"
   end_time: 
   uri: 
@@ -352,7 +359,21 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時45分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube Slither.io"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -381,6 +402,13 @@
     hour: 20
     min: 0
   title: "久遠千歳 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 20
+    min: 34
+  title: "神田笑一＆春崎エアル at:両名のYouTubeチャンネル Shadowverse"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -422,6 +450,13 @@
   time:
     hour: 22
     min: 0
+  title: "渋谷ハジメ＆渋谷ハル＆魔宵さきゅ＆クマ野クマエル3世 at:各々のYouTubeチャンネル? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 22
+    min: 0
   title: "ジョー・力一 at:YouTube 年賀状大喜利"
   end_time: 
   uri: 
@@ -437,20 +472,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-01-27
-  time:
-    hour: 19
-    min: 0
-  title: "魔界ノりりむ at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-27
-  time:
-    hour: 21
-    min: 0
-  title: "神田笑一＆春崎エアル at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-26
