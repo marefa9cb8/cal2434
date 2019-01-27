@@ -100,6 +100,13 @@
   uri: 
 - date: 2019-01-28
   time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:YouTube マシュマロ雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ コーンフレーク"
@@ -145,6 +152,13 @@
     hour: 23
     min: 0
   title: "ドーラ at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube 朗読(浦島太郎)"
   end_time: 
   uri: 
 - date: 2019-01-28
@@ -217,6 +231,20 @@
   uri: 
 - date: 2019-01-27
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 11
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
     hour: 11
     min: 0
   title: "遠北千南 at:YouTube"
@@ -227,6 +255,27 @@
     hour: 12
     min: 0
   title: "叶 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 12
+    min: 0
+  title: "神田笑一 at:YouTube アイドルマスター ミリオンライブ！ シアターデイズ"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 15
+    min: 0
+  title: "舞元啓介 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 17
+    min: 0
+  title: "海夜叉神 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-27
