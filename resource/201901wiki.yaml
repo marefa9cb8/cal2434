@@ -15,6 +15,13 @@
   uri: 
 - date: 2019-01-31
   time:
+    hour: 21
+    min: 30
+  title: "鷹宮リオン at:YouTube ハガキ紹介、誕生日プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
     hour: 22
     min: 0
   title: "夢追翔＆黒井しば+ゲスト：春崎エアル＆成瀬鳴 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
@@ -26,6 +33,13 @@
     hour: 23
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 23
+    min: 30
+  title: "鷹宮リオン＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-01-30
@@ -149,6 +163,13 @@
   uri: 
 - date: 2019-01-28
   time:
+    hour: 3
+    min: 25
+  title: "渋谷ハジメ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ コーンフレーク"
@@ -159,6 +180,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 16
+    min: 0
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-28
