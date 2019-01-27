@@ -247,7 +247,7 @@
   time:
     hour: 11
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -262,6 +262,13 @@
     hour: 12
     min: 0
   title: "神田笑一 at:YouTube アイドルマスター ミリオンライブ！ シアターデイズ"
+  end_time: 
+  uri: 
+- date: 2019-01-27
+  time:
+    hour: 12
+    min: 44
+  title: "卯月コウ at:Mirrativ"
   end_time: 
   uri: 
 - date: 2019-01-27
@@ -3962,7 +3969,7 @@
   time:
     hour: 21
     min: 52
-  title: "緑仙 at:TwitCasting 歌"
+  title: "緑仙 at:ツイキャス 歌"
   end_time: 
   uri: 
 - date: 2019-01-12
@@ -4797,7 +4804,7 @@
   time:
     hour: 21
     min: 21
-  title: "緑仙 at:TwitCasting"
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-01-08
