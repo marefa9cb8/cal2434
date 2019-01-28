@@ -79,6 +79,13 @@
   uri: 
 - date: 2019-01-29
   time:
+    hour: 1
+    min: 0
+  title: or01時30分～ 郡道美玲 at:YouTube スプラトゥーン2orマシュマロ返答、雑談
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
@@ -86,8 +93,8 @@
   uri: 
 - date: 2019-01-29
   time:
-    hour: 16
-    min: 0
+    hour: 17
+    min: 30
   title: "森中花咲 at:? ※Twitterネームより"
   end_time: 
   uri: 
@@ -103,6 +110,13 @@
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
+    hour: 20
+    min: 0
+  title: "久遠千歳 at:YouTube 収益化記念雑談"
   end_time: 
   uri: 
 - date: 2019-01-29
@@ -124,6 +138,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:? 歌"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:？ カスタムキャスト"
   end_time: 
   uri: 
 - date: 2019-01-29
@@ -224,9 +245,30 @@
   uri: 
 - date: 2019-01-28
   time:
+    hour: 15
+    min: 36
+  title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 15
+    min: 56
+  title: "渋谷ハジメ at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
     hour: 16
     min: 0
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 16
+    min: 52
+  title: "緑仙 at:TwitCasting 雑談"
   end_time: 
   uri: 
 - date: 2019-01-28
@@ -262,6 +304,13 @@
     hour: 21
     min: 0
   title: "ベルモンド・バンデラス＆皆守ひいろ＆錦山夢鷹＆屍鬼 at:屍鬼のYouTubeチャンネル? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-28
+  time:
+    hour: 21
+    min: 30
+  title: "卯月コウ at:？"
   end_time: 
   uri: 
 - date: 2019-01-28
