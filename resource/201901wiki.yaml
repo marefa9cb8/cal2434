@@ -235,7 +235,14 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube Minecraft ※YouTubeリマインダーより"
+  title: "闇夜乃モルル at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-29
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2019-01-29
