@@ -17,7 +17,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆大空スバル at:YouTube"
+  title: "舞元啓介＆大空スバル at:YouTube ボツ企画全出し"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -59,14 +59,35 @@
   time:
     hour: 1
     min: 0
-  title: "夢月ロア at:YouTube"
+  title: "夢月ロア at:YouTube スプラトゥーン2、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 1
+    min: 30
+  title: "黒井しば at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 13
+    min: 0
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-31
   time:
     hour: 19
     min: 0
-  title: "童田明治 at:YouTube"
+  title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 19
+    min: 0
+  title: "童田明治 at:YouTube りるれふ、雑談"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -80,7 +101,29 @@
   time:
     hour: 20
     min: 0
+  title: "樋口楓＆轟京子 at:?"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube マリオパーティ2"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 0
   title: "友田一貴＆ふぇぐ＆RaMu＆ゲスト：？？？＆チャレンジャー：舞元啓介 at:シャドバ登竜門のOPENREC.tvチャンネル シャドバ登竜門 #23"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 45
+  title: UMANCHU＆中川ラン・ド・ラ・ヴァリエール＆スペシャルゲスト：椎名唯華 at:レインボーシックス シージESPORTSのOPENREC.tvチャンネル
+    「レインボーシックス シージ」プロリーグシーズンIX」DAY8
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -95,6 +138,13 @@
     hour: 21
     min: 30
   title: "鷹宮リオン at:YouTube ハガキ紹介、誕生日プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -327,14 +377,21 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "語部紡 at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2019-01-30
   time:
     hour: 23
     min: 0
-  title: "語部紡 at:YouTube ※初配信"
+  title: 20分～ 葛葉 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-01-29
