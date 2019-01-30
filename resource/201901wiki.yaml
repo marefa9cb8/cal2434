@@ -109,6 +109,13 @@
   time:
     hour: 23
     min: 0
+  title: "物述有栖 at:YouTube もののべくっきんぐ"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 23
+    min: 0
   title: "ドーラ at:YouTube プレミア公開"
   end_time: 
   uri: 
@@ -227,15 +234,29 @@
 - date: 2019-01-30
   time:
     hour: 19
+    min: 5
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 19
     min: 30
   title: "笹木咲 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-01-30
   time:
+    hour: 19
+    min: 35
+  title: "叶＆Ruytv＆SPYGEA at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
     hour: 20
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える＆宇志海いちご at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-30
