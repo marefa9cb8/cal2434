@@ -128,9 +128,9 @@
   uri: 
 - date: 2019-01-30
   time:
-    hour: 17
+    hour: 18
     min: 0
-  title: "?～ 魔界ノりりむ at:?"
+  title: "魔界ノりりむ at:?"
   end_time: 
   uri: 
 - date: 2019-01-30
@@ -159,6 +159,13 @@
     hour: 20
     min: 0
   title: "夕陽リリ＆剣持刀也 at:YouTube プレミア公開 A Way Out #3"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 20
+    min: 30
+  title: "本間ひまわり at:YouTube 半年記念"
   end_time: 
   uri: 
 - date: 2019-01-30
@@ -204,11 +211,6 @@
 - date: 2019-01-30
   time: 
   title: "？時？分(深夜)～ 鈴鹿詩子 at:?"
-  end_time: 
-  uri: 
-- date: 2019-01-30
-  time: 
-  title: "？時？分～ 本間ひまわり at:? 半年記念"
   end_time: 
   uri: 
 - date: 2019-01-29
