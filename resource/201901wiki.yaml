@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube 「バーチャルさんはみている」同時視聴"
+  title: "椎名唯華 at:YouTube 「バーチャルさんはみている」同時視聴 ※中止"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -30,8 +30,29 @@
 - date: 2019-01-31
   time:
     hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube 雑談 ※前日23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 0
     min: 30
-  title: "?～ 椎名唯華 at:YouTube Minecraft"
+  title: "椎名唯華 at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 1
+    min: 0
+  title: "夢月ロア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -164,7 +185,7 @@
 - date: 2019-01-30
   time:
     hour: 12
-    min: 0
+    min: 25
   title: "雪汝 at:YouTube Subnautica"
   end_time: 
   uri: 
@@ -200,6 +221,13 @@
   time:
     hour: 20
     min: 0
+  title: "える at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-01-30
+  time:
+    hour: 20
+    min: 0
   title: "夕陽リリ＆剣持刀也 at:YouTube プレミア公開 A Way Out #3"
   end_time: 
   uri: 
@@ -213,7 +241,7 @@
 - date: 2019-01-30
   time:
     hour: 20
-    min: 30
+    min: 15
   title: "本間ひまわり at:YouTube 半年記念"
   end_time: 
   uri: 
@@ -257,19 +285,7 @@
   time:
     hour: 23
     min: 0
-  title: "ジョー・力一 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-01-30
-  time:
-    hour: 23
-    min: 0
   title: "語部紡 at:YouTube ※初配信"
-  end_time: 
-  uri: 
-- date: 2019-01-30
-  time: 
-  title: "？時？分～ える at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-30
