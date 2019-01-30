@@ -38,7 +38,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube"
+  title: 11分～ 郡道美玲 at:YouTube スプラトゥーン2
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -52,14 +52,21 @@
   time:
     hour: 1
     min: 0
-  title: "鈴鹿詩子 at:YouTube 雑談、ニューダンガンロンパV3"
+  title: "鈴鹿詩子 at:YouTube 雑談、ニューダンガンロンパV3 みんなのコロシアイ新学期"
   end_time: 
   uri: 
 - date: 2019-01-31
   time:
     hour: 1
     min: 0
-  title: "夢月ロア at:YouTube スプラトゥーン2、マシュマロ返答"
+  title: "叶＆あっくん大魔王 at:YouTube 黒い砂漠"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 1
+    min: 0
+  title: 10分～ 夢月ロア at:YouTube スプラトゥーン2、マシュマロ返答
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -71,9 +78,30 @@
   uri: 
 - date: 2019-01-31
   time:
+    hour: 1
+    min: 32
+  title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 1
+    min: 30
+  title: 46分～ RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:ジョー・力一のYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 2
+    min: 26
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
     hour: 13
     min: 0
-  title: "文野環 at:YouTube"
+  title: "文野環 at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -144,7 +172,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:? ※Twitterネームより"
+  title: "樋口楓 at:?"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -181,6 +209,11 @@
     hour: 23
     min: 30
   title: "鷹宮リオン＆因幡はねる＆白上フブキ＆湊あくあ＆癒月ちょこ at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time: 
+  title: "？時？分～ 魔界ノりりむ at:?"
   end_time: 
   uri: 
 - date: 2019-01-30
@@ -370,7 +403,8 @@
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#4"
+  title: "月ノ美兎＆静凛＆(樋口楓＆える＆物述有栖＆)家長むぎ＆(剣持刀也＆)シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送
+    「バーチャルさんはみている」#4"
   end_time: 
   uri: 
 - date: 2019-01-30
@@ -3273,7 +3307,7 @@
   time:
     hour: 0
     min: 30
-  title: "鈴鹿詩子 at:YouTube 飲酒雑談、ニューダンガンロンパV3"
+  title: "鈴鹿詩子 at:YouTube 飲酒雑談、ニューダンガンロンパV3 みんなのコロシアイ新学期"
   end_time: 
   uri: 
 - date: 2019-01-18
