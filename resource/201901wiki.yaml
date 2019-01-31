@@ -228,7 +228,7 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube 2月配信予定相談"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -242,13 +242,6 @@
   time:
     hour: 21
     min: 30
-  title: "宇志海いちご at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-01-31
-  time:
-    hour: 21
-    min: 30
   title: "鷹宮リオン at:YouTube ハガキ紹介、誕生日プレゼント開封"
   end_time: 
   uri: 
@@ -256,7 +249,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:?"
+  title: "樋口楓 at:YouTube FlatOut"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -270,6 +263,13 @@
   time:
     hour: 22
     min: 0
+  title: "宇志海いちご at:YouTube ファンアート紹介 ※21時台より時間変更"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 22
+    min: 0
   title: "夢追翔＆黒井しば+ゲスト：春崎エアル＆成瀬鳴 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
     #3"
   end_time: 
@@ -277,8 +277,15 @@
 - date: 2019-01-31
   time:
     hour: 22
-    min: 0
+    min: 10
   title: "夢月ロア at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 22
+    min: 30
+  title: "久遠千歳 at:YouTube プレミア公開 昏迷の味"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -292,26 +299,42 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube プレミア公開"
+  title: "ドーラ at:YouTube プレミア公開 リミッターを歌ったファイアードレイク"
   end_time: 
   uri: 
 - date: 2019-01-31
   time:
     hour: 23
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "花畑チャイカ at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 23
+    min: 0
+  title: "遠北千南 at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 23
+    min: 25
+  title: "叶＆天開司＆あっくん大魔王＆O2PAI at:YouTube UNO"
   end_time: 
   uri: 
 - date: 2019-01-31
   time:
     hour: 23
     min: 30
-  title: "鷹宮リオン＆因幡はねる＆白上フブキ＆湊あくあ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル? Dead by Daylight"
+  title: "鷹宮リオン＆因幡はねる＆白上フブキ＆湊あくあ＆癒月ちょこ at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-01-31
-  time: 
-  title: "？時？分(夜)～ 花畑チャイカ at:?"
+  time:
+    hour: 22
+    min: 30
+  title: 23時29分～ 渋谷ハジメ at:YouTube League of Legends、PUBG
   end_time: 
   uri: 
 - date: 2019-01-30
