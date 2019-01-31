@@ -113,9 +113,30 @@
   uri: 
 - date: 2019-01-31
   time:
+    hour: 14
+    min: 30
+  title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
     hour: 13
     min: 0
-  title: "文野環 at:YouTube マシュマロ返答"
+  title: 14時41分～ 文野環 at:YouTube マシュマロ返答
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 17
+    min: 0
+  title: "魔界ノりりむ at:YouTube I Wanna be the Guy"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -157,6 +178,13 @@
   time:
     hour: 20
     min: 0
+  title: "緑仙 at:YouTube プレミア公開 レコード・レド"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 0
   title: "友田一貴＆ふぇぐ＆RaMu＆ゲスト：？？？＆チャレンジャー：舞元啓介 at:シャドバ登竜門のOPENREC.tvチャンネル シャドバ登竜門 #23"
   end_time: 
   uri: 
@@ -173,6 +201,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -222,12 +257,7 @@
   time:
     hour: 23
     min: 30
-  title: "鷹宮リオン＆因幡はねる＆白上フブキ＆湊あくあ＆癒月ちょこ at:? Dead by Daylight"
-  end_time: 
-  uri: 
-- date: 2019-01-31
-  time: 
-  title: "？時？分(17時頃?)～ 魔界ノりりむ at:?"
+  title: "鷹宮リオン＆因幡はねる＆白上フブキ＆湊あくあ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル? Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-01-31
