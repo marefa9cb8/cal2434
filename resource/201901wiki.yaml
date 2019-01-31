@@ -127,9 +127,16 @@
   uri: 
 - date: 2019-01-31
   time:
+    hour: 16
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
     hour: 17
     min: 0
-  title: "魔界ノりりむ at:YouTube I Wanna be the Guy"
+  title: "魔界ノりりむ at:YouTube I Wanna be the Guy ※延期"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -143,7 +150,14 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube"
+  title: "神田笑一 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -164,7 +178,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓＆轟京子 at:?"
+  title: "樋口楓＆轟京子 at:轟京子のYouTubeチャンネル 読心お絵描き"
   end_time: 
   uri: 
 - date: 2019-01-31
@@ -186,6 +200,13 @@
     hour: 20
     min: 0
   title: "友田一貴＆ふぇぐ＆RaMu＆ゲスト：？？？＆チャレンジャー：舞元啓介 at:シャドバ登竜門のOPENREC.tvチャンネル シャドバ登竜門 #23"
+  end_time: 
+  uri: 
+- date: 2019-01-31
+  time:
+    hour: 20
+    min: 30
+  title: "える at:YouTube 歌 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-01-31
