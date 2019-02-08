@@ -398,14 +398,14 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube Minecraft"
+  title: "ドーラ＆轟京子＆花畑チャイカ at:花畑チャイカのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
   time:
     hour: 0
     min: 0
-  title: "鷹宮リオン at:YouTube 半年記念、振り返り"
+  title: "鷹宮リオン at:YouTube 半年記念、振り返り、歌"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -417,9 +417,51 @@
   uri: 
 - date: 2019-02-09
   time:
+    hour: 0
+    min: 2
+  title: "囚人組(叶＆ふぇありす＆ふくやマスター) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 0
+    min: 50
+  title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
     hour: 1
+    min: 21
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 2
+    min: 13
+  title: "ジョー・力一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 2
+    min: 31
+  title: "夕陽リリ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 3
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube Minecraft ※時間変更?"
+  title: "ベルモンド・バンデラス at:YouTube Minecraft ※1時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 8
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -434,13 +476,6 @@
     hour: 10
     min: 0
   title: "ドーラ at:YouTube 作業"
-  end_time: 
-  uri: 
-- date: 2019-02-09
-  time:
-    hour: 10
-    min: 0
-  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -468,7 +503,7 @@
   time:
     hour: 19
     min: 0
-  title: 1期生出身(月ノ美兎＆勇気ちひろ＆える＆樋口楓＆静凛＆渋谷ハジメ＆鈴谷アキ＆モイラ)コラボ  at:? 一周年記念 鍋パーティ
+  title: 1期生出身(月ノ美兎＆勇気ちひろ＆える＆樋口楓＆静凛＆渋谷ハジメ＆鈴谷アキ＆モイラ) at:にじさんじ公式YouTubeチャンネル 一周年記念 鍋パーティ
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -507,8 +542,10 @@
   end_time: 
   uri: 
 - date: 2019-02-09
-  time: 
-  title: "？時？分(深夜)～ ジョー・力一 at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "ヒモと財布(遠北千南＆矢車りね) at:両名のYouTubeチャンネル? Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-09
