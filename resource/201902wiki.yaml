@@ -179,7 +179,14 @@
   time:
     hour: 22
     min: 0
-  title: "(仮予定) 樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 23
+    min: 0
+  title: "サイコ組(勇気ちひろ＆える) at:?"
   end_time: 
   uri: 
 - date: 2019-02-13
@@ -377,7 +384,7 @@
   time:
     hour: 23
     min: 30
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ＆鈴木勝 at:両名のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -391,14 +398,7 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-02-09
-  time:
-    hour: 0
-    min: 0
-  title: "神田笑一 at:YouTube Minecraft"
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -419,7 +419,14 @@
   time:
     hour: 1
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  title: "ベルモンド・バンデラス at:YouTube Minecraft ※時間変更?"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 8
+    min: 0
+  title: "瀬戸美夜子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -433,7 +440,14 @@
   time:
     hour: 10
     min: 0
-  title: "緑仙 at:? 雑談 ※予定表より"
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 10
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -468,7 +482,14 @@
   time:
     hour: 21
     min: 0
-  title: 'REVERSI(轟京子＆シスター・クレア)+ゲスト：鷹宮リオン at:シスター・クレアのYouTubeチャンネル? REVERSI LABO #2'
+  title: 'REVERSI(轟京子＆シスター・クレア)+ゲスト：鷹宮リオン at:轟京子のYouTubeチャンネル REVERSI LABO #2'
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -476,6 +497,13 @@
     hour: 22
     min: 0
   title: "闇夜乃モルル＆周防パトラ at:周防パトラのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 23
+    min: 0
+  title: "?～ もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:?"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -488,11 +516,6 @@
     hour: 12
     min: 0
   title: "-14時00分頃?～ 雨森小夜 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-02-09
-  time: 
-  title: "？時？分(深夜・時間が合えば)～ もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:?"
   end_time: 
   uri: 
 - date: 2019-02-08
@@ -653,13 +676,6 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 歌(アカペラ)"
-  end_time: 
-  uri: 
-- date: 2019-02-08
-  time:
-    hour: 20
-    min: 0
   title: "瀬戸美夜子 at:YouTube トマトマトマト ～トマトトトマトトトマト～"
   end_time: 
   uri: 
@@ -730,7 +746,7 @@
   time:
     hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-08
@@ -744,7 +760,7 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube お兄ちゃんに甘えたがりな妹でゴメンね！"
   end_time: 
   uri: 
 - date: 2019-02-08
@@ -752,6 +768,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-08
+  time:
+    hour: 23
+    min: 30
+  title: "神田笑一 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-07
