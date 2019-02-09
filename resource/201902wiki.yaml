@@ -354,7 +354,7 @@
   time:
     hour: 20
     min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:本間ひまわりのYouTubeチャンネル 鍋バトル"
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:本間ひまわりのYouTubeチャンネル オフライン鍋バトル"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -569,16 +569,16 @@
   uri: 
 - date: 2019-02-09
   time:
-    hour: 17
-    min: 30
-  title: "魔界ノりりむ at:YouTube お絵描き"
+    hour: 18
+    min: 0
+  title: "伏見ガク at:YouTube GOD EATER 3"
   end_time: 
   uri: 
 - date: 2019-02-09
   time:
-    hour: 18
-    min: 0
-  title: "伏見ガク at:YouTube GOD EATER 3"
+    hour: 17
+    min: 30
+  title: 18時00分～ 魔界ノりりむ at:YouTube お絵描き
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -599,7 +599,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:YouTube Minecraft"
+  title: 20時45分～ 森中花咲 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -620,7 +620,21 @@
   time:
     hour: 21
     min: 0
+  title: "椎名唯華 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 21
+    min: 0
   title: 'REVERSI(轟京子＆シスター・クレア)+ゲスト：鷹宮リオン at:轟京子のYouTubeチャンネル REVERSI LABO #2'
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 21
+    min: 0
+  title: "遠北千南 at:YouTube TheHOUSE"
   end_time: 
   uri: 
 - date: 2019-02-09
