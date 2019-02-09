@@ -32,6 +32,11 @@
   title: "？時？分～ 出雲霞＆？？？ at:?"
   end_time: 
   uri: 
+- date: 2019-02-24
+  time: 
+  title: "？時？分～ 鈴木勝 at:?"
+  end_time: 
+  uri: 
 - date: 2019-02-23
   time:
     hour: 14
@@ -489,7 +494,7 @@
   time:
     hour: 8
     min: 0
-  title: "瀬戸美夜子 at:YouTube"
+  title: "瀬戸美夜子 at:YouTube 朝食、雑談、プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -510,7 +515,14 @@
   time:
     hour: 13
     min: 16
-  title: "雨森小夜 at:YouTube"
+  title: "雨森小夜 at:YouTube 雑談、質問返答"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 14
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -522,9 +534,37 @@
   uri: 
 - date: 2019-02-09
   time:
+    hour: 15
+    min: 0
+  title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 15
+    min: 30
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 16
+    min: 0
+  title: "神田笑一 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
     hour: 17
     min: 0
-  title: "闇夜乃モルル at:YouTube ゼルダの伝説 トワイライトプリンセス ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube ゼルダの伝説 トワイライトプリンセス、雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 17
+    min: 15
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -543,6 +583,13 @@
   uri: 
 - date: 2019-02-09
   time:
+    hour: 18
+    min: 30
+  title: "卯月コウ at:YouTube 一人鍋パーティー"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
     hour: 19
     min: 0
   title: 1期生出身(月ノ美兎＆勇気ちひろ＆える＆樋口楓＆静凛＆渋谷ハジメ＆鈴谷アキ＆モイラ) at:にじさんじ公式YouTubeチャンネル 一周年記念 鍋パーティ
@@ -552,7 +599,21 @@
   time:
     hour: 21
     min: 0
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 21
+    min: 0
   title: "叶＆天開司＆皆守ひいろ＆寧々寝あげは at:寧々寝あげはのYouTubeチャンネル ダブルクロス説明会"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -578,9 +639,23 @@
   uri: 
 - date: 2019-02-09
   time:
+    hour: 22
+    min: 0
+  title: "夢追翔 at:YouTube 収益化記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
     hour: 23
     min: 0
   title: "?～ もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:?"
+  end_time: 
+  uri: 
+- date: 2019-02-09
+  time:
+    hour: 23
+    min: 0
+  title: "轟京子 at:YouTube ぷよぷよ!! Puyopuyo 20th anniversary"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -742,6 +817,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube おやすみバイノーラル ※延期"
+  end_time: 
+  uri: 
+- date: 2019-02-08
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:? 歌(アカペラ)"
   end_time: 
   uri: 
 - date: 2019-02-08
@@ -966,6 +1048,13 @@
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-07
+  time:
+    hour: 18
+    min: 0
+  title: "緑仙 at:ツイキャス 歌"
   end_time: 
   uri: 
 - date: 2019-02-07
