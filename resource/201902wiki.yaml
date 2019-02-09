@@ -312,13 +312,6 @@
   time:
     hour: 18
     min: 0
-  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-02-11
-  time:
-    hour: 18
-    min: 0
   title: "八朔ゆず at:YouTube"
   end_time: 
   uri: 
@@ -359,6 +352,34 @@
   uri: 
 - date: 2019-02-10
   time:
+    hour: 0
+    min: 27
+  title: "でびでび・でびる at:YouTube(でびでび・でびる) LITTLE FRIENDS -DOGS & CATS-"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 1
+    min: 0
+  title: "叶 at:YouTube プレミア公開 「第一夜/夢十夜」"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 1
+    min: 30
+  title: "鈴鹿詩子 at:YouTube BL体験談"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 1
+    min: 30
+  title: "叶＆あっくん大魔王＆皆守ひいろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
@@ -373,9 +394,30 @@
   uri: 
 - date: 2019-02-10
   time:
+    hour: 8
+    min: 15
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 10
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
     hour: 15
     min: 0
   title: "出雲霞 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 16
+    min: 0
+  title: "?～ 闇夜乃モルル at:YouTube メタルギアソリッド2"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -445,12 +487,14 @@
   time:
     hour: 23
     min: 30
-  title: "勇気ちひろ＆鈴木勝 at:両名のYouTubeチャンネル? Minecraft"
+  title: "勇気ちひろ at:YouTube 一周年記念 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-10
-  time: 
-  title: "？時？分～ 鈴鹿詩子 at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "鈴木勝 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -730,7 +774,7 @@
   time:
     hour: 23
     min: 45
-  title: "もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:えるのYouTubeチャンネル マリオテニス エース"
+  title: "もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:えるのYouTubeチャンネル マリオテニス エース ※24時08分～再開"
   end_time: 
   uri: 
 - date: 2019-02-08
