@@ -29,7 +29,7 @@
   uri: 
 - date: 2019-02-24
   time: 
-  title: "？時？分～ 出雲霞＆？？？ at:?"
+  title: "？時？分(夕方頃)～ 出雲霞＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -41,7 +41,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ"
+  title: "出雲霞 at:YouTube 昼やスミ コンビニスイーツ"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -52,8 +52,10 @@
   end_time: 
   uri: 
 - date: 2019-02-22
-  time: 
-  title: "？時？分～ 出雲霞 at:YouTube 2万人記念"
+  time:
+    hour: 22
+    min: 30
+  title: "?～ 出雲霞 at:YouTube 2万人記念"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -175,6 +177,13 @@
   uri: 
 - date: 2019-02-14
   time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube 昼やスミ特別編 チョコラーメン喫食"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
     hour: 20
     min: 0
   title: YuNi+ゲスト：樋口楓＆シスター・クレア＆響木アオ＆因幡はねる＆織田信姫 at:YuNiのYouTubeチャンネル 恋愛相談所
@@ -264,6 +273,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 朗読練習"
+  end_time: 
+  uri: 
+- date: 2019-02-12
+  time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-12
@@ -422,6 +438,13 @@
   uri: 
 - date: 2019-02-10
   time:
+    hour: 17
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
     hour: 18
     min: 0
   title: "伏見ガク at:YouTube"
@@ -493,7 +516,7 @@
 - date: 2019-02-10
   time:
     hour: 23
-    min: 0
+    min: 30
   title: "鈴木勝 at:YouTube Minecraft"
   end_time: 
   uri: 
