@@ -286,6 +286,13 @@
   time:
     hour: 18
     min: 0
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 18
+    min: 0
   title: "八朔ゆず at:YouTube"
   end_time: 
   uri: 
@@ -315,6 +322,13 @@
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー・力一+ゲスト：ふくやマスター at:YouTube 舞元力一 #7"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -480,16 +494,16 @@
   uri: 
 - date: 2019-02-09
   time:
-    hour: 10
-    min: 0
-  title: "ドーラ at:YouTube 作業"
+    hour: 9
+    min: 45
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
   time:
     hour: 10
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "ドーラ at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-02-09
@@ -552,7 +566,7 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル＆周防パトラ at:YouTube Minecraft"
+  title: "闇夜乃モルル＆周防パトラ at:周防パトラのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-09
