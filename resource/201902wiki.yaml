@@ -137,6 +137,13 @@
   uri: 
 - date: 2019-02-16
   time:
+    hour: 21
+    min: 0
+  title: "闇夜乃モルル at:YouTube World of Warships"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
     hour: 22
     min: 0
   title: "渋谷ハジメ＆えーちゃん＆パンディ＆柊椋＆ふくやマスター＆小町ノノ at:小町ノノのYouTubeチャンネル 平成最後の大人組Vtuberガチお受験!!"
@@ -224,6 +231,13 @@
   title: "サイコ組(勇気ちひろ＆える) at:?"
   end_time: 
   uri: 
+- date: 2019-02-14
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-02-13
   time:
     hour: 18
@@ -252,6 +266,13 @@
     hour: 22
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-13
+  time:
+    hour: 22
+    min: 30
+  title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-13
@@ -303,6 +324,13 @@
   title: "出雲霞＆白上フブキ＆綾乃ツカサ at:YouTube クトゥルフ神話TRPG"
   end_time: 
   uri: 
+- date: 2019-02-12
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲＆椎名唯華 at:? 9万人記念、Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-02-11
   time:
     hour: 0
@@ -315,6 +343,13 @@
     hour: 0
     min: 0
   title: "椎名唯華＆花畑チャイカ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -357,6 +392,13 @@
     hour: 18
     min: 0
   title: "八朔ゆず at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓＆伏見ガク＆？？？＆？？？＆？？？＆？？？ at:にじさんじ公式YouTubeチャンネル 第11.5回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -529,14 +571,28 @@
   time:
     hour: 18
     min: 0
-  title: "伏見ガク at:YouTube"
+  title: "伏見ガク at:YouTube Myosotis -ミオソティス-"
   end_time: 
   uri: 
 - date: 2019-02-10
   time:
     hour: 19
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 19
+    min: 52
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 19
+    min: 9
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -550,21 +606,21 @@
   time:
     hour: 20
     min: 0
-  title: "童田明治 at:YouTube"
+  title: "童田明治 at:YouTube ペヤング激辛やきそばEND 喫食"
   end_time: 
   uri: 
 - date: 2019-02-10
   time:
     hour: 21
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-10
   time:
     hour: 21
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+ゲスト：出雲霞 at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  title: "名伽尾アズマ＆八朔ゆず+ゲスト：出雲霞 at:八朔ゆずのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -585,13 +641,6 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube 生誕祭"
-  end_time: 
-  uri: 
-- date: 2019-02-10
-  time:
-    hour: 22
-    min: 0
   title: "シスター・クレア at:YouTube 応援"
   end_time: 
   uri: 
@@ -599,7 +648,14 @@
   time:
     hour: 23
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル 雑談"
+  title: "モイラ at:YouTube 生誕祭 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time:
+    hour: 23
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTubeチャンネル(でびでびチャンネル) 雑談"
   end_time: 
   uri: 
 - date: 2019-02-10
@@ -614,6 +670,11 @@
     hour: 23
     min: 30
   title: "鈴木勝 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-10
+  time: 
+  title: "？時？分～ 夢月ロア at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-02-09
