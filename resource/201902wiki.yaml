@@ -335,21 +335,42 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube Home Sweet Home"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆花畑チャイカ＆緑仙 at:YouTube Minecraft"
+  title: "椎名唯華＆花畑チャイカ＆緑仙 at:椎名唯華、花畑チャイカのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 0
+    min: 35
+  title: "郡道美玲 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 1
+    min: 0
+  title: "叶 at:YouTube プレミア公開 「第二夜/夢十夜」"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 1
     min: 30
-  title: "叶 at:YouTube Apex Legends"
+  title: 17分～ 叶＆ふくやマスター＆ふぇありす at:YouTube Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 1
+    min: 38
+  title: "瀬戸美夜子 at:YouTube Undertale"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -375,9 +396,21 @@
   uri: 
 - date: 2019-02-11
   time:
+    hour: 10
+    min: 0
+  title: "宇志海いちご＆緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
     hour: 12
     min: 0
   title: "シスター・クレア at:YouTube 昼食"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time: 
+  title: 13個00分頃～ 夕陽リリ at:YouTube バイオハザード RE:2
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -392,6 +425,13 @@
     hour: 17
     min: 0
   title: "?～ 遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 17
+    min: 30
+  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -411,6 +451,27 @@
   uri: 
 - date: 2019-02-11
   time:
+    hour: 21
+    min: 0
+  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #6"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 21
+    min: 0
+  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 21
+    min: 45
+  title: "剣持刀也 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
     hour: 22
     min: 0
   title: "笹木咲 at:YouTube トモダチコレクション"
@@ -424,8 +485,10 @@
   end_time: 
   uri: 
 - date: 2019-02-11
-  time: 
-  title: "？時？分～ 本間ひまわり＆ドーラ at:? クッキー作り ※02/10の配信にて告知"
+  time:
+    hour: 12
+    min: 0
+  title: or13時00分～ 本間ひまわり＆ドーラ at:? クッキー作り
   end_time: 
   uri: 
 - date: 2019-02-11
