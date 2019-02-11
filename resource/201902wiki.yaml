@@ -338,6 +338,11 @@
   title: "笹木咲＆椎名唯華 at:? 9万人記念、Minecraft"
   end_time: 
   uri: 
+- date: 2019-02-12
+  time: 
+  title: "？時？分(夜)～ 舞元啓介 at:YouTube 半年振り返り雑談"
+  end_time: 
+  uri: 
 - date: 2019-02-11
   time:
     hour: 0
@@ -405,33 +410,56 @@
   time:
     hour: 8
     min: 35
-  title: "鷹宮リオン at:YouTube Minecraft"
+  title: "鷹宮リオン at:YouTube 雑談、Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 10
     min: 0
-  title: "宇志海いちご＆緑仙 at:YouTube Minecraft"
+  title: 13分～ 宇志海いちご＆緑仙 at:両名のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 12
     min: 0
-  title: "シスター・クレア at:YouTube 昼食"
+  title: "シスター・クレア at:YouTube アイス喫食"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 12
-    min: 0
-  title: or13時00分～ 本間ひまわり＆ドーラ at:ドーラのYouTubeチャンネル クッキー作り
+    min: 9
+  title: "安土桃 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-02-11
-  time: 
-  title: 13個00分頃～ 夕陽リリ at:YouTube バイオハザード RE:2
+  time:
+    hour: 12
+    min: 11
+  title: "本間ひまわり＆ドーラ at:ドーラのYouTubeチャンネル クッキー作り"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 13
+    min: 0
+  title: "神田笑一 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 13
+    min: 3
+  title: "夕陽リリ at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 15
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -445,21 +473,28 @@
   time:
     hour: 17
     min: 0
-  title: "?～ 遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 17
     min: 30
-  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 18
     min: 0
-  title: "八朔ゆず＆でびでび・でびる at:YouTube"
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 PlayStation 2版 ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 18
+    min: 0
+  title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル おばけ屋敷探検隊"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -481,7 +516,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -489,6 +524,13 @@
     hour: 21
     min: 0
   title: "社築 at:YouTube beatmaniaⅡDX INFINITAS ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -513,8 +555,10 @@
   end_time: 
   uri: 
 - date: 2019-02-11
-  time: 
-  title: "？時？分(夜)～ 舞元啓介 at:YouTube 半年振り返り雑談"
+  time:
+    hour: 23
+    min: 0
+  title: "轟京子 at:YouTube 3Dお絵描き"
   end_time: 
   uri: 
 - date: 2019-02-10
