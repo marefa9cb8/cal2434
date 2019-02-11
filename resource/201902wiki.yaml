@@ -363,21 +363,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube プレミア公開"
+  title: "椎名唯華 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-02-12
   time:
     hour: 0
-    min: 0
-  title: "郡道美玲 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-02-12
-  time:
-    hour: 1
-    min: 0
-  title: "?～ 椎名唯華 at:YouTube Minecraft、雑談"
+    min: 6
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-12
@@ -385,6 +378,20 @@
     hour: 1
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-12
+  time:
+    hour: 1
+    min: 40
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-02-12
+  time:
+    hour: 2
+    min: 31
+  title: "ジョー・力一 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-12
@@ -399,6 +406,13 @@
     hour: 19
     min: 0
   title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-12
+  time:
+    hour: 19
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-12
@@ -460,11 +474,6 @@
 - date: 2019-02-12
   time: 
   title: "？時？分(夜)～ 舞元啓介 at:YouTube 半年振り返り雑談"
-  end_time: 
-  uri: 
-- date: 2019-02-12
-  time: 
-  title: "？時？分(深夜・仮)～ ジョー・力一 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-11
