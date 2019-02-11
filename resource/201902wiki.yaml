@@ -416,6 +416,13 @@
   end_time: 
   uri: 
 - date: 2019-02-11
+  time:
+    hour: 12
+    min: 0
+  title: or13時00分～ 本間ひまわり＆ドーラ at:ドーラのYouTubeチャンネル クッキー作り
+  end_time: 
+  uri: 
+- date: 2019-02-11
   time: 
   title: 13個00分頃～ 夕陽リリ at:YouTube バイオハザード RE:2
   end_time: 
@@ -496,13 +503,6 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube あくまのしわざ"
-  end_time: 
-  uri: 
-- date: 2019-02-11
-  time:
-    hour: 12
-    min: 0
-  title: or13時00分～ 本間ひまわり＆ドーラ at:ドーラのYouTubeチャンネル クッキー作り
   end_time: 
   uri: 
 - date: 2019-02-11
