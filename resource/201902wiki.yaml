@@ -270,7 +270,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: JK組(月ノ美兎＆樋口楓＆静凛) at:? ※2/11 MIXUPにて告知
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -357,6 +357,13 @@
     hour: 23
     min: 0
   title: "轟京子 at:YouTube キャラチェンチャレンジ"
+  end_time: 
+  uri: 
+- date: 2019-02-12
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-02-12
@@ -660,15 +667,30 @@
 - date: 2019-02-11
   time:
     hour: 21
+    min: 10
+  title: "樋口楓＆伏見ガク＆森中花咲(録音)＆える＆花畑チャイカ＆緑仙＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル(でびでびチャンネル)
+    第11.5回「にじさんじMIX UP!!」振り返りSP!! アフタートーク"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 21
+    min: 16
+  title: "叶＆葛葉 at:叶のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 21
     min: 30
   title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
-    hour: 21
-    min: 45
-  title: "剣持刀也 at:YouTube プレミア公開"
+    hour: 22
+    min: 0
+  title: "静凛 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-02-11
@@ -682,14 +704,21 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube あくまのしわざ"
+  title: "でびでび・でびる at:YouTube(でびでび・でびる) あくまのしわざ"
   end_time: 
   uri: 
 - date: 2019-02-11
   time:
     hour: 23
     min: 0
-  title: "轟京子 at:YouTube 3Dお絵描き"
+  title: "轟京子 at:YouTube 3Dお絵描き ※中止"
+  end_time: 
+  uri: 
+- date: 2019-02-11
+  time:
+    hour: 23
+    min: 26
+  title: "シスター・クレア at:YouTube 歌(SoundHorizon)"
   end_time: 
   uri: 
 - date: 2019-02-10
