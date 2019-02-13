@@ -415,7 +415,21 @@
   time:
     hour: 21
     min: 0
+  title: "物述有栖 at:YouTube お菓子作り"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 21
+    min: 0
   title: "杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+ アニゲラ!ディドゥーン!!!"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube バレンタインマシュマロ投稿企画"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -565,14 +579,21 @@
   time:
     hour: 15
     min: 30
-  title: "鷹宮リオン at:YouTube ※リマインダーより"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-13
+  time:
+    hour: 17
+    min: 17
+  title: "笹木咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-13
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube Minecraft ※リマインダーより"
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-13
@@ -587,6 +608,13 @@
     hour: 18
     min: 0
   title: "八朔ゆず＆でびでび・でびる at:八朔ゆずのYouTubeチャンネル おばけ屋敷探検隊"
+  end_time: 
+  uri: 
+- date: 2019-02-13
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞＆ロボ子さん＆湊あくあ at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-13
@@ -607,14 +635,14 @@
   time:
     hour: 20
     min: 0
-  title: "社築＆ハッカドール1号 at:YouTube"
+  title: "笹木咲＆緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-13
   time:
     hour: 20
     min: 0
-  title: "笹木咲＆緑仙 at:YouTube Minecraft"
+  title: "社築＆ハッカドール1号 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-13
