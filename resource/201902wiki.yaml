@@ -376,14 +376,28 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル バレンタインボイスレビュー会"
+  title: "文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-15
   time:
     hour: 0
     min: 0
-  title: "?～ 悪夢組(でびでび・でびる＆ジョー・力一 at:?"
+  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル バレンタインボイスレビュー会"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 0
+    min: 30
+  title: "悪夢組(でびでび・でびる＆ジョー・力一 at:でびでび・でびるのYouTubeチャンネル(でびでび・でびる)"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 0
+    min: 38
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -395,9 +409,9 @@
   uri: 
 - date: 2019-02-15
   time:
-    hour: 2
-    min: 0
-  title: "家長むぎ at:YouTube Apex Legends ※0時から時間変更"
+    hour: 1
+    min: 34
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -405,6 +419,20 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 2
+    min: 35
+  title: "安土桃 at:YouTube 雑談、Overwatch"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 2
+    min: 40
+  title: "渋谷ハジメ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -447,6 +475,13 @@
     hour: 19
     min: 0
   title: "本間ひまわり＆桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 19
+    min: 0
+  title: "舞元啓介 at:YouTube バレンタイン?衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -495,6 +530,13 @@
   time:
     hour: 21
     min: 0
+  title: "夢月ロア at:YouTube ABZÛ"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 21
+    min: 0
   title: "瀬戸美夜子 at:YouTube UTOPIA"
   end_time: 
   uri: 
@@ -503,6 +545,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube アキくんメモリーズ"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 22
+    min: 0
+  title: "家長むぎ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -524,6 +573,13 @@
     hour: 22
     min: 0
   title: "シスター・クレア at:YouTube 77777人記念"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 22
+    min: 30
+  title: "鈴鹿詩子＆森中花咲 at:森中花咲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -849,20 +905,15 @@
 - date: 2019-02-14
   time:
     hour: 23
-    min: 30
-  title: "黒ノ火廻(叶＆本間ひまわり＆葛葉) at:? Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-02-14
-  time:
-    hour: 23
     min: 36
   title: "シスター・クレア at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-14
-  time: 
-  title: 23時以降～ 文野環 at:?
+  time:
+    hour: 23
+    min: 30
+  title: 55分～ 黒ノ火廻(叶＆本間ひまわり＆葛葉) at:叶のYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-02-13
