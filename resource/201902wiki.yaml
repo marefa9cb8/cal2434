@@ -376,7 +376,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル"
+  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル バレンタインボイスレビュー会"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -411,7 +411,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ フレンチトースト"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -430,9 +430,9 @@
   uri: 
 - date: 2019-02-15
   time:
-    hour: 18
+    hour: 17
     min: 0
-  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
+  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編 ※18時から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -446,7 +446,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "本間ひまわり＆桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -461,6 +461,13 @@
     hour: 20
     min: 30
   title: "名伽尾アズマ at:YouTube バレンタイン衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 21
+    min: 0
+  title: JK組(月ノ美兎＆樋口楓＆静凛) at:にじさんじ公式YouTubeチャンネル プレミア公開 dream triangle フルバージョン ※02/14JK組配信にて告知
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -493,9 +500,16 @@
   uri: 
 - date: 2019-02-15
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube アキくんメモリーズ"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
     hour: 22
     min: 0
-  title: "葛葉＆桜凛月 at:? Minecraft"
+  title: "葛葉＆桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -703,13 +717,6 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆白百合リリィ at:YouTube 英会話教室 #2 ※20時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-02-14
-  time:
-    hour: 21
-    min: 0
   title: "物述有栖 at:YouTube 第3回 もののべくっきんぐ お菓子作り"
   end_time: 
   uri: 
@@ -717,14 +724,14 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-14
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 心理テスト、チョコパズル"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -758,15 +765,22 @@
 - date: 2019-02-14
   time:
     hour: 21
+    min: 0
+  title: '30分～ 渋谷ハジメ＆白百合リリィ at:YouTube 英会話教室 #2 ※20時から時間変更'
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube チョコ菓子喫食"
+  title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭) チョコ菓子喫食"
   end_time: 
   uri: 
 - date: 2019-02-14
   time:
     hour: 21
     min: 40
-  title: "飛鳥ひな at:YouTube 雑談"
+  title: 53分～ 飛鳥ひな at:YouTube 雑談 ※中断
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -780,7 +794,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube チョコレート(スライム)作り"
+  title: "轟京子 at:YouTube チョコレート(スライム)作り・ASMR"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -794,7 +808,14 @@
   time:
     hour: 23
     min: 0
-  title: "サイコ組(勇気ちひろ＆える) at:YouTube Minecraft"
+  title: "サイコ組(勇気ちひろ＆える) at:えるのYouTubeチャンネル Super Bunny Man"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -815,14 +836,14 @@
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube ※延期"
   end_time: 
   uri: 
 - date: 2019-02-14
   time:
     hour: 23
     min: 0
-  title: "夢追翔 at:YouTube プレミア公開"
+  title: "夢追翔 at:YouTube プレミア公開 ビターチョコ「YUMELTY」架空CMソング"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -830,6 +851,18 @@
     hour: 23
     min: 30
   title: "黒ノ火廻(叶＆本間ひまわり＆葛葉) at:? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 23
+    min: 36
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time: 
+  title: 23時以降～ 文野環 at:?
   end_time: 
   uri: 
 - date: 2019-02-13
