@@ -376,14 +376,14 @@
   time:
     hour: 0
     min: 0
-  title: "家長むぎ at:YouTube Apex Legends"
+  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-02-15
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル"
+  title: "?～ 悪夢組(でびでび・でびる＆ジョー・力一 at:?"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -391,6 +391,20 @@
     hour: 1
     min: 30
   title: "鈴木勝 at:YouTube(Re‡D.E.放送局)"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 2
+    min: 0
+  title: "家長むぎ at:YouTube Apex Legends ※0時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -430,9 +444,23 @@
   uri: 
 - date: 2019-02-15
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
     hour: 20
     min: 0
-  title: "八朔ゆず at:YouTube バレンタイン衣装お披露目 ※リマインダーより"
+  title: "八朔ゆず at:YouTube バレンタイン衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 20
+    min: 30
+  title: "名伽尾アズマ at:YouTube バレンタイン衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -453,7 +481,21 @@
   time:
     hour: 21
     min: 0
+  title: "名伽尾アズマ＆八朔ゆず at:八朔ゆずのYouTubeチャンネル アズゆずバレンタイン"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 21
+    min: 0
   title: "瀬戸美夜子 at:YouTube UTOPIA"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉＆桜凛月 at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -633,7 +675,7 @@
   time:
     hour: 20
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル IN THE WHITE BOX(視聴者参加型企画)
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -675,6 +717,13 @@
   time:
     hour: 21
     min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-14
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:YouTube"
   end_time: 
   uri: 
@@ -682,7 +731,7 @@
   time:
     hour: 21
     min: 0
-  title: "出雲霞 at:YouTube プレミア公開"
+  title: "出雲霞 at:YouTube プレミア公開 『五等分の気持ち』歌ってみた"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -777,8 +826,10 @@
   end_time: 
   uri: 
 - date: 2019-02-14
-  time: 
-  title: "(未定)？時？分～ 矢車りね at:?"
+  time:
+    hour: 23
+    min: 30
+  title: "黒ノ火廻(叶＆本間ひまわり＆葛葉) at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-13
