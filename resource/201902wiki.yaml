@@ -292,6 +292,13 @@
   uri: 
 - date: 2019-02-16
   time:
+    hour: 12
+    min: 0
+  title: "闇夜乃モルル at:YouTube お菓子作り ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ"
@@ -479,7 +486,7 @@
   time:
     hour: 13
     min: 30
-  title: "雪汝 at:YouTube Minecraft雑談 ※YouTubeリマインダーより"
+  title: "雪汝 at:YouTube Minecraft雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-15
