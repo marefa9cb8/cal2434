@@ -51,7 +51,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190222T090000
-SUMMARY:杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月21日分)
+SUMMARY:杉田智和＆マフィア梶田+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月21日分)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -87,7 +87,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190221T210000
-SUMMARY:杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+ アニゲラ!ディドゥーン!!!
+SUMMARY:杉田智和＆マフィア梶田+ゲスト：シスター・クレア at:文化放送 超!A&G+ アニゲラ!ディドゥーン!!!
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -136,6 +136,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190219T210000
 SUMMARY:渋谷ハジメ＆ジョー・力一 at:YouTube 渋谷カフェ：つなげようお客様の輪 第24回
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190218T064500
+SUMMARY:伏見ガク at:YouTube おはガク！ 肉まん
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -220,6 +226,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190216T000000
 SUMMARY:椎名唯華＆鷹宮リオン at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190216T010000
+SUMMARY:ジョー・力一 at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -326,6 +338,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190216
+SUMMARY:？時？分～ 久遠千歳 at:YouTube バイノーラル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190215T000000
 SUMMARY:文野環 at:YouTube
 URL:
@@ -387,7 +405,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190215T090000
-SUMMARY:杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月14日分)
+SUMMARY:杉田智和＆マフィア梶田＆有象無象(朝倉ブルー＆イシジマ＆祁答院慎)+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月14日分)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -398,8 +416,20 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T133000
+SUMMARY:雪汝 at:YouTube Minecraft ※YouTubeリマインダーより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190215T170000
 SUMMARY:出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編 ※18時から時間変更
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T180000
+SUMMARY:森中花咲＆飛鳥ひな at:PANORAのYouTubeチャンネル、bilibili 会える！話せる！VTuberおしゃべりフェス on バレンタイン(ステージ映像)
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -424,6 +454,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190215T190000
 SUMMARY:舞元啓介 at:YouTube バレンタイン?衣装お披露目
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T200000
+SUMMARY:魔界ノりりむ at:YouTube Five Nights at Freddy's
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -526,6 +562,24 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190215T223000
 SUMMARY:小野町春香 at:YouTube お絵描き
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T230000
+SUMMARY:花畑チャイカ at:YouTube Minecraft ※リマインダーより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T230000
+SUMMARY:ベルモンド・バンデラス at:? Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190215T233000
+SUMMARY:静凛 at:YouTube バイオハザード RE:2 ※リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -699,7 +753,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190214T210000
-SUMMARY:杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!
+SUMMARY:杉田智和＆マフィア梶田＆有象無象(朝倉ブルー＆イシジマ＆祁答院慎)+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!
 URL:
 DESCRIPTION:
 END:VEVENT

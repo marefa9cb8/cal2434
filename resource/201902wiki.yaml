@@ -53,7 +53,7 @@
   time:
     hour: 9
     min: 0
-  title: "杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月21日分)"
+  title: "杉田智和＆マフィア梶田+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月21日分)"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -96,7 +96,7 @@
   time:
     hour: 21
     min: 0
-  title: "杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+ アニゲラ!ディドゥーン!!!"
+  title: "杉田智和＆マフィア梶田+ゲスト：シスター・クレア at:文化放送 超!A&G+ アニゲラ!ディドゥーン!!!"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -155,6 +155,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ジョー・力一 at:YouTube 渋谷カフェ：つなげようお客様の輪 第24回"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 肉まん"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -253,6 +260,13 @@
     hour: 0
     min: 0
   title: "椎名唯華＆鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -372,6 +386,11 @@
   title: "？時？分(昼)～ 雨森小夜 at:?"
   end_time: 
   uri: 
+- date: 2019-02-16
+  time: 
+  title: "？時？分～ 久遠千歳 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
 - date: 2019-02-15
   time:
     hour: 0
@@ -446,7 +465,7 @@
   time:
     hour: 9
     min: 0
-  title: "杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月14日分)"
+  title: "杉田智和＆マフィア梶田＆有象無象(朝倉ブルー＆イシジマ＆祁答院慎)+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!(※リピート配信：2月14日分)"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -458,9 +477,23 @@
   uri: 
 - date: 2019-02-15
   time:
+    hour: 13
+    min: 30
+  title: "雪汝 at:YouTube Minecraft ※YouTubeリマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編 ※18時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 18
+    min: 0
+  title: "森中花咲＆飛鳥ひな at:PANORAのYouTubeチャンネル、bilibili 会える！話せる！VTuberおしゃべりフェス on バレンタイン(ステージ映像)"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -489,6 +522,13 @@
     hour: 19
     min: 0
   title: "舞元啓介 at:YouTube バレンタイン?衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 20
+    min: 0
+  title: "魔界ノりりむ at:YouTube Five Nights at Freddy's"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -608,6 +648,27 @@
     hour: 22
     min: 30
   title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 23
+    min: 0
+  title: "ベルモンド・バンデラス at:? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 23
+    min: 30
+  title: "静凛 at:YouTube バイオハザード RE:2 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-14
@@ -810,7 +871,7 @@
   time:
     hour: 21
     min: 0
-  title: "杉田智和＆マフィア梶田＆AGRS+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!"
+  title: "杉田智和＆マフィア梶田＆有象無象(朝倉ブルー＆イシジマ＆祁答院慎)+ゲスト：シスター・クレア at:文化放送 超!A&G+(※視聴方法) アニゲラ!ディドゥーン!!!"
   end_time: 
   uri: 
 - date: 2019-02-14
