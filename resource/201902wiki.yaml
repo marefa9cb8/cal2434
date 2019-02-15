@@ -324,6 +324,20 @@
   uri: 
 - date: 2019-02-16
   time:
+    hour: 4
+    min: 55
+  title: "安土桃 at:YouTube Overwatch"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 5
+    min: 36
+  title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
     hour: 8
     min: 0
   title: "緑仙 at:YouTube 雑談"
@@ -355,6 +369,13 @@
     hour: 12
     min: 0
   title: "闇夜乃モルル at:YouTube お菓子作り ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 12
+    min: 30
+  title: "-13時00分頃～ 雨森小夜 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -474,13 +495,6 @@
     hour: 23
     min: 50
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
-  end_time: 
-  uri: 
-- date: 2019-02-16
-  time:
-    hour: 12
-    min: 30
-  title: "-13時00分頃～ 雨森小夜 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-15
