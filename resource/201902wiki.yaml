@@ -77,6 +77,13 @@
   uri: 
 - date: 2019-02-21
   time:
+    hour: 21
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
     hour: 23
     min: 0
   title: "ドーラ at:YouTube 麻雀"
@@ -109,7 +116,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube Minecraft?"
+  title: "ドーラ at:YouTube Minecraft(お知らせ+探訪?)"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -131,6 +138,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ジョー・力一 at:YouTube 渋谷カフェ：つなげようお客様の輪 第24回"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 22
+    min: 0
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -168,11 +182,25 @@
   title: "でびでび・でびる at:YouTube"
   end_time: 
   uri: 
+- date: 2019-02-18
+  time:
+    hour: 22
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-02-17
   time:
     hour: 1
     min: 0
   title: "久遠千歳 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 8
+    min: 30
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -186,7 +214,7 @@
   time:
     hour: 15
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: "出雲霞 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -226,6 +254,13 @@
   uri: 
 - date: 2019-02-17
   time:
+    hour: 21
+    min: 0
+  title: "夢追翔＆ぴろぱる at:YouTube 歌(ミリしら)"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ+ゲスト：鈴木勝 at:YouTube まほすずラジオ #14"
@@ -256,14 +291,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆鷹宮リオン at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-02-16
-  time:
-    hour: 0
-    min: 0
-  title: "神田笑一 at:YouTube Anthem(先行プレイ)"
+  title: "椎名唯華＆鷹宮リオン at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -275,9 +303,30 @@
   uri: 
 - date: 2019-02-16
   time:
+    hour: 1
+    min: 38
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 2
+    min: 6
+  title: "花畑チャイカ at:YouTube Magic:The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 8
+    min: 0
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -621,7 +670,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 5＆6万人記念"
+  title: "ドーラ at:YouTube 5＆6万人記念その1"
   end_time: 
   uri: 
 - date: 2019-02-15
@@ -755,6 +804,13 @@
     hour: 23
     min: 20
   title: "静凛 at:YouTube バイオハザード RE:2 ※23時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-15
+  time:
+    hour: 23
+    min: 55
+  title: "神田笑一 at:YouTube Anthem(先行プレイ)"
   end_time: 
   uri: 
 - date: 2019-02-14
