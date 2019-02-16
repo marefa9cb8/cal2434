@@ -228,6 +228,13 @@
   time:
     hour: 1
     min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 1
+    min: 0
   title: "久遠千歳 at:YouTube バイノーラル"
   end_time: 
   uri: 
@@ -250,6 +257,21 @@
     hour: 11
     min: 0
   title: "ドーラ at:YouTube 大神"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 12
+    min: 0
+  title: "八朔ゆず at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 13
+    min: 0
+  title: "勇気ちひろ＆宇志海いちご＆シスター・クレア＆鈴木勝＆ベルモンド・バンデラス at:シスター・クレアのYouTubeチャンネル にじさんじ探検隊
+    廃坑を探検せよ！(Minecraft)"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -313,6 +335,13 @@
     hour: 22
     min: 0
   title: "シエラ・ルーニス、オバママ、樋口楓、叶 at:OverideaのYouTubeチャンネル、bilibili 歌え！国境なき日中新年企画！2019"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -417,14 +446,21 @@
   time:
     hour: 12
     min: 0
-  title: 30分～ 闇夜乃モルル at:YouTube お菓子作り
+  title: "神田笑一 at:YouTube Anthem(先行プレイ)"
   end_time: 
   uri: 
 - date: 2019-02-16
   time:
     hour: 12
-    min: 30
-  title: "-13時00分頃～ 雨森小夜 at:YouTube 雑談"
+    min: 0
+  title: 30分～ 闇夜乃モルル at:YouTube お菓子作り
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 13
+    min: 15
+  title: "雨森小夜 at:YouTube 雑談 ※中断"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -445,7 +481,7 @@
   time:
     hour: 18
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -457,9 +493,30 @@
   uri: 
 - date: 2019-02-16
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 20
+    min: 0
+  title: "魔界ノりりむ＆葛葉＆SUMOMOXqX(すもも) at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -502,6 +559,13 @@
     hour: 21
     min: 0
   title: "闇夜乃モルル at:YouTube World of Warships"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 21
+    min: 0
+  title: "語部紡 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-16
