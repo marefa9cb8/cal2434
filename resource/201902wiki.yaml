@@ -93,7 +93,7 @@
   time:
     hour: 22
     min: 22
-  title: "樋口楓 at:? Rat Simulator?"
+  title: "樋口楓 at:YouTube Rat Simulator"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -114,7 +114,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:?"
+  title: "樋口楓 at:YouTube ナルティメットストーム"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -291,7 +291,14 @@
   time:
     hour: 8
     min: 0
-  title: "緑仙 at:YouTube 雑談"
+  title: "緑仙 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 8
+    min: 20
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -299,6 +306,13 @@
     hour: 8
     min: 30
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ感想会"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -346,9 +360,16 @@
   uri: 
 - date: 2019-02-17
   time:
+    hour: 19
+    min: 0
+  title: "瀬戸美夜子 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
     hour: 20
     min: 0
-  title: "樋口楓 at:? お悩み解決(14日未完分)"
+  title: "樋口楓 at:YouTube お悩み解決(14日未完分)"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -370,6 +391,13 @@
     hour: 21
     min: 0
   title: "叶＆あっくん大魔王＆天開司＆皆守ひいろ＆寧々寝あげは at:寧々寝あげはのYouTubeチャンネル ダブルクロス"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 21
+    min: 0
+  title: "社築＆舞元啓介 at:? ※両名Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -405,6 +433,13 @@
     hour: 23
     min: 0
   title: "森中花咲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 23
+    min: 0
+  title: "夢月ロア at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-17
