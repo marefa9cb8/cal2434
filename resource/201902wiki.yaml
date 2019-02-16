@@ -396,7 +396,7 @@
   time:
     hour: 10
     min: 0
-  title: "八朔ゆず at:YouTube 作業"
+  title: "八朔ゆず at:YouTube 作業 ※中止"
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -417,7 +417,7 @@
   time:
     hour: 12
     min: 0
-  title: "闇夜乃モルル at:YouTube お菓子作り"
+  title: 30分～ 闇夜乃モルル at:YouTube お菓子作り
   end_time: 
   uri: 
 - date: 2019-02-16
@@ -502,6 +502,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(鈴谷アキの陽だまりの庭)"
+  end_time: 
+  uri: 
+- date: 2019-02-16
+  time:
+    hour: 21
+    min: 30
+  title: "飛鳥ひな at:YouTube おしゃべりフェス感想"
   end_time: 
   uri: 
 - date: 2019-02-16
