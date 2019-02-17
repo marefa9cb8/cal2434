@@ -282,6 +282,13 @@
   uri: 
 - date: 2019-02-17
   time:
+    hour: 6
+    min: 36
+  title: "シスター・クレア at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube"
@@ -298,14 +305,14 @@
   time:
     hour: 8
     min: 20
-  title: "える at:YouTube スター☆トゥインクルプリキュア実況 ※Twitterネームより"
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況"
   end_time: 
   uri: 
 - date: 2019-02-17
   time:
     hour: 8
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -341,7 +348,7 @@
   time:
     hour: 14
     min: 0
-  title: "安土桃 at:YouTube"
+  title: "安土桃 at:YouTube Kerbal Space Program"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -362,7 +369,7 @@
   time:
     hour: 19
     min: 0
-  title: "瀬戸美夜子 at:YouTube ※Twitterネームより"
+  title: "瀬戸美夜子 at:YouTube セリフ読み、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-02-17
