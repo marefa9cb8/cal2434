@@ -193,6 +193,13 @@
   uri: 
 - date: 2019-02-19
   time:
+    hour: 0
+    min: 0
+  title: "社築 at:YouTube 5万人記念、はかどるやしろコラボ振り返り"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 御噺企画発表会②"
@@ -222,8 +229,29 @@
 - date: 2019-02-18
   time:
     hour: 0
+    min: 0
+  title: "轟京子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 0
     min: 30
   title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:?"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -237,7 +265,7 @@
   time:
     hour: 2
     min: 0
-  title: "久遠千歳 at:YouTube"
+  title: "久遠千歳 at:YouTube アイアムニート"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -530,7 +558,7 @@
   time:
     hour: 21
     min: 0
-  title: "社築＆舞元啓介 at:舞元啓介のYouTubeチャンネル おっさんゲームス#1"
+  title: "社築＆舞元啓介 at:舞元啓介のYouTubeチャンネル おっさんゲームス#1 デュープリズム"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -544,7 +572,14 @@
   time:
     hour: 21
     min: 30
-  title: "静凛 at:YouTube ときめきメモリアル Girl's Side"
+  title: 20分～ 静凛 at:YouTube ときめきメモリアル Girl's Side
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 21
+    min: 56
+  title: "小野町春香 at:YouTube プレミア公開 自己紹介"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -559,6 +594,13 @@
     hour: 22
     min: 0
   title: "シエラ・ルーニス、オバママ、樋口楓、叶 at:OverideaのYouTubeチャンネル、bilibili 歌え！国境なき日中新年企画！2019"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 22
+    min: 0
+  title: "神田笑一 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -579,7 +621,7 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube 反省会"
   end_time: 
   uri: 
 - date: 2019-02-17
@@ -593,14 +635,14 @@
   time:
     hour: 23
     min: 0
-  title: "ジョー・力一 at:YouTube"
+  title: "ジョー・力一 at:YouTube TikTok CREATOR's LAB 2019振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-02-17
   time:
     hour: 23
-    min: 0
-  title: "夢月ロア at:YouTube マシュマロ返答 ※Twitterネームより"
+    min: 3
+  title: "夢月ロア at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-02-17
