@@ -29,6 +29,13 @@
   uri: 
 - date: 2019-02-24
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一 at:? 舞元力一 #8"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
     hour: 16
     min: 0
   title: "ドーラ＆出雲霞＆鈴木勝＆ベルモンド・バンデラス＆夢追翔 at:夢追翔のYouTubeチャンネル 廃墟セッション(SoundHorizon)"
@@ -440,6 +447,13 @@
     hour: 23
     min: 0
   title: "森中花咲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-17
+  time:
+    hour: 23
+    min: 0
+  title: "ジョー・力一 at:?"
   end_time: 
   uri: 
 - date: 2019-02-17
