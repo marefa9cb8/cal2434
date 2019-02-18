@@ -80,6 +80,13 @@
   time:
     hour: 21
     min: 0
+  title: "物述有栖＆すーぱーそに子 at:すーぱーそに子のYouTubeチャンネル＆REALITY ※お便り募集（～21日正午）"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 21
+    min: 0
   title: "赤羽葉子 at:YouTube World of Warships"
   end_time: 
   uri: 
@@ -251,7 +258,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube Minecraft(お知らせ+探訪?)"
+  title: "ドーラ at:YouTube Minecraft(にじさんじサーバー探検+お知らせ)"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -278,6 +285,13 @@
     hour: 0
     min: 0
   title: "社築 at:YouTube 5万人記念、はかどるやしろコラボ振り返り"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 0
+    min: 0
+  title: "黒井しば＆さくらみこ at:? Apex Legends ※2/18の黒井しばの配信で告知"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -408,9 +422,37 @@
   uri: 
 - date: 2019-02-18
   time:
+    hour: 15
+    min: 26
+  title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 16
+    min: 4
+  title: "黒井しば at:YouTube Minecraft、歌"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 16
+    min: 32
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube スーパーマリオコレクション"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 18
+    min: 45
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -422,16 +464,16 @@
   uri: 
 - date: 2019-02-18
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "宇志海いちご＆剣持刀也＆葛葉＆椎名唯華 at:にじさんじ公式YouTubeチャンネル 第12回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-02-18
   time:
-    hour: 20
+    hour: 21
     min: 0
-  title: "宇志海いちご＆剣持刀也＆葛葉＆椎名唯華 at:にじさんじ公式YouTubeチャンネル 第12回「にじさんじMIX UP!!」"
+  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -494,7 +536,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
+  title: "?～ 笹木咲 at:?"
   end_time: 
   uri: 
 - date: 2019-02-18
