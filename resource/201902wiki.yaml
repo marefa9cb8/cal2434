@@ -1,9 +1,30 @@
 ---
+- date: 2019-02-28
+  time:
+    hour: 0
+    min: 0
+  title: "ドーラ at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube 擬似ASMR"
+  end_time: 
+  uri: 
 - date: 2019-02-27
   time:
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 夕やスミ"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube 歌(VOCALOID縛り)"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -16,6 +37,13 @@
 - date: 2019-02-26
   time: 
   title: "？時？分(昼)～ 出雲霞＆？？？ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 0
+    min: 0
+  title: "ドーラ at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-02-25
@@ -226,7 +254,7 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube 麻雀"
+  title: "ドーラ at:YouTube 麻雀 or Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -317,21 +345,28 @@
   time:
     hour: 0
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる)＆周防パトラ at:各々のYouTubeチャンネル(でびでび・でびる：でびでび・でびる) Apex Legends"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる)＆周防パトラ at:鷹宮リオン、でびでび・でびる(1st)のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 0
+    min: 42
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-19
   time:
     hour: 1
-    min: 0
+    min: 42
   title: "黒井しば＆さくらみこ at:YouTube Apex Legends ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-19
   time:
-    hour: 15
+    hour: 14
     min: 0
-  title: "瀬戸美夜子 at:YouTube Rusty Lake:Roots ※リマインダーより"
+  title: "舞元啓介 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -346,6 +381,13 @@
     hour: 20
     min: 0
   title: "家長むぎ at:YouTube Five Nights at Freddy's"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 20
+    min: 0
+  title: "闇夜乃モルル at:YouTube 冬服お披露目 ※開始時刻：Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-19
