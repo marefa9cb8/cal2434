@@ -57,6 +57,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 0
+    min: 0
+  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:? Minecraft ※予定表より"
@@ -80,7 +87,7 @@
   time:
     hour: 21
     min: 0
-  title: "物述有栖＆すーぱーそに子 at:すーぱーそに子のYouTubeチャンネル＆REALITY ※お便り募集（～21日正午）"
+  title: "すーぱーそに子＆ゲスト：物述有栖 at:すーぱーそに子のYouTubeチャンネル＆REALITY ※お便り募集（～21日正午）"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -226,6 +233,13 @@
   uri: 
 - date: 2019-02-20
   time:
+    hour: 18
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
     hour: 19
     min: 0
   title: "瀬戸美夜子 at:YouTube Portal"
@@ -258,7 +272,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube Minecraft(にじさんじサーバー探検+お知らせ)"
+  title: "ドーラ at:YouTube Minecraft(にじさんじサーバーお知らせ+探訪?)"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -305,6 +319,13 @@
   time:
     hour: 20
     min: 0
+  title: "シスター・クレア＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル(でびでびチャンネル) お悩み相談室"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
@@ -334,6 +355,11 @@
     hour: 22
     min: 30
   title: "小野町春香 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time: 
+  title: "？時？分～ 八朔ゆず＆でびでび・でびる at:YouTube 「スウィーニー・トッド フリート街の悪魔の理髪師」鑑賞会"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -422,6 +448,20 @@
   uri: 
 - date: 2019-02-18
   time:
+    hour: 13
+    min: 47
+  title: "瀬戸美夜子 at:YouTube 作業雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 15
+    min: 0
+  title: "渋谷ハジメ＆白百合リリィ＆紗樹万咲 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
     hour: 15
     min: 26
   title: "静凛 at:YouTube バイオハザード RE:2"
@@ -445,6 +485,13 @@
   time:
     hour: 18
     min: 0
+  title: 17時50分～ 渋谷ハジメ at:YouTube Magic:The Gathering Arena
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 18
+    min: 0
   title: "本間ひまわり at:YouTube スーパーマリオコレクション"
   end_time: 
   uri: 
@@ -459,7 +506,14 @@
   time:
     hour: 19
     min: 0
-  title: "緑仙 at:? 疑似ライブ ※予定表より"
+  title: "緑仙 at:YouTube 歌(擬似ライブ)"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 19
+    min: 0
+  title: "童田明治 at:YouTube 歌(アニソン縛り)"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -467,6 +521,13 @@
     hour: 20
     min: 0
   title: "宇志海いちご＆剣持刀也＆葛葉＆椎名唯華 at:にじさんじ公式YouTubeチャンネル 第12回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 20
+    min: 5
+  title: "渋谷兄弟(渋谷ハジメ＆渋谷ハル)＆花芽姉妹(花芽すみれ＆花芽なずな) at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -501,7 +562,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube 雑談"
+  title: "ドーラ at:YouTube バレンタインお手紙未完分紹介、雑談"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -522,14 +583,14 @@
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube 雑談"
+  title: "神田笑一 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-18
   time:
-    hour: 23
-    min: 0
-  title: "える at:YouTube ※Twitterネームより"
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -540,13 +601,20 @@
   end_time: 
   uri: 
 - date: 2019-02-18
-  time: 
-  title: "？時？分(夜)～ 闇夜乃モルル at:?"
+  time:
+    hour: 23
+    min: 30
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-18
   time: 
-  title: "？時？分～ 童田明治 at:YouTube"
+  title: "？時？分～ 叶＆シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time: 
+  title: "？時？分(夜)～ 闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2019-02-17
