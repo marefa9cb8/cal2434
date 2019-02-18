@@ -13,6 +13,11 @@
   title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#8"
   end_time: 
   uri: 
+- date: 2019-02-26
+  time: 
+  title: "？時？分(昼)～ 出雲霞＆？？？ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
 - date: 2019-02-25
   time:
     hour: 6
@@ -298,6 +303,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 0
+    min: 0
   title: "社築 at:YouTube 5万人記念、はかどるやしろコラボ振り返り"
   end_time: 
   uri: 
@@ -305,7 +317,21 @@
   time:
     hour: 0
     min: 0
-  title: "黒井しば＆さくらみこ at:? Apex Legends ※2/18の黒井しばの配信で告知"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる)＆周防パトラ at:各々のYouTubeチャンネル(でびでび・でびる：でびでび・でびる) Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば＆さくらみこ at:YouTube Apex Legends ※0時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 15
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Rusty Lake:Roots ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -313,6 +339,13 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 御噺企画発表会②"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 20
+    min: 0
+  title: "家長むぎ at:YouTube Five Nights at Freddy's"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -347,6 +380,13 @@
   time:
     hour: 22
     min: 0
+  title: "八朔ゆず＆でびでび・でびる at:YouTube 「スウィーニー・トッド フリート街の悪魔の理髪師」鑑賞会"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 22
+    min: 0
   title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
@@ -358,8 +398,10 @@
   end_time: 
   uri: 
 - date: 2019-02-19
-  time: 
-  title: "？時？分～ 八朔ゆず＆でびでび・でびる at:YouTube 「スウィーニー・トッド フリート街の悪魔の理髪師」鑑賞会"
+  time:
+    hour: 23
+    min: 30
+  title: "月ノ美兎 at:YouTube アマガミ"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -492,7 +534,7 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube スーパーマリオコレクション"
+  title: "本間ひまわり at:YouTube スーパーマリオコレクション(スーパーマリオブラザーズ3)"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -533,8 +575,8 @@
 - date: 2019-02-18
   time:
     hour: 21
-    min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
+    min: 10
+  title: "宇志海いちご＆剣持刀也＆葛葉＆椎名唯華 at:宇志海いちごのYouTubeチャンネル 第12回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -562,6 +604,20 @@
   time:
     hour: 22
     min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 腐女子Vtuberが男子アイドルグループのプロデューサーになったった♡"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆シスター・クレア at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:YouTube バレンタインお手紙未完分紹介、雑談"
   end_time: 
   uri: 
@@ -569,14 +625,21 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube"
+  title: "でびでび・でびる at:YouTube(でびでび・でびる) Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-18
   time:
     hour: 22
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-02-18
+  time:
+    hour: 22
+    min: 15
+  title: "闇夜乃モルル at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-02-18
@@ -597,24 +660,21 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 笹木咲 at:?"
+  title: "笹木咲 at:YouTube ヨッシークラフトワールド(体験版)"
   end_time: 
   uri: 
 - date: 2019-02-18
   time:
     hour: 23
-    min: 30
-  title: "える at:YouTube"
+    min: 0
+  title: "緑仙 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-02-18
-  time: 
-  title: "？時？分～ 叶＆シスター・クレア at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-02-18
-  time: 
-  title: "？時？分(夜)～ 闇夜乃モルル at:?"
+  time:
+    hour: 23
+    min: 32
+  title: "える at:YouTube 雑談、プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2019-02-17
