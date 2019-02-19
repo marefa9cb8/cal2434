@@ -408,7 +408,28 @@
   time:
     hour: 14
     min: 0
+  title: "神田笑一 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 14
+    min: 0
   title: "舞元啓介 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 15
+    min: 14
+  title: "叶＆でびでび・でびる＆ふぇありす at:叶、でびでび・でびるのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 16
+    min: 56
+  title: "緑仙 at:ツイキャス 料理"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -416,6 +437,27 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 御噺企画発表会②"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 17
+    min: 30
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 17
+    min: 45
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-19
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube wiipartyU"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -429,7 +471,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube 冬服お披露目 ※開始時刻：Twitterネーム＆リマインダーより"
+  title: "闇夜乃モルル at:YouTube 冬服お披露目"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -437,13 +479,6 @@
     hour: 20
     min: 0
   title: "シスター・クレア＆でびでび・でびる at:でびでび・でびるのYouTubeチャンネル(でびでびチャンネル) お悩み相談室"
-  end_time: 
-  uri: 
-- date: 2019-02-19
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-19
@@ -471,14 +506,14 @@
   time:
     hour: 21
     min: 30
-  title: "闇夜乃モルル at:YouTube お絵描き(ピクトセンス) ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube お絵描き(ピクトセンス)"
   end_time: 
   uri: 
 - date: 2019-02-19
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦 ※リマインダーより"
+  title: "社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦"
   end_time: 
   uri: 
 - date: 2019-02-19
