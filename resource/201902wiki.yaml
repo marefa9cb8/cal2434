@@ -329,6 +329,13 @@
   time:
     hour: 19
     min: 0
+  title: "椎名唯華＆ミリンケーキ at:? Wii Fit U"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 19
+    min: 0
   title: "童田明治 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -337,6 +344,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 20
+    min: 30
+  title: "シスター・クレア at:YouTube 「アニゲラ!ディドゥーン!!!」同時視聴 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -386,6 +400,13 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube 麻雀"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -604,7 +625,7 @@
   time:
     hour: 22
     min: 0
-  title: "叶＆ロボ子さん＆はかりかんな at:? Apex Legends"
+  title: "叶＆ロボ子さん＆はかりかんな at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -632,7 +653,7 @@
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -667,8 +688,22 @@
 - date: 2019-02-20
   time:
     hour: 23
+    min: 28
+  title: "渋谷ハジメ＆屍鬼＆Icotsu at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 23
     min: 50
   title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 23
+    min: 53
+  title: "でびでび・でびる＆夢月ロア at:でびでび・でびる(2nd)のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-20
