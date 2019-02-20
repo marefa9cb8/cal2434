@@ -301,7 +301,21 @@
   time:
     hour: 0
     min: 30
-  title: "黒井しば＆さくらみこ＆友人A(えーちゃん) at:?"
+  title: "黒井しば＆さくらみこ＆ゲスト：友人A(えーちゃん) at:さくらみこのYouTubeチャンネル 第1回 しばみこれぃでぃお、Gang Beasts"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -411,9 +425,51 @@
   uri: 
 - date: 2019-02-20
   time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 15
+    min: 30
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 15
+    min: 45
+  title: "瀬戸美夜子 at:YouTube 雑談、食レポ"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 15
+    min: 53
+  title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 16
+    min: 30
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
     hour: 17
     min: 0
-  title: "鈴木勝 at:YouTube"
+  title: 24分～ 鈴木勝 at:YouTube(2nd) Wii Fit Plus
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -448,6 +504,13 @@
   time:
     hour: 19
     min: 0
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 19
+    min: 0
   title: "瀬戸美夜子 at:YouTube Portal"
   end_time: 
   uri: 
@@ -469,7 +532,21 @@
   time:
     hour: 20
     min: 0
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 20
+    min: 0
   title: "ジョー・力一 at:YouTube プレミア公開 ジョー・力一のTikTok動画まとめ"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 20
+    min: 30
+  title: "森中花咲 at:YouTube プレミア公開 ガクくんがはげちゃう…"
   end_time: 
   uri: 
 - date: 2019-02-20
@@ -543,6 +620,25 @@
     min: 0
   title: "社築＆舞元啓介＆ベルモンド・バンデラス＆夢追翔＆FAMS(白上フブキ＆百鬼あやめ＆大空スバル＆大神ミオ) at:大空スバルのYouTubeチャンネル
     にじホロイケボ選手権"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time:
+    hour: 24
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌"
+  end_time: 
+  uri: 
+- date: 2019-02-20
+  time: 
+  title: "？時？分～ 葛葉 at:YouTube 6万人記念"
   end_time: 
   uri: 
 - date: 2019-02-20
