@@ -259,7 +259,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ＆鈴鹿詩子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -348,9 +348,23 @@
   uri: 
 - date: 2019-02-21
   time:
+    hour: 3
+    min: 5
+  title: "鷹宮リオン at:YouTube クラシック鑑賞 ラフマニノフ編"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 3
+    min: 32
+  title: "椎名唯華＆花畑チャイカ＆卯月コウ＆ジョー・力一 at:花畑チャイカのYouTubeチャンネル 大喜利勉強会"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
     hour: 19
     min: 0
-  title: "椎名唯華＆ミリンケーキ at:? Wii Fit U"
+  title: "椎名唯華＆ミリンケーキ at:YouTube Wii Fit U"
   end_time: 
   uri: 
 - date: 2019-02-21
