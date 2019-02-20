@@ -260,6 +260,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190221T020000
+SUMMARY:ベルモンド・バンデラス at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190221T200000
 SUMMARY:える at:YouTube ※Twitterプロフィール欄より
 URL:
@@ -447,7 +453,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190220T230000
-SUMMARY:社築＆舞元啓介＆夢追翔＆FAMS(白上フブキ＆百鬼あやめ＆大空スバル＆大神ミオ) at:大空スバルのYouTubeチャンネル イケボ対決
+SUMMARY:社築＆舞元啓介＆ベルモンド・バンデラス＆夢追翔＆FAMS(白上フブキ＆百鬼あやめ＆大空スバル＆大神ミオ) at:大空スバルのYouTubeチャンネル にじホロイケボ選手権
 URL:
 DESCRIPTION:
 END:VEVENT
