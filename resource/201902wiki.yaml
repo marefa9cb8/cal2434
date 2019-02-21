@@ -236,6 +236,11 @@
   title: "？時？分(深夜)～ ドーラ at:? Minecraft?"
   end_time: 
   uri: 
+- date: 2019-02-23
+  time: 
+  title: "？時？分(昼)～ 雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-02-22
   time:
     hour: 0
@@ -294,16 +299,16 @@
   uri: 
 - date: 2019-02-22
   time:
-    hour: 18
+    hour: 17
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "緑仙 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-22
   time:
     hour: 18
     min: 0
-  title: "緑仙 at:ツイキャス ※予定表より"
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -318,13 +323,6 @@
     hour: 20
     min: 0
   title: "闇夜乃モルル at:YouTube お絵描き ※Twitterネーム＆リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-02-22
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-22
