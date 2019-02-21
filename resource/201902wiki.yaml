@@ -230,7 +230,7 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆魔界ノりりむ＆椎名唯華＆花畑チャイカ＆でびでび・でびる at:? 伝説対決 -Arena of Valor-"
+  title: "渋谷ハジメ＆魔界ノりりむ＆椎名唯華＆花畑チャイカ＆でびでび・でびる at:渋谷ハジメのYouTubeチャンネル 伝説対決 -Arena of Valor-"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -369,6 +369,20 @@
   uri: 
 - date: 2019-02-21
   time:
+    hour: 14
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 16
+    min: 30
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
     hour: 19
     min: 0
   title: "椎名唯華＆ミリンケーキ at:YouTube Wii Fit U"
@@ -407,7 +421,7 @@
   time:
     hour: 20
     min: 30
-  title: "シスター・クレア at:YouTube 「アニゲラ!ディドゥーン!!!」同時視聴 ※開始時刻：リマインダーより"
+  title: "シスター・クレア at:YouTube 「アニゲラ!ディドゥーン!!!」同時視聴"
   end_time: 
   uri: 
 - date: 2019-02-21

@@ -201,7 +201,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190222T200000
-SUMMARY:渋谷ハジメ＆魔界ノりりむ＆椎名唯華＆花畑チャイカ＆でびでび・でびる at:? 伝説対決 -Arena of Valor-
+SUMMARY:渋谷ハジメ＆魔界ノりりむ＆椎名唯華＆花畑チャイカ＆でびでび・でびる at:渋谷ハジメのYouTubeチャンネル 伝説対決 -Arena of Valor-
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -320,6 +320,18 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190221T140000
+SUMMARY:シスター・クレア at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190221T163000
+SUMMARY:鷹宮リオン at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190221T190000
 SUMMARY:椎名唯華＆ミリンケーキ at:YouTube Wii Fit U
 URL:
@@ -351,7 +363,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190221T203000
-SUMMARY:シスター・クレア at:YouTube 「アニゲラ!ディドゥーン!!!」同時視聴 ※開始時刻：リマインダーより
+SUMMARY:シスター・クレア at:YouTube 「アニゲラ!ディドゥーン!!!」同時視聴
 URL:
 DESCRIPTION:
 END:VEVENT
