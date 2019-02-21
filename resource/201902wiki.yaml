@@ -13,6 +13,11 @@
   title: "ドーラ at:YouTube 擬似ASMR"
   end_time: 
   uri: 
+- date: 2019-02-28
+  time: 
+  title: "？時？分～ 桜凛月 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-02-27
   time:
     hour: 18
@@ -233,6 +238,13 @@
   uri: 
 - date: 2019-02-22
   time:
+    hour: 0
+    min: 0
+  title: "飛鳥ひな at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
     hour: 1
     min: 0
   title: "ジョー・力一 at:YouTube 雑談"
@@ -334,7 +346,7 @@
   time:
     hour: 22
     min: 30
-  title: "出雲霞 at:YouTube 2万人記念"
+  title: "出雲霞 at:YouTube 2万人記念(イカスミパーティ)"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -356,6 +368,13 @@
     hour: 23
     min: 0
   title: "?～ 剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 23
+    min: 30
+  title: "出雲霞 at:YouTube バイノーラル添い寝"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -503,14 +522,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆鈴谷アキ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-02-21
-  time:
-    hour: 21
-    min: 0
-  title: "黒ノ火廻(叶＆本間ひまわり＆葛葉) at:? Apex Legends"
+  title: "渋谷ハジメ＆鈴谷アキ at:両名のYouTubeチャンネル(鈴谷アキ：2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -531,7 +543,7 @@
   time:
     hour: 21
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -552,7 +564,21 @@
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube 早口言葉"
+  title: "鈴鹿詩子 at:YouTube プレミア公開 ゲーム音痴初心者の死に過ぎMincraft #1"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube だいふくさんといちご、早口言葉"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 21
+    min: 0
+  title: 22時49分～ 黒ノ火廻(叶＆本間ひまわり＆葛葉) at:各々のYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -566,7 +592,7 @@
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "花畑チャイカ at:YouTube マリオストーリー"
   end_time: 
   uri: 
 - date: 2019-02-21
@@ -574,6 +600,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-21
+  time:
+    hour: 23
+    min: 30
+  title: "でびでび・でびる＆夢月ロア at:でびでび・でびる(2nd)のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-20
