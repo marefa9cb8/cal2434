@@ -173,6 +173,13 @@
   uri: 
 - date: 2019-02-24
   time:
+    hour: 21
+    min: 0
+  title: "闇夜乃モルル at:YouTube お絵描き(ピクトセンス) ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキ(2nd)のYouTubeチャンネル まほすずラジオ #15"
@@ -196,7 +203,7 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:? ※リマインダーより"
+  title: "夕陽リリ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -215,9 +222,37 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 1
+    min: 30
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 2
+    min: 2
+  title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 2
+    min: 18
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:? Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 13
+    min: 0
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 PlayStation 2版 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -244,6 +279,13 @@
 - date: 2019-02-23
   time:
     hour: 17
+    min: 0
+  title: "夢追翔 at:YouTube 「走れメロス」朗読ライブ"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 17
     min: 30
   title: "森中花咲 at:YouTube 7万人記念(歌)"
   end_time: 
@@ -264,6 +306,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 19
+    min: 0
+  title: "?～ 竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -273,7 +322,14 @@
   time:
     hour: 20
     min: 0
-  title: "叶＆葛葉 at:?"
+  title: "夕陽リリ＆森中花咲 at:森中花咲のYouTubeチャンネル Wii Sports"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 20
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル ゲーミングデバイス紹介 第二弾
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -306,9 +362,23 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 21
+    min: 30
+  title: "樋口楓 at:YouTube 恋愛相談(未完分) ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 22
     min: 0
   title: "社築 at:YouTube スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -320,17 +390,17 @@
   uri: 
 - date: 2019-02-23
   time: 
-  title: "？時？分～ 夕陽リリ＆森中花咲 at:?"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time: 
   title: "？時？分(夜)～ 叶＆ふくやマスター at:?"
   end_time: 
   uri: 
 - date: 2019-02-23
   time: 
   title: "？時？分(深夜)～ ドーラ at:? Minecraft?"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time: 
+  title: "？時？分(昼)～ 神田笑一 at:YouTube Anthem"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -583,14 +653,14 @@
   time:
     hour: 23
     min: 30
-  title: "鈴木勝 at:YouTube(2nd)"
+  title: 41分～ 出雲霞 at:YouTube バイノーラル添い寝
   end_time: 
   uri: 
 - date: 2019-02-22
   time:
     hour: 23
     min: 30
-  title: 41分～ 出雲霞 at:YouTube バイノーラル添い寝
+  title: 55分～ 鈴木勝 at:YouTube(2nd)
   end_time: 
   uri: 
 - date: 2019-02-21
