@@ -125,7 +125,14 @@
   time:
     hour: 1
     min: 0
-  title: "町田ちま at:YouTube 雑談、歌"
+  title: "家長むぎ at:YouTube Five Nights at Freddy's ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 1
+    min: 0
+  title: "町田ちま at:YouTube 雑談、歌 ※中止"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -147,6 +154,14 @@
     hour: 16
     min: 0
   title: "ドーラ＆出雲霞＆鈴木勝＆ベルモンド・バンデラス＆夢追翔 at:夢追翔のYouTubeチャンネル 廃墟セッション(SoundHorizon)"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 20
+    min: 0
+  title: "月ノ美兎＆える＆樋口楓＆家長むぎ＆夕陽リリ＆文野環＆伏見ガク＆剣持刀也＆森中花咲＆ドーラ＆シスター・クレア＆神田笑一＆成瀬鳴 at:文野環のYouTubeチャンネル
+    ポテチパーティ"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -175,16 +190,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-02-24
-  time: 
-  title: "？時？分(夜)～ える＆？？？ at:? ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-02-24
-  time: 
-  title: "？時？分～ 森中花咲＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -248,6 +253,13 @@
     hour: 18
     min: 0
   title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 19
+    min: 0
+  title: "ドーラ＆童田明治 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -458,7 +470,7 @@
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube アマガミ #4 ※02/19配信アーカイブより"
+  title: "月ノ美兎 at:YouTube アマガミ #4"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -501,7 +513,7 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:? 半年記念"
+  title: "飛鳥ひな at:YouTube 半年記念"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -522,7 +534,7 @@
   time:
     hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -557,14 +569,28 @@
   time:
     hour: 23
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube Anthem"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 23
+    min: 8
+  title: "静凛 at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-02-22
   time:
     hour: 23
     min: 30
-  title: "出雲霞 at:YouTube バイノーラル添い寝"
+  title: "鈴木勝 at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 23
+    min: 30
+  title: 41分～ 出雲霞 at:YouTube バイノーラル添い寝
   end_time: 
   uri: 
 - date: 2019-02-21
