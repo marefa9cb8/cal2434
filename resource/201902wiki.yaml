@@ -27,7 +27,7 @@
   uri: 
 - date: 2019-02-28
   time: 
-  title: 2期生森中花咲　at:YouTube　オフコラボ
+  title: "？時？分～ 森中花咲 at:YouTube オフコラボ"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -184,7 +184,7 @@
   uri: 
 - date: 2019-02-24
   time: 
-  title: "？時？分～ 森中花咲＆？？？at:?　何らかのコラボ企画に参加。"
+  title: "？時？分～ 森中花咲＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -199,13 +199,6 @@
     hour: 0
     min: 0
   title: "笹木咲＆椎名唯華＆舞元啓介＆ベルモンド・バンデラス at:各々のYouTubeチャンネル Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time:
-    hour: 0
-    min: 0
-  title: "シスター・クレア at:YouTube おやすみバイノーラル"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -238,9 +231,23 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 20
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 20
+    min: 0
+  title: "叶＆葛葉 at:?"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -274,6 +281,11 @@
 - date: 2019-02-23
   time: 
   title: "？時？分～ 夕陽リリ＆森中花咲 at:?"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time: 
+  title: "？時？分(夜)～ 叶＆ふくやマスター at:?"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -351,6 +363,20 @@
   uri: 
 - date: 2019-02-22
   time:
+    hour: 15
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 歌(ねこ語)"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 16
+    min: 0
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
     hour: 17
     min: 0
   title: "緑仙 at:YouTube Minecraft ※リマインダーより"
@@ -381,7 +407,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube お絵描き ※Twitterネーム＆リマインダーより"
+  title: "闇夜乃モルル at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -408,13 +434,6 @@
   uri: 
 - date: 2019-02-22
   time:
-    hour: 21
-    min: 0
-  title: "叶&SUMOMOXqX(すもも)&DustelBox(ダステル) at:？ Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-02-22
-  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴鹿詩子 at:YouTube Minecraft"
@@ -425,6 +444,13 @@
     hour: 22
     min: 0
   title: "森中花咲 at:YouTube 7万人記念、歌"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆SUMOMOXqX(すもも)＆DustelBox(ダステル) at:？ Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -474,6 +500,20 @@
     hour: 23
     min: 0
   title: "?～ 剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 23
+    min: 0
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-22
