@@ -217,6 +217,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 13
+    min: 0
+  title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ コンビニスイーツ"
@@ -227,6 +234,13 @@
     hour: 16
     min: 0
   title: "鈴鹿詩子 at:YouTube 10万人記念(セリフ読み、歌)"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 17
+    min: 30
+  title: "森中花咲 at:YouTube 7万人記念(歌)"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -280,6 +294,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 23
     min: 0
   title: "剣持刀也 at:YouTube SharpnessRadio"
@@ -298,11 +319,6 @@
 - date: 2019-02-23
   time: 
   title: "？時？分(深夜)～ ドーラ at:? Minecraft?"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time: 
-  title: "？時？分(昼)～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -398,16 +414,30 @@
   uri: 
 - date: 2019-02-22
   time:
-    hour: 19
-    min: 0
-  title: "卯月コウ at:YouTube 猫の日配信"
+    hour: 18
+    min: 31
+  title: "闇夜乃モルル at:YouTube 演奏"
   end_time: 
   uri: 
 - date: 2019-02-22
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時49分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 19
+    min: 0
+  title: "笹木咲 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-02-22
+  time:
+    hour: 19
+    min: 0
+  title: "卯月コウ at:YouTube NEKOPARA Vol. 1"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -421,7 +451,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube お絵描き"
+  title: "闇夜乃モルル at:YouTube お絵描き ※中止"
   end_time: 
   uri: 
 - date: 2019-02-22
@@ -457,14 +487,14 @@
   time:
     hour: 22
     min: 0
-  title: "森中花咲 at:YouTube 7万人記念、歌"
+  title: "森中花咲 at:YouTube 7万人記念、歌 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-02-22
   time:
     hour: 22
     min: 0
-  title: "叶＆SUMOMOXqX(すもも)＆DustelBox(ダステル) at:？ Apex Legends"
+  title: "叶＆SUMOMOXqX(すもも)＆DustelBox(ダステル) at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-22
