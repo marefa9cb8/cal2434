@@ -121,6 +121,13 @@
   title: "瀬戸美夜子 at:YouTube Rusty Lake:Roots"
   end_time: 
   uri: 
+- date: 2019-02-25
+  time:
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
 - date: 2019-02-24
   time:
     hour: 0
@@ -304,6 +311,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 12
+    min: 5
+  title: "宇志海いちご at:YouTube #コンパス【戦闘摂理解析システム】"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 13
     min: 0
   title: "闇夜乃モルル at:YouTube スーパーマリオワールド"
@@ -313,7 +327,21 @@
   time:
     hour: 13
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: "雨森小夜 at:YouTube 雑談、質問返答"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 13
+    min: 15
+  title: "宇志海いちご at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 13
+    min: 30
+  title: "神田笑一 at:YouTube Anthem"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -321,6 +349,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ コンビニスイーツ"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 15
+    min: 0
+  title: "轟京子 at:YouTube RULE of ROSE ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -409,13 +444,6 @@
   uri: 
 - date: 2019-02-23
   time:
-    hour: 20
-    min: 0
-  title: "轟京子 at:YouTube RULE of ROSE"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time:
     hour: 21
     min: 0
   title: "すーぱーそに子＆ゲスト：物述有栖 at:すーぱーそに子のYouTubeチャンネル＆REALITY ※お便り募集（～21日正午）"
@@ -426,6 +454,13 @@
     hour: 21
     min: 0
   title: "赤羽葉子 at:YouTube World of Warships"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube メイド イン ワリオ"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -466,11 +501,6 @@
 - date: 2019-02-23
   time: 
   title: "？時？分(深夜)～ ドーラ at:? Minecraft?"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time: 
-  title: "？時？分(昼)～ 神田笑一 at:YouTube Anthem"
   end_time: 
   uri: 
 - date: 2019-02-22
