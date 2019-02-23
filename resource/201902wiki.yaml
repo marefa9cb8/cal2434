@@ -72,6 +72,13 @@
   title: "渋谷ハジメ＆皇噛ユカリ at:YouTube 渋谷カフェ：つなげようお客様の輪 第25回"
   end_time: 
   uri: 
+- date: 2019-02-26
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:?"
+  end_time: 
+  uri: 
 - date: 2019-02-25
   time:
     hour: 0
@@ -118,14 +125,21 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一 at:? 舞元力一 #8"
+  title: "勇気ちひろ＆える at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #8"
   end_time: 
   uri: 
 - date: 2019-02-24
   time:
     hour: 1
     min: 0
-  title: "家長むぎ at:YouTube Five Nights at Freddy's ※Twitterネームより"
+  title: "家長むぎ at:YouTube Five Nights at Freddy's"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -133,6 +147,13 @@
     hour: 1
     min: 0
   title: "町田ちま at:YouTube 雑談、歌 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 2
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -147,6 +168,20 @@
     hour: 10
     min: 0
   title: "出雲霞 at:YouTube 御噺企画発表会③"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 12
+    min: 0
+  title: "レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ at:レンチのYouTubeチャンネル Minecraft(探検!!仮想マイクラ部)"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -199,6 +234,11 @@
   title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
+- date: 2019-02-24
+  time: 
+  title: "？時？分～ 椎名唯華＆花畑チャイカ at:YouTube レジスタンスラジオ"
+  end_time: 
+  uri: 
 - date: 2019-02-23
   time:
     hour: 0
@@ -243,16 +283,30 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 9
+    min: 35
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 10
     min: 0
-  title: "緑仙 at:? Minecraft ※予定表より"
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 10
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-23
   time:
     hour: 13
     min: 0
-  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 PlayStation 2版 ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube スーパーマリオワールド"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -308,6 +362,13 @@
   time:
     hour: 19
     min: 0
+  title: "魔界ノりりむ at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 19
+    min: 0
   title: "ドーラ＆童田明治 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -315,7 +376,14 @@
   time:
     hour: 19
     min: 0
-  title: "?～ 竜胆尊 at:YouTube"
+  title: "緑仙 at:? 歌 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 19
+    min: 0
+  title: "竜胆尊 at:YouTube バイノーラルマッサージ・耳かき"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -344,13 +412,6 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube RULE of ROSE"
-  end_time: 
-  uri: 
-- date: 2019-02-23
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:? Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -396,8 +457,10 @@
   end_time: 
   uri: 
 - date: 2019-02-23
-  time: 
-  title: "？時？分(夜)～ 叶＆ふくやマスター at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "ふくやマスター＆ゲスト：叶 at:ふくやマスターのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-02-23
