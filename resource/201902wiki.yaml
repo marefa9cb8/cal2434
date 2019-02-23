@@ -139,14 +139,14 @@
   time:
     hour: 0
     min: 0
-  title: "勇気ちひろ＆える at:YouTube Minecraft ※リマインダーより"
+  title: "勇気ちひろ＆える at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-24
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #8"
+  title: "舞元啓介＆ジョー・力一 at:ジョー・力一のYouTubeチャンネル 舞元力一 #8"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -441,7 +441,7 @@
   time:
     hour: 19
     min: 0
-  title: "叶 at:YouTube プレミア公開 【PUBG】雪山の洞窟に絶対行きたい男達【まとめ】"
+  title: "叶 at:YouTube プレミア公開 雪山の洞窟に絶対行きたい男達"
   end_time: 
   uri: 
 - date: 2019-02-23
@@ -495,6 +495,13 @@
   uri: 
 - date: 2019-02-23
   time:
+    hour: 20
+    min: 38
+  title: "渋谷ハジメ＆アベレージ＆桃源キョウヤ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
     hour: 21
     min: 0
   title: "すーぱーそに子＆ゲスト：物述有栖 at:すーぱーそに子のYouTubeチャンネル＆REALITY ※お便り募集（～21日正午）"
@@ -532,28 +539,49 @@
   time:
     hour: 22
     min: 0
-  title: "ヒモと財布(遠北千南＆矢車りね) at:? ※23時から予定変更"
+  title: "ヒモと財布(遠北千南＆矢車りね) at:両名のYouTubeチャンネル Minecraft ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-23
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 22
+    min: 30
+  title: "宇志海いちご＆久遠千歳 at:宇志海いちごのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 22
+    min: 30
+  title: "神田笑一 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-23
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:YouTube SharpnessRadio"
+  title: "ふくやマスター＆ゲスト：叶 at:ふくやマスターのYouTubeチャンネル 会食、雑談"
   end_time: 
   uri: 
 - date: 2019-02-23
   time:
     hour: 23
-    min: 0
-  title: "ふくやマスター＆ゲスト：叶 at:ふくやマスターのYouTubeチャンネル"
+    min: 30
+  title: "剣持刀也 at:YouTube SharpnessRadio ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-23
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-02-23
