@@ -284,6 +284,20 @@
   uri: 
 - date: 2019-02-24
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆4週連続スペシャル スーパー戦隊最強バトル!!感想会"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 11
+    min: 15
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
     hour: 12
     min: 0
   title: "笹木咲＆椎名唯華＆花畑チャイカ＆緑仙 at:椎名唯華のYouTubeチャンネル レジスタンスラジオSP"
@@ -313,6 +327,13 @@
     hour: 16
     min: 0
   title: "ドーラ＆出雲霞＆鈴木勝＆ベルモンド・バンデラス＆夢追翔 at:夢追翔のYouTubeチャンネル 廃墟セッション(SoundHorizon)"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 19
+    min: 0
+  title: "ジョー・力一 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-02-24
