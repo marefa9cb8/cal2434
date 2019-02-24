@@ -57,7 +57,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190226T120000
-SUMMARY:雪汝＆出雲霞＆？？？ at:出雲霞のYouTubeチャンネル Apex Legends
+SUMMARY:闇夜乃モルル＆雪汝＆出雲霞 at:出雲霞のYouTubeチャンネル Apex Legends
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -273,19 +273,25 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190224T120000
-SUMMARY:レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ at:レンチのYouTubeチャンネル Minecraft(探検!!仮想マイクラ部)
+SUMMARY:レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ＆ぴろぱる at:レンチのYouTubeチャンネル(本配信) Minecraft(探検!!仮想マイクラ部)
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190224T130000
-SUMMARY:勇気ちひろ at:YouTube Minecraft ※リマインダーより
+DTSTART;TZID=Asia/Tokyo:20190224T130500
+SUMMARY:勇気ちひろ at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190224T160000
 SUMMARY:ドーラ＆出雲霞＆鈴木勝＆ベルモンド・バンデラス＆夢追翔 at:夢追翔のYouTubeチャンネル 廃墟セッション(SoundHorizon)
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190224T180000
+SUMMARY:町田ちま at:YouTube プレミア公開 フリージア/Uru 歌ってみた ※リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -321,7 +327,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190224T220000
-SUMMARY:社築 at:YouTube beatmaniaⅡDX INFINITAS ※リマインダーより
+SUMMARY:本間ひまわり at:YouTube Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190224T220000
+SUMMARY:社築 at:YouTube beatmaniaⅡDX INFINITAS
 URL:
 DESCRIPTION:
 END:VEVENT

@@ -62,7 +62,7 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝＆出雲霞＆？？？ at:出雲霞のYouTubeチャンネル Apex Legends"
+  title: "闇夜乃モルル＆雪汝＆出雲霞 at:出雲霞のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-26
@@ -312,14 +312,14 @@
   time:
     hour: 12
     min: 0
-  title: "レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ at:レンチのYouTubeチャンネル Minecraft(探検!!仮想マイクラ部)"
+  title: "レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ＆ぴろぱる at:レンチのYouTubeチャンネル(本配信) Minecraft(探検!!仮想マイクラ部)"
   end_time: 
   uri: 
 - date: 2019-02-24
   time:
     hour: 13
-    min: 0
-  title: "勇気ちひろ at:YouTube Minecraft ※リマインダーより"
+    min: 5
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -327,6 +327,13 @@
     hour: 16
     min: 0
   title: "ドーラ＆出雲霞＆鈴木勝＆ベルモンド・バンデラス＆夢追翔 at:夢追翔のYouTubeチャンネル 廃墟セッション(SoundHorizon)"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 18
+    min: 0
+  title: "町田ちま at:YouTube プレミア公開 フリージア/Uru 歌ってみた ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -369,7 +376,14 @@
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube beatmaniaⅡDX INFINITAS ※リマインダーより"
+  title: "本間ひまわり at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube beatmaniaⅡDX INFINITAS"
   end_time: 
   uri: 
 - date: 2019-02-24
