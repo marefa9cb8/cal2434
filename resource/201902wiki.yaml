@@ -138,15 +138,22 @@
 - date: 2019-02-25
   time:
     hour: 0
-    min: 0
-  title: "叶 at:YouTube Apex Legends"
+    min: 7
+  title: "椎名唯華 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-25
   time:
     hour: 1
     min: 0
-  title: "静凛 at:YouTube Minecraft"
+  title: 00時15分～ 静凛 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 0
+    min: 0
+  title: 19分～ 叶＆ふぇありす at:YouTube Apex Legends
   end_time: 
   uri: 
 - date: 2019-02-25
