@@ -130,6 +130,13 @@
   uri: 
 - date: 2019-02-25
   time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー"
@@ -175,6 +182,11 @@
     hour: 22
     min: 30
   title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time: 
+  title: "？時？分(夜)～ 月見しずく at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -307,7 +319,7 @@
   time:
     hour: 12
     min: 0
-  title: "笹木咲＆椎名唯華＆花畑チャイカ＆緑仙 at:椎名唯華のYouTubeチャンネル レジスタンスラジオSP"
+  title: "椎名唯華＆花畑チャイカ＆笹木咲＆緑仙 at:椎名唯華のYouTubeチャンネル レジスタンスラジオSP"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -340,7 +352,7 @@
   time:
     hour: 18
     min: 0
-  title: "鈴鹿詩子 at:Mirrativ"
+  title: "鈴鹿詩子 at:Mirrativ アズールレーン"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -361,8 +373,22 @@
   time:
     hour: 20
     min: 0
-  title: "月ノ美兎＆える＆樋口楓＆家長むぎ＆夕陽リリ＆文野環＆伏見ガク＆剣持刀也＆森中花咲＆ドーラ＆シスター・クレア＆神田笑一＆成瀬鳴 at:文野環のYouTubeチャンネル
-    ポテチパーティ"
+  title: "叶＆Ruytv＆SPYGEA at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 20
+    min: 0
+  title: 12分～ 月ノ美兎＆える＆樋口楓＆家長むぎ＆夕陽リリ＆文野環＆伏見ガク＆剣持刀也＆森中花咲＆ドーラ＆シスター・クレア＆神田笑一＆成瀬鳴 at:文野環のYouTubeチャンネル
+    ポテチパーティ
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 20
+    min: 50
+  title: "静凛 at:YouTube バイオハザード3 LAST ESCAPE ※21時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -375,8 +401,9 @@
 - date: 2019-02-24
   time:
     hour: 21
-    min: 30
-  title: "静凛 at:YouTube バイオハザード3 LAST ESCAPE"
+    min: 20
+  title: "叶＆Ruytv＆Vuelo＆SPYGEA at:Twitch(本配信) PUBG DONCUP SQUAD #18 FPP 『Vikendi』
+    予選2試合目"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -411,7 +438,7 @@
   time:
     hour: 23
     min: 0
-  title: "轟京子 at:YouTube"
+  title: "轟京子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-24
