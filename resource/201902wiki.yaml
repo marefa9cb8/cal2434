@@ -258,14 +258,14 @@
   time:
     hour: 7
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-24
   time:
     hour: 8
     min: 20
-  title: "える at:YouTube スター☆トゥインクルプリキュア実況 ※Twitterネームより"
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況"
   end_time: 
   uri: 
 - date: 2019-02-24
@@ -299,6 +299,13 @@
     hour: 12
     min: 0
   title: "レンチ+ゲスト：ドーラ＆飛鳥ひな＆さくらみこ at:レンチのYouTubeチャンネル Minecraft(探検!!仮想マイクラ部)"
+  end_time: 
+  uri: 
+- date: 2019-02-24
+  time:
+    hour: 13
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-24
