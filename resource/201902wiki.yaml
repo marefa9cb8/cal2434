@@ -167,7 +167,7 @@
   time:
     hour: 2
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  title: 30分～ ベルモンド・バンデラス at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-02-25
@@ -180,8 +180,29 @@
 - date: 2019-02-25
   time:
     hour: 7
+    min: 5
+  title: "魔界ノりりむ at:YouTube TETRIS 99、マリオカート8 デラックス、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆宗谷いちか＆犬山たまき＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-25
@@ -194,8 +215,22 @@
 - date: 2019-02-25
   time:
     hour: 21
+    min: 0
+  title: "シスター・クレア＆緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube みんなでパンパヤ"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 21
+    min: 30
+  title: "闇夜乃モルル at:YouTube お絵描き(ピクトセンス) ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-25
@@ -223,7 +258,14 @@
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube ※Twitterネームより"
+  title: "小野町春香 at:YouTube シロディウス"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-25
