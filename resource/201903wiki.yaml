@@ -79,6 +79,13 @@
   end_time: 
   uri: 
 - date: 2019-03-03
+  time:
+    hour: 23
+    min: 0
+  title: "轟京子 at:YouTube LOKI'sCOORDINATE"
+  end_time: 
+  uri: 
+- date: 2019-03-03
   time: 
   title: "？時？分～ シスター・クレア at:YouTube 企画会議"
   end_time: 
@@ -115,6 +122,13 @@
   time:
     hour: 20
     min: 0
+  title: "叶＆笹木咲＆椎名唯華＆天開司＆ロボ子さん＆ふくやマスター at:椎名唯華のYouTubeチャンネル ワンナイト人狼"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
   end_time: 
   uri: 
@@ -123,6 +137,13 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube Ib"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介＆ジョー・力一+ゲスト：ベルモンド・バンデラス at:YouTube 舞元力一 番外編"
   end_time: 
   uri: 
 - date: 2019-03-01
