@@ -15,6 +15,13 @@
   uri: 
 - date: 2019-02-28
   time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:? Minecraft雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
     hour: 21
     min: 0
   title: "遠北千南 at:YouTube"
@@ -25,6 +32,13 @@
     hour: 22
     min: 0
   title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 22
+    min: 0
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -50,12 +64,12 @@
   uri: 
 - date: 2019-02-28
   time: 
-  title: "？時？分～ 桜凛月 at:YouTube"
+  title: "？時？分～ 森中花咲 at:YouTube オフコラボ"
   end_time: 
   uri: 
 - date: 2019-02-28
   time: 
-  title: "？時？分～ 森中花咲 at:YouTube オフコラボ"
+  title: "？時？分～ 桜凛月 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -67,9 +81,16 @@
   uri: 
 - date: 2019-02-27
   time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:? Minecraft雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
     hour: 21
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "(仮)～ 樋口楓 at:? ※Twitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -184,6 +205,13 @@
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
+- date: 2019-02-26
+  time:
+    hour: 15
+    min: 0
+  title: or18時00分～ シスター・クレア at:YouTube Minecraft
+  end_time: 
+  uri: 
 - date: 2019-02-25
   time:
     hour: 0
@@ -245,6 +273,20 @@
     hour: 12
     min: 0
   title: "雪汝＆宗谷いちか＆犬山たまき＆癒月ちょこ at:宗谷いちか、癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 12
+    min: 50
+  title: "魔界ノりりむ＆葛葉＆歌衣メイカ at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-25
+  time:
+    hour: 14
+    min: 0
+  title: "神田笑一 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-25
@@ -319,12 +361,12 @@
   uri: 
 - date: 2019-02-25
   time: 
-  title: "？時？分(夜)～ 月見しずく at:YouTube"
+  title: "？時？分(夜)～ 舞元啓介 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-25
   time: 
-  title: "？時？分(夜)～ 舞元啓介 at:YouTube Minecraft"
+  title: "？時？分(夜)～ 月見しずく at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-24
