@@ -64,6 +64,13 @@
   title: "飛鳥ひな at:? 誕生日配信"
   end_time: 
   uri: 
+- date: 2019-03-03
+  time:
+    hour: 9
+    min: 30
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-03-01
   time:
     hour: 20
@@ -83,5 +90,12 @@
     hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube お絵描き"
   end_time: 
   uri: 
