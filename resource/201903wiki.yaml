@@ -80,9 +80,23 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #16"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 23
     min: 0
   title: "轟京子 at:YouTube LOKI'sCOORDINATE"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -99,9 +113,21 @@
   uri: 
 - date: 2019-03-02
   time:
+    hour: 16
+    min: 0
+  title: "？？？ at:にじさんじ公式YouTubeチャンネル にじさんじのひ(裏) ※2/25 第13回MIX UP!!にて告知"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time: 
+  title: "(仮)？時？分～ 安土桃 at:? MIX UP!!感想会"
   end_time: 
   uri: 
 - date: 2019-03-01

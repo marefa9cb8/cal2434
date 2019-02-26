@@ -24,7 +24,14 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? Minecraft雑談 ※予定表より"
+  title: "勇気ちひろ＆森中花咲＆？？？ at:にじさんじ公式YouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -78,11 +85,6 @@
   uri: 
 - date: 2019-02-28
   time: 
-  title: "？時？分～ 森中花咲 at:YouTube オフコラボ"
-  end_time: 
-  uri: 
-- date: 2019-02-28
-  time: 
   title: "？時？分～ 桜凛月 at:YouTube"
   end_time: 
   uri: 
@@ -104,7 +106,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? Minecraft雑談 ※予定表より"
+  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -119,6 +121,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube 歌(VOCALOID縛り)"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 30
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -151,7 +160,7 @@
   time:
     hour: 0
     min: 16
-  title: "夕陽リリ at:YouTube Apex Legends"
+  title: "夕陽リリ at:YouTube MIX UP!!反省会、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-26
@@ -187,6 +196,13 @@
     hour: 2
     min: 40
   title: "静凛 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-02-26
+  time:
+    hour: 8
+    min: 52
+  title: "渋谷ハジメ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-02-26
@@ -229,6 +245,13 @@
     hour: 19
     min: 0
   title: "樋口楓＆ギルザレンIII世＆轟京子 at:にじさんじ公式YouTubeチャンネル NEW ERA®デザインコンテスト選考"
+  end_time: 
+  uri: 
+- date: 2019-02-26
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-26
@@ -313,6 +336,13 @@
     hour: 22
     min: 0
   title: "?～ でびでび・でびる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-26
+  time:
+    hour: 22
+    min: 30
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-26
