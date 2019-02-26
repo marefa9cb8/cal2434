@@ -80,6 +80,13 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Undertale"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #16"
@@ -123,6 +130,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube ドキドキ文芸部！"
   end_time: 
   uri: 
 - date: 2019-03-02
