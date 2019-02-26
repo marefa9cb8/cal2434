@@ -3,6 +3,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 0
+    min: 0
   title: "ドーラ at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
@@ -22,9 +29,16 @@
   uri: 
 - date: 2019-02-28
   time:
+    hour: 1
+    min: 0
+  title: "家長むぎ＆夕陽リリ＆伏見ガク at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
     hour: 20
     min: 0
-  title: "勇気ちひろ＆森中花咲＆？？？ at:にじさんじ公式YouTubeチャンネル"
+  title: "勇気ちひろ＆渋谷ハジメ＆宇志海いちご＆伏見ガク＆剣持刀也＆森中花咲 at:にじさんじ公式YouTubeチャンネル おにロリ大運動会"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -127,7 +141,14 @@
   time:
     hour: 3
     min: 0
-  title: "郡道美玲 at:YouTube マシュマロ返答、スプラトゥーン2 or マリオカート8 デラックス or ベヨネッタ"
+  title: 34分～ 郡道美玲 at:YouTube マシュマロ返答、スプラトゥーン2 or マリオカート8 デラックス or ベヨネッタ
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 13
+    min: 0
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -142,6 +163,13 @@
     hour: 17
     min: 0
   title: "鈴木勝 at:YouTube(2nd) ピアノ練習"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 17
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -183,6 +211,13 @@
 - date: 2019-02-27
   time:
     hour: 22
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 1ヶ月記念、擬似ASMR"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
     min: 30
   title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
@@ -218,6 +253,11 @@
     hour: 12
     min: 0
   title: "-15時00分頃～ 文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time: 
+  title: "？時？分～ 月見しずく at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-02-26
@@ -449,6 +489,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆皇噛ユカリ at:YouTube 渋谷カフェ：つなげようお客様の輪 第25回"
+  end_time: 
+  uri: 
+- date: 2019-02-26
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 本当はすぐそばにいるかもしれないサイコパス"
   end_time: 
   uri: 
 - date: 2019-02-26
