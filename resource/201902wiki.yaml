@@ -115,7 +115,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表より"
+  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -129,7 +129,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:? ※Twitter自己紹介欄より"
+  title: "樋口楓 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -360,6 +360,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube プレミア公開 シスター・クレアイメージソング pray"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 21
+    min: 26
+  title: "神田笑一 at:YouTube アイドルマスター ミリオンライブ! シアターデイズ"
   end_time: 
   uri: 
 - date: 2019-02-27
