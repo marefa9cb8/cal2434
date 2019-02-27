@@ -143,12 +143,26 @@
   time:
     hour: 21
     min: 0
+  title: "鈴鹿詩子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 21
+    min: 0
   title: "瀬戸美夜子 at:YouTube ドキドキ文芸部！"
   end_time: 
   uri: 
 - date: 2019-03-02
   time: 
   title: "(仮)？時？分～ 安土桃 at:? MIX UP!!感想会"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-01
