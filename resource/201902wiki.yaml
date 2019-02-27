@@ -3,14 +3,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube The Beginner’s Guide"
   end_time: 
   uri: 
 - date: 2019-02-28
   time:
     hour: 0
     min: 0
-  title: "叶 at:？ 8万人記念雑談"
+  title: "叶 at:YouTube 8万人記念雑談"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -31,6 +31,13 @@
   time:
     hour: 0
     min: 0
+  title: "久遠千歳 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 0
+    min: 0
   title: "瀬戸美夜子 at:YouTube Undertale ※3月3日に延期"
   end_time: 
   uri: 
@@ -38,7 +45,7 @@
   time:
     hour: 0
     min: 30
-  title: "椎名唯華 at:YouTube Friday the 13th: The Game"
+  title: "椎名唯華 at:YouTube Friday the 13th:The Game"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -185,14 +192,14 @@
   time:
     hour: 13
     min: 0
-  title: "文野環 at:YouTube"
+  title: "文野環 at:YouTube ポテチパーティ振り返り、雑談、お絵描き"
   end_time: 
   uri: 
 - date: 2019-02-27
   time:
     hour: 13
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: "雨森小夜 at:YouTube 雑談、質問返し"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -248,21 +255,35 @@
   time:
     hour: 19
     min: 0
-  title: "花畑チャイカ at:YouTube スーパーマリオサンシャイン ※リマインダーより"
+  title: "花畑チャイカ at:YouTube スーパーマリオサンシャイン"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 19
+    min: 38
+  title: "月見しずく at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 19
+    min: 39
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-02-27
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube テトリス99"
+  title: "える at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-02-27
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube Minecraft、雑談 ※予定表、リマインダーより"
+  title: "緑仙 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -298,21 +319,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:YouTube NARUTO-ナルト-疾風伝 ナルティメットストームトリロジー"
-  end_time: 
-  uri: 
-- date: 2019-02-27
-  time:
-    hour: 22
-    min: 0
-  title: "叶 at:？ Magic: the Gathering"
-  end_time: 
-  uri: 
-- date: 2019-02-27
-  time:
-    hour: 22
-    min: 0
-  title: "魔界ノりりむ at:YouTube The House"
+  title: "魔界ノりりむ at:YouTube 4万人記念凸待ち、The House、The HOUSE 2"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -326,6 +333,13 @@
   time:
     hour: 22
     min: 0
+  title: "社築 at:YouTube Magic:The Gathering Arena ドラフト"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 0
   title: "瀬戸美夜子 at:YouTube 1ヶ月記念、擬似ASMR"
   end_time: 
   uri: 
@@ -333,7 +347,14 @@
   time:
     hour: 22
     min: 0
-  title: 15分～ 本間ひまわり at:YouTube TETRIS 99 ※時間変更 ※配信内容はリマインダーより
+  title: 11分～ 叶 at:YouTube Magic:The Gathering Arena
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 15
+  title: "本間ひまわり at:YouTube TETRIS 99 ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -347,7 +368,21 @@
   time:
     hour: 22
     min: 30
-  title: "うさちゃんクラブwithB（神田笑一&春崎エアル＆郡道美玲＆夢月ロア） at:各々のYouTubeチャンネル Minecraft"
+  title: "樋口楓 at:YouTube NARUTO-ナルト-疾風伝 ナルティメットストームトリロジー ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 30
+  title: "うさちゃんクラブwithB(神田笑一＆春崎エアル＆郡道美玲＆夢月ロア) at:各々のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 22
+    min: 55
+  title: "渋谷ハジメ at:YouTube Magic:The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-02-27
@@ -361,6 +396,13 @@
   time:
     hour: 23
     min: 0
+  title: "卯月コウ at:YouTube ポケモン新作発表同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-02-27
+  time:
+    hour: 23
+    min: 0
   title: "竜胆尊 at:YouTube 歌"
   end_time: 
   uri: 
@@ -368,14 +410,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-27
   time:
-    hour: 22
-    min: 0
-  title: "社築 at:YouTube MTGAドラフト"
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-02-26
