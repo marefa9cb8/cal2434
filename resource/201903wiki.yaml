@@ -87,7 +87,7 @@
   time:
     hour: 13
     min: 0
-  title: "安土桃 at:? 雑談"
+  title: "安土桃 at:YouTube 2万人記念(雑談、MIX UP!!感想会?)"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -186,11 +186,6 @@
   title: "癒月ちょこ＆ゲスト：童田明治 at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
-- date: 2019-03-02
-  time: 
-  title: "(仮)？時？分～ 安土桃 at:? MIX UP!!感想会"
-  end_time: 
-  uri: 
 - date: 2019-03-01
   time:
     hour: 0
@@ -259,6 +254,20 @@
     hour: 1
     min: 30
   title: "童田明治 at:YouTube 歌(アカペラ)"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 3
+    min: 23
+  title: "瀬戸美夜子 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 4
+    min: 56
+  title: "安土桃 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-03-01
