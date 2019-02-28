@@ -199,7 +199,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 笹木咲 at:YouTube 雑談"
+  title: "笹木咲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -207,20 +207,6 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube パラッパラッパー"
-  end_time: 
-  uri: 
-- date: 2019-02-28
-  time:
-    hour: 22
-    min: 0
-  title: "シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-02-28
-  time:
-    hour: 22
-    min: 0
-  title: "(仮)～ でびでび・でびる at:YouTube 3月公開映画紹介"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -241,6 +227,13 @@
   time:
     hour: 23
     min: 0
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 23
+    min: 0
   title: "鈴鹿詩子 at:YouTube 思い出語り、BL体験談"
   end_time: 
   uri: 
@@ -248,14 +241,28 @@
   time:
     hour: 23
     min: 0
-  title: "魔界ノりりむ＆でびでび・でびる＆湊あくあ at:? Apex Legends"
+  title: "叶 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-02-28
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube 擬似ASMR"
+  title: "魔界ノりりむ＆でびでび・でびる＆湊あくあ at:でびでび・でびる(2nd)のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube 擬似バイノーラル・ASMR"
+  end_time: 
+  uri: 
+- date: 2019-02-28
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-02-28
@@ -266,8 +273,10 @@
   end_time: 
   uri: 
 - date: 2019-02-28
-  time: 
-  title: "？時？分(深夜・仮)～ でびでび・でびる＆夢月ロア at:YouTube Minecraft"
+  time:
+    hour: 22
+    min: 0
+  title: 23時44分～ シスター・クレア at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-02-27
