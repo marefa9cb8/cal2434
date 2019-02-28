@@ -181,6 +181,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube 3月予定決議 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 0
+    min: 0
   title: "名伽尾アズマ at:YouTube 雑談"
   end_time: 
   uri: 
@@ -188,7 +195,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介 at:YouTube"
+  title: "舞元啓介 at:YouTube デジモンワールド"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -230,7 +237,7 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ※リマインダーより"
+  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -259,6 +266,13 @@
     hour: 21
     min: 0
   title: "舞元啓介＆ジョー・力一+ゲスト：ベルモンド・バンデラス at:YouTube 舞元力一 番外編"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 21
+    min: 30
+  title: "町田ちま at:YouTube プレミア公開 Twitterお歌まとめ+α"
   end_time: 
   uri: 
 - date: 2019-03-01
