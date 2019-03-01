@@ -25,6 +25,13 @@
   title: "？時？分～ 合唱コンクール at:緑仙のYouTubeチャンネル"
   end_time: 
   uri: 
+- date: 2019-03-15
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ＆緑仙＆鷹宮リオン＆？？？ at:各々のYouTubeチャンネル(※常時配信：実況⇒緑仙・鷹宮リオン、敗者部屋⇒ドーラ) にじさんじバトルロワイヤル(Minecraft)"
+  end_time: 
+  uri: 
 - date: 2019-03-13
   time:
     hour: 23
@@ -60,6 +67,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ひま食堂(蒔田陽丸＆楓山蓮太郎) at:YouTube 渋谷カフェ：つなげようお客様の輪 第26回"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:YouTube にじさんじバトルロワイヤル(Minecraft) 抽選"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -144,9 +158,23 @@
   uri: 
 - date: 2019-03-02
   time:
+    hour: 0
+    min: 0
+  title: "久遠千歳 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
     hour: 1
     min: 0
   title: "夕陽リリ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 1
+    min: 0
+  title: "ドーラ at:YouTube 作業 ※開始時刻：Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -168,6 +196,14 @@
     hour: 16
     min: 0
   title: "メインパーソナリティ：樋口楓＆ドーラ＆社築＆ジョー・力一 at:にじさんじ公式YouTubeチャンネル 裏にじさんじの日"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 19
+    min: 0
+  title: MC：八田亜矢子＆実況解説：大和＆なない at:AbemaTVウルトラゲームス、RAGE公式OPENREC.tvチャンネル 俺たちも参戦するぜ！ストリートファイターリーグ特別編
+    ~まだまだ間に合う振り返り特番
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -203,6 +239,13 @@
     hour: 23
     min: 0
   title: "癒月ちょこ＆ゲスト：童田明治 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 12
+    min: 0
+  title: "-13時30分頃～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -341,22 +384,15 @@
 - date: 2019-03-01
   time:
     hour: 18
-    min: 0
-  title: "シスター・クレア at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-03-01
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
+    min: 49
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-01
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
+  title: "える at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -370,21 +406,28 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube 雑談、歌 ※予定表より"
+  title: "緑仙 at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-03-01
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子 at:YouTube Ib"
+  title: 13分～ 瀬戸美夜子 at:YouTube Ib
   end_time: 
   uri: 
 - date: 2019-03-01
   time:
     hour: 21
     min: 0
-  title: "舞元啓介＆ジョー・力一+ゲスト：ベルモンド・バンデラス at:YouTube 舞元力一 番外編"
+  title: "海夜叉神 at:YouTube プレミア公開 疑心暗鬼 其の肆"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介＆ジョー・力一+ゲスト：ベルモンド・バンデラス at:舞元啓介のYouTubeチャンネル 舞元力一 番外編"
   end_time: 
   uri: 
 - date: 2019-03-01
