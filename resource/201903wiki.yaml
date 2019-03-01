@@ -160,6 +160,20 @@
   time:
     hour: 0
     min: 0
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 0
+    min: 0
+  title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 0
+    min: 0
   title: "久遠千歳 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -174,7 +188,7 @@
   time:
     hour: 1
     min: 0
-  title: "ドーラ at:YouTube 作業 ※開始時刻：Twitterネームより"
+  title: "ドーラ at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -189,6 +203,13 @@
     hour: 10
     min: 0
   title: "八朔ゆず at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 14
+    min: 0
+  title: "鷹宮リオン＆ロボ子さん＆紫咲シオン at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -211,6 +232,13 @@
     hour: 20
     min: 0
   title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube Apex Legends(ガチャ)"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -384,6 +412,13 @@
 - date: 2019-03-01
   time:
     hour: 18
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 18
     min: 49
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
@@ -413,7 +448,7 @@
   time:
     hour: 20
     min: 0
-  title: 13分～ 瀬戸美夜子 at:YouTube Ib
+  title: 13分～ 瀬戸美夜子 at:YouTube Ib プーさんのホームランダービー ※内容変更
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -433,8 +468,15 @@
 - date: 2019-03-01
   time:
     hour: 21
+    min: 24
+  title: "町田ちま at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 21
     min: 30
-  title: "町田ちま at:YouTube プレミア公開 Twitterお歌まとめ+α"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -448,21 +490,35 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:YouTube Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-03-01
-  time:
-    hour: 22
-    min: 0
   title: "出雲霞 at:YouTube 夜やスミ"
   end_time: 
   uri: 
 - date: 2019-03-01
   time:
     hour: 22
+    min: 9
+  title: "緑仙 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "渋谷ハジメ at:YouTube しぶミンバースデー2月編 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 22
+    min: 30
+  title: "森中花咲＆本間ひまわり at:本間ひまわりのYouTubeチャンネル Apex Legends ※22時から時間変更＆コラボに移行"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 22
+    min: 30
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -476,6 +532,27 @@
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 23
+    min: 43
+  title: "鷹宮リオン at:OPENREC.tv League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 23
+    min: 45
+  title: "町田ちま at:YouTube プレミア公開 Twitterお歌まとめ+α"
   end_time: 
   uri: 
