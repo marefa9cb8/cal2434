@@ -139,9 +139,16 @@
   uri: 
 - date: 2019-03-02
   time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
     hour: 10
     min: 0
-  title: "緑仙 at:? Minecraft ※予定表より"
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -281,14 +288,7 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝＆鷹宮リオン＆癒月ちょこ at:? Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-03-01
-  time:
-    hour: 16
-    min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "雪汝＆鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -300,8 +300,8 @@
   uri: 
 - date: 2019-03-01
   time:
-    hour: 19
-    min: 30
+    hour: 18
+    min: 0
   title: "緑仙 at:ツイキャス ※予定表より"
   end_time: 
   uri: 
@@ -323,7 +323,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "緑仙 at:YouTube 雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-01
