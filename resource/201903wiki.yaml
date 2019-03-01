@@ -134,6 +134,11 @@
   uri: 
 - date: 2019-03-03
   time: 
+  title: "？時？分～ 闇夜乃モルル at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time: 
   title: "？時？分～ シスター・クレア at:YouTube 企画会議"
   end_time: 
   uri: 
@@ -149,6 +154,13 @@
     hour: 10
     min: 0
   title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 10
+    min: 0
+  title: "八朔ゆず at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -286,9 +298,44 @@
   uri: 
 - date: 2019-03-01
   time:
+    hour: 11
+    min: 27
+  title: "ふくやマスター＆ゲスト：渋谷ハジメ at:ふくやマスターのYouTubeチャンネル 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
     hour: 12
     min: 0
-  title: "雪汝＆鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル? Apex Legends"
+  title: 14分～ 雪汝＆鷹宮リオン＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 16
+    min: 0
+  title: "緑仙 at:YouTube Minecraft ※予定表、リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 16
+    min: 0
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 16
+    min: 0
+  title: "夢追翔 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube はたらくヒト"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -300,9 +347,9 @@
   uri: 
 - date: 2019-03-01
   time:
-    hour: 18
+    hour: 19
     min: 0
-  title: "緑仙 at:ツイキャス ※予定表より"
+  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -323,7 +370,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube 雑談 ※予定表より"
+  title: "緑仙 at:YouTube 雑談、歌 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -352,6 +399,13 @@
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 burning forest"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-01
