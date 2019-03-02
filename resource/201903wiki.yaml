@@ -55,6 +55,13 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一+ゲスト：卯月コウ at:YouTube 舞元力一 #9"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 8
     min: 0
   title: "遠北千南 at:YouTube"
@@ -160,7 +167,7 @@
   time:
     hour: 0
     min: 0
-  title: "轟京子＆社築 at:YouTube Minecraft"
+  title: "轟京子＆社築 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -181,7 +188,7 @@
   time:
     hour: 0
     min: 30
-  title: "でびでび・でびる＆夢月ロア at:YouTube Minecraft"
+  title: "魔界ノりりむ＆でびでび・でびる＆夢月ロア at:夢月ロアのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -189,6 +196,34 @@
     hour: 1
     min: 0
   title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 2
+    min: 5
+  title: "童田明治 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 2
+    min: 18
+  title: "葛葉 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 2
+    min: 46
+  title: "叶 at:OPENREC.tv ストリートファイターV アーケードエディション"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 6
+    min: 30
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -202,7 +237,7 @@
   time:
     hour: 9
     min: 30
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -237,6 +272,13 @@
   time:
     hour: 15
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 15
+    min: 0
   title: "ドーラ at:YouTube 大神"
   end_time: 
   uri: 
@@ -244,7 +286,7 @@
   time:
     hour: 15
     min: 30
-  title: "出雲霞 at:YouTube Apex Legends"
+  title: "出雲霞 at:YouTube Apex Legends Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -258,7 +300,7 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube バレンタイン衣装お披露目"
+  title: "でびでび・でびる at:YouTube バレンタイン(+ホワイトデー)衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -266,6 +308,13 @@
     hour: 21
     min: 0
   title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #8 ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介 at:YouTube デジモンワールド"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -287,6 +336,27 @@
     hour: 22
     min: 0
   title: "ストロベル(宇志海いちご＆ベルモンド・バンデラス) at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 22
+    min: 0
+  title: "飛鳥ひな at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 22
+    min: 40
+  title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-03
