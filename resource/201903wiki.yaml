@@ -120,7 +120,28 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 0
+    min: 0
+  title: "轟京子＆社築 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 0
+    min: 0
   title: "飛鳥ひな at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -139,6 +160,13 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 12
+    min: 0
+  title: "ドーラ＆八朔ゆず at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 13
     min: 0
   title: "安土桃 at:YouTube 2万人記念(雑談、MIX UP!!感想会?)"
@@ -153,9 +181,30 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 15
+    min: 0
+  title: "ドーラ at:YouTube 大神"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 15
+    min: 30
+  title: "出雲霞 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:? 歌 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 20
+    min: 0
+  title: "でびでび・でびる at:YouTube バレンタイン衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -282,16 +331,37 @@
   uri: 
 - date: 2019-03-02
   time:
-    hour: 14
-    min: 0
-  title: "夕陽リリ at:YouTube Minecraft"
+    hour: 12
+    min: 20
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 13
+    min: 15
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-02
   time:
     hour: 14
     min: 0
-  title: "鷹宮リオン＆ロボ子さん＆紫咲シオン at:? Apex Legends"
+  title: "鷹宮リオン＆ロボ子さん＆紫咲シオン at:紫咲シオンのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 14
+    min: 30
+  title: "シスター・クレア at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 14
+    min: 0
+  title: 32分～ 夕陽リリ at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -307,6 +377,13 @@
     min: 0
   title: MC：八田亜矢子＆実況解説：大和＆なない at:AbemaTVウルトラゲームス、RAGE公式OPENREC.tvチャンネル 俺たちも参戦するぜ！ストリートファイターリーグ特別編
     ~まだまだ間に合う振り返り特番
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube 3月予定決議"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -341,7 +418,28 @@
   time:
     hour: 21
     min: 0
+  title: "でびでび・でびる at:YouTube(2nd) スーパーチャット読み上げ"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 21
+    min: 0
   title: "瀬戸美夜子 at:YouTube ドキドキ文芸部！"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 21
+    min: 10
+  title: "静凛 at:YouTube BIOHAZARD CODE:Veronica"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 22
+    min: 0
+  title: "桜凛月＆ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -349,13 +447,6 @@
     hour: 23
     min: 0
   title: "癒月ちょこ＆ゲスト：童田明治 at:癒月ちょこのYouTubeチャンネル 身体測定"
-  end_time: 
-  uri: 
-- date: 2019-03-02
-  time:
-    hour: 12
-    min: 0
-  title: "-13時30分頃～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-01
@@ -559,6 +650,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-01
+  time:
+    hour: 21
+    min: 32
+  title: "天開司 at:天開司のYouTubeチャンネル Magic:The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-03-01
