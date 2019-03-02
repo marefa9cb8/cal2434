@@ -249,6 +249,13 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆4週連続スペシャル スーパー戦隊最強バトル!!感想会"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 12
     min: 0
   title: "ドーラ＆出雲霞＆八朔ゆず at:出雲霞、八朔ゆずのYouTubeチャンネル Apex Legends"
@@ -272,7 +279,7 @@
   time:
     hour: 15
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube アイドルデスゲームTV ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -356,7 +363,7 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-03

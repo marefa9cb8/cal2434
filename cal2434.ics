@@ -27296,6 +27296,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190303T100000
+SUMMARY:神田笑一 at:YouTube 仮面ライダージオウ＆4週連続スペシャル スーパー戦隊最強バトル!!感想会
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190303T120000
 SUMMARY:ドーラ＆出雲霞＆八朔ゆず at:出雲霞、八朔ゆずのYouTubeチャンネル Apex Legends
 URL:
@@ -27315,7 +27321,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190303T150000
-SUMMARY:森中花咲 at:YouTube ※Twitterネームより
+SUMMARY:森中花咲 at:YouTube アイドルデスゲームTV ※Twitterネーム＆リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -27387,7 +27393,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190303T230000
-SUMMARY:森中花咲 at:YouTube ※Twitterネームより
+SUMMARY:森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
