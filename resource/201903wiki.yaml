@@ -261,23 +261,30 @@
   uri: 
 - date: 2019-03-02
   time:
-    hour: 8
+    hour: 10
     min: 0
-  title: "?～ 出雲霞 at:? ※Twitterネームより"
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 10
+    min: 3
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-02
   time:
     hour: 10
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表＆リマインダーより"
+  title: 13分～ 八朔ゆず at:YouTube お絵描き
   end_time: 
   uri: 
 - date: 2019-03-02
   time:
-    hour: 10
+    hour: 14
     min: 0
-  title: "八朔ゆず at:YouTube お絵描き"
+  title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-02
