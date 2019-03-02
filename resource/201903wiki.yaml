@@ -118,6 +118,13 @@
   uri: 
 - date: 2019-03-04
   time:
+    hour: 21
+    min: 30
+  title: "漢組(鈴谷アキ＆剣持刀也) at:鈴谷アキ(2nd)のYouTubeチャンネル 第5回 漢組radio"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
     hour: 22
     min: 30
   title: "社築＆緑仙＆舞元啓介 at:緑仙のYouTubeチャンネル 懐かしロボットソング縛りカラオケ"
@@ -174,7 +181,7 @@
   time:
     hour: 0
     min: 30
-  title: "夢月ロア at:YouTube Minecraft ※Twitterネームより"
+  title: "でびでび・でびる＆夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -188,7 +195,7 @@
   time:
     hour: 7
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -196,6 +203,13 @@
     hour: 9
     min: 30
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 10
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -237,7 +251,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 歌 ※予定表より"
+  title: "緑仙 at:? 歌(鈴音レン縛り)"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -521,7 +535,14 @@
   time:
     hour: 22
     min: 0
-  title: "静凛 at:YouTube BIOHAZARD CODE:Veronica ※21時台から時間変更"
+  title: "黒井しば＆レンチ＆アイゼン at:レンチのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-02
+  time:
+    hour: 22
+    min: 19
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica ※21時台から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-02
@@ -549,14 +570,14 @@
   time:
     hour: 23
     min: 15
-  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会 ※リマインダーより"
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-03-02
   time:
-    hour: 22
-    min: 0
-  title: "静凛 at:YouTube BIOHAZARD CODE:Veronica ※21時台から時間変更"
+    hour: 23
+    min: 29
+  title: "渋谷ハジメ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-01
