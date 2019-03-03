@@ -79,6 +79,13 @@
   title: "？時？分～ 叶＆ふぇありす at:? Apex Legends(耐久配信企画 1000キルとるまで眠れません！) ※ふぇありす動画内にて告知"
   end_time: 
   uri: 
+- date: 2019-03-07
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-03-06
   time:
     hour: 21
@@ -121,6 +128,20 @@
     hour: 22
     min: 0
   title: "鷹宮リオン at:YouTube にじさんじバトルロワイヤル(Minecraft) 抽選"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -170,6 +191,13 @@
     hour: 22
     min: 30
   title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -314,7 +342,7 @@
   time:
     hour: 14
     min: 30
-  title: "神田笑一 at:YouTube Overwatch"
+  title: "神田笑一 at:YouTube Overwatch、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -327,22 +355,29 @@
 - date: 2019-03-03
   time:
     hour: 15
-    min: 0
-  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-03-03
-  time:
-    hour: 15
-    min: 0
-  title: "ドーラ at:YouTube 大神"
-  end_time: 
-  uri: 
-- date: 2019-03-03
-  time:
-    hour: 15
     min: 30
   title: "出雲霞 at:YouTube Apex Legends Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 16
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 16
+    min: 2
+  title: "静凛 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 16
+    min: 16
+  title: "ドーラ at:YouTube 大神"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -356,7 +391,14 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 歌(鈴音レン縛り)"
+  title: "シスター・クレア at:YouTube Minecraft ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube 歌(鈴音レン縛り)"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -364,6 +406,13 @@
     hour: 20
     min: 0
   title: "でびでび・でびる at:YouTube バレンタイン(+ホワイトデー)衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 20
+    min: 0
+  title: "童田明治 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -391,7 +440,7 @@
   time:
     hour: 21
     min: 0
-  title: "瀬戸美夜子 at:YouTube Undertale"
+  title: "瀬戸美夜子 at:YouTube Undertale ※中止"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -406,6 +455,13 @@
     hour: 22
     min: 0
   title: "ストロベル(宇志海いちご＆ベルモンド・バンデラス) at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube 超兄貴"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -441,18 +497,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-03-03
-  time:
-    hour: 15
-    min: 0
-  title: "静凛 at:YouTube セリフ読み or 歌（予定） ※配信内で告知"
-  end_time: 
-  uri: 
-- date: 2019-03-03
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2019-03-03
