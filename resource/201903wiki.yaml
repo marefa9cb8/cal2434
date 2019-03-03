@@ -381,6 +381,20 @@
   end_time: 
   uri: 
 - date: 2019-03-03
+  time:
+    hour: 15
+    min: 0
+  title: "椎名唯華 at:YouTube パワプロ　※配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 15
+    min: 0
+  title: "静凛 at:YouTube セリフ枠 or 歌枠（予定）※配信内で告知"
+  end_time: 
+  uri: 
+- date: 2019-03-03
   time: 
   title: "？時？分～ 闇夜乃モルル at:?"
   end_time: 
