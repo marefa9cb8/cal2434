@@ -162,7 +162,21 @@
   time:
     hour: 1
     min: 0
-  title: "?～ ジョー・力一 at:YouTube 雑談"
+  title: "ジョー・力一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 1
+    min: 43
+  title: "郡道美玲 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-04
