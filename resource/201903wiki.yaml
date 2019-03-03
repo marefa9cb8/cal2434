@@ -132,6 +132,13 @@
   uri: 
 - date: 2019-03-04
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 魚"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
     hour: 20
     min: 0
   title: "家長むぎ＆伏見ガク＆魔界ノりりむ＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第14回「にじさんじMIX UP!!」 ※3/2裏にじさんじの日配信にて告知"
@@ -286,7 +293,14 @@
   time:
     hour: 13
     min: 0
-  title: "安土桃 at:YouTube 2万人記念(雑談、MIX UP!!感想会?)"
+  title: "安土桃 at:YouTube 2万人記念(雑談、MIX UP!!感想会)"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 13
+    min: 42
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -307,7 +321,7 @@
   time:
     hour: 15
     min: 0
-  title: "森中花咲 at:YouTube アイドルデスゲームTV ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube アイドルデスゲームTV"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -327,8 +341,15 @@
 - date: 2019-03-03
   time:
     hour: 15
+    min: 30
+  title: "出雲霞 at:YouTube Apex Legends Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 19
     min: 0
-  title: or15時30分?～ 出雲霞 at:YouTube Apex Legends Minecraft
+  title: "(仮)～ 桜凛月 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -405,7 +426,7 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
