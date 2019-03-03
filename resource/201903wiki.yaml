@@ -148,6 +148,13 @@
   time:
     hour: 0
     min: 0
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 0
+    min: 0
   title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI"
   end_time: 
   uri: 
@@ -160,6 +167,13 @@
   uri: 
 - date: 2019-03-04
   time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる＆周防パトラ at:YouTube(2nd) Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
     hour: 1
     min: 0
   title: "ジョー・力一 at:YouTube 雑談"
@@ -168,8 +182,15 @@
 - date: 2019-03-04
   time:
     hour: 1
+    min: 24
+  title: "叶 at:OPENREC.tv ストリートファイターV アーケードエディション"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 1
     min: 43
-  title: "郡道美玲 at:OPENREC.tv"
+  title: "郡道美玲 at:OPENREC.tv 雑談"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -580,14 +601,14 @@
   time:
     hour: 23
     min: 0
-  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル Apex Legends
+  title: "轟京子 at:YouTube LOKI'sCOORDINATE"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
     hour: 23
     min: 0
-  title: "轟京子 at:YouTube LOKI'sCOORDINATE"
+  title: 13分～ Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-03-03
