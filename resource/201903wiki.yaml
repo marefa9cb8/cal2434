@@ -104,6 +104,13 @@
   uri: 
 - date: 2019-03-05
   time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆ひま食堂(蒔田陽丸＆楓山蓮太郎) at:YouTube 渋谷カフェ：つなげようお客様の輪 第26回"
@@ -118,9 +125,23 @@
   uri: 
 - date: 2019-03-04
   time:
+    hour: 1
+    min: 0
+  title: "?～ ジョー・力一 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
     hour: 20
     min: 0
   title: "家長むぎ＆伏見ガク＆魔界ノりりむ＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第14回「にじさんじMIX UP!!」 ※3/2裏にじさんじの日配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 ゲーム音痴初心者の死に過ぎMinecraft #3（最終回） ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -221,16 +242,16 @@
   uri: 
 - date: 2019-03-03
   time:
-    hour: 6
-    min: 30
-  title: "シスター・クレア at:YouTube"
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
-    hour: 7
-    min: 0
-  title: "物述有栖 at:YouTube"
+    hour: 6
+    min: 30
+  title: 09時17分～ シスター・クレア at:YouTube 雑談、歌
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -258,7 +279,7 @@
   time:
     hour: 12
     min: 0
-  title: "ドーラ＆出雲霞＆八朔ゆず at:出雲霞、八朔ゆずのYouTubeチャンネル Apex Legends"
+  title: "ドーラ＆出雲霞＆八朔ゆず at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -277,9 +298,23 @@
   uri: 
 - date: 2019-03-03
   time:
+    hour: 14
+    min: 30
+  title: "神田笑一 at:YouTube Overwatch"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
     hour: 15
     min: 0
   title: "森中花咲 at:YouTube アイドルデスゲームTV ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 15
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -292,8 +327,8 @@
 - date: 2019-03-03
   time:
     hour: 15
-    min: 30
-  title: "出雲霞 at:YouTube Apex Legends Minecraft"
+    min: 0
+  title: or15時30分?～ 出雲霞 at:YouTube Apex Legends Minecraft
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -308,6 +343,13 @@
     hour: 20
     min: 0
   title: "でびでび・でびる at:YouTube バレンタイン(+ホワイトデー)衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 ゲーム音痴初心者の死に過ぎMinecraft #2 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -384,14 +426,7 @@
   time:
     hour: 15
     min: 0
-  title: "椎名唯華 at:YouTube パワプロ　※配信にて告知"
-  end_time: 
-  uri: 
-- date: 2019-03-03
-  time:
-    hour: 15
-    min: 0
-  title: "静凛 at:YouTube セリフ枠 or 歌枠（予定）※配信内で告知"
+  title: "静凛 at:YouTube セリフ読み or 歌（予定） ※配信内で告知"
   end_time: 
   uri: 
 - date: 2019-03-03
