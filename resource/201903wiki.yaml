@@ -127,6 +127,13 @@
   time:
     hour: 22
     min: 0
+  title: "渋谷ハジメ＆ふくやマスター＆七瀬タク at:各々のYouTubeチャンネル? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
+    hour: 22
+    min: 0
   title: "鷹宮リオン at:YouTube にじさんじバトルロワイヤル(Minecraft) 抽選"
   end_time: 
   uri: 
@@ -146,6 +153,13 @@
   uri: 
 - date: 2019-03-04
   time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube スーパーマリオサンシャイン"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
     hour: 1
     min: 0
   title: "?～ ジョー・力一 at:YouTube 雑談"
@@ -156,6 +170,27 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 魚"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 17
+    min: 0
+  title: "久遠千歳 at:YouTube 誕生日配信 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-04
@@ -384,21 +419,28 @@
   time:
     hour: 19
     min: 0
-  title: "(仮)～ 桜凛月 at:YouTube"
+  title: "ドーラ＆緑仙 at:緑仙のYouTubeチャンネル プレミア公開 逆光のフリューゲル / 緑仙&ドーラ (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube Minecraft ※Twitterネームより"
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube 歌(鈴音レン縛り)"
+  title: "緑仙 at:YouTube 歌(鏡音レン縛り)"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -410,9 +452,9 @@
   uri: 
 - date: 2019-03-03
   time:
-    hour: 20
+    hour: 21
     min: 0
-  title: "童田明治 at:YouTube プレミア公開"
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica　※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -426,7 +468,7 @@
   time:
     hour: 21
     min: 0
-  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #8 ※リマインダー予定表より"
+  title: "魔界ノりりむ at:YouTube 空気読み。"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -441,6 +483,13 @@
     hour: 21
     min: 0
   title: "瀬戸美夜子 at:YouTube Undertale ※中止"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 21
+    min: 30
+  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #8"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -483,6 +532,13 @@
     hour: 23
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 23
+    min: 0
+  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:卯月コウのYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-03-03
