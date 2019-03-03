@@ -232,6 +232,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-04
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -447,21 +454,21 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube バレンタイン(+ホワイトデー)衣装お披露目"
+  title: "でびでび・でびる at:YouTube(2nd) バレンタイン(+ホワイトデー)衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube バイオハザード CODE:Veronica　※リマインダーより"
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica"
   end_time: 
   uri: 
 - date: 2019-03-03
   time:
     hour: 21
     min: 0
-  title: "鈴鹿詩子 at:YouTube プレミア公開 ゲーム音痴初心者の死に過ぎMinecraft #2 ※リマインダーより"
+  title: "鈴鹿詩子 at:YouTube プレミア公開 ゲーム音痴初心者の死に過ぎMinecraft #2"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -488,7 +495,21 @@
 - date: 2019-03-03
   time:
     hour: 21
-    min: 30
+    min: 22
+  title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 21
+    min: 35
+  title: "宇志海いちご at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 21
+    min: 45
   title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #8"
   end_time: 
   uri: 
@@ -503,7 +524,7 @@
   time:
     hour: 22
     min: 0
-  title: "ストロベル(宇志海いちご＆ベルモンド・バンデラス) at:YouTube Minecraft"
+  title: "ストロベル(宇志海いちご＆ベルモンド・バンデラス) at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -517,7 +538,14 @@
   time:
     hour: 22
     min: 0
-  title: "飛鳥ひな at:YouTube プレミア公開"
+  title: "飛鳥ひな at:YouTube プレミア公開 飛鳥ひなへの誕生日祝いビデオレター"
+  end_time: 
+  uri: 
+- date: 2019-03-03
+  time:
+    hour: 22
+    min: 30
+  title: "叶 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-03
@@ -538,7 +566,7 @@
   time:
     hour: 23
     min: 0
-  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:卯月コウのYouTubeチャンネル Apex Legends
+  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-03-03
