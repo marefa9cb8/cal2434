@@ -149,6 +149,13 @@
   uri: 
 - date: 2019-03-06
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube Minecraft"
@@ -272,7 +279,21 @@
   time:
     hour: 20
     min: 0
+  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:YouTube 懐かしロボットソング縛りカラオケ感想、歌 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-05
+  time:
+    hour: 20
+    min: 0
+  title: "舞元啓介＆ふくやマスター at:YouTube Magic:The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-03-05
