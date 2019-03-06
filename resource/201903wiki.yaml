@@ -317,6 +317,13 @@
   time:
     hour: 22
     min: 0
+  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香 at:YouTube お絵描き"
   end_time: 
   uri: 
@@ -462,9 +469,16 @@
   uri: 
 - date: 2019-03-06
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube トモダチコレクション 新生活 ※リマインダーより"
+  title: "笹木咲 at:YouTube トモダチコレクション 新生活"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -478,7 +492,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube TETRIS 99?"
+  title: "ドーラ at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-06
