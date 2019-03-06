@@ -305,6 +305,13 @@
   time:
     hour: 20
     min: 0
+  title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
   end_time: 
   uri: 
@@ -320,6 +327,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube 精神攻撃バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -361,7 +375,7 @@
   time:
     hour: 2
     min: 0
-  title: "ベルモンド・バンデラス＆童田明治 at:YouTube Minecraft"
+  title: "ベルモンド・バンデラス＆童田明治 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -369,6 +383,13 @@
     hour: 19
     min: 0
   title: "闇夜乃モルル at:YouTube Apex Legends ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube ジュラシック・ワールド・エボリューション"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -387,9 +408,17 @@
   uri: 
 - date: 2019-03-07
   time:
+    hour: 21
+    min: 0
+  title: "える＆樋口楓＆笹木咲＆椎名唯華＆名伽尾アズマ＆八朔ゆず＆鷹宮リオン＆でびでび・でびる＆舞元啓介＆ジョー・力一 at:名伽尾アズマのYouTubeチャンネル
+    愛かたーず(相方クイズ企画)"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube お絵描き"
+  title: "小野町春香 at:YouTube お絵描き ※内容変更予定"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -587,6 +616,13 @@
   time:
     hour: 22
     min: 0
+  title: "笹木咲 at:YouTube トモダチコレクション 新生活"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 22
+    min: 0
   title: "魔界ノりりむ at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
@@ -594,14 +630,21 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子＆社築＆雨森小夜 at:雨森小夜のYouTubeチャンネル チャージマン研!語り"
+  title: "でびでび・でびる＆周防パトラ＆堰代ミコ at:周防パトラのYouTubeチャンネル スパデビ物語"
   end_time: 
   uri: 
 - date: 2019-03-06
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる＆周防パトラ＆堰代ミコ at:周防パトラのYouTubeチャンネル スパデビ物語"
+  title: 13分～ 叶 at:YouTube Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 22
+    min: 0
+  title: 15分～ 轟京子＆社築＆雨森小夜 at:雨森小夜のYouTubeチャンネル チャージマン研!語り
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -629,7 +672,14 @@
   time:
     hour: 23
     min: 0
-  title: "夕陽リリ at:YouTube Apex Legends ※リマインダー予定表より"
+  title: "宇志海いちご at:YouTube ドキドキ文芸部！"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 23
+    min: 0
+  title: "夕陽リリ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -637,6 +687,20 @@
     hour: 23
     min: 0
   title: "闇夜乃モルル at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 23
+    min: 26
+  title: "葛葉 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -650,7 +714,14 @@
   time:
     hour: 23
     min: 50
-  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴 ※リマインダーより"
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 23
+    min: 50
+  title: "ドーラ at:YouTube 「バーチャルさんはみている」同時視聴"
   end_time: 
   uri: 
 - date: 2019-03-05
