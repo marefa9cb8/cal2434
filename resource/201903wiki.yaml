@@ -501,14 +501,14 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube 東京フレンドパークⅡ"
+  title: "出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-06
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: 14分～ 本間ひまわり at:YouTube 東京フレンドパークII 決定版 ～みんなで挑戦！体感アトラクション～
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -523,6 +523,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 19
+    min: 30
+  title: "卯月コウ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -543,7 +550,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube 雑談 ※予定表＆リマインダーより"
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -580,6 +587,13 @@
   time:
     hour: 22
     min: 0
+  title: "魔界ノりりむ at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-03-06
+  time:
+    hour: 22
+    min: 0
   title: "轟京子＆社築＆雨森小夜 at:雨森小夜のYouTubeチャンネル チャージマン研!語り"
   end_time: 
   uri: 
@@ -594,7 +608,7 @@
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube"
+  title: "鈴谷アキ at:YouTube(2nd) Rain World"
   end_time: 
   uri: 
 - date: 2019-03-06
@@ -622,7 +636,7 @@
   time:
     hour: 23
     min: 0
-  title: "闇夜乃モルル at:YouTube TETRIS 99 ※リマインダー予定表より"
+  title: "闇夜乃モルル at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-06
