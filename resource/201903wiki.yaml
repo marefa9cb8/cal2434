@@ -230,7 +230,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #17"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキ(2nd)のYouTubeチャンネル まほすずラジオ #17"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -378,14 +378,21 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆花畑チャイカ＆鈴木勝 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ+ゲスト：鈴木勝 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2019-03-08
   time:
     hour: 0
     min: 30
-  title: "静凛 at:YouTube Minecraft ※リマインダーより"
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 2
+    min: 0
+  title: "?～ 椎名唯華 at:YouTube Minecraft ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -425,6 +432,13 @@
   uri: 
 - date: 2019-03-08
   time:
+    hour: 18
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
     hour: 19
     min: 0
   title: "轟京子 at:YouTube お絵描き"
@@ -455,7 +469,7 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ※リマインダーより"
+  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -481,6 +495,13 @@
   uri: 
 - date: 2019-03-08
   time:
+    hour: 21
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube 雑談"
@@ -497,12 +518,14 @@
   time:
     hour: 23
     min: 0
-  title: "社築＆舞元啓介 at:YouTube おっさんゲームス #2 ※社築Twitterネームより"
+  title: "社築＆舞元啓介 at:社築のYouTubeチャンネル おっさんゲームス #2"
   end_time: 
   uri: 
 - date: 2019-03-08
-  time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:YouTube Minecraft"
+  time:
+    hour: 23
+    min: 0
+  title: "黒井しば at:YouTube 雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-08
