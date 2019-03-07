@@ -279,7 +279,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube Suzuno ne kocafe #7"
+  title: "鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #7"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -340,7 +340,7 @@
   time:
     hour: 17
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より ※1時より時間変更"
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -471,9 +471,30 @@
   uri: 
 - date: 2019-03-07
   time:
+    hour: 7
+    min: 30
+  title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
     hour: 12
-    min: 10
-  title: 15分～ 本間ひまわり at:YouTube Minecraft ※配信内容はリマインダーより
+    min: 0
+  title: 17分～ 本間ひまわり at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 13
+    min: 0
+  title: 14分～ 町田ちま at:YouTube 歌(アニソン縛り)
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 17
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -501,21 +522,21 @@
   time:
     hour: 19
     min: 0
-  title: "緑仙 at:YouTube プレミア公開 バレリーコ / 緑仙 (Cover)  ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-03-07
-  time:
-    hour: 19
-    min: 0
   title: "神田笑一 at:YouTube ゼノブレイド"
   end_time: 
   uri: 
 - date: 2019-03-07
   time:
     hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 19
     min: 30
-  title: "森中花咲 at:YouTube アイドルデスゲームTV ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube アイドルデスゲームTV"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -523,13 +544,6 @@
     hour: 20
     min: 0
   title: "渋谷ハジメ at:YouTube ジュラシック・ワールド・エボリューション"
-  end_time: 
-  uri: 
-- date: 2019-03-07
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:YouTube 雑談 ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -558,7 +572,7 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube お絵描き ※内容変更予定"
+  title: "小野町春香 at:YouTube お絵描き Minecraft ※内容変更"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -580,6 +594,13 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube Minecraft? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 バレリーコ / 緑仙 (Cover)"
   end_time: 
   uri: 
 - date: 2019-03-07
