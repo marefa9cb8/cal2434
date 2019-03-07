@@ -312,7 +312,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆花畑チャイカ＆鈴木勝 at:YouTube レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ＆鈴木勝 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -406,6 +406,11 @@
   title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI ※リマインダー予定表より"
   end_time: 
   uri: 
+- date: 2019-03-08
+  time: 
+  title: "？時？分(深夜)～ 椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-03-07
   time:
     hour: 0
@@ -492,6 +497,20 @@
   uri: 
 - date: 2019-03-07
   time:
+    hour: 15
+    min: 30
+  title: "闇夜乃モルル at:YouTube マリオのピクロス"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
+    hour: 15
+    min: 37
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
     hour: 17
     min: 0
   title: "緑仙 at:YouTube Minecraft"
@@ -499,9 +518,16 @@
   uri: 
 - date: 2019-03-07
   time:
+    hour: 17
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-07
+  time:
     hour: 18
     min: 0
-  title: "宇志海いちご＆本間ひまわり＆ドーラ at:YouTube Apex Legends"
+  title: "宇志海いちご＆本間ひまわり＆ドーラ at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -515,7 +541,7 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル at:YouTube スーパーマリオワールド ※リマインダー予定表より"
+  title: "闇夜乃モルル at:YouTube スーパーマリオワールド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-07
@@ -580,13 +606,6 @@
     hour: 23
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-03-07
-  time:
-    hour: 23
-    min: 0
-  title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-03-07
