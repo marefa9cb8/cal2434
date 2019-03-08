@@ -410,7 +410,7 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  title: "ドーラ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -430,6 +430,13 @@
 - date: 2019-03-09
   time:
     hour: 0
+    min: 0
+  title: 13分～ 黒井しば＆アキ・ローゼンタール＆さくらみこ at:アキ・ローゼンタールのYouTubeチャンネル バーチャルマーケット2探検
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 0
     min: 30
   title: "竜胆尊 at:YouTube TETRIS 99、雑談"
   end_time: 
@@ -438,28 +445,56 @@
   time:
     hour: 1
     min: 0
-  title: "鈴鹿詩子 at:YouTube Minecraft"
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-09
   time:
     hour: 1
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "成瀬鳴 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-09
   time:
     hour: 1
     min: 0
-  title: "成瀬鳴 at:YouTube"
+  title: 17分～ 鈴鹿詩子 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 1
+    min: 28
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 1
+    min: 39
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 2
+    min: 14
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 2
+    min: 30
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-03-09
   time:
     hour: 10
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "緑仙 at:YouTube Minecraft ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -501,14 +536,14 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ お茶菓子 ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 昼やスミ お茶菓子"
   end_time: 
   uri: 
 - date: 2019-03-09
   time:
     hour: 19
     min: 0
-  title: "夕陽リリ at:YouTube Minecraft ※リマインダー予定表より"
+  title: "月ノ美兎 at:?"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -602,12 +637,12 @@
   uri: 
 - date: 2019-03-09
   time: 
-  title: "？時？分(昼)～ シスター・クレア at:?"
+  title: "？時？分(昼)～ 本間ひまわり at:?"
   end_time: 
   uri: 
 - date: 2019-03-09
   time: 
-  title: "？時？分～ 月ノ美兎 at:?"
+  title: "？時？分(昼)～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2019-03-09
