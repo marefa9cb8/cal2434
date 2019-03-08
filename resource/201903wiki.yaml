@@ -410,7 +410,7 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ at:YouTube Minecraft"
+  title: "ドーラ at:YouTube Minecraft、TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -488,6 +488,20 @@
     hour: 2
     min: 30
   title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 3
+    min: 51
+  title: "静凛 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 5
+    min: 0
+  title: "笹木咲＆魔界ノりりむ＆花畑チャイカ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-09
