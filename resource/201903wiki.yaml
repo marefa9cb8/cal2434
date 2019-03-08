@@ -237,6 +237,13 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 12
+    min: 30
+  title: "?～ 安土桃 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 13
     min: 0
   title: "ドーラ at:YouTube 大神 or ピアノ練習 ※予定表より"
@@ -342,7 +349,7 @@
   time:
     hour: 12
     min: 30
-  title: "安土桃 at:YouTube ※リマインダーより"
+  title: "安土桃 at:YouTube ※リマインダーより ※10日に変更"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -504,9 +511,23 @@
   uri: 
 - date: 2019-03-08
   time:
+    hour: 13
+    min: 30
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 16
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
     hour: 17
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "緑仙 at:YouTube Minecraft ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -527,7 +548,14 @@
   time:
     hour: 19
     min: 0
-  title: "轟京子 at:YouTube お絵描き"
+  title: "轟京子 at:YouTube 左手お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -549,6 +577,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 20
+    min: 0
+  title: "夢追翔 at:YouTube 一人混声合唱(短調アレンジ)"
   end_time: 
   uri: 
 - date: 2019-03-08
@@ -588,6 +623,20 @@
   uri: 
 - date: 2019-03-08
   time:
+    hour: 21
+    min: 30
+  title: "鷹宮リオン at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 21
+    min: 30
+  title: "夢追翔 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube 雑談"
@@ -605,6 +654,13 @@
     hour: 22
     min: 0
   title: "小野町春香 at:YouTube お絵描き ASMR雑談 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-03-08
+  time:
+    hour: 23
+    min: 0
+  title: "魔界ノりりむ at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-08
