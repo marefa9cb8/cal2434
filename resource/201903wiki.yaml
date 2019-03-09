@@ -285,6 +285,13 @@
   uri: 
 - date: 2019-03-11
   time:
+    hour: 0
+    min: 30
+  title: "黒井しば at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 麺系"
@@ -390,6 +397,13 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 5
+    min: 30
+  title: "魔界ノりりむ＆鷹宮リオン＆紫咲シオン at:魔界ノりりむ、鷹宮リオンのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube"
@@ -400,6 +414,13 @@
     hour: 8
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆4週連続スペシャル スーパー戦隊最強バトル!!感想会"
   end_time: 
   uri: 
 - date: 2019-03-10
