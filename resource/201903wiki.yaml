@@ -104,7 +104,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 昼やスミ 桜系スイーツ ※チャンネルコミュニティ予定表より"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -163,9 +163,23 @@
   uri: 
 - date: 2019-03-13
   time:
+    hour: 0
+    min: 0
+  title: "夕陽リリ at:YouTube 雑談 ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:? 歌 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 20
+    min: 30
+  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #10 ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -284,7 +298,7 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞＆？？？ at:YouTube ※チャンネルコミュニティ予定表より"
+  title: "出雲霞＆轟京子 at:YouTube ※チャンネルコミュニティ予定表より"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -305,7 +319,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一+ゲスト：卯月コウ at:YouTube 舞元力一 #9"
+  title: "舞元啓介＆ジョー・力一+ゲスト：卯月コウ at:舞元啓介のYouTubeチャンネル 舞元力一 #9"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -604,13 +618,6 @@
   uri: 
 - date: 2019-03-09
   time:
-    hour: 14
-    min: 30
-  title: "シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-03-09
-  time:
     hour: 15
     min: 0
   title: "本間ひまわり at:YouTube Apex Legends"
@@ -620,7 +627,14 @@
   time:
     hour: 15
     min: 0
-  title: "神田笑一 at:YouTube ゼルダの伝説 風のタクト"
+  title: 10分～ 神田笑一 at:YouTube ゼルダの伝説 風のタクト
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 14
+    min: 30
+  title: 15時33分～ シスター・クレア at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -732,7 +746,7 @@
   time:
     hour: 22
     min: 0
-  title: "鷹宮リオン at:YouTube 7万人記念 ※リマインダーより"
+  title: "鷹宮リオン at:YouTube 7万人記念、歌"
   end_time: 
   uri: 
 - date: 2019-03-09
@@ -747,6 +761,13 @@
     hour: 23
     min: 0
   title: "鈴鹿詩子＆森中花咲 at:鈴鹿詩子のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-09
+  time:
+    hour: 23
+    min: 50
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-03-08
