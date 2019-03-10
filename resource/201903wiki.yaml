@@ -488,16 +488,37 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 15
+    min: 0
+  title: "成瀬鳴 at:YouTube FIFA 19"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 16
+    min: 41
+  title: "シスター・クレア at:YouTube 歌練習"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 17
     min: 0
-  title: "赤羽葉子＆緑仙 at:緑仙のYouTubeチャンネル ソクラテスラ ※予定表＆リマインダーより"
+  title: "赤羽葉子＆緑仙 at:緑仙のYouTubeチャンネル ソクラテスラ ※"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 17
+    min: 0
+  title: "本間ひまわり at:YouTube ライフイズストレンジ"
   end_time: 
   uri: 
 - date: 2019-03-10
   time:
     hour: 18
     min: 0
-  title: "鈴鹿詩子 at:YouTube 雑談"
+  title: "鈴鹿詩子 at:YouTube 五七五オンライン"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -518,7 +539,7 @@
   time:
     hour: 19
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube クッキー作り"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -526,6 +547,20 @@
     hour: 19
     min: 0
   title: "ジョー・力一 at:YouTube 5＆6万人・半年記念"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 19
+    min: 30
+  title: "緑仙＆八朔ゆず at:八朔ゆずのYouTubeチャンネル プレミア公開 怪盗ピーター＆ジェニイ 歌ってみた"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 20
+    min: 0
+  title: "葛葉＆歌衣メイカ at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -582,13 +617,6 @@
     hour: 23
     min: 0
   title: "社築 at:YouTube ※9日の配信内で告知"
-  end_time: 
-  uri: 
-- date: 2019-03-10
-  time:
-    hour: 16
-    min: 0
-  title: or18時00分～ シスター・クレア at:?
   end_time: 
   uri: 
 - date: 2019-03-09
