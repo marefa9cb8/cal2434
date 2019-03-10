@@ -128,6 +128,13 @@
   uri: 
 - date: 2019-03-16
   time:
+    hour: 19
+    min: 0
+  title: "第2回Vtuber男子校学力テスト at:天開司のYouTubeチャンネル ※03/10の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
@@ -278,7 +285,7 @@
   time:
     hour: 0
     min: 0
-  title: "ギルザレンIII世＆剣持刀也＆森中花咲 at:? VAMPIRE MEETING"
+  title: "ギルザレンIII世＆剣持刀也＆森中花咲 at:森中花咲のYouTubeチャンネル VAMPIRE MEETING"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -298,8 +305,8 @@
 - date: 2019-03-11
   time:
     hour: 0
-    min: 0
-  title: "夢月ロア at:YouTube スプラトゥーン2 ※Twitterネームより"
+    min: 10
+  title: "夢月ロア at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -307,6 +314,13 @@
     hour: 0
     min: 30
   title: "黒井しば at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 1
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -346,6 +360,13 @@
   uri: 
 - date: 2019-03-11
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube ※中止"
@@ -377,6 +398,11 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time: 
+  title: "？時？分(深夜)～ 緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -621,21 +647,28 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-10
   time:
     hour: 22
     min: 0
-  title: "葛葉＆歌衣メイカ＆乾伸一郎 at:? Apex Legends ※20時から時間変更"
+  title: "葛葉＆歌衣メイカ＆乾伸一郎 at:YouTube Apex Legends ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-10
   time:
     hour: 22
     min: 0
-  title: RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:各々のYouTubeチャンネル? Minecraft
+  title: RRR(鷹宮リオン＆竜胆尊＆ジョー・力一) at:各々のYouTubeチャンネル Minecraft
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 22
+    min: 30
+  title: "闇夜乃モルル at:YouTube ファイナルファンタジーVI"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -650,6 +683,34 @@
     hour: 23
     min: 0
   title: "社築 at:YouTube Please, Don't Touch Anything"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 23
+    min: 0
+  title: "成瀬鳴 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 23
+    min: 15
+  title: "宇志海いちご＆矢車りね＆ロボ子さん at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 23
+    min: 30
+  title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 23
+    min: 33
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-09
