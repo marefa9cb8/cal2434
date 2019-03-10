@@ -280,6 +280,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 0
+    min: 0
   title: "轟京子 at:YouTube サウスパーク語り"
   end_time: 
   uri: 
@@ -355,6 +362,13 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 13
+    min: 21
+  title: ") 叶＆ふぇありす  at:YouTube Apex Legends(耐久配信企画 1000キルとるまで眠れません！)"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 0
     min: 0
   title: "静凛＆闇夜乃モルル＆出雲霞＆鈴木勝＆飛鳥ひな＆鷹宮リオン＆遠北千南＆ベルモンド・バンデラス＆童田明治 at:静凛のYouTubeチャンネル 声劇"
@@ -411,9 +425,16 @@
   uri: 
 - date: 2019-03-10
   time:
+    hour: 7
+    min: 0
+  title: "シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
     hour: 8
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -428,6 +449,13 @@
     hour: 12
     min: 0
   title: "出雲霞 at:YouTube 「輪るピングドラム」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 13
+    min: 0
+  title: "椎名唯華 at:YouTube キミキス"
   end_time: 
   uri: 
 - date: 2019-03-10
@@ -554,6 +582,13 @@
     hour: 23
     min: 0
   title: "社築 at:YouTube ※9日の配信内で告知"
+  end_time: 
+  uri: 
+- date: 2019-03-10
+  time:
+    hour: 16
+    min: 0
+  title: or18時00分～ シスター・クレア at:?
   end_time: 
   uri: 
 - date: 2019-03-09
