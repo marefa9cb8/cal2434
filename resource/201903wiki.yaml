@@ -148,6 +148,20 @@
   end_time: 
   uri: 
 - date: 2019-03-16
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：樋口楓 at:YouTube しぃしぃラジオ 第3回"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 23
+    min: 0
+  title: "？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-16
   time: 
   title: "？時？分(昼)～ 闇夜乃モルル at:YouTube 約半年記念"
   end_time: 
@@ -269,6 +283,20 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube 俳句詠み"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 20
+    min: 0
+  title: "闇夜乃モルル＆？？？ at:? Apex Legends ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE ※リマインダーより"
@@ -296,8 +324,10 @@
   end_time: 
   uri: 
 - date: 2019-03-12
-  time: 
-  title: "？時？分(深夜?)～ 闇夜乃モルル＆？？？ at:? ※リマインダー予定表より"
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -373,8 +403,22 @@
 - date: 2019-03-11
   time:
     hour: 7
+    min: 2
+  title: "郡道美玲 at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 9
+    min: 0
+  title: "魔界ノりりむ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -400,9 +444,23 @@
   uri: 
 - date: 2019-03-11
   time:
+    hour: 17
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Identity V"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
     hour: 18
     min: 0
   title: "本間ひまわり＆ドーラ＆でびでび・でびる at:YouTube Apex Legends ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -437,7 +495,7 @@
   time:
     hour: 21
     min: 30
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube はじめてのWii"
   end_time: 
   uri: 
 - date: 2019-03-11
@@ -479,7 +537,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ※Twitterネームより"
+  title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-10
