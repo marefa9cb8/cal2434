@@ -255,6 +255,20 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 0
+    min: 0
+  title: "赤羽葉子 at:YouTube プレミア公開 赤羽葉子がホラー映画に出たら ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE ※リマインダーより"
@@ -417,6 +431,13 @@
     hour: 21
     min: 30
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-11
+  time:
+    hour: 21
+    min: 30
+  title: "椎名唯華 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-11
