@@ -252,7 +252,7 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube 朗読「押絵と旅する男」"
+  title: "鈴木勝 at:YouTube(2nd) 朗読「押絵と旅する男」"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -274,6 +274,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ＆ユキミお姉ちゃん＆ロボ子さん at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -332,7 +339,7 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:YouTube 雑談 ※リマインダー＆予定表より"
+  title: "夕陽リリ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -346,7 +353,7 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube Minecraft"
+  title: "鈴木勝 at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -391,6 +398,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 22
+    min: 0
+  title: "名伽尾アズマ＆八朔ゆず+ゲスト：羊乃しいぷ at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -524,9 +538,16 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 6
+    min: 5
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 12
     min: 0
-  title: "雪汝＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル?"
+  title: "雪汝＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Garry’s MOD"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -545,6 +566,20 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 17
+    min: 0
+  title: "春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 19
     min: 0
   title: "八朔ゆず at:YouTube お絵描き、雑談"
@@ -554,7 +589,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル＆宇志海いちご＆ロボ子さん at:YouTube Apex Legends"
+  title: "宇志海いちご＆闇夜乃モルル＆ロボ子さん at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -562,6 +597,13 @@
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 デリケートに好きして (Cover)"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -589,7 +631,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:? ※予定表より"
+  title: "(仮)～ ドーラ at:? ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -604,6 +646,20 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-12
