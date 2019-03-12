@@ -568,6 +568,13 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 14
+    min: 37
+  title: "家長むぎ at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 17
     min: 0
   title: "春崎エアル at:YouTube"
@@ -612,7 +619,7 @@
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE ※リマインダーより"
+  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -662,6 +669,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 21
+    min: 30
+  title: "成瀬鳴 at:YouTube ※19時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-12
