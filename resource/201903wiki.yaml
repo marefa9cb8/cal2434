@@ -353,9 +353,30 @@
   uri: 
 - date: 2019-03-13
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube デジモンワールド"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 2
+    min: 0
+  title: "花畑チャイカ＆緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 13
+    min: 0
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -434,17 +455,19 @@
   time:
     hour: 23
     min: 0
+  title: "森中花咲 at:YouTube 俺兄選手権"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-13
   time: 
   title: "？時？分(仮)～ 花畑チャイカ at:? バイノーラル"
-  end_time: 
-  uri: 
-- date: 2019-03-13
-  time: 
-  title: "？時？分(昼)～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -575,9 +598,16 @@
   uri: 
 - date: 2019-03-12
   time:
+    hour: 16
+    min: 5
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
     hour: 17
-    min: 0
-  title: "春崎エアル at:YouTube"
+    min: 17
+  title: "春崎エアル at:YouTube 退院記念"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -585,6 +615,13 @@
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 18
+    min: 30
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -603,16 +640,30 @@
   uri: 
 - date: 2019-03-12
   time:
-    hour: 20
-    min: 0
-  title: "宇志海いちご＆闇夜乃モルル＆ロボ子さん at:YouTube Apex Legends"
+    hour: 19
+    min: 30
+  title: "鷹宮リオン at:YouTube Dead by Daylight、Apex Legends、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 19
+    min: 50
+  title: "神田笑一 at:YouTube ファンタシースターオンライン"
   end_time: 
   uri: 
 - date: 2019-03-12
   time:
     hour: 20
     min: 0
-  title: "叶 at:? デビル メイ クライ5 ※Twitterネームより"
+  title: "宇志海いちご＆闇夜乃モルル＆ロボ子さん at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 20
+    min: 0
+  title: "叶 at:YouTube デビル メイ クライ5"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -632,8 +683,22 @@
 - date: 2019-03-12
   time:
     hour: 20
-    min: 0
-  title: "童田明治 at:YouTube プレミア公開"
+    min: 30
+  title: 40分～ シスター・クレア at:YouTube 懺悔室R
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 20
+    min: 40
+  title: "飛鳥ひな at:YouTube 告知"
+  end_time: 
+  uri: 
+- date: 2019-03-12
+  time:
+    hour: 20
+    min: 30
+  title: 53分～ 童田明治 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -647,7 +712,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -689,14 +754,14 @@
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-03-12
   time:
     hour: 22
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 毛糸のカービィ"
   end_time: 
   uri: 
 - date: 2019-03-12
@@ -1222,13 +1287,6 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube サウスパーク語り ※翌0時に時間変更"
-  end_time: 
-  uri: 
-- date: 2019-03-10
-  time:
-    hour: 20
-    min: 0
-  title: "真堂雷斗 at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2019-03-10
