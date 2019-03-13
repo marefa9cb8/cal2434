@@ -81,6 +81,13 @@
   time:
     hour: 21
     min: 0
+  title: "渋谷ハジメ＆粛正罰丸 at:YouTube 渋谷カフェ：つなげようお客様の輪 第28回"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:? ※予定表より"
   end_time: 
   uri: 
@@ -531,14 +538,15 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube Minecraft"
+  title: 19分～ にじさんじバトロワBチーム(笹木咲＆本間ひまわり＆名伽尾アズマ＆出雲霞＆ベルモンド・バンデラス＆夢追翔＆童田明治) at:本間ひまわり、出雲霞、夢追翔、童田明治のYouTubeチャンネル
+    Minecraft
   end_time: 
   uri: 
 - date: 2019-03-13
   time:
     hour: 19
     min: 0
-  title: "シスター・クレア at:YouTube 歌(アニメソング縛り)"
+  title: "シスター・クレア at:YouTube 歌(日常系アニメ関連)"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -559,14 +567,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #10"
-  end_time: 
-  uri: 
-- date: 2019-03-13
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:YouTube 歌(女性向けアニメソング) ※予定表より"
+  title: "緑仙 at:YouTube 歌(女性向けアニメソング)"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -589,14 +590,21 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:? ※予定表より"
+  title: "夕陽リリ＆剣持刀也 at:夕陽リリのYouTubeチャンネル プレミア公開 A Way Out #10"
   end_time: 
   uri: 
 - date: 2019-03-13
   time:
     hour: 22
     min: 0
-  title: "名伽尾アズマ＆八朔ゆず+ゲスト：羊乃しいぷ at:YouTube アズゆずヌーボ～恋愛妄想トーク～"
+  title: " Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:?"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -617,7 +625,7 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube ※11日配信で告知"
+  title: "御伽原江良 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-13
@@ -652,6 +660,13 @@
   time:
     hour: 23
     min: 0
+  title: "名伽尾アズマ＆八朔ゆず+ゲスト：羊乃しいぷ at:八朔ゆずのYouTubeチャンネル アズゆずヌーボ～恋愛妄想トーク～"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 23
+    min: 0
   title: "花畑チャイカ at:YouTube 5万人記念、バイノーラル"
   end_time: 
   uri: 
@@ -659,17 +674,19 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "?～ 神田笑一 at:YouTube ファンタシースターオンライン"
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
 - date: 2019-03-13
   time: 
   title: "？時？分(夜)～ 叶 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-03-13
-  time: 
-  title: "？時？分(仮)～  Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:YouTube Minecraft ※魔界ノりりむ・卯月コウ配信内で告知"
   end_time: 
   uri: 
 - date: 2019-03-12
