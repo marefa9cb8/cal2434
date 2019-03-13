@@ -503,14 +503,21 @@
   time:
     hour: 13
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: 11分～ 雨森小夜 at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-03-13
+  time:
+    hour: 14
+    min: 40
+  title: "渋谷ハジメ at:YouTube ギター練習"
   end_time: 
   uri: 
 - date: 2019-03-13
   time:
     hour: 16
     min: 0
-  title: "鷹宮リオン at:YouTube Minecraft"
+  title: "夢の国企画 at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-13
