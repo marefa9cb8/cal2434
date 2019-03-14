@@ -392,14 +392,22 @@
   time:
     hour: 14
     min: 0
-  title: "本間ひまわり＆ドーラ＆鷹宮リオン＆でびでび・でびる at:YouTube Human: Fall Flat ※配信内容は本間ひまわりのリマインダーより"
+  title: '11分～ 本間ひまわり＆ドーラ＆鷹宮リオン＆でびでび・でびる at:各々のYouTubeチャンネル(でびでび・でびる：2nd) Human: Fall
+    Flat'
   end_time: 
   uri: 
 - date: 2019-03-14
   time:
-    hour: 15
+    hour: 14
+    min: 48
+  title: "渋谷ハジメ at:YouTube ギター練習"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 16
     min: 0
-  title: "闇夜乃モルル at:YouTube DX人生ゲームII ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube DX人生ゲームII"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -407,13 +415,6 @@
     hour: 18
     min: 0
   title: "本間ひまわり at:?"
-  end_time: 
-  uri: 
-- date: 2019-03-14
-  time:
-    hour: 19
-    min: 0
-  title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Hand Simulator"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -434,7 +435,7 @@
   time:
     hour: 20
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲 at:鈴鹿詩子のYouTubeチャンネル
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲） at:鈴鹿詩子のYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -464,6 +465,20 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 21
+    min: 0
+  title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Hand Simulator ※19時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 21
+    min: 0
+  title: "魔界ノりりむ＆葛葉＆轟京子＆社築＆卯月コウ＆舞元啓介＆久遠千歳 at:YouTube Minecraft(にじさんじバトルロワイヤルAチーム作戦会議)"
   end_time: 
   uri: 
 - date: 2019-03-14
