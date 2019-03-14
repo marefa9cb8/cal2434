@@ -1,4 +1,11 @@
 ---
+- date: 2019-03-31
+  time:
+    hour: 23
+    min: 0
+  title: "樋口楓 at:YouTube? オール配信"
+  end_time: 
+  uri: 
 - date: 2019-03-30
   time:
     hour: 14
@@ -49,6 +56,13 @@
     hour: 23
     min: 0
   title: "剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -107,6 +121,13 @@
   title: "ドーラ at:? ※予定表より"
   end_time: 
   uri: 
+- date: 2019-03-19
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:YouTube? 雑談"
+  end_time: 
+  uri: 
 - date: 2019-03-18
   time:
     hour: 6
@@ -119,6 +140,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:YouTube NARUTO-ナルト-疾風伝 ナルティメットストームトリロジー"
   end_time: 
   uri: 
 - date: 2019-03-18
@@ -175,6 +203,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ+ゲスト：モイラ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #18"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 22
+    min: 0
+  title: "樋口楓 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -405,6 +440,20 @@
   uri: 
 - date: 2019-03-14
   time:
+    hour: 15
+    min: 0
+  title: "雪汝＆白百合リリィ＆百鬼あやめ at:白百合リリィ、百鬼あやめのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 15
+    min: 21
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
     hour: 16
     min: 0
   title: "闇夜乃モルル at:YouTube DX人生ゲームII"
@@ -414,7 +463,7 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:?"
+  title: "本間ひまわり at:YouTube はたらくヒト"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -422,6 +471,13 @@
     hour: 19
     min: 0
   title: "椎名唯華 at:YouTube Wii Music"
+  end_time: 
+  uri: 
+- date: 2019-03-14
+  time:
+    hour: 19
+    min: 0
+  title: "?～ シスター・クレア at:?"
   end_time: 
   uri: 
 - date: 2019-03-14
