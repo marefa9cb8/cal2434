@@ -383,13 +383,6 @@
   uri: 
 - date: 2019-03-14
   time:
-    hour: 6
-    min: 0
-  title: "シスター・クレア at:YouTube Minecraft ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-03-14
-  time:
     hour: 15
     min: 0
   title: "闇夜乃モルル at:YouTube DX人生ゲームII ※リマインダーより"
@@ -399,7 +392,7 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:? Hand Simulator"
+  title: "闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Hand Simulator"
   end_time: 
   uri: 
 - date: 2019-03-14
@@ -427,7 +420,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? ※予定表より"
+  title: "緑仙 at:YouTube ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-14
