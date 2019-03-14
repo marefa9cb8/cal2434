@@ -330,8 +330,22 @@
 - date: 2019-03-15
   time:
     hour: 0
-    min: 0
+    min: 30
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-15
+  time:
+    hour: 1
+    min: 20
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-15
+  time:
+    hour: 1
+    min: 35
+  title: "静凛 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-15
@@ -345,7 +359,7 @@
   time:
     hour: 12
     min: 0
-  title: "闇夜乃モルル＆でびでび・でびる＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル? Dead by Daylight ※参加者：闇夜乃モルルリマインダー予定表より"
+  title: "闇夜乃モルル＆でびでび・でびる＆ロボ子さん＆癒月ちょこ at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-15
@@ -395,6 +409,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-03-15
+  time:
+    hour: 23
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-14
