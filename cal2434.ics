@@ -27392,6 +27392,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190315T052300
+SUMMARY:竜胆尊 at:YouTube ASMR
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190315T064500
 SUMMARY:伏見ガク at:YouTube おはガク！ ホワイトデーにまつわるデザート
 URL:
@@ -27399,7 +27405,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190315T120000
-SUMMARY:闇夜乃モルル＆でびでび・でびる＆ロボ子さん＆癒月ちょこ at:YouTube Dead by Daylight
+SUMMARY:闇夜乃モルル＆でびでび・でびる＆ロボ子さん＆癒月ちょこ at:各々のYouTubeチャンネル(でびでび・でびる：2nd) Dead by Daylight
 URL:
 DESCRIPTION:
 END:VEVENT
