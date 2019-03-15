@@ -219,6 +219,11 @@
   title: "鈴鹿詩子＆竜胆尊 at:YouTube 晩酌、雑談"
   end_time: 
   uri: 
+- date: 2019-03-17
+  time: 
+  title: "？時？分(深夜)～ 郡道美玲＆？？？ at:? Minecraft?"
+  end_time: 
+  uri: 
 - date: 2019-03-16
   time:
     hour: 0
@@ -235,6 +240,13 @@
   uri: 
 - date: 2019-03-16
   time:
+    hour: 1
+    min: 0
+  title: "でびでび・でびる＆郡道美玲 at:でびでび・でびる(2nd)のYouTubeチャンネル 言葉責め"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:YouTube Minecraft ※予定表より"
@@ -245,6 +257,13 @@
     hour: 12
     min: 30
   title: "安土桃 at:YouTube お絵描き ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 13
+    min: 0
+  title: "雨森小夜 at:YouTube 作業?"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -317,6 +336,16 @@
   uri: 
 - date: 2019-03-16
   time: 
+  title: "？時？分(朝?)～ 郡道美玲 at:YouTube イタリア旅行記"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time: 
+  title: "？時？分(昼頃)～ 郡道美玲 at:OPENREC.tv スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time: 
   title: "？時？分(夜)～ 郡道美玲 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
@@ -373,7 +402,7 @@
   time:
     hour: 17
     min: 0
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-15
@@ -430,6 +459,13 @@
     hour: 23
     min: 30
   title: "森中花咲 at:YouTube 1周年記念、百合談義"
+  end_time: 
+  uri: 
+- date: 2019-03-15
+  time:
+    hour: 23
+    min: 30
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-14
