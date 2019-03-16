@@ -48,7 +48,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 昼やスミ カステラ"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -429,6 +429,20 @@
   uri: 
 - date: 2019-03-16
   time:
+    hour: 16
+    min: 40
+  title: "郡道美玲 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 17
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 ビターチョコデコレーション / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
@@ -535,18 +549,15 @@
 - date: 2019-03-16
   time:
     hour: 23
+    min: 0
+  title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 23
     min: 50
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
-  end_time: 
-  uri: 
-- date: 2019-03-16
-  time: 
-  title: "？時？分～ 成瀬鳴 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-03-16
-  time: 
-  title: "？時？分(昼頃)～ 郡道美玲 at:OPENREC.tv スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-16
