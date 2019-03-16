@@ -137,6 +137,13 @@
   uri: 
 - date: 2019-03-18
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube デジモンワールド"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -191,6 +198,20 @@
   title: "名伽尾アズマ at:YouTube 非モテ円卓会議"
   end_time: 
   uri: 
+- date: 2019-03-18
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-03-17
   time:
     hour: 1
@@ -203,6 +224,13 @@
     hour: 12
     min: 0
   title: "出雲霞 at:YouTube 「輪るピングドラム」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 13
+    min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -298,7 +326,7 @@
   time:
     hour: 1
     min: 0
-  title: "花畑チャイカ at:YouTube"
+  title: "花畑チャイカ at:YouTube 雑談、プレゼント・手紙紹介"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -312,42 +340,77 @@
   time:
     hour: 1
     min: 17
-  title: "闇夜乃モルル at:YouTube カラータイル"
+  title: "闇夜乃モルル at:YouTube カラータイル、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 2
+    min: 53
+  title: "でびでび・でびる＆夢月ロア at:両名のYouTubeチャンネル(でびでび・でびる：2nd) Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 3
+    min: 0
+  title: "郡道美玲 at:YouTube 雑談、作業"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 8
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 10
-    min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+    min: 55
+  title: "神田笑一 at:YouTube ファンタシースターオンライン"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 12
     min: 30
-  title: "安土桃 at:YouTube お絵描き ※リマインダーより"
+  title: 40分～ 安土桃 at:YouTube お絵描き
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 13
     min: 0
-  title: "雨森小夜 at:YouTube 作業?"
+  title: "森中花咲 at:YouTube AMNESIA"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 13
+    min: 0
+  title: "魔界ノりりむ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 13
+    min: 30
+  title: "雨森小夜 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 14
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ at:YouTube Minecraft(×辛辛魚喫食)"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 14
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -368,6 +431,13 @@
   time:
     hour: 19
     min: 0
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 19
+    min: 0
   title: "第2回Vtuber男子校学力テスト at:天開司のYouTubeチャンネル"
   end_time: 
   uri: 
@@ -382,14 +452,28 @@
   time:
     hour: 19
     min: 0
-  title: "鈴木勝 at:YouTube Wii Fit"
+  title: "鈴木勝 at:YouTube Wii Fit Plus"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
-    hour: 20
+    hour: 21
     min: 0
-  title: "緑仙 at:YouTube 雑談 ※予定表＆リマインダーより"
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 21
+    min: 0
+  title: "社築 at:YouTube beatmaniaⅡDX"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 21
+    min: 0
+  title: "神田笑一 at:YouTube ゼノブレイド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -422,6 +506,20 @@
   uri: 
 - date: 2019-03-16
   time:
+    hour: 22
+    min: 0
+  title: "桜凛月＆ベルモンド・バンデラス at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 22
+    min: 30
+  title: "鷹宮リオン＆湊あくあ at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：樋口楓 at:YouTube しぃしぃラジオ 第3回"
@@ -435,13 +533,15 @@
   end_time: 
   uri: 
 - date: 2019-03-16
-  time: 
-  title: "？時？分～ 成瀬鳴 at:YouTube"
+  time:
+    hour: 23
+    min: 50
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-03-16
   time: 
-  title: "？時？分(朝?)～ 郡道美玲 at:YouTube イタリア旅行記"
+  title: "？時？分～ 成瀬鳴 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-16
