@@ -60,9 +60,23 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 20
+    min: 0
+  title: "小野町春香＆瀬戸美夜子 at:YouTube 質問・お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル＆出雲霞 at:出雲霞のYouTubeチャンネル? ※チャンネルコミュニティ予定表より"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -209,7 +223,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 0
+    min: 30
+  title: "魔界ノりりむ＆夢月ロア at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -217,6 +238,13 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 1
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -238,6 +266,20 @@
     hour: 1
     min: 0
   title: "御伽原江良 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 9
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -266,6 +308,13 @@
     hour: 14
     min: 0
   title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 15
+    min: 0
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -501,13 +550,6 @@
   time:
     hour: 21
     min: 0
-  title: "笹木咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-03-16
-  time:
-    hour: 21
-    min: 0
   title: "社築 at:YouTube beatmaniaⅡDX RED"
   end_time: 
   uri: 
@@ -515,7 +557,7 @@
   time:
     hour: 21
     min: 0
-  title: "神田笑一 at:YouTube ゼノブレイド ※リマインダーより"
+  title: "神田笑一 at:YouTube ゼノブレイド"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -529,14 +571,21 @@
   time:
     hour: 21
     min: 0
-  title: "御伽原江良 at:YouTube TheHOUSE"
+  title: "御伽原江良 at:YouTube TheHOUSE、日本地図クイズ"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 21
+    min: 6
+  title: "笹木咲 at:YouTube マリオパーティ"
   end_time: 
   uri: 
 - date: 2019-03-16
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Rain World"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -564,7 +613,7 @@
   time:
     hour: 22
     min: 30
-  title: "鷹宮リオン＆湊あくあ at:?"
+  title: "鷹宮リオン＆湊あくあ at:湊あくあのYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -572,6 +621,13 @@
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：樋口楓 at:YouTube しぃしぃラジオ 第3回"
+  end_time: 
+  uri: 
+- date: 2019-03-16
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-03-16
@@ -593,11 +649,6 @@
     hour: 23
     min: 50
   title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
-  end_time: 
-  uri: 
-- date: 2019-03-16
-  time: 
-  title: "？時？分(仮)～ 郡道美玲 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-15
