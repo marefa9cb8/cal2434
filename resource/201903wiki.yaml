@@ -265,7 +265,7 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft、にじさんじ検定"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -319,6 +319,20 @@
   uri: 
 - date: 2019-03-17
   time:
+    hour: 3
+    min: 11
+  title: "安土桃 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 3
+    min: 30
+  title: "ドーラ at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube"
@@ -329,6 +343,13 @@
     hour: 9
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 12
+    min: 0
+  title: "笹木咲 at:YouTube スーパーマリオサンシャイン"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -412,7 +433,21 @@
   time:
     hour: 22
     min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 22
+    min: 0
   title: "緑仙 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 22
+    min: 0
+  title: "癒月ちょこ＆ゲスト：町田ちま at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-03-17
