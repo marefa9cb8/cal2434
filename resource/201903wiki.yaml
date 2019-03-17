@@ -58,6 +58,13 @@
   title: "出雲霞 at:YouTube 昼やスミ カステラ"
   end_time: 
   uri: 
+- date: 2019-03-23
+  time:
+    hour: 19
+    min: 0
+  title: "叶＆葛葉＆椎名唯華＆舞元啓介＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル シャドバ大会Vtuber杯"
+  end_time: 
+  uri: 
 - date: 2019-03-22
   time:
     hour: 23
@@ -151,6 +158,14 @@
   uri: 
 - date: 2019-03-19
   time:
+    hour: 21
+    min: 0
+  title: "夢追翔＆黒井しば+ゲスト：ヒモと財布(遠北千南＆矢車りね) at:YouTube もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+    #5"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube? 雑談"
@@ -179,6 +194,13 @@
   uri: 
 - date: 2019-03-18
   time:
+    hour: 2
+    min: 0
+  title: "椎名唯華＆花畑チャイカ＆卯月コウ＆ジョー・力一 at:花畑チャイカのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 飯フェス(ご飯+好きなおかず)"
@@ -200,6 +222,20 @@
   uri: 
 - date: 2019-03-18
   time:
+    hour: 19
+    min: 30
+  title: "シスター・クレア at:YouTube プレミア公開 はずかしい叫喚の20分"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
+    hour: 20
+    min: 0
+  title: "鈴谷アキ＆森中花咲＆夢追翔＆黒井しば at:にじさんじ公式YouTubeチャンネル 第16回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
     hour: 21
     min: 0
   title: "月ノ美兎 at:YouTube アマガミ#6"
@@ -217,6 +253,13 @@
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube NARUTO-ナルト-疾風伝 ナルティメットストームトリロジー"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル もしもシチュエーション"
   end_time: 
   uri: 
 - date: 2019-03-18
@@ -245,6 +288,16 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time: 
+  title: "？時？分(昼)～ 家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time: 
+  title: "？時？分～ 夢月ロア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -405,7 +458,7 @@
   time:
     hour: 15
     min: 0
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -413,6 +466,13 @@
     hour: 15
     min: 54
   title: "鷹宮リオン at:YouTube Dead by Daylight、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 16
+    min: 42
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -426,14 +486,21 @@
   time:
     hour: 18
     min: 0
-  title: "勇気ちひろ＆桜凛月 at:YouTube Minecraft"
+  title: "勇気ちひろ＆桜凛月 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-17
   time:
     hour: 18
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube 8万人記念、雑談、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 18
+    min: 40
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -447,14 +514,14 @@
   time:
     hour: 20
     min: 0
-  title: "合唱コンクール at:緑仙のYouTubeチャンネル ※開始時刻：ドーラ、緑仙の予定表より"
+  title: "合唱コンクール at:緑仙のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-03-17
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube PC・周辺機器レビュー"
+  title: "静凛 at:YouTube PC・周辺機器レビュー(Apex Legends)"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -462,6 +529,13 @@
     hour: 21
     min: 0
   title: "でびでび・でびる＆夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 21
+    min: 30
+  title: "成瀬鳴 at:YouTube グランツーリスモSPORT"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -508,14 +582,16 @@
   uri: 
 - date: 2019-03-17
   time:
-    hour: 23
-    min: 0
-  title: "鈴鹿詩子＆竜胆尊 at:竜胆尊のYouTubeチャンネル 晩酌、雑談"
+    hour: 22
+    min: 15
+  title: "える at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-03-17
-  time: 
-  title: "？時？分(合唱コラボ後)～ える at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子＆竜胆尊 at:竜胆尊のYouTubeチャンネル 晩酌、雑談"
   end_time: 
   uri: 
 - date: 2019-03-17
