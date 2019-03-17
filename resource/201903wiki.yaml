@@ -181,7 +181,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ 飯フェス(ご飯+好きなおかず)"
   end_time: 
   uri: 
 - date: 2019-03-18
@@ -349,7 +349,14 @@
   time:
     hour: 9
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆騎士竜戦隊リュウソウジャー感想会"
   end_time: 
   uri: 
 - date: 2019-03-17
@@ -427,6 +434,13 @@
     hour: 21
     min: 0
   title: "静凛 at:YouTube PC・周辺機器レビュー"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
+    hour: 21
+    min: 0
+  title: "でびでび・でびる＆夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-17
