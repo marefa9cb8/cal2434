@@ -281,7 +281,7 @@
 - date: 2019-03-18
   time:
     hour: 3
-    min: 0
+    min: 2
   title: "鈴鹿詩子 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -304,6 +304,13 @@
     hour: 10
     min: 0
   title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
+    hour: 12
+    min: 0
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-03-18
@@ -395,11 +402,6 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-03-18
-  time: 
-  title: "？時？分(昼)～ 家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-18
