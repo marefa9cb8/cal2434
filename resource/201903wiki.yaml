@@ -375,6 +375,13 @@
   uri: 
 - date: 2019-03-17
   time:
+    hour: 12
+    min: 30
+  title: "神田笑一 at:YouTube ファンタシースターオンライン"
+  end_time: 
+  uri: 
+- date: 2019-03-17
+  time:
     hour: 13
     min: 0
   title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
@@ -426,7 +433,7 @@
   time:
     hour: 20
     min: 0
-  title: "?～ 合唱コンクール at:緑仙のYouTubeチャンネル ※開始時刻：ドーラ、緑仙の予定表より"
+  title: "合唱コンクール at:緑仙のYouTubeチャンネル ※開始時刻：ドーラ、緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-03-17
