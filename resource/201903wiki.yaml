@@ -176,7 +176,7 @@
   time:
     hour: 20
     min: 0
-  title: "小野町春香＆瀬戸美夜子 at:YouTube 質問・お悩み相談"
+  title: "小野町春香＆瀬戸美夜子 at:瀬戸美夜子のYouTubeチャンネル 質問・お悩み相談"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -212,6 +212,16 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time: 
+  title: "？時？分(昼?)～ 家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time: 
+  title: "？時？分(昼?)～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -297,20 +307,6 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:YouTube 1周年記念"
-  end_time: 
-  uri: 
-- date: 2019-03-19
-  time:
-    hour: 0
-    min: 0
-  title: "成瀬鳴＆黒井しば＆皆守ひいろ at:皆守ひいろのYouTubeチャンネル Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-03-19
-  time:
-    hour: 0
-    min: 0
   title: "久遠千歳 at:YouTube 影廊 -Shadow Corridor-"
   end_time: 
   uri: 
@@ -324,15 +320,37 @@
 - date: 2019-03-19
   time:
     hour: 0
+    min: 2
+  title: "夕陽リリ at:YouTube 1周年記念"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 0
     min: 30
-  title: "轟京子 at:YouTube South Park: The Stick of Truth"
+  title: "成瀬鳴＆黒井しば＆皆守ひいろ at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 0
+    min: 52
+  title: "瀬戸美夜子 at:YouTube 「第二回学力テスト 新春！女だらけの#VakaTuberは誰だ」出題問題挑戦"
   end_time: 
   uri: 
 - date: 2019-03-19
   time:
     hour: 1
     min: 0
-  title: "笹木咲＆魔界ノりりむ＆葛葉＆椎名唯華 at:椎名唯華のYouTubeチャンネル THE DIVISION2"
+  title: "笹木咲＆魔界ノりりむ＆葛葉＆椎名唯華 at:椎名唯華魔界ノりりむのYouTubeチャンネル→椎名唯華のYouTubeチャンネル THE DIVISION2
+    ※配信場所変更→再度変更"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 1
+    min: 0
+  title: "轟京子 at:YouTube South Park: The Stick of Truth ※0時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-19
@@ -408,6 +426,13 @@
   uri: 
 - date: 2019-03-19
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube? 雑談"
@@ -438,7 +463,7 @@
   time:
     hour: 23
     min: 0
-  title: "夕陽リリ at:YouTube Momecraft ※リマインダー予定表より"
+  title: "夕陽リリ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-19
