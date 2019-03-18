@@ -144,9 +144,23 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:? Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 12
+    min: 0
+  title: "鷹宮リオン＆？？？"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -177,6 +191,13 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #25』"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -322,16 +343,16 @@
   uri: 
 - date: 2019-03-18
   time:
-    hour: 10
+    hour: 12
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-03-18
   time:
-    hour: 12
+    hour: 13
     min: 0
-  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-18
@@ -402,6 +423,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-18
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-18
