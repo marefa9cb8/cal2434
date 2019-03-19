@@ -267,7 +267,21 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio"
+  title: "剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio ※4月7日に延期"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 23
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+ゲスト：夢追翔 at:花畑チャイカのYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -380,14 +394,35 @@
   time:
     hour: 0
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:YouTube ドリームクラブ
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:名伽尾アズマのYouTubeチャンネル ドリームクラブ
   end_time: 
   uri: 
 - date: 2019-03-20
   time:
     hour: 0
-    min: 15
-  title: "でびでび・でびる＆久遠千歳＆郡道美玲＆夢月ロア at:YouTube スプラトゥーン2"
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 0
+    min: 8
+  title: "でびでび・でびる＆久遠千歳＆郡道美玲＆夢月ロア at:でびでび・でびる(2nd)、郡道美玲、夢月ロアのYouTubeチャンネル スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 1
+    min: 25
+  title: "黒井しば at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 2
+    min: 0
+  title: "鷹宮リオン at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -408,7 +443,7 @@
   time:
     hour: 12
     min: 0
-  title: "鷹宮リオン＆？？？ at:?"
+  title: "鷹宮リオン＆でびでび・でびる＆癒月ちょこ at:?"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -416,6 +451,13 @@
     hour: 15
     min: 0
   title: "ドーラ at:YouTube ウクレレ練習 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 16
+    min: 0
+  title: "叶 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -473,7 +515,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子＆？？？ at:?"
+  title: "癒月ちょこ＆ゲスト：轟京子 at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -501,7 +543,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube ※22日に変更"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 23
+    min: 0
+  title: "童田明治＆御伽原江良 at:両名のYouTubeチャンネル Wild Animal Racing"
   end_time: 
   uri: 
 - date: 2019-03-20
