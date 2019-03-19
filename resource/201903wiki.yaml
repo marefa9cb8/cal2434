@@ -155,7 +155,7 @@
   time:
     hour: 19
     min: 0
-  title: "叶＆葛葉＆椎名唯華＆舞元啓介＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル シャドバ大会Vtuber杯"
+  title: "叶＆葛葉＆椎名唯華＆舞元啓介＆ユキミお姉ちゃん at:ユキミお姉ちゃんのYouTubeチャンネル シャドバ大会Vtuber杯 ※トーナメント表"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -305,6 +305,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 0
+    min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+舞元啓介 at:YouTube ドリームクラブ
   end_time: 
   uri: 
@@ -312,7 +319,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft"
+  title: "?～ でびでび・でびる＆久遠千歳＆郡道美玲＆夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -538,6 +545,13 @@
 - date: 2019-03-19
   time:
     hour: 19
+    min: 9
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 19
     min: 30
   title: "伏見ガク at:YouTube 1周年記念"
   end_time: 
@@ -553,7 +567,15 @@
   time:
     hour: 20
     min: 0
-  title: "田中ヒメ＆鈴木ヒナ+ゲスト：ミライアカリ＆月ノ美兎＆ピーナッツくん at:ヒメヒナのYouTubeチャンネル、ニコニコ生放送 1周年！ヒメヒナ大感謝祭2019"
+  title: "田中ヒメ＆鈴木ヒナ+ゲスト：ミライアカリ＆月ノ美兎＆ピーナッツくん at:ヒメヒナのYouTubeチャンネル、ニコニコ生放送、bilibili
+    1周年！ヒメヒナ大感謝祭2019"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 20
+    min: 0
+  title: "叶 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-19
@@ -567,7 +589,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 雑談 ※予定表より"
+  title: "緑仙 at:? 雑談 ※予定表より ※"
   end_time: 
   uri: 
 - date: 2019-03-19
@@ -582,6 +604,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆粛正罰丸 at:YouTube 渋谷カフェ：つなげようお客様の輪 第28回"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-19
@@ -610,7 +639,21 @@
   time:
     hour: 22
     min: 0
+  title: "叶 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-19
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-19
@@ -624,7 +667,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる＆周防パトラ at:YouTube(2nd)"
+  title: "でびでび・でびる＆周防パトラ at:YouTube(2nd) お酒飲み比べ"
   end_time: 
   uri: 
 - date: 2019-03-19
