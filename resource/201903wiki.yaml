@@ -293,9 +293,30 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 0
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびる(2nd)のYouTubeチャンネル でびリオンラジオ ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 1
     min: 0
   title: "叶＆椎名唯華 at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -380,6 +401,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 23
+    min: 30
+  title: "郡道美玲 at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -478,14 +506,28 @@
   time:
     hour: 15
     min: 0
-  title: "ドーラ at:YouTube ウクレレ練習 ※予定表より"
+  title: "ドーラ at:YouTube ウクレレ練習"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 15
+    min: 0
+  title: "鷹宮リオン at:YouTube カラオケ"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 17
+    min: 30
+  title: "葛葉 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-20
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube"
+  title: "本間ひまわり at:YouTube 脳を鍛える大人のDSトレーニング"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -493,6 +535,13 @@
     hour: 19
     min: 0
   title: "叶 at:YouTube プレミア公開 #1 / ApexLegendsの３０年前の世界に行ってみた。 ｜TITANFALL2"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 19
+    min: 0
+  title: "笹木咲 at:YouTube Death Trips"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -557,7 +606,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり＆社築＆ベルモンド・バンデラス at:YouTube Apex Legends×検証企画"
+  title: "本間ひまわり＆社築＆ベルモンド・バンデラス at:各々のYouTubeチャンネル? Apex Legends×検証企画"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -600,6 +649,13 @@
     hour: 23
     min: 0
   title: "童田明治＆御伽原江良 at:両名のYouTubeチャンネル Wild Animal Racing"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube 「バーチャルさんはみている」同時視聴 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-20
