@@ -300,6 +300,13 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 17
+    min: 0
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
@@ -358,7 +365,7 @@
   time:
     hour: 22
     min: 0
-  title: "黒井しば＆レンチ at:? みんなでマグマダイブRTA"
+  title: "黒井しば＆レンチ at:レンチのYouTubeチャンネル Minecraft(みんなでマグマダイブRTA)"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -464,7 +471,7 @@
   time:
     hour: 12
     min: 0
-  title: "鷹宮リオン＆でびでび・でびる＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  title: "鷹宮リオン＆でびでび・でびる＆癒月ちょこ at:鷹宮リオンのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-20
@@ -485,7 +492,21 @@
   time:
     hour: 19
     min: 0
+  title: "叶 at:YouTube プレミア公開 #1 / ApexLegendsの３０年前の世界に行ってみた。 ｜TITANFALL2"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 19
+    min: 0
   title: "出雲霞 at:YouTube 最強甘口カレー作り"
+  end_time: 
+  uri: 
+- date: 2019-03-20
+  time:
+    hour: 19
+    min: 0
+  title: "シスター・クレア at:YouTube 懺悔室"
   end_time: 
   uri: 
 - date: 2019-03-20
