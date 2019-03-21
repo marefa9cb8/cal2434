@@ -288,9 +288,23 @@
   uri: 
 - date: 2019-03-22
   time:
+    hour: 0
+    min: 10
+  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
     hour: 1
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "緑仙＆鷹宮リオン＆舞元啓介＆ベルモンド・バンデラス at:緑仙のYouTubeチャンネル プロレス芸講座"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 1
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -325,6 +339,13 @@
   time:
     hour: 20
     min: 0
+  title: "葛葉 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 20
+    min: 0
   title: "社築 at:YouTube 「ハッカドール1周年記念配信」同時視聴"
   end_time: 
   uri: 
@@ -340,6 +361,20 @@
     hour: 21
     min: 0
   title: "成瀬鳴＆七瀬タク at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -389,6 +424,18 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube QWOP"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time: 
+  title: "？時？分～ 夢月ロア at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -599,14 +646,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
-  end_time: 
-  uri: 
-- date: 2019-03-21
-  time:
-    hour: 21
-    min: 30
-  title: "成瀬鳴 at:YouTube Minecraft"
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -627,35 +667,35 @@
   time:
     hour: 22
     min: 0
-  title: "?～ 本間ひまわり＆？？？ at:?"
+  title: "シスター・クレア at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 22
     min: 0
-  title: "卯月コウ at:?"
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 22
     min: 0
-  title: "鷹宮リオン at:YouTube Minecraft"
+  title: "夢の国企画 at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 22
     min: 0
-  title: "矢車りね at:YouTube Minecraft"
+  title: "成瀬鳴 at:YouTube Minecraft ※21時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 22
     min: 0
-  title: "黒井しば＆レンチ＆GM：皆守ひいろ at:レンチのYouTubeチャンネル(本配信) Minecraft(みんなでマグマダイブRTA)"
+  title: "でびでび・でびる＆黒井しば＆レンチ＆GM：皆守ひいろ at:レンチのYouTubeチャンネル(本配信) Minecraft(みんなでマグマダイブRTA)"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -669,7 +709,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube 燃やすな えるふの森"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -677,6 +717,13 @@
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 晩酌"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 23
+    min: 20
+  title: "叶＆赤羽葉子＆本間ひまわり＆葛葉 at:叶のYouTubeチャンネル 告知、Golf It!"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -690,7 +737,7 @@
   time:
     hour: 23
     min: 30
-  title: "郡道美玲 at:YouTube 収益化記念、イタリア旅行記"
+  title: 47分～ 郡道美玲 at:YouTube 収益化記念、イタリア旅行記
   end_time: 
   uri: 
 - date: 2019-03-20
