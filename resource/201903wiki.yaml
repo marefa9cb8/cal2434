@@ -325,14 +325,7 @@
   time:
     hour: 20
     min: 0
-  title: "社築 at:YouTube ハッカドール生放送同時視聴 ※20日の配信内で告知"
-  end_time: 
-  uri: 
-- date: 2019-03-22
-  time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:? 雑談 ※予定表より"
+  title: "社築 at:YouTube 「ハッカドール1周年記念配信」同時視聴"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -340,6 +333,13 @@
     hour: 21
     min: 0
   title: "夕陽リリ＆森中花咲 at:森中花咲のYouTubeチャンネル?"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴＆七瀬タク at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -526,6 +526,13 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 18
+    min: 50
+  title: "宇志海いちご at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 19
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル プレミア公開 IN THE WHITE BOX～未来エンド～
@@ -540,9 +547,9 @@
   uri: 
 - date: 2019-03-21
   time:
-    hour: 19
-    min: 30
-  title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV ※19時から時間変更"
+    hour: 20
+    min: 0
+  title: "魔界ノりりむ at:YouTube Wiiでやわらかあたま塾 ピクミン3 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -550,6 +557,13 @@
     hour: 20
     min: 0
   title: "小野町春香＆瀬戸美夜子 at:瀬戸美夜子のYouTubeチャンネル 質問・お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 19
+    min: 30
+  title: 20時06分～ 鈴鹿詩子 at:YouTube グランド・セフト・オートV ※19時から時間変更
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -584,15 +598,15 @@
 - date: 2019-03-21
   time:
     hour: 21
-    min: 0
-  title: "緑仙 at:YouTube 歌(懐かしアニメソング縛り) ※予定表より"
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "成瀬鳴 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -620,6 +634,13 @@
   time:
     hour: 22
     min: 0
+  title: "卯月コウ at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 22
+    min: 0
   title: "鷹宮リオン at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -627,7 +648,7 @@
   time:
     hour: 22
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -670,11 +691,6 @@
     hour: 23
     min: 30
   title: "郡道美玲 at:YouTube 収益化記念、イタリア旅行記"
-  end_time: 
-  uri: 
-- date: 2019-03-21
-  time: 
-  title: "？時？分(夜)～ 魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-20
