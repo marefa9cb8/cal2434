@@ -283,21 +283,21 @@
   time:
     hour: 0
     min: 0
-  title: "黒井しば at:YouTube ※リマインダーより"
+  title: 14分～ 黒井しば at:YouTube
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 0
     min: 10
-  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  title: '31分～ 静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE'
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 1
     min: 0
-  title: "緑仙＆鷹宮リオン＆舞元啓介＆ベルモンド・バンデラス at:緑仙のYouTubeチャンネル プロレス芸講座"
+  title: "緑仙＆鷹宮リオン＆舞元啓介＆ベルモンド・バンデラス at:緑仙のYouTubeチャンネル プロレス芸講座(Minecraft)"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -309,16 +309,37 @@
   uri: 
 - date: 2019-03-22
   time:
+    hour: 1
+    min: 5
+  title: "御伽原江良 at:YouTube 雑談、辛辛魚喫食"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 1
+    min: 34
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
     hour: 2
     min: 0
-  title: "椎名唯華 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  title: "椎名唯華 at:YouTube SEKIRO: SHADOWS DIE TWICE ※中止"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 2
+    min: 9
+  title: "郡道美玲＆夢月ロア at:郡道美玲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！"
+  title: "伏見ガク at:YouTube おはガク！ カレー"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -330,9 +351,30 @@
   uri: 
 - date: 2019-03-22
   time:
+    hour: 12
+    min: 0
+  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 12
+    min: 0
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
     hour: 19
     min: 0
   title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube お絵描き ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -353,7 +395,7 @@
   time:
     hour: 21
     min: 0
-  title: "夕陽リリ＆森中花咲 at:森中花咲のYouTubeチャンネル?"
+  title: "夕陽リリ＆森中花咲 at:森中花咲のYouTubeチャンネル Wii Party"
   end_time: 
   uri: 
 - date: 2019-03-22
