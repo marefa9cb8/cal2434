@@ -29,6 +29,13 @@
   uri: 
 - date: 2019-03-28
   time:
+    hour: 0
+    min: 0
+  title: "ドーラ at:YouTube 「バーチャルさんはみている」同時視聴 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #1"
@@ -64,6 +71,13 @@
   uri: 
 - date: 2019-03-26
   time:
+    hour: 19
+    min: 0
+  title: "樋口楓＆緑仙＆町田ちま＆童田明治＆久遠千歳 at:各々のYouTubeチャンネル 王道アニメソング歌配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆天条院アギト at:YouTube 渋谷カフェ：つなげようお客様の輪 第29回"
@@ -87,7 +101,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ ドーラ at:YouTube ※予定表より"
+  title: "(仮)～ ドーラ at:YouTube 麻雀 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -137,6 +151,13 @@
     hour: 20
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? 春満開!!!花より団子!ド葛本社SP"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -232,6 +253,27 @@
   uri: 
 - date: 2019-03-22
   time:
+    hour: 0
+    min: 0
+  title: "黒井しば at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 1
+    min: 0
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 2
+    min: 0
+  title: "椎名唯華 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -249,6 +291,13 @@
     hour: 19
     min: 0
   title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 20
+    min: 0
+  title: "社築 at:YouTube ハッカドール生放送同時視聴 ※20日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -386,6 +435,13 @@
   uri: 
 - date: 2019-03-21
   time:
+    hour: 10
+    min: 0
+  title: "小野町春香 at:YouTube お絵描き ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
     hour: 12
     min: 0
   title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
@@ -394,8 +450,15 @@
 - date: 2019-03-21
   time:
     hour: 13
+    min: 22
+  title: "雨森小夜 at:YouTube 雑談、Totally Accurate Battle Simulator"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 14
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: "神田笑一 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -438,14 +501,14 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 歌(アカペラ) ※予定表より"
+  title: "ドーラ at:YouTube 歌(アカペラ)"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 21
     min: 0
-  title: "出雲霞＆夜木ノセ at:YouTube プレミア公開"
+  title: "出雲霞＆夜木ノセ at:YouTube プレミア公開 『ディカディズム』歌ってみた - 出雲霞/夜木ノセ"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -480,6 +543,13 @@
   time:
     hour: 22
     min: 0
+  title: "?～ 本間ひまわり＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time:
+    hour: 22
+    min: 0
   title: "鷹宮リオン at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -494,7 +564,7 @@
   time:
     hour: 22
     min: 0
-  title: "黒井しば＆レンチ at:YouTube Minecraft(みんなでマグマダイブRTA)"
+  title: "黒井しば＆レンチ at:レンチのYouTubeチャンネル(本配信) Minecraft(みんなでマグマダイブRTA)"
   end_time: 
   uri: 
 - date: 2019-03-21
@@ -508,21 +578,26 @@
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube 晩酌"
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube お絵描き"
+  title: "竜胆尊 at:YouTube 晩酌"
   end_time: 
   uri: 
 - date: 2019-03-21
   time:
     hour: 23
     min: 30
-  title: "郡道美玲 at:YouTube 収益化記念"
+  title: "郡道美玲 at:YouTube 収益化記念、イタリア旅行記"
+  end_time: 
+  uri: 
+- date: 2019-03-21
+  time: 
+  title: "？時？分(夜)～ 魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-20
