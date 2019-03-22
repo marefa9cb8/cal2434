@@ -185,7 +185,14 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー･力一 at:YouTube 舞元力一 #10"
+  title: "笹木咲 at:YouTube スーパーマリオサンシャイン"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー･力一 at:ジョー･力一のYouTubeチャンネル 舞元力一 #10"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -193,6 +200,13 @@
     hour: 1
     min: 0
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -213,7 +227,7 @@
   time:
     hour: 12
     min: 30
-  title: "安土桃 at:YouTube お絵描き ※リマインダーより"
+  title: "安土桃 at:YouTube お絵描き(ポケモン縛り)"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -284,13 +298,6 @@
     hour: 21
     min: 0
   title: "鷹宮リオン at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-03-23
-  time:
-    hour: 23
-    min: 0
-  title: "緑仙 at:? ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -423,7 +430,7 @@
   time:
     hour: 20
     min: 0
-  title: "樋口楓 at:YouTube お絵描き ※Twitterネームより"
+  title: "樋口楓 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -438,7 +445,14 @@
   time:
     hour: 20
     min: 0
-  title: "本間ひまわり at:YouTube ロードモバイル ※配信内容はリマインダーより"
+  title: "本間ひまわり at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -452,7 +466,14 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ※リマインダーより"
+  title: "える at:YouTube New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 乙女解剖歌ってみた"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -466,21 +487,42 @@
   time:
     hour: 21
     min: 0
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
+    min: 0
   title: "成瀬鳴＆七瀬タク at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 21
+    min: 0
+  title: "童田明治 at:YouTube TheHOUSE"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube"
+  title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -536,7 +578,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "キズナアイ他 at:BS日テレ 『のばん組』 最終回"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube Mother Simulator"
   end_time: 
   uri: 
 - date: 2019-03-22
