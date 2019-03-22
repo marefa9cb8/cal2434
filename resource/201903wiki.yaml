@@ -101,6 +101,13 @@
   time:
     hour: 22
     min: 0
+  title: "(仮)～ 樋口楓 at:YouTube プレミア公開 歌動画 ※Twitter自己紹介欄＆22日の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 22
+    min: 0
   title: "(仮)～ ドーラ at:YouTube 麻雀 ※予定表より"
   end_time: 
   uri: 
@@ -116,6 +123,13 @@
     hour: 1
     min: 0
   title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 8
+    min: 20
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況 ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -169,6 +183,13 @@
   uri: 
 - date: 2019-03-24
   time:
+    hour: 21
+    min: 0
+  title: "伏見ガク at:YouTube プレミア公開 モーニングアクター"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキ(2nd)のYouTubeチャンネル まほすずラジオ #19"
@@ -197,6 +218,13 @@
   uri: 
 - date: 2019-03-23
   time:
+    hour: 0
+    min: 0
+  title: "御伽原江良 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
     hour: 1
     min: 0
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
@@ -218,9 +246,23 @@
   uri: 
 - date: 2019-03-23
   time:
+    hour: 9
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:YouTube 作業 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 12
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -248,7 +290,7 @@
   time:
     hour: 16
     min: 0
-  title: "瀬戸美夜子 at:YouTube Rusty Lake Paradise"
+  title: "瀬戸美夜子 at:YouTube Rusty Lake Paradise ※中止"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -288,6 +330,13 @@
   uri: 
 - date: 2019-03-23
   time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -297,7 +346,28 @@
   time:
     hour: 21
     min: 0
-  title: "鷹宮リオン at:YouTube Minecraft"
+  title: "鷹宮リオン at:YouTube Minecraft ※延期"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 22
+    min: 0
+  title: "戌亥とこ at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube 6万人記念 ※22日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -487,7 +557,7 @@
   time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube 告知"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -513,6 +583,13 @@
   uri: 
 - date: 2019-03-22
   time:
+    hour: 21
+    min: 30
+  title: "闇夜乃モルル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -529,7 +606,7 @@
   time:
     hour: 22
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -542,8 +619,22 @@
 - date: 2019-03-22
   time:
     hour: 22
+    min: 10
+  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 22
     min: 30
-  title: "遠北千南 at:YouTube"
+  title: "遠北千南 at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 22
+    min: 38
+  title: "シスター・クレア at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -599,13 +690,20 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube QWOP ※中止の可能性あり"
+  title: "御伽原江良 at:YouTube QWOP ※中止"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 23
-    min: 30
+    min: 38
+  title: "黒井しば＆さくらみこ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 23
+    min: 42
   title: "遠北千南＆郡道美玲 at:郡道美玲のYouTubeチャンネル スプラトゥーン2"
   end_time: 
   uri: 
