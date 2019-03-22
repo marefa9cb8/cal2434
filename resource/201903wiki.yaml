@@ -353,21 +353,49 @@
   time:
     hour: 10
     min: 0
-  title: "緑仙 at:YouTube 作業 ※予定表より"
+  title: "緑仙 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 12
     min: 0
-  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
+  title: "える at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-22
   time:
     hour: 12
     min: 0
-  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス ※中止"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 12
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 13
+    min: 15
+  title: 23分～ 春崎エアル at:YouTube Shadowverse
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 15
+    min: 0
+  title: "魔界ノりりむ at:YouTube ピクミン3"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 17
+    min: 0
+  title: "本間ひまわり at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -403,7 +431,21 @@
   time:
     hour: 20
     min: 0
+  title: "本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 20
+    min: 0
   title: "社築 at:YouTube 「ハッカドール1周年記念配信」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 21
+    min: 0
+  title: "える at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -439,6 +481,13 @@
     hour: 22
     min: 0
   title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-22
+  time:
+    hour: 22
+    min: 0
+  title: "夢月ロア at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -487,7 +536,7 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube QWOP"
+  title: "御伽原江良 at:YouTube QWOP ※中止の可能性あり"
   end_time: 
   uri: 
 - date: 2019-03-22
@@ -495,11 +544,6 @@
     hour: 23
     min: 30
   title: "遠北千南＆郡道美玲 at:郡道美玲のYouTubeチャンネル スプラトゥーン2"
-  end_time: 
-  uri: 
-- date: 2019-03-22
-  time: 
-  title: "？時？分～ 夢月ロア at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-03-21
