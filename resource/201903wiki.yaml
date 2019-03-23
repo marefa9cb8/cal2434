@@ -1,6 +1,13 @@
 ---
 - date: 2019-03-31
   time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編?"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
     hour: 23
     min: 0
   title: "樋口楓 at:YouTube オール配信"
@@ -57,6 +64,13 @@
   uri: 
 - date: 2019-03-28
   time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
     hour: 20
     min: 0
   title: "遠北千南 at:YouTube"
@@ -81,6 +95,13 @@
     hour: 0
     min: 0
   title: "群道美玲 at:? マリオカート8 デラックス or Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 17
+    min: 30
+  title: "出雲霞 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -139,6 +160,13 @@
   uri: 
 - date: 2019-03-26
   time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube アイスクライマー"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
     hour: 19
     min: 0
   title: "樋口楓＆緑仙＆町田ちま＆童田明治＆久遠千歳 at:各々のYouTubeチャンネル 王道アニメソング歌配信リレー"
@@ -158,18 +186,32 @@
   title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
+- date: 2019-03-26
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞＆轟京子 at:出雲霞のYouTubeチャンネル にじさんじメンバーコードネーム考案企画 女子編"
+  end_time: 
+  uri: 
 - date: 2019-03-25
   time:
     hour: 0
     min: 0
-  title: "群道美玲 at:? お絵描き"
+  title: "郡道美玲＆夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-25
   time:
     hour: 7
     min: 30
-  title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 18
+    min: 0
+  title: "戌亥とこ at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -193,6 +235,20 @@
   title: "遠北千南 at:YouTube 半年記念"
   end_time: 
   uri: 
+- date: 2019-03-25
+  time:
+    hour: 22
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 23
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
 - date: 2019-03-24
   time:
     hour: 0
@@ -209,9 +265,23 @@
   uri: 
 - date: 2019-03-24
   time:
+    hour: 0
+    min: 13
+  title: "瀬戸美夜子 at:OPENREC.tv 作業、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 0
+    min: 19
+  title: "赤羽葉子 at:YouTube ロゼと黄昏の古城 ※中断"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
     hour: 1
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -239,7 +309,7 @@
   time:
     hour: 8
     min: 20
-  title: "える at:YouTube スター☆トゥインクルプリキュア実況 ※Twitterプロフィール欄より"
+  title: "える at:YouTube スター☆トゥインクルプリキュア実況"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -261,6 +331,13 @@
     hour: 15
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 15
+    min: 0
+  title: "御伽原江良 at:YouTube QWOP ※3/24の配信で告知"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -575,7 +652,7 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-23
@@ -590,6 +667,13 @@
     hour: 23
     min: 30
   title: "御伽原江良 at:YouTube マシュマロ返答、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-23
+  time:
+    hour: 23
+    min: 56
+  title: "鷹宮リオン at:YouTube SAO同時視聴+感想会"
   end_time: 
   uri: 
 - date: 2019-03-22
