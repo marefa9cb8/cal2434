@@ -323,7 +323,7 @@
   time:
     hour: 14
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "ブレスト軍(勇気ちひろ＆宇志海いちご) at:YouTube Minecraft Apex Legends ※3/23の配信で告知＆リマインダーより、宇志海いちごは参加時間未確定"
   end_time: 
   uri: 
 - date: 2019-03-24
@@ -415,6 +415,13 @@
     hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-23
