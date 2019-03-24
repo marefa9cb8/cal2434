@@ -94,7 +94,7 @@
   time:
     hour: 0
     min: 0
-  title: "群道美玲 at:? マリオカート8 デラックス or Minecraft"
+  title: "郡道美玲 at:? マリオカート8 デラックス or Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -129,7 +129,7 @@
   time:
     hour: 22
     min: 0
-  title: "群道美玲＆？？？ at:?"
+  title: "郡道美玲＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -148,14 +148,14 @@
   uri: 
 - date: 2019-03-27
   time: 
-  title: "？時？分(昼)～ 群道美玲 at:? 作業雑談？"
+  title: "？時？分(昼)～ 郡道美玲 at:? 作業雑談？"
   end_time: 
   uri: 
 - date: 2019-03-26
   time:
     hour: 0
     min: 0
-  title: "群道美玲 at:? スーパーチャット読み上げ、雑談"
+  title: "郡道美玲 at:? スーパーチャット読み上げ、雑談"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -197,7 +197,21 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲＆夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー･力一 at:?"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -300,6 +314,13 @@
   uri: 
 - date: 2019-03-24
   time:
+    hour: 6
+    min: 30
+  title: 40分～ シスター・クレア at:YouTube 雑談、歌
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube"
@@ -321,16 +342,37 @@
   uri: 
 - date: 2019-03-24
   time:
+    hour: 9
+    min: 57
+  title: "叶 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 10
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆騎士竜戦隊リュウソウジャー感想会"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
     hour: 12
     min: 0
-  title: "卯月コウ at:YouTube"
+  title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 13
+    min: 0
+  title: "ジョー・力一 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-24
   time:
     hour: 14
     min: 0
-  title: "ブレスト軍(勇気ちひろ＆宇志海いちご) at:YouTube Minecraft Apex Legends ※3/23の配信で告知＆リマインダーより、宇志海いちごは参加時間未確定"
+  title: "ブレスト軍(勇気ちひろ＆宇志海いちご) at:両名のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-24
