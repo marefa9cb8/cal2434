@@ -204,14 +204,14 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft ※中止"
   end_time: 
   uri: 
 - date: 2019-03-25
   time:
     hour: 0
-    min: 0
-  title: "郡道美玲＆夢月ロア at:YouTube Minecraft"
+    min: 10
+  title: "郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -247,6 +247,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -519,7 +526,14 @@
   time:
     hour: 23
     min: 30
-  title: "緑仙 at:YouTube 8万人記念 ※リマインダーより"
+  title: "緑仙 at:YouTube 8万人記念"
+  end_time: 
+  uri: 
+- date: 2019-03-24
+  time:
+    hour: 23
+    min: 34
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-03-23
