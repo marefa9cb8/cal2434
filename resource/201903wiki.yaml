@@ -183,7 +183,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:? スーパーチャット読み上げ、雑談"
+  title: "郡道美玲 at:YouTube スーパーチャット読み上げ、雑談"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -317,6 +317,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子＆ベルモンド・バンデラス＆童田明治 at:にじさんじ公式YouTubeチャンネル 第17回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-03-25
