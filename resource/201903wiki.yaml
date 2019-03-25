@@ -77,6 +77,13 @@
 - date: 2019-03-29
   time:
     hour: 22
+    min: 0
+  title: "モイラ at:YouTube MoimoiRadio"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
   end_time: 
@@ -93,6 +100,11 @@
     hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time: 
+  title: "？時？分～ ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -162,7 +174,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube マリオカート8 デラックス or Minecraft"
+  title: "郡道美玲＆夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -377,7 +389,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "ドーラ at:YouTube 塊魂アンコール ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -391,7 +403,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -418,8 +430,22 @@
 - date: 2019-03-26
   time:
     hour: 22
+    min: 0
+  title: "矢車りね at:YouTube プレミア公開 叫ぶ度に声を高くしてホラゲ実況してみた結果"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 22
     min: 30
   title: "小野町春香 at:YouTube ピクミン"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 22
+    min: 30
+  title: "アンジュ・カトリーナ at:YouTube OUTLAST ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-26
