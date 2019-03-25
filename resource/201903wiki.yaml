@@ -57,6 +57,13 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！SP"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 19
     min: 0
   title: "竜胆尊＆でびでび・でびる at:YouTube ヨッシークラフトワールド"
@@ -88,6 +95,13 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 20
+    min: 0
+  title: "舞元啓介 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -127,6 +141,13 @@
   uri: 
 - date: 2019-03-27
   time:
+    hour: 1
+    min: 0
+  title: "伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
     hour: 17
     min: 30
   title: "出雲霞 at:YouTube Shadowverse"
@@ -162,9 +183,23 @@
   uri: 
 - date: 2019-03-27
   time:
+    hour: 22
+    min: 40
+  title: "飛鳥ひな at:YouTube VティークVOL.3 コラム感想"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
     hour: 23
     min: 0
   title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#12"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 23
+    min: 0
+  title: "舞元啓介 at:YouTube 罰ゲーム"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -183,7 +218,35 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華＆湊あくあ at:YouTube 漫才、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 0
+    min: 0
+  title: "社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:YouTube スーパーチャット読み上げ、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 14
+    min: 0
+  title: "舞元啓介 at:YouTube デジモンワールド"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -212,6 +275,20 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介 at:YouTube シャドバ大会Vtuber杯祝勝雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 21
+    min: 40
+  title: "飛鳥ひな at:YouTube まけんグミフェス☆2019感想"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -321,9 +398,16 @@
   uri: 
 - date: 2019-03-25
   time:
+    hour: 16
+    min: 48
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
     hour: 17
     min: 43
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -344,14 +428,14 @@
   time:
     hour: 19
     min: 0
-  title: "魔界ノりりむ＆でびでび・でびる at:YouTube Overcooked! 2"
+  title: "桜凛月 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-03-25
   time:
     hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube バイノーラル"
+    min: 30
+  title: "魔界ノりりむ＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル Overcooked 2 ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -391,6 +475,13 @@
   uri: 
 - date: 2019-03-25
   time:
+    hour: 21
+    min: 40
+  title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
     hour: 22
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 Harmony!!"
@@ -400,14 +491,21 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ ドーラ at:YouTube 麻雀 ※予定表より"
+  title: "ドーラ at:YouTube 麻雀、雑談"
   end_time: 
   uri: 
 - date: 2019-03-25
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd) 映画予定表"
+  title: "シスター・クレア at:YouTube ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 4月公開映画紹介"
   end_time: 
   uri: 
 - date: 2019-03-25
@@ -428,6 +526,13 @@
   time:
     hour: 22
     min: 30
+  title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:飛鳥ひなのYouTubeチャンネル プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 22
+    min: 30
   title: "御伽原江良 at:YouTube Wild Animal Racing"
   end_time: 
   uri: 
@@ -435,7 +540,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね＆小野町春香 at:YouTube Minecraft"
+  title: "夢追翔 at:YouTube 歌(ELLEGARDEN縛り)"
+  end_time: 
+  uri: 
+- date: 2019-03-25
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね＆小野町春香 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-25
