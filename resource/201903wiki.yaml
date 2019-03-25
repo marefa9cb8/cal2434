@@ -64,7 +64,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！SP"
+  title: "伏見ガク＆ゲスト：？？？ at:YouTube おはガク！SP"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -162,7 +162,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:? マリオカート8 デラックス or Minecraft"
+  title: "郡道美玲 at:YouTube マリオカート8 デラックス or Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -291,22 +291,36 @@
 - date: 2019-03-26
   time:
     hour: 0
+    min: 36
+  title: "ドーラ at:YouTube 麻雀、雑談 ※前日22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 1
+    min: 17
+  title: "夕陽リリ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 1
+    min: 0
+  title: '40分～ 静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE'
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 1
+    min: 42
+  title: "瀬戸美夜子 at:OPENREC.tv 焼きそば喫食"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 2
     min: 30
-  title: "?～ ドーラ at:YouTube 麻雀、雑談 ※前日22時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-03-26
-  time:
-    hour: 1
-    min: 0
-  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
-  end_time: 
-  uri: 
-- date: 2019-03-26
-  time:
-    hour: 1
-    min: 0
-  title: or02時00分頃～ 夕陽リリ at:YouTube 雑談
+  title: 54分～ 叶＆けんき＆DustelBox(ダステル) at:YouTube Rainbow Six Siege
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -328,6 +342,13 @@
     hour: 19
     min: 0
   title: "樋口楓＆緑仙＆町田ちま＆童田明治＆久遠千歳 at:各々のYouTubeチャンネル 王道アニメソング歌配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 19
+    min: 0
+  title: "轟京子＆白上フブキ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -377,7 +398,7 @@
   time:
     hour: 21
     min: 30
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ at:YouTube TheHOUSE"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -412,7 +433,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-26
