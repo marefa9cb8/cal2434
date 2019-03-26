@@ -186,6 +186,13 @@
   uri: 
 - date: 2019-03-27
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:? Minecraft or Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
     hour: 17
     min: 30
   title: "出雲霞 at:YouTube Shadowverse"
@@ -361,6 +368,13 @@
     hour: 19
     min: 0
   title: "樋口楓＆緑仙＆町田ちま＆童田明治＆久遠千歳 at:各々のYouTubeチャンネル 王道アニメソング歌配信リレー"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube スーパーマリオワールド"
   end_time: 
   uri: 
 - date: 2019-03-26
