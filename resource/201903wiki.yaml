@@ -188,7 +188,7 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:? Minecraft or Dead by Daylight"
+  title: "椎名唯華 at:YouTube Minecraft or Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -358,9 +358,23 @@
   uri: 
 - date: 2019-03-26
   time:
+    hour: 16
+    min: 0
+  title: "(仮)～ 春崎エアル at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube アイスクライマー"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube 本間ひまわりのばったんチャレンジ！"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -393,6 +407,13 @@
   uri: 
 - date: 2019-03-26
   time:
+    hour: 20
+    min: 30
+  title: "成瀬鳴 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆天条院アギト at:YouTube 渋谷カフェ：つなげようお客様の輪 第29回"
@@ -404,6 +425,13 @@
     min: 0
   title: "にじいろキャンD→☆(夕陽リリ＆森中花咲＆シスター・クレア＆花畑チャイカ＆でびでび・でびる＆桜凛月＆遠北千南) at:森中花咲のYouTubeチャンネル
     1stライブ"
+  end_time: 
+  uri: 
+- date: 2019-03-26
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-03-26
@@ -466,7 +494,7 @@
   time:
     hour: 22
     min: 30
-  title: "アンジュ・カトリーナ at:YouTube OUTLAST ※リマインダーより"
+  title: "アンジュ・カトリーナ at:YouTube OUTLAST"
   end_time: 
   uri: 
 - date: 2019-03-26
