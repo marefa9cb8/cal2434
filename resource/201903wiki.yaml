@@ -191,11 +191,16 @@
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
   end_time: 
   uri: 
+- date: 2019-03-28
+  time: 
+  title: "？時？分～ リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
 - date: 2019-03-27
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆夢月ロア at:YouTube Minecraft"
+  title: "郡道美玲＆夢月ロア at:郡道美玲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -209,14 +214,21 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft or Dead by Daylight"
+  title: "椎名唯華 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-27
   time:
     hour: 1
     min: 0
-  title: "黒井しば at:?"
+  title: "黒井しば at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 1
+    min: 0
+  title: "童田明治 at:YouTube 歌配信リレー振り返り、雑談、歌"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -257,6 +269,14 @@
   uri: 
 - date: 2019-03-27
   time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #26』"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
     hour: 22
     min: 0
   title: "ドーラ at:YouTube ※予定表より"
@@ -273,6 +293,13 @@
   time:
     hour: 22
     min: 0
+  title: "夢追翔 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 22
+    min: 0
   title: "郡道美玲＆マキオ at:? 愚痴暴露大会"
   end_time: 
   uri: 
@@ -280,7 +307,7 @@
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 迷い猫の旅-Stray Cat Doors-"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -318,7 +345,7 @@
   uri: 
 - date: 2019-03-27
   time: 
-  title: "？時？分～ 矢車りね at:YouTube"
+  title: "？時？分～ 矢車りね at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2019-03-26
