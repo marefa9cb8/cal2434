@@ -233,6 +233,27 @@
   uri: 
 - date: 2019-03-27
   time:
+    hour: 3
+    min: 25
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 3
+    min: 30
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 5
+    min: 11
+  title: "瀬戸美夜子 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
     hour: 17
     min: 30
   title: "出雲霞 at:YouTube Shadowverse"
@@ -279,6 +300,13 @@
   time:
     hour: 22
     min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 22
+    min: 0
   title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
@@ -301,6 +329,13 @@
     hour: 22
     min: 0
   title: "郡道美玲＆マキオ at:? 愚痴暴露大会"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 22
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube OUTLAST ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -334,6 +369,13 @@
 - date: 2019-03-27
   time:
     hour: 23
+    min: 0
+  title: "矢車りね at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-03-27
+  time:
+    hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube"
   end_time: 
@@ -341,11 +383,6 @@
 - date: 2019-03-27
   time: 
   title: "？時？分(昼)～ 郡道美玲 at:? 作業雑談？"
-  end_time: 
-  uri: 
-- date: 2019-03-27
-  time: 
-  title: "？時？分～ 矢車りね at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2019-03-26
