@@ -34,11 +34,11 @@
   title: "樋口楓 at:YouTube オール配信"
   end_time: 
   uri: 
-- date: 2019-03-30
+- date: 2019-03-31
   time:
-    hour: 10
+    hour: 23
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "鈴木勝 at:YouTube(2nd) Final episode"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -85,9 +85,16 @@
   uri: 
 - date: 2019-03-30
   time:
-    hour: 23
+    hour: 21
     min: 0
-  title: "緑仙 at:? 歌、雑談 ※予定表より"
+  title: "緑仙＆？？？ at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #8"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -147,6 +154,16 @@
   title: "？時？分～ ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
   end_time: 
   uri: 
+- date: 2019-03-29
+  time: 
+  title: "？時？分～ 緑仙 at:YouTube プレミア公開 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time: 
+  title: "？時？分(夜)～ 成瀬鳴＆皇噛ユカリ at:?"
+  end_time: 
+  uri: 
 - date: 2019-03-28
   time:
     hour: 0
@@ -158,14 +175,56 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "花畑チャイカ＆緑仙＆卯月コウ at:花畑チャイカのYouTubeチャンネル 「バーチャルさんはみている」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 0
+    min: 30
+  title: "黒井しば at:YouTube Montaro RE"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 0
+    min: 32
+  title: "葛葉 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 0
+    min: 42
+  title: "瀬戸美夜子 at:OPENREC.tv ぶぶか 油そば 喫食、雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
   time:
     hour: 1
     min: 0
-  title: "叶＆椎名唯華 at:YouTube Rainbow Six Siege"
+  title: 17分～ 叶＆椎名唯華 at:YouTube Rainbow Six Siege
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 2
+    min: 0
+  title: "久遠千歳 at:YouTube お絵描き、雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 6
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -215,6 +274,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -270,7 +336,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 半年記念、雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -531,7 +597,8 @@
   time:
     hour: 23
     min: 0
-  title: "月ノ美兎＆静凛＆樋口楓＆える＆物述有栖＆家長むぎ＆剣持刀也＆シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送 「バーチャルさんはみている」#12"
+  title: "月ノ美兎＆静凛＆(樋口楓＆)える＆(物述有栖＆家長むぎ＆剣持刀也＆)シスター・クレア at:TOKYO MX、Periscope、ニコニコ生放送
+    「バーチャルさんはみている」#12"
   end_time: 
   uri: 
 - date: 2019-03-27
@@ -552,7 +619,7 @@
   time:
     hour: 23
     min: 0
-  title: "夢月ロア at:YouTube ぼくのなつやすみ2 海の冒険篇"
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-03-27
