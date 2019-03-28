@@ -46,6 +46,13 @@
   uri: 
 - date: 2019-04-02
   time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:? 恋バナ"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
     hour: 20
     min: 0
   title: "岸大河＆ミネラル姐貴＆ヒカル(GM細田)＆ゲスト：シスター・クレア at:メイプルストーリー公式YouTubeチャンネル、ニコニコ生放送 メイプルニコ生散歩路～シスター・クレア、襲来っぷるの巻～"
@@ -56,6 +63,13 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆伊集院ゼロ at:YouTube 渋谷カフェ：つなげようお客様の輪 第30回"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 23
+    min: 30
+  title: "郡道美玲＆？？？ at:郡道美玲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-04-02

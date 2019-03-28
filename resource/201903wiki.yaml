@@ -41,6 +41,13 @@
   title: "鈴木勝 at:YouTube(2nd) Final episode"
   end_time: 
   uri: 
+- date: 2019-03-31
+  time:
+    hour: 23
+    min: 30
+  title: "郡道美玲＆？？？ at:？？？のYouTubeチャンネル"
+  end_time: 
+  uri: 
 - date: 2019-03-30
   time:
     hour: 12
@@ -78,6 +85,13 @@
   uri: 
 - date: 2019-03-30
   time:
+    hour: 19
+    min: 0
+  title: "郡道美玲＆？？？ at:？？？のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube 雑談、歌"
@@ -98,6 +112,13 @@
   end_time: 
   uri: 
 - date: 2019-03-30
+  time:
+    hour: 22
+    min: 0
+  title: "郡道美玲＆？？？ at:郡道美玲のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-03-30
   time: 
   title: "？時？分～ 叶＆赤羽葉子 at:?"
   end_time: 
@@ -112,6 +133,13 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 1
+    min: 30
+  title: "郡道美玲 at:YouTube ベヨネッタ"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -167,7 +195,7 @@
   time:
     hour: 23
     min: 30
-  title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV"
+  title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV ネコ・トモ ※内容変更"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -188,6 +216,11 @@
 - date: 2019-03-29
   time: 
   title: "？時？分(夜)～ 成瀬鳴＆皇噛ユカリ at:?"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time: 
+  title: "？時？分～ 郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -269,9 +302,37 @@
   uri: 
 - date: 2019-03-28
   time:
+    hour: 15
+    min: 52
+  title: "緑仙 at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 15
+    min: 52
+  title: "鷹宮リオン at:YouTube カラオケ"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 16
+    min: 23
+  title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 17
+    min: 0
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -285,7 +346,14 @@
   time:
     hour: 19
     min: 0
-  title: "卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス at:? Dead by Daylight"
+  title: "叶 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 19
+    min: 0
+  title: "卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -293,6 +361,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 19
+    min: 30
+  title: "成瀬鳴 at:YouTube 声色多種挑戦企画"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -334,7 +409,14 @@
   time:
     hour: 21
     min: 0
-  title: "御伽原江良 at:YouTube 記念雑談"
+  title: "叶 at:YouTube 9万人記念雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 21
+    min: 0
+  title: "御伽原江良 at:YouTube 収益化＆1～4万人記念雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -349,6 +431,13 @@
     hour: 22
     min: 0
   title: "ドーラ at:YouTube 塊魂アンコール ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 22
+    min: 0
+  title: "ジョー・力一 at:YouTube 罰ゲーム(3月7日コラボ 愛かたーず分)"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -404,7 +493,14 @@
   time:
     hour: 23
     min: 30
-  title: "鈴鹿詩子 at:YouTube ネコ・トモ"
+  title: "鈴鹿詩子 at:YouTube ネコ・トモ グランド・セフト・オートV ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 23
+    min: 30
+  title: "神田笑一＆郡道美玲 at:神田笑一のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-03-27
