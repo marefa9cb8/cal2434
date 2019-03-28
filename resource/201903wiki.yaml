@@ -52,7 +52,21 @@
   time:
     hour: 23
     min: 30
+  title: "鷹宮リオン at:YouTube にじさんじ聖パイ戦争 同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 23
+    min: 30
   title: "郡道美玲＆？？？ at:？？？のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 8
+    min: 0
+  title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -106,6 +120,13 @@
   uri: 
 - date: 2019-03-30
   time:
+    hour: 20
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube 雑談、歌"
@@ -151,6 +172,13 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube Shadowverse"
@@ -172,6 +200,34 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 8
+    min: 0
+  title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 12
+    min: 30
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 14
+    min: 0
+  title: "出雲霞 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 14
+    min: 0
+  title: "轟京子 at:YouTube バンドやろうぜ！"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 17
     min: 0
   title: "戌亥とこ at:YouTube"
@@ -188,7 +244,7 @@
   time:
     hour: 21
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube はーとふる彼氏 ※リマインダーより"
+  title: "リゼ・ヘルエスタ at:YouTube はーとふる彼氏"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -229,6 +285,13 @@
 - date: 2019-03-29
   time:
     hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV ネコ・トモ ※内容変更"
   end_time: 
@@ -241,11 +304,6 @@
 - date: 2019-03-29
   time: 
   title: "？時？分～ ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-03-29
-  time: 
-  title: "？時？分(昼or夕方頃)～ 出雲霞 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -463,14 +521,14 @@
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube 9万人記念雑談"
+  title: "御伽原江良 at:YouTube 収益化＆1～4万人記念雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
   time:
     hour: 21
     min: 0
-  title: "御伽原江良 at:YouTube 収益化＆1～4万人記念雑談"
+  title: 15分～ 叶 at:YouTube 9万人記念雑談
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -484,7 +542,14 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube 塊魂アンコール ※Twitterネームより"
+  title: "ドーラ at:YouTube 塊魂アンコール"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) The Shrouded Isle"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -512,7 +577,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #1"
+  title: "椎名唯華＆ゲスト：鈴谷アキ at:YouTube SECRET RADIO #1"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -526,7 +591,7 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 轟京子 at:YouTube 雑談"
+  title: "轟京子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -555,6 +620,13 @@
     hour: 23
     min: 30
   title: "神田笑一＆郡道美玲 at:神田笑一のYouTubeチャンネル Fate/Grand Order(ガチャ引き、FGOトーク)"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 23
+    min: 53
+  title: "シスター・クレア at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-03-27
