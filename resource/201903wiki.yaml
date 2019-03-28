@@ -109,6 +109,13 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク＆ゲスト：勇気ちひろ at:YouTube おはガク！SP 小学生の頃に食べていたもの"
@@ -266,7 +273,14 @@
   time:
     hour: 19
     min: 0
-  title: "卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス at:?"
+  title: "卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE"
   end_time: 
   uri: 
 - date: 2019-03-28
