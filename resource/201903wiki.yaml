@@ -172,6 +172,11 @@
   uri: 
 - date: 2019-03-29
   time: 
+  title: "？時？分～ 雪汝＆？？？ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time: 
   title: "？時？分～ ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
   end_time: 
   uri: 
@@ -257,6 +262,13 @@
   uri: 
 - date: 2019-03-28
   time:
+    hour: 14
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube マリオカート8 デラックス(視聴者参加型)"
@@ -274,6 +286,13 @@
     hour: 19
     min: 0
   title: "卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス at:? Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-28
@@ -313,9 +332,23 @@
   uri: 
 - date: 2019-03-28
   time:
+    hour: 21
+    min: 0
+  title: "御伽原江良 at:YouTube 記念雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
     hour: 22
     min: 0
   title: JK組(月ノ美兎＆樋口楓＆静凛) at:樋口楓のYouTubeチャンネル プレミア公開 ＪＫ組の放課後
+  end_time: 
+  uri: 
+- date: 2019-03-28
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube 塊魂アンコール ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-03-28
