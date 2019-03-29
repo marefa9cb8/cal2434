@@ -143,6 +143,13 @@
   time:
     hour: 20
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 20
+    min: 0
   title: "遠北千南 at:YouTube"
   end_time: 
   uri: 
@@ -151,6 +158,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 21
+    min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:社築のYouTubeチャンネル スタジオ来訪者配信参加企画
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -182,8 +196,10 @@
   end_time: 
   uri: 
 - date: 2019-03-30
-  time: 
-  title: "？時？分～ 叶＆赤羽葉子 at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "叶え葉(叶＆赤羽葉子) at:? HALF DEAD 2"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -263,9 +279,16 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 12
+    min: 53
+  title: "瀬戸美夜子 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 14
     min: 0
-  title: "雪汝＆因幡はねる＆犬山たまき＆湊あくあ＆癒月ちょこ at:? Dead by Daylight"
+  title: "雪汝＆因幡はねる＆犬山たまき＆湊あくあ＆癒月ちょこ at:因幡はねるのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -284,6 +307,27 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 14
+    min: 30
+  title: "ドーラ at:YouTube ヨッシークラフトワールド"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 15
+    min: 0
+  title: "叶 at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 15
+    min: 0
+  title: "魔界ノりりむ at:YouTube ピクミン3"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 16
     min: 30
   title: "夕陽リリ at:YouTube"
@@ -291,9 +335,30 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 16
+    min: 30
+  title: "町田ちま at:YouTube にじさんじアニソンリレーリベンジ"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 17
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ at:YouTube アルネの事件簿"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 18
+    min: 30
+  title: "本間ひまわり at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube やわらかあたま塾"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -301,6 +366,13 @@
     hour: 19
     min: 0
   title: "竜胆尊＆でびでび・でびる at:YouTube ヨッシークラフトワールド"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 20
+    min: 0
+  title: "本間ひまわり at:YouTube ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-03-29
@@ -349,6 +421,13 @@
   time:
     hour: 22
     min: 0
+  title: "シスター・クレア at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
+    hour: 22
+    min: 0
   title: "アンジュ・カトリーナ at:YouTube 街で噂の伯爵様"
   end_time: 
   uri: 
@@ -382,17 +461,7 @@
   uri: 
 - date: 2019-03-29
   time: 
-  title: "？時？分(昼過ぎ)～ 叶 at:YouTube SEKIRO: SHADOWS DIE TWICE"
-  end_time: 
-  uri: 
-- date: 2019-03-29
-  time: 
   title: "？時？分(深夜)～ 闇夜乃モルル at:?"
-  end_time: 
-  uri: 
-- date: 2019-03-29
-  time: 
-  title: "？時？分(昼?)～ ドーラ at:YouTube ヨッシークラフトワールド"
   end_time: 
   uri: 
 - date: 2019-03-29
