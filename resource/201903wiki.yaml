@@ -78,6 +78,13 @@
   uri: 
 - date: 2019-03-30
   time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube 半年記念"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
     hour: 8
     min: 0
   title: "遠北千南 at:YouTube"
@@ -277,6 +284,13 @@
   uri: 
 - date: 2019-03-29
   time:
+    hour: 16
+    min: 30
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time:
     hour: 17
     min: 0
   title: "戌亥とこ at:YouTube"
@@ -364,6 +378,11 @@
     hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube グランド・セフト・オートV ネコ・トモ ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-03-29
+  time: 
+  title: "？時？分(昼過ぎ)～ 叶 at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-03-29
