@@ -8,9 +8,30 @@
   uri: 
 - date: 2019-03-31
   time:
+    hour: 1
+    min: 0
+  title: "御伽原江良 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 12
+    min: 0
+  title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
     hour: 15
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編?"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 16
+    min: 0
+  title: "卯月コウ at:YouTube ライフ イズ ストレンジ（仮）"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -94,14 +115,21 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル Minecraft"
+  title: 33分～ 郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 1
     min: 0
-  title: "黒井しば at:YouTube 半年記念"
+  title: 48分～ 黒井しば at:YouTube 半年記念
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 1
+    min: 49
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -137,6 +165,13 @@
     hour: 15
     min: 0
   title: "鈴鹿詩子 at:YouTube 蒼の彼方のフォーリズム"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 16
+    min: 0
+  title: "卯月コウ at:YouTube ライフ イズ ストレンジ"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -220,7 +255,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:YouTube Minecraft"
+  title: "戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -239,6 +274,13 @@
   uri: 
 - date: 2019-03-30
   time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube 歌(アニメソング)"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
     hour: 23
     min: 0
   title: "鈴鹿詩子 at:YouTube Layers of Fear"
@@ -249,6 +291,11 @@
     hour: 23
     min: 0
   title: "叶え葉(叶＆赤羽葉子) at:? HALF DEAD 2"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time: 
+  title: "？時？分(深夜)～ 闇夜乃モルル at:?"
   end_time: 
   uri: 
 - date: 2019-03-29
