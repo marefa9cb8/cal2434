@@ -3,7 +3,14 @@
   time:
     hour: 0
     min: 0
-  title: "静凛 at:bilibili 歌、Apex Legends"
+  title: "静凛 at:bilibili 歌、Apex Legends、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 0
+    min: 0
+  title: "宇志海いちご＆すもも(SUMOMOXqX) at:すもも(SUMOMOXqX)のOPENREC.tvチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -15,9 +22,23 @@
   uri: 
 - date: 2019-03-31
   time:
+    hour: 0
+    min: 7
+  title: "葛葉 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
     hour: 1
     min: 0
-  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:ベルモンド・バンデラス、郡道美玲のYouTubeチャンネル? Minecraft"
+  title: "ジョー･力一 at:YouTube 雑談 大喜利"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 1
+    min: 0
+  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:ベルモンド・バンデラス、郡道美玲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -29,9 +50,16 @@
   uri: 
 - date: 2019-03-31
   time:
-    hour: 1
+    hour: 2
     min: 0
-  title: "ジョー･力一 at:YouTube 雑談 大喜利"
+  title: "シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:叶、葛葉のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 2
+    min: 30
+  title: "静凛 at:YouTube かまいたちの夜 輪廻彩声"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -53,6 +81,20 @@
     hour: 13
     min: 0
   title: "安土桃 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 14
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 「ゾンビーワールドへようこそ(字幕版)」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 14
+    min: 30
+  title: "闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -88,6 +130,20 @@
     hour: 20
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル プレミア公開 全員片思いinアニメイト
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 20
+    min: 0
+  title: "久遠千歳 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 21
+    min: 0
+  title: "宇志海いちご at:YouTube 1周年記念"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -144,17 +200,6 @@
     hour: 23
     min: 30
   title: "癒月ちょこ＆ゲスト：郡道美玲 at:癒月ちょこのYouTubeチャンネル 身体測定"
-  end_time: 
-  uri: 
-- date: 2019-03-31
-  time: 
-  title: "？時？分(深夜)～ 静凛 at:YouTube かまいたちの夜 輪廻彩声 or Minecraft or SEKIRO: SHADOWS DIE
-    TWICE"
-  end_time: 
-  uri: 
-- date: 2019-03-31
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣"
   end_time: 
   uri: 
 - date: 2019-03-30

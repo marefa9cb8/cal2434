@@ -110,6 +110,13 @@
   time:
     hour: 0
     min: 0
+  title: "鷹宮リオン at:YouTube #にじさんじ聖パイ戦争 同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン at:YouTube プレミア公開 #にじさんじ聖パイ戦争　マスター編"
   end_time: 
   uri: 
@@ -163,5 +170,10 @@
 - date: 2019-04-01
   time: 
   title: "？時？分～ 桜凛月 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time: 
+  title: "？時？分～ 小野町春香 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
