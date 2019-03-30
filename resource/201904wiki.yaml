@@ -63,7 +63,7 @@
   time:
     hour: 22
     min: 0
-  title: "？？？ at:飛鳥ひなのYouTubeチャンネル"
+  title: "緑仙＆飛鳥ひな at:飛鳥ひなのYouTubeチャンネル にじさんじメンズプロデュース対決企画(メンバー発表、チーム決め)"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -71,6 +71,13 @@
     hour: 0
     min: 0
   title: "郡道美玲 at:? 恋バナ"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 18
+    min: 0
+  title: "物述有栖＆童田明治 at:両名のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -132,6 +139,20 @@
     hour: 20
     min: 0
   title: "える＆物述有栖＆鈴木勝＆遠北千南 at:にじさんじ公式YouTubeチャンネル 第18回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 20
+    min: 0
+  title: "甲賀流忍者ぽんぽこ＆ピーナッツくん＆ゲスト：樋口楓 at:? お花見パーティー"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 21
+    min: 0
+  title: "月ノ美兎 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-01
