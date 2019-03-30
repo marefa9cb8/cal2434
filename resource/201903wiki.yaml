@@ -15,9 +15,23 @@
   uri: 
 - date: 2019-03-31
   time:
+    hour: 1
+    min: 0
+  title: "ジョー･力一 at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
     hour: 12
     min: 0
   title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 13
+    min: 0
+  title: "安土桃 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -192,13 +206,6 @@
   time:
     hour: 15
     min: 0
-  title: "鈴鹿詩子 at:YouTube 蒼の彼方のフォーリズム"
-  end_time: 
-  uri: 
-- date: 2019-03-30
-  time:
-    hour: 15
-    min: 0
   title: "闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣"
   end_time: 
   uri: 
@@ -206,21 +213,35 @@
   time:
     hour: 15
     min: 0
-  title: "ドーラ at:YouTube ヨッシークラフトワールド ※Twitterネームより"
+  title: "ドーラ at:YouTube ヨッシークラフトワールド"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 15
     min: 0
-  title: "狂犬ズ(町田ちま＆黒井しば) at:黒井しばのYouTubeチャンネル Minecraft"
+  title: "リゼ・ヘルエスタ at:YouTube 雑談、マシュマロ返答、作業"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 15
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube"
+  title: 13分～ 狂犬ズ(町田ちま＆黒井しば) at:黒井しばのYouTubeチャンネル Minecraft
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 15
+    min: 23
+  title: ChroNoiR(叶＆葛葉 at:両名のYouTubeチャンネル PUBG
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 15
+    min: 30
+  title: "鈴鹿詩子 at:YouTube 蒼の彼方のフォーリズム ※15時から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -234,14 +255,14 @@
   time:
     hour: 17
     min: 0
-  title: 40分～ 物述有栖＆童田明治 at:YouTube Minecraft
+  title: "魔界ノりりむ＆夢月ロア at:魔界ノりりむのYouTubeチャンネル こあくまんラジオ #0"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 17
-    min: 4
-  title: "魔界ノりりむ＆夢月ロア at:魔界ノりりむのYouTubeチャンネル こあくまんラジオ #0"
+    min: 0
+  title: 40分～ 物述有栖＆童田明治 at:両名のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -255,7 +276,14 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube"
+  title: "本間ひまわり at:YouTube シーマン"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 18
+    min: 0
+  title: "ドーラ at:YouTube 夕食"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -269,21 +297,21 @@
   time:
     hour: 18
     min: 30
-  title: "樋口楓 at:YouTube ※リマインダーより"
+  title: "樋口楓 at:YouTube にじさんじのくじじゅうじ振り返り"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 19
     min: 0
-  title: "竜胆尊＆でびでび・でびる at:YouTube ヨッシークラフトワールド"
+  title: "竜胆尊＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル ヨッシークラフトワールド"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 19
     min: 0
-  title: "遠北千南 at:YouTube ※20時から時間変更"
+  title: "遠北千南 at:YouTube 毛糸のカービィ ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -304,14 +332,49 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube リアルタイムバトル将棋"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 20
+    min: 5
+  title: "シスター・クレア at:YouTube 春のクレアちゃん祭り 後夜祭"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 20
+    min: 25
+  title: "町田ちま at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 20
+    min: 45
+  title: "郡道美玲 at:YouTube 作業雑談"
   end_time: 
   uri: 
 - date: 2019-03-30
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube 雑談、歌"
+  title: "勇気ちひろ at:YouTube 雑談、歌(林原めぐみ誕生日祝い)"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -319,13 +382,6 @@
     hour: 21
     min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:社築のYouTubeチャンネル オフラインコラボ・スタジオ来訪者配信参加企画
-  end_time: 
-  uri: 
-- date: 2019-03-30
-  time:
-    hour: 21
-    min: 0
-  title: "緑仙＆？？？ at:? ※予定表より"
   end_time: 
   uri: 
 - date: 2019-03-30
