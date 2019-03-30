@@ -199,6 +199,13 @@
   time:
     hour: 15
     min: 0
+  title: "闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 15
+    min: 0
   title: "ドーラ at:YouTube ヨッシークラフトワールド ※Twitterネームより"
   end_time: 
   uri: 
@@ -207,6 +214,13 @@
     hour: 15
     min: 0
   title: "狂犬ズ(町田ちま＆黒井しば) at:黒井しばのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 15
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -220,7 +234,14 @@
   time:
     hour: 17
     min: 0
-  title: "物述有栖＆童田明治 at:YouTube Minecraft"
+  title: 40分～ 物述有栖＆童田明治 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-03-30
+  time:
+    hour: 17
+    min: 4
+  title: "魔界ノりりむ＆夢月ロア at:魔界ノりりむのYouTubeチャンネル こあくまんラジオ #0"
   end_time: 
   uri: 
 - date: 2019-03-30
@@ -347,11 +368,6 @@
     hour: 23
     min: 0
   title: "叶え葉(叶＆赤羽葉子) at:? HALF DEAD 2"
-  end_time: 
-  uri: 
-- date: 2019-03-30
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:? ファイアーエムブレム"
   end_time: 
   uri: 
 - date: 2019-03-30
