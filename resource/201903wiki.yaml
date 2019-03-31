@@ -248,14 +248,7 @@
   time:
     hour: 20
     min: 30
-  title: "静凛 at:YouTube 登録者20万人記念 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-03-31
-  time:
-    hour: 21
-    min: 0
-  title: "宇志海いちご at:YouTube 1周年記念"
+  title: "静凛 at:YouTube 登録者20万人記念"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -269,7 +262,7 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -277,6 +270,13 @@
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 21
+    min: 0
+  title: 10分～ 宇志海いちご at:YouTube 1周年記念
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -297,14 +297,21 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ヨッシークラフトワールド"
+  title: "叶＆シスター・クレア at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-31
   time:
     hour: 22
     min: 0
-  title: "緑仙 at:YouTube Minecraft"
+  title: "ドーラ at:YouTube ヨッシークラフトワールド ASMR雑談 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙 at:YouTube Minecraft ※延期"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -312,6 +319,13 @@
     hour: 22
     min: 0
   title: "御伽原江良 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 22
+    min: 26
+  title: "竜胆尊＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -331,8 +345,15 @@
 - date: 2019-03-31
   time:
     hour: 23
+    min: 0
+  title: "舞元啓介＆ふぇありす at:ふぇありすのYouTubeチャンネル プレミア公開 Vtuber最強に挑む 新弾リベンジマッチ #シャドウバース"
+  end_time: 
+  uri: 
+- date: 2019-03-31
+  time:
+    hour: 23
     min: 30
-  title: "魔界ノりりむ＆久遠千歳 at:YouTube Minecraft"
+  title: "魔界ノりりむ＆久遠千歳 at:久遠千歳のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-31
@@ -347,11 +368,6 @@
     hour: 23
     min: 30
   title: "癒月ちょこ＆ゲスト：郡道美玲 at:癒月ちょこのYouTubeチャンネル 身体測定"
-  end_time: 
-  uri: 
-- date: 2019-03-31
-  time: 
-  title: "？時？分(夜)～ 叶＆シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-03-30
