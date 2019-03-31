@@ -124,6 +124,11 @@
   uri: 
 - date: 2019-04-02
   time: 
+  title: "？時？分～ える＆家長むぎ at:? ※えるTwitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time: 
   title: "？時？分～ シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:?"
   end_time: 
   uri: 
@@ -171,6 +176,13 @@
   uri: 
 - date: 2019-04-01
   time:
+    hour: 5
+    min: 36
+  title: "安土桃 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！(？)"
@@ -181,6 +193,13 @@
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 9
+    min: 0
+  title: "町田ちま at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -265,6 +284,14 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube 雑談、歌(春歌縛り)"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン＆童田明治＆因幡はねる＆日ノ隈らん＆そよかぜアメ＆風宮まつり＆犬山たまき＆大神ミオ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル
+    人狼"
   end_time: 
   uri: 
 - date: 2019-04-01
