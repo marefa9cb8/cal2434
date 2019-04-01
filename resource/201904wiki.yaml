@@ -105,6 +105,20 @@
   time:
     hour: 0
     min: 0
+  title: "闇夜乃モルル＆すもも(SUMOMOXqX) at:すもも(SUMOMOXqX)のOPENREC.tvチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 0
+    min: 0
+  title: " 魔界ノりりむ＆卯月コウ at:魔界ノりりむのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:? 恋バナ"
   end_time: 
   uri: 
@@ -133,7 +147,7 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube"
+  title: "リゼ・ヘルエスタ at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -241,14 +255,14 @@
   time:
     hour: 14
     min: 4
-  title: "町田ちま at:YouTube 千真田まち"
+  title: "町田ちま at:YouTube 千真田まち初配信"
   end_time: 
   uri: 
 - date: 2019-04-01
   time:
     hour: 17
     min: 0
-  title: "でびリオン(でびでび・でびる＆鷹宮リオン) at:でびでび・でびる(2nd)のYouTubeチャンネル でびリオンラジオ"
+  title: "でびリオン(でびでび・でびる＆鷹宮リオン) at:でびでび・でびるのYouTube(2nd)チャンネル でびリオンラジオ"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -262,7 +276,7 @@
   time:
     hour: 18
     min: 0
-  title: "瀬戸美夜子 at:YouTube プレミア公開"
+  title: "瀬戸美夜子 at:YouTube プレミア公開 【瀬戸美夜子】九九やったり駄弁ったり【御伽原江良】"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -296,8 +310,15 @@
 - date: 2019-04-01
   time:
     hour: 19
+    min: 15
+  title: "飛鳥ひな at:YouTube めりのう～る初配信"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 19
     min: 30
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲＆ベルモンド・バンデラス at:笹木咲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -311,7 +332,7 @@
   time:
     hour: 20
     min: 0
-  title: "甲賀流忍者！ぽんぽこ＆ピーナッツくん＆ゲスト：樋口楓 at:? お花見パーティー"
+  title: "甲賀流忍者！ぽんぽこ＆ピーナッツくん＆ゲスト：樋口楓 at:甲賀流忍者！ぽんぽこのYouTubeチャンネル お花見パーティー"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -333,6 +354,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 21
+    min: 30
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -375,6 +403,13 @@
   time:
     hour: 22
     min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 4月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 22
+    min: 0
   title: "ジョー･力一 at:YouTube"
   end_time: 
   uri: 
@@ -396,7 +431,7 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也 at:YouTube 剣持刀子宛マシュマロ返答"
+  title: "ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -417,6 +452,13 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね＆小野町春香 at:両名のYouTubeチャンネル? Minecraft"
+  title: "矢車りね＆小野町春香 at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 23
+    min: 30
+  title: "剣持刀也 at:YouTube 剣持刀子宛マシュマロ返答 ※23時から時間変更"
   end_time: 
   uri: 
