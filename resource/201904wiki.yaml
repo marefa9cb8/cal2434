@@ -51,7 +51,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #21"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #21"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -94,6 +94,13 @@
   title: "緑仙＆飛鳥ひな at:飛鳥ひなのYouTubeチャンネル にじさんじメンズプロデュース対決企画(メンバー発表、チーム決め)"
   end_time: 
   uri: 
+- date: 2019-04-03
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-04-02
   time:
     hour: 0
@@ -112,7 +119,14 @@
   time:
     hour: 0
     min: 0
-  title: " 魔界ノりりむ＆卯月コウ at:魔界ノりりむのYouTubeチャンネル Minecraft"
+  title: "魔界ノりりむ＆卯月コウ at:魔界ノりりむのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube ファンタシースターオンライン"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -140,6 +154,13 @@
   time:
     hour: 20
     min: 0
+  title: "える＆家長むぎ at:? ※えるTwitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 20
+    min: 0
   title: "岸大河＆ミネラル姐貴＆ヒカル(GM細田)＆ゲスト：シスター・クレア at:メイプルストーリー公式YouTubeチャンネル、ニコニコ生放送 メイプルニコ生散歩路～シスター・クレア、襲来っぷるの巻～"
   end_time: 
   uri: 
@@ -159,14 +180,23 @@
   uri: 
 - date: 2019-04-02
   time:
-    hour: 23
+    hour: 21
     min: 30
-  title: "郡道美玲＆小野町春香 at:郡道美玲のYouTubeチャンネル? Minecraft"
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-04-02
-  time: 
-  title: "？時？分～ える＆家長むぎ at:? ※えるTwitterプロフィール欄より"
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 23
+    min: 30
+  title: "郡道美玲＆小野町春香 at:郡道美玲のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -276,7 +306,7 @@
   time:
     hour: 18
     min: 0
-  title: "瀬戸美夜子 at:YouTube プレミア公開 【瀬戸美夜子】九九やったり駄弁ったり【御伽原江良】"
+  title: "瀬戸美夜子＆御伽原江良 at:瀬戸美夜子のYouTubeチャンネル プレミア公開 九九やったり駄弁ったり"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -346,14 +376,21 @@
   time:
     hour: 21
     min: 0
-  title: "シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:?"
+  title: "シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:叶、葛葉のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 21
+    min: 10
+  title: "える＆物述有栖＆鈴木勝＆遠北千南 at:遠北千南のYouTubeチャンネル 第18回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2019-04-01
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -373,6 +410,13 @@
 - date: 2019-04-01
   time:
     hour: 21
+    min: 42
+  title: "瀬戸美夜子 at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 21
     min: 45
   title: "静凛 at:YouTube FF14"
   end_time: 
@@ -382,13 +426,6 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube 雑談、歌(春歌縛り)"
-  end_time: 
-  uri: 
-- date: 2019-04-01
-  time:
-    hour: 22
-    min: 0
-  title: "レンチ at:レンチのYouTubeチャンネル 人外Vtuber限定凸待ち"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -410,7 +447,7 @@
   time:
     hour: 22
     min: 0
-  title: "ジョー･力一 at:YouTube"
+  title: "ジョー･力一 at:YouTube 幻惑の道化師・JOE初配信"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -418,6 +455,13 @@
     hour: 22
     min: 0
   title: "御伽原江良 at:YouTube お花見"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 22
+    min: 0
+  title: ") レンチ at:レンチのYouTubeチャンネル 人外Vtuber限定凸待ち"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -431,7 +475,14 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "宇志海いちご＆海月ねう＆先端恐怖症 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube ヨッシークラフトワールド"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -445,7 +496,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube 友達作り作戦会議 ※予定表＆リマインダーより"
+  title: "緑仙 at:YouTube 友達作り作戦会議"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -458,7 +509,14 @@
 - date: 2019-04-01
   time:
     hour: 23
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 23
     min: 30
-  title: "剣持刀也 at:YouTube 剣持刀子宛マシュマロ返答 ※23時から時間変更"
+  title: "剣持刀也 at:YouTube 剣持刀子初配信、マシュマロ返答 ※23時から時間変更"
   end_time: 
   uri: 
