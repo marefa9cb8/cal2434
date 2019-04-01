@@ -55,6 +55,13 @@
   end_time: 
   uri: 
 - date: 2019-04-06
+  time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
+  end_time: 
+  uri: 
+- date: 2019-04-06
   time: 
   title: 23時？分～ 電脳少女シロ＆ミライアカリ＆猫宮ひなた＆月ノ美兎 at:テレビ朝日 「超人女子戦士 ガリベンガーV」スペシャル
   end_time: 
@@ -64,6 +71,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 咀嚼音ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube 星のカービィ"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -78,6 +92,13 @@
     hour: 22
     min: 0
   title: "緑仙＆飛鳥ひな at:飛鳥ひなのYouTubeチャンネル にじさんじメンズプロデュース対決企画(メンバー発表、チーム決め)"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube Tea Party Simulator(+猫語) ※前日23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -119,7 +140,7 @@
   time:
     hour: 23
     min: 30
-  title: "郡道美玲＆？？？ at:郡道美玲のYouTubeチャンネル"
+  title: "郡道美玲＆小野町春香 at:郡道美玲のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -192,14 +213,7 @@
   time:
     hour: 7
     min: 0
-  title: "物述有栖 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-01
-  time:
-    hour: 9
-    min: 0
-  title: "町田ちま at:YouTube ※リマインダーより"
+  title: "物述有栖 at:YouTube バイノーラル(新婚シチュエーション)"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -207,6 +221,13 @@
     hour: 11
     min: 0
   title: "鈴木勝 at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 13
+    min: 0
+  title: "町田ちま at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -228,6 +249,20 @@
     hour: 18
     min: 0
   title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 19
+    min: 0
+  title: "久遠千歳 at:YouTube プレミア公開 Zero In Zero - 久遠千歳 MV"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -303,9 +338,9 @@
   uri: 
 - date: 2019-04-01
   time:
-    hour: 23
+    hour: 22
     min: 0
-  title: "家長むぎ at:YouTube Tea Party Simulator(+猫語)"
+  title: "御伽原江良 at:YouTube お花見"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -313,6 +348,13 @@
     hour: 23
     min: 0
   title: "剣持刀也 at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-01
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-04-01
@@ -332,15 +374,5 @@
 - date: 2019-04-01
   time: 
   title: "？時？分～ シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:?"
-  end_time: 
-  uri: 
-- date: 2019-04-01
-  time: 
-  title: "？時？分～ 桜凛月 at:YouTube 誕生日配信"
-  end_time: 
-  uri: 
-- date: 2019-04-01
-  time: 
-  title: "？時？分～ 御伽原江良 at:YouTube 雑談"
   end_time: 
   uri: 
