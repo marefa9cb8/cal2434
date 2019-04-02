@@ -316,7 +316,7 @@
   time:
     hour: 20
     min: 0
-  title: "える＆家長むぎ at:?"
+  title: "える＆家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-04-02
@@ -380,6 +380,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-04-02
