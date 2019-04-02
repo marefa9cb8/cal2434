@@ -70,9 +70,23 @@
   uri: 
 - date: 2019-04-07
   time:
+    hour: 22
+    min: 0
+  title: "郡道美玲＆癒月ちょこ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
     hour: 23
     min: 0
   title: "?～ 剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ at:YouTube ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -101,6 +115,13 @@
   uri: 
 - date: 2019-04-05
   time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ＆癒月ちょこ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 咀嚼音ASMR"
@@ -109,6 +130,20 @@
 - date: 2019-04-05
   time: 
   title: "？時？分(仮)～ 町田ちま at:YouTube 歌(VOCALOID縛り)"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ at:YouTube ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -139,9 +174,30 @@
   uri: 
 - date: 2019-04-03
   time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:YouTube Minecraft ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 19
+    min: 0
+  title: "瀬戸美夜子 at:YouTube ガチ恋エピソードお焚き上げ"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -237,6 +293,13 @@
   uri: 
 - date: 2019-04-02
   time:
+    hour: 6
+    min: 56
+  title: "御伽原江良 at:YouTube テスト配信(スプラトゥーン)"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
     hour: 14
     min: 0
   title: "町田ちま at:YouTube 歌(ジブリ縛り)"
@@ -300,6 +363,20 @@
   uri: 
 - date: 2019-04-02
   time:
+    hour: 22
+    min: 0
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube 塊魂アンコール ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time:
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Layers of Fear"
@@ -322,6 +399,11 @@
 - date: 2019-04-02
   time: 
   title: "？時？分～ シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-02
+  time: 
+  title: "？時？分(仮・昼or夕方頃)～ 鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2019-04-01
