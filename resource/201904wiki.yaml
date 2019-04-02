@@ -79,7 +79,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓＆ゲスト：月ノ美兎 at:YouTube 2年でろ組 ※3/29の配信で告知"
+  title: "樋口楓＆ゲスト：月ノ美兎 at:YouTube 2年でろ組、隣の席の◯◯と。"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -202,7 +202,35 @@
   time:
     hour: 0
     min: 0
+  title: "卯月コウ at:YouTube ライフ イズ ストレンジ、感想・考察"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 0
+    min: 0
   title: "ベルモンド・バンデラス at:YouTube 雑談、新マイクテスト"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 0
+    min: 13
+  title: "宇志海いちご at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 0
+    min: 25
+  title: "瀬戸美夜子 at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 0
+    min: 26
+  title: "笹木咲 at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -214,9 +242,37 @@
   uri: 
 - date: 2019-04-03
   time:
+    hour: 0
+    min: 30
+  title: "葛葉 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
     hour: 1
     min: 0
-  title: "夕陽リリ at:YouTube Minecraft ※リマインダー予定表より"
+  title: "夕陽リリ at:YouTube 6人の料理人と隻眼の少女2"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 2
+    min: 7
+  title: "瀬戸美夜子 at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 2
+    min: 11
+  title: "郡道美玲 at:YouTube ベヨネッタ"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 2
+    min: 29
+  title: "叶え葉(叶＆赤羽葉子) at:叶のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -259,6 +315,21 @@
     hour: 20
     min: 30
   title: "静凛 at:YouTube FF14 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #27』"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -308,11 +379,6 @@
     hour: 17
     min: 30
   title: "-18時00分頃(仮)～ 雨森小夜 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-03
-  time: 
-  title: "？時？分(仮・深夜)～ 郡道美玲 at:YouTube ベヨネッタ"
   end_time: 
   uri: 
 - date: 2019-04-02
