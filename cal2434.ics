@@ -16497,7 +16497,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190409T210000
-SUMMARY:夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず) #6 ※03/29配信にて告知
+SUMMARY:夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず) #6
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -16738,6 +16738,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190403T112000
 SUMMARY:宇志海いちご at:YouTube #コンパス【戦闘摂理解析システム】
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190403T130200
+SUMMARY:瀬戸美夜子 at:YouTube 新マイクテスト
 URL:
 DESCRIPTION:
 END:VEVENT

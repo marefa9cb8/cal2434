@@ -30,7 +30,7 @@
     hour: 21
     min: 0
   title: "夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
-    #6 ※03/29配信にて告知"
+    #6"
   end_time: 
   uri: 
 - date: 2019-04-08
@@ -301,6 +301,13 @@
     hour: 11
     min: 20
   title: "宇志海いちご at:YouTube #コンパス【戦闘摂理解析システム】"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 13
+    min: 2
+  title: "瀬戸美夜子 at:YouTube 新マイクテスト"
   end_time: 
   uri: 
 - date: 2019-04-03
