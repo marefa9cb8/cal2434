@@ -155,6 +155,13 @@
   uri: 
 - date: 2019-04-04
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube ゴリスナー総会"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
     hour: 20
     min: 0
   title: "夕陽リリ at:YouTube ※リマインダー予定表より"
@@ -307,7 +314,7 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -329,6 +336,13 @@
     hour: 21
     min: 0
   title: "樋口楓 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 ３分で分かる鈴鹿詩子のネコトモ"
   end_time: 
   uri: 
 - date: 2019-04-03
@@ -371,6 +385,13 @@
   time:
     hour: 22
     min: 0
+  title: "剣持刀也 at:YouTube ドリームクラブ ZERO"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 22
+    min: 0
   title: "バトロワAチーム(魔界ノりりむ＆葛葉＆轟京子＆社築＆卯月コウ＆舞元啓介＆久遠千歳) at:? ワンナイト人狼"
   end_time: 
   uri: 
@@ -379,6 +400,13 @@
     hour: 22
     min: 0
   title: "緑仙＆飛鳥ひな at:飛鳥ひなのYouTubeチャンネル にじさんじメンズプロデュース対決企画(メンバー発表、チーム決め)"
+  end_time: 
+  uri: 
+- date: 2019-04-03
+  time:
+    hour: 23
+    min: 0
+  title: "闇夜乃モルル at:? ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-04-03
