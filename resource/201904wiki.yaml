@@ -270,6 +270,15 @@
   end_time: 
   uri: 
 - date: 2019-04-06
+  time:
+    hour: 15
+    min: 0
+  title: "(仮) 文野環 at:?"
+  end_time:
+    hour: 22
+    min: 0
+  uri: 
+- date: 2019-04-06
   time: 
   title: "？時？分(仮)～ 赤羽葉子 at:YouTube 春服お披露目"
   end_time: 
@@ -455,6 +464,13 @@
 - date: 2019-04-04
   time:
     hour: 20
+    min: 0
+  title: "魔界ノりりむ at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 20
     min: 30
   title: "戌亥とこ at:YouTube 収益化記念"
   end_time: 
@@ -484,7 +500,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube TETRIS 99 ※Twitterネームより"
+  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -533,6 +549,13 @@
   time:
     hour: 22
     min: 30
+  title: "社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 22
+    min: 30
   title: "小野町春香 at:YouTube 星のカービィ ※内容変更の可能性あり"
   end_time: 
   uri: 
@@ -547,6 +570,13 @@
   time:
     hour: 23
     min: 0
+  title: "花畑チャイカ at:YouTube マリオストーリー"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube お花見雑談"
   end_time: 
   uri: 
@@ -554,7 +584,12 @@
   time:
     hour: 23
     min: 30
-  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル 歌 ※両名のTwitterネームより"
+  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル 歌(マクロスΔ縛り)"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time: 
+  title: "？時？分～ 鈴木勝 at:Youtube(2nd) 春服お披露目"
   end_time: 
   uri: 
 - date: 2019-04-03
