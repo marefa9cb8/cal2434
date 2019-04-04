@@ -53,6 +53,13 @@
   uri: 
 - date: 2019-04-12
   time:
+    hour: 19
+    min: 0
+  title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 神々さみっと"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
     hour: 21
     min: 0
   title: "樋口楓＆燦鳥ノム at:REALITY ぶいおん!! MUSIC LIVE"
@@ -75,6 +82,13 @@
 - date: 2019-04-12
   time: 
   title: "？時？分(朝)～ 伏見ガク at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 23
+    min: 0
+  title: "鷹宮リオン＆ジョー・力一 at:YouTube ばったりラジオ 第3回"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -112,6 +126,13 @@
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー･力一 at:YouTube 舞元力一 #11"
+  end_time: 
+  uri: 
+- date: 2019-04-08
+  time:
+    hour: 0
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-04-08
@@ -154,6 +175,13 @@
     hour: 14
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 15
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -212,6 +240,13 @@
   uri: 
 - date: 2019-04-06
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 春休みの〆ガク 卵料理"
@@ -222,6 +257,13 @@
     hour: 13
     min: 0
   title: "安土桃 at:YouTube マリオカート8 デラックス ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 15
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -316,9 +358,44 @@
   uri: 
 - date: 2019-04-05
   time:
+    hour: 4
+    min: 20
+  title: "叶＆あっくん大魔王＆ふくやマスター＆歌衣メイカ at:YouTube Risk of Rain 2"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 5
+    min: 30
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 春休みの〆ガク フリー"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube 蚊 ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 19
+    min: 0
+  title: "静凛 at:YouTube 殺戮の天使　※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -332,7 +409,7 @@
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣 ※リマインダー予定表より"
+  title: "闇夜乃モルル at:YouTube ファイアーエムブレム 烈火の剣 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -360,7 +437,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 自己紹介動画決議"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -597,6 +674,13 @@
     hour: 22
     min: 0
   title: "本間ひまわり at:YouTube 発表会"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 22
+    min: 0
+  title: "雪汝 at:YouTube プレミア公開 Apex Legends 秒速で１乙稼ぐ男に一同驚きを隠せない・・・！"
   end_time: 
   uri: 
 - date: 2019-04-04
