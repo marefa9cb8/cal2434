@@ -151,7 +151,7 @@
   uri: 
 - date: 2019-04-07
   time:
-    hour: 15
+    hour: 14
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
   end_time: 
@@ -246,13 +246,6 @@
   end_time: 
   uri: 
 - date: 2019-04-06
-  time:
-    hour: 21
-    min: 0
-  title: "出雲霞 at:YouTube 春服お披露目"
-  end_time: 
-  uri: 
-- date: 2019-04-06
   time: 
   title: 23時？分～ 電脳少女シロ＆ミライアカリ＆猫宮ひなた＆月ノ美兎 at:テレビ朝日 「超人女子戦士 ガリベンガーV」スペシャル
   end_time: 
@@ -273,10 +266,8 @@
   time:
     hour: 15
     min: 0
-  title: "(仮) 文野環 at:?"
-  end_time:
-    hour: 22
-    min: 0
+  title: "-22時00分頃(仮) 文野環 at:?"
+  end_time: 
   uri: 
 - date: 2019-04-06
   time: 
@@ -286,6 +277,13 @@
 - date: 2019-04-06
   time: 
   title: "？時？分～ 町田ちま at:YouTube 半年記念"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 春服お披露目"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -320,7 +318,28 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ･ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "リゼ･ヘルエスタ at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 21
+    min: 0
+  title: "久遠千歳 at:YouTube 5＆6万人記念、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-05
+  time:
+    hour: 21
+    min: 30
+  title: "出雲霞 at:YouTube 春服お披露目"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -341,7 +360,7 @@
   time:
     hour: 22
     min: 0
-  title: "夕陽リリ＆癒月ちょこ at:?"
+  title: "夕陽リリ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 第二回もしもシチュエーション"
   end_time: 
   uri: 
 - date: 2019-04-05
@@ -435,37 +454,44 @@
   uri: 
 - date: 2019-04-04
   time:
-    hour: 19
-    min: 0
-  title: "月ノ美兎 at:YouTube 雑談"
+    hour: 18
+    min: 45
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
+  title: 13分～ 月ノ美兎 at:YouTube 雑談
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 19
+    min: 25
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 20
     min: 0
-  title: "家長むぎ＆夕陽リリ＆伏見ガク at:各々のYouTubeチャンネル? Apex Legends"
+  title: "家長むぎ＆夕陽リリ＆伏見ガク at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii(×青汁) ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii(×青汁)"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 20
     min: 0
-  title: "魔界ノりりむ at:YouTube みんなのリズム天国"
+  title: 15分～ 魔界ノりりむ at:YouTube みんなのリズム天国
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -473,6 +499,13 @@
     hour: 20
     min: 30
   title: "戌亥とこ at:YouTube 収益化記念"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 20
+    min: 54
+  title: "魔界ノりりむ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -486,7 +519,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 塊魂アンコール ※予定表より"
+  title: "ドーラ at:YouTube 塊魂アンコール"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -494,6 +527,20 @@
     hour: 21
     min: 0
   title: "御伽原江良 at:YouTube おどるメイド イン ワリオ"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 21
+    min: 40
+  title: "叶＆あっくん大魔王＆Icotsu＆歌衣メイカ at:YouTube Risk of Rain 2"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -514,7 +561,7 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:YouTube 雑談 ※リマインダー予定表より"
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -528,14 +575,21 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子＆皇牙サキ at:? 検証 黒ギャルは本当にオタクにやさしいのか？"
+  title: "轟京子＆皇牙サキ at:皇牙サキのYouTubeチャンネル 検証 黒ギャルは本当にオタクにやさしいのか？"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 22
     min: 0
-  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密! ※Twitterネームより"
+  title: "夢月ロア＆でびでび・でびる at:夢月ロアのYouTubeチャンネル ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 22
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 夕食"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -556,14 +610,14 @@
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube 星のカービィ ※内容変更の可能性あり"
+  title: "小野町春香 at:YouTube 星のカービィ ※中止"
   end_time: 
   uri: 
 - date: 2019-04-04
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube 自作3Dお披露目?"
+  title: "物述有栖 at:YouTube 自作3Dお披露目"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -583,13 +637,15 @@
 - date: 2019-04-04
   time:
     hour: 23
-    min: 30
-  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル 歌(マクロスΔ縛り)"
+    min: 0
+  title: "夢追翔 at:YouTube プレミア公開 たった1分でわかる夢追翔"
   end_time: 
   uri: 
 - date: 2019-04-04
-  time: 
-  title: "？時？分～ 鈴木勝 at:Youtube(2nd) 春服お披露目"
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル 歌(マクロスΔ縛り)"
   end_time: 
   uri: 
 - date: 2019-04-03
