@@ -318,6 +318,13 @@
   uri: 
 - date: 2019-04-04
   time:
+    hour: 14
+    min: 4
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
     hour: 17
     min: 0
   title: "緑仙 at:YouTube 歌(VOCALOID) ※予定表より"
@@ -369,6 +376,13 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ at:YouTube TETRIS 99 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 22
+    min: 0
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
   end_time: 
   uri: 
@@ -397,7 +411,7 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "物述有栖 at:YouTube 自作3Dお披露目?"
   end_time: 
   uri: 
 - date: 2019-04-04
@@ -405,6 +419,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube お花見雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-04
+  time:
+    hour: 23
+    min: 30
+  title: "勇気ちひろ＆森中花咲 at:勇気ちひろのYouTubeチャンネル 歌 ※両名のTwitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-04
