@@ -76,7 +76,7 @@
   time:
     hour: 22
     min: 0
-  title: "モイラ at:?"
+  title: "モイラ at:YouTube 「ブラックブック」同時視聴"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -292,6 +292,41 @@
   uri: 
 - date: 2019-04-06
   time:
+    hour: 0
+    min: 10
+  title: "瀬戸美夜子 at:OPENREC.tv 夕食"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 1
+    min: 0
+  title: "御伽原江良 at:YouTube 5万人記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 1
+    min: 30
+  title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 1
+    min: 42
+  title: "叶＆赤羽葉子＆葛葉 at:叶のYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 2
+    min: 30
+  title: "竜胆尊 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 春休みの〆ガク 卵料理"
@@ -350,6 +385,13 @@
   time:
     hour: 20
     min: 0
+  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:YouTube プレミア公開 JUST COMMUNICATION / 緑仙 (Cover)"
   end_time: 
   uri: 
@@ -364,7 +406,7 @@
   time:
     hour: 21
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -372,6 +414,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -397,6 +446,13 @@
   time:
     hour: 23
     min: 0
+  title: "闇夜乃モルル at:YouTube 雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -415,6 +471,11 @@
 - date: 2019-04-06
   time: 
   title: "？時？分(仮)～ 赤羽葉子 at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time: 
+  title: "？時？分(昼過ぎ・仮)～ 本間ひまわり at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -728,11 +789,6 @@
     hour: 23
     min: 42
   title: "シスター・クレア at:YouTube 滑舌練習・早口言葉"
-  end_time: 
-  uri: 
-- date: 2019-04-05
-  time: 
-  title: "？時？分～(深夜・仮) 物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-04
