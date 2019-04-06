@@ -214,7 +214,21 @@
   time:
     hour: 1
     min: 0
-  title: "?～ ジョー・力一 at:YouTube りきいちファーム #8"
+  title: "ジョー・力一 at:YouTube りきいちファーム #8"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 1
+    min: 19
+  title: "鈴鹿詩子 at:YouTube DEAD OR ALIVE Xtreme 3 Scarlet"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 2
+    min: 8
+  title: "夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -222,6 +236,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 春休みの〆ガク コーン"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 8
+    min: 0
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -560,7 +581,7 @@
   time:
     hour: 23
     min: 0
-  title: "闇夜乃モルル at:YouTube 雑談 ※リマインダーより"
+  title: "闇夜乃モルル at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-06
