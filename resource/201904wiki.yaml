@@ -378,7 +378,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:YouTube ※リマインダー予定表より"
+  title: "宇志海いちご＆夕陽リリ＆桜凛月 at:各々のYouTubeチャンネル? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -404,6 +404,13 @@
   uri: 
 - date: 2019-04-06
   time:
+    hour: 20
+    min: 30
+  title: "文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
     hour: 21
     min: 0
   title: "卯月コウ at:YouTube 春服お披露目"
@@ -421,6 +428,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 22
+    min: 0
+  title: "電脳少女シロ＆月ノ美兎＆ねこます at:電脳少女シロのYouTubeチャンネル コラボ動画プレミア公開"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -471,10 +485,8 @@
   end_time: 
   uri: 
 - date: 2019-04-06
-  time:
-    hour: 15
-    min: 0
-  title: "-22時00分頃(仮) 文野環 at:?"
+  time: 
+  title: "？時？分(コラボ後)～ 夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-06
