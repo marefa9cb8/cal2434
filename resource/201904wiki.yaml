@@ -18,6 +18,13 @@
   title: "モイラ at:?"
   end_time: 
   uri: 
+- date: 2019-04-17
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子＆竜胆尊 at:鈴鹿詩子のYouTubeチャンネル おとなのじかん #2"
+  end_time: 
+  uri: 
 - date: 2019-04-16
   time:
     hour: 21
@@ -96,6 +103,13 @@
     hour: 23
     min: 0
   title: "鷹宮リオン＆ジョー・力一 at:YouTube ばったりラジオ 第3回"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 13
+    min: 0
+  title: "鈴鹿詩子＆雪汝 at:鈴鹿詩子のYouTubeチャンネル グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -178,6 +192,13 @@
   end_time: 
   uri: 
 - date: 2019-04-08
+  time:
+    hour: 22
+    min: 0
+  title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-08
   time: 
   title: "？時？分～ 轟京子 at:YouTube 春服お披露目"
   end_time: 
@@ -186,7 +207,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -288,6 +309,13 @@
 - date: 2019-04-07
   time: 
   title: "？時？分～ 春崎エアル at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 13
+    min: 0
+  title: "雨森小夜 at:YouTube 歌、スーパーチャット読み上げ"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -399,7 +427,7 @@
   time:
     hour: 19
     min: 0
-  title: "える at:YouTube Tea Party Simulator 2015 ※Twitterネーム＆リマインダーより"
+  title: "える at:YouTube Tea Party Simulator 2015"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -411,23 +439,23 @@
   uri: 
 - date: 2019-04-06
   time:
-    hour: 20
-    min: 0
-  title: "宇志海いちご＆夕陽リリ＆桜凛月 at:各々のYouTubeチャンネル? Apex Legends"
+    hour: 19
+    min: 31
+  title: "神田笑一 at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-04-06
   time:
     hour: 20
     min: 0
-  title: "叶 at:YouTube ゲーミングデバイス紹介(Apex Legends)"
+  title: "宇志海いちご＆夕陽リリ＆桜凛月 at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-06
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii ※リマインダーより"
+  title: "叶 at:YouTube ゲーミングデバイス紹介(Apex Legends・視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -441,14 +469,21 @@
   time:
     hour: 20
     min: 30
-  title: "文野環 at:YouTube"
+  title: 42分～ 文野環 at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 20
+    min: 50
+  title: "静凛 at:YouTube 殺戮の天使"
   end_time: 
   uri: 
 - date: 2019-04-06
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube 殺戮の天使 ※リマインダーより"
+  title: Cecilia at:バーチャル執事CeciliaのYouTubeチャンネル プレミア公開 Vアニソンリレー
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -469,7 +504,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -503,8 +538,15 @@
 - date: 2019-04-06
   time:
     hour: 22
-    min: 40
-  title: "静凛 at:YouTube FF14 ※リマインダーより"
+    min: 0
+  title: "成瀬鳴 at:YouTube Minecraft、早口言葉"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 22
+    min: 20
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -1339,7 +1381,7 @@
     hour: 21
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
-    #27』"
+    #27』 椎名唯華のみ欠席"
   end_time: 
   uri: 
 - date: 2019-04-03
