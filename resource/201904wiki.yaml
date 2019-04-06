@@ -240,6 +240,13 @@
   uri: 
 - date: 2019-04-07
   time:
+    hour: 14
+    min: 30
+  title: "赤羽葉子 at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
     hour: 15
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
@@ -263,7 +270,7 @@
   time:
     hour: 20
     min: 0
-  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:YouTube 遊園地コラボ（ホラーゲーム）"
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:卯月コウのYouTubeチャンネル 遊園地コラボ（ホラーゲーム）"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -469,7 +476,7 @@
   time:
     hour: 20
     min: 30
-  title: 42分～ 文野環 at:YouTube
+  title: 42分～ 文野環 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -525,13 +532,6 @@
   time:
     hour: 22
     min: 0
-  title: "魔界ノりりむ＆夢月ロア at:YouTube こあくまんラジオ #1"
-  end_time: 
-  uri: 
-- date: 2019-04-06
-  time:
-    hour: 22
-    min: 0
   title: "葛葉 at:YouTube ゲーミングデバイス紹介(Apex Legends)"
   end_time: 
   uri: 
@@ -547,6 +547,13 @@
     hour: 22
     min: 20
   title: "静凛 at:YouTube FF14"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 22
+    min: 30
+  title: "魔界ノりりむ＆夢月ロア at:魔界ノりりむのYouTubeチャンネル こあくまんラジオ #1 ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -587,11 +594,6 @@
 - date: 2019-04-06
   time: 
   title: "？時？分(コラボ後)～ 夕陽リリ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-06
-  time: 
-  title: "？時？分(仮)～ 赤羽葉子 at:YouTube 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-04-06
