@@ -200,14 +200,14 @@
   time:
     hour: 12
     min: 0
-  title: "瀬戸美夜子 at:YouTube 2万人記念、Getting Over It"
+  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編　※14時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-07
   time:
-    hour: 14
+    hour: 12
     min: 0
-  title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編"
+  title: "瀬戸美夜子 at:YouTube 2万人記念、Getting Over It"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -229,6 +229,13 @@
     hour: 19
     min: 0
   title: "愛園愛美 at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 20
+    min: 0
+  title: "おなえどし組（出雲霞＆鈴木勝＆卯月コウ） at:YouTube 遊園地コラボ（ホラーゲーム）"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -269,11 +276,6 @@
 - date: 2019-04-07
   time: 
   title: "？時？分～ える at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-04-07
-  time: 
-  title: "？時？分（夜）～ おなえどし組（出雲霞＆鈴木勝＆卯月コウ） at:YouTube ※5日配信内で告知"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -355,6 +357,13 @@
   uri: 
 - date: 2019-04-06
   time:
+    hour: 13
+    min: 24
+  title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
     hour: 15
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -365,6 +374,13 @@
     hour: 15
     min: 0
   title: "瀬戸美夜子 at:YouTube 2万人記念"
+  end_time: 
+  uri: 
+- date: 2019-04-06
+  time:
+    hour: 19
+    min: 0
+  title: "える at:YouTube Tea Party Simulator 2015 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-06
@@ -481,11 +497,6 @@
   uri: 
 - date: 2019-04-06
   time: 
-  title: "？時？分～ える at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-04-06
-  time: 
   title: "？時？分(コラボ後)～ 夕陽リリ at:YouTube"
   end_time: 
   uri: 
@@ -497,13 +508,6 @@
 - date: 2019-04-06
   time: 
   title: "？時？分(昼過ぎ・仮)～ 本間ひまわり at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-06
-  time:
-    hour: 12
-    min: 30
-  title: "-13時00分頃～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-06
