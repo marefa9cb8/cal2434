@@ -326,7 +326,28 @@
   time:
     hour: 13
     min: 0
-  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 13
+    min: 1
+  title: "雨森小夜 at:YouTube スーパーチャット読み上げ、歌"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 13
+    min: 5
+  title: "神田笑一 at:YouTube パタポン2 ドンチャカ♪"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 13
+    min: 7
+  title: "春崎エアル at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -403,6 +424,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華 at:YouTube マシュマロ雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 22
+    min: 0
   title: "郡道美玲＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル お悩み相談室"
   end_time: 
   uri: 
@@ -425,20 +453,6 @@
     hour: 23
     min: 0
   title: "御伽原江良 at:YouTube みんなの常識力テレビ"
-  end_time: 
-  uri: 
-- date: 2019-04-07
-  time:
-    hour: 13
-    min: 0
-  title: "?～ 春崎エアル at:YouTube 誕生日配信"
-  end_time: 
-  uri: 
-- date: 2019-04-07
-  time:
-    hour: 13
-    min: 0
-  title: "雨森小夜 at:YouTube 歌、スーパーチャット読み上げ"
   end_time: 
   uri: 
 - date: 2019-04-06
