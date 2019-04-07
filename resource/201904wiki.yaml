@@ -146,6 +146,20 @@
   time:
     hour: 0
     min: 0
+  title: "鈴鹿詩子 at:YouTube TETRIS 99 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-08
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-08
+  time:
+    hour: 0
+    min: 0
   title: "舞元啓介＆ジョー･力一 at:YouTube 舞元力一 #11"
   end_time: 
   uri: 
@@ -282,6 +296,20 @@
   uri: 
 - date: 2019-04-07
   time:
+    hour: 10
+    min: 35
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 11
+    min: 30
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
     hour: 12
     min: 0
   title: "出雲霞 at:YouTube ひぐらしのなく頃に 鬼隠し編　※14時から時間変更"
@@ -298,7 +326,7 @@
   time:
     hour: 13
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft ※Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -333,7 +361,14 @@
   time:
     hour: 20
     min: 0
-  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:卯月コウのYouTubeチャンネル 遊園地コラボ（ホラーゲーム）"
+  title: "鈴鹿詩子 at:YouTube 重大発表＆罰ゲーム ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 20
+    min: 0
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:卯月コウのYouTubeチャンネル 遊園地コラボ"
   end_time: 
   uri: 
 - date: 2019-04-07
@@ -375,6 +410,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube 春服お披露目 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-07
+  time:
+    hour: 23
+    min: 0
   title: "?～ 剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio ※13日に延期"
   end_time: 
   uri: 
@@ -386,13 +428,10 @@
   end_time: 
   uri: 
 - date: 2019-04-07
-  time: 
-  title: "？時？分～ える at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-04-07
-  time: 
-  title: "？時？分(昼過ぎ)～ 春崎エアル at:YouTube 誕生日配信"
+  time:
+    hour: 13
+    min: 0
+  title: "?～ 春崎エアル at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-04-07
