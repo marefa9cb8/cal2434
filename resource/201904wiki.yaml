@@ -226,21 +226,7 @@
   time:
     hour: 0
     min: 0
-  title: "魔界ノりりむ＆卯月コウ at:卯月コウのYouTubeチャンネル Minecraft、雑談ラジオ"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 0
-    min: 0
   title: "社築 at:YouTube スーパーメトロイド"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 0
-    min: 0
-  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -252,6 +238,34 @@
   uri: 
 - date: 2019-04-09
   time:
+    hour: 0
+    min: 7
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 0
+    min: 0
+  title: 12分～ 魔界ノりりむ＆卯月コウ at:卯月コウのYouTubeチャンネル Minecraft、雑談ラジオ
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 0
+    min: 15
+  title: "瀬戸美夜子 at:YouTube Portal 2"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 0
+    min: 30
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube QWOP"
@@ -259,9 +273,30 @@
   uri: 
 - date: 2019-04-09
   time:
+    hour: 2
+    min: 0
+  title: "ドーラ at:? 歌練習"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 2
+    min: 0
+  title: "名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
     hour: 14
     min: 0
   title: "雪汝＆テトラ＆音俣るか at:音俣るかのYouTubeチャンネル? Trine 2"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -303,8 +338,7 @@
   time:
     hour: 21
     min: 0
-  title: "夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
-    #6"
+  title: "海夜叉神 at:YouTube ※引退配信"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -339,6 +373,14 @@
   time:
     hour: 22
     min: 0
+  title: "夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+    #6 ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
@@ -361,11 +403,6 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Getting Over It"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time: 
-  title: "？時？分～ 海夜叉神 at:? ※引退配信"
   end_time: 
   uri: 
 - date: 2019-04-08
@@ -648,6 +685,13 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-08
+  time:
+    hour: 23
+    min: 57
+  title: "鷹宮リオン at:OPENREC.tv League of Legends"
   end_time: 
   uri: 
 - date: 2019-04-07
