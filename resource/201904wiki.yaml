@@ -216,9 +216,23 @@
   uri: 
 - date: 2019-04-11
   time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:YouTube 農園婚活"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at:YouTube 農園婚活"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -249,6 +263,11 @@
   title: "矢車りね at:YouTube Layers of Fear"
   end_time: 
   uri: 
+- date: 2019-04-11
+  time: 
+  title: "？時？分～ 椎名唯華 at:YouTube The House"
+  end_time: 
+  uri: 
 - date: 2019-04-10
   time:
     hour: 0
@@ -260,21 +279,35 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読「桜の森の満開の下」 ※Twitterネーム＆リマインダーより"
+  title: "鈴木勝 at:YouTube(2nd) 朗読「桜の森の満開の下」(バイノーラル)"
   end_time: 
   uri: 
 - date: 2019-04-10
   time:
     hour: 0
     min: 0
-  title: "瀬戸美夜子 at:YouTube 雑談 ※前日19時から時間変更"
+  title: "久遠千歳 at:YouTube セリフ読み ※前日23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 0
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談 ※前日19時から時間変更 ※中止？"
   end_time: 
   uri: 
 - date: 2019-04-10
   time:
     hour: 1
     min: 0
-  title: "?～ 舞元啓介 at:YouTube"
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 1
+    min: 0
+  title: "舞元啓介 at:YouTube チャルメラ"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -310,6 +343,13 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube Goat Simulator (or プーさんのホームランダービー)"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube 新衣装お披露目?"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -479,8 +519,15 @@
 - date: 2019-04-09
   time:
     hour: 18
-    min: 0
+    min: 3
   title: "雨森小夜 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 19
+    min: 0
+  title: 18時49分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -493,15 +540,8 @@
 - date: 2019-04-09
   time:
     hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 19
     min: 30
-  title: "シスター・クレア at:YouTube 雑談"
+  title: 54分～ シスター・クレア at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -515,7 +555,7 @@
   time:
     hour: 20
     min: 0
-  title: "宇志海いちご at:YouTube コンパス"
+  title: "宇志海いちご at:YouTube #コンパス【戦闘摂理解析システム】"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -543,42 +583,28 @@
   time:
     hour: 21
     min: 50
-  title: "?～ 静凛 at:YouTube FF14"
+  title: "静凛 at:YouTube FF14"
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 22
     min: 0
-  title: "月ノ美兎 at:YouTube プレミア公開 歌ってみた動画 ※4/7樋口楓の配信にゲスト出演の際に告知"
+  title: "月ノ美兎 at:YouTube プレミア公開 ネコミミモード/Neko mimi mode"
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 22
     min: 0
-  title: "癒月ちょこ＆ゲスト：闇夜乃モルル at:癒月ちょこのYouTubeチャンネル 身体測定"
+  title: "椎名唯華 at:YouTube The House ※11日に延期"
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 22
-    min: 0
-  title: "椎名唯華 at:YouTube The House"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 22
-    min: 0
-  title: "夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+  title: "夢追翔＆黒井しば+ゲスト：御伽原江良＆瀬戸美夜子 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
     #6 ※21時から時間変更"
   end_time: 
   uri: 
@@ -593,28 +619,56 @@
   time:
     hour: 22
     min: 0
-  title: "三枝明那 at:YouTube Slither.io"
+  title: 07分～ 癒月ちょこ＆ゲスト：闇夜乃モルル at:癒月ちょこのYouTubeチャンネル 身体測定
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 22
+    min: 0
+  title: 08分～ 三枝明那 at:YouTube Slither.io
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd) ※21時半から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 23
-    min: 0
   title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #7 鈴鹿詩子登場！しっとり声の“歌のお姉さん”の本性とは…!?"
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) 雑談 ※21時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 22
+    min: 0
+  title: 32分～ ドーラ at:YouTube ヨッシークラフトワールド
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
     hour: 23
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:? でびリオンラジオ"
+  title: "鈴鹿詩子 at:YouTube ドキドキ文芸部！"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube バイノーラル、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 23
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:鷹宮リオンのYouTubeチャンネル でびリオンラジオ"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -628,14 +682,14 @@
   time:
     hour: 23
     min: 0
-  title: "久遠千歳 at:YouTube セリフ読み"
+  title: 27分～ 成瀬鳴＆七瀬タク at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 23
     min: 30
-  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:各々のYouTubeチャンネル? Minecraft"
+  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:ベルモンド・バンデラス、郡道美玲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-08
