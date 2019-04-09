@@ -179,6 +179,27 @@
   uri: 
 - date: 2019-04-10
   time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読「桜の森の満開の下」 ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 0
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談 ※前日19時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 1
+    min: 0
+  title: "?～ 舞元啓介 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
     hour: 13
     min: 0
   title: "鈴鹿詩子＆雪汝 at:鈴鹿詩子のYouTubeチャンネル グランド・セフト・オートV"
@@ -195,13 +216,6 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-10
-  time:
-    hour: 22
-    min: 0
   title: "癒月ちょこ＆ゲスト：黒井しば at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
@@ -210,6 +224,13 @@
     hour: 23
     min: 0
   title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #8 最終回！綺麗な爆弾・鈴鹿詩子と平成最後までふりかえれ！"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -275,7 +296,7 @@
   time:
     hour: 2
     min: 0
-  title: "ドーラ at:? 歌練習"
+  title: "ドーラ at:YouTube 歌練習"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -297,6 +318,20 @@
     hour: 14
     min: 0
   title: "雪汝＆テトラ＆音俣るか at:音俣るかのYouTubeチャンネル? Trine 2"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 15
+    min: 0
+  title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube ずんだ雑談"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -324,21 +359,14 @@
   time:
     hour: 19
     min: 0
-  title: "瀬戸美夜子 at:YouTube 雑談"
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-09
   time:
     hour: 20
     min: 0
-  title: "でろちー(樋口楓＆勇気ちひろ) at:勇気ちひろのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL ※4/8樋口楓の配信にて告知"
-  end_time: 
-  uri: 
-- date: 2019-04-09
-  time:
-    hour: 21
-    min: 0
-  title: "ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
+  title: "でろちー(樋口楓＆勇気ちひろ) at:勇気ちひろのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -380,6 +408,13 @@
   time:
     hour: 22
     min: 0
+  title: "ドーラ at:YouTube ヨッシークラフトワールド ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 22
+    min: 0
   title: "夢追翔＆黒井しば+ゲスト：御伽原江良 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
     #6 ※21時から時間変更"
   end_time: 
@@ -388,7 +423,7 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube 俳句"
   end_time: 
   uri: 
 - date: 2019-04-09
@@ -410,6 +445,20 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 23
+    min: 0
+  title: "久遠千歳 at:YouTube セリフ読み"
+  end_time: 
+  uri: 
+- date: 2019-04-09
+  time:
+    hour: 23
+    min: 0
+  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:各々のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-08
