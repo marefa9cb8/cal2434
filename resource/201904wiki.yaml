@@ -342,9 +342,37 @@
   uri: 
 - date: 2019-04-10
   time:
+    hour: 3
+    min: 51
+  title: "叶＆天開司 at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 5
+    min: 50
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
     hour: 13
     min: 0
   title: "鈴鹿詩子＆雪汝 at:鈴鹿詩子のYouTubeチャンネル グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube プレミア公開 ONE MORE TIME."
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -408,6 +436,13 @@
   time:
     hour: 22
     min: 0
+  title: "剣持刀也 at:YouTube 10万人記念、凸待ち ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 22
+    min: 0
   title: "社築 at:YouTube 新衣装お披露目?"
   end_time: 
   uri: 
@@ -453,7 +488,7 @@
   uri: 
 - date: 2019-04-10
   time: 
-  title: "？時？分～ 小野町春香 at:YouTube マイクテスト"
+  title: "？時？分(仮)～ 小野町春香 at:YouTube マイクテスト"
   end_time: 
   uri: 
 - date: 2019-04-09
