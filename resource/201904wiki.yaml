@@ -309,6 +309,13 @@
   time:
     hour: 23
     min: 0
+  title: "緑仙 at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 23
+    min: 0
   title: "鷹宮リオン＆ジョー・力一 at:YouTube ばったりラジオ 第3回"
   end_time: 
   uri: 
@@ -405,6 +412,13 @@
   uri: 
 - date: 2019-04-10
   time:
+    hour: 12
+    min: 36
+  title: "郡道美玲 at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
     hour: 13
     min: 0
   title: "鈴鹿詩子＆雪汝 at:鈴鹿詩子のYouTubeチャンネル グランド・セフト・オートV"
@@ -412,9 +426,30 @@
   uri: 
 - date: 2019-04-10
   time:
+    hour: 15
+    min: 0
+  title: "黒井しば at:YouTube Planet Coaster"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 16
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube おどるメイド イン ワリオ"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -450,6 +485,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube 懺悔室"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube ※予定表＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -534,6 +576,13 @@
   time:
     hour: 23
     min: 0
+  title: "神田笑一＆郡道美玲 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 23
+    min: 0
   title: "竜胆尊 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -542,11 +591,6 @@
     hour: 23
     min: 30
   title: "?～ 樋口楓 at:YouTube 春服お披露目"
-  end_time: 
-  uri: 
-- date: 2019-04-10
-  time: 
-  title: "？時？分～ 神田笑一＆郡道美玲 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-04-09
