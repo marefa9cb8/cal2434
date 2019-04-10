@@ -316,9 +316,37 @@
   uri: 
 - date: 2019-04-11
   time:
+    hour: 2
+    min: 40
+  title: "笹木咲 at:YouTube 企画・反省会議"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 3
+    min: 42
+  title: "瀬戸美夜子 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 4
+    min: 47
+  title: "鷹宮リオン at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube 農園婚活"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -361,6 +389,13 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル＆？？？ at:? Apex Legends ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-04-11
