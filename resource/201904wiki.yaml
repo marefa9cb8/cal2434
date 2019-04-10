@@ -22,7 +22,7 @@
   time:
     hour: 23
     min: 0
-  title: or24時00分～ 竜胆尊 at:YouTube ラジオ
+  title: or24時00分～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -258,6 +258,13 @@
   uri: 
 - date: 2019-04-11
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
     hour: 1
     min: 30
   title: "竜胆尊 at:YouTube Minecraft"
@@ -482,16 +489,16 @@
   uri: 
 - date: 2019-04-10
   time:
-    hour: 19
-    min: 30
-  title: "でろちー(樋口楓＆勇気ちひろ) at:勇気ちひろのYouTubeチャンネル"
+    hour: 20
+    min: 0
+  title: "勇気ちひろ at:YouTube 雑談 ※延期"
   end_time: 
   uri: 
 - date: 2019-04-10
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ at:YouTube 雑談 ※延期"
+  title: "でろちー(樋口楓＆勇気ちひろ) at:勇気ちひろのYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL、ぷよぷよテトリス"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -512,7 +519,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube ※予定表＆リマインダーより"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -520,6 +527,13 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube Goat Simulator"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 20
+    min: 14
+  title: "叶 at:YouTube Dota Auto Chess"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -548,7 +562,7 @@
   time:
     hour: 21
     min: 40
-  title: "飛鳥ひな at:YouTube"
+  title: "飛鳥ひな at:YouTube 雑談、告知"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -562,7 +576,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube 新衣装お披露目?"
+  title: "社築 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -576,7 +590,7 @@
   time:
     hour: 23
     min: 0
-  title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #8 最終回！綺麗な爆弾・鈴鹿詩子と平成最後までふりかえれ！"
+  title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩:子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #8 最終回！綺麗な爆弾・鈴鹿詩子と平成最後までふりかえれ！"
   end_time: 
   uri: 
 - date: 2019-04-10
