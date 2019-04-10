@@ -167,6 +167,13 @@
   uri: 
 - date: 2019-04-12
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ おにぎり"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube ドクターマリオ"
@@ -184,7 +191,7 @@
   time:
     hour: 19
     min: 0
-  title: "緑仙 at:? 萌え声実況 ※予定表より"
+  title: "緑仙 at:YouTube 農園婚活"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -251,16 +258,25 @@
   title: "小野町春香 at:YouTube 囁き+耳かきASMR"
   end_time: 
   uri: 
-- date: 2019-04-12
-  time: 
-  title: "？時？分(朝)～ 伏見ガク at:YouTube"
+- date: 2019-04-11
+  time:
+    hour: 0
+    min: 0
+  title: "物述有栖＆童田明治＆御伽原江良 at:物述有栖のYouTubeチャンネル 童話組お泊り会"
   end_time: 
   uri: 
 - date: 2019-04-11
   time:
     hour: 0
     min: 0
-  title: "夢月ロア at:YouTube ※Twitterネームより"
+  title: "卯月コウ at:YouTube プレミア公開 自己紹介"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -282,6 +298,13 @@
     hour: 20
     min: 0
   title: "椎名唯華 at:YouTube The House ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 20
+    min: 0
+  title: "戌亥とこ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -321,6 +344,13 @@
   uri: 
 - date: 2019-04-11
   time:
+    hour: 22
+    min: 0
+  title: "三枝明那 at:YouTube Five Nights at Freddy's"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
     hour: 23
     min: 0
   title: "緑仙 at:? ※予定表より"
@@ -338,6 +368,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 23
+    min: 30
+  title: "社築＆舞元啓介＆夏色まつり＆大空スバル at:大空スバルのYouTubeチャンネル にじホロ青空教室"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -583,21 +620,35 @@
   time:
     hour: 22
     min: 0
+  title: "ベルモンド・バンデラス＆白雪レイド＆天羽よつは＆皆守ひいろ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 22
+    min: 0
   title: "癒月ちょこ＆ゲスト：黒井しば at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-04-10
   time:
-    hour: 23
+    hour: 22
     min: 0
-  title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩:子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #8 最終回！綺麗な爆弾・鈴鹿詩子と平成最後までふりかえれ！"
+  title: 29分～ シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:叶のYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2019-04-10
   time:
-    hour: 23
-    min: 0
-  title: "闇夜乃モルル at:YouTube 雑談"
+    hour: 22
+    min: 30
+  title: "ミカ＆ガブ+週替わりゲスト：鈴鹿詩子 at:Yahoo!Japanトップ 「ばーちゃるわいど～ふりかえれ！平成30年史～」 #8 最終回！綺麗な爆弾・鈴鹿詩子と平成最後までふりかえれ！"
+  end_time: 
+  uri: 
+- date: 2019-04-10
+  time:
+    hour: 22
+    min: 30
+  title: "闇夜乃モルル at:YouTube 罰ゲーム執行、雑談"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -611,7 +662,7 @@
   time:
     hour: 23
     min: 0
-  title: "神田笑一＆郡道美玲 at:YouTube マリオカート8 デラックス"
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-04-10
@@ -625,7 +676,7 @@
   time:
     hour: 23
     min: 30
-  title: "?～ 樋口楓 at:YouTube 春服お披露目"
+  title: "樋口楓 at:YouTube 春服お披露目"
   end_time: 
   uri: 
 - date: 2019-04-09
