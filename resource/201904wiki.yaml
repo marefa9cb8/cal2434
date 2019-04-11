@@ -225,6 +225,20 @@
   time:
     hour: 0
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:YouTube レイトン教授と不思議な町 or Minecraft?"
   end_time: 
   uri: 
@@ -260,6 +274,13 @@
   time:
     hour: 19
     min: 0
+  title: "森中花咲 at:YouTube 五七五オンライン ※4/10の配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 19
+    min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY、前半のみ：YouTube、bilibili REALITY FESTIVAL
     2 >DIVE 神々さみっと"
   end_time: 
@@ -276,13 +297,6 @@
     hour: 19
     min: 0
   title: "瀬戸美夜子 at:YouTube SCP解説"
-  end_time: 
-  uri: 
-- date: 2019-04-12
-  time:
-    hour: 19
-    min: 0
-  title: "森中花咲 at:YouTube 五七五オンライン ※4/10の配信で告知"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -465,13 +479,6 @@
   time:
     hour: 19
     min: 0
-  title: "闇夜乃モルル at:YouTube ※リマインダー予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-11
-  time:
-    hour: 19
-    min: 0
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -500,7 +507,7 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd)"
+  title: "でびでび・でびる at:YouTube(2nd) ※中止"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -522,6 +529,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube 農園婚活"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -599,6 +613,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 23
+    min: 0
+  title: "久遠千歳 at:YouTube Minecraft ※25時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-11
