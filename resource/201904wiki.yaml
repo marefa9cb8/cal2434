@@ -437,14 +437,21 @@
   time:
     hour: 15
     min: 30
-  title: "本間ひわまり at:YouTube シーマン"
+  title: "本間ひまわり at:YouTube シーマン"
+  end_time: 
+  uri: 
+- date: 2019-04-11
+  time:
+    hour: 17
+    min: 0
+  title: "夢追翔 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-04-11
   time:
     hour: 18
     min: 0
-  title: "本間ひわまり at:YouTube みんなのリズム天国"
+  title: "本間ひまわり at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-04-11
@@ -605,7 +612,7 @@
   time:
     hour: 15
     min: 0
-  title: or16時00分～ シスター・クレア at:YouTube
+  title: or16時00分～ シスター・クレア at:YouTube ※中止
   end_time: 
   uri: 
 - date: 2019-04-10
