@@ -1,4 +1,12 @@
 ---
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 15
+  title: "樋口楓＆YuNi&かしこまり&天神子兎音&ときのそら at:cluster、YouTube さよなら平成カウントダウンライブ UNiON WAVE
+    - clear -"
+  end_time: 
+  uri: 
 - date: 2019-04-29
   time:
     hour: 7
@@ -160,6 +168,20 @@
   uri: 
 - date: 2019-04-13
   time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
     hour: 1
     min: 0
   title: "鈴木勝 at:YouTube 相談会"
@@ -169,7 +191,7 @@
   time:
     hour: 1
     min: 0
-  title: "舞元啓介 at:YouTube マイモトーク #1"
+  title: "舞元啓介 at:YouTube マイモトーク #1 「新日本プロレス」"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -177,6 +199,13 @@
     hour: 2
     min: 0
   title: "闇夜乃モルル at:YouTube ママにあいたい"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -282,6 +311,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -428,6 +464,13 @@
   time:
     hour: 19
     min: 0
+  title: 18時41分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 19
+    min: 0
   title: "森中花咲 at:YouTube 五七五オンライン"
   end_time: 
   uri: 
@@ -435,8 +478,8 @@
   time:
     hour: 19
     min: 0
-  title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY、前半のみ：YouTube、bilibili REALITY FESTIVAL
-    2 >DIVE 神々さみっと"
+  title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY、前半のみ：天神子兎音のYouTubeチャンネル、bilibili REALITY
+    FESTIVAL 2 >DIVE 神々さみっと"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -448,24 +491,17 @@
   uri: 
 - date: 2019-04-12
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-04-12
-  time:
-    hour: 19
-    min: 0
-  title: "瀬戸美夜子 at:YouTube SCP解説"
+  title: R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:にじさんじ公式YouTubeチャンネル ゲーミングスマートフォン「ROGPhone」レビュー(IdentityV
+    第五人格)
   end_time: 
   uri: 
 - date: 2019-04-12
   time:
     hour: 20
     min: 0
-  title: R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:にじさんじ公式YouTubeチャンネル ゲーミングスマートフォン「ROGPhone」レビュー(IdentityV
-    第五人格)
+  title: "瀬戸美夜子 at:YouTube SCP解説"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -550,6 +586,20 @@
   time:
     hour: 23
     min: 0
+  title: "轟京子 at:YouTube South Park: The Stick of Truth"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube スーパーメトロイド"
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube 囁き+耳かきASMR"
   end_time: 
   uri: 
@@ -562,12 +612,7 @@
   uri: 
 - date: 2019-04-12
   time: 
-  title: "？時？分～ 社築 at:YouTube スーパーメトロイド ※4/10の配信内で告知"
-  end_time: 
-  uri: 
-- date: 2019-04-12
-  time: 
-  title: "？時？分(夜)～ 神田笑一 at:YouTube"
+  title: "？時？分(夜)～ 神田笑一 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-04-11
