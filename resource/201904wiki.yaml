@@ -236,6 +236,20 @@
   uri: 
 - date: 2019-04-13
   time:
+    hour: 3
+    min: 6
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 3
+    min: 37
+  title: "郡道美玲＆夢月ロア at:郡道美玲のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:YouTube Minecraft"
@@ -384,6 +398,11 @@
 - date: 2019-04-13
   time: 
   title: "？時？分(昼頃)～ 成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time: 
+  title: "？時？分(夕方)～ 夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-04-12
