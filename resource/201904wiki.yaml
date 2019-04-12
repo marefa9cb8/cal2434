@@ -180,6 +180,11 @@
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #22"
   end_time: 
   uri: 
+- date: 2019-04-14
+  time: 
+  title: "？時？分～ 社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦 ※4/12の配信内で告知"
+  end_time: 
+  uri: 
 - date: 2019-04-13
   time:
     hour: 0
@@ -205,6 +210,13 @@
   time:
     hour: 1
     min: 0
+  title: "闇夜乃モルル at:YouTube Slime Rancher"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 1
+    min: 0
   title: "鈴木勝 at:YouTube 相談会"
   end_time: 
   uri: 
@@ -213,13 +225,6 @@
     hour: 1
     min: 0
   title: "舞元啓介 at:YouTube マイモトーク #1 「新日本プロレス」"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time:
-    hour: 2
-    min: 0
-  title: "闇夜乃モルル at:YouTube ママにあいたい"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -301,9 +306,23 @@
   uri: 
 - date: 2019-04-13
   time:
+    hour: 20
+    min: 0
+  title: "三枝明那 at:YouTube Five Nights at Freddy's"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
     hour: 21
     min: 0
   title: "かえる(樋口楓＆える) at:えるのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:YouTube The Forest"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -626,7 +645,7 @@
   time:
     hour: 22
     min: 0
-  title: "伏見ガク at:YouTube"
+  title: "伏見ガク at:YouTube お疲れ様会"
   end_time: 
   uri: 
 - date: 2019-04-12
@@ -682,7 +701,14 @@
   time:
     hour: 23
     min: 0
-  title: 10分～ 笹木咲 at:YouTube
+  title: 10分～ 笹木咲 at:YouTube 大富豪
+  end_time: 
+  uri: 
+- date: 2019-04-12
+  time:
+    hour: 23
+    min: 58
+  title: "瀬戸美夜子 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-04-12
