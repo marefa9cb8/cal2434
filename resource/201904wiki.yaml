@@ -299,7 +299,14 @@
   time:
     hour: 14
     min: 0
-  title: "ドーラ at:YouTube 大神 絶景版 ※Twitterネーム＆予定表＆リマインダーより"
+  title: "ドーラ at:YouTube 大神 絶景版"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 14
+    min: 0
+  title: "成瀬鳴 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -321,6 +328,13 @@
     hour: 15
     min: 0
   title: "椎名唯華 at:YouTube アマガミ"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 15
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -356,6 +370,13 @@
     hour: 19
     min: 30
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube スクールボーイズ！歩 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -398,6 +419,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -466,11 +494,6 @@
     hour: 10
     min: 0
   title: "？時？分～ 緑仙 at:YouTube Minecraft ※時間変更"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time: 
-  title: "？時？分(昼頃)～ 成瀬鳴 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-13
