@@ -89,6 +89,13 @@
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
+- date: 2019-04-16
+  time:
+    hour: 0
+    min: 0
+  title: or01時00分(仮)～ でびでび・でびる at:YouTube(2nd)
+  end_time: 
+  uri: 
 - date: 2019-04-15
   time:
     hour: 7
@@ -127,15 +134,29 @@
 - date: 2019-04-14
   time:
     hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 1
     min: 30
-  title: "夕陽リリ＆森中花咲 at:YouTube ※森中花咲Twitterネームより"
+  title: "夕陽リリ＆森中花咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 13
+    min: 0
+  title: "椎名唯華 at:YouTube アマガミ"
   end_time: 
   uri: 
 - date: 2019-04-14
   time:
     hour: 15
     min: 0
-  title: VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル(メイン会場) PUBG(SQUAD)
+  title: "第2回VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル(メイン会場) PUBG(SQUAD)"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -339,9 +360,44 @@
   uri: 
 - date: 2019-04-13
   time:
+    hour: 15
+    min: 24
+  title: "闇夜乃モルル at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 16
+    min: 11
+  title: "ベルモンド・バンデラス＆白雪レイド＆天羽よつは＆皆守ひいろ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 16
+    min: 30
+  title: "緑仙 at:YouTube Minecraft ※10時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 16
+    min: 58
+  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
     hour: 17
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 17
+    min: 30
+  title: "勇気ちひろ＆出雲霞＆神田笑一 at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -362,14 +418,14 @@
   time:
     hour: 19
     min: 0
-  title: VTuber最協決定戦前夜祭 at:?
+  title: "第2回VTuber最協決定戦前夜祭 at:渋谷ハルのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-04-13
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -482,23 +538,6 @@
     hour: 23
     min: 0
   title: "御伽原江良 at:YouTube みんなのリズム天国"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time: 
-  title: "？時？分(夕方・仮)～ 出雲霞 at:?"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time:
-    hour: 10
-    min: 0
-  title: "？時？分～ 緑仙 at:YouTube Minecraft ※時間変更"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time: 
-  title: "？時？分(夕方)～ 夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-04-12
