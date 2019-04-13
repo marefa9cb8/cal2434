@@ -147,6 +147,20 @@
   uri: 
 - date: 2019-04-14
   time:
+    hour: 1
+    min: 30
+  title: "御伽原江良 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 9
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube アマガミ"
@@ -206,6 +220,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #22"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -418,7 +439,7 @@
   time:
     hour: 19
     min: 0
-  title: "第2回VTuber最協決定戦前夜祭 at:渋谷ハルのYouTubeチャンネル"
+  title: "叶＆赤羽葉子＆葛葉 at:渋谷ハルのYouTubeチャンネル 第2回VTuber最協決定戦前夜祭"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -432,14 +453,14 @@
   time:
     hour: 20
     min: 0
-  title: "鈴鹿詩子 at:YouTube スクールボーイズ！歩 ※リマインダーより"
+  title: "鈴鹿詩子 at:YouTube スクールボーイズ！歩"
   end_time: 
   uri: 
 - date: 2019-04-13
   time:
     hour: 20
     min: 0
-  title: "闇夜乃モルル at:YouTube 歌"
+  title: "闇夜乃モルル at:YouTube 歌 ※中止"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -473,6 +494,13 @@
 - date: 2019-04-13
   time:
     hour: 21
+    min: 3
+  title: "闇夜乃モルル at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -488,7 +516,7 @@
   time:
     hour: 22
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "花畑チャイカ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -496,13 +524,6 @@
     hour: 22
     min: 0
   title: "癒月ちょこ＆ゲスト：御伽原江良 at:癒月ちょこのYouTubeチャンネル 身体測定 ※延期"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time:
-    hour: 23
-    min: 0
-  title: "える＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -523,14 +544,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? 歌"
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-13
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube ※14日23時からに延期"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -538,6 +559,13 @@
     hour: 23
     min: 0
   title: "御伽原江良 at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 23
+    min: 30
+  title: "える&夕陽リリ&鈴鹿詩子&本間ひまわり&シスター・クレア at:本間ひまわりのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-04-12
