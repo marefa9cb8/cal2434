@@ -98,6 +98,13 @@
   uri: 
 - date: 2019-04-15
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube 8万人記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
@@ -128,14 +135,49 @@
   time:
     hour: 0
     min: 0
+  title: "える＆夕陽リリ＆鈴鹿詩子＆本間ひまわり＆シスター・クレア at:本間ひまわりのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 0
+    min: 0
   title: "笹木咲＆魔界ノりりむ＆卯月コウ＆久遠千歳 at:笹木咲のYouTubeチャンネル UNO"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 0
+    min: 0
+  title: "戌亥とこ at:YouTube 雑談、マシュマロ返信"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 0
+    min: 3
+  title: "鷹宮リオン at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 0
+    min: 30
+  title: "叶＆赤羽葉子＆葛葉 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-04-14
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft ※延期"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #9"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -502,7 +544,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -559,13 +601,6 @@
     hour: 23
     min: 0
   title: "御伽原江良 at:YouTube みんなのリズム天国"
-  end_time: 
-  uri: 
-- date: 2019-04-13
-  time:
-    hour: 23
-    min: 30
-  title: "える&夕陽リリ&鈴鹿詩子&本間ひまわり&シスター・クレア at:本間ひまわりのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-04-12
