@@ -119,9 +119,16 @@
   uri: 
 - date: 2019-04-14
   time:
+    hour: 0
+    min: 0
+  title: "笹木咲＆魔界ノりりむ＆卯月コウ＆久遠千歳 at:笹木咲のYouTubeチャンネル UNO"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
     hour: 1
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "夕陽リリ＆森中花咲 at:YouTube ※森中花咲Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -178,6 +185,11 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #22"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time: 
+  title: "？時？分～ ドーラ at:YouTube 大神 絶景版 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -250,9 +262,23 @@
   uri: 
 - date: 2019-04-13
   time:
-    hour: 10
+    hour: 9
     min: 0
-  title: "緑仙 at:YouTube Minecraft"
+  title: "名伽尾アズマ at:YouTube うさぎパズル、つぐのひ ー閉ざされた未来ー、ホノボノ"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 9
+    min: 47
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 10
+    min: 5
+  title: "宇志海いちご at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -272,8 +298,29 @@
 - date: 2019-04-13
   time:
     hour: 14
+    min: 0
+  title: "ドーラ at:YouTube 大神 絶景版 ※Twitterネーム＆予定表＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ずんだ フリー"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 15
+    min: 0
+  title: "本間ひまわり at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 15
+    min: 0
+  title: "椎名唯華 at:YouTube アマガミ"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -281,6 +328,13 @@
     hour: 17
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 18
+    min: 30
+  title: "でびでび・でびる at:YouTube(2nd) プレミア公開 ナゾの言語しか出てこないゲーム実況！？ ヨルダケ"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -336,7 +390,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:YouTube The Forest"
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル The Forest"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -350,7 +404,14 @@
   time:
     hour: 22
     min: 0
-  title: "癒月ちょこ＆ゲスト：御伽原江良 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 22
+    min: 0
+  title: "癒月ちょこ＆ゲスト：御伽原江良 at:癒月ちょこのYouTubeチャンネル 身体測定 ※延期"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -364,14 +425,14 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio"
+  title: "剣持刀也＆ゲスト：椎名唯華 at:YouTube SharpnessRadio"
   end_time: 
   uri: 
 - date: 2019-04-13
   time:
     hour: 23
     min: 0
-  title: "鈴木勝 at:YouTube 2万人記念"
+  title: "鈴木勝 at:YouTube(2nd) 2万人記念、耳かきASMR"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -393,6 +454,18 @@
     hour: 23
     min: 0
   title: "御伽原江良 at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time: 
+  title: "？時？分(夕方・仮)～ 出雲霞 at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 10
+    min: 0
+  title: "？時？分～ 緑仙 at:YouTube Minecraft ※時間変更"
   end_time: 
   uri: 
 - date: 2019-04-13
