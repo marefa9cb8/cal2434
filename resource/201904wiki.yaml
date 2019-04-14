@@ -119,9 +119,16 @@
   uri: 
 - date: 2019-04-15
   time:
+    hour: 0
+    min: 30
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-15
@@ -303,7 +310,7 @@
   time:
     hour: 12
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -315,16 +322,37 @@
   uri: 
 - date: 2019-04-14
   time:
+    hour: 12
+    min: 1
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 12
+    min: 33
+  title: "ジョー・力一 at:YouTube 五七五オンライン"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
     hour: 13
     min: 0
-  title: "椎名唯華 at:YouTube アマガミ"
+  title: "椎名唯華 at:YouTube アマガミ ※中止"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 14
+    min: 33
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
   end_time: 
   uri: 
 - date: 2019-04-14
   time:
     hour: 15
     min: 0
-  title: "第2回VTuber最協決定戦 at:渋谷ハルのYouTubeチャンネル(メイン会場) PUBG(SQUAD)"
+  title: "司会：渋谷ハル＆解説：すもも(SUMOMOXqX)他 at:渋谷ハルのYouTubeチャンネル(メイン会場) 第2回VTuber最協決定戦 PUBG(SQUAD)"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -373,7 +401,14 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ ※Twitterネーム＆リマインダーより"
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:bilibili Apex Legends or PUBG"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -408,19 +443,22 @@
   time:
     hour: 23
     min: 0
+  title: "(仮)～ 笹木咲 at:YouTube Minecraft?"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube Goat Simulator"
   end_time: 
   uri: 
 - date: 2019-04-14
   time:
-    hour: 21
+    hour: 23
     min: 0
-  title: "静凛 at:bilibili Apex Legends or PUBG?"
-  end_time: 
-  uri: 
-- date: 2019-04-14
-  time: 
-  title: "？時？分～ ドーラ at:YouTube 大神 絶景版 ※予定表より"
+  title: "郡道美玲 at:YouTube 「KING OF PRISM by PrettyRhythm」、「KING OF PRISM -PRIDE the
+    HERO-」同時視聴"
   end_time: 
   uri: 
 - date: 2019-04-14
