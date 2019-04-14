@@ -481,14 +481,14 @@
   time:
     hour: 19
     min: 0
-  title: "叶＆赤羽葉子＆葛葉 at:渋谷ハルのYouTubeチャンネル 第2回VTuber最協決定戦前夜祭"
+  title: " 渋谷ハル at:渋谷ハルのYouTubeチャンネル(本配信) 第2回VTuber最協決定戦前夜祭"
   end_time: 
   uri: 
 - date: 2019-04-13
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -551,7 +551,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube 企画会議"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -566,6 +566,13 @@
     hour: 22
     min: 0
   title: "癒月ちょこ＆ゲスト：御伽原江良 at:癒月ちょこのYouTubeチャンネル 身体測定 ※延期"
+  end_time: 
+  uri: 
+- date: 2019-04-13
+  time:
+    hour: 22
+    min: 5
+  title: "シスター・クレア at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-13
@@ -593,7 +600,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube ※14日23時からに延期"
+  title: "矢車りね at:YouTube ※14日に延期"
   end_time: 
   uri: 
 - date: 2019-04-13
