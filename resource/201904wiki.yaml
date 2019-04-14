@@ -173,6 +173,11 @@
   title: "でろもい(樋口楓＆モイラ) at:?"
   end_time: 
   uri: 
+- date: 2019-04-15
+  time: 
+  title: "？時？分(昼)～ 黒井しば at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
 - date: 2019-04-14
   time:
     hour: 0
@@ -352,7 +357,8 @@
   time:
     hour: 15
     min: 0
-  title: "司会：渋谷ハル＆解説：すもも(SUMOMOXqX)他 at:渋谷ハルのYouTubeチャンネル(メイン会場) 第2回VTuber最協決定戦 PUBG(SQUAD)"
+  title: "司会：渋谷ハル＆解説：すもも(SUMOMOXqX)他 at:渋谷ハルのYouTubeチャンネル(メイン会場) 第2回VTuber最協決定戦 PUBG(SQUAD)
+    ※全ての配信に5分ディレイあり"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -381,6 +387,20 @@
     hour: 19
     min: 0
   title: "三枝明那＆愛園愛美 at:愛園愛美のYouTubeチャンネル? Overcooked 2"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 20
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -430,6 +450,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #22"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 13万人記念、飲酒雑談"
   end_time: 
   uri: 
 - date: 2019-04-14
