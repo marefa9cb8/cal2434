@@ -42,6 +42,13 @@
   title: "?～ 剣持刀也＆ゲスト：？？？ at:YouTube SharpnessRadio"
   end_time: 
   uri: 
+- date: 2019-04-21
+  time:
+    hour: 0
+    min: 0
+  title: "舞元力一＆ジョー・力一+ゲスト：雨森小夜 at:YouTube 舞元力一 #12"
+  end_time: 
+  uri: 
 - date: 2019-04-20
   time:
     hour: 14
@@ -80,6 +87,11 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子＆竜胆尊 at:鈴鹿詩子のYouTubeチャンネル おとなのじかん #2"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time: 
+  title: "？時？分～月ノ美兎 at:? ※4/14の配信で告知"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -386,14 +398,14 @@
   time:
     hour: 19
     min: 0
-  title: "三枝明那＆愛園愛美 at:愛園愛美のYouTubeチャンネル? Overcooked 2"
+  title: "三枝明那＆愛園愛美 at:愛園愛美のYouTubeチャンネル Overcooked 2 雑談"
   end_time: 
   uri: 
 - date: 2019-04-14
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube 頭を柔らかくする脳トレ"
   end_time: 
   uri: 
 - date: 2019-04-14
@@ -454,6 +466,20 @@
   uri: 
 - date: 2019-04-14
   time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
+    hour: 22
+    min: 0
+  title: "ベルモンド・バンデラス＆白雪レイド＆天羽よつは＆皆守ひいろ at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-14
+  time:
     hour: 23
     min: 0
   title: "鈴鹿詩子 at:YouTube 13万人記念、飲酒雑談"
@@ -486,11 +512,6 @@
     min: 0
   title: "郡道美玲 at:YouTube 「KING OF PRISM by PrettyRhythm」、「KING OF PRISM -PRIDE the
     HERO-」同時視聴"
-  end_time: 
-  uri: 
-- date: 2019-04-14
-  time: 
-  title: "？時？分～ 社築 at:YouTube キャプテン翼Ⅲ 皇帝の挑戦 ※4/12の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-04-13
