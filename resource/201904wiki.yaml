@@ -63,6 +63,13 @@
   title: "出雲霞 at:YouTube 遥かなる時の中で6 ※開始時刻：チャンネルコミュニティ予定表より"
   end_time: 
   uri: 
+- date: 2019-04-21
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #23"
+  end_time: 
+  uri: 
 - date: 2019-04-20
   time:
     hour: 10
@@ -203,7 +210,7 @@
   time:
     hour: 21
     min: 0
-  title: "郡道美玲＆？？？ at:?"
+  title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ) at:? 第一話「慟哭」"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -255,6 +262,13 @@
   uri: 
 - date: 2019-04-16
   time:
+    hour: 0
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
@@ -278,7 +292,7 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "リゼ・ヘルエスタ at:YouTube Layers of Fear ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -500,23 +514,30 @@
   uri: 
 - date: 2019-04-15
   time:
-    hour: 22
-    min: 0
-  title: "でろもい(樋口楓＆モイラ) at:?"
+    hour: 21
+    min: 57
+  title: "叶 at:YouTube Dota Auto Chess"
   end_time: 
   uri: 
 - date: 2019-04-15
   time:
     hour: 22
     min: 0
-  title: "夕陽リリ＆因幡はねる＆ロボ子さん＆白上フブキ＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  title: "でろもい(樋口楓＆モイラ) at:モイラのYouTubeチャンネル Ib"
   end_time: 
   uri: 
 - date: 2019-04-15
   time:
     hour: 22
     min: 0
-  title: "シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:? UNO"
+  title: "夕陽リリ＆因幡はねる＆ロボ子さん＆白上フブキ＆癒月ちょこ at:因幡はねる、癒月ちょこのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
+    hour: 22
+    min: 0
+  title: "シリンソウ(叶＆赤羽葉子＆本間ひまわり＆葛葉) at:? UNO ※延期"
   end_time: 
   uri: 
 - date: 2019-04-15
@@ -550,6 +571,20 @@
 - date: 2019-04-15
   time:
     hour: 22
+    min: 20
+  title: "葛葉 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
+    hour: 22
+    min: 30
+  title: "宇志海いちご at:YouTube 誕生日配信、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
+    hour: 22
     min: 30
   title: "にじさんじドリクラーズ(名伽尾アズマ＆花畑チャイカ＆社築＆舞元啓介＆夢追翔) at:舞元啓介のYouTubeチャンネル ドリームクラブ ZERO"
   end_time: 
@@ -565,7 +600,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube 雑談 ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-15
@@ -600,7 +635,14 @@
   time:
     hour: 23
     min: 30
-  title: "鈴木勝 at:YouTube(2nd) プレミア公開 ※Twitterネームより"
+  title: "鈴鹿詩子 at:YouTube Neverending Nightmares"
+  end_time: 
+  uri: 
+- date: 2019-04-15
+  time:
+    hour: 23
+    min: 30
+  title: "鈴木勝 at:YouTube(2nd) プレミア公開 音フェチ中学生が早起きしたから散歩ついでに環境音録ってきた"
   end_time: 
   uri: 
 - date: 2019-04-14
