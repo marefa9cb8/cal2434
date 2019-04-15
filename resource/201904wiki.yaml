@@ -201,6 +201,13 @@
   uri: 
 - date: 2019-04-17
   time:
+    hour: 1
+    min: 0
+  title: "闇夜乃モルル at:YouTube ママにあいたい"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
     hour: 19
     min: 30
   title: "シスター・クレア at:YouTube"
@@ -332,6 +339,13 @@
   uri: 
 - date: 2019-04-16
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube ASMR・バイノーラル雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube 雑談"
@@ -383,7 +397,14 @@
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube 星のカービィ"
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 23
+    min: 0
+  title: "闇夜乃モルル at:YouTube I.Q FINAL"
   end_time: 
   uri: 
 - date: 2019-04-16
