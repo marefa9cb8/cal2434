@@ -381,7 +381,28 @@
   time:
     hour: 12
     min: 0
-  title: "愛園愛美 at:YouTube ひるまなラジオ #4 ※リマインダーより"
+  title: "愛園愛美 at:YouTube ひるまなラジオ #4"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 14
+    min: 0
+  title: "笹木咲＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 14
+    min: 23
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 16
+    min: 50
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -393,9 +414,23 @@
   uri: 
 - date: 2019-04-16
   time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube ASMR・バイノーラル雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 19
+    min: 0
+  title: "瀬戸美夜子 at:YouTube -どこでもいっしょ- レッツ学校!"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -437,6 +472,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 22
+    min: 0
   title: "緑仙 at:YouTube 誕生日配信、雑談 ※リマインダー＆予定表より"
   end_time: 
   uri: 
@@ -444,7 +486,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる)＆舞元力一(舞元啓介＆ジョー・力一)＆審判：夢追翔 at:? 舞元力一vsでびリオン"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる)＆舞元力一(舞元啓介＆ジョー・力一)＆審判：夢追翔 at:舞元啓介のYouTubeチャンネル 舞元力一vsでびリオン"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -472,7 +514,12 @@
   time:
     hour: 23
     min: 30
-  title: "椎名唯華 at:YouTube 誕生日企画"
+  title: "椎名唯華 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time: 
+  title: "？時？分～ 夢追翔 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-04-15
