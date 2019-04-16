@@ -74,7 +74,7 @@
   time:
     hour: 15
     min: 0
-  title: "出雲霞 at:YouTube 遥かなる時の中で6 ※開始時刻：チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 遥かなる時の中で6"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -95,7 +95,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ 特別編 ずんだスイーツ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 昼やスミ 特別編 ずんだスイーツ"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -108,6 +108,11 @@
 - date: 2019-04-20
   time: 
   title: "？時？分～ モイラ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time: 
+  title: "？時？分～ 出雲霞＆？？？ at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -140,7 +145,7 @@
   time:
     hour: 23
     min: 0
-  title: "出雲霞 at:YouTube 寝かしつけ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube 寝かしつけ"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -162,6 +167,13 @@
     hour: 23
     min: 0
   title: or24時00分～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 18
+    min: 0
+  title: "出雲霞 at:YouTube 魔界村"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -225,6 +237,20 @@
     hour: 1
     min: 0
   title: "闇夜乃モルル at:YouTube ママにあいたい"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube TETRIS 99、雑談"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -444,7 +470,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube ASMR・バイノーラル雑談 ※リマインダーより"
+  title: "桜凛月 at:YouTube ASMR・バイノーラル雑談"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -470,6 +496,20 @@
   uri: 
 - date: 2019-04-16
   time:
+    hour: 20
+    min: 21
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube Ib"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
     hour: 21
     min: 0
   title: "渋谷ハジメ＆伊集院ゼロ at:YouTube 渋谷カフェ：つなげようお客様の輪 第30回"
@@ -479,7 +519,21 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 歌(アイカツ！縛り) ※予定表より"
+  title: "ドーラ at:YouTube 歌(アイカツ！縛り)"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube 陰の者ラジオ（仮）"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 21
+    min: 0
+  title: "夢追翔 at:YouTube プレミア公開 夢追翔 MV 「緑仙RAP」（FULL version）"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -487,6 +541,13 @@
     hour: 21
     min: 0
   title: "戌亥とこ at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-04-16
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -513,8 +574,8 @@
 - date: 2019-04-16
   time:
     hour: 22
-    min: 0
-  title: or22時30分～ 小野町春香 at:YouTube 星のカービィ スターアライズ
+    min: 30
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-04-16
@@ -534,13 +595,15 @@
 - date: 2019-04-16
   time:
     hour: 23
-    min: 30
-  title: "椎名唯華 at:YouTube 誕生日配信"
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube 7 Days to Die"
   end_time: 
   uri: 
 - date: 2019-04-16
-  time: 
-  title: "？時？分～ 夢追翔 at:YouTube プレミア公開"
+  time:
+    hour: 23
+    min: 30
+  title: "椎名唯華 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-04-15
