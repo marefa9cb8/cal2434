@@ -84,6 +84,13 @@
   title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #23"
   end_time: 
   uri: 
+- date: 2019-04-21
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：ピーナッツくん at:YouTube しぃしぃラジオ 第4回"
+  end_time: 
+  uri: 
 - date: 2019-04-20
   time:
     hour: 10
@@ -167,6 +174,13 @@
     hour: 23
     min: 0
   title: or24時00分～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -290,9 +304,51 @@
   uri: 
 - date: 2019-04-17
   time:
+    hour: 8
+    min: 0
+  title: "出雲霞 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 11
+    min: 0
+  title: "鷹宮リオン at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
     hour: 15
     min: 0
   title: "出雲霞 at:YouTube TETRIS 99、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 16
+    min: 0
+  title: "鷹宮リオン＆黒井しば at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 18
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -313,7 +369,14 @@
   time:
     hour: 20
     min: 0
-  title: "くそざこゲーミング(卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス) at:YouTube"
+  title: "緑仙 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 20
+    min: 0
+  title: "くそざこGaming(卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス) at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -342,6 +405,13 @@
   time:
     hour: 21
     min: 0
+  title: "ドーラ at:YouTube 雑談 ※Twitterネーム＆予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 21
+    min: 0
   title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ) at:? 第一話「慟哭」"
   end_time: 
   uri: 
@@ -356,7 +426,7 @@
   time:
     hour: 22
     min: 0
-  title: "樋口楓 at:YouTube Ib ※Twitterネームより"
+  title: "樋口楓 at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -384,19 +454,22 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:? 歌? ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-17
-  time:
-    hour: 23
-    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-17
   time: 
+  title: "？時？分～ 闇夜乃モルル at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time: 
   title: "？時？分～ 緑仙 at:? テスト配信 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time: 
+  title: "？時？分(コラボ前・仮)～ 竜胆尊 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -639,7 +712,7 @@
   time:
     hour: 22
     min: 0
-  title: "緑仙 at:YouTube 誕生日配信、振り返り雑談"
+  title: "緑仙 at:YouTube 誕生日配信、振り返り雑談、新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-04-16
