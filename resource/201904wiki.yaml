@@ -46,7 +46,7 @@
   time:
     hour: 20
     min: 0
-  title: "社築＆DOLCE. at:YouTube beatmaniaIIDX ※4/17の配信で告知"
+  title: "社築＆DOLCE. at:YouTube beatmania IIDX"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -273,6 +273,13 @@
   time:
     hour: 1
     min: 0
+  title: "夕陽リリ＆癒月ちょこ＆しぐれうい at:癒月ちょこのYouTubeチャンネル ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 1
+    min: 0
   title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -281,6 +288,34 @@
     hour: 1
     min: 0
   title: "でびでび・でびる at:YouTube(2nd) TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube 7 Days to Die"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 2
+    min: 14
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 2
+    min: 50
+  title: "静凛 at:YouTube かまいたちの夜 輪廻彩声"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #5 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -301,6 +336,13 @@
   time:
     hour: 20
     min: 0
+  title: "える at:YouTube ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 20
+    min: 0
   title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 1年振り返り"
   end_time: 
   uri: 
@@ -309,13 +351,6 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
-  end_time: 
-  uri: 
-- date: 2019-04-18
-  time:
-    hour: 21
-    min: 0
-  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -589,7 +624,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube beatmaniaIIDX INFINITAS"
+  title: "社築 at:YouTube beatmania IIDX INFINITAS"
   end_time: 
   uri: 
 - date: 2019-04-17
