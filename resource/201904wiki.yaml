@@ -187,6 +187,27 @@
   uri: 
 - date: 2019-04-18
   time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 0
+    min: 0
+  title: "瀬戸美夜子 at:YouTube ピクトセンス"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube 魔界村"
@@ -252,7 +273,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube 睡眠導入ASMR練習"
+  title: "小野町春香 at:YouTube 睡眠導入ASMR練習 ※17日に変更"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -343,14 +364,14 @@
   time:
     hour: 16
     min: 0
-  title: "鷹宮リオン＆黒井しば at:YouTube Minecraft"
+  title: "鷹宮リオン＆黒井しば at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-17
   time:
     hour: 17
     min: 0
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube Wii Sports Resort"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -372,6 +393,13 @@
     hour: 19
     min: 0
   title: "森中花咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 19
+    min: 0
+  title: "闇夜乃モルル at:YouTube New スーパーマリオブラザーズ Wii"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -488,8 +516,10 @@
   end_time: 
   uri: 
 - date: 2019-04-17
-  time: 
-  title: "？時？分～ 闇夜乃モルル at:? ※Twitterネームより"
+  time:
+    hour: 23
+    min: 0
+  title: or23時30分～ 小野町春香 at:YouTube 睡眠導入ASMR練習
   end_time: 
   uri: 
 - date: 2019-04-17
