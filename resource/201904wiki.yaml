@@ -35,6 +35,13 @@
   title: "出雲霞＆？？？ at:YouTube ※チャンネルコミュニティ予定表より"
   end_time: 
   uri: 
+- date: 2019-04-25
+  time:
+    hour: 12
+    min: 0
+  title: "桜凛月 at:YouTube おひるンボ"
+  end_time: 
+  uri: 
 - date: 2019-04-22
   time:
     hour: 0
@@ -140,7 +147,7 @@
   time:
     hour: 20
     min: 0
-  title: "モイラ at:?"
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲 at:森中花咲のYouTubeチャンネル オフラインコラボ
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -190,6 +197,13 @@
     hour: 0
     min: 0
   title: "笹木咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 0
+    min: 0
+  title: "童田明治 at:YouTube 歌(アニメソング)"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -252,7 +266,7 @@
   time:
     hour: 22
     min: 0
-  title: "三枝明那 at:YouTube"
+  title: "三枝明那 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -392,7 +406,7 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube マリオ＆ソニック AT 北京オリンピック"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -420,6 +434,13 @@
   time:
     hour: 20
     min: 0
+  title: "渋谷ハジメ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 20
+    min: 0
   title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV 第七刻
   end_time: 
   uri: 
@@ -434,21 +455,14 @@
   time:
     hour: 20
     min: 0
-  title: "くそざこGaming(卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス) at:各々のYouTubeチャンネル?"
+  title: "くそざこGaming(卯月コウ＆鷹宮リオン＆ベルモンド・バンデラス) at:各々のYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-04-17
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-04-17
-  time:
-    hour: 21
-    min: 0
-  title: "夕陽リリ＆癒月ちょこ＆しぐれうい at:癒月ちょこのYouTubeチャンネル 絵描き歌対決・オフラインコラボ"
+  title: "月ノ美兎 at:YouTube Nippon Marathon"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -463,14 +477,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 雑談 ※Twitterネーム＆予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-17
-  time:
-    hour: 21
-    min: 0
-  title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ) at:? 第一話「慟哭」"
+  title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ) at:夢追翔のYouTubeチャンネル 第一話「慟哭」"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -498,6 +505,13 @@
   time:
     hour: 22
     min: 0
+  title: "夕陽リリ＆癒月ちょこ＆しぐれうい at:癒月ちょこのYouTubeチャンネル 絵描き歌対決・オフラインコラボ ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 22
+    min: 0
   title: "社築 at:YouTube beatmaniaIIDX INFINITAS"
   end_time: 
   uri: 
@@ -512,7 +526,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "ドーラ at:YouTube 雑談 ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-17
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube Mother Simulator"
   end_time: 
   uri: 
 - date: 2019-04-17
@@ -520,11 +541,6 @@
     hour: 23
     min: 0
   title: or23時30分～ 小野町春香 at:YouTube 睡眠導入ASMR練習
-  end_time: 
-  uri: 
-- date: 2019-04-17
-  time: 
-  title: "？時？分～ 緑仙 at:? テスト配信 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-17
