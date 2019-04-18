@@ -67,7 +67,7 @@
   time:
     hour: 20
     min: 0
-  title: "社築＆DOLCE. at:YouTube beatmania IIDX"
+  title: "社築＆DOLCE. at:YouTube beatmaniaIIDX"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -96,6 +96,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ＆樋口楓＆笹木咲＆鷹宮リオン＆舞元啓介 at:にじさんじ公式YouTubeチャンネル 第20回「にじさんじMIX UP!!」"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -149,9 +156,23 @@
   uri: 
 - date: 2019-04-20
   time:
+    hour: 0
+    min: 30
+  title: "鈴鹿詩子 at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
     hour: 10
     min: 0
   title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 12
+    min: 0
+  title: "安土桃 at:YouTube Shadowverse ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -191,7 +212,7 @@
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Apex Legends ※4月18日の配信で告知"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -205,7 +226,14 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介 at:YouTube メイプルストーリーM"
+  title: "舞元啓介 at:YouTube メイプルストーリーM チャルメラ ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -226,13 +254,6 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-04-19
-  time:
-    hour: 22
-    min: 0
   title: "癒月ちょこ＆ゲスト：緑仙 at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
@@ -241,6 +262,13 @@
     hour: 22
     min: 0
   title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 23
+    min: 0
+  title: "家長むぎ at:YouTube にじ3Dお披露目、告知"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -262,6 +290,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube Layers of Fear"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -399,6 +434,13 @@
   time:
     hour: 19
     min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 19
+    min: 0
   title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
   end_time: 
   uri: 
@@ -406,7 +448,21 @@
   time:
     hour: 19
     min: 30
+  title: "静凛 at:YouTube 殺戮の天使"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 19
+    min: 30
   title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 19
+    min: 30
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -420,7 +476,7 @@
   time:
     hour: 20
     min: 0
-  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 1年振り返り"
+  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 1年振り返り、1-2-Switch"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -433,8 +489,15 @@
 - date: 2019-04-18
   time:
     hour: 20
-    min: 10
-  title: "くまもっさん(本間ひまわり＆葛葉＆SUMOMOXqX(すもも) at:本間ひまわりのYouTubeチャンネル? World War Z"
+    min: 0
+  title: 10分～ くまもっさん(本間ひまわり＆葛葉＆SUMOMOXqX(すもも)) at:各々のYouTubeチャンネル World War Z
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -448,7 +511,28 @@
   time:
     hour: 22
     min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 22
+    min: 0
   title: "轟京子 at:YouTube スライム作り"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 22
+    min: 0
+  title: "卯月コウ at:YouTube 五七五オンライン"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -476,14 +560,21 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-18
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube Layers of Fear"
+  title: "矢車りね at:YouTube Layers of Fear ※翌日に延期"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 23
+    min: 0
+  title: "夢追翔 at:YouTube 1＆2＆3万人記念、歌雑談"
   end_time: 
   uri: 
 - date: 2019-04-18
