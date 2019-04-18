@@ -191,21 +191,21 @@
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-19
   time:
     hour: 0
     min: 0
-  title: "舞元啓介 at:YouTube"
+  title: "鈴木勝 at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-04-19
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆？？？ at:?"
+  title: "舞元啓介 at:YouTube メイプルストーリーM"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -220,6 +220,13 @@
     hour: 20
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲 at:森中花咲のYouTubeチャンネル オフラインコラボ
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -385,7 +392,7 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -455,7 +462,7 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良＆犬山たまき＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 女の子の扱い方伝授"
+  title: "御伽原江良＆犬山たまき＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 女の子の扱い方伝授 ※延期"
   end_time: 
   uri: 
 - date: 2019-04-18
@@ -484,6 +491,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR練習 ※17日に変更"
+  end_time: 
+  uri: 
+- date: 2019-04-18
+  time:
+    hour: 23
+    min: 40
+  title: "神田笑一＆郡道美玲＆夢月ロア at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-17
