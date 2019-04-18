@@ -234,7 +234,7 @@
   time:
     hour: 0
     min: 0
-  title: "クレイジー戦隊(叶＆赤羽葉子＆ふくやマスター＆皆守ひいろ) at:?"
+  title: "クレイジー戦隊(叶＆赤羽葉子＆ふくやマスター＆皆守ひいろ) at:叶、ふくやマスターのYouTubeチャンネル World War Z"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -253,9 +253,30 @@
   uri: 
 - date: 2019-04-19
   time:
+    hour: 1
+    min: 3
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 2
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 2
+    min: 2
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -277,6 +298,13 @@
     hour: 22
     min: 0
   title: "癒月ちょこ＆ゲスト：緑仙 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 0
+  title: "おっさんゲームズ(社築＆舞元啓介)+ゲスト at:? 18日の社築の配信にて告知"
   end_time: 
   uri: 
 - date: 2019-04-19
