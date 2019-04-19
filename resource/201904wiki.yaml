@@ -164,6 +164,13 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 13
+    min: 0
+  title: "文野環 at:YouTube 1周年1ヶ月記念"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 15
     min: 0
   title: "出雲霞 at:YouTube 遥かなる時の中で6"
@@ -356,9 +363,37 @@
   uri: 
 - date: 2019-04-19
   time:
+    hour: 19
+    min: 0
+  title: "戌亥とこ at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
     hour: 20
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル オフラインコラボ
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア＆犬山たまき at:犬山たまきのYouTubeチャンネル プレミア公開 ワールドイズマイン / by シスタークレア×犬山たまき"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン at:YouTube DOOORS ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 20
+    min: 0
+  title: " アンジュ・カトリーナ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -393,7 +428,14 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "宇志海いちご＆たかさき咲 at:たかさき咲のYouTubeチャンネル? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:YouTube 休むな！8分音符ちゃん(リクエストセリフ縛り)"
   end_time: 
   uri: 
 - date: 2019-04-19
