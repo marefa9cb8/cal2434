@@ -106,6 +106,11 @@
   title: "瀬戸美夜子 at:YouTube Minecraft"
   end_time: 
   uri: 
+- date: 2019-04-23
+  time: 
+  title: "？時？分～ 家長むぎ at:?"
+  end_time: 
+  uri: 
 - date: 2019-04-22
   time:
     hour: 0
@@ -201,7 +206,7 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ at:YouTube 8万人記念企画1、「ヴェノム」同時視聴 ※開始時刻：Twitterネームより"
+  title: "ドーラ at:YouTube 8万人記念、「ヴェノム」同時視聴"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -213,9 +218,23 @@
   uri: 
 - date: 2019-04-20
   time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
     hour: 12
     min: 0
   title: "安土桃 at:YouTube Shadowverse ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 13
+    min: 0
+  title: "ドーラ at:YouTube 昼食作り"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -234,9 +253,23 @@
   uri: 
 - date: 2019-04-20
   time:
+    hour: 19
+    min: 0
+  title: "ドーラ at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
     hour: 21
     min: 0
   title: "モイラ＆宇志海いちご＆家長むぎ＆高生紳士 at:モイラのYouTubeチャンネル TRPG"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube Neverending Nightmares、雑談"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -356,6 +389,20 @@
   uri: 
 - date: 2019-04-19
   time:
+    hour: 18
+    min: 3
+  title: "鷹宮リオン at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 18
+    min: 51
+  title: "緑仙 at:ツイキャス 歌"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Apex Legends"
@@ -372,7 +419,7 @@
   time:
     hour: 20
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル オフラインコラボ
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル 妄想SSリレー・オフラインコラボ
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -386,7 +433,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube DOOORS ※リマインダーより"
+  title: "鷹宮リオン at:YouTube DOOORS"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -394,6 +441,13 @@
     hour: 20
     min: 0
   title: " アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 20
+    min: 54
+  title: "町田ちま at:YouTube 近況報告、歌"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -413,22 +467,22 @@
 - date: 2019-04-19
   time:
     hour: 21
-    min: 0
-  title: "夢追翔 at:YouTube プレミア公開"
-  end_time: 
-  uri: 
-- date: 2019-04-19
-  time:
-    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) テスト配信"
   end_time: 
   uri: 
 - date: 2019-04-19
   time:
+    hour: 21
+    min: 45
+  title: "町田ちま at:YouTube プレミア公開 町田ちまの自己紹介！"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
     hour: 22
     min: 0
-  title: "宇志海いちご＆たかさき咲 at:たかさき咲のYouTubeチャンネル? Apex Legends"
+  title: "宇志海いちご＆たかさき咲 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -456,14 +510,14 @@
   time:
     hour: 22
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  title: "夢追翔 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-04-19
   time:
     hour: 22
-    min: 30
-  title: "遠北千南 at:YouTube"
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -484,7 +538,7 @@
   time:
     hour: 23
     min: 0
-  title: "轟京子 at:YouTube South Park: The Stick of Truth"
+  title: "轟京子 at:YouTube South Park: The Stick of Truth ※中止"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -492,6 +546,20 @@
     hour: 23
     min: 0
   title: "シスター・クレア at:YouTube ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 23
+    min: 0
+  title: o～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 23
+    min: 0
+  title: "遠北千南 at:YouTube ※22時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -513,13 +581,6 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube スライムASMR"
-  end_time: 
-  uri: 
-- date: 2019-04-19
-  time:
-    hour: 23
-    min: 0
-  title: or24時00分～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -815,7 +876,7 @@
 - date: 2019-04-18
   time:
     hour: 23
-    min: 40
+    min: 47
   title: "神田笑一＆郡道美玲＆夢月ロア at:郡道美玲のYouTubeチャンネル ファイナルファンタジーXIV"
   end_time: 
   uri: 
