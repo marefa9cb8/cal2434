@@ -212,6 +212,13 @@
 - date: 2019-04-20
   time:
     hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube プレミア公開 ジョー・力一大乱闘に参戦 完全版"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 0
     min: 30
   title: "鈴鹿詩子 at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
@@ -248,6 +255,13 @@
   time:
     hour: 18
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 18
+    min: 0
   title: "出雲霞＆鷹宮リオン＆桜凛月 at:各々のYouTubeチャンネル? Apex Legends"
   end_time: 
   uri: 
@@ -256,6 +270,13 @@
     hour: 19
     min: 0
   title: "ドーラ at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 20
+    min: 0
+  title: "小野町春香＆瀬戸美夜子 at:小野町春香のYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -282,11 +303,6 @@
 - date: 2019-04-20
   time: 
   title: "？時？分～ 緑仙 at:? ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-04-20
-  time: 
-  title: "？時？分～ 小野町春香＆瀬戸美夜子 at:?"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -496,7 +512,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築＆舞元啓介＋ゲスト：？？？ at:舞元啓介のYouTubeチャンネル おっさんゲームス #3"
+  title: "社築＆舞元啓介＋ゲスト：伏見ガク at:舞元啓介のYouTubeチャンネル おっさんゲームス #3 卒業R ～Graduation Real～、ドリームクラブGogo."
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -510,14 +526,35 @@
   time:
     hour: 22
     min: 0
-  title: "夢追翔 at:YouTube プレミア公開"
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 15
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 15
+  title: "闇夜乃モルル at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-04-19
   time:
     hour: 22
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  title: 16分～ 叶 at:YouTube Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 22
+    min: 30
+  title: "夢追翔 at:YouTube プレミア公開 夢追翔、「完全感覚Dreamer」を歌わせていただきました。"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -525,6 +562,13 @@
     hour: 23
     min: 0
   title: "家長むぎ at:YouTube にじ3Dお披露目、告知"
+  end_time: 
+  uri: 
+- date: 2019-04-19
+  time:
+    hour: 23
+    min: 0
+  title: "雪汝 at:YouTube プレミア公開 グランド・セフト・オートV エロスと暴力の混ぜるな危険ｗｗｗ"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -545,21 +589,7 @@
   time:
     hour: 23
     min: 0
-  title: "シスター・クレア at:YouTube ささやきバイノーラル"
-  end_time: 
-  uri: 
-- date: 2019-04-19
-  time:
-    hour: 23
-    min: 0
-  title: o～ 竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！
-  end_time: 
-  uri: 
-- date: 2019-04-19
-  time:
-    hour: 23
-    min: 0
-  title: "遠北千南 at:YouTube ※22時半から時間変更"
+  title: "竜胆尊 at:YouTube 竜胆尊の今夜も呑まないと！"
   end_time: 
   uri: 
 - date: 2019-04-19
@@ -584,13 +614,17 @@
   end_time: 
   uri: 
 - date: 2019-04-19
-  time: 
-  title: "？時？分(夜)～ 伏見ガク＆？？？ at:?"
+  time:
+    hour: 23
+    min: 30
+  title: "遠北千南 at:YouTube 雑談 ※22時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-19
-  time: 
-  title: "？時？分～ ジョー・力一 at:YouTube プレミア公開"
+  time:
+    hour: 23
+    min: 50
+  title: "シスター・クレア at:YouTube ささやきバイノーラル ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-18
