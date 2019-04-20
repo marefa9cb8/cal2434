@@ -195,7 +195,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元力一＆ジョー・力一+ゲスト：雨森小夜 at:YouTube 舞元力一 #12"
+  title: "舞元啓介＆ジョー・力一+ゲスト：雨森小夜 at:ジョー・力一のYouTubeチャンネル 舞元力一 #12"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -229,8 +229,15 @@
 - date: 2019-04-21
   time:
     hour: 1
-    min: 30
+    min: 32
   title: "笹木咲＆でびでび・でびる＆郡道美玲＆夢月ロア at:でびでび・でびる(2nd)、郡道美玲のYouTubeチャンネル スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 2
+    min: 0
+  title: "花畑チャイカ at:YouTube 性癖グランプリ"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -564,13 +571,6 @@
   time:
     hour: 23
     min: 0
-  title: "鈴鹿詩子 at:YouTube 飲酒・振り返り雑談"
-  end_time: 
-  uri: 
-- date: 2019-04-20
-  time:
-    hour: 23
-    min: 0
   title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -582,8 +582,10 @@
   end_time: 
   uri: 
 - date: 2019-04-20
-  time: 
-  title: "？時？分～ 緑仙 at:? ※予定表より"
+  time:
+    hour: 23
+    min: 0
+  title: 10分～ 鈴鹿詩子 at:YouTube 飲酒・振り返り雑談
   end_time: 
   uri: 
 - date: 2019-04-19
