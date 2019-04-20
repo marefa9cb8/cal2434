@@ -16550,14 +16550,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190425
-SUMMARY:？時？分～ 本間ひまわり at:YouTube 3Dお披露目 ※4/18の本間ひまわりの配信で告知
+DTSTART;TZID=Asia/Tokyo:20190425T220000
+SUMMARY:ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:社築のYouTubeチャンネル 超会議のちょっと早めの前夜祭～GWSP～！ ※リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190425
-SUMMARY:？時？分～ ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ※4/18の本間ひまわり＆葛葉の配信で告知
+SUMMARY:？時？分～ 本間ひまわり at:YouTube 3Dお披露目 ※4/18の本間ひまわりの配信で告知
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -16773,7 +16773,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190420T150000
-SUMMARY:渋谷ハジメ at:YouTube タピオカドリンクレビュー ※開始時刻：リマインダーより
+SUMMARY:渋谷ハジメ at:YouTube タピオカドリンクレビュー
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190420T153000
+SUMMARY:夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -16790,14 +16796,26 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190420T180000
-SUMMARY:森中花咲 at:YouTube
+DTSTART;TZID=Asia/Tokyo:20190420T162100
+SUMMARY:渋谷ハジメ at:YouTube Dota Auto Chess
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190420T180000
-SUMMARY:出雲霞＆鷹宮リオン＆桜凛月 at:各々のYouTubeチャンネル? Apex Legends
+SUMMARY:森中花咲 at:YouTube TETRIS 99
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190420T180000
+SUMMARY:出雲霞＆鷹宮リオン＆桜凛月 at:各々のYouTubeチャンネル Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190420T180000
+SUMMARY:卯月コウ at:YouTube Detroit Become Human
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -16827,7 +16845,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190420T200000
-SUMMARY:舞元啓介＆日ノ隈らん＆大空スバル＆ふくやマスター at:日ノ隈らんのYouTubeチャンネル? 麻雀
+SUMMARY:舞元啓介＆大空スバル＆日ノ隈らん＆ふくやマスター at:日ノ隈らん、ふくやマスターのYouTubeチャンネル? 麻雀
 URL:
 DESCRIPTION:
 END:VEVENT

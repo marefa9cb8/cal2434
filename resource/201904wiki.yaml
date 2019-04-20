@@ -90,13 +90,15 @@
   end_time: 
   uri: 
 - date: 2019-04-25
-  time: 
-  title: "？時？分～ 本間ひまわり at:YouTube 3Dお披露目 ※4/18の本間ひまわりの配信で告知"
+  time:
+    hour: 22
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:社築のYouTubeチャンネル 超会議のちょっと早めの前夜祭～GWSP～！ ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-25
   time: 
-  title: "？時？分～ ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ※4/18の本間ひまわり＆葛葉の配信で告知"
+  title: "？時？分～ 本間ひまわり at:YouTube 3Dお披露目 ※4/18の本間ひまわりの配信で告知"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -347,7 +349,14 @@
   time:
     hour: 15
     min: 0
-  title: "渋谷ハジメ at:YouTube タピオカドリンクレビュー ※開始時刻：リマインダーより"
+  title: "渋谷ハジメ at:YouTube タピオカドリンクレビュー"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 15
+    min: 30
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -366,16 +375,30 @@
   uri: 
 - date: 2019-04-20
   time:
-    hour: 18
-    min: 0
-  title: "森中花咲 at:YouTube"
+    hour: 16
+    min: 21
+  title: "渋谷ハジメ at:YouTube Dota Auto Chess"
   end_time: 
   uri: 
 - date: 2019-04-20
   time:
     hour: 18
     min: 0
-  title: "出雲霞＆鷹宮リオン＆桜凛月 at:各々のYouTubeチャンネル? Apex Legends"
+  title: "森中花咲 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 18
+    min: 0
+  title: "出雲霞＆鷹宮リオン＆桜凛月 at:各々のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 18
+    min: 0
+  title: "卯月コウ at:YouTube Detroit Become Human"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -410,7 +433,7 @@
   time:
     hour: 20
     min: 0
-  title: "舞元啓介＆日ノ隈らん＆大空スバル＆ふくやマスター at:日ノ隈らんのYouTubeチャンネル? 麻雀"
+  title: "舞元啓介＆大空スバル＆日ノ隈らん＆ふくやマスター at:日ノ隈らん、ふくやマスターのYouTubeチャンネル? 麻雀"
   end_time: 
   uri: 
 - date: 2019-04-20
