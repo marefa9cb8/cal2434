@@ -2,9 +2,9 @@
 - date: 2019-04-30
   time:
     hour: 23
-    min: 15
-  title: "樋口楓＆YuNi&かしこまり&天神子兎音&ときのそら at:cluster、YouTube さよなら平成カウントダウンライブ UNiON WAVE
-    - clear -"
+    min: 0
+  title: YuNi＆ゲスト：樋口楓＆かしこまり＆天神子兎音＆ときのそら at:cluster、YouTube さよなら平成カウントダウンライブ UNiON
+    WAVE - clear -
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -207,6 +207,13 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 0
+    min: 0
+  title: "愛園愛美 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 1
     min: 0
   title: "大空スバル＆ゲスト：ベルモンド・バンデラス at:大空スバルのYouTubeチャンネル 大空シアター 「アベンジャーズ」同時視聴"
@@ -216,7 +223,21 @@
   time:
     hour: 1
     min: 0
-  title: "郡道美玲 at:YouTube"
+  title: "御伽原江良 at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 1
+    min: 30
+  title: "笹木咲＆でびでび・でびる＆郡道美玲＆夢月ロア at:でびでび・でびる(2nd)、郡道美玲のYouTubeチャンネル スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -249,6 +270,13 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 20
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 振り返り雑談、「みんなのここすき」"
@@ -273,6 +301,11 @@
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：ピーナッツくん at:YouTube しぃしぃラジオ 第4回"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time: 
+  title: "？時？分(夕方頃)～ 闇夜乃モルル at:YouTube OUTLAST"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -489,7 +522,21 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 21
+    min: 22
+  title: "春崎エアル at:YouTube ボーダーブレイク"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 21
+    min: 47
+  title: "闇夜乃モルル at:OPENREC.tv Slime Rancher"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -503,7 +550,7 @@
   time:
     hour: 22
     min: 0
-  title: "成瀬鳴 at:YouTube"
+  title: "成瀬鳴 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-04-20
@@ -517,7 +564,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "鈴鹿詩子 at:YouTube 飲酒・振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-20
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-20
