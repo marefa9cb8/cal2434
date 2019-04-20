@@ -16551,6 +16551,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190424T200000
+SUMMARY:鷹宮リオン＆リゼ・ヘルエスタ at:YouTube ティーパーティー
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190424T200000
 SUMMARY:瀬戸美夜子 at:YouTube -どこでもいっしょ- レッツ学校!
 URL:
 DESCRIPTION:
@@ -16617,7 +16623,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190421T010000
-SUMMARY:ベルモンド・バンデラス＆大空スバル at:大空スバルのYouTubeチャンネル? 「アベンジャーズ」同時視聴
+SUMMARY:大空スバル＆ゲスト：ベルモンド・バンデラス at:大空スバルのYouTubeチャンネル 大空シアター 「アベンジャーズ」同時視聴
 URL:
 DESCRIPTION:
 END:VEVENT
