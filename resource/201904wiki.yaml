@@ -186,11 +186,23 @@
   title: "瀬戸美夜子 at:YouTube -どこでもいっしょ- レッツ学校!"
   end_time: 
   uri: 
+- date: 2019-04-24
+  time: 
+  title: "？時？分～ ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:？ ホラーゲーム ※04/22郡道美玲の配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-04-23
   time:
     hour: 0
     min: 0
   title: "名伽尾アズマ＆シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -223,21 +235,7 @@
   time:
     hour: 0
     min: 0
-  title: "葛葉 at:YouTube Dota Auto Chess"
-  end_time: 
-  uri: 
-- date: 2019-04-22
-  time:
-    hour: 0
-    min: 0
   title: "花畑チャイカ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-04-22
-  time:
-    hour: 0
-    min: 0
-  title: "でびでび・でびる at:YouTube(2nd) ドーナツ カウンティ"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -257,8 +255,22 @@
 - date: 2019-04-22
   time:
     hour: 0
+    min: 6
+  title: "葛葉 at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 0
+  title: 15分～ でびでび・でびる at:YouTube(2nd) ドーナツ カウンティ
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
     min: 30
-  title: "郡道美玲 at:YouTube"
+  title: "郡道美玲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -266,6 +278,13 @@
     hour: 1
     min: 0
   title: "闇夜乃モルル at:YouTube ASMR雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #10"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -286,7 +305,7 @@
   time:
     hour: 7
     min: 30
-  title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  title: "出雲霞 at:YouTube いずもーにんぐ"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -347,9 +366,9 @@
   uri: 
 - date: 2019-04-22
   time:
-    hour: 0
+    hour: 23
     min: 0
-  title: "-01時00分頃～ ジョー・力一 at:YouTube りきいちファーム #10"
+  title: "小野町春香 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-21
