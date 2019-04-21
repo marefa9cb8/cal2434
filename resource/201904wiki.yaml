@@ -161,6 +161,13 @@
   end_time: 
   uri: 
 - date: 2019-04-23
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 3Dお披露目"
+  end_time: 
+  uri: 
+- date: 2019-04-23
   time: 
   title: "？時？分～ 家長むぎ at:?"
   end_time: 
@@ -184,6 +191,13 @@
     hour: 0
     min: 0
   title: "癒月ちょこ＆ゲスト：御伽原江良 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -345,7 +359,7 @@
   time:
     hour: 14
     min: 30
-  title: "ドーラ at:YouTube おえかきの森、マリオカート8 デラックス、スーパーボンバーマン R どうぶつタワーバトル ※14時から時間変更"
+  title: "ドーラ at:YouTube マリオカート8 デラックス ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -387,7 +401,7 @@
   time:
     hour: 18
     min: 0
-  title: "(仮)～ 戌亥とこ at:YouTube"
+  title: "戌亥とこ at:YouTube ザ・シムズ4"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -416,6 +430,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube LOKI's COORDINATE"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 アウターサイエンス / 緑仙 (Cover)"
   end_time: 
   uri: 
 - date: 2019-04-21
