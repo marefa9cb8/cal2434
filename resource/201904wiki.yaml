@@ -7,6 +7,13 @@
     WAVE - clear -
   end_time: 
   uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 0
+  title: "愛園愛美＆兎鞠まり＆魔王マグロナ＆水瀬しあ＆ルル=ルチカ at:ルル=ルチカのYouTubeチャンネル 「仮面ライダードライブ」トーク"
+  end_time: 
+  uri: 
 - date: 2019-04-29
   time:
     hour: 7
@@ -96,7 +103,7 @@
   time:
     hour: 22
     min: 30
-  title: "出雲霞＆？？？ at:YouTube ※チャンネルコミュニティ予定表より"
+  title: "出雲霞＆綾乃ツカサ at:YouTube 声劇"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -156,6 +163,13 @@
 - date: 2019-04-23
   time: 
   title: "？時？分～ 家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) ドーナツ カウンティ"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -322,9 +336,16 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 13
+    min: 58
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 14
-    min: 0
-  title: "ドーラ at:YouTube おえかきの森、マリオカート8 デラックス、スーパーボンバーマン R"
+    min: 30
+  title: "ドーラ at:YouTube おえかきの森、マリオカート8 デラックス、スーパーボンバーマン R どうぶつタワーバトル ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -346,6 +367,20 @@
     hour: 17
     min: 0
   title: "月ノ美兎 at:YouTube プレミア公開 月ノ美兎、〇〇になる！？"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 17
+    min: 0
+  title: "闇夜乃モルル at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 18
+    min: 0
+  title: "卯月コウ at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -373,7 +408,7 @@
   time:
     hour: 20
     min: 0
-  title: "鈴鹿詩子＆森中花咲 at:YouTube ※森中花咲Twitterネームより"
+  title: "鈴鹿詩子＆森中花咲 at:YouTube Super Bunny Man"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -420,19 +455,16 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube Wii Sports Resort"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：ピーナッツくん at:YouTube しぃしぃラジオ 第4回"
-  end_time: 
-  uri: 
-- date: 2019-04-21
-  time: 
-  title: "？時？分(夕方頃)～ 闇夜乃モルル at:YouTube OUTLAST"
-  end_time: 
-  uri: 
-- date: 2019-04-21
-  time: 
-  title: "？時？分～ 卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-20
