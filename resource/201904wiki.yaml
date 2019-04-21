@@ -11,6 +11,13 @@
   time:
     hour: 23
     min: 0
+  title: "?～ 剣持刀也＆ゲスト：葛葉 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 0
   title: "愛園愛美＆兎鞠まり＆魔王マグロナ＆水瀬しあ＆ルル=ルチカ at:ルル=ルチカのYouTubeチャンネル 「仮面ライダードライブ」トーク"
   end_time: 
   uri: 
@@ -30,7 +37,7 @@
   uri: 
 - date: 2019-04-29
   time: 
-  title: "？時？分(夜)～ 樋口楓 ゲーム？"
+  title: "？時？分(夜)～ 樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -38,6 +45,13 @@
     hour: 12
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議（DAY2）"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 14
+    min: 30
+  title: "月ノ美兎＆剣持刀也 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY1 ※ネットチケットの購入が必要"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -67,6 +81,13 @@
     hour: 12
     min: 0
   title: "伏見ガク＆鷹匠（鷹宮リオン＆ジョー・力一） at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議（DAY1）※ニコニコ超会議直前特番内にて告知"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 14
+    min: 30
+  title: "月ノ美兎＆静凛＆樋口楓 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY1 ※ネットチケットの購入が必要"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -122,6 +143,13 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ＆もちひよこ at:もちひよこのYouTubeチャンネル ディズニーデート振り返り"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 22
+    min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:社築のYouTubeチャンネル 超会議のちょっと早めの前夜祭～GWSP～！"
   end_time: 
   uri: 
@@ -134,7 +162,7 @@
   time:
     hour: 20
     min: 0
-  title: "(仮)～ 樋口楓 ゲーム？"
+  title: "(仮)～ 樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -176,7 +204,7 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 樋口楓 トーク？"
+  title: "(仮)～ 樋口楓 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -189,6 +217,20 @@
 - date: 2019-04-23
   time: 
   title: "？時？分～ 家長むぎ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 0
+  title: "葛葉 at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -221,6 +263,13 @@
   uri: 
 - date: 2019-04-22
   time:
+    hour: 1
+    min: 0
+  title: "闇夜乃モルル at:YouTube ASMR雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
@@ -230,7 +279,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ 鮭 ※リマインダーより"
+  title: "伏見ガク at:YouTube おはガク！ 鮭"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -238,6 +287,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ ※チャンネルコミュニティ予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -263,6 +319,13 @@
   uri: 
 - date: 2019-04-22
   time:
+    hour: 22
+    min: 30
+  title: "社築＆緑仙＆舞元啓介 at:社築のYouTubeチャンネル カラオケ大会(懐かしジャンプアニメソング縛り)"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
     hour: 23
     min: 0
   title: "える at:YouTube ※Twitterネームより"
@@ -272,7 +335,21 @@
   time:
     hour: 23
     min: 0
-  title: "剣持刀也＆ゲスト：葛葉 at:YouTube SharpnessRadio"
+  title: "森中花咲 at:YouTube 9万人記念"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 23
+    min: 0
+  title: "剣持刀也＆ゲスト：葛葉 at:YouTube SharpnessRadio ※30日に延期"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 0
+    min: 0
+  title: "-01時00分頃～ ジョー・力一 at:YouTube りきいちファーム #10"
   end_time: 
   uri: 
 - date: 2019-04-21
@@ -530,9 +607,37 @@
   uri: 
 - date: 2019-04-21
   time:
+    hour: 22
+    min: 45
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：ピーナッツくん at:YouTube しぃしぃラジオ 第4回"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 23
+    min: 10
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 23
+    min: 25
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-04-21
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube ドキドキ文芸部！"
   end_time: 
   uri: 
 - date: 2019-04-20
