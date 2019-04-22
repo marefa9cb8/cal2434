@@ -305,7 +305,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube 雑談 ※予定表より"
+  title: "鈴木勝＆緑仙 at:緑仙のYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -324,7 +324,8 @@
   time:
     hour: 0
     min: 0
-  title: "名伽尾アズマ＆シスター・クレア at:名伽尾アズマのYouTubeチャンネル"
+  title: "名伽尾アズマ＆シスター・クレア at:名伽尾アズマのYouTubeチャンネル うさぎパズル、つぐのひ ～ねこのひ怪奇譚～、死臭-つぐのひ異譚-、おシャ
+    るな、ふぁんしーあいらんど"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -338,14 +339,21 @@
   time:
     hour: 0
     min: 15
-  title: "郡道美玲 at:YouTube"
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 0
+    min: 51
+  title: "鷹宮リオン at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-23
   time:
     hour: 2
     min: 0
-  title: "花畑チャイカ at:YouTube"
+  title: "花畑チャイカ at:YouTube 性癖グランプリ"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -353,6 +361,13 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 2
+    min: 20
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -744,7 +759,7 @@
   time:
     hour: 23
     min: 45
-  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE ※リマインダーより"
+  title: "静凛 at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-04-21
