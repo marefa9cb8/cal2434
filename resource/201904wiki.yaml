@@ -21,6 +21,13 @@
   title: "愛園愛美＆兎鞠まり＆魔王マグロナ＆水瀬しあ＆ルル=ルチカ at:ルル=ルチカのYouTubeチャンネル 「仮面ライダードライブ」トーク"
   end_time: 
   uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 30
+  title: "鷹宮リオン at:YouTube DJ TAKAMIY"
+  end_time: 
+  uri: 
 - date: 2019-04-29
   time:
     hour: 7
@@ -33,6 +40,13 @@
     hour: 12
     min: 55
   title: "笹木咲＆椎名唯華 at:YouTube character1 2019 エレメンタルストーリー"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #2"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -65,7 +79,19 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #24"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 22
+    min: 0
   title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time: 
+  title: "？時？分～ 勇気ちひろ＆ベルモンド・バンデラス at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -87,7 +113,7 @@
   time:
     hour: 14
     min: 30
-  title: "月ノ美兎＆静凛＆樋口楓 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY1 ※ネットチケットの購入が必要"
+  title: "月ノ美兎＆樋口楓＆静凛 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY1 ※ネットチケットの購入が必要"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -95,6 +121,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ※チャンネルコミュニティ予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 17
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -123,6 +156,13 @@
     hour: 18
     min: 0
   title: "伏見ガク at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン at:YouTube World of Warships ※noteより"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -158,6 +198,13 @@
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube おひるンボ"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン at:? ※noteより"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -222,6 +269,13 @@
   end_time: 
   uri: 
 - date: 2019-04-24
+  time:
+    hour: 23
+    min: 0
+  title: "勇気ちひろ＆矢車りね at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-24
   time: 
   title: "？時？分～ ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:？ ホラーゲーム ※04/22郡道美玲の配信にて告知"
   end_time: 
@@ -237,6 +291,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 0
+    min: 0
   title: "名伽尾アズマ＆シスター・クレア at:YouTube"
   end_time: 
   uri: 
@@ -244,7 +305,14 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読"
+  title: "鈴木勝 at:YouTube(2nd) 朗読「山椒魚/塩昆布の茶漬け」"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #8"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -361,7 +429,7 @@
   time:
     hour: 9
     min: 30
-  title: "渋谷ハジメ at:YouTube 雑談"
+  title: "渋谷ハジメ at:YouTube 雑談、Getting Over It"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -369,6 +437,20 @@
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #7"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 13
+    min: 38
+  title: "町田ちま at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-22
@@ -411,6 +493,20 @@
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 21
+    min: 30
+  title: "本間ひまわり at:YouTube オンラインUFOキャッチャー"
+  end_time: 
+  uri: 
+- date: 2019-04-22
+  time:
+    hour: 21
+    min: 30
+  title: "椎名唯華 at:YouTube AIエアホッケー"
   end_time: 
   uri: 
 - date: 2019-04-22
