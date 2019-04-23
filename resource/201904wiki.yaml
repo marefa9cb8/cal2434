@@ -185,6 +185,13 @@
   end_time: 
   uri: 
 - date: 2019-04-27
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ＆名伽尾アズマ＆シスター・クレア＆花畑チャイカ＆社築＆緑仙 at:? 笑ってはいけない反省会"
+  end_time: 
+  uri: 
+- date: 2019-04-27
   time: 
   title: "？時？分～ 桜凛月＆ベルモンド・バンデラス＆アベレージ＆屍鬼 at:? PUBG DONCUP 前夜祭"
   end_time: 
@@ -249,6 +256,13 @@
   time:
     hour: 23
     min: 0
+  title: "緑仙 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube 文房具音ASMR"
   end_time: 
   uri: 
@@ -278,6 +292,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:? 歌"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -320,11 +341,16 @@
   title: "？時？分～ 本間ひまわり at:YouTube 3Dお披露目 ※4/18配信で告知"
   end_time: 
   uri: 
+- date: 2019-04-25
+  time: 
+  title: "？時？分(仮)～ でびでび・でびる at:? TETRIS 99"
+  end_time: 
+  uri: 
 - date: 2019-04-24
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 性格免許証"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -357,9 +383,16 @@
   uri: 
 - date: 2019-04-24
   time:
-    hour: 0
-    min: 0
-  title: "(仮)～ 郡道美玲 at:YouTube Minecraft"
+    hour: 1
+    min: 1
+  title: "叶＆三枝明那 at:叶のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 1
+    min: 22
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -379,8 +412,8 @@
 - date: 2019-04-24
   time:
     hour: 2
-    min: 0
-  title: "(仮)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
+    min: 22
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -399,9 +432,9 @@
   uri: 
 - date: 2019-04-24
   time:
-    hour: 20
+    hour: 19
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube"
+  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:YouTube Visage"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -434,9 +467,23 @@
   uri: 
 - date: 2019-04-24
   time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube 公衆電話"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 21
+    min: 0
+  title: "?～ 三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル＆癒月ちょこ at:?"
+  title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -475,13 +522,15 @@
   end_time: 
   uri: 
 - date: 2019-04-24
-  time: 
-  title: "？時？分～ 笹木咲 at:YouTube 雑談、マシュマロ返答"
+  time:
+    hour: 23
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube Home Sweet Home"
   end_time: 
   uri: 
 - date: 2019-04-24
   time: 
-  title: "？時？分～ ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:？ ホラーゲーム ※04/22郡道美玲の配信にて告知"
+  title: "？時？分～ 笹木咲 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -761,7 +810,7 @@
   time:
     hour: 23
     min: 0
-  title: 15分～ える at:YouTube 心理テスト
+  title: 15分～ える at:YouTube 本当は恐ろしい裏心理テスト、ゲスの極み診断
   end_time: 
   uri: 
 - date: 2019-04-23
