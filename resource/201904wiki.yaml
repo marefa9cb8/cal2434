@@ -331,7 +331,7 @@
   time:
     hour: 0
     min: 0
-  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のYouTubeチャンネル"
+  title: "おしぃりぃ(魔界ノりりむ＆椎名唯華) at:椎名唯華のYouTubeチャンネル マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -339,6 +339,34 @@
     hour: 0
     min: 0
   title: "出雲霞 at:YouTube 俺の料理"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 0
+    min: 0
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 0
+    min: 0
+  title: "(仮)～ 郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 2
+    min: 0
+  title: "花畑チャイカ at:YouTube 性癖グランプリ"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 2
+    min: 0
+  title: "(仮)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -422,7 +450,19 @@
   time:
     hour: 23
     min: 0
+  title: "森中花咲 at:YouTube 9万人記念"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 23
+    min: 0
   title: "鈴木勝＆緑仙 at:緑仙のYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time: 
+  title: "？時？分～ 笹木咲 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -530,29 +570,16 @@
 - date: 2019-04-23
   time:
     hour: 17
-    min: 55
-  title: "家長むぎ at:YouTube 「禍つヴァールハイト」リリース記念、応援実況"
-  end_time: 
-  uri: 
-- date: 2019-04-23
-  time:
-    hour: 17
-    min: 55
-  title: "舞元力一(舞元啓介＆ジョー・力一) at:ジョー・力一のYouTubeチャンネル 「禍つヴァールハイト」リリース記念、応援実況"
+    min: 45
+  title: MC：電脳少女シロ＆マフィア梶田＆ゲスト：ばあちゃる＆アジルス(杉田智和)＆石飛恵里花＆坂尻一人(禍つヴァールハイトプロデューサー) at:電脳少女シロのYouTubeチャンネル、Twitter(電脳少女シロ)・(禍つヴァールハイト公式)、Periscope
+    電脳少女シロ×禍つヴァールハイト リリース直前コラボ放送
   end_time: 
   uri: 
 - date: 2019-04-23
   time:
     hour: 18
     min: 0
-  title: "鈴鹿詩子 at:YouTube 「禍つヴァールハイト」リリース記念、応援実況"
-  end_time: 
-  uri: 
-- date: 2019-04-23
-  time:
-    hour: 18
-    min: 0
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube ぼくらのかぞく"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -574,6 +601,13 @@
     hour: 19
     min: 0
   title: "本間ひまわり at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 19
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -608,7 +642,49 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube 雑談"
+  title: "樋口楓 at:YouTube 五七五オンライン"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube ブラサバ"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube 陰ターネットラジオ #1"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 0
+  title: "鷹宮リオン at:YouTube DOOORS"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube Home Sweet Home ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 21
+    min: 30
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -629,28 +705,14 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり＆ドーラ at:YouTube 麻雀"
-  end_time: 
-  uri: 
-- date: 2019-04-23
-  time:
-    hour: 22
-    min: 0
-  title: "アンジュ・カトリーナ at:YouTube Home Sweet Home"
-  end_time: 
-  uri: 
-- date: 2019-04-23
-  time:
-    hour: 22
-    min: 0
-  title: "?～ 三枝明那 at:YouTube クロノトリガー ※"
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ ※22時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-23
   time:
     hour: 22
     min: 30
-  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
+  title: "御伽原江良 at:YouTube グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -658,6 +720,20 @@
     hour: 23
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり＆ドーラ at:YouTube 麻雀 ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube スーパーマリオサンシャイン"
   end_time: 
   uri: 
 - date: 2019-04-23
