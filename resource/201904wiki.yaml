@@ -84,7 +84,7 @@
   time:
     hour: 12
     min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議（DAY2）"
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議(DAY2)"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -146,7 +146,7 @@
   time:
     hour: 12
     min: 0
-  title: "伏見ガク＆鷹匠（鷹宮リオン＆ジョー・力一） at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議（DAY1）※ニコニコ超会議直前特番内にて告知"
+  title: "伏見ガク＆鷹匠(鷹宮リオン＆ジョー・力一) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議(DAY1) ※ニコニコ超会議直前特番内にて告知"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -250,6 +250,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 文房具音ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -366,6 +373,13 @@
   time:
     hour: 2
     min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 2
+    min: 0
   title: "(仮)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
@@ -408,7 +422,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン＆リゼ・ヘルエスタ at:YouTube ティーパーティー"
+  title: "鷹宮リオン＆リゼ・ヘルエスタ at:鷹宮リオンのYouTubeチャンネル ティーパーティー"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -472,7 +486,7 @@
   uri: 
 - date: 2019-04-24
   time: 
-  title: "？時？分(深夜・仮)～ 黒井しば at:?"
+  title: "？時？分(朝・仮)～ 黒井しば at:?"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -719,14 +733,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-23
-  time:
-    hour: 23
-    min: 0
-  title: "本間ひまわり＆ドーラ at:YouTube 麻雀 ※22時から時間変更"
+  title: "本間ひまわり＆ドーラ at:両名のYouTubeチャンネル 麻雀 ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -747,7 +754,21 @@
   time:
     hour: 23
     min: 0
-  title: "久遠千歳 at:YouTube"
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 23
+    min: 0
+  title: 15分～ える at:YouTube 心理テスト
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 23
+    min: 34
+  title: "渋谷ハジメ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-22
