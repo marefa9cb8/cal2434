@@ -127,6 +127,11 @@
   title: "？時？分～ 勇気ちひろ＆ベルモンド・バンデラス at:YouTube Apex Legends"
   end_time: 
   uri: 
+- date: 2019-04-28
+  time: 
+  title: "？時？分(夜?)～ ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ※4月24日の本間ひまわりの配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-04-27
   time:
     hour: 0
@@ -284,6 +289,13 @@
   time:
     hour: 0
     min: 0
+  title: "卯月コウ at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー"
   end_time: 
   uri: 
@@ -292,6 +304,13 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 2
+    min: 0
+  title: "花畑チャイカ at:YouTube 性癖グランプリ"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -366,7 +385,7 @@
   uri: 
 - date: 2019-04-25
   time: 
-  title: "？時？分(仮)～ でびでび・でびる at:? TETRIS 99"
+  title: "？時？分(深夜・仮)～ 名伽尾アズマ at:?"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -485,14 +504,14 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube スーパーマリオコレクション"
+  title: "本間ひまわり at:YouTube スーパーマリオコレクション (スーパーマリオUSA)"
   end_time: 
   uri: 
 - date: 2019-04-24
   time:
     hour: 18
     min: 30
-  title: "瀬戸美夜子 at:?"
+  title: "瀬戸美夜子 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -506,7 +525,7 @@
   time:
     hour: 19
     min: 0
-  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:YouTube Visage"
+  title: "ベルモンド・バンデラス＆郡道美玲＆夢月ロア at:郡道美玲のYouTubeチャンネル Visage ※ベルモンド・バンデラス欠席"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -534,14 +553,14 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン＆リゼ・ヘルエスタ at:鷹宮リオンのYouTubeチャンネル ティーパーティー"
+  title: "瀬戸美夜子 at:YouTube -どこでもいっしょ- レッツ学校!"
   end_time: 
   uri: 
 - date: 2019-04-24
   time:
     hour: 20
-    min: 0
-  title: "瀬戸美夜子 at:YouTube -どこでもいっしょ- レッツ学校!"
+    min: 3
+  title: "鷹宮リオン＆リゼ・ヘルエスタ at:鷹宮リオンのYouTubeチャンネル ティーパーティー"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -562,8 +581,29 @@
   time:
     hour: 21
     min: 0
+  title: "物述有栖 at:YouTube プレミア公開 ♡やさしくうたってみた♡"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 21
+    min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #30』"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 21
+    min: 0
+  title: "春崎エアル＆成瀬鳴 at:成瀬鳴のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -578,6 +618,13 @@
     hour: 22
     min: 0
   title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube スプラトゥーン"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -626,6 +673,13 @@
   time:
     hour: 23
     min: 0
+  title: "花畑チャイカ at:YouTube マリオストーリー"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 23
+    min: 0
   title: "鈴木勝＆緑仙 at:緑仙のYouTubeチャンネル 雑談"
   end_time: 
   uri: 
@@ -634,11 +688,6 @@
     hour: 23
     min: 0
   title: "アンジュ・カトリーナ at:YouTube Home Sweet Home"
-  end_time: 
-  uri: 
-- date: 2019-04-24
-  time: 
-  title: "？時？分～ 春崎エアル＆成瀬鳴 at:?"
   end_time: 
   uri: 
 - date: 2019-04-23
