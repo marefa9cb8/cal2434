@@ -275,6 +275,13 @@
   uri: 
 - date: 2019-04-25
   time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube おひるンボ"
@@ -420,6 +427,13 @@
   uri: 
 - date: 2019-04-24
   time:
+    hour: 9
+    min: 51
+  title: "黒井しば at:YouTube 夜廻"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
     hour: 17
     min: 0
   title: "伏見ガク at:YouTube Dead by Daylight"
@@ -483,13 +497,6 @@
   uri: 
 - date: 2019-04-24
   time:
-    hour: 21
-    min: 0
-  title: "?～ 三枝明那 at:YouTube クロノ・トリガー"
-  end_time: 
-  uri: 
-- date: 2019-04-24
-  time:
     hour: 22
     min: 0
   title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル TETRIS 99"
@@ -500,6 +507,13 @@
     hour: 22
     min: 0
   title: "愛園愛美 at:YouTube ちびロボ!"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
+  title: "三枝明那 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -540,11 +554,6 @@
 - date: 2019-04-24
   time: 
   title: "？時？分～ 笹木咲 at:YouTube 雑談、マシュマロ返答"
-  end_time: 
-  uri: 
-- date: 2019-04-24
-  time: 
-  title: "？時？分(朝・仮)～ 黒井しば at:?"
   end_time: 
   uri: 
 - date: 2019-04-23
