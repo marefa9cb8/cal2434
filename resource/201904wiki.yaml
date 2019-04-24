@@ -256,6 +256,13 @@
   time:
     hour: 23
     min: 0
+  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 23
+    min: 0
   title: "緑仙 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -284,7 +291,7 @@
   time:
     hour: 12
     min: 0
-  title: "桜凛月 at:YouTube おひるンボ"
+  title: "桜凛月 at:YouTube おひるンボ ※延期の可能性あり"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -346,8 +353,8 @@
 - date: 2019-04-25
   time:
     hour: 22
-    min: 30
-  title: "小野町春香 at:YouTube 雑談(GW配信予定)"
+    min: 0
+  title: or22時30分～ 小野町春香 at:YouTube 雑談(GW配信予定)
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -428,8 +435,15 @@
 - date: 2019-04-24
   time:
     hour: 9
-    min: 51
+    min: 55
   title: "黒井しば at:YouTube 夜廻"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 16
+    min: 0
+  title: "魔界ノりりむ at:YouTube 予定会議"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -444,6 +458,20 @@
     hour: 18
     min: 0
   title: "闇夜乃モルル at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 18
+    min: 0
+  title: "(仮)～ 本間ひまわり at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube ぼくらのかぞく"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -497,9 +525,38 @@
   uri: 
 - date: 2019-04-24
   time:
+    hour: 21
+    min: 0
+  title: "?～ 静凛 at:YouTube 殺戮の天使"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #30』"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲 at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
     hour: 22
     min: 0
   title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
+  title: "三枝明那 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -512,8 +569,8 @@
 - date: 2019-04-24
   time:
     hour: 22
-    min: 0
-  title: "三枝明那 at:YouTube Apex Legends"
+    min: 30
+  title: "?～ 静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -553,7 +610,7 @@
   uri: 
 - date: 2019-04-24
   time: 
-  title: "？時？分～ 笹木咲 at:YouTube 雑談、マシュマロ返答"
+  title: "？時？分～ 春崎エアル＆成瀬鳴 at:?"
   end_time: 
   uri: 
 - date: 2019-04-23
