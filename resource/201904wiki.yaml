@@ -350,6 +350,27 @@
   uri: 
 - date: 2019-04-25
   time:
+    hour: 3
+    min: 0
+  title: "名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 3
+    min: 20
+  title: "叶 at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 4
+    min: 13
+  title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube おひるンボ ※延期の可能性あり"
@@ -388,6 +409,13 @@
     hour: 19
     min: 30
   title: "いずもるる(闇夜乃モルル＆出雲霞) at:出雲霞のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 20
+    min: 0
+  title: "月ノ美兎 at:?"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -437,11 +465,6 @@
     hour: 22
     min: 0
   title: or22時30分～ 小野町春香 at:YouTube 雑談(GW配信予定)
-  end_time: 
-  uri: 
-- date: 2019-04-25
-  time: 
-  title: "？時？分(深夜・仮)～ 名伽尾アズマ at:?"
   end_time: 
   uri: 
 - date: 2019-04-25
