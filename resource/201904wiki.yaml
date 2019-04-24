@@ -1,6 +1,13 @@
 ---
 - date: 2019-04-30
   time:
+    hour: 21
+    min: 0
+  title: "司会：夢追翔＆回答者：社築＆花畑チャイカ＆舞元啓介＆ジョー・力一＆三枝明那 at:YouTube 大喜利人狼"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
     hour: 23
     min: 0
   title: "える at:YouTube"
@@ -275,6 +282,13 @@
   time:
     hour: 23
     min: 0
+  title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube 文房具音ASMR"
   end_time: 
   uri: 
@@ -386,6 +400,11 @@
 - date: 2019-04-25
   time: 
   title: "？時？分(深夜・仮)～ 名伽尾アズマ at:?"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time: 
+  title: "？時？分～ 久遠千歳 at:YouTube どうぶつタワーバトル"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -574,7 +593,7 @@
   time:
     hour: 21
     min: 0
-  title: "?～ 静凛 at:YouTube 殺戮の天使"
+  title: "静凛 at:YouTube 殺戮の天使"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -610,6 +629,13 @@
   time:
     hour: 22
     min: 0
+  title: "宇志海いちご at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
   title: "笹木咲 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
@@ -617,7 +643,14 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル TETRIS 99"
+  title: "闇夜乃モルル＆童田明治＆皆守ひいろ＆夜空メル＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル テトリス対決"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 0
+  title: "飛鳥ひな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -645,14 +678,21 @@
   time:
     hour: 22
     min: 30
-  title: "?～ 静凛 at:YouTube ファイナルファンタジーXIV"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-04-24
+  time:
+    hour: 22
+    min: 36
+  title: "葛葉 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-24
   time:
     hour: 23
     min: 0
-  title: "勇気ちひろ＆矢車りね at:勇気ちひろのYouTubeチャンネル Apex Legends"
+  title: "勇気ちひろ＆矢車りね＆神田笑一 at:勇気ちひろ、神田笑一のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-24
