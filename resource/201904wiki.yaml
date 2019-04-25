@@ -224,6 +224,13 @@
   uri: 
 - date: 2019-04-26
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ カレー"
@@ -240,7 +247,21 @@
   time:
     hour: 18
     min: 0
+  title: "叶＆葛葉 at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 18
+    min: 0
   title: "闇夜乃モルル at:YouTube 料理"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 19
+    min: 0
+  title: "(仮)～ 戌亥とこ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -399,9 +420,23 @@
   uri: 
 - date: 2019-04-25
   time:
+    hour: 15
+    min: 55
+  title: "渋谷ハジメ at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
     hour: 17
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 17
+    min: 0
+  title: "夢追翔 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -464,7 +499,14 @@
   time:
     hour: 20
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華 at:bilibili スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -499,6 +541,20 @@
   time:
     hour: 22
     min: 0
+  title: "大空スバル＆ゲスト：ベルモンド・バンデラス at:大空スバルのYouTubeチャンネル 「アベンジャーズ/インフィニティ・ウォー」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 22
+    min: 15
+  title: "椎名唯華 at:YouTube 黒い砂漠 MOBILE ※中止"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 22
+    min: 0
   title: or22時30分～ 小野町春香 at:YouTube 雑談(GW配信予定)
   end_time: 
   uri: 
@@ -507,11 +563,6 @@
     hour: 23
     min: 0
   title: "舞元啓介 at:YouTube 振り返り雑談"
-  end_time: 
-  uri: 
-- date: 2019-04-25
-  time: 
-  title: "？時？分(夕方・仮)～ 夢追翔 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-04-24
