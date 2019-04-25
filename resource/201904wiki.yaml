@@ -207,7 +207,7 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ＆名伽尾アズマ＆シスター・クレア＆花畑チャイカ＆社築＆緑仙 at:? 笑ってはいけない反省会"
+  title: "ドーラ＆名伽尾アズマ＆シスター・クレア＆花畑チャイカ＆社築＆緑仙 at:緑仙のYouTubeチャンネル 笑ってはいけない反省会"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -220,6 +220,13 @@
     hour: 0
     min: 0
   title: "闇夜乃モルル at:YouTube ASMR雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube 性癖グランプリ ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -247,7 +254,7 @@
   time:
     hour: 18
     min: 0
-  title: "叶＆葛葉 at:YouTube ロードモバイル"
+  title: ChroNoiR(叶＆葛葉) at:YouTube ロードモバイル
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -261,7 +268,7 @@
   time:
     hour: 19
     min: 0
-  title: "(仮)～ 戌亥とこ at:YouTube 歌"
+  title: "戌亥とこ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -275,7 +282,7 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "笹木咲＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -318,6 +325,13 @@
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ ジョー・力一 at:YouTube お悩み相談練習"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -401,7 +415,7 @@
   time:
     hour: 12
     min: 0
-  title: "桜凛月 at:YouTube おひるンボ ※延期の可能性あり"
+  title: "桜凛月 at:YouTube おひるンボ ※延期"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -441,9 +455,23 @@
   uri: 
 - date: 2019-04-25
   time:
+    hour: 17
+    min: 45
+  title: "叶 at:YouTube Black Survival"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
     hour: 18
     min: 0
   title: "アンジュ・カトリーナ at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 18
+    min: 30
+  title: "鷹宮リオン at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -471,35 +499,35 @@
   time:
     hour: 20
     min: 0
-  title: "月ノ美兎 at:YouTube"
+  title: "月ノ美兎 at:YouTube 春服お披露目"
   end_time: 
   uri: 
 - date: 2019-04-25
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube New スーパーマリオブラザーズ U デラックス"
   end_time: 
   uri: 
 - date: 2019-04-25
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 歌"
+  title: "緑仙 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-25
   time:
     hour: 20
-    min: 0
-  title: "鷹宮リオン at:? World of Warships ※noteより"
+    min: 3
+  title: "叶 at:YouTube Black Survival"
   end_time: 
   uri: 
 - date: 2019-04-25
   time:
     hour: 20
     min: 30
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -507,6 +535,13 @@
     hour: 21
     min: 0
   title: "椎名唯華 at:bilibili スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-04-25
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:YouTube ボツ企画紹介"
   end_time: 
   uri: 
 - date: 2019-04-25
@@ -553,16 +588,16 @@
   uri: 
 - date: 2019-04-25
   time:
-    hour: 22
+    hour: 23
     min: 0
-  title: or22時30分～ 小野町春香 at:YouTube 雑談(GW配信予定)
+  title: "舞元啓介 at:YouTube 振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-04-25
   time:
     hour: 23
     min: 0
-  title: "舞元啓介 at:YouTube 振り返り雑談"
+  title: "小野町春香 at:YouTube 雑談(GW配信予定)"
   end_time: 
   uri: 
 - date: 2019-04-24
@@ -1069,7 +1104,7 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube ブラサバ"
+  title: "葛葉 at:YouTube Black Survival"
   end_time: 
   uri: 
 - date: 2019-04-23
@@ -2610,7 +2645,7 @@
   time:
     hour: 23
     min: 21
-  title: "葛葉 at:YouTube ブラサバ"
+  title: "葛葉 at:YouTube Black Survival"
   end_time: 
   uri: 
 - date: 2019-04-18
