@@ -387,13 +387,6 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-04-26
-  time:
-    hour: 23
-    min: 0
   title: "竜胆尊 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -409,6 +402,11 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 文房具音ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time: 
+  title: "？時？分～ 家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-26
