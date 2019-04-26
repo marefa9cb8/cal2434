@@ -331,7 +331,7 @@
   time:
     hour: 18
     min: 0
-  title: ChroNoiR(叶＆葛葉) at:YouTube ロードモバイル
+  title: ChroNoiR(叶＆葛葉) at:両名のYouTubeチャンネル ロードモバイル
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -339,6 +339,13 @@
     hour: 18
     min: 0
   title: "闇夜乃モルル at:YouTube 料理"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 18
+    min: 30
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -359,7 +366,7 @@
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン at:YouTube World of Warships ※noteより"
+  title: "おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube World of Warships"
   end_time: 
   uri: 
 - date: 2019-04-26
