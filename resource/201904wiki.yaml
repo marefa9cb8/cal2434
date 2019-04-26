@@ -176,6 +176,13 @@
   uri: 
 - date: 2019-04-27
   time:
+    hour: 1
+    min: 0
+  title: "小野町春香 at:YouTube マッサージASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
     hour: 11
     min: 0
   title: "える＆鈴鹿詩子＆家長むぎ＆剣持刀也＆本間ひまわり＆オシャレになりたい!ピーナッツくん at: ニコニコ生放送 「VTuber Fes Japan
@@ -310,7 +317,7 @@
   time:
     hour: 18
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -395,6 +402,13 @@
     hour: 22
     min: 30
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ＆社築＆安土桃＆緑仙 at:安土桃のYouTubeチャンネル 桃太郎電鉄16 北海道大移動の巻!(オフラインコラボ)"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -1269,6 +1283,13 @@
     hour: 22
     min: 0
   title: "小野町春香 at:YouTube 星のカービィ スターアライズ ※22時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-23
+  time:
+    hour: 22
+    min: 0
+  title: ") 周防パトラ at:周防パトラのYouTubeチャンネル Getting Over It"
   end_time: 
   uri: 
 - date: 2019-04-23
