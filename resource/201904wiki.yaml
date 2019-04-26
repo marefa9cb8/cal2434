@@ -280,9 +280,23 @@
   uri: 
 - date: 2019-04-26
   time:
+    hour: 5
+    min: 19
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ カレー"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 3
+    min: 0
+  title: ")～ 渋谷ハル他 at:渋谷ハルのYouTubeチャンネル Apex Legends(2万人記念企画、20回チャンピオン取るまで寝れません)"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -311,6 +325,13 @@
     hour: 18
     min: 0
   title: "闇夜乃モルル at:YouTube 料理"
+  end_time: 
+  uri: 
+- date: 2019-04-26
+  time:
+    hour: 19
+    min: 0
+  title: "物述有栖 at:YouTube プレミア公開 ♡高音厨音域テストやってみた♡"
   end_time: 
   uri: 
 - date: 2019-04-26
@@ -406,12 +427,7 @@
   uri: 
 - date: 2019-04-26
   time: 
-  title: "？時？分～ 家長むぎ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-26
-  time: 
-  title: "？時？分～ 出雲霞 at:YouTube プレミア公開"
+  title: "？時？分(夜)～ 出雲霞 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-04-26
