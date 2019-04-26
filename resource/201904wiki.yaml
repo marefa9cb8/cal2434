@@ -138,6 +138,20 @@
   uri: 
 - date: 2019-04-28
   time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー ※前日配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
     hour: 12
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議(DAY2)"
@@ -169,6 +183,13 @@
     hour: 20
     min: 0
   title: "椎名唯華＆湊あくあ at YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 独りんぼエンヴィー / 緑仙 (Cover)"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -246,6 +267,13 @@
   uri: 
 - date: 2019-04-27
   time:
+    hour: 7
+    min: 0
+  title: "久遠千歳 at:YouTube ねぼけまなこ #1"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
     hour: 11
     min: 0
   title: "える＆鈴鹿詩子＆家長むぎ＆剣持刀也＆本間ひまわり＆オシャレになりたい!ピーナッツくん at: ニコニコ生放送 「VTuber Fes Japan
@@ -271,6 +299,13 @@
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ いちごスイーツ"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -313,6 +348,13 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube プレミア公開?"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-27
