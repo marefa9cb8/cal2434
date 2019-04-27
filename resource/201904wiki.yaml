@@ -65,6 +65,13 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 0
+    min: 0
+  title: "闇夜乃モルル at:YouTube ASMR雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
@@ -82,6 +89,13 @@
     hour: 15
     min: 0
   title: "笹木咲＆椎名唯華 at:YouTube 呪怨"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル at:YouTube Fit Boxing"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -219,7 +233,7 @@
   time:
     hour: 15
     min: 0
-  title: "勇気ちひろ＆闇夜乃モルル＆ベルモンド・バンデラス at:勇気ちひろのYouTubeチャンネル Apex Legends ※開始時刻：リマインダーより"
+  title: "勇気ちひろ＆闇夜乃モルル＆ベルモンド・バンデラス at:勇気ちひろのYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -468,6 +482,13 @@
   uri: 
 - date: 2019-04-27
   time:
+    hour: 18
+    min: 43
+  title: "魔界ノりりむ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
     hour: 19
     min: 0
   title: "桜凛月＆ベルモンド・バンデラス＆アベレージ＆屍鬼 at:各々のYouTubeチャンネル PUBG DONCUP 前夜祭"
@@ -484,14 +505,21 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube マリオパーティ3"
   end_time: 
   uri: 
 - date: 2019-04-27
   time:
     hour: 20
     min: 0
-  title: "出雲霞 at:YouTube プレミア公開?"
+  title: "三枝明那 at:YouTube Left 4 Dead 2"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 20
+    min: 35
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -524,9 +552,23 @@
   uri: 
 - date: 2019-04-27
   time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
     hour: 23
     min: 0
   title: cresc.(シスター・クレア＆緑仙＆ドーラ)＆OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:緑仙のYouTubeチャンネル 笑ってはいけない反省会
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 23
+    min: 0
+  title: "夢月ロア at:YouTube 夜廻"
   end_time: 
   uri: 
 - date: 2019-04-26
