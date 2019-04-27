@@ -161,6 +161,20 @@
   uri: 
 - date: 2019-04-28
   time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 2
+    min: 0
+  title: "雨森小夜 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
     hour: 12
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:ニコニコ生放送 バーチャルキャストカーお悩み相談＠ニコニコ超会議(DAY2)"
@@ -349,7 +363,7 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-04-27
@@ -377,7 +391,14 @@
   time:
     hour: 21
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "リゼ・ヘルエスタ at:YouTube Layers of Fear"
+  end_time: 
+  uri: 
+- date: 2019-04-27
+  time:
+    hour: 22
+    min: 0
+  title: "椎名唯華 at:YouTube 学校であった怖い話"
   end_time: 
   uri: 
 - date: 2019-04-27
