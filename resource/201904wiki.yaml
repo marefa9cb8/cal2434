@@ -84,6 +84,13 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
@@ -230,6 +237,13 @@
     hour: 2
     min: 1
   title: "雨森小夜 at:YouTube スーパーチャット読み上げ、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 4
+    min: 0
+  title: "久遠千歳 at:YouTube はらぺこまーちゃん"
   end_time: 
   uri: 
 - date: 2019-04-28
