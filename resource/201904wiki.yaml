@@ -95,6 +95,13 @@
   time:
     hour: 21
     min: 0
+  title: "樋口楓 at:YouTube マビノギ ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 21
+    min: 0
   title: "叶 at:YouTube バイノーラル"
   end_time: 
   uri: 
@@ -121,11 +128,6 @@
   uri: 
 - date: 2019-04-29
   time: 
-  title: "？時？分(夜)～ 樋口楓 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-29
-  time: 
   title: "？時？分～ 出雲霞 at:YouTube 五月病事前相談"
   end_time: 
   uri: 
@@ -141,6 +143,13 @@
     hour: 0
     min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー ※前日配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-04-28
