@@ -1,6 +1,13 @@
 ---
 - date: 2019-04-30
   time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube 殺戮の天使"
@@ -154,9 +161,24 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 19
+    min: 0
+  title: MC：オーイシマサヨシ＆アシスタント：KMNZ(LITA＆LIZ)+ゲスト：月ノ美兎＆える at:REALITY REALITY FESTIVAL
+    2 >DIVE ぶいおん!! SPECIAL(※再放送：4月8日分)
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 20
     min: 0
   title: "宇志海いちご＆安土桃＆ベルモンド・バンデラス＆矢車りね at:にじさんじ公式YouTubeチャンネル 第21回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 21
+    min: 0
+  title: "月ノ美兎＆すーぱーそに子 at:REALITY REALITY FESTIVAL 2 >DIVE そにちゃLive with 月ノ美兎(※再放送：4月8日分)"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -354,8 +376,22 @@
 - date: 2019-04-28
   time:
     hour: 16
+    min: 8
+  title: "シスター・クレア at:YouTube GW予定会議"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 16
     min: 20
-  title: "椎名唯華 at:bilibili ニコニコ超会議Vupステージ"
+  title: "椎名唯華 at:bilibili、椎名唯華のbilibiliチャンネル ニコニコ超会議Vupステージ"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 18
+    min: 0
+  title: "夢月ロア at:YouTube 夜廻"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -369,7 +405,7 @@
   time:
     hour: 19
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube スーパーマリオスタジアム ミラクルベースボール"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -432,7 +468,7 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube マリオパーティ"
+  title: "御伽原江良 at:YouTube スーパー マリオパーティ"
   end_time: 
   uri: 
 - date: 2019-04-28
