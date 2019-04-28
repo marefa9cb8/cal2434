@@ -92,15 +92,22 @@
 - date: 2019-04-29
   time:
     hour: 0
-    min: 30
-  title: "小野町春香 at:YouTube ASMR"
+    min: 0
+  title: "童田明治 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-29
   time:
-    hour: 1
+    hour: 0
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -412,21 +419,7 @@
   time:
     hour: 20
     min: 0
-  title: "叶＆あっくん大魔王＆天開司＆皆守ひいろ＆寧々寝あげは at:寧々寝あげはのYouTubeチャンネル ダブルクロス セッション後編"
-  end_time: 
-  uri: 
-- date: 2019-04-28
-  time:
-    hour: 20
-    min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:?"
-  end_time: 
-  uri: 
-- date: 2019-04-28
-  time:
-    hour: 20
-    min: 0
-  title: "椎名唯華＆湊あくあ at:YouTube グランド・セフト・オートV"
+  title: "椎名唯華＆湊あくあ at:湊あくあのYouTubeチャンネル グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -434,6 +427,34 @@
     hour: 20
     min: 0
   title: "緑仙 at:YouTube プレミア公開 独りんぼエンヴィー / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 0
+  title: 11分～ 叶＆あっくん大魔王＆天開司＆皆守ひいろ＆寧々寝あげは at:寧々寝あげはのYouTubeチャンネル ダブルクロス セッション後編
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 0
+  title: 15分～ ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:本間ひまわりのYouTubeチャンネル ニコニコ超会議2019 打ち上げ＆反省会
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 30
+  title: "静凛 at:YouTube 殺戮の天使"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 30
+  title: "轟京子 at:YouTube スナック轟"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -447,7 +468,7 @@
   time:
     hour: 21
     min: 0
-  title: "笹木咲＆魔界ノりりむ＆卯月コウ＆ベルモンド・バンデラス at:YouTube Dead by Daylight"
+  title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -455,6 +476,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #24"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲＆魔界ノりりむ＆卯月コウ＆ベルモンド・バンデラス at:YouTube Dead by Daylight ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -475,7 +503,7 @@
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-27
