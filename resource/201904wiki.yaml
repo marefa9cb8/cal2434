@@ -84,9 +84,37 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 2
+    min: 0
+  title: "渋谷ハジメ at:YouTube PEACH BALL 閃乱カグラ"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 2
+    min: 0
+  title: "瀬戸美夜子 at:YouTube The Forest"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ トマト"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -264,7 +292,7 @@
   time:
     hour: 9
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -276,16 +304,37 @@
   uri: 
 - date: 2019-04-28
   time:
-    hour: 12
+    hour: 13
     min: 0
-  title: "出雲霞 at:YouTube 歌(アイドルマスターシリーズ縛り)"
+  title: "叶＆安戸ゆげ＆白百合リリィ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 13
+    min: 10
+  title: "緑仙 at:bilibili、緑仙のbilibiliチャンネル ニコニコ超会議Vupステージ"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 14
+    min: 0
+  title: "月ノ美兎＆剣持刀也 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY2 ※ネットチケットの購入が必要"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 14
+    min: 0
+  title: "渋谷ハジメ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-28
   time:
     hour: 14
     min: 30
-  title: "月ノ美兎＆剣持刀也 at: ニコニコ生放送 「バーチャルさんがいっぱい スペシャルバーチャルライブ」DAY2 ※ネットチケットの購入が必要"
+  title: "遠北千南 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -297,6 +346,20 @@
   uri: 
 - date: 2019-04-28
   time:
+    hour: 16
+    min: 0
+  title: "出雲霞 at:YouTube 歌(アイドルマスターシリーズ縛り) ※12時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 16
+    min: 20
+  title: "椎名唯華 at:bilibili ニコニコ超会議Vupステージ"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
     hour: 18
     min: 0
   title: "アンジュ・カトリーナ at:YouTube GW予定会議"
@@ -304,9 +367,23 @@
   uri: 
 - date: 2019-04-28
   time:
+    hour: 19
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
     hour: 20
     min: 0
   title: "叶＆あっくん大魔王＆天開司＆皆守ひいろ＆寧々寝あげは at:寧々寝あげはのYouTubeチャンネル ダブルクロス セッション後編"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 20
+    min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:?"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -363,11 +440,6 @@
     hour: 23
     min: 0
   title: "(仮)～ 矢車りね at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-04-28
-  time: 
-  title: "？時？分(夜?)～ ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ※04/24本間ひまわりの配信にて告知"
   end_time: 
   uri: 
 - date: 2019-04-27
