@@ -2,8 +2,22 @@
 - date: 2019-04-30
   time:
     hour: 0
+    min: 0
+  title: "家長むぎ at:YouTube ニコニコ超会議2019振り返り"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 11
+    min: 0
+  title: "家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -25,6 +39,13 @@
     hour: 21
     min: 0
   title: "司会：夢追翔＆回答者：社築＆花畑チャイカ＆舞元啓介＆ジョー・力一＆三枝明那 at:YouTube 大喜利人狼"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -79,6 +100,13 @@
   time:
     hour: 0
     min: 0
+  title: "森中花咲 at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 0
+    min: 0
   title: "闇夜乃モルル at:YouTube ASMR雑談"
   end_time: 
   uri: 
@@ -94,13 +122,6 @@
     hour: 0
     min: 0
   title: "童田明治 at:YouTube 歌"
-  end_time: 
-  uri: 
-- date: 2019-04-29
-  time:
-    hour: 0
-    min: 0
-  title: "森中花咲 at:YouTube プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -176,6 +197,13 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 19
+    min: 30
+  title: "戌亥とこ at:YouTube プレミア公開 RE:I AM／Aimer covered by 戌亥とこ"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 20
     min: 0
   title: "宇志海いちご＆安土桃＆ベルモンド・バンデラス＆矢車りね at:にじさんじ公式YouTubeチャンネル 第21回「にじさんじMIX UP!!」"
@@ -206,7 +234,7 @@
   time:
     hour: 21
     min: 30
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル Who's Your Daddy"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -238,6 +266,11 @@
 - date: 2019-04-29
   time: 
   title: "？時？分(仮)～ 町田ちま at:YouTube プレミア公開 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time: 
+  title: "？時？分(昼)～ ジョー・力一 at:YouTube りきいちファーム #11"
   end_time: 
   uri: 
 - date: 2019-04-28
@@ -482,13 +515,6 @@
   time:
     hour: 22
     min: 0
-  title: "笹木咲＆魔界ノりりむ＆卯月コウ＆ベルモンド・バンデラス at:YouTube Dead by Daylight ※21時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-04-28
-  time:
-    hour: 22
-    min: 0
   title: "瀬戸美夜子 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -501,9 +527,31 @@
   uri: 
 - date: 2019-04-28
   time:
+    hour: 22
+    min: 30
+  title: "笹木咲＆魔界ノりりむ＆卯月コウ＆ベルモンド・バンデラス at:魔界ノりりむ、卯月コウ、ベルモンド・バンデラスのYouTubeチャンネル Dead
+    by Daylight ※21時→22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
     hour: 23
     min: 0
   title: "矢車りね at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-04-28
+  time:
+    hour: 23
+    min: 12
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-04-27
