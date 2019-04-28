@@ -9,6 +9,13 @@
 - date: 2019-04-30
   time:
     hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
@@ -100,14 +107,7 @@
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:YouTube プーさんのホームランダービー"
-  end_time: 
-  uri: 
-- date: 2019-04-29
-  time:
-    hour: 0
-    min: 0
-  title: "闇夜乃モルル at:YouTube ASMR雑談"
+  title: "闇夜乃モルル at:YouTube ASMR雑談 ※"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -127,22 +127,36 @@
 - date: 2019-04-29
   time:
     hour: 0
+    min: 0
+  title: "瀬戸美夜子 at:YouTube The Forest"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 0
+    min: 0
+  title: 11分～ 森中花咲 at:YouTube プーさんのホームランダービー
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-04-29
   time:
-    hour: 2
-    min: 0
-  title: "渋谷ハジメ at:YouTube PEACH BALL 閃乱カグラ"
+    hour: 1
+    min: 17
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-04-29
   time:
     hour: 2
     min: 0
-  title: "瀬戸美夜子 at:YouTube The Forest"
+  title: "渋谷ハジメ at:OPENREC.tv PEACH BALL 閃乱カグラ"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -220,7 +234,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube マビノギ ※開始時刻：リマインダーより"
+  title: "樋口楓 at:YouTube マビノギ"
   end_time: 
   uri: 
 - date: 2019-04-29

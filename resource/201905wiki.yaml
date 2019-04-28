@@ -57,6 +57,13 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube マビノギ"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 22
     min: 0
   title: "渋谷ハジメ at:YouTube 誕生日配信、プレゼント開封"
@@ -64,14 +71,16 @@
   uri: 
 - date: 2019-05-05
   time:
-    hour: 23
+    hour: 22
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #13 オフラインSP"
   end_time: 
   uri: 
 - date: 2019-05-05
-  time: 
-  title: "？時？分(夜)～ 樋口楓 at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -227,7 +236,9 @@
   end_time: 
   uri: 
 - date: 2019-05-01
-  time: 
-  title: "？時？分(夜)～ 樋口楓 at:YouTube"
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube マビノギ"
   end_time: 
   uri: 
