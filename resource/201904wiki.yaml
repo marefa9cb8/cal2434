@@ -58,6 +58,13 @@
 - date: 2019-04-30
   time:
     hour: 1
+    min: 19
+  title: "郡道美玲 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 1
     min: 40
   title: "闇夜乃モルル at:YouTube お絵描き"
   end_time: 
@@ -94,14 +101,28 @@
   time:
     hour: 13
     min: 0
-  title: "椎名唯華 at:YouTube 殺戮の天使　※延期"
+  title: "椎名唯華 at:YouTube 殺戮の天使 ※延期"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 14
+    min: 0
+  title: "?～ 舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-30
   time:
     hour: 15
     min: 0
-  title: "魔界ノりりむ＆卯月コウ at:？"
+  title: "魔界ノりりむ＆卯月コウ at:魔界ノりりむのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 16
+    min: 0
+  title: "夕陽リリ at:YouTube 雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -113,9 +134,23 @@
   uri: 
 - date: 2019-04-30
   time:
+    hour: 17
+    min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 樋口楓の平成曲が10分でわかる動画。"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube WIXOSS語り"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -143,14 +178,14 @@
   time:
     hour: 21
     min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  title: "司会：夢追翔＆回答者：社築＆花畑チャイカ＆舞元啓介＆ジョー・力一＆三枝明那 at:夢追翔のYouTubeチャンネル 大喜利人狼"
   end_time: 
   uri: 
 - date: 2019-04-30
   time:
     hour: 21
     min: 0
-  title: "司会：夢追翔＆回答者：社築＆花畑チャイカ＆舞元啓介＆ジョー・力一＆三枝明那 at:夢追翔のYouTubeチャンネル 大喜利人狼"
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -232,6 +267,11 @@
 - date: 2019-04-30
   time: 
   title: "？時？分(朝)～ 町田ちま at:YouTube 歌 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time: 
+  title: "？時？分(夜)～ 竜胆尊 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-29
