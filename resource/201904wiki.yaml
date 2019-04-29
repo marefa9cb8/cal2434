@@ -24,7 +24,7 @@
   time:
     hour: 0
     min: 30
-  title: "小野町春香 at:YouTube ASMR"
+  title: "小野町春香 at:YouTube ASMR ※中止"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -67,6 +67,13 @@
     hour: 21
     min: 0
   title: "リゼ・ヘルエスタ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴鹿詩子 at:鈴鹿詩子のYouTubeチャンネル TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -255,7 +262,7 @@
   time:
     hour: 15
     min: 0
-  title: "笹木咲＆椎名唯華 at:椎名唯華のYouTubeチャンネル 呪怨"
+  title: "笹木咲＆椎名唯華 at:椎名唯華のYouTubeチャンネル 恐怖体感 呪怨"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -263,6 +270,20 @@
     hour: 15
     min: 0
   title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 15
+    min: 22
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 15
+    min: 31
+  title: "叶 at:YouTube Dota Auto Chess、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -283,7 +304,7 @@
   time:
     hour: 18
     min: 0
-  title: "小野町春香＆愛園愛美 at:YouTube スプラトゥーン2"
+  title: "小野町春香＆愛園愛美 at:愛園愛美のYouTubeチャンネル スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -305,14 +326,7 @@
   time:
     hour: 19
     min: 0
-  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:本間ひまわりのYouTubeチャンネル プレミア公開"
-  end_time: 
-  uri: 
-- date: 2019-04-29
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube"
+  title: "桜凛月 at:YouTube Undertale"
   end_time: 
   uri: 
 - date: 2019-04-29
@@ -375,6 +389,14 @@
   time:
     hour: 22
     min: 0
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:本間ひまわりのYouTubeチャンネル プレミア公開 念願の３D体でテンション上がるなぁ…！？
+    Hand Simulator"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 22
+    min: 0
   title: "出雲霞 at:YouTube 五月病事前相談"
   end_time: 
   uri: 
@@ -409,6 +431,11 @@
 - date: 2019-04-29
   time: 
   title: "？時？分(仮)～ 町田ちま at:YouTube プレミア公開 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time: 
+  title: "？時？分(夜・仮)～ 三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-28
