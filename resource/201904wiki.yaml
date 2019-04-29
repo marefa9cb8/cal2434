@@ -16,6 +16,13 @@
 - date: 2019-04-30
   time:
     hour: 0
+    min: 0
+  title: "森中花咲 at:??? ※ツイッターネームより"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
@@ -168,6 +175,13 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 5
+    min: 24
+  title: "御伽原江良 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ トマト"
@@ -182,6 +196,20 @@
   uri: 
 - date: 2019-04-29
   time:
+    hour: 7
+    min: 52
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 10
+    min: 50
+  title: "町田ちま at:ツイキャス ピアノ練習"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
     hour: 12
     min: 55
   title: "笹木咲＆椎名唯華 at:YouTube character1 2019 エレメンタルストーリー"
@@ -192,6 +220,13 @@
     hour: 15
     min: 0
   title: "笹木咲＆椎名唯華 at:YouTube 呪怨"
+  end_time: 
+  uri: 
+- date: 2019-04-29
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:??? ※ツイッターネームより"
   end_time: 
   uri: 
 - date: 2019-04-29
