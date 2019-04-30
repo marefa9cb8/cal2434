@@ -212,6 +212,13 @@
   uri: 
 - date: 2019-05-04
   time:
+    hour: 1
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) Minecraft ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー"
@@ -492,6 +499,13 @@
   time:
     hour: 23
     min: 0
+  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube ※前日に変更"
   end_time: 
   uri: 
@@ -567,6 +581,27 @@
   uri: 
 - date: 2019-05-01
   time:
+    hour: 3
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 3
+    min: 30
+  title: "御伽原江良 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 12
+    min: 0
+  title: "おりコウ(魔界ノりりむ＆卯月コウ) at:魔界ノりりむのYouTubeチャンネル アマガミ（クリア耐久）"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at YouTube パワプロ ※延期"
@@ -632,6 +667,20 @@
   time:
     hour: 20
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 20
+    min: 0
   title: "おっさんゲームス(社築＆舞元啓介) at:YouTube World of Warships"
   end_time: 
   uri: 
@@ -640,6 +689,13 @@
     hour: 21
     min: 0
   title: "樋口楓 at:YouTube マビノギ"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-01
