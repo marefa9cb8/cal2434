@@ -92,8 +92,8 @@
   uri: 
 - date: 2019-04-30
   time:
-    hour: 10
-    min: 0
+    hour: 9
+    min: 34
   title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
@@ -101,7 +101,7 @@
   time:
     hour: 11
     min: 0
-  title: "家長むぎ at:YouTube ヨッシークラフトワールド"
+  title: "家長むぎ at:YouTube ヨッシークラフトワールド ※中止"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -109,6 +109,13 @@
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube 殺戮の天使 ※延期"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 14
+    min: 0
+  title: "渋谷ハジメ at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -186,6 +193,13 @@
     hour: 20
     min: 0
   title: "御伽原江良＆癒月ちょこ at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-04-30
