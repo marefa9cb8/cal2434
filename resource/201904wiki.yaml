@@ -136,7 +136,7 @@
   time:
     hour: 15
     min: 0
-  title: "魔界ノりりむ＆卯月コウ at:魔界ノりりむのYouTubeチャンネル"
+  title: "おりコウ（魔界ノりりむ＆卯月コウ）at:魔界ノりりむのYouTubeチャンネル コンビ名発表→（※枠変更）アマガミ（クリア耐久）"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -157,6 +157,13 @@
   time:
     hour: 17
     min: 0
+  title: "静凛 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 17
+    min: 0
   title: "本間ひまわり at:YouTube Getting Over It"
   end_time: 
   uri: 
@@ -164,14 +171,28 @@
   time:
     hour: 17
     min: 0
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  title: 17時15分～ 鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面
   end_time: 
   uri: 
 - date: 2019-04-30
   time:
     hour: 17
     min: 30
-  title: "町田ちま at:YouTube プレミア公開 ※昼配信にて告知"
+  title: "町田ちま at:YouTube プレミア公開 いのちの名前/町田ちま－VTM HIMAR MIX ver.－"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 18
+    min: 0
+  title: "社築 at:YouTube ドラッキーの草やきう"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 18
+    min: 0
+  title: "愛園愛美 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -306,11 +327,6 @@
     hour: 23
     min: 30
   title: "鷹宮リオン at:YouTube DJ TAKAMIY"
-  end_time: 
-  uri: 
-- date: 2019-04-30
-  time: 
-  title: "？時？分～ 社築 at:YouTube ※4/29の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-04-30
