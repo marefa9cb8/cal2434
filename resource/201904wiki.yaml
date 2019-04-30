@@ -136,7 +136,7 @@
   time:
     hour: 15
     min: 0
-  title: "おりコウ（魔界ノりりむ＆卯月コウ） at:魔界ノりりむのYouTubeチャンネル コンビ名発表→（※枠変更）アマガミ（クリア耐久）"
+  title: "おりコウ(魔界ノりりむ＆卯月コウ) at:魔界ノりりむのYouTubeチャンネル コンビ名発表→（※枠変更）アマガミ（クリア耐久）"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -255,7 +255,14 @@
   time:
     hour: 20
     min: 20
-  title: "おりコウ（魔界ノりりむ＆卯月コウ） at:魔界ノりりむのYouTubeチャンネル アマガミ（クリア耐久）2枠目"
+  title: "おりコウ(魔界ノりりむ＆卯月コウ) at:魔界ノりりむのYouTubeチャンネル アマガミ（クリア耐久）2枠目"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -290,7 +297,21 @@
   time:
     hour: 22
     min: 0
+  title: "ストロベル(宇志海いちご＆ベルモンド・バンデラス) at:宇志海いちごのYouTubeチャンネル スーパー マリオパーティ"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 22
+    min: 0
   title: "久遠千歳 at:YouTube 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 22
+    min: 0
+  title: "小野町春香 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -302,9 +323,23 @@
   uri: 
 - date: 2019-04-30
   time:
+    hour: 22
+    min: 34
+  title: "闇夜乃モルル at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 22
+    min: 35
+  title: "三枝明那 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube 令和カウントダウン"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -319,21 +354,28 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube プレミア公開 ♡平成最後のムービー♡"
   end_time: 
   uri: 
 - date: 2019-04-30
   time:
     hour: 23
     min: 0
-  title: "剣持刀也＆ゲスト：葛葉 at:YouTube SharpnessRadio"
+  title: "物述有栖 at:YouTube QWOP、おえかきの森"
   end_time: 
   uri: 
 - date: 2019-04-30
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube 雑談 ※開始時刻：リマインダーより"
+  title: "シスター・クレア at:YouTube 雑談、令和カウントダウン"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 0
+  title: "神田笑一 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -346,8 +388,22 @@
 - date: 2019-04-30
   time:
     hour: 23
+    min: 1
+  title: "渋谷ハジメ at:YouTube 令和カウントダウン"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 4
+  title: "竜胆尊 at:YouTube 新衣装お披露目、雑談"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
     min: 30
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-04-30
@@ -355,6 +411,41 @@
     hour: 23
     min: 30
   title: "鷹宮リオン at:YouTube DJ TAKAMIY"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 0
+  title: 32分～ 剣持刀也＆ゲスト：葛葉 at:YouTube SharpnessRadio ※4/22延期分
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 30
+  title: 45分～ 叶え葉(叶＆赤羽葉子) at:YouTube 雑談、令和カウントダウン
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 46
+  title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 46
+  title: "黒井しば at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-04-30
+  time:
+    hour: 23
+    min: 55
+  title: "鈴木勝 at:YouTube(2nd) 令和カウントダウン、朗読「よだかの星」"
   end_time: 
   uri: 
 - date: 2019-04-29
