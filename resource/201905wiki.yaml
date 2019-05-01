@@ -174,6 +174,13 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 22
+    min: 0
+  title: "御伽原江良＆犬山たまき＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル?"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
@@ -420,6 +427,13 @@
   time:
     hour: 0
     min: 0
+  title: "小野町春香 at:YouTube 塊魂アンコール"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 0
+    min: 0
   title: "御伽原江良 at:YouTube 歌"
   end_time: 
   uri: 
@@ -434,21 +448,14 @@
   time:
     hour: 0
     min: 30
-  title: "(仮)～ 飛鳥ひな at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-02
-  time:
-    hour: 0
-    min: 30
-  title: "小野町春香 at:YouTube ASMR ※内容変更"
+  title: "飛鳥ひな at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-02
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube 空気読み。"
+  title: "椎名唯華 at:YouTube 空気読み。 ※中止"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -483,7 +490,7 @@
   time:
     hour: 19
     min: 0
-  title: "鈴原るる at:YouTube マシュマロ返答、雑談 ※前日配信より"
+  title: "鈴原るる at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -498,6 +505,13 @@
     hour: 20
     min: 0
   title: "叶 at YouTube 1周年記念、振り返り"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 21
+    min: 0
+  title: "竜胆尊 at:YouTube クトゥルフ神話TPRG解説"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -540,6 +554,13 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:? クトゥルフ神話TPRG"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -775,7 +796,7 @@
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube お部屋公開、質問返答"
   end_time: 
   uri: 
 - date: 2019-05-01
@@ -803,7 +824,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:YouTube"
+  title: "本間ひまわり at:YouTube 3Dくまわり作成"
   end_time: 
   uri: 
 - date: 2019-05-01
@@ -823,6 +844,13 @@
   uri: 
 - date: 2019-05-01
   time:
+    hour: 21
+    min: 50
+  title: "叶 at:YouTube Dota Auto Chess、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
     hour: 22
     min: 0
   title: "静凛 at:YouTube 春服お披露目"
@@ -837,6 +865,34 @@
   uri: 
 - date: 2019-05-01
   time:
+    hour: 22
+    min: 0
+  title: 11分～ 葛葉 at:YouTube TETRIS 99
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 22
+    min: 15
+  title: "笹木咲 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 22
+    min: 30
+  title: 44分～ 神田笑一＆渋谷ハル＆柚月はる＆百世アソブ＆犬上ハヤト＆raid at:YouTube Overwatch
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube 性癖グランプリ"
+  end_time: 
+  uri: 
+- date: 2019-05-01
+  time:
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube(2nd) 会える！ 話せる！ VTuberおしゃべりフェス in 超会議振り返り、雑談"
@@ -846,7 +902,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-05-01
@@ -875,12 +931,5 @@
     hour: 24
     min: 0
   title: "前頃～ 郡道美玲 at:? 雑談"
-  end_time: 
-  uri: 
-- date: 2019-05-01
-  time:
-    hour: 21
-    min: 0
-  title: or22時00分～ 葛葉 at:YouTube TETRIS 99
   end_time: 
   uri: 
