@@ -295,6 +295,20 @@
 - date: 2019-05-03
   time:
     hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー ※前日配信より"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 30
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
@@ -332,6 +346,13 @@
     hour: 19
     min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY REALITY FESTIVAL 2 >DIVE 神々さみっと(※再放送：4月12日分)"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙＆でびでび・でびる他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -411,11 +432,6 @@
   title: "御伽原江良 at:YouTube Wild Animal Sports Day"
   end_time: 
   uri: 
-- date: 2019-05-03
-  time: 
-  title: "？時？分～ 緑仙＆？？？ at:? ※緑仙の予定表より"
-  end_time: 
-  uri: 
 - date: 2019-05-02
   time:
     hour: 0
@@ -447,6 +463,20 @@
 - date: 2019-05-02
   time:
     hour: 0
+    min: 1
+  title: "郡道美玲 at:YouTube 作業、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 0
+    min: 8
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 0
     min: 30
   title: "飛鳥ひな at:YouTube スプラトゥーン2"
   end_time: 
@@ -461,15 +491,36 @@
 - date: 2019-05-02
   time:
     hour: 2
-    min: 0
+    min: 11
   title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-02
   time:
     hour: 2
-    min: 30
+    min: 12
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 2
+    min: 32
   title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 15
+    min: 0
+  title: "雪城眞尋 at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -497,7 +548,7 @@
   time:
     hour: 20
     min: 0
-  title: "夕陽リリ at:? ※リマインダー予定表より"
+  title: Fragrance5(える＆鈴鹿詩子＆夕陽リリ＆本間ひまわり＆シスター・クレア) at:?
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -505,6 +556,13 @@
     hour: 20
     min: 0
   title: "叶 at YouTube 1周年記念、振り返り"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -525,7 +583,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube 雑談"
+  title: "樋口楓 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -546,6 +604,13 @@
   time:
     hour: 22
     min: 0
+  title: "緑仙＆でびでび・でびる他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良＆戌亥とこ＆三枝明那 at:御伽原江良のYouTubeチャンネル Human: Fall Flat"
   end_time: 
   uri: 
@@ -553,7 +618,7 @@
   time:
     hour: 23
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※リマインダー予定表より"
+  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -568,11 +633,6 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube ※前日に変更"
-  end_time: 
-  uri: 
-- date: 2019-05-02
-  time: 
-  title: "？時？分～ 緑仙＆？？？ at:? ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-05-01
@@ -924,12 +984,5 @@
     hour: 23
     min: 30
   title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※15時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-05-01
-  time:
-    hour: 24
-    min: 0
-  title: "前頃～ 郡道美玲 at:? 雑談"
   end_time: 
   uri: 
