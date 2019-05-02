@@ -308,6 +308,13 @@
   time:
     hour: 0
     min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 0
   title: "リゼ・ヘルエスタ at:YouTube 収益化記念"
   end_time: 
   uri: 
@@ -656,20 +663,6 @@
   uri: 
 - date: 2019-05-02
   time:
-    hour: 19
-    min: 0
-  title: "鈴原るる at:YouTube マシュマロ返答、雑談"
-  end_time: 
-  uri: 
-- date: 2019-05-02
-  time:
-    hour: 20
-    min: 0
-  title: Fragrance5(える＆鈴鹿詩子＆夕陽リリ＆本間ひまわり＆シスター・クレア) at:にじさんじ公式YouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2019-05-02
-  time:
     hour: 20
     min: 0
   title: "緑仙 at:YouTube プレミア公開 くたばれPTA / 緑仙 (Cover)"
@@ -677,16 +670,16 @@
   uri: 
 - date: 2019-05-02
   time:
-    hour: 21
+    hour: 20
     min: 0
-  title: "叶 at YouTube 1周年記念、振り返り雑談"
+  title: 12分～ Fragrance5(える＆鈴鹿詩子＆夕陽リリ＆本間ひまわり＆シスター・クレア) at:にじさんじ公式YouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-05-02
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "叶 at YouTube 1周年記念、振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -701,6 +694,13 @@
     hour: 21
     min: 0
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル The Forest"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 21
+    min: 0
+  title: "鈴原るる at:YouTube マシュマロ返答、雑談 ※19時台から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -722,6 +722,13 @@
     hour: 22
     min: 0
   title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube TETRIS 99 ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -764,6 +771,13 @@
     hour: 23
     min: 0
   title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 30
+  title: "赤羽葉子 at:YouTube 1周年記念、振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-05-01
