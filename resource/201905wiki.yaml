@@ -226,6 +226,13 @@
   uri: 
 - date: 2019-05-04
   time:
+    hour: 1
+    min: 0
+  title: "舞元啓介 at:YouTube チャルメラ ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー"
@@ -301,7 +308,7 @@
   time:
     hour: 0
     min: 0
-  title: "渋谷ハジメ at:? League of Legends世界大会「2019 Mid-Season Invitational」同時視聴"
+  title: "渋谷ハジメ at:YouTube League of Legends世界大会「2019 Mid-Season Invitational」同時視聴"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -309,6 +316,13 @@
     hour: 0
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 0
+  title: "童田明治 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -330,6 +344,13 @@
     hour: 0
     min: 30
   title: "森中花咲 at:YouTube プーさんのホームランダービー ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 30
+  title: R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:竜胆尊のYouTubeチャンネル クトゥルフ神話TPRG
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -714,6 +735,13 @@
   time:
     hour: 22
     min: 0
+  title: "渋谷ハジメ at:YouTube League of Legends世界大会「2019 Mid-Season Invitational」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 22
+    min: 0
   title: "モイラ at:YouTube プラモデルバイノーラル"
   end_time: 
   uri: 
@@ -721,7 +749,7 @@
   time:
     hour: 22
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube 筋トレ"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -735,7 +763,7 @@
   time:
     hour: 22
     min: 0
-  title: "緑仙＆でびでび・でびる他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
+  title: "緑仙＆でびでび・でびる＆他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -747,16 +775,23 @@
   uri: 
 - date: 2019-05-02
   time:
-    hour: 23
-    min: 0
-  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生"
+    hour: 22
+    min: 18
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 22
+    min: 30
+  title: "神田笑一＆郡道美玲＆夢月ロア at:神田笑一、郡道美玲のYouTubeチャンネル マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-05-02
   time:
     hour: 23
     min: 0
-  title: "(仮)～ R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:? クトゥルフ神話TPRG"
+  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -775,9 +810,37 @@
   uri: 
 - date: 2019-05-02
   time:
+    hour: 22
+    min: 0
+  title: ") レンチ他 at:レンチのYouTubeチャンネル(本配信) Minecraft(仮想マイクラ部)"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 20
+  title: "静凛 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
     hour: 23
     min: 30
   title: "赤羽葉子 at:YouTube 1周年記念、振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 47
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 50
+  title: "森中花咲＆夕陽リリ at:森中花咲のツイキャス アイドルマスター シンデレラガールズ スターライトステージ、雑談"
   end_time: 
   uri: 
 - date: 2019-05-01
