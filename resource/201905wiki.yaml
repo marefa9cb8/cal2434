@@ -289,6 +289,11 @@
   uri: 
 - date: 2019-05-04
   time: 
+  title: "？時？分～ 春崎エアル at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time: 
   title: "？時？分～ 童田明治 at:YouTube 誕生日配信"
   end_time: 
   uri: 
@@ -296,7 +301,14 @@
   time:
     hour: 0
     min: 0
-  title: "渋谷ハジメ at:?"
+  title: "渋谷ハジメ at:? League of Legends世界大会「2019 Mid-Season Invitational」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -310,7 +322,7 @@
   time:
     hour: 0
     min: 30
-  title: "森中花咲 at:YouTube プーさんのホームランダービー"
+  title: "森中花咲 at:YouTube プーさんのホームランダービー ※中止"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -318,6 +330,13 @@
     hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 和食"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -546,16 +565,37 @@
   uri: 
 - date: 2019-05-02
   time:
+    hour: 14
+    min: 37
+  title: "闇夜乃モルル at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
     hour: 15
     min: 0
-  title: "雪城眞尋 at:YouTube おえかきの森"
+  title: "雪城眞尋 at:YouTube おえかきの森 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 15
+    min: 14
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
   end_time: 
   uri: 
 - date: 2019-05-02
   time:
     hour: 16
     min: 0
-  title: "森中花咲 at:YouTube TETRIS 99"
+  title: "森中花咲 at:YouTube TETRIS 99 ※中断"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 16
+    min: 0
+  title: "本間ひまわり at:YouTube スーパーマリオコレクション (スーパーマリオUSA)"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -563,6 +603,34 @@
     hour: 16
     min: 0
   title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 16
+    min: 37
+  title: "森中花咲 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 16
+    min: 45
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 16
+    min: 50
+  title: "闇夜乃モルル at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 17
+    min: 52
+  title: "郡道美玲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -576,6 +644,20 @@
   time:
     hour: 19
     min: 0
+  title: "夢月ロア at:YouTube 9万人記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 19
+    min: 0
   title: "鈴原るる at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
@@ -583,14 +665,7 @@
   time:
     hour: 20
     min: 0
-  title: Fragrance5(える＆鈴鹿詩子＆夕陽リリ＆本間ひまわり＆シスター・クレア) at:にじさんじのYouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2019-05-02
-  time:
-    hour: 20
-    min: 0
-  title: "叶 at YouTube 1周年記念、振り返り"
+  title: Fragrance5(える＆鈴鹿詩子＆夕陽リリ＆本間ひまわり＆シスター・クレア) at:にじさんじ公式YouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -598,6 +673,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:YouTube プレミア公開 くたばれPTA / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at YouTube 1周年記念、振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-05-02
@@ -646,6 +728,13 @@
   time:
     hour: 22
     min: 0
+  title: "緑仙＆でびでび・でびる他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良＆戌亥とこ＆三枝明那 at:御伽原江良のYouTubeチャンネル Human: Fall Flat"
   end_time: 
   uri: 
@@ -668,6 +757,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube ※前日に変更"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 23
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-01
