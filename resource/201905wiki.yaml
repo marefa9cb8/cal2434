@@ -296,6 +296,13 @@
   time:
     hour: 0
     min: 0
+  title: "渋谷ハジメ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー ※前日配信より"
   end_time: 
   uri: 
@@ -507,6 +514,27 @@
     hour: 2
     min: 32
   title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 11
+    min: 1
+  title: "渋谷ハジメ at:YouTube バイノーラルマイクテスト配信"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 13
+    min: 0
+  title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-02
+  time:
+    hour: 13
+    min: 30
+  title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-02
