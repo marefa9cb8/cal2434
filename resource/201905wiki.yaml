@@ -221,14 +221,14 @@
   time:
     hour: 1
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) Minecraft ※リマインダー予定表より"
+  title: "鈴木勝 at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-04
   time:
     hour: 1
     min: 0
-  title: "舞元啓介 at:YouTube チャルメラ ※開始時刻：リマインダーより"
+  title: "舞元啓介 at:YouTube チャルメラ"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -315,7 +315,7 @@
   time:
     hour: 0
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "ドーラ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -335,8 +335,8 @@
 - date: 2019-05-03
   time:
     hour: 0
-    min: 0
-  title: "三枝明那 at:YouTube クロノ・トリガー ※前日配信より"
+    min: 25
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -350,7 +350,7 @@
   time:
     hour: 0
     min: 30
-  title: R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:竜胆尊のYouTubeチャンネル クトゥルフ神話TPRG
+  title: 41分～ R_R_R_(鷹宮リオン＆竜胆尊＆ジョー・力一) at:竜胆尊のYouTubeチャンネル クトゥルフ神話TPRG
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -358,6 +358,48 @@
     hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 0
+    min: 30
+  title: "三枝明那 at:YouTube クロノ・トリガー ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 1
+    min: 10
+  title: "赤羽葉子 at:YouTube World War Z"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 1
+    min: 30
+  title: "飛鳥ひな at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 2
+    min: 0
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 2
+    min: 31
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 2
+    min: 42
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -371,7 +413,14 @@
   time:
     hour: 10
     min: 30
-  title: "御伽原江良 at:YouTube 寝起きASMR"
+  title: "御伽原江良 at:YouTube 寝起きASMR ※延期"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 11
+    min: 30
+  title: "雪城眞尋 at:YouTube 雑談、？？？喫食"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -385,7 +434,14 @@
   time:
     hour: 13
     min: 0
-  title: "戌亥とこ＆アンジュ・カトリーナ at:戌亥とこのYouTubeチャンネル マシュマロ返答"
+  title: "ベルモンド・バンデラス at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 13
+    min: 0
+  title: "戌亥とこ＆アンジュ・カトリーナ at:戌亥とこのYouTubeチャンネル 寝起き雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -393,6 +449,13 @@
     hour: 18
     min: 0
   title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 18
+    min: 30
+  title: "森中花咲 at:ツイキャス ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -407,13 +470,6 @@
     hour: 20
     min: 0
   title: "緑仙＆でびでび・でびる他(詳細参照) at:癒月ちょこのYouTubeチャンネル 第二回ホロライブ女子力診断"
-  end_time: 
-  uri: 
-- date: 2019-05-03
-  time:
-    hour: 20
-    min: 0
-  title: "鷹宮リオン at:YouTube ロードモバイル ※noteより"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -462,7 +518,21 @@
   time:
     hour: 22
     min: 0
+  title: "鷹宮リオン at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる at:YouTube(2nd) ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-03
