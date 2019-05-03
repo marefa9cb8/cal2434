@@ -127,7 +127,7 @@
   time:
     hour: 20
     min: 0
-  title: "トリガー(夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 地球防衛軍 ※4月30日夕陽リリ配信にて告知＆リマインダー予定表より"
+  title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 地球防衛軍 ※4月30日夕陽リリ配信にて告知＆リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -208,6 +208,13 @@
 - date: 2019-05-05
   time: 
   title: "？時？分(夜)～ 椎名唯華 at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 0
+    min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ ※前日23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -434,7 +441,7 @@
   time:
     hour: 13
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -546,13 +553,6 @@
   time:
     hour: 23
     min: 0
-  title: "出雲霞 at:YouTube 寝かしつけ"
-  end_time: 
-  uri: 
-- date: 2019-05-03
-  time:
-    hour: 23
-    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -567,7 +567,7 @@
   time:
     hour: 23
     min: 0
-  title: "鈴原るる at:YouTube ※Twitterネームより"
+  title: "鈴原るる at:YouTube 超魔界村"
   end_time: 
   uri: 
 - date: 2019-05-02
