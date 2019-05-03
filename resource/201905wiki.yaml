@@ -221,7 +221,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 雑談"
+  title: "剣持刀也 at:YouTube 雑談(マシュマロ返し？)"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -236,6 +236,20 @@
     hour: 0
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ ※前日23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 0
+    min: 0
+  title: "鷹宮リオン at:YouTube クラシック鑑賞、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -285,6 +299,13 @@
     hour: 17
     min: 0
   title: "勇気ちひろ＆闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 17
+    min: 0
+  title: "童田明治 at:YouTube 誕生日配信 ※リマインダより"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -355,7 +376,7 @@
   uri: 
 - date: 2019-05-04
   time: 
-  title: "？時？分～ 童田明治 at:YouTube 誕生日配信"
+  title: "？時？分～ 愛園愛美 at:?"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -635,21 +656,28 @@
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube PUBG"
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-05-03
   time:
     hour: 21
     min: 0
-  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
+  title: 17分～ 叶 at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2019-05-03
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube"
+  title: "モイラ at:YouTube 討鬼伝 極"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube Mordhau"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -663,7 +691,7 @@
   time:
     hour: 22
     min: 0
-  title: "遠北千南 at:YouTube TETRIS 99"
+  title: "黒井しば at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -671,6 +699,27 @@
     hour: 22
     min: 0
   title: "三枝明那 at:YouTube Wormax.io"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 2
+  title: "緑仙 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 0
+  title: 23分～ 遠北千南 at:YouTube TETRIS 99 雑談
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 28
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -713,6 +762,13 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube 超魔界村"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 23
+    min: 8
+  title: "叶＆梔子スイ＆あっくん大魔王＆日ノ隈らん＆歌衣メイカ＆紗樹万咲 at:YouTube おえかきの森"
   end_time: 
   uri: 
 - date: 2019-05-02
