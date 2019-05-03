@@ -318,6 +318,13 @@
   uri: 
 - date: 2019-05-04
   time:
+    hour: 10
+    min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
     hour: 13
     min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー"
@@ -328,6 +335,13 @@
     hour: 14
     min: 0
   title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 14
+    min: 0
+  title: "(仮)～ 成瀬鳴 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-05-04
