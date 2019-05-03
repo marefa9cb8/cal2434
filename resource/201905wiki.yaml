@@ -148,7 +148,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #25"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #25"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -214,7 +214,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -263,7 +263,7 @@
   time:
     hour: 17
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -441,7 +441,7 @@
   time:
     hour: 11
     min: 30
-  title: "雪城眞尋 at:YouTube 雑談、？？？喫食"
+  title: "雪城眞尋 at:YouTube 雑談、辛辛魚喫食"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -462,14 +462,42 @@
   time:
     hour: 13
     min: 0
-  title: "ベルモンド・バンデラス at:YouTube とびだせ どうぶつの森"
+  title: "戌亥とこ＆アンジュ・カトリーナ at:戌亥とこのYouTubeチャンネル 寝起き雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-03
   time:
     hour: 13
     min: 0
-  title: "戌亥とこ＆アンジュ・カトリーナ at:戌亥とこのYouTubeチャンネル 寝起き雑談、マシュマロ返答"
+  title: 10分～ ベルモンド・バンデラス at:YouTube とびだせ どうぶつの森
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 15
+    min: 0
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 15
+    min: 49
+  title: "叶 at:YouTube Dota Auto Chess、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 16
+    min: 7
+  title: "葛葉 at:YouTube Black Survival"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 17
+    min: 30
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密! 夜廻 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -491,6 +519,13 @@
     hour: 19
     min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY REALITY FESTIVAL 2 >DIVE 神々さみっと(※再放送：4月12日分)"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 19
+    min: 0
+  title: "卯月コウ at:？"
   end_time: 
   uri: 
 - date: 2019-05-03
@@ -561,6 +596,20 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube(2nd) ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 0
+  title: "三枝明那 at:YouTube Wormax.io"
+  end_time: 
+  uri: 
+- date: 2019-05-03
+  time:
+    hour: 22
+    min: 30
+  title: "雪城眞尋 at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-05-03
