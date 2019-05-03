@@ -5,6 +5,13 @@
     Time～』（15時～20時）のうちVtuber出演パート"
   end_time: 
   uri: 
+- date: 2019-05-11
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア at:YouTube 歌(田村ゆかり縛り)"
+  end_time: 
+  uri: 
 - date: 2019-05-08
   time:
     hour: 21
@@ -84,6 +91,13 @@
 - date: 2019-05-05
   time:
     hour: 0
+    min: 0
+  title: "御伽原江良 at:YouTube 7万人記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
@@ -134,7 +148,8 @@
   time:
     hour: 20
     min: 0
-  title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル 地球防衛軍 ※4月30日夕陽リリ配信にて告知＆リマインダー予定表より"
+  title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル EARTH DEFENSE FORCE:
+    IRON RAIN ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -221,7 +236,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 雑談(マシュマロ返し？)"
+  title: "剣持刀也 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -235,14 +250,7 @@
   time:
     hour: 0
     min: 0
-  title: "出雲霞 at:YouTube 寝かしつけ ※前日23時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-05-04
-  time:
-    hour: 0
-    min: 0
-  title: "鷹宮リオン at:YouTube クラシック鑑賞、雑談"
+  title: "出雲霞 at:YouTube バイノーラル読み聞かせ ※前日23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -255,8 +263,15 @@
 - date: 2019-05-04
   time:
     hour: 0
+    min: 2
+  title: "鷹宮リオン at:YouTube クラシック・EDM鑑賞、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 0
     min: 30
-  title: "小野町春香 at:YouTube ASMR"
+  title: "小野町春香 at:YouTube ASMR ※中止"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -275,9 +290,30 @@
   uri: 
 - date: 2019-05-04
   time:
+    hour: 1
+    min: 0
+  title: "鈴原るる at:YouTube 超魔界村"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 2
+    min: 0
+  title: "愛園愛美 at:YouTube ICO"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 3
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -305,7 +341,7 @@
   time:
     hour: 17
     min: 0
-  title: "童田明治 at:YouTube 誕生日配信 ※リマインダより"
+  title: "童田明治 at:YouTube 誕生日配信、歌"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -361,6 +397,13 @@
   time:
     hour: 23
     min: 0
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 23
+    min: 0
   title: "?～ 矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -372,11 +415,6 @@
 - date: 2019-05-04
   time: 
   title: "？時？分～ 春崎エアル at:YouTube バイノーラル"
-  end_time: 
-  uri: 
-- date: 2019-05-04
-  time: 
-  title: "？時？分～ 愛園愛美 at:?"
   end_time: 
   uri: 
 - date: 2019-05-03
