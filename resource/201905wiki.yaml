@@ -63,6 +63,14 @@
   uri: 
 - date: 2019-05-06
   time:
+    hour: 19
+    min: 0
+  title: "神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:?
+    Overwatch"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
     hour: 20
     min: 0
   title: "因幡はねる＆ゲスト：樋口楓＆夏色まつり＆DWU＆魔王マグロナ＆天開司＆懲役太郎＆パンディ＆犬山たまき at:因幡はねるのYouTubeチャンネル
@@ -86,6 +94,13 @@
 - date: 2019-05-06
   time: 
   title: "？時？分～ 夕陽リリ at:? ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 0
+    min: 0
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -121,6 +136,13 @@
     hour: 2
     min: 0
   title: "出雲霞 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -220,6 +242,13 @@
     hour: 22
     min: 0
   title: "御伽原江良＆犬山たまき＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル?"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube 超魔界村 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -355,7 +384,14 @@
   time:
     hour: 14
     min: 0
-  title: "椎名唯華 at:YouTube スーパーマリオメーカーMinecraft ※13時から時間変更および内容変更"
+  title: "椎名唯華 at:YouTube スーパーマリオメーカー Minecraft ※13時から時間変更および内容変更"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 14
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube スーパーチャット読み上げ、雑談"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -368,15 +404,43 @@
 - date: 2019-05-04
   time:
     hour: 14
-    min: 43
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※14時から時間変更"
+    min: 30
+  title: 43分～ 鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※14時から時間変更
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 15
+    min: 0
+  title: "町田ちま at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 15
+    min: 17
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 16
+    min: 10
+  title: "でびでび・でびる at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 16
+    min: 30
+  title: "本間ひまわり at:YouTube 魔女の家"
   end_time: 
   uri: 
 - date: 2019-05-04
   time:
     hour: 17
     min: 0
-  title: "勇気ちひろ＆闇夜乃モルル＆SUMOMOXqX(すもも) at:YouTube Apex Legends"
+  title: "勇気ちひろ＆闇夜乃モルル＆SUMOMOXqX(すもも) at:勇気ちひろのYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -425,6 +489,13 @@
   time:
     hour: 22
     min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 22
+    min: 0
   title: "モイラ at:YouTube"
   end_time: 
   uri: 
@@ -432,7 +503,14 @@
   time:
     hour: 22
     min: 0
-  title: "笹木咲 at:YouTube ポケモンHG"
+  title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 22
+    min: 30
+  title: "春崎エアル at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -447,16 +525,6 @@
     hour: 23
     min: 0
   title: "?～ 矢車りね at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-04
-  time: 
-  title: "？時？分～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
-  end_time: 
-  uri: 
-- date: 2019-05-04
-  time: 
-  title: "？時？分～ 春崎エアル at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-05-03
