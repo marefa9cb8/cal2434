@@ -107,14 +107,14 @@
   time:
     hour: 0
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube The HOUSE2"
   end_time: 
   uri: 
 - date: 2019-05-05
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube 信長の野望 ※前日20時から時間変更"
+  title: "椎名唯華 at:YouTube 信長の野望 みんなで空気読み。 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -129,6 +129,13 @@
     hour: 0
     min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 0
+    min: 30
+  title: "舞元啓介＆大空スバル at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -224,6 +231,20 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube 5万人記念"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 19
+    min: 0
+  title: "瀬戸美夜子＆愛園愛美 at:瀬戸美夜子のYouTubeチャンネル プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 20
     min: 0
   title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル EARTH DEFENSE FORCE:
@@ -284,6 +305,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube 超魔界村 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 23
+    min: 0
+  title: Loser Kings(魔界ノりりむ&葛葉&卯月コウ&すもも（SUMOMOXqX）) at:？
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -536,7 +564,7 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-04
@@ -564,14 +592,14 @@
   time:
     hour: 22
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube 殺戮の天使"
   end_time: 
   uri: 
 - date: 2019-05-04
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube おえかきの森"
+  title: "モイラ at:YouTube おえかきの森 雑談、五七五オンライン、どうぶつタワーバトル ※内容変更"
   end_time: 
   uri: 
 - date: 2019-05-04
