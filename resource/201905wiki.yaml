@@ -113,7 +113,7 @@
   time:
     hour: 1
     min: 0
-  title: "雨森小夜 at:YouTube 雑談"
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -347,22 +347,29 @@
 - date: 2019-05-04
   time:
     hour: 13
-    min: 0
-  title: "椎名唯華 at:YouTube スーパーマリオメーカー"
+    min: 48
+  title: "神田笑一 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-04
   time:
     hour: 14
     min: 0
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  title: "椎名唯華 at:YouTube スーパーマリオメーカーMinecraft ※13時から時間変更および内容変更"
   end_time: 
   uri: 
 - date: 2019-05-04
   time:
     hour: 14
-    min: 0
-  title: "(仮)～ 成瀬鳴 at:YouTube Dead by Daylight"
+    min: 10
+  title: "成瀬鳴 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-04
+  time:
+    hour: 14
+    min: 43
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-04
