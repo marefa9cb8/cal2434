@@ -5,6 +5,63 @@
     Time～』（15時～20時）のうちVtuber出演パート"
   end_time: 
   uri: 
+- date: 2019-05-13
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 6
+    min: 30
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time: 
+  title: "？時？分～ える＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time: 
+  title: "？時？分～ 出雲霞＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time: 
+  title: "？時？分～ 鈴木勝＆？？？ at:? ※予定表①・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 14
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 15
+    min: 0
+  title: "シスター・クレア at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
+  end_time: 
+  uri: 
 - date: 2019-05-11
   time:
     hour: 20
@@ -12,11 +69,58 @@
   title: "シスター・クレア at:YouTube 歌(田村ゆかり縛り)"
   end_time: 
   uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
+  title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2?"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 13
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-05-10
   time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube ASMR・セリフ読み"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 22
+    min: 0
+  title: "瀬戸美夜子 at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time: 
+  title: "？時？分～ モイラ at:YouTube 「機動戦士ガンダム00(ファーストシーズン後半)」同時視聴"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -28,9 +132,30 @@
   uri: 
 - date: 2019-05-09
   time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube TETRIS 99(+腕立て)"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 18
+    min: 0
+  title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 20
+    min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
     hour: 21
     min: 0
-  title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
+  title: or21時30分～ シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -44,7 +169,42 @@
   time:
     hour: 0
     min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表①・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 13
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 18
+    min: 0
+  title: "出雲霞 at:YouTube 夕やスミ"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 18
+    min: 0
+  title: "瀬戸美夜子 at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 19
+    min: 0
+  title: "シスター・クレア at:YouTube 懺悔室"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -54,11 +214,16 @@
   title: "緑仙＆飛鳥ひな+審査員：ドーラ＆名伽尾アズマ＆遠北千南＆郡道美玲＆瀬戸美夜子 at:緑仙のYouTubeチャンネル にじさんじメンズプロデュース本戦"
   end_time: 
   uri: 
+- date: 2019-05-08
+  time: 
+  title: "？時？分～ 三枝明那 at:?"
+  end_time: 
+  uri: 
 - date: 2019-05-07
   time:
     hour: 0
     min: 0
-  title: "笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:椎名唯華のYouTubeチャンネル
+  title: "笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、椎名唯華のYouTubeチャンネル
     マリオカート8 デラックス"
   end_time: 
   uri: 
@@ -67,6 +232,13 @@
     hour: 0
     min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 13
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -85,9 +257,23 @@
   uri: 
 - date: 2019-05-07
   time:
+    hour: 21
+    min: 30
+  title: "(仮)～ 出雲霞 at:YouTube 地声公開"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
     hour: 22
     min: 0
   title: "因幡はねる＆ゲスト：雪汝＆でびでび・でびる at:因幡はねるのYouTubeチャンネル 第3回学力テスト GW最終日！男女チーム対抗「#VakaTuberは誰だ」番外編"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -123,7 +309,7 @@
     hour: 0
     min: 0
   title: 27分～ Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ＆すもも（SUMOMOXqX）) at:各々のYouTubeチャンネル 麻雀、UNO、Dead
-    by Daylight ※前日23時から時間変更
+    by Daylight、雑談 ※前日23時から時間変更
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -177,6 +363,20 @@
   uri: 
 - date: 2019-05-06
   time:
+    hour: 3
+    min: 52
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 4
+    min: 12
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 麺"
@@ -205,6 +405,27 @@
   uri: 
 - date: 2019-05-06
   time:
+    hour: 13
+    min: 0
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 16
+    min: 0
+  title: "(仮)～ 緑仙 at:? 歌、雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 18
+    min: 0
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
     hour: 19
     min: 0
   title: "神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:?
@@ -215,7 +436,7 @@
   time:
     hour: 20
     min: 0
-  title: "因幡はねる＆ゲスト：樋口楓＆夏色まつり＆DWU＆魔王マグロナ＆天開司＆懲役太郎＆パンディ＆犬山たまき at:因幡はねるのYouTubeチャンネル
+  title: "因幡はねる＆ゲスト：樋口楓＆夏色まつり＆DeepWebUnderground＆魔王マグロナ＆天開司＆懲役太郎＆パンディ＆犬山たまき at:因幡はねるのYouTubeチャンネル
     第3回学力テスト GW最終日！男女チーム対抗「#VakaTuberは誰だ」"
   end_time: 
   uri: 
@@ -228,19 +449,35 @@
   uri: 
 - date: 2019-05-06
   time:
+    hour: 21
+    min: 30
+  title: "本間ひまわり at:YouTube オンラインクレーンゲーム「クラウドキャッチャー」 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 21
+    min: 30
+  title: "鈴木勝 at:YouTube(2nd) Getting Over It ※Twitterネーム＆予定表①・②＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
     hour: 22
     min: 0
   title: "おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube World of Warships"
   end_time: 
   uri: 
 - date: 2019-05-06
-  time: 
-  title: "？時？分～ 夕陽リリ at:? ※リマインダー予定表より"
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-06
   time: 
-  title: "？時？分(仮)～ 緑仙 at:? 歌、雑談 ※予定表より"
+  title: "？時？分～ 夕陽リリ＆森中花咲 at:? ※Twitterネーム＆リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-05-06
