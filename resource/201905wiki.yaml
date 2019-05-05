@@ -44,7 +44,8 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube マリオカート8 デラックス"
+  title: "笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:椎名唯華のYouTubeチャンネル
+    マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -56,37 +57,16 @@
   uri: 
 - date: 2019-05-07
   time:
-    hour: 0
-    min: 0
-  title: "笹木咲＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-07
-  time:
-    hour: 0
-    min: 0
-  title: "鷹宮リオン＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-07
-  time:
-    hour: 0
-    min: 0
-  title: "アンジュ・カトリーナ＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-07
-  time:
-    hour: 0
-    min: 0
-  title: "リゼ・ヘルエスタ＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-07
-  time:
     hour: 17
     min: 0
   title: "瀬戸美夜子 at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 20
+    min: 0
+  title: "八朔ゆず at:YouTube ※引退配信"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -316,7 +296,7 @@
 - date: 2019-05-05
   time:
     hour: 15
-    min: 45
+    min: 43
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
@@ -371,10 +351,38 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 19
+    min: 11
+  title: "叶 at:YouTube Black Survival"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 19
+    min: 17
+  title: "郡道美玲 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 20
     min: 0
-  title: "ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル EARTH DEFENSE FORCE:
-    IRON RAIN"
+  title: "緑仙 at:YouTube プレミア公開 トリノコシティ / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 20
+    min: 0
+  title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 20
+    min: 0
+  title: '19分～ ハッピートリガー(家長むぎ＆夕陽リリ＆伏見ガク＆剣持刀也) at:夕陽リリのYouTubeチャンネル EARTH DEFENSE FORCE:
+    IRON RAIN'
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -395,7 +403,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり＆ドーラ＆でびでび・でびる at:各々のYouTubeチャンネル? Minecraft"
+  title: "本間ひまわり＆ドーラ＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -486,19 +494,19 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-05
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube 雑談"
+  title: "矢車りね at:YouTube 2万人記念、雑談"
   end_time: 
   uri: 
 - date: 2019-05-05
   time: 
-  title: "？時？分～ 叶え葉(叶＆赤羽葉子) at:? 一周年記念 ※4/30配信で告知"
+  title: "？時？分～ 叶え葉(叶＆赤羽葉子) at:? 一周年記念 ※4/30配信で告知 ※備考"
   end_time: 
   uri: 
 - date: 2019-05-05
