@@ -19,6 +19,13 @@
   title: "桜凛月 at:YouTube ASMR・セリフ読み"
   end_time: 
   uri: 
+- date: 2019-05-09
+  time:
+    hour: 21
+    min: 0
+  title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
+  end_time: 
+  uri: 
 - date: 2019-05-08
   time:
     hour: 0
@@ -87,7 +94,28 @@
   time:
     hour: 0
     min: 0
+  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ＆すもも（SUMOMOXqX）) at:各々のYouTubeチャンネル ※前日23時から時間変更
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 0
+    min: 0
+  title: "愛園愛美 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 0
+    min: 30
+  title: "でびでび・でびる at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -102,6 +130,20 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 麺"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ"
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -423,6 +465,13 @@
 - date: 2019-05-05
   time:
     hour: 21
+    min: 19
+  title: "闇夜乃モルル at:YouTube メタルギアソリッド2"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 21
     min: 30
   title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
   end_time: 
@@ -438,14 +487,14 @@
   time:
     hour: 22
     min: 0
-  title: "渋谷ハジメ at:YouTube 誕生日配信、プレゼント開封"
+  title: "渋谷ハジメ at:YouTube 誕生日配信、プレゼント開封、雑談"
   end_time: 
   uri: 
 - date: 2019-05-05
   time:
     hour: 22
     min: 0
-  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #13 オフラインSP"
+  title: "舞元啓介＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 舞元力一 #13 オフラインSP"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -459,7 +508,7 @@
   time:
     hour: 22
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※23時から時間変更"
+  title: "リゼ・ヘルエスタ at:YouTube nintendogs + cats ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -473,7 +522,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube TETRIS 99、殺戮の天使"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -487,14 +536,14 @@
   time:
     hour: 23
     min: 0
-  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ＆すもも（SUMOMOXqX）) at:各々のチャンネル？
+  title: "叶え葉(叶＆赤羽葉子) at:赤羽葉子のYouTubeチャンネル 1周年記念 Need For Drink"
   end_time: 
   uri: 
 - date: 2019-05-05
   time:
     hour: 23
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -505,8 +554,24 @@
   end_time: 
   uri: 
 - date: 2019-05-05
-  time: 
-  title: "？時？分～ 叶え葉(叶＆赤羽葉子) at:? 一周年記念 ※4/30配信で告知 ※備考"
+  time:
+    hour: 23
+    min: 15
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 23
+    min: 38
+  title: "雪城眞尋 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 23
+    min: 46
+  title: "緑仙 at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-05-05
