@@ -315,6 +315,13 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 15
+    min: 45
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 17
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -324,7 +331,7 @@
   time:
     hour: 17
     min: 30
-  title: "御伽原江良 at:YouTube プリパラ"
+  title: "御伽原江良 at:YouTube プリパラ オールアイドル パーフェクトステージ！"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -352,14 +359,14 @@
   time:
     hour: 19
     min: 0
-  title: "魔界ノりりむ at:YouTube 5万人記念"
+  title: "魔界ノりりむ at:YouTube 5万人記念※延期"
   end_time: 
   uri: 
 - date: 2019-05-05
   time:
     hour: 19
     min: 0
-  title: "瀬戸美夜子＆愛園愛美 at:瀬戸美夜子のYouTubeチャンネル プレミア公開"
+  title: "瀬戸美夜子＆愛園愛美 at:瀬戸美夜子のYouTubeチャンネル プレミア公開 5分で体験！？本職さんのもえもえメイドカフェ"
   end_time: 
   uri: 
 - date: 2019-05-05
@@ -407,6 +414,13 @@
   uri: 
 - date: 2019-05-05
   time:
+    hour: 21
+    min: 30
+  title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #25"
@@ -445,6 +459,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube 超魔界村"
+  end_time: 
+  uri: 
+- date: 2019-05-05
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-05
