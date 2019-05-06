@@ -344,6 +344,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T093700
+SUMMARY:雪城眞尋 at:ツイキャス 歌
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T120000
 SUMMARY:愛園愛美 at:YouTube ひるまなラジオ
 URL:
@@ -381,7 +387,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T190000
-SUMMARY:神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:? Overwatch
+SUMMARY:神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:渋谷ハルのYouTubeチャンネル Overwatch
 URL:
 DESCRIPTION:
 END:VEVENT
