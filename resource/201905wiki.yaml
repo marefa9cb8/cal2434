@@ -115,7 +115,7 @@
   time:
     hour: 22
     min: 0
-  title: "愛園愛美＆犬山たまき at:?"
+  title: "愛園愛美＆犬山たまき at:犬山たまきのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -237,7 +237,7 @@
   time:
     hour: 0
     min: 0
-  title: "笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、椎名唯華、アンジュ・カトリーナ、リゼ・ヘルエスタのYouTubeチャンネル
+  title: "笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、魔界ノりりむ、椎名唯華、鷹宮リオン、竜胆尊、久遠千歳、郡道美玲、アンジュ・カトリーナ、リゼ・ヘルエスタのYouTubeチャンネル
     マリオカート8 デラックス"
   end_time: 
   uri: 
@@ -245,7 +245,14 @@
   time:
     hour: 0
     min: 0
-  title: "三枝明那 at:YouTube クロノ・トリガー"
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー ※中止"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -253,6 +260,13 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #11 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -280,7 +294,7 @@
   time:
     hour: 21
     min: 30
-  title: "(仮)～ 出雲霞 at:YouTube 地声公開"
+  title: "出雲霞 at:YouTube 地声公開"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -559,7 +573,7 @@
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:YouTube バイノーラル"
+  title: "成瀬鳴 at:YouTube バイノーラル、雑談"
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -567,6 +581,20 @@
     hour: 21
     min: 0
   title: "鈴原るる at:YouTube 超魔界村"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 21
+    min: 10
+  title: "モイラ＆出雲霞＆シスター・クレア＆小野町春香 at:小野町春香のYouTubeチャンネル 第22回「にじさんじMIX UP!!」 アフタートーク"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 21
+    min: 16
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-06
@@ -587,28 +615,49 @@
   time:
     hour: 22
     min: 0
-  title: "おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube World of Warships"
+  title: "おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:各々のYouTubeチャンネル World of Warships"
   end_time: 
   uri: 
 - date: 2019-05-06
   time:
     hour: 22
     min: 30
-  title: "夕陽リリ＆森中花咲 at:? ※森中花咲Twitterネームより"
+  title: "夕陽リリ＆森中花咲 at:夕陽リリのYouTubeチャンネル New スーパーマリオブラザーズ U デラックス"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 22
+    min: 33
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 22
+    min: 37
+  title: "雪城眞尋 at:ツイキャス 雑談"
   end_time: 
   uri: 
 - date: 2019-05-06
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-05-06
+  time:
+    hour: 23
+    min: 0
+  title: "飛鳥ひな at:YouTube 雑談、スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-06
   time:
     hour: 23
     min: 30
-  title: "(仮)～ 御伽原江良 at:YouTube 雑談"
+  title: "御伽原江良 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-05

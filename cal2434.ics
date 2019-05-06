@@ -105,7 +105,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190510T220000
-SUMMARY:愛園愛美＆犬山たまき at:?
+SUMMARY:愛園愛美＆犬山たまき at:犬山たまきのYouTubeチャンネル
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -213,19 +213,31 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T000000
-SUMMARY:笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、椎名唯華、アンジュ・カトリーナ、リゼ・ヘルエスタのYouTubeチャンネル マリオカート8 デラックス
+SUMMARY:笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、魔界ノりりむ、椎名唯華、鷹宮リオン、竜胆尊、久遠千歳、郡道美玲、アンジュ・カトリーナ、リゼ・ヘルエスタのYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T000000
-SUMMARY:三枝明那 at:YouTube クロノ・トリガー
+SUMMARY:神田笑一 at:YouTube Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190507T000000
+SUMMARY:三枝明那 at:YouTube クロノ・トリガー ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T020000
 SUMMARY:ベルモンド・バンデラス at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190507T120000
+SUMMARY:愛園愛美 at:YouTube ひるまなラジオ #11 ※リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -249,7 +261,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T213000
-SUMMARY:(仮)～ 出雲霞 at:YouTube 地声公開
+SUMMARY:出雲霞 at:YouTube 地声公開
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -489,13 +501,25 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T210000
-SUMMARY:成瀬鳴 at:YouTube バイノーラル
+SUMMARY:成瀬鳴 at:YouTube バイノーラル、雑談
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T210000
 SUMMARY:鈴原るる at:YouTube 超魔界村
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T211000
+SUMMARY:モイラ＆出雲霞＆シスター・クレア＆小野町春香 at:小野町春香のYouTubeチャンネル 第22回「にじさんじMIX UP!!」 アフタートーク
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T211600
+SUMMARY:静凛 at:YouTube ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -513,25 +537,43 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T220000
-SUMMARY:おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube World of Warships
+SUMMARY:おっさんゲームス(社築＆舞元啓介)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:各々のYouTubeチャンネル World of Warships
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T223000
-SUMMARY:夕陽リリ＆森中花咲 at:? ※森中花咲Twitterネームより
+SUMMARY:夕陽リリ＆森中花咲 at:夕陽リリのYouTubeチャンネル New スーパーマリオブラザーズ U デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T223300
+SUMMARY:叶 at:YouTube Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T223700
+SUMMARY:雪城眞尋 at:ツイキャス 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T230000
-SUMMARY:える at:YouTube
+SUMMARY:える at:YouTube TETRIS 99
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T230000
+SUMMARY:飛鳥ひな at:YouTube 雑談、スプラトゥーン2
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T233000
-SUMMARY:(仮)～ 御伽原江良 at:YouTube 雑談
+SUMMARY:御伽原江良 at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
