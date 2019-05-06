@@ -201,13 +201,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T000000
-SUMMARY:笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、椎名唯華のYouTubeチャンネル マリオカート8 デラックス
+SUMMARY:笹木咲＆魔界ノりりむ＆椎名唯華＆鷹宮リオン＆竜胆尊＆久遠千歳＆郡道美玲＆夢月ロア＆アンジュ・カトリーナ＆リゼ・ヘルエスタ at:笹木咲、椎名唯華、アンジュ・カトリーナ、リゼ・ヘルエスタのYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T000000
 SUMMARY:三枝明那 at:YouTube クロノ・トリガー
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190507T020000
+SUMMARY:ベルモンド・バンデラス at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -244,6 +250,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190507T230000
 SUMMARY:える at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190507
+SUMMARY:？時？分(深夜)～ 椎名唯華 at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -351,7 +363,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T120000
-SUMMARY:愛園愛美 at:YouTube ひるまなラジオ
+SUMMARY:愛園愛美 at:YouTube ひるまなラジオ #10
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -368,26 +380,62 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T140000
+SUMMARY:神田笑一 at:YouTube Katana Zero
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T150500
+SUMMARY:叶＆葛葉＆歌衣メイカ at:叶のYouTubeチャンネル Apex Legends
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T160000
-SUMMARY:(仮)～ 緑仙 at:? 歌、雑談 ※予定表より
+SUMMARY:緑仙 at:YouTube 歌、雑談
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T160000
+SUMMARY:雪城眞尋 at:YouTube Minecraft
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T163000
+SUMMARY:静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T170000
+SUMMARY:闇夜乃モルル at:YouTube メタルギアソリッド2
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T170000
+SUMMARY:椎名唯華 at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T180000
-SUMMARY:闇夜乃モルル at:YouTube メタルギアソリッド2 ※リマインダーより
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190506T180000
-SUMMARY:魔界ノりりむ＆夢月ロア at:YouTube
+SUMMARY:魔界ノりりむ＆夢月ロア at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T190000
-SUMMARY:神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:渋谷ハルのYouTubeチャンネル Overwatch
+SUMMARY:神田笑一＆三枝明那＆渋谷ハル＆犬上ハヤト＆柚月ハル＆結城オト＆兎影めう＆百世アソブ＆アベレージ＆漆黒のれゔぃあたん＆氷柱木トア＆raid at:YouTube Overwatch
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T190000
+SUMMARY:桜凛月 at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -405,13 +453,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T210000
+SUMMARY:成瀬鳴 at:YouTube バイノーラル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190506T210000
 SUMMARY:鈴原るる at:YouTube 超魔界村
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506T213000
-SUMMARY:本間ひまわり at:YouTube オンラインクレーンゲーム「クラウドキャッチャー」 ※リマインダーより
+SUMMARY:本間ひまわり at:YouTube オンラインクレーンゲーム「クラウドキャッチャー」
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -441,13 +495,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190506
-SUMMARY:？時？分～ 夕陽リリ＆森中花咲 at:? ※Twitterネーム＆リマインダー予定表より
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190506
-SUMMARY:？時？分(夕方)～ 雪城眞尋 at:YouTube Minecraft
+SUMMARY:？時？分～ 夕陽リリ＆森中花咲 at:?
 URL:
 DESCRIPTION:
 END:VEVENT
