@@ -116,6 +116,13 @@
   uri: 
 - date: 2019-05-10
   time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube プレミア公開 Blow out / 鈴木このみ 歌ってみた"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 歌(VOCALOID) ※予定表より"
@@ -187,6 +194,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 20
+    min: 30
+  title: "鷹宮リオン at:YouTube 9万人記念 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -303,9 +317,23 @@
   uri: 
 - date: 2019-05-08
   time:
+    hour: 20
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:YouTube ロードモバイル
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
     hour: 21
     min: 0
   title: "緑仙＆飛鳥ひな+審査員：ドーラ＆名伽尾アズマ＆遠北千南＆郡道美玲＆瀬戸美夜子 at:緑仙のYouTubeチャンネル にじさんじメンズプロデュース本戦"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -428,6 +456,13 @@
   uri: 
 - date: 2019-05-07
   time:
+    hour: 18
+    min: 13
+  title: "叶＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:YouTube メイク紹介"
@@ -435,7 +470,7 @@
   uri: 
 - date: 2019-05-07
   time:
-    hour: 20
+    hour: 19
     min: 0
   title: "緑仙 at:YouTube プレミア公開 悪魔の踊り方 / 緑仙 (Cover)"
   end_time: 
@@ -465,6 +500,20 @@
   time:
     hour: 21
     min: 30
+  title: "鈴谷アキ at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 21
+    min: 30
+  title: "葛葉 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 21
+    min: 30
   title: "出雲霞 at:YouTube 地声公開"
   end_time: 
   uri: 
@@ -479,7 +528,14 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 雪城眞尋 at:YouTube プーさんのホームランダービー"
+  title: "雪城眞尋 at:YouTube プーさんのホームランダービー"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 22
+    min: 30
+  title: "御伽原江良 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-07
@@ -500,7 +556,21 @@
   time:
     hour: 23
     min: 0
+  title: "飛鳥ひな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 23
+    min: 30
+  title: "成瀬鳴＆郡道美玲 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-05-07
