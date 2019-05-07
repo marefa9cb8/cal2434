@@ -418,14 +418,21 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 雪城眞尋 at:YouTube プーさんのホームランダービー ※Twitterネームより"
+  title: "(仮)～ 雪城眞尋 at:YouTube プーさんのホームランダービー"
   end_time: 
   uri: 
 - date: 2019-05-07
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube 殺戮の天使"
+  end_time: 
+  uri: 
+- date: 2019-05-07
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-07
