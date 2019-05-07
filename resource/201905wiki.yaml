@@ -207,6 +207,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 0
+    min: 0
   title: "緑仙 at:? にじさんじメンズプロデュース振り返り ※予定表より"
   end_time: 
   uri: 
@@ -359,9 +366,23 @@
   uri: 
 - date: 2019-05-08
   time:
+    hour: 2
+    min: 54
+  title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
     hour: 13
     min: 0
   title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 17
+    min: 0
+  title: "本間ひまわり at:YouTube Getting Over It ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -418,14 +439,21 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル at:YouTube ※Twitterネームより"
+  title: "雪城眞尋 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-08
   time:
-    hour: 22
+    hour: 23
     min: 0
-  title: "雪城眞尋 at:YouTube 雑談"
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ 飛鳥ひな at:YouTube にじさんじメンズプロデュース振り返り"
   end_time: 
   uri: 
 - date: 2019-05-08
