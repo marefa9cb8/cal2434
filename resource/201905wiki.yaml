@@ -284,7 +284,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 公衆電話"
+  title: "剣持刀也 at:YouTube 公衆電話(ホラー注意)"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -319,6 +319,13 @@
   time:
     hour: 0
     min: 0
+  title: "竜胆尊 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー ※中止"
   end_time: 
   uri: 
@@ -327,6 +334,13 @@
     hour: 0
     min: 0
   title: "愛園愛美 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 0
+    min: 48
+  title: "闇夜乃モルル at:YouTube マリオのピクロス"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -390,6 +404,28 @@
     hour: 21
     min: 0
   title: "緑仙＆飛鳥ひな+審査員：ドーラ＆名伽尾アズマ＆遠北千南＆郡道美玲＆瀬戸美夜子 at:緑仙のYouTubeチャンネル にじさんじメンズプロデュース本戦"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #32』"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 22
+    min: 0
+  title: "雪城眞尋 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -668,7 +704,7 @@
   time:
     hour: 23
     min: 33
-  title: "叶 at:YouTube 雑談"
+  title: "叶 at:YouTube 雑談、Rainbow Six Siege、Black Survival"
   end_time: 
   uri: 
 - date: 2019-05-06
