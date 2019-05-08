@@ -5,6 +5,13 @@
     Time～』（15時～20時）のうちVtuber出演パート"
   end_time: 
   uri: 
+- date: 2019-05-15
+  time:
+    hour: 22
+    min: 0
+  title: "社築＆皇牙サキ at:皇牙サキのYouTubeチャンネル 第5回 ぽよカフェ 喧嘩商売/喧嘩稼業語り"
+  end_time: 
+  uri: 
 - date: 2019-05-13
   time:
     hour: 23
@@ -144,6 +151,13 @@
   uri: 
 - date: 2019-05-10
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ シチュー ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
     hour: 13
     min: 0
   title: "シスター・クレア at:YouTube Minecraft"
@@ -175,6 +189,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 歌(VOCALOID) ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 22
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※予定表①・②より"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -221,7 +242,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube Minecraft"
+  title: "椎名唯華 at:YouTube Minecraft　※中止"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -235,13 +256,6 @@
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:? にじさんじメンズプロデュース振り返り ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-05-09
-  time:
-    hour: 0
-    min: 0
   title: "三枝明那 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -249,21 +263,7 @@
   time:
     hour: 0
     min: 30
-  title: "花畑チャイカ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-09
-  time:
-    hour: 0
-    min: 30
-  title: "(仮)～ 郡道美玲 at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-09
-  time:
-    hour: 1
-    min: 0
-  title: "叶＆三枝明那 at:YouTube PUBG"
+  title: "花畑チャイカ at:YouTube 雑談、Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -277,7 +277,35 @@
   time:
     hour: 1
     min: 0
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 1
+    min: 0
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 1
+    min: 0
   title: "鈴原るる at:YouTube スーパードンキーコング"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 1
+    min: 0
+  title: 10分～ 叶＆三枝明那 at:両名のYouTubeチャンネル PUBG
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 2
+    min: 0
+  title: "鷹宮リオン at:YouTube TETRIS 99、マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -285,6 +313,13 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 7
+    min: 30
+  title: "御伽原江良 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -311,8 +346,15 @@
 - date: 2019-05-09
   time:
     hour: 20
+    min: 0
+  title: "緑仙 at:? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 20
     min: 30
-  title: "鷹宮リオン at:YouTube 9万人記念 ※Twitterネームより"
+  title: "鷹宮リオン at:YouTube 9万人記念"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -325,8 +367,15 @@
 - date: 2019-05-09
   time:
     hour: 21
+    min: 30
+  title: "シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 22
     min: 0
-  title: or21時30分～ シスター・クレア at:YouTube クトゥルフ神話RPG 血塗られた天女伝説
+  title: "社築 at:YouTube トランスフォーマー コンボイの謎"
   end_time: 
   uri: 
 - date: 2019-05-09
