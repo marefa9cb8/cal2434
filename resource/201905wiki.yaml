@@ -240,6 +240,27 @@
   uri: 
 - date: 2019-05-09
   time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 0
+    min: 30
+  title: "花畑チャイカ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 0
+    min: 30
+  title: "(仮)～ 郡道美玲 at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
     hour: 1
     min: 0
   title: "叶＆三枝明那 at:YouTube PUBG"
@@ -312,7 +333,7 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 雑談 ※開始時刻：Twitterネームより"
+  title: "雪城眞尋 at:YouTube 雑談 ※開始時刻：Twitterネーム＆リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -331,12 +352,12 @@
   uri: 
 - date: 2019-05-09
   time: 
-  title: "？時？分(深夜)～ 花畑チャイカ at:YouTube"
+  title: "？時？分(深夜-朝頃)～ 魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-09
   time: 
-  title: "？時？分(深夜-朝頃)～ 魔界ノりりむ at:YouTube"
+  title: "？時？分～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -497,7 +518,7 @@
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube 雑談"
+  title: "リゼ・ヘルエスタ at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -538,16 +559,30 @@
   uri: 
 - date: 2019-05-08
   time:
+    hour: 21
+    min: 45
+  title: "闇夜乃モルル at:OPENREC.tv 不思議のダンジョン2 風来のシレン"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
     hour: 22
     min: 0
-  title: "御伽原江良＆兎鞠まり at:御伽原江良のYouTubeチャンネル Ultimate Chicken Horse"
+  title: "御伽原江良＆兎鞠まり at:YouTube Ultimate Chicken Horse"
+  end_time: 
+  uri: 
+- date: 2019-05-08
+  time:
+    hour: 22
+    min: 18
+  title: "叶 at:YouTube 雑談、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-08
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 飛鳥ひな at:YouTube にじさんじメンズプロデュース振り返り"
+  title: "名伽尾アズマ＆緑仙＆飛鳥ひな＆遠北千南＆三枝明那 at:飛鳥ひなのYouTubeチャンネル にじさんじメンズプロデュース振り返り"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -568,7 +603,7 @@
   time:
     hour: 23
     min: 0
-  title: "?～ 戌亥とこ at:YouTube"
+  title: "戌亥とこ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-08
@@ -576,16 +611,6 @@
     hour: 23
     min: 30
   title: "森中花咲 at:YouTube 五七五オンライン"
-  end_time: 
-  uri: 
-- date: 2019-05-08
-  time: 
-  title: 21時以降～ 闇夜乃モルル at:OPENREC.tv 風来のシレン
-  end_time: 
-  uri: 
-- date: 2019-05-08
-  time: 
-  title: "？時？分～ 三枝明那 at:?"
   end_time: 
   uri: 
 - date: 2019-05-07
