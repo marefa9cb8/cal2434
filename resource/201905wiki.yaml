@@ -151,6 +151,20 @@
   uri: 
 - date: 2019-05-10
   time:
+    hour: 0
+    min: 0
+  title: "飛鳥ひな at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆小野町春香 at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ シチュー ※リマインダーより"
@@ -298,7 +312,7 @@
   time:
     hour: 1
     min: 0
-  title: 10分～ 叶＆三枝明那 at:両名のYouTubeチャンネル PUBG
+  title: 10分～ 叶＆三枝明那 at:両名のYouTubeチャンネル PUBG、Apex Legends
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -319,7 +333,7 @@
   time:
     hour: 5
     min: 0
-  title: "魔界ノりりむ at:YouTube Minecraft"
+  title: "魔界ノりりむ at:YouTube Minecraft、マリオカート8 デラックス、TETRIS 99、Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -347,6 +361,13 @@
   time:
     hour: 18
     min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 18
+    min: 0
   title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝"
   end_time: 
   uri: 
@@ -362,6 +383,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -397,6 +425,13 @@
     hour: 22
     min: 0
   title: "社築 at:YouTube トランスフォーマー コンボイの謎"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 竜胆尊 at:YouTube ポケットモンスター オメガルビー or TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-05-09
