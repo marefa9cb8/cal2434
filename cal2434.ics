@@ -2,6 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//balar//2434 Event Calendar V0.3//JP
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190525T200000
+SUMMARY:演劇部（鈴木勝＆緑仙＆？？？） at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190519
 SUMMARY:？時？分～  ときのそら＆樋口楓＆ロボ子さん＆KMNZ(LITA＆LIZ) at:REALITY ※『未来茶会 vol.2 ～Future Tea Time～』（15時～20時）のうちVtuber出演パート
 URL:
@@ -147,7 +153,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190510T000000
-SUMMARY:郡道美玲＆小野町春香 at:YouTube スプラトゥーン2
+SUMMARY:郡道美玲＆小野町春香 at:小野町春香のYouTubeチャンネル スプラトゥーン2
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -338,6 +344,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190509T190000
+SUMMARY:愛園愛美 at:YouTube 「アイカツ！」同時視聴
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190509T200000
 SUMMARY:える at:YouTube
 URL:
@@ -393,7 +405,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190509T220000
-SUMMARY:雪城眞尋 at:YouTube 雑談 ※開始時刻：Twitterネーム＆リマインダーより
+SUMMARY:雪城眞尋 at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT

@@ -1,4 +1,11 @@
 ---
+- date: 2019-05-25
+  time:
+    hour: 20
+    min: 0
+  title: "演劇部（鈴木勝＆緑仙＆？？？） at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より"
+  end_time: 
+  uri: 
 - date: 2019-05-19
   time: 
   title: "？時？分～  ときのそら＆樋口楓＆ロボ子さん＆KMNZ(LITA＆LIZ) at:REALITY ※『未来茶会 vol.2 ～Future Tea
@@ -160,7 +167,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆小野町春香 at:YouTube スプラトゥーン2"
+  title: "郡道美玲＆小野町春香 at:小野町春香のYouTubeチャンネル スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -380,6 +387,13 @@
   uri: 
 - date: 2019-05-09
   time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
     hour: 20
     min: 0
   title: "える at:YouTube"
@@ -445,7 +459,7 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 雑談 ※開始時刻：Twitterネーム＆リマインダーより"
+  title: "雪城眞尋 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-09
