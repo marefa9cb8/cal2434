@@ -14,9 +14,30 @@
   uri: 
 - date: 2019-05-15
   time:
+    hour: 0
+    min: 0
+  title: "?～ 郡道美玲＆夢月ロア at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 20
+    min: 0
+  title: "郡道美玲＆犬山たまき＆千代家ぷりり at:千代家ぷりりのYouTubeチャンネル イナズマイレブンについて語る会"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
     hour: 22
     min: 0
   title: "社築＆皇牙サキ at:皇牙サキのYouTubeチャンネル 第5回 ぽよカフェ 喧嘩商売/喧嘩稼業語り"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆？？？ at:？？？のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -45,6 +66,13 @@
     hour: 8
     min: 0
   title: "遠北千南 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 20
+    min: 0
+  title: "鷹宮リオン＆？？？ at:? ※noteより"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -97,6 +125,27 @@
   uri: 
 - date: 2019-05-11
   time:
+    hour: 0
+    min: 0
+  title: "笹木咲＆リゼ・ヘルエスタ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 0
+    min: 30
+  title: "響木アオ＆ゲスト：物述有栖 at:ニコニコ生放送 四月一日さん家の ドキドキ前後生放送 ＃4"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
     hour: 14
     min: 0
   title: "える at:YouTube"
@@ -141,6 +190,13 @@
   time:
     hour: 22
     min: 0
+  title: "癒月ちょこ＆ゲスト：家長むぎ at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
   title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2?"
   end_time: 
   uri: 
@@ -156,6 +212,11 @@
     hour: 23
     min: 0
   title: "緑仙 at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time: 
+  title: "？時？分～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -258,6 +319,13 @@
   time:
     hour: 21
     min: 0
+  title: "闇夜乃モルル at:? 不思議のダンジョン2 風来のシレン"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:YouTube 歌(VOCALOID) ※予定表より"
   end_time: 
   uri: 
@@ -272,7 +340,7 @@
   time:
     hour: 22
     min: 0
-  title: "瀬戸美夜子 at:?"
+  title: "瀬戸美夜子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -313,6 +381,11 @@
 - date: 2019-05-10
   time: 
   title: 22時00 or 23時00～ 社築 at:YouTube ※5/9の配信で告知
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time: 
+  title: "？時？分(夕方・仮)～ 鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2019-05-09
