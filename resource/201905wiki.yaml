@@ -21,6 +21,13 @@
   uri: 
 - date: 2019-05-13
   time:
+    hour: 20
+    min: 0
+  title: "伏見ガク＆叶＆夢追翔＆三枝明那 at:にじさんじ公式YouTubeチャンネル 第23回「にじさんじMIX UP!!」"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
     hour: 23
     min: 0
   title: "える at:YouTube"
@@ -99,7 +106,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ"
+  title: "出雲霞 at:YouTube 昼やスミ ワッフル"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -120,7 +127,7 @@
   time:
     hour: 19
     min: 0
-  title: "御伽原江良＆夏色まつり at 夏色まつりのYouTubeチャンネル ペヤング 激辛やきそばEND大食い対決"
+  title: "御伽原江良＆夏色まつり at:夏色まつりのYouTubeチャンネル ペヤング激辛やきそばEND大食い対決"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -167,21 +174,28 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆小野町春香 at:小野町春香のYouTubeチャンネル スプラトゥーン2"
+  title: "(仮)～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-10
   time:
     hour: 0
     min: 0
-  title: "(仮)～ 久遠千歳 at:YouTube"
+  title: "郡道美玲＆小野町春香 at:小野町春香のYouTubeチャンネル スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 2
+    min: 0
+  title: "(仮)～ 名伽尾アズマ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-10
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ シチュー ※リマインダーより"
+  title: "伏見ガク at:YouTube おはガク！ シチュー"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -209,6 +223,13 @@
   time:
     hour: 20
     min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 20
+    min: 0
   title: "ベルモンド・バンデラス＆夢月ロア at:両名のYouTubeチャンネル 7 Days to Die"
   end_time: 
   uri: 
@@ -217,6 +238,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:YouTube Undertale"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -452,7 +480,7 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -485,6 +513,13 @@
   uri: 
 - date: 2019-05-09
   time:
+    hour: 21
+    min: 40
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
     hour: 22
     min: 0
   title: "社築 at:YouTube トランスフォーマー コンボイの謎"
@@ -494,7 +529,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 竜胆尊 at:YouTube ポケットモンスター オメガルビー or TETRIS 99"
+  title: "夢追翔 at:YouTube 歌(B'z縛り)"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -508,14 +543,7 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-05-09
-  time:
-    hour: 23
-    min: 0
-  title: "静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより"
+  title: 24分～ 雪城眞尋 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -529,7 +557,42 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 23
+    min: 0
+  title: "愛園愛美 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 23
+    min: 19
+  title: "シスター・クレア at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 23
+    min: 40
+  title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 23
+    min: 50
+  title: "静凛 at:YouTube ファイナルファンタジーXIV ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-08
