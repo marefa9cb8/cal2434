@@ -200,6 +200,13 @@
   uri: 
 - date: 2019-05-10
   time:
+    hour: 20
+    min: 0
+  title: "ベルモンド・バンデラス＆夢月ロア at:両名のYouTubeチャンネル 7 Days to Die"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -403,7 +410,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Tea Party Simulator 2015™"
   end_time: 
   uri: 
 - date: 2019-05-09
@@ -425,6 +432,13 @@
     hour: 21
     min: 0
   title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-09
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
   end_time: 
   uri: 
 - date: 2019-05-09
