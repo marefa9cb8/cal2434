@@ -71,7 +71,7 @@
   uri: 
 - date: 2019-05-13
   time:
-    hour: 21
+    hour: 22
     min: 0
   title: "雪城眞尋 at:YouTube 自己紹介企画"
   end_time: 
@@ -81,6 +81,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube クロノ・トリガー"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -196,7 +203,7 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町 ※中止"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -209,6 +216,13 @@
 - date: 2019-05-11
   time:
     hour: 0
+    min: 14
+  title: "葛葉 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 0
     min: 30
   title: "響木アオ＆ゲスト：物述有栖 at:ニコニコ生放送 四月一日さん家の ドキドキ前後生放送 ＃4"
   end_time: 
@@ -216,8 +230,29 @@
 - date: 2019-05-11
   time:
     hour: 1
-    min: 0
+    min: 9
   title: "ジョー・力一 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 1
+    min: 23
+  title: "森中花咲 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 2
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 2
+    min: 17
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -259,7 +294,22 @@
   time:
     hour: 19
     min: 0
+  title: "叶＆Icotsu＆歌衣メイカ＆ケリン at:? UNO"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 19
+    min: 0
   title: "御伽原江良＆夏色まつり at:夏色まつりのYouTubeチャンネル ペヤング激辛やきそばEND大食い対決"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 20
+    min: 0
+  title: "勇気ちひろ＆静凛＆ドーラ＆花畑チャイカ＆鈴木勝＆緑仙＆神田笑一＆鷹宮リオン＆桜凛月＆ベルモンド・バンデラス＆夢追翔＆小野町春香＆愛園愛美＆雪城眞尋
+    at:YouTube Minecraft（エンダードラゴン討伐）"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -271,16 +321,9 @@
   uri: 
 - date: 2019-05-11
   time:
-    hour: 20
+    hour: 21
     min: 0
-  title: "緑仙＆？？？ at:YouTube Minecraft ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time:
-    hour: 20
-    min: 0
-  title: "雪城眞尋 at:YouTube"
+  title: "竜胆尊 at:YouTube 10万人記念"
   end_time: 
   uri: 
 - date: 2019-05-11
