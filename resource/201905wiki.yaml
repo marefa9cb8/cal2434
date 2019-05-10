@@ -19,7 +19,7 @@
   uri: 
 - date: 2019-05-17
   time: 
-  title: "？時？分～ 緑仙＆社築 at:？ 歌配信 ※緑仙の予定表より"
+  title: "？時？分～ 社築＆緑仙 at:？ 歌配信 ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -157,6 +157,13 @@
     hour: 0
     min: 30
   title: "響木アオ＆ゲスト：物述有栖 at:ニコニコ生放送 四月一日さん家の ドキドキ前後生放送 ＃4"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -443,8 +450,10 @@
   end_time: 
   uri: 
 - date: 2019-05-10
-  time: 
-  title: 22時00 or 23時00～ 社築 at:YouTube ※5/9の配信で告知
+  time:
+    hour: 22
+    min: 0
+  title: or 23時00分～ 社築 at:YouTube ※5/9の配信で告知
   end_time: 
   uri: 
 - date: 2019-05-10
