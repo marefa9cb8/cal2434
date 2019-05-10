@@ -64,6 +64,13 @@
   uri: 
 - date: 2019-05-13
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 一汁三菜 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
     hour: 20
     min: 0
   title: "伏見ガク＆叶＆夢追翔＆三枝明那 at:にじさんじ公式YouTubeチャンネル 第23回「にじさんじMIX UP!!」"
@@ -95,6 +102,13 @@
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 1
+    min: 0
+  title: "雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -180,11 +194,6 @@
   title: "？時？分～ 緑仙 at？ ※予定表より"
   end_time: 
   uri: 
-- date: 2019-05-12
-  time: 
-  title: 01時以降～ 雨森小夜 at:YouTube
-  end_time: 
-  uri: 
 - date: 2019-05-11
   time:
     hour: 0
@@ -257,9 +266,23 @@
   uri: 
 - date: 2019-05-11
   time:
+    hour: 3
+    min: 21
+  title: "緑仙 at:ツイキャス 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
     hour: 7
     min: 0
   title: "久遠千歳 at:YouTube ねぼけまなこ #2"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 12
+    min: 0
+  title: "渋谷ハジメ at:YouTube SEKIRO: SHADOWS DIE TWICE (3月22日・囚人組12時間RTAバトル罰ゲーム)"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -280,14 +303,21 @@
   time:
     hour: 15
     min: 0
+  title: "本間ひまわり at:YouTube 怪異症候群 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 15
+    min: 0
   title: "シスター・クレア at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
   end_time: 
   uri: 
 - date: 2019-05-11
   time:
-    hour: 17
+    hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: or17時00分～ 勇気ちひろ at:YouTube Apex Legends
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -308,8 +338,8 @@
   time:
     hour: 20
     min: 0
-  title: "勇気ちひろ＆静凛＆ドーラ＆花畑チャイカ＆鈴木勝＆緑仙＆神田笑一＆鷹宮リオン＆桜凛月＆ベルモンド・バンデラス＆夢追翔＆小野町春香＆愛園愛美＆雪城眞尋
-    at:YouTube Minecraft（エンダードラゴン討伐）"
+  title: "勇気ちひろ＆静凛＆花畑チャイカ＆鈴木勝＆神田笑一＆鷹宮リオン＆桜凛月＆ベルモンド・バンデラス＆夢追翔＆小野町春香＆愛園愛美+実況：ドーラ＆緑仙＆雪城眞尋
+    at:YouTube Minecraft(エンダードラゴン討伐)"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -337,7 +367,7 @@
   time:
     hour: 22
     min: 0
-  title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2?"
+  title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -345,13 +375,6 @@
     hour: 22
     min: 0
   title: "鷹宮リオン＆犬山たまき at:犬山たまきのYouTubeチャンネル"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time:
-    hour: 23
-    min: 0
-  title: "緑仙 at:YouTube Minecraft ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-11
