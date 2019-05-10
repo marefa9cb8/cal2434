@@ -12,6 +12,11 @@
     Time～』（15時～20時）のうちVtuber出演パート"
   end_time: 
   uri: 
+- date: 2019-05-17
+  time: 
+  title: "？時？分～ 緑仙＆社築 at:？ 歌配信 ※緑仙の予定表より"
+  end_time: 
+  uri: 
 - date: 2019-05-15
   time:
     hour: 0
@@ -275,6 +280,13 @@
   uri: 
 - date: 2019-05-10
   time:
+    hour: 19
+    min: 0
+  title: "久遠千歳 at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
     hour: 20
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 Blow out / 鈴木このみ 歌ってみた"
@@ -327,6 +339,13 @@
     hour: 21
     min: 0
   title: "ドーラ at:YouTube 歌(VOCALOID) ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-05-10
@@ -386,6 +405,11 @@
 - date: 2019-05-10
   time: 
   title: "？時？分(夕方・仮)～ 鷹宮リオン at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-10
+  time: 
+  title: "？時？分～ 雪城眞尋 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-05-09
