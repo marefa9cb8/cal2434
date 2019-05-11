@@ -101,7 +101,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -130,6 +130,13 @@
     hour: 20
     min: 0
   title: "鷹宮リオン＆？？？ at:? ※noteより"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 2D新モデルお披露目"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -191,7 +198,7 @@
   uri: 
 - date: 2019-05-12
   time: 
-  title: "？時？分～ 緑仙 at？ ※予定表より"
+  title: "？時？分～ 緑仙 at:？ ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -296,7 +303,14 @@
   time:
     hour: 7
     min: 46
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube 雑談、TheHOUSE"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 9
+    min: 53
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -316,6 +330,13 @@
 - date: 2019-05-11
   time:
     hour: 14
+    min: 0
+  title: "本間ひまわり at:YouTube 怪異症候群"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ ワッフル"
   end_time: 
@@ -324,7 +345,7 @@
   time:
     hour: 15
     min: 0
-  title: "本間ひまわり at:YouTube 怪異症候群 ※リマインダーより"
+  title: "鈴鹿詩子 at:YouTube ネコ・トモ"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -345,7 +366,7 @@
   time:
     hour: 19
     min: 0
-  title: "叶＆Icotsu＆歌衣メイカ＆ケリン at:? UNO"
+  title: "叶＆Icotsu＆歌衣メイカ＆ケリン at:YouTube UNO"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -353,6 +374,13 @@
     hour: 19
     min: 0
   title: "御伽原江良＆夏色まつり at:夏色まつりのYouTubeチャンネル ペヤング激辛やきそばEND大食い対決"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube AIエアホッケー"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -368,6 +396,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube 歌(田村ゆかり縛り)"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 20
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキーコング"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -395,6 +430,20 @@
   time:
     hour: 22
     min: 0
+  title: "本間ひまわり at:bilibili Dota 2"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
+  title: "笹木咲 at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
   title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
@@ -410,11 +459,6 @@
     hour: 23
     min: 0
   title: "鈴原るる＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル お悩み相談"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time: 
-  title: "？時？分(朝)～ 桜凛月 at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-05-11
