@@ -55,6 +55,11 @@
   title: "雪城眞尋 at:YouTube 歌"
   end_time: 
   uri: 
+- date: 2019-05-15
+  time: 
+  title: "？時？分～(仮) 緑仙＆？？？ at:？ ※緑仙の予定表より"
+  end_time: 
+  uri: 
 - date: 2019-05-14
   time:
     hour: 0
@@ -88,6 +93,11 @@
     hour: 23
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time: 
+  title: "？時？分～(仮) 緑仙＆？？？ at:？  ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -198,7 +208,7 @@
   uri: 
 - date: 2019-05-12
   time: 
-  title: "？時？分～ 緑仙 at:？ ※予定表より"
+  title: "？時？分～ 緑仙 at:？ 大型企画 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -311,6 +321,13 @@
     hour: 9
     min: 53
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 11
+    min: 30
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -430,13 +447,6 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:bilibili Dota 2"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time:
-    hour: 22
-    min: 0
   title: "笹木咲 at:YouTube ※リマインダーより"
   end_time: 
   uri: 
@@ -445,6 +455,13 @@
     hour: 22
     min: 0
   title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:bilibili Dota 2"
   end_time: 
   uri: 
 - date: 2019-05-11
