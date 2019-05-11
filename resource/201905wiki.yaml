@@ -104,6 +104,13 @@
   time:
     hour: 0
     min: 0
+  title: "闇夜乃モルル at:YouTube ASMR・バイノーラル雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 0
+    min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー"
   end_time: 
   uri: 
@@ -123,6 +130,13 @@
   uri: 
 - date: 2019-05-12
   time:
+    hour: 2
+    min: 0
+  title: "渋谷ハジメ at:YouTube 渋谷ハジメの趣味の時間 ガンプラ編 #1"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
     hour: 6
     min: 30
   title: "シスター・クレア at:YouTube"
@@ -137,16 +151,16 @@
   uri: 
 - date: 2019-05-12
   time:
-    hour: 20
+    hour: 19
     min: 0
-  title: "鈴木勝＆？？？ at:? ※予定表①・②より"
+  title: "愛園愛美＆兎鞠まり＆癒月ちょこ＆魔王マグロナ＆犬山たまき at:犬山たまきのYouTubeチャンネル ママVtuberにバブバブする母の日♡"
   end_time: 
   uri: 
 - date: 2019-05-12
   time:
     hour: 20
     min: 0
-  title: "鷹宮リオン＆？？？ at:? ※noteより"
+  title: "にじさんじ格付けチェック at:にじさんじ公式(本配信)、緑仙(A部屋)、でびでび・でびる(2nd・B部屋）のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -196,21 +210,6 @@
     hour: 23
     min: 10
   title: "勇気ちひろ at:YouTube 10万人記念"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time: 
-  title: "？時？分～ える＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time: 
-  title: "？時？分～ 出雲霞＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time: 
-  title: "？時？分～ 緑仙 at:？ 大型企画 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -463,35 +462,28 @@
   time:
     hour: 21
     min: 0
-  title: "竜胆尊 at:YouTube 10万人記念"
+  title: 11分～ 竜胆尊 at:YouTube 10万人記念
   end_time: 
   uri: 
 - date: 2019-05-11
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:ツイキャス"
+  title: "鈴谷アキ at:ツイキャス 雑談"
   end_time: 
   uri: 
 - date: 2019-05-11
   time:
     hour: 22
     min: 0
-  title: "癒月ちょこ＆ゲスト：家長むぎ at:癒月ちょこのYouTubeチャンネル 身体測定 ※中止"
+  title: "癒月ちょこ＆ゲスト：家長むぎ at:癒月ちょこのYouTubeチャンネル 身体測定 ※延期"
   end_time: 
   uri: 
 - date: 2019-05-11
   time:
     hour: 22
     min: 0
-  title: "笹木咲 at:YouTube ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time:
-    hour: 22
-    min: 0
-  title: "いずもるる(闇夜乃モルル＆出雲霞) at:YouTube スプラトゥーン2"
+  title: "笹木咲 at:YouTube お悩み相談、企画会議、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -518,15 +510,29 @@
 - date: 2019-05-11
   time:
     hour: 22
+    min: 0
+  title: 15分～ いずもるる(闇夜乃モルル＆出雲霞) at:出雲霞のYouTubeチャンネル スプラトゥーン2
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
     min: 30
   title: "雪汝 at YouTube プレミア公開 初対面でさえ怒らせる神プレイがこちら！ Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-05-11
   time:
+    hour: 22
+    min: 36
+  title: "叶 at:YouTube スポンサーバッジ・スタンプ作成、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
     hour: 23
     min: 0
-  title: "社築 at:YouTube ドラえもん"
+  title: "社築 at:YouTube ドラえもん(FC版)"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -534,6 +540,13 @@
     hour: 23
     min: 0
   title: "鈴原るる＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 23
+    min: 33
+  title: "文野環 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-05-10
