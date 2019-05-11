@@ -139,6 +139,13 @@
   time:
     hour: 20
     min: 0
+  title: "鈴木勝＆？？？ at:? ※予定表①・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 20
+    min: 0
   title: "鷹宮リオン＆？？？ at:? ※noteより"
   end_time: 
   uri: 
@@ -199,11 +206,6 @@
 - date: 2019-05-12
   time: 
   title: "？時？分～ 出雲霞＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time: 
-  title: "？時？分～ 鈴木勝＆？？？ at:? ※予定表①・②より"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -377,6 +379,13 @@
     hour: 16
     min: 0
   title: or17時00分～ 勇気ちひろ at:YouTube Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 17
+    min: 0
+  title: "夢追翔 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-11
