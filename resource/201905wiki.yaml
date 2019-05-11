@@ -341,9 +341,23 @@
   uri: 
 - date: 2019-05-11
   time:
+    hour: 13
+    min: 49
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 13
+    min: 54
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
     hour: 14
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -376,9 +390,9 @@
   uri: 
 - date: 2019-05-11
   time:
-    hour: 16
+    hour: 17
     min: 0
-  title: or17時00分～ 勇気ちひろ at:YouTube Apex Legends
+  title: 16時00分～ 勇気ちひろ at:YouTube Apex Legends
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -386,6 +400,13 @@
     hour: 17
     min: 0
   title: "夢追翔 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 18
+    min: 30
+  title: "鈴木勝 at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -421,7 +442,7 @@
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube 歌(田村ゆかり縛り)"
+  title: "戌亥とこ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -429,6 +450,13 @@
     hour: 20
     min: 0
   title: "鈴原るる at:YouTube スーパードンキーコング"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 20
+    min: 0
+  title: 11分～ シスター・クレア at:YouTube 歌(田村ゆかり縛り)
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -477,7 +505,28 @@
   time:
     hour: 22
     min: 0
+  title: "葛葉 at:YouTube PUBG(カスタムマッチ)"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 0
   title: "鷹宮リオン＆犬山たまき at:犬山たまきのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 22
+    min: 30
+  title: "雪汝 at YouTube プレミア公開 初対面でさえ怒らせる神プレイがこちら！ Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-11
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube ドラえもん"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -485,11 +534,6 @@
     hour: 23
     min: 0
   title: "鈴原るる＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル お悩み相談"
-  end_time: 
-  uri: 
-- date: 2019-05-11
-  time: 
-  title: "？時？分～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-10
