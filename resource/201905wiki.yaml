@@ -7,9 +7,32 @@
   end_time: 
   uri: 
 - date: 2019-05-19
-  time: 
-  title: "？時？分～  ときのそら＆樋口楓＆ロボ子さん＆KMNZ(LITA＆LIZ) at:REALITY ※『未来茶会 vol.2 ～Future Tea
-    Time～』（15時～20時）のうちVtuber出演パート"
+  time:
+    hour: 12
+    min: 0
+  title: "ドーラ at:YouTube 昼食作り ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 16
+    min: 30
+  title: "樋口楓＆ときのそら＆ロボ子さん＆KMNZ(LITA＆LIZ) at:REALITY ※『未来茶会 vol.2 ～Future Tea Time～』×IMAGINATION
+    vol.1 with ぶいおん!!"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 8
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) Getting Over It ※予定表①・②より"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -17,6 +40,13 @@
     hour: 10
     min: 0
   title: "桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 13
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -29,6 +59,13 @@
     hour: 19
     min: 0
   title: "?～ 桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -45,7 +82,14 @@
   time:
     hour: 0
     min: 0
-  title: "?～ 郡道美玲＆夢月ロア at:?"
+  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表①・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -60,6 +104,13 @@
     hour: 20
     min: 0
   title: "郡道美玲＆犬山たまき＆千代家ぷりり at:千代家ぷりりのYouTubeチャンネル イナズマイレブンについて語る会"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -85,7 +136,14 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲＆？？？ at:？？？のYouTubeチャンネル"
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ at:YouTube ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -113,7 +171,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -162,6 +220,13 @@
   time:
     hour: 22
     min: 0
+  title: "ドーラ at:YouTube ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 22
+    min: 0
   title: "雪城眞尋 at:YouTube 自己紹介企画"
   end_time: 
   uri: 
@@ -175,6 +240,11 @@
 - date: 2019-05-13
   time: 
   title: "？時？分～(仮) 緑仙＆？？？ at:？  ※緑仙の予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time: 
+  title: "？時？分(コラボ後・深夜)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -263,9 +333,30 @@
   uri: 
 - date: 2019-05-12
   time:
+    hour: 14
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 16
+    min: 0
+  title: "本間ひまわり at:YouTube 怪異症候群"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
     hour: 18
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft(ディズニー語り)"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG(カスタムマッチ)"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -335,6 +426,13 @@
   time:
     hour: 23
     min: 0
+  title: "魔界ノりりむ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
@@ -343,11 +441,6 @@
     hour: 23
     min: 10
   title: "勇気ちひろ at:YouTube 10万人記念"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time: 
-  title: "？時？分～ 本間ひまわり at:YouTube 怪異症候群"
   end_time: 
   uri: 
 - date: 2019-05-11
