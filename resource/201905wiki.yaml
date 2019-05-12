@@ -238,6 +238,13 @@
   end_time: 
   uri: 
 - date: 2019-05-13
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-13
   time: 
   title: "？時？分～(仮) 緑仙＆？？？ at:？  ※緑仙の予定表より"
   end_time: 
@@ -347,13 +354,6 @@
   uri: 
 - date: 2019-05-12
   time:
-    hour: 17
-    min: 50
-  title: "文野環 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-12
-  time:
     hour: 18
     min: 0
   title: "森中花咲 at:YouTube Minecraft(ディズニー語り)"
@@ -361,9 +361,9 @@
   uri: 
 - date: 2019-05-12
   time:
-    hour: 19
-    min: 0
-  title: "渋谷ハジメ at:YouTube PUBG(カスタムマッチ)"
+    hour: 18
+    min: 6
+  title: "文野環 at:YouTube マクドナルド語り"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -382,9 +382,30 @@
   uri: 
 - date: 2019-05-12
   time:
+    hour: 19
+    min: 1
+  title: "渋谷ハジメ at:YouTube PUBG(カスタムマッチ)"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 19
+    min: 28
+  title: "雪城眞尋 at:ツイキャス ラブライブ！語り"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
     hour: 20
     min: 0
   title: "にじさんじ格付けチェック at:にじさんじ公式(本配信)、緑仙(A部屋)、でびでび・でびる(2nd・B部屋）のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time:
+    hour: 20
+    min: 30
+  title: "静凛 at:bilibili キャサリン・フルボディ"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -440,7 +461,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube 雑談"
+  title: "矢車りね at:YouTube 雑談 ※中止"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -448,6 +469,11 @@
     hour: 23
     min: 10
   title: "勇気ちひろ at:YouTube 10万人記念"
+  end_time: 
+  uri: 
+- date: 2019-05-12
+  time: 
+  title: 23時？分～ 静凛 at:?
   end_time: 
   uri: 
 - date: 2019-05-11
