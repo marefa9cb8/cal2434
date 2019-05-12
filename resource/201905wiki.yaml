@@ -8,9 +8,23 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #14"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 12
     min: 0
   title: "ドーラ at:YouTube 昼食作り ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -46,7 +60,28 @@
   time:
     hour: 13
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "ドーラ at:YouTube 昼食作り ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube お姉ちゃん向けバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -65,7 +100,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "ドーラ at:YouTube 「ドクター・ストレンジ」同時視聴 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -74,8 +109,20 @@
   end_time: 
   uri: 
 - date: 2019-05-16
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-16
   time: 
   title: "？時？分～ OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+ゲスト：笹木咲 at:花畑チャイカのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time: 
+  title: "？時？分(仮)～ 戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -110,7 +157,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "ドーラ at:YouTube TETRIS 99、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -128,8 +175,22 @@
   end_time: 
   uri: 
 - date: 2019-05-15
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-15
   time: 
   title: "？時？分～(仮) 緑仙＆？？？ at:？ ※緑仙の予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -141,7 +202,7 @@
   uri: 
 - date: 2019-05-14
   time:
-    hour: 21
+    hour: 20
     min: 0
   title: "ドーラ at:YouTube ※予定表より"
   end_time: 
@@ -176,6 +237,13 @@
   uri: 
 - date: 2019-05-13
   time:
+    hour: 1
+    min: 37
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
     hour: 2
     min: 0
   title: "瀬戸美夜子 at:YouTube The Forest"
@@ -197,6 +265,13 @@
   uri: 
 - date: 2019-05-13
   time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #14"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
@@ -213,7 +288,14 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "ドーラ at:YouTube 歌 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 22
+    min: 0
+  title: "童田明治＆犬山たまき at:犬山たまきのYouTubeチャンネル めい×たまコラボ♡魔の手からめいじーちゃんを守れ!!"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -247,11 +329,6 @@
 - date: 2019-05-13
   time: 
   title: "？時？分～(仮) 緑仙＆？？？ at:？  ※緑仙の予定表より"
-  end_time: 
-  uri: 
-- date: 2019-05-13
-  time: 
-  title: "？時？分(コラボ後・深夜)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-12
@@ -798,7 +875,7 @@
   time:
     hour: 22
     min: 0
-  title: "鷹宮リオン＆犬山たまき at:犬山たまきのYouTubeチャンネル"
+  title: "鷹宮リオン＆犬山たまき at:犬山たまきのYouTubeチャンネル リオ×たま❤超絶清楚お嬢様部コラボ"
   end_time: 
   uri: 
 - date: 2019-05-11
@@ -1064,7 +1141,7 @@
   time:
     hour: 22
     min: 0
-  title: "愛園愛美＆犬山たまき at:犬山たまきのYouTubeチャンネル"
+  title: "愛園愛美＆犬山たまき at:犬山たまきのYouTubeチャンネル がんばれ♡がんばれ♡まな×たまコラボ"
   end_time: 
   uri: 
 - date: 2019-05-10
