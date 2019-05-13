@@ -302,6 +302,13 @@
   time:
     hour: 21
     min: 30
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 21
+    min: 30
   title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
@@ -310,6 +317,13 @@
     hour: 21
     min: 30
   title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 21
+    min: 30
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-13
