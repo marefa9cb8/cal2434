@@ -88,7 +88,12 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube 雑談"
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time: 
+  title: "？時？分～ †咎人†(伏見ガク＆剣持刀也) at:? ※05/13配信にて告知"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -108,13 +113,6 @@
 - date: 2019-05-17
   time: 
   title: "？時？分～ 社築＆緑仙 at:？ 歌配信 ※緑仙の予定表より"
-  end_time: 
-  uri: 
-- date: 2019-05-16
-  time:
-    hour: 23
-    min: 0
-  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -139,6 +137,13 @@
     hour: 0
     min: 0
   title: "郡道美玲＆夢月ロア at:夢月ロアのYouTubeチャンネル ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 12
+    min: 0
+  title: "鈴鹿詩子 at:YouTube ニューダンガンロンパV3 みんなのコロシアイ新学期"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -180,7 +185,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube 雑談"
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -192,14 +197,21 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一 at:YouTube ぱんぞう屋"
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube レイトン教授と不思議な町"
+  title: "舞元啓介＆ジョー・力一 at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:YouTube レイトン教授と不思議な町 ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -211,9 +223,35 @@
   uri: 
 - date: 2019-05-14
   time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time: 
+  title: "？時？分(深夜)～ 叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
     hour: 20
     min: 0
   title: "ドーラ at:YouTube ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 22
+    min: 0
+  title: "鈴鹿詩子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -331,15 +369,15 @@
 - date: 2019-05-13
   time:
     hour: 21
-    min: 30
-  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+    min: 10
+  title: "伏見ガク＆叶＆夢追翔＆三枝明那 at:三枝明那のYouTubeチャンネル 第23回「にじさんじMIX UP!!」 アフタートーク"
   end_time: 
   uri: 
 - date: 2019-05-13
   time:
     hour: 21
     min: 30
-  title: "葛葉 at:YouTube"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -360,7 +398,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ＆緑仙 at:YouTube 歌 ※ドーラ予定表 緑仙予定表より"
+  title: "葛葉 at:YouTube 雑談 ※21時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -368,6 +406,13 @@
     hour: 22
     min: 0
   title: "舞元啓介＆大空スバル＆しぐれうい at:大空スバルのYouTubeチャンネル スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 定例サバト"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -393,9 +438,23 @@
   uri: 
 - date: 2019-05-13
   time:
+    hour: 22
+    min: 0
+  title: 12分～ ドーラ＆緑仙 at:緑仙のYouTubeチャンネル 歌
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 22
+    min: 45
+  title: "葛葉 at:YouTube This Is the Police 2、Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
     hour: 23
     min: 0
-  title: "もちがえる（モイラ＆勇気ちひろ＆樋口楓＆える） at:YouTube Minecraft ※各自のTwitter名より"
+  title: "もちがえる（勇気ちひろ＆える＆樋口楓＆モイラ） at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -409,7 +468,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube 塊魂アンコール"
   end_time: 
   uri: 
 - date: 2019-05-13
