@@ -260,7 +260,7 @@
   time:
     hour: 12
     min: 0
-  title: "桜凛月 at:YouTube おひるンボ"
+  title: "桜凛月 at:YouTube おひるンボ ※延期"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -274,7 +274,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "桜凛月 at:YouTube Minecraft ※中止"
   end_time: 
   uri: 
 - date: 2019-05-13
@@ -323,7 +323,14 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ※Twitterネームより"
+  title: "小野町春香 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-13
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキコング2 or バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-05-13
