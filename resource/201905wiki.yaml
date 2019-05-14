@@ -389,9 +389,23 @@
   uri: 
 - date: 2019-05-14
   time:
+    hour: 12
+    min: 34
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 14
+    min: 28
+  title: "神田笑一 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
     hour: 15
     min: 0
-  title: "シスター・クレア at:YouTube Minecraft"
+  title: "シスター・クレア at:YouTube Minecraft ※中止"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -466,7 +480,7 @@
   uri: 
 - date: 2019-05-14
   time: 
-  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft　※Twitterネーム・前日配信より"
+  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft ※Twitterネーム・前日配信より"
   end_time: 
   uri: 
 - date: 2019-05-14
