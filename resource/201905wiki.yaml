@@ -60,7 +60,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #27"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #27"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -218,6 +218,13 @@
   time:
     hour: 0
     min: 0
+  title: "花畑チャイカ at:YouTube チャイラジ #2"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) 朗読「非凡なる凡人」"
   end_time: 
   uri: 
@@ -233,6 +240,13 @@
     hour: 0
     min: 0
   title: "三枝明那 at:YouTube クロノ・トリガー ※前回配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 1
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -289,6 +303,11 @@
     hour: 22
     min: 0
   title: "社築＆皇牙サキ at:皇牙サキのYouTubeチャンネル 第5回 ぽよカフェ 喧嘩商売/喧嘩稼業語り"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time: 
+  title: 2２時00分～ 舞元啓介 at:YouTube World of Warships
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -440,7 +459,14 @@
   time:
     hour: 19
     min: 0
-  title: "夢月ロア at:YouTube ぼくのなつやすみ２"
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 19
+    min: 45
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -466,16 +492,37 @@
   uri: 
 - date: 2019-05-14
   time:
+    hour: 20
+    min: 0
+  title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
     hour: 21
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube マリオカート8 DX"
+  title: "リゼ・ヘルエスタ at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 21
+    min: 10
+  title: "文野環 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 21
+    min: 30
+  title: "卯月コウ at:YouTube ワンダと巨像"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 22
     min: 0
-  title: "鈴鹿詩子 at:YouTube"
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -494,42 +541,65 @@
   uri: 
 - date: 2019-05-14
   time:
-    hour: 23
+    hour: 22
+    min: 13
+  title: "雪城眞尋 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft ※Twitterネームより"
+  title: 14分～ 鈴鹿詩子 at:YouTube 雑談
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 22
+    min: 30
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 22
+    min: 30
+  title: "雪汝 at:YouTube プレミア公開 面白動画３連発！家族で仲良くコラボ Rainbow Six Siege、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube Minecraft ※Twitterネームより"
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 23
     min: 0
-  title: 4FFFF(本間ひまわり＆ドーラ＆鷹宮リオン＆でびでび・でびる) at:YouTube スーパーボンバーマン R
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-14
-  time: 
-  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft"
+  title: 4FFFF(本間ひまわり＆ドーラ＆鷹宮リオン＆でびでび・でびる) at:本間ひまわり、ドーラのYouTubeチャンネル スーパーボンバーマン R
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
-    hour: 21
+    hour: 23
     min: 0
-  title: or22時00分～ 雪城眞尋 at:YouTube 自己紹介企画?
+  title: "矢車りね at:YouTube AIエアホッケー"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 23
+    min: 0
+  title: 32分～ 葛葉 at:YouTube Rainbow Six Siege ※22時半から時間変更
   end_time: 
   uri: 
 - date: 2019-05-13
