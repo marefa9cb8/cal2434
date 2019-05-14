@@ -143,7 +143,7 @@
   time:
     hour: 0
     min: 0
-  title: "三枝明那 at:YouTube クロノトリガー ※前回配信で告知"
+  title: "三枝明那 at:YouTube クロノ・トリガー ※前回配信で告知"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -244,6 +244,27 @@
   uri: 
 - date: 2019-05-14
   time:
+    hour: 2
+    min: 41
+  title: "葛葉 at:YouTube Black Survival"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 4
+    min: 22
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 8
+    min: 17
+  title: "魔界ノりりむ at:YouTube 雑談、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
     hour: 20
     min: 0
   title: "ドーラ at:YouTube ゲーミングデバイス紹介"
@@ -260,7 +281,19 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time: 
+  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft　※Twitterネーム・前日配信より"
   end_time: 
   uri: 
 - date: 2019-05-13
