@@ -410,9 +410,23 @@
   uri: 
 - date: 2019-05-14
   time:
+    hour: 16
+    min: 56
+  title: "静凛 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-14
