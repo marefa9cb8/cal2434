@@ -218,7 +218,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表①・②より"
+  title: "鈴木勝 at:YouTube(2nd) 朗読「非凡なる凡人」"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -426,7 +426,28 @@
   time:
     hour: 19
     min: 0
+  title: "樋口楓 at:YouTube テスト配信、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 19
+    min: 0
   title: "三枝明那 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 19
+    min: 0
+  title: "夢月ロア at:YouTube ぼくのなつやすみ２"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -441,6 +462,13 @@
     hour: 20
     min: 0
   title: "シスター・クレア at:YouTube 歌(70-80年代アイドル)"
+  end_time: 
+  uri: 
+- date: 2019-05-14
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube マリオカート8 DX"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -468,14 +496,14 @@
   time:
     hour: 23
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ at:YouTube Minecraft ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-14
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterネームより"
+  title: "える at:YouTube Minecraft ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-14
@@ -494,7 +522,7 @@
   uri: 
 - date: 2019-05-14
   time: 
-  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft ※Twitterネーム・前日配信より"
+  title: "？時？分（夜）～ 樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-14
