@@ -152,6 +152,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190517T220000
+SUMMARY:鈴木勝 at:YouTube(2nd) ダンガンロンパ 希望の学園と絶望の高校生 ※予定表①・②より
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190517T230000
 SUMMARY:西園寺メアリ＆ゲスト：モイラ at:西園寺メアリのYouTubeチャンネル スナックメアリ
 URL:
@@ -201,13 +207,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190516T020000
-SUMMARY:名伽尾アズマ at:YouTube 雑談・緑仙との夢小説を書く
+SUMMARY:名伽尾アズマ at:YouTube 雑談、夢小説、プーさんのホームランダービー、意味がわかると怖い話音読
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190516
-SUMMARY:？時？分(深夜?)～ 久遠千歳 at:YouTube
+DTSTART;TZID=Asia/Tokyo:20190516T031700
+SUMMARY:夢月ロア at:YouTube ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -255,6 +261,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190516T220000
+SUMMARY:鈴木勝 at:YouTube(2nd) プレミア公開 乙女解剖 フル版 ※予定表①・②より
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190516T220000
 SUMMARY:小野町春香 at:YouTube Getting Over It
 URL:
 DESCRIPTION:
@@ -267,13 +279,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190516T230000
-SUMMARY:鈴原るる at:YouTube バイオハザード RE:2
+SUMMARY:OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+ゲスト：笹木咲 at:花畑チャイカのYouTubeチャンネル ※開始時刻：リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190516
-SUMMARY:？時？分～ OTN組(名伽尾アズマ＆花畑チャイカ＆社築)+ゲスト：笹木咲 at:花畑チャイカのYouTubeチャンネル
+DTSTART;TZID=Asia/Tokyo:20190516T230000
+SUMMARY:鈴原るる at:YouTube バイオハザード RE:2
 URL:
 DESCRIPTION:
 END:VEVENT
