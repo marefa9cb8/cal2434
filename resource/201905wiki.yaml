@@ -319,9 +319,30 @@
   uri: 
 - date: 2019-05-15
   time:
+    hour: 12
+    min: 20
+  title: "郡道美玲 at:ツイキャス 作業"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
     hour: 13
     min: 0
-  title: "安土桃 at:YouTube 雑談、マシュマロ返答"
+  title: 11分～ 安土桃 at:YouTube 雑談、マシュマロ返答
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 14
+    min: 21
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -436,6 +457,18 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube スーパードンキーコング2"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 18
+    min: 30
+  title: "-19時30分頃～ 鷹宮リオン at:YouTube DOOORS or ゼルダの伝説 ムジュラの仮面"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time: 
+  title: "？時？分(夜)～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-14
