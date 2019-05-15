@@ -187,6 +187,13 @@
   uri: 
 - date: 2019-05-16
   time:
+    hour: 20
+    min: 0
+  title: "家長むぎ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube TETRIS 99"
@@ -214,6 +221,11 @@
 - date: 2019-05-16
   time: 
   title: "？時？分～ シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time: 
+  title: "？時？分～ シスター・クレア at:YouTube プレミア公開 懺悔室"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -274,7 +286,7 @@
   time:
     hour: 4
     min: 53
-  title: "魔界ノりりむ at:YouTube Minecraft"
+  title: "魔界ノりりむ at:YouTube Minecraft、Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -309,13 +321,6 @@
   time:
     hour: 19
     min: 0
-  title: "シスター・クレア at:YouTube プレミア公開 懺悔室"
-  end_time: 
-  uri: 
-- date: 2019-05-15
-  time:
-    hour: 19
-    min: 0
   title: "桜凛月 at:YouTube Undertale"
   end_time: 
   uri: 
@@ -324,6 +329,14 @@
     hour: 20
     min: 0
   title: "渋谷ハジメ at:YouTube Sniper Elite V2 Remastered"
+  end_time: 
+  uri: 
+- date: 2019-05-15
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア＆緑仙 at:シスター・クレアのYouTubeチャンネル プレミア公開 おおかみは赤ずきんに恋をした / 緑仙×シスター・クレア
+    (Cover)"
   end_time: 
   uri: 
 - date: 2019-05-15
@@ -387,7 +400,7 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 歌"
+  title: "雪城眞尋 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-15
