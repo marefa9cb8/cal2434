@@ -79,6 +79,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #2"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 22
+    min: 0
   title: "社築＆夏色まつり at:？ 27とJK クイズ企画「社会人・JKの気持ちを理解できているか！？」"
   end_time: 
   uri: 
@@ -108,6 +115,13 @@
     hour: 13
     min: 0
   title: "ドーラ at:YouTube 昼食作り ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 14
+    min: 0
+  title: "本間ひまわり at:YouTube 怪異症候群 ※時間は05/16配信にて告知"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -161,6 +175,13 @@
   time:
     hour: 0
     min: 0
+  title: "おりコウ（魔界ノりりむ＆卯月コウ） at:卯月コウのYouTubeチャンネル Minecraft、ラジオ"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 0
+    min: 0
   title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -168,14 +189,22 @@
   time:
     hour: 0
     min: 0
-  title: "鷹宮リオン＆でびでび・でびる＆ふぇありす＆天開司 at:鷹宮リオン、ふぇありすのYouTubeチャンネル にじさんじ vs にじさんじネットワーク"
+  title: "鷹宮リオン＆でびでび・でびる＆ふぇありす＆天開司 at:鷹宮リオン、ふぇありすのYouTubeチャンネル にじさんじ vs にじさんじネットワーク
+    Tricky Towers"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 0
+    min: 0
+  title: "鈴原るる at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
 - date: 2019-05-17
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -204,6 +233,13 @@
     hour: 19
     min: 0
   title: "?～ 桜凛月 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 19
+    min: 0
+  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -369,7 +405,14 @@
   time:
     hour: 18
     min: 30
-  title: "樋口楓 at:YouTube ※20時から時間変更"
+  title: "樋口楓 at:YouTube 被虐のノエル ※20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 19
+    min: 0
+  title: 18時55分～ 愛園愛美 at:YouTube アイカツ！同時視聴会
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -382,8 +425,8 @@
 - date: 2019-05-16
   time:
     hour: 19
-    min: 8
-  title: "三枝明那 at:YouTube Getting Over It"
+    min: 0
+  title: 08分～ 三枝明那 at:YouTube マリオカート8 デラックス Getting Over It ※内容変更
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -409,9 +452,16 @@
   uri: 
 - date: 2019-05-16
   time:
+    hour: 20
+    min: 51
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube"
+  title: "月ノ美兎 at:YouTube 天才マツウの世界"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -433,6 +483,13 @@
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -467,14 +524,21 @@
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:YouTube Minecraft"
+  title: 21分～ 葛葉 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-05-16
   time:
-    hour: 23
-    min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+    hour: 22
+    min: 30
+  title: "勇気ちひろ＆宇志海いちご＆神田笑一 at:勇気ちひろ、神田笑一のYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 22
+    min: 40
+  title: "雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -489,6 +553,27 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 23
+    min: 7
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 23
+    min: 45
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 23
+    min: 51
+  title: "緑仙 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-16
