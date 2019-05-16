@@ -161,6 +161,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 0
+    min: 0
   title: "鷹宮リオン＆でびでび・でびる＆ふぇありす＆天開司 at:鷹宮リオン、ふぇありすのYouTubeチャンネル にじさんじ vs にじさんじネットワーク"
   end_time: 
   uri: 
@@ -176,6 +183,13 @@
     hour: 1
     min: 0
   title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -362,7 +376,14 @@
   time:
     hour: 19
     min: 0
-  title: "本間ひまわり at:YouTube 夕食"
+  title: "本間ひまわり at:YouTube オムライス喫食、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 19
+    min: 8
+  title: "三枝明那 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-16
@@ -370,6 +391,20 @@
     hour: 20
     min: 0
   title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube SOMA"
   end_time: 
   uri: 
 - date: 2019-05-16
