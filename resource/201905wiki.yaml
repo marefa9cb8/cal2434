@@ -265,6 +265,20 @@
   uri: 
 - date: 2019-05-17
   time:
+    hour: 3
+    min: 40
+  title: "瀬戸美夜子 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 5
+    min: 6
+  title: "鷹宮リオン at:YouTube 雑談、カラータイル"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ お茶漬け or コーンフレーク"
@@ -275,11 +289,6 @@
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #17 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-05-17
-  time: 
-  title: "？時？分(昼・仮)～ 舞元啓介 at:YouTube デジモンワールド"
   end_time: 
   uri: 
 - date: 2019-05-17
