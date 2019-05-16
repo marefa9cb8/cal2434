@@ -248,6 +248,13 @@
   uri: 
 - date: 2019-05-16
   time:
+    hour: 4
+    min: 46
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #16"
@@ -299,7 +306,14 @@
   time:
     hour: 22
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) プレミア公開 乙女解剖 フル版 ※予定表①・②より"
+  title: "鈴木勝 at:YouTube(2nd) プレミア公開 乙女解剖、歌ってみた - 鈴木勝"
+  end_time: 
+  uri: 
+- date: 2019-05-16
+  time:
+    hour: 22
+    min: 0
+  title: "童田明治 at:YouTube ASMR・バイノーラル"
   end_time: 
   uri: 
 - date: 2019-05-16
