@@ -147,21 +147,28 @@
   time:
     hour: 0
     min: 0
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※23時半から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-05-18
-  time:
-    hour: 0
-    min: 0
   title: "郡道美玲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-18
   time:
     hour: 0
+    min: 3
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※23時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 0
     min: 30
-  title: "夕陽リリ at:YouTube メンバーシップ説明、雑談"
+  title: 43分～ 夕陽リリ at:YouTube メンバーシップ説明、雑談
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 1
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -174,8 +181,22 @@
 - date: 2019-05-18
   time:
     hour: 1
-    min: 0
+    min: 8
+  title: "雪城眞尋 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 1
+    min: 10
   title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 1
+    min: 32
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -183,11 +204,6 @@
     hour: 2
     min: 0
   title: "伏見ガク at:YouTube バイノーラル"
-  end_time: 
-  uri: 
-- date: 2019-05-18
-  time: 
-  title: "？時？分(深夜・Minecraft後)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -295,7 +311,12 @@
   uri: 
 - date: 2019-05-18
   time: 
-  title: "？時？分(朝)～ 町田ちま at:? 歌"
+  title: "？時？分(昼)～ 町田ちま at:? 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time: 
+  title: "？時？分(朝?)～ 久遠千歳 at:? 歌?"
   end_time: 
   uri: 
 - date: 2019-05-17
