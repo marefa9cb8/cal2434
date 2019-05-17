@@ -13,6 +13,13 @@
   uri: 
 - date: 2019-05-20
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 野菜フェス"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
     hour: 23
     min: 0
   title: "える at:YouTube ※Twitterプロフィール欄より"
@@ -112,6 +119,13 @@
   uri: 
 - date: 2019-05-18
   time:
+    hour: 2
+    min: 0
+  title: "伏見ガク at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
     hour: 8
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Getting Over It ※予定表①・②より"
@@ -182,7 +196,7 @@
   uri: 
 - date: 2019-05-18
   time: 
-  title: "？時？分～ †咎人†(伏見ガク＆剣持刀也) at:?"
+  title: "？時？分(深夜)～ †咎人†(伏見ガク＆剣持刀也) at:?"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -295,6 +309,13 @@
   time:
     hour: 18
     min: 0
+  title: "椎名唯華 at:YouTube 5月度ゴリスナー総会"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 18
+    min: 0
   title: "出雲霞 at:YouTube 歌"
   end_time: 
   uri: 
@@ -302,7 +323,7 @@
   time:
     hour: 19
     min: 0
-  title: "?～ 桜凛月 at:YouTube"
+  title: "桜凛月 at:YouTube Ash Tale"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -344,7 +365,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築＆緑仙 at:? 歌 ※緑仙予定表より"
+  title: "社築＆緑仙 at:緑仙のYouTubeチャンネル 歌(銀装騎攻オーディアン OP「侵略－the Chariots VII－」耐久企画) ※リマインダー＆緑仙予定表より"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -365,7 +386,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ASMRマッサージ"
+  title: "小野町春香 at:YouTube ASMR耳かき・マッサージ"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -380,6 +401,11 @@
     hour: 23
     min: 30
   title: "シスター・クレア at:YouTube おやすみバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time: 
+  title: "？時？分(昼ｏｒ夕方)～ でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-05-16
