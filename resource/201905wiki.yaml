@@ -302,7 +302,7 @@
   time:
     hour: 12
     min: 0
-  title: "愛園愛美 at:YouTube ひるまなラジオ #17 ※リマインダーより"
+  title: "愛園愛美 at:YouTube ひるまなラジオ #17"
   end_time: 
   uri: 
 - date: 2019-05-17
@@ -380,6 +380,13 @@
     hour: 23
     min: 0
   title: "西園寺メアリ＆ゲスト：モイラ at:西園寺メアリのYouTubeチャンネル スナックメアリ"
+  end_time: 
+  uri: 
+- date: 2019-05-17
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
   end_time: 
   uri: 
 - date: 2019-05-17
