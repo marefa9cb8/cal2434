@@ -99,6 +99,13 @@
   time:
     hour: 0
     min: 0
+  title: "佐藤ホームズ＆ゲスト：ギルザレンIII世 at:佐藤ホームズのYouTubeチャンネル プレミア公開 V色の研究 #3前編"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 0
+    min: 0
   title: "森中花咲 at:YouTube Getting Over It ※1時から時間変更"
   end_time: 
   uri: 
@@ -125,6 +132,13 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 0
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 1
     min: 0
   title: "†咎人†(伏見ガク＆剣持刀也) at:?"
@@ -135,6 +149,13 @@
     hour: 1
     min: 0
   title: "雨森小夜 at:YouTube 雑談、質問返答"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 1
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -201,6 +222,13 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 18
+    min: 0
+  title: "飛鳥ひな＆歌衣メイカ＆歌衣イツミ＆アベレージ at:歌衣メイカのYouTubeチャンネル ボイス大喜利"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 20
     min: 0
   title: "叶 at:YouTube デビル メイ クライ5"
@@ -218,6 +246,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 21
+    min: 0
+  title: "さんばか(戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:各々のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -246,6 +281,13 @@
     hour: 23
     min: 0
   title: "舞元啓介＆大空スバル＆天開司＆審査員：笹木咲＆ドーラ＆ジョー・力一＆白上フブキ at:舞元啓介のYouTubeチャンネル 第1回 サムネイル下手くそ選手権"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -467,7 +509,7 @@
   time:
     hour: 20
     min: 0
-  title: "ベルモンド・バンデラス＆黒井しば at:ベルモンド・バンデラスのYouTubeチャンネル ゲーミングデバイス紹介"
+  title: "ベルモンド・バンデラス＆黒井しば at:ベルモンド・バンデラスのYouTubeチャンネル ゲーミングデバイス紹介(Apex Legends)"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -503,6 +545,13 @@
     hour: 21
     min: 0
   title: "久遠千歳 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 21
+    min: 23
+  title: "鈴鹿詩子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -558,7 +607,7 @@
   time:
     hour: 22
     min: 30
-  title: "†咎人†(伏見ガク＆剣持刀也) at:?"
+  title: "宇志海いちご at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -570,9 +619,16 @@
   uri: 
 - date: 2019-05-18
   time:
+    hour: 22
+    min: 30
+  title: 59分～ †咎人†(伏見ガク＆剣持刀也) at:剣持刀也のYouTubeチャンネル EA SPORTS UFC 3
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
     hour: 23
     min: 0
-  title: "勇気ちひろ＆鈴鹿詩子 at:YouTube Minecraft"
+  title: "うーちー(勇気ちひろ＆鈴鹿詩子) at:勇気ちひろのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -586,14 +642,7 @@
   time:
     hour: 23
     min: 0
-  title: "遠北千南 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-18
-  time:
-    hour: 23
-    min: 0
-  title: "矢車りね at:YouTube"
+  title: "遠北千南 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-17
