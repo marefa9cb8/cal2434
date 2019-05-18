@@ -106,7 +106,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -114,6 +114,11 @@
     hour: 1
     min: 0
   title: "雨森小夜 at:YouTube 雑談、質問返答"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time: 
+  title: "？時？分(深夜・コラボ後)～ 郡道美玲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -205,7 +210,7 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube ※予定表より"
+  title: "舞元啓介＆大空スバル＆天開司＆審査員：笹木咲＆ドーラ＆ジョー・力一＆白上フブキ at:舞元啓介のYouTubeチャンネル 第1回 サムネイル下手くそ選手権"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -347,8 +352,31 @@
   end_time: 
   uri: 
 - date: 2019-05-18
-  time: 
-  title: "？時？分(夕)～ 勇気ちひろ at:YouTube APEX Legends ※配信内にて告知"
+  time:
+    hour: 15
+    min: 9
+  title: "町田ちま at:YouTube テスト配信(Minecraft)"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 15
+    min: 54
+  title: "渋谷ハジメ at:YouTube 雑談、ポケモンカード開封"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 16
+    min: 33
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 17
+    min: 45
+  title: "出雲霞 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -356,6 +384,13 @@
     hour: 19
     min: 0
   title: "夕陽リリ at:YouTube Pikuniku ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 19
+    min: 0
+  title: "物述有栖 at:YouTube プレミア公開 【まるで】○○を止めてみた【YouTuber】"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -370,6 +405,20 @@
     hour: 19
     min: 0
   title: "童田明治 at:YouTube 歌(けいおん！縛り)"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 19
+    min: 30
+  title: "緑仙 at:YouTube プレミア公開 白日 / King Gnu (covered by 緑仙)"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -397,7 +446,7 @@
   time:
     hour: 21
     min: 0
-  title: "久遠千歳 at:YouTube 歌 ※リマインダーより"
+  title: "久遠千歳 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -418,7 +467,7 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
+  title: "ドーラ at:YouTube VA-11 Hall-A"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -432,6 +481,13 @@
   time:
     hour: 22
     min: 0
+  title: "社築 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 22
+    min: 0
   title: "鈴原るる at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
@@ -439,7 +495,7 @@
   time:
     hour: 22
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube ツインビー"
   end_time: 
   uri: 
 - date: 2019-05-18
@@ -454,6 +510,13 @@
     hour: 23
     min: 0
   title: "勇気ちひろ＆鈴鹿詩子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-18
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
   end_time: 
   uri: 
 - date: 2019-05-18
