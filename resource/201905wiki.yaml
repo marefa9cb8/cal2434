@@ -141,21 +141,28 @@
   time:
     hour: 1
     min: 0
-  title: "†咎人†(伏見ガク＆剣持刀也) at:?"
+  title: "†咎人†(伏見ガク＆剣持刀也) at:剣持刀也のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-05-19
   time:
     hour: 1
     min: 0
-  title: "雨森小夜 at:YouTube 雑談、質問返答"
+  title: 10分～ 夢月ロア at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-05-19
   time:
     hour: 1
     min: 0
-  title: "夢月ロア at:YouTube Minecraft"
+  title: 16分～ 雨森小夜 at:YouTube 雑談、質問返答 ※時間変更
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 1
+    min: 16
+  title: "郡道美玲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -166,15 +173,10 @@
   end_time: 
   uri: 
 - date: 2019-05-19
-  time: 
-  title: "？時？分(深夜・コラボ後)～ 郡道美玲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-19
   time:
     hour: 6
     min: 30
-  title: "シスター・クレア at:YouTube"
+  title: "シスター・クレア at:YouTube 朝のラジオ"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -243,6 +245,13 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 20
+    min: 0
+  title: "鈴原るる at:YouTube 5万人記念"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube 雑談"
@@ -274,6 +283,13 @@
     hour: 22
     min: 0
   title: "社築＆夏色まつり at:？ 27とJK クイズ企画「社会人・JKの気持ちを理解できているか！？」"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキーコング2"
   end_time: 
   uri: 
 - date: 2019-05-19
