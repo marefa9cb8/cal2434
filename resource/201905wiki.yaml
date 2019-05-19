@@ -29,21 +29,21 @@
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube UNDERTALE"
+  title: "叶 at:YouTube Undertale"
   end_time: 
   uri: 
 - date: 2019-05-23
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube デビル メイ クライ5"
+  title: "叶 at:YouTube ニーア オートマタ"
   end_time: 
   uri: 
 - date: 2019-05-22
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube デビル メイ クライ5"
+  title: "叶 at:YouTube ニーア オートマタ"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -65,6 +65,13 @@
     hour: 22
     min: 0
   title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -196,15 +203,22 @@
 - date: 2019-05-19
   time:
     hour: 6
+    min: 40
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 6
     min: 30
-  title: "シスター・クレア at:YouTube 朝のラジオ"
+  title: 07時39分～ シスター・クレア at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-05-19
   time:
     hour: 8
-    min: 50
-  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴 ※開始時刻：リマインダーより"
+    min: 56
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -237,6 +251,13 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 15
+    min: 0
+  title: "久遠千歳 at:YouTube 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 16
     min: 0
   title: "勇気ちひろ＆渋谷ハジメ at:YouTube Apex Legends"
@@ -248,6 +269,13 @@
     min: 30
   title: "樋口楓＆ときのそら＆ロボ子さん＆KMNZ(LITA＆LIZ) at:REALITY ※『未来茶会 vol.2 ～Future Tea Time～』×IMAGINATION
     vol.1 with ぶいおん!!"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 17
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -342,6 +370,11 @@
 - date: 2019-05-19
   time: 
   title: "？時？分～ 安土桃 at:YouTube セリフ読み ※中止の可能性あり"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time: 
+  title: "？時？分(夜)～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-18
