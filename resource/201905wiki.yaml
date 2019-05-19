@@ -223,6 +223,20 @@
   uri: 
 - date: 2019-05-19
   time:
+    hour: 9
+    min: 31
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 10
+    min: 59
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
     hour: 12
     min: 0
   title: "家長むぎ at:YouTube 料理"
@@ -237,16 +251,16 @@
   uri: 
 - date: 2019-05-19
   time:
-    hour: 14
+    hour: 13
     min: 0
-  title: "卯月コウ at:YouTube テニスの王子様 最強チームを結成せよ！"
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6 ※15時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-19
   time:
-    hour: 15
+    hour: 14
     min: 0
-  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  title: "卯月コウ at:YouTube テニスの王子様 最強チームを結成せよ！"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -280,7 +294,7 @@
   uri: 
 - date: 2019-05-19
   time: 
-  title: "？時？分(昼頃・仮)～ 勇気ちひろ at:YouTube"
+  title: "？時？分～ 神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -365,6 +379,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-19
+  time:
+    hour: 23
+    min: 0
+  title: "愛園愛美 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-19
