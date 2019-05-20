@@ -4,6 +4,13 @@
   title: "？時？分～ 名伽尾アズマ at:YouTube ※引退配信"
   end_time: 
   uri: 
+- date: 2019-05-27
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
 - date: 2019-05-26
   time:
     hour: 12
@@ -23,6 +30,13 @@
     hour: 22
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -156,6 +170,13 @@
   uri: 
 - date: 2019-05-23
   time:
+    hour: 20
+    min: 0
+  title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
     hour: 21
     min: 0
   title: "叶 at:YouTube ニーア オートマタ"
@@ -208,6 +229,13 @@
     hour: 0
     min: 0
   title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 0
+    min: 0
+  title: "小野町春香＆夜空メル at:? ASMR"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -269,6 +297,20 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
@@ -285,6 +327,13 @@
     hour: 0
     min: 0
   title: "夕陽リリ at:YouTube Pikuniku"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 0
+    min: 0
+  title: "久遠千歳 at:YouTube しょぼんのアクション"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -310,6 +359,13 @@
   uri: 
 - date: 2019-05-21
   time:
+    hour: 1
+    min: 0
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
     hour: 10
     min: 30
   title: "春崎エアル at:YouTube Minecraft"
@@ -323,10 +379,23 @@
   end_time: 
   uri: 
 - date: 2019-05-21
+  time: 
+  title: "？時？分(朝)～ 成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-21
   time:
     hour: 19
     min: 0
   title: "エクス・アルビオ at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 20
+    min: 0
+  title: "神田笑一＆渋谷ハル＆日ノ隈らん＆先端恐怖症＆Paryi＆兎影めう＆歌衣メイカ＆紗樹万咲＆アベレージ＆たかさき咲＆獅子神レオナ＆屍鬼 at:YouTube
+    Overwatch"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -348,6 +417,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 竜胆尊 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -375,6 +451,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 23
+    min: 0
   title: "渋谷ハジメ＆ふくやマスター at:YouTube PUBG"
   end_time: 
   uri: 
@@ -383,6 +466,18 @@
     hour: 23
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time: 
+  title: "？時？分(夜頃)～ 瀬戸美夜子 at:YouTube? 第24回「にじさんじMIX UP!!」感想会"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -542,15 +637,22 @@
 - date: 2019-05-20
   time:
     hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+    min: 10
+  title: "森中花咲＆花畑チャイカ＆瀬戸美夜子 at:瀬戸美夜子のYouTubeチャンネル 第24回「にじさんじMIX UP!!」 アフタートーク"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 21
+    min: 10
+  title: "緑仙 at:ツイキャス 歌、雑談"
   end_time: 
   uri: 
 - date: 2019-05-20
   time:
     hour: 21
     min: 30
-  title: "叶 at:YouTube バイノーラル雑談"
+  title: "鈴谷アキ at:YouTube(2nd) Hidden Paws Mystery"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -576,9 +678,16 @@
   uri: 
 - date: 2019-05-20
   time:
+    hour: 21
+    min: 45
+  title: "叶 at:YouTube バイノーラル雑談 ※21時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
     hour: 22
     min: 0
-  title: "花畑チャイカ＆社築 at:花畑チャイカのYouTubeチャンネル ゲーミングデバイス紹介"
+  title: "花畑チャイカ＆社築 at:花畑チャイカのYouTubeチャンネル ゲーミングデバイス紹介(Apex Legends)"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -592,14 +701,14 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd) あくまのしわざ #7"
+  title: "でびでび・でびる at:YouTube(2nd) あくまのしわざ #6(改)"
   end_time: 
   uri: 
 - date: 2019-05-20
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  title: "御伽原江良＆兎鞠まり at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -612,15 +721,29 @@
 - date: 2019-05-20
   time:
     hour: 22
+    min: 0
+  title: 19分～ シスター・クレア at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 22
     min: 30
   title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-20
   time:
+    hour: 22
+    min: 33
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterプロフィール欄より"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -628,6 +751,20 @@
     hour: 23
     min: 0
   title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 23
+    min: 18
+  title: "叶 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 23
+    min: 30
+  title: "リゼ・ヘルエスタ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-19
