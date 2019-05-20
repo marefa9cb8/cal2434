@@ -95,6 +95,13 @@
   uri: 
 - date: 2019-05-21
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube おひるンボ"
@@ -172,6 +179,13 @@
   uri: 
 - date: 2019-05-20
   time:
+    hour: 4
+    min: 0
+  title: "飛鳥ひな at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
     hour: 6
     min: 0
   title: "魔界ノりりむ at:YouTube Minecraft"
@@ -189,6 +203,13 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 7
+    min: 32
+  title: "御伽原江良 at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-05-20
