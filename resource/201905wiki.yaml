@@ -1,7 +1,24 @@
 ---
 - date: 2019-05-31
+  time:
+    hour: 22
+    min: 0
+  title: "(仮) 名伽尾アズマ at:YouTube ※引退配信"
+  end_time: 
+  uri: 
+- date: 2019-05-30
   time: 
-  title: "？時？分～ 名伽尾アズマ at:YouTube ※引退配信"
+  title: "？時？分～ 名伽尾アズマ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time: 
+  title: "？時？分～ 名伽尾アズマ＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time: 
+  title: "？時？分～ 名伽尾アズマ at:?"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -11,11 +28,16 @@
   title: "える at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
+- date: 2019-05-27
+  time: 
+  title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-05-26
   time:
     hour: 12
     min: 0
-  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  title: "名伽尾アズマ＆出雲霞＆安土桃 at:名伽尾アズマのYouTubeチャンネル 学校生活談義"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -69,6 +91,13 @@
   uri: 
 - date: 2019-05-25
   time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
     hour: 20
     min: 0
   title: "シスター・クレア＆さくらみこ＆天神子兎音 at:REALITY 第2回 神々さみっと"
@@ -78,14 +107,7 @@
   time:
     hour: 20
     min: 0
-  title: "出雲霞＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time:
-    hour: 20
-    min: 0
-  title: "演劇部（鈴木勝＆緑仙＆？？？） at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より"
+  title: "演劇部（出雲霞＆鈴木勝＆緑仙＆？？？） at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -102,6 +124,11 @@
   uri: 
 - date: 2019-05-25
   time: 
+  title: "？時？分～ 名伽尾アズマ＆？？？ at:？"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time: 
   title: "？時？分(仮)～ 轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
@@ -110,6 +137,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 20
+    min: 0
+  title: "(仮) にじさんじドリクラーズ(名伽尾アズマ＆花畑チャイカ＆社築＆舞元啓介＆夢追翔) at:？ ドリームクラブ"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -221,6 +255,13 @@
   time:
     hour: 23
     min: 0
+  title: "(仮) OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:？"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube Getting Over It"
   end_time: 
   uri: 
@@ -235,7 +276,7 @@
   time:
     hour: 0
     min: 0
-  title: "小野町春香＆夜空メル at:? ASMR"
+  title: "小野町春香＆夜空メル at:夜空メルのYouTubeチャンネル ASMR"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -304,6 +345,13 @@
   time:
     hour: 23
     min: 0
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:？
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -340,7 +388,7 @@
   time:
     hour: 0
     min: 0
-  title: "三枝明那 at:YouTube 雑談"
+  title: 16分～ 三枝明那 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -360,8 +408,15 @@
 - date: 2019-05-21
   time:
     hour: 1
-    min: 0
+    min: 3
   title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 1
+    min: 44
+  title: "御伽原江良 at:OPENREC.tv"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -409,7 +464,7 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  title: "(仮)～ ()樋口楓(＆椎名唯華(仮)) at:YouTube Minecraft? ※時刻はTwitterプロフィール欄より。5/20の配信で「おそらく椎名とのコラボ」と発言"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -444,6 +499,20 @@
   time:
     hour: 22
     min: 0
+  title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキーコング2"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 22
+    min: 0
   title: "雪城眞尋 at:YouTube 広げようまひともの輪 #1"
   end_time: 
   uri: 
@@ -451,7 +520,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterプロフィール欄より"
+  title: "える at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-05-21
