@@ -97,6 +97,11 @@
   uri: 
 - date: 2019-05-25
   time: 
+  title: "？時？分～ 渋谷ハジメ＆？？？ at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time: 
   title: "？時？分(仮)～ 轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
@@ -220,6 +225,13 @@
   end_time: 
   uri: 
 - date: 2019-05-22
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-22
   time: 
   title: 21時00時?～ JK組(月ノ美兎＆樋口楓＆静凛) at:月ノ美兎のYouTubeチャンネル? Minecraft ※5月19日椎名唯華配信内で月ノ美兎が告知
     開始時刻：樋口楓Twitterプロフィール欄・仮予定より（ただしこちらには内容説明が欠けている）。
@@ -272,7 +284,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -329,6 +341,13 @@
     hour: 22
     min: 0
   title: "雪城眞尋 at:YouTube 広げようまひともの輪 #1"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 23
+    min: 0
+  title: "渋谷ハジメ＆ふくやマスター at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -420,6 +439,34 @@
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #18"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 13
+    min: 0
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube UNO(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 18
+    min: 0
+  title: "久遠千歳 at:YouTube しょぼんのアクション"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube Sniper Elite V2 Remastered"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -524,7 +571,7 @@
   time:
     hour: 22
     min: 30
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-20
@@ -532,6 +579,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-20
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
   end_time: 
   uri: 
 - date: 2019-05-19
@@ -847,7 +901,7 @@
   time:
     hour: 23
     min: 0
-  title: "舞元啓介＆大空スバル＆天開司＆審査員：笹木咲＆ドーラ＆ジョー・力一＆白上フブキ at:舞元啓介のYouTubeチャンネル 第1回 サムネイル下手くそ選手権"
+  title: "舞元啓介＆大空スバル＆天開司＆審査員：笹木咲＆ドーラ＆ジョー・力一＆白上フブキ at:舞元啓介のYouTubeチャンネル 第1回 サムネイルへたくそ選手権"
   end_time: 
   uri: 
 - date: 2019-05-19
