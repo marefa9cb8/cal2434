@@ -155,6 +155,11 @@
   title: "？時？分(仮)～ 轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
+- date: 2019-05-25
+  time: 
+  title: "？時？分(仮)～ 町田ちま at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-05-24
   time:
     hour: 19
@@ -232,6 +237,11 @@
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
+- date: 2019-05-24
+  time: 
+  title: "？時？分(仮)～ 町田ちま at:YouTube 歌?"
+  end_time: 
+  uri: 
 - date: 2019-05-23
   time:
     hour: 0
@@ -264,6 +274,13 @@
   time:
     hour: 19
     min: 0
+  title: "家長むぎ at:YouTube 弾き語り"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube Ash Tale"
   end_time: 
   uri: 
@@ -272,6 +289,13 @@
     hour: 20
     min: 0
   title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube 誕生日配信 ※5月22日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -327,7 +351,14 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト:三枝明那 at:？のYouTubeチャンネル
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：三枝明那 at:？のYouTubeチャンネル
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -361,8 +392,15 @@
 - date: 2019-05-22
   time:
     hour: 0
+    min: 28
+  title: "叶 at:YouTube SUPERHOT VR"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 0
     min: 0
-  title: "小野町春香＆夜空メル at:夜空メルのYouTubeチャンネル ASMR"
+  title: 42分～ 小野町春香＆夜空メル at:夜空メルのYouTubeチャンネル ASMR
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -480,6 +518,13 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 22
+    min: 0
   title: "鈴鹿詩子＆本間ひまわり＆ドーラ＆竜胆尊 at:各々のYouTubeチャンネル UNO"
   end_time: 
   uri: 
@@ -501,7 +546,7 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト:ikuyoan at:？のYouTubeチャンネル
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：ikuyoan at:？のYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -515,7 +560,7 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube ※23日に変更"
   end_time: 
   uri: 
 - date: 2019-05-22
