@@ -8,7 +8,7 @@
   uri: 
 - date: 2019-05-30
   time: 
-  title: "？時？分～(仮) 名伽尾アズマ at:?"
+  title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -18,7 +18,7 @@
   uri: 
 - date: 2019-05-28
   time: 
-  title: "？時？分～(仮) 名伽尾アズマ at:?"
+  title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -52,6 +52,13 @@
     hour: 22
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：御伽原江良 at:YouTube しぃしぃラジオ 第5回"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -107,7 +114,7 @@
   time:
     hour: 20
     min: 0
-  title: "演劇部（出雲霞＆鈴木勝＆緑仙＆？？？） at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より"
+  title: "演劇部(出雲霞＆鈴木勝＆緑仙＆？？？) at:鈴木勝のYouTubeチャンネル にじさんじ声劇春公演 ※鈴木勝予定表①・②・緑仙予定表より"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -143,7 +150,7 @@
   time:
     hour: 20
     min: 0
-  title: "(仮) にじさんじドリクラーズ(名伽尾アズマ＆花畑チャイカ＆社築＆舞元啓介＆夢追翔) at:？ ドリームクラブ"
+  title: "(仮) にじさんじドリクラーズ(名伽尾アズマ＆花畑チャイカ＆社築＆舞元啓介＆夢追翔) at:YouTube ドリームクラブ"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -179,6 +186,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 0
+    min: 0
+  title: "緑仙 at:? 雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -255,7 +269,7 @@
   time:
     hour: 23
     min: 0
-  title: "(仮) OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:？"
+  title: "(仮) OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -269,7 +283,14 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読「檸檬」 ※予定表・②より"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -277,6 +298,13 @@
     hour: 0
     min: 0
   title: "小野町春香＆夜空メル at:夜空メルのYouTubeチャンネル ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube steamゲーム検索"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -312,6 +340,13 @@
     hour: 20
     min: 0
   title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:bilibili 歌 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -351,7 +386,14 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:？
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築) at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:? 歌(VOCALOID) ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -442,7 +484,7 @@
 - date: 2019-05-21
   time:
     hour: 10
-    min: 30
+    min: 34
   title: "春崎エアル at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -462,6 +504,20 @@
   uri: 
 - date: 2019-05-21
   time:
+    hour: 12
+    min: 30
+  title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 13
+    min: 0
+  title: "(仮)～ 神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
     hour: 14
     min: 0
   title: "舞元啓介 at:YouTube WIXOSS ブースターボックス開封"
@@ -471,12 +527,14 @@
   time:
     hour: 17
     min: 0
-  title: "シスター・クレア at:YouTube"
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-21
-  time: 
-  title: "？時？分(朝)～ 成瀬鳴 at:YouTube"
+  time:
+    hour: 17
+    min: 0
+  title: "シスター・クレア at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -505,7 +563,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓＆椎名唯華 at:YouTube Minecraft ※午前1時からの椎名唯華配信内で告知"
+  title: "樋口楓＆椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -513,6 +571,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 竜胆尊 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-05-21
+  time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談、第24回「にじさんじMIX UP!!」感想会"
   end_time: 
   uri: 
 - date: 2019-05-21
@@ -594,7 +659,7 @@
   uri: 
 - date: 2019-05-21
   time: 
-  title: "？時？分(夜頃)～ 瀬戸美夜子 at:YouTube? 第24回「にじさんじMIX UP!!」感想会"
+  title: "？時？分(夜)～ 本間ひまわり＆葛葉＆社築 at:? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-20
