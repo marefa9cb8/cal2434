@@ -184,7 +184,7 @@
   time:
     hour: 23
     min: 0
-  title: "モイラ＆？？？ at:モイラのYouTubeチャンネル"
+  title: "モイラ＆宇志海いちご＆鷹宮リオン＆でびでび・でびる＆高生紳士 at:モイラのYouTubeチャンネル クトゥルフ神話TRPG「ハロー、ヴィータ」"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -235,6 +235,13 @@
     hour: 20
     min: 0
   title: "(仮) にじさんじドリクラーズ(名伽尾アズマ＆花畑チャイカ＆社築＆舞元啓介＆夢追翔) at:YouTube ドリームクラブ"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 20
+    min: 0
+  title: "卯月コウ at:YouTube ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -334,6 +341,11 @@
   end_time: 
   uri: 
 - date: 2019-05-23
+  time: 
+  title: "？時？分(深夜)～ でびでび・でびる at:YouTube スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-05-23
   time:
     hour: 13
     min: 0
@@ -379,7 +391,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube 誕生日配信 ※Twitterネームより"
+  title: "森中花咲 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -545,6 +557,13 @@
   uri: 
 - date: 2019-05-22
   time:
+    hour: 15
+    min: 4
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
     hour: 17
     min: 0
   title: "瀬戸美夜子 at:YouTube Mother Simulator"
@@ -673,7 +692,7 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 「ラブライブ！(1・2話)」同時視聴"
+  title: "雪城眞尋 at:YouTube 「ラブライブ！(1・2話)」同時視聴 ※中止"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -709,6 +728,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube シャンプーASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube 恋愛相談"
   end_time: 
   uri: 
 - date: 2019-05-22
