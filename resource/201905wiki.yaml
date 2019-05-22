@@ -335,14 +335,30 @@
   uri: 
 - date: 2019-05-23
   time:
-    hour: 1
+    hour: 0
     min: 0
-  title: "椎名唯華 at:YouTube スーパーマリオメーカー"
+  title: "でびでび・でびる at:YouTube スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-05-23
-  time: 
-  title: "？時？分(深夜)～ でびでび・でびる at:YouTube スーパーマリオブラザーズ3"
+  time:
+    hour: 0
+    min: 30
+  title: "鷹宮リオン at:？"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 0
+    min: 30
+  title: "久遠千歳 at:YouTube しょぼんのアクション"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube スーパーマリオメーカー ※中止"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -462,6 +478,11 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time: 
+  title: "？時？分(夜・仮)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -622,6 +643,13 @@
   time:
     hour: 19
     min: 0
+  title: "瀬戸美夜子 at:YouTube The Forest"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 19
+    min: 0
   title: "三枝明那 at:YouTube Shadowverse"
   end_time: 
   uri: 
@@ -629,14 +657,28 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:? PUBG"
+  title: "渋谷ハジメ＆渋谷ハル＆花芽すみれ＆花芽なずな at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-22
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:bilibili 歌(米津玄師) ※予定表より"
+  title: "物述有栖 at:YouTube プレミア公開 【つよつよ喉で】おすすめアイテム【叫び放題】"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:bilibili 歌(米津玄師)"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 20
+    min: 0
+  title: "卯月コウ at:YouTube ポケモンアートアカデミー"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -678,7 +720,14 @@
   time:
     hour: 22
     min: 0
-  title: "鈴鹿詩子＆本間ひまわり＆ドーラ＆竜胆尊 at:各々のYouTubeチャンネル UNO"
+  title: "鈴鹿詩子＆本間ひまわり＆ドーラ＆竜胆尊 at:鈴鹿詩子、本間ひまわり、竜胆尊のYouTubeチャンネル UNO"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 22
+    min: 0
+  title: "郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -700,6 +749,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube 殺戮の天使"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -743,13 +799,6 @@
     min: 30
   title: "成瀬鳴＆あっくん大魔王＆瀬戸あさひ＆錦山夢鷹＆声劇担当：朝ノ瑠璃＆由宇霧＆審査員：舞元啓介＆Icotsu＆インサイドちゃんMK2 at:ふくやマスターのYouTubeチャンネル
     Vtuber童貞王選手権"
-  end_time: 
-  uri: 
-- date: 2019-05-22
-  time:
-    hour: 20
-    min: 0
-  title: or21時00分～ 郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-
   end_time: 
   uri: 
 - date: 2019-05-22
