@@ -335,7 +335,7 @@
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:? 雑談 ※予定表より"
+  title: "緑仙 at:YouTube(サブ) 雑談"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -343,13 +343,6 @@
     hour: 0
     min: 0
   title: "でびでび・でびる at:YouTube スーパーマリオブラザーズ3"
-  end_time: 
-  uri: 
-- date: 2019-05-23
-  time:
-    hour: 0
-    min: 30
-  title: "鷹宮リオン at:？"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -370,7 +363,35 @@
   time:
     hour: 1
     min: 30
-  title: "でびでび・でびる＆夢月ロア at:? Minecraft"
+  title: "でびでび・でびる＆夢月ロア at:でびでび・でびるのYouTube(2nd)のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 1
+    min: 30
+  title: "リゼ・ヘルエスタ&アンジュ・カトリーナ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 2
+    min: 0
+  title: "名伽尾アズマ at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 0
+    min: 30
+  title: 02時30分～ 叶＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル ※配信時間変更 Dead by Daylight
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -490,6 +511,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 23
+    min: 0
+  title: "ジョー・力一 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -746,13 +774,6 @@
   time:
     hour: 22
     min: 0
-  title: "郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
-  end_time: 
-  uri: 
-- date: 2019-05-22
-  time:
-    hour: 22
-    min: 0
   title: "鈴原るる at:YouTube スーパードンキーコング2"
   end_time: 
   uri: 
@@ -815,14 +836,23 @@
 - date: 2019-05-22
   time:
     hour: 23
-    min: 30
-  title: "成瀬鳴＆あっくん大魔王＆瀬戸あさひ＆錦山夢鷹＆声劇担当：朝ノ瑠璃＆由宇霧＆審査員：舞元啓介＆Icotsu＆インサイドちゃんMK2 at:ふくやマスターのYouTubeチャンネル
-    Vtuber童貞王選手権"
+    min: 0
+  title: "愛園愛美 at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-05-22
-  time: 
-  title: "？時？分(夜・仮)～ 愛園愛美 at:YouTube 歌"
+  time:
+    hour: 22
+    min: 0
+  title: 23時20分～ 郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 30
+  title: "成瀬鳴＆あっくん大魔王＆瀬戸あさひ＆錦山夢鷹＆声劇担当：朝ノ瑠璃＆由宇霧＆審査員：舞元啓介＆Icotsu＆インサイドちゃんMK2 at:ふくやマスターのYouTubeチャンネル
+    Vtuber童貞王選手権"
   end_time: 
   uri: 
 - date: 2019-05-21
