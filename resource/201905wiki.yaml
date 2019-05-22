@@ -96,6 +96,11 @@
   title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
+- date: 2019-05-26
+  time: 
+  title: "？時？時～ JK組(月ノ美兎＆樋口楓＆静凛) at:? Apex Legends(バイノーラル) ※05/22配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-05-25
   time:
     hour: 0
@@ -227,7 +232,7 @@
   time:
     hour: 20
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル バイノーラル料理配信(カップリングパンケーキ作り)
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -351,7 +356,7 @@
   time:
     hour: 0
     min: 30
-  title: "久遠千歳 at:YouTube しょぼんのアクション"
+  title: "久遠千歳 at:YouTube しょぼんのアクション2"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -359,6 +364,13 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 1
+    min: 30
+  title: "でびでび・でびる＆夢月ロア at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -457,6 +469,13 @@
     hour: 22
     min: 0
   title: "轟京子 at:YouTube moon"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 卯月コウ at:YouTube 24日対策会議"
   end_time: 
   uri: 
 - date: 2019-05-23
