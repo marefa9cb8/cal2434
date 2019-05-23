@@ -232,7 +232,7 @@
   time:
     hour: 20
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル バイノーラル料理配信(カップリングパンケーキ作り)
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル 料理(バイノーラル・カップリングパンケーキ作り)
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -328,7 +328,7 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube Wild Animal Sports Day"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -363,14 +363,21 @@
   time:
     hour: 1
     min: 30
-  title: "でびでび・でびる＆夢月ロア at:でびでび・でびるのYouTube(2nd)のYouTubeチャンネル Minecraft"
+  title: "あくまどーじょー(でびでび・でびる＆夢月ロア) at:でびでび・でびるのYouTube(2nd)のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-23
   time:
     hour: 1
     min: 30
-  title: "リゼ・ヘルエスタ&アンジュ・カトリーナ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 1
+    min: 30
+  title: "鈴原るる at:YouTube スーパードンキーコング2"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -389,9 +396,30 @@
   uri: 
 - date: 2019-05-23
   time:
-    hour: 0
-    min: 30
-  title: 02時30分～ 叶＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル ※配信時間変更 Dead by Daylight
+    hour: 2
+    min: 11
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 2
+    min: 34
+  title: "叶＆鷹宮リオン at:鷹宮リオンのYouTubeチャンネル Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 3
+    min: 53
+  title: "安土桃 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #20"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -399,6 +427,13 @@
     hour: 13
     min: 0
   title: "安土桃 at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 14
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -413,6 +448,13 @@
     hour: 17
     min: 0
   title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 17
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 俺の屍を超えてゆけ"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -795,7 +837,7 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -809,7 +851,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:YouTube 歌(VOCALOID) ※予定表より"
+  title: "緑仙 at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
 - date: 2019-05-22
@@ -838,6 +880,13 @@
     hour: 23
     min: 0
   title: "愛園愛美 at:YouTube Ib"
+  end_time: 
+  uri: 
+- date: 2019-05-22
+  time:
+    hour: 23
+    min: 19
+  title: "雪城眞尋 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-05-22
