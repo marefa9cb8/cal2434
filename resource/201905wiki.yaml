@@ -209,7 +209,7 @@
   uri: 
 - date: 2019-05-25
   time: 
-  title: "？時？分(仮)～ 町田ちま at:YouTube Minecraft"
+  title: "？時？分～ 町田ちま at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -237,7 +237,14 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube steamゲーム検索"
+  title: "椎名唯華 at:YouTube steamゲーム検索 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 1
+    min: 0
+  title: "舞元啓介 at:YouTube テイルズ オブ ファンタジア(プレイステーション版)"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -245,11 +252,6 @@
     hour: 2
     min: 0
   title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
-  end_time: 
-  uri: 
-- date: 2019-05-24
-  time: 
-  title: "？時？分(深夜)～ 舞元啓介 at:YouTube テイルズ オブ ファンタジア(プレイステーション版)"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -376,11 +378,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-05-24
-  time: 
-  title: "？時？分(仮)～ 町田ちま at:YouTube 歌?"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -574,7 +571,14 @@
   time:
     hour: 19
     min: 0
-  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴 ※リマインダーより"
+  title: "町田ちま＆皆守ひいろ＆星月せい＆天城てん at:皆守ひいろのYouTubeチャンネル プレミア公開 【Human: Fall Flat】４人でどったんばったん脱出劇！！【#みなまちせいてん】"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -582,6 +586,13 @@
     hour: 19
     min: 0
   title: "エクス・アルビオ at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 19
+    min: 30
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -595,21 +606,21 @@
   time:
     hour: 20
     min: 0
-  title: "椎名唯華 at:YouTube スーパーマリオメーカー"
+  title: "椎名唯華 at:YouTube スーパーマリオメーカー ※中止"
   end_time: 
   uri: 
 - date: 2019-05-23
   time:
     hour: 20
     min: 30
-  title: "える at:YouTube ※Twitterプロフィール欄より"
+  title: "葛葉 at:YouTube Black Survival"
   end_time: 
   uri: 
 - date: 2019-05-23
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube ニーア オートマタ"
+  title: "える at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -630,7 +641,14 @@
   time:
     hour: 21
     min: 0
-  title: "雪城眞尋 at:YouTube 歌(ラブライブ！縛り) ※内容変更の可能性あり"
+  title: "雪城眞尋 at:YouTube 歌(ラブライブ！縛り)"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 21
+    min: 10
+  title: "叶 at:YouTube ニーア オートマタ"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -658,7 +676,7 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube moon"
+  title: "轟京子 at:YouTube moon ※中止"
   end_time: 
   uri: 
 - date: 2019-05-23
@@ -673,6 +691,13 @@
     hour: 22
     min: 0
   title: "小野町春香 at:YouTube Getting Over It ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-23
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube 恋愛相談(未完分)"
   end_time: 
   uri: 
 - date: 2019-05-23
