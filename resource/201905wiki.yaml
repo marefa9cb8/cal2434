@@ -143,6 +143,13 @@
   time:
     hour: 0
     min: 0
+  title: "郡道美玲 at:YouTube 9万人記念、マシュマロ返答、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 0
+    min: 0
   title: "雪城眞尋 at:YouTube Minecraft ※"
   end_time: 
   uri: 
@@ -192,7 +199,7 @@
   time:
     hour: 20
     min: 0
-  title: "にじさんじ声劇部 春公演 at:鈴木勝のYouTube(2nd)チャンネル ※鈴木勝予定表①・②・リマインダー、緑仙予定表より"
+  title: "にじさんじ声劇部 春公演 at:鈴木勝のYouTube(2nd)チャンネル"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -331,6 +338,20 @@
   uri: 
 - date: 2019-05-24
   time:
+    hour: 14
+    min: 22
+  title: "渋谷ハジメ at:YouTube Trials Fusion"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 14
+    min: 33
+  title: "御伽原江良 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube ドキドキ文芸部！"
@@ -348,6 +369,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 19
+    min: 0
+  title: "久遠千歳 at:YouTube しょぼんのアクション2"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -489,6 +517,18 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 23
+    min: 30
+  title: "リゼ・ヘルエスタ at:YouTube 誕生日記念"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time: 
+  title: "？時？分(夕方・仮)～ でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-05-24
