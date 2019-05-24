@@ -155,6 +155,18 @@
   uri: 
 - date: 2019-05-25
   time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube マシュマロ返答、DARK SOULS III?"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time: 
+  title: "？時？分(深夜)～ 葛葉 at:YouTube 雑談、作戦会議"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
     hour: 10
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
@@ -394,6 +406,20 @@
   uri: 
 - date: 2019-05-24
   time:
+    hour: 19
+    min: 2
+  title: "夢月ロア at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
     hour: 20
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:モイラのYouTubeチャンネル 料理(バイノーラル・カップリングパンケーキ作り)
@@ -458,6 +484,13 @@
 - date: 2019-05-24
   time:
     hour: 21
+    min: 0
+  title: "町田ちま at:YouTube 雑談の練習"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -482,6 +515,13 @@
     hour: 22
     min: 0
   title: "ヒモと財布(遠北千南＆矢車りね) at:遠北千南のYouTubeチャンネル ユニバーサル・スタジオ・ジャパン感想会"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 22
+    min: 0
+  title: "成瀬鳴 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -516,7 +556,21 @@
   time:
     hour: 23
     min: 0
+  title: "神田笑一 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 23
+    min: 0
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -538,11 +592,6 @@
     hour: 21
     min: 0
   title: "-23時00分頃(仮)～ 闇夜乃モルル at:? 雑談"
-  end_time: 
-  uri: 
-- date: 2019-05-24
-  time: 
-  title: "？時？分～ 成瀬鳴 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-05-24
