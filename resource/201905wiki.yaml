@@ -340,7 +340,7 @@
   time:
     hour: 14
     min: 22
-  title: "渋谷ハジメ at:YouTube Trials Fusion"
+  title: "渋谷ハジメ at:YouTube Trials Fusion、Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -348,6 +348,13 @@
     hour: 14
     min: 33
   title: "御伽原江良 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 17
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -527,8 +534,10 @@
   end_time: 
   uri: 
 - date: 2019-05-24
-  time: 
-  title: "？時？分(夕方・仮)～ でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
+  time:
+    hour: 21
+    min: 0
+  title: "-23時00分頃(仮)～ 闇夜乃モルル at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-05-24
