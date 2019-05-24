@@ -150,7 +150,7 @@
   time:
     hour: 0
     min: 0
-  title: "雪城眞尋 at:YouTube Minecraft ※"
+  title: "雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -161,8 +161,29 @@
   end_time: 
   uri: 
 - date: 2019-05-25
+  time:
+    hour: 1
+    min: 0
+  title: "緑仙 at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 1
+    min: 0
+  title: "久遠千歳 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-25
   time: 
   title: "？時？分(深夜)～ 葛葉 at:YouTube 雑談、作戦会議"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 8
+    min: 0
+  title: "瀬戸美夜子 at:YouTube The Forest"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -218,7 +239,7 @@
   time:
     hour: 21
     min: 30
-  title: "?～ 鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #9"
+  title: "鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #9"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -232,7 +253,14 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube ゲーム(視聴者参加型)"
+  title: "文野環＆雪城眞尋 at:文野環のYouTubeチャンネル 雑談、相互質問、お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 22
+    min: 0
+  title: "がぶりえら(童田明治＆御伽原江良) at:両名のYouTubeチャンネル Portal 2"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -464,7 +492,7 @@
   time:
     hour: 21
     min: 0
-  title: "静凛 at:bilibili 登録者10万人記念"
+  title: "静凛 at:bilibili bilibili登録者10万人記念"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -485,14 +513,14 @@
   time:
     hour: 21
     min: 0
-  title: "町田ちま at:YouTube 雑談の練習"
+  title: "町田ちま at:YouTube 雑談練習"
   end_time: 
   uri: 
 - date: 2019-05-24
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Semblance、雑談"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -535,7 +563,14 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 歌(VOCALOID縛り) or 自己紹介企画 ※"
+  title: "雪城眞尋 at:YouTube 歌(VOCALOID縛り) or 自己紹介企画 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 22
+    min: 0
+  title: "バーチャルゴリラ＆乾伸一郎 at:バーチャルゴリラのYouTubeチャンネル 歌うよ！メゾン・ド・ゴリラ前夜祭(Apex Legends)"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -547,16 +582,23 @@
   uri: 
 - date: 2019-05-24
   time:
-    hour: 23
-    min: 0
-  title: "出雲霞 at:YouTube 寝かしつけ"
+    hour: 22
+    min: 30
+  title: "闇夜乃モルル at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 22
+    min: 36
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-24
   time:
     hour: 23
     min: 0
-  title: "神田笑一 at:YouTube"
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -576,8 +618,22 @@
 - date: 2019-05-24
   time:
     hour: 23
+    min: 0
+  title: 15分～ 出雲霞 at:YouTube 寝かしつけ
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-24
+  time:
+    hour: 23
+    min: 30
+  title: "黒井しば at:YouTube Kato"
   end_time: 
   uri: 
 - date: 2019-05-24
@@ -588,15 +644,8 @@
   end_time: 
   uri: 
 - date: 2019-05-24
-  time:
-    hour: 21
-    min: 0
-  title: "-23時00分頃(仮)～ 闇夜乃モルル at:? 雑談"
-  end_time: 
-  uri: 
-- date: 2019-05-24
   time: 
-  title: "？時？分～ 三枝明那 at:YouTube"
+  title: "？時？分～ 三枝明那 at:YouTube ※延期"
   end_time: 
   uri: 
 - date: 2019-05-23
