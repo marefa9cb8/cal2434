@@ -206,7 +206,7 @@
   time:
     hour: 7
     min: 0
-  title: "久遠千歳 at:YouTube ねぼけまなこ #4"
+  title: '50分～ 久遠千歳 at:YouTube ねぼけまなこ #4'
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -214,6 +214,13 @@
     hour: 8
     min: 0
   title: "瀬戸美夜子 at:YouTube The Forest"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 8
+    min: 8
+  title: "御伽原江良 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -256,11 +263,6 @@
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 遙かなる時空の中で6"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time: 
-  title: "？時？分(朝)～ 御伽原江良 at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-05-25
