@@ -36,6 +36,13 @@
   end_time: 
   uri: 
 - date: 2019-05-27
+  time:
+    hour: 19
+    min: 30
+  title: "緑仙 at:YouTube プレミア公開 妄想感傷代償連盟 / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-05-27
   time: 
   title: "？時？分～ える＆？？？ at:? TETRIS 99? ※Twitterプロフィール欄より"
   end_time: 
@@ -122,6 +129,14 @@
   uri: 
 - date: 2019-05-26
   time:
+    hour: 22
+    min: 0
+  title: "雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん at:紙木絹のYouTubeチャンネル
+    レジスタンス・アヴァロン ver.2"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
     hour: 23
     min: 0
   title: "(仮)～ 笹木咲 at:YouTube"
@@ -195,7 +210,7 @@
   time:
     hour: 1
     min: 0
-  title: "緑仙 at:YouTube(メイン) 近況報告"
+  title: "緑仙 at:YouTube 近況報告"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -314,7 +329,14 @@
   time:
     hour: 15
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "夕陽リリ at:YouTube ゾンビーズマンション"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 15
+    min: 54
+  title: "闇夜乃モルル at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -326,9 +348,23 @@
   uri: 
 - date: 2019-05-25
   time:
+    hour: 16
+    min: 0
+  title: "渋谷ハジメ at:YouTube League of Legends ※15時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 17
+    min: 0
+  title: "愛園愛美 at:YouTube ちびロボ!"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -342,21 +378,14 @@
   time:
     hour: 19
     min: 0
-  title: "月ノ美兎 at:YouTube"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-25
   time:
     hour: 19
-    min: 0
-  title: "森中花咲 at:YouTube おしゃぶり"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time:
-    hour: 20
-    min: 0
-  title: "シスター・クレア＆さくらみこ＆天神子兎音 at:REALITY 第2回 神々さみっと"
+    min: 30
+  title: "月ノ美兎 at:YouTube ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -364,6 +393,13 @@
     hour: 20
     min: 0
   title: "にじさんじ声劇部 春公演 at:鈴木勝のYouTube(2nd)チャンネル"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア＆さくらみこ＆天神子兎音 at:REALITY 第2回 神々さみっと"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -392,6 +428,13 @@
     hour: 22
     min: 0
   title: "文野環＆雪城眞尋 at:文野環のYouTubeチャンネル 雑談、相互質問、お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 22
+    min: 0
+  title: "?～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -432,11 +475,6 @@
 - date: 2019-05-25
   time: 
   title: "？時？分(仮)～ 轟京子 at:YouTube お絵描き"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time: 
-  title: "？時？分～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-25
