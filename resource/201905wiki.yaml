@@ -38,6 +38,13 @@
 - date: 2019-05-27
   time:
     hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 19
     min: 30
   title: "緑仙 at:YouTube プレミア公開 妄想感傷代償連盟 / 緑仙 (Cover)"
   end_time: 
@@ -68,6 +75,13 @@
   uri: 
 - date: 2019-05-26
   time:
+    hour: 0
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
@@ -75,9 +89,14 @@
   uri: 
 - date: 2019-05-26
   time:
-    hour: 0
-    min: 0
+    hour: 1
+    min: 30
   title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time: 
+  title: "？時？分(深夜)～ 久遠千歳 at:YouTube しょぼんのアクション2"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -85,6 +104,20 @@
     hour: 6
     min: 30
   title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 9
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 12
+    min: 0
+  title: "家長むぎ at:YouTube 料理"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -115,6 +148,20 @@
   uri: 
 - date: 2019-05-26
   time:
+    hour: 18
+    min: 0
+  title: "卯月コウ at:YouTube ポケットモンスター ハートゴールド・ソウルシルバー 金ネジキ挑戦 ※25日配信内で告知"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 18
+    min: 0
+  title: "久遠千歳 at:YouTube しょぼんのアクション2"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
     hour: 20
     min: 0
   title: "夕陽リリ at:YouTube Wild Animal Sports Day? ※リマインダー予定表より"
@@ -124,7 +171,28 @@
   time:
     hour: 20
     min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 20
+    min: 0
   title: "轟京子 at:YouTube LOKI's COORDINATE"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube プレミア公開 【歌ってみた】赤い罠(who loves it?) / LiSA【樋口楓cover】"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -145,22 +213,8 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-05-26
-  time:
-    hour: 22
-    min: 0
   title: "雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん at:紙木絹のYouTubeチャンネル
     レジスタンス・アヴァロン ver.2"
-  end_time: 
-  uri: 
-- date: 2019-05-26
-  time:
-    hour: 23
-    min: 0
-  title: "(仮)～ 笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -420,7 +474,7 @@
   time:
     hour: 20
     min: 0
-  title: "叶 at:YouTube TheHOUSE"
+  title: "叶 at:YouTube TheHOUSE、TheHOUSE 2"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -447,8 +501,22 @@
 - date: 2019-05-25
   time:
     hour: 21
+    min: 15
+  title: "にじさんじ声劇部 at:鈴木勝のYouTube(2nd)チャンネル にじさんじ声劇部 春公演 感想会"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #9"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 21
+    min: 35
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -456,20 +524,6 @@
     hour: 22
     min: 0
   title: "渋谷ハジメ＆ふくやマスター＆白百合リリィ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル PUBG"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time:
-    hour: 22
-    min: 0
-  title: "文野環＆雪城眞尋 at:文野環のYouTubeチャンネル 雑談、相互質問、お悩み相談"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time:
-    hour: 22
-    min: 0
-  title: "?～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -495,6 +549,13 @@
   uri: 
 - date: 2019-05-25
   time:
+    hour: 22
+    min: 0
+  title: 23分～ 文野環＆雪城眞尋 at:文野環雪城眞尋のYouTubeチャンネル 雑談、相互質問、お悩み相談 ※配信場所変更
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
     hour: 23
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -511,14 +572,21 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:YouTube Splitgate: Arena Warfare"
+  title: "竜胆尊 at:YouTube ポケットモンスター オメガルビー"
   end_time: 
   uri: 
 - date: 2019-05-25
   time:
     hour: 23
     min: 0
-  title: "レヴィ・エリファ at:YouTube"
+  title: 11分～ レヴィ・エリファ at:YouTube 雑談、早口言葉
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube Splitgate: Arena Warfare ※延期"
   end_time: 
   uri: 
 - date: 2019-05-25
