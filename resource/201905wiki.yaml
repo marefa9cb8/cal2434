@@ -56,7 +56,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -265,7 +265,14 @@
   time:
     hour: 13
     min: 0
-  title: "うさちゃんクラブwithB(神田笑一＆春崎エアル＆郡道美玲＆夢月ロア) at:?"
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 13
+    min: 0
+  title: "うさちゃんクラブwithB(神田笑一＆春崎エアル＆郡道美玲＆夢月ロア) at:神田笑一、春崎エアル、郡道美玲のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -277,16 +284,30 @@
   uri: 
 - date: 2019-05-25
   time:
+    hour: 13
+    min: 14
+  title: "緑仙 at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
     hour: 14
     min: 0
-  title: "叶 at:? ※"
+  title: "叶 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-25
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ プリン(orゼリー系)"
+  title: "エクス・アルビオ at:YouTube DARK SOULS III"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 14
+    min: 30
+  title: 43分～ 出雲霞 at:YouTube 昼やスミ プリン(orゼリー系)
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -328,7 +349,7 @@
   time:
     hour: 19
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube おしゃぶり"
   end_time: 
   uri: 
 - date: 2019-05-25
@@ -378,6 +399,13 @@
     hour: 22
     min: 0
   title: "がぶりえら(童田明治＆御伽原江良) at:両名のYouTubeチャンネル Portal 2"
+  end_time: 
+  uri: 
+- date: 2019-05-25
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキーコング2 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-25
