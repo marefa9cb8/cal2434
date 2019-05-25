@@ -72,6 +72,13 @@
   end_time: 
   uri: 
 - date: 2019-05-27
+  time:
+    hour: 23
+    min: 10
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：鷹宮リオン＆でびでび・でびる at:花畑チャイカのYouTubeチャンネル？
+  end_time: 
+  uri: 
+- date: 2019-05-27
   time: 
   title: "？時？分～ える＆？？？ at:? TETRIS 99? ※Twitterプロフィール欄より"
   end_time: 
@@ -140,7 +147,7 @@
 - date: 2019-05-26
   time:
     hour: 3
-    min: 0
+    min: 12
   title: "夢月ロア at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
@@ -197,7 +204,7 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆矢車りね at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -316,11 +323,6 @@
     hour: 23
     min: 30
   title: "勇気ちひろ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-05-26
-  time: 
-  title: "？時？分～ 闇夜乃モルル＆？？？ at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-26
