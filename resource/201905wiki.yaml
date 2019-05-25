@@ -3,7 +3,14 @@
   time:
     hour: 22
     min: 0
-  title: "(仮) 名伽尾アズマ at:YouTube ※引退配信"
+  title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ がぶりえら(童田明治＆御伽原江良) at:両名のYouTubeチャンネル? Portal 2"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -27,12 +34,27 @@
   uri: 
 - date: 2019-05-29
   time: 
+  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time: 
   title: "？時？分～ 名伽尾アズマ＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-05-28
   time: 
+  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time: 
   title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time: 
+  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -90,13 +112,36 @@
 - date: 2019-05-26
   time:
     hour: 1
-    min: 30
-  title: "雨森小夜 at:YouTube"
+    min: 11
+  title: "渋谷ハジメ＆渋谷ハル＆あっくん大魔王 at:渋谷ハルのYouTubeチャンネル XERA: Survival"
   end_time: 
   uri: 
 - date: 2019-05-26
-  time: 
-  title: "？時？分(深夜)～ 久遠千歳 at:YouTube しょぼんのアクション2"
+  time:
+    hour: 1
+    min: 15
+  title: "久遠千歳 at:YouTube しょぼんのアクション2 ※2時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 1
+    min: 40
+  title: "雨森小夜 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 2
+    min: 3
+  title: "郡道美玲 at:ツイキャス 掃除"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 3
+    min: 0
+  title: "夢月ロア at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -104,6 +149,20 @@
     hour: 6
     min: 30
   title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 7
+    min: 30
+  title: "御伽原江良 at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 9
+    min: 0
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -213,6 +272,13 @@
   time:
     hour: 22
     min: 0
+  title: "鈴原るる at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 22
+    min: 0
   title: "雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん at:紙木絹のYouTubeチャンネル
     レジスタンス・アヴァロン ver.2"
   end_time: 
@@ -228,7 +294,21 @@
   time:
     hour: 23
     min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -246,6 +326,11 @@
 - date: 2019-05-26
   time: 
   title: "？時？分～ 神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time: 
+  title: "？時？分～ でびでび・でびる＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -587,11 +672,6 @@
     hour: 23
     min: 0
   title: "叶 at:YouTube Splitgate: Arena Warfare ※延期"
-  end_time: 
-  uri: 
-- date: 2019-05-25
-  time: 
-  title: "？時？分(仮)～ 轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-05-24
