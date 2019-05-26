@@ -80,7 +80,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube Animal Fight Club"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -88,6 +88,13 @@
     hour: 0
     min: 0
   title: "花畑チャイカ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 0
+    min: 40
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -106,14 +113,49 @@
   uri: 
 - date: 2019-05-27
   time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 2
+    min: 30
+  title: "レヴィ・エリファ at:YouTube Gellerman"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ パン"
   end_time: 
   uri: 
 - date: 2019-05-27
+  time:
+    hour: 13
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 14
+    min: 30
+  title: "町田ちま at:YouTube お絵描き ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-27
   time: 
   title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -132,6 +174,20 @@
   uri: 
 - date: 2019-05-27
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆葛葉 at:YouTube XERA: Survival"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
     hour: 21
     min: 0
   title: "御伽原江良＆魔王マグロナ＆犬山たまき＆兎鞠まり at:兎鞠まりのYouTubeチャンネル Tricky Towers"
@@ -141,7 +197,35 @@
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube ※Twitterネームより"
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ ※Twitterネーム＆リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆える＆鈴鹿詩子＆竜胆尊 at:? TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 映画予定表 6月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -156,11 +240,6 @@
     hour: 23
     min: 10
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：でびリオン(鷹宮リオン＆でびでび・でびる) at:花畑チャイカのYouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2019-05-27
-  time: 
-  title: "？時？分～ える＆？？？ at:? TETRIS 99? ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-05-27
