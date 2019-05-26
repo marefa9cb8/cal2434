@@ -99,6 +99,13 @@
   uri: 
 - date: 2019-05-27
   time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #14"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ パン"
@@ -308,7 +315,7 @@
   time:
     hour: 15
     min: 0
-  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV"
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -434,14 +441,14 @@
   time:
     hour: 21
     min: 0
-  title: "夢月ロア at:YouTube ファイナルファンタジーXIV"
+  title: "さんばか(戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:戌亥とこのYouTubeチャンネル #さんばかinAmazon振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-05-26
   time:
     hour: 21
-    min: 0
-  title: "さんばか(戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:戌亥とこのYouTubeチャンネル #さんばかinAmazon振り返り雑談"
+    min: 12
+  title: "夢月ロア at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -455,7 +462,14 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #28"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:勇気ちひろのYouTubeチャンネル まほすずラジオ #28"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 22
+    min: 0
+  title: "宇志海いちご＆日ノ隈らん＆神楽めあ at:日ノ隈らんのYouTubeチャンネル おえかきの森 画伯選手権"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -476,15 +490,22 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん at:紙木絹のYouTubeチャンネル
-    レジスタンス・アヴァロン ver.2"
+  title: "雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん＆紙木絹 at:紙木絹のYouTubeチャンネル
+    レジスタンス・アヴァロン 第2部"
+  end_time: 
+  uri: 
+- date: 2019-05-26
+  time:
+    hour: 22
+    min: 13
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-26
   time:
     hour: 23
     min: 0
-  title: "叶 at:YouTube TheHOUSE 3、雑談"
+  title: "叶 at:YouTube TheHOUSE 3、うさぎパズル、雑談"
   end_time: 
   uri: 
 - date: 2019-05-26
@@ -498,13 +519,13 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-05-26
   time:
     hour: 23
-    min: 0
+    min: 15
   title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
@@ -512,7 +533,7 @@
   time:
     hour: 23
     min: 30
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-26

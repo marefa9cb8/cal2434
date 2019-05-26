@@ -98,6 +98,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190527T010000
+SUMMARY:ジョー・力一 at:YouTube りきいちファーム #14
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190527T064500
 SUMMARY:伏見ガク at:YouTube おはガク！ パン
 URL:
@@ -285,7 +291,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T150000
-SUMMARY:神田笑一＆郡道美玲 at:両名のYouTubeチャンネル? ファイナルファンタジーXIV
+SUMMARY:神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -393,13 +399,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T210000
-SUMMARY:夢月ロア at:YouTube ファイナルファンタジーXIV
+SUMMARY:さんばか(戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:戌亥とこのYouTubeチャンネル #さんばかinAmazon振り返り雑談
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190526T210000
-SUMMARY:さんばか(戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:戌亥とこのYouTubeチャンネル #さんばかinAmazon振り返り雑談
+DTSTART;TZID=Asia/Tokyo:20190526T211200
+SUMMARY:夢月ロア at:YouTube ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -411,7 +417,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T220000
-SUMMARY:勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #28
+SUMMARY:まほすず(勇気ちひろ＆鈴谷アキ) at:勇気ちひろのYouTubeチャンネル まほすずラジオ #28
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190526T220000
+SUMMARY:宇志海いちご＆日ノ隈らん＆神楽めあ at:日ノ隈らんのYouTubeチャンネル おえかきの森 画伯選手権
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -429,13 +441,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T220000
-SUMMARY:雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん at:紙木絹のYouTubeチャンネル レジスタンス・アヴァロン ver.2
+SUMMARY:雪城眞尋＆ゆにゆにこ＆真白くま＆宗谷いちか＆双理マイ＆響木アオ＆大空スバル＆夜空メル＆ユキミお姉ちゃん＆紙木絹 at:紙木絹のYouTubeチャンネル レジスタンス・アヴァロン 第2部
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190526T221300
+SUMMARY:神田笑一＆郡道美玲 at:両名のYouTubeチャンネル ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T230000
-SUMMARY:叶 at:YouTube TheHOUSE 3、雑談
+SUMMARY:叶 at:YouTube TheHOUSE 3、うさぎパズル、雑談
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -447,19 +465,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T230000
-SUMMARY:矢車りね at:YouTube
+SUMMARY:矢車りね at:YouTube ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190526T230000
+DTSTART;TZID=Asia/Tokyo:20190526T231500
 SUMMARY:鈴原るる at:YouTube 悪魔城ドラキュラ
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190526T233000
-SUMMARY:勇気ちひろ at:YouTube Minecraft
+SUMMARY:まほすず(勇気ちひろ＆鈴谷アキ) at:両名のYouTubeチャンネル Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
