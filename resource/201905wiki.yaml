@@ -161,6 +161,11 @@
   end_time: 
   uri: 
 - date: 2019-05-28
+  time: 
+  title: "？時？分(コラボ後・仮)～ 郡道美玲 at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-28
   time:
     hour: 12
     min: 0
@@ -191,6 +196,11 @@
 - date: 2019-05-28
   time: 
   title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time: 
+  title: "？時？分～ 矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -330,7 +340,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube"
+  title: "森中花咲 at:YouTube Kinect: ディズニーランド・アドベンチャーズ"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -358,14 +368,21 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル プレミア公開 革命デュアリズム"
+  title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル プレミア公開 革命デュアリズム ／ Cover.渋谷ハジメ&朝ノ瑠璃"
   end_time: 
   uri: 
 - date: 2019-05-27
   time:
     hour: 21
     min: 0
-  title: "叶 at:OPENREC.tv? シノビリフレ -SENRAN KAGURA-"
+  title: "文野環 at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:OPENREC.tv シノビリフレ -SENRAN KAGURA-"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -422,6 +439,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 22
+    min: 30
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-27
