@@ -8,6 +8,13 @@
   uri: 
 - date: 2019-05-31
   time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 月乃 / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
     hour: 22
     min: 0
   title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
@@ -21,15 +28,29 @@
   end_time: 
   uri: 
 - date: 2019-05-31
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-05-31
   time: 
   title: "？時？分～ 森中花咲＆？？？ at:森中花咲のYouTubeチャンネル オトナ花咲の悪いコNight ※5月26日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆犬山たまき at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube UNDERTALE"
+  title: "桜凛月 at:YouTube Undertale"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -37,6 +58,13 @@
     hour: 22
     min: 0
   title: "剣持軍：える＆剣持刀也＆竜胆尊＆物述軍：勇気ちひろ＆物述有栖＆ドーラ at:YouTube 因縁のテトリスデスマッチ"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 22
+    min: 0
+  title: "癒月ちょこ＆ゲスト：家長むぎ at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -56,9 +84,23 @@
   title: "？時？分～ 緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権 ※配信日：緑仙予定表より"
   end_time: 
   uri: 
-- date: 2019-05-29
+- date: 2019-05-30
   time: 
-  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  title: "？時？分～ 小野町春香＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読「蜜柑/トロッコ」 ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆宗谷いちか＆癒月ちょこ at:?"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -83,13 +125,67 @@
   end_time: 
   uri: 
 - date: 2019-05-29
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-05-29
   time: 
   title: "？時？分～ 名伽尾アズマ＆？？？ at:?"
   end_time: 
   uri: 
-- date: 2019-05-28
+- date: 2019-05-29
   time: 
-  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  title: "？時？分～ 町田ちま at:YouTube 歌(アイドル縛り)"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time: 
+  title: "？時？分～ 町田ちま at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 0
+    min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆夏色まつり＆癒月ちょこ＆犬山たまき at:犬山たまきのYouTubeチャンネル 極限テトリス大会！お〇っこ我慢バトル"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆宗谷いちか＆癒月ちょこ at:?"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 14
+    min: 0
+  title: "町田ちま at:YouTube Minecraft ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 22
+    min: 0
+  title: "でびでび・でびる＆犬山たまき at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -171,14 +267,14 @@
   time:
     hour: 15
     min: 0
-  title: "渋谷ハジメ at:YouTube PUBG ※13時から時間変更"
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-27
   time:
     hour: 15
-    min: 0
-  title: "シスター・クレア at:YouTube Minecraft"
+    min: 27
+  title: "渋谷ハジメ at:YouTube PUBG ※13時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -206,7 +302,14 @@
   time:
     hour: 19
     min: 0
-  title: "三枝明那 at:YouTube"
+  title: "戌亥とこ at:YouTube アルネの事件簿"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -214,6 +317,13 @@
     hour: 19
     min: 30
   title: "緑仙 at:YouTube プレミア公開 妄想感傷代償連盟 / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -232,9 +342,23 @@
   uri: 
 - date: 2019-05-27
   time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆葛葉 at:YouTube XERA: Survival"
+  title: "渋谷ハジメ＆魔界ノりりむ＆葛葉＆卯月コウ at:YouTube XERA: Survival"
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル プレミア公開 革命デュアリズム"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -312,18 +436,6 @@
     hour: 23
     min: 10
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：でびリオン(鷹宮リオン＆でびでび・でびる) at:花畑チャイカのYouTubeチャンネル
-  end_time: 
-  uri: 
-- date: 2019-05-27
-  time:
-    hour: 19
-    min: 0
-  title: or20時00分頃～ 瀬戸美夜子 at:YouTube
-  end_time: 
-  uri: 
-- date: 2019-05-27
-  time: 
-  title: "？時？分～ 渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル プレミア公開 革命デュアリズム"
   end_time: 
   uri: 
 - date: 2019-05-27
