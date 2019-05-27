@@ -157,6 +157,13 @@
   time:
     hour: 0
     min: 0
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲＆夏色まつり＆癒月ちょこ＆犬山たまき at:犬山たまきのYouTubeチャンネル 極限テトリス大会！お〇っこ我慢バトル"
   end_time: 
   uri: 
@@ -174,9 +181,23 @@
   uri: 
 - date: 2019-05-28
   time:
+    hour: 12
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
     hour: 14
     min: 0
   title: "町田ちま at:YouTube Minecraft ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -191,6 +212,18 @@
     hour: 22
     min: 0
   title: "でびでび・でびる＆犬山たまき at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 22
+    min: 0
+  title: "遠北千南 at:YouTube 告知"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time: 
+  title: "？時？分～ 文野環 at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -361,13 +394,6 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆魔界ノりりむ＆葛葉＆卯月コウ at:YouTube XERA: Survival"
-  end_time: 
-  uri: 
-- date: 2019-05-27
-  time:
-    hour: 21
-    min: 0
   title: "渋谷ハジメ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル プレミア公開 革命デュアリズム ／ Cover.渋谷ハジメ&朝ノ瑠璃"
   end_time: 
   uri: 
@@ -375,14 +401,7 @@
   time:
     hour: 21
     min: 0
-  title: "文野環 at:YouTube テスト配信"
-  end_time: 
-  uri: 
-- date: 2019-05-27
-  time:
-    hour: 21
-    min: 0
-  title: "叶 at:OPENREC.tv シノビリフレ -SENRAN KAGURA-"
+  title: "文野環 at:YouTube テスト配信 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -409,8 +428,22 @@
 - date: 2019-05-27
   time:
     hour: 21
+    min: 0
+  title: 11分～ 叶 at:OPENREC.tv シノビリフレ -SENRAN KAGURA-
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
+    min: 0
+  title: '20分～ 渋谷ハジメ＆魔界ノりりむ＆葛葉＆卯月コウ at:各々のYouTubeチャンネル XERA: Survival'
+  end_time: 
+  uri: 
+- date: 2019-05-27
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Hidden Paws Mystery、雑談"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -424,7 +457,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆える＆鈴鹿詩子＆竜胆尊 at:? TETRIS 99"
+  title: "勇気ちひろ＆える＆鈴鹿詩子＆竜胆尊 at:竜胆尊のYouTubeチャンネル TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-05-27
@@ -458,7 +491,7 @@
 - date: 2019-05-27
   time:
     hour: 23
-    min: 10
+    min: 12
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：でびリオン(鷹宮リオン＆でびでび・でびる) at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
