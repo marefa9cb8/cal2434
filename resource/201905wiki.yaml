@@ -1,6 +1,13 @@
 ---
 - date: 2019-05-31
   time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
     hour: 22
     min: 0
   title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
@@ -16,6 +23,13 @@
 - date: 2019-05-31
   time: 
   title: "？時？分～ 森中花咲＆？？？ at:森中花咲のYouTubeチャンネル オトナ花咲の悪いコNight ※5月26日の配信内で告知"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube UNDERTALE"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -45,6 +59,13 @@
 - date: 2019-05-29
   time: 
   title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -155,7 +176,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-27
