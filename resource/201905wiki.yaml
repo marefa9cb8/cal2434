@@ -15,6 +15,13 @@
   uri: 
 - date: 2019-05-31
   time:
+    hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube 夕やスミ"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
     hour: 22
     min: 0
   title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
@@ -93,6 +100,11 @@
   uri: 
 - date: 2019-05-30
   time: 
+  title: "？時？分～ でびでび・でびる at:YouTube スーパーマリオブラザーズ3?"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
@@ -133,6 +145,13 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 10
+    min: 0
+  title: "町田ちま at:YouTube 歌(アイドル縛り) ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 12
     min: 0
   title: "雪汝＆宗谷いちか＆癒月ちょこ at:?"
@@ -147,16 +166,23 @@
   uri: 
 - date: 2019-05-29
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  title: "緑仙 at:bilibili 歌 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-29
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:bilibili 歌 ※予定表より"
+  title: "瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube 夕やスミ"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -174,8 +200,10 @@
   end_time: 
   uri: 
 - date: 2019-05-29
-  time: 
-  title: "？時？分～ 町田ちま at:YouTube 歌(アイドル縛り)"
+  time:
+    hour: 23
+    min: 0
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:?"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -257,7 +285,14 @@
   time:
     hour: 17
     min: 0
-  title: "エクス・アルビオ at:YouTube"
+  title: "エクス・アルビオ at:YouTube もしも死ねぇ"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 17
+    min: 28
+  title: "鷹宮リオン at:OPENREC.tv League of Legends"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -265,6 +300,20 @@
     hour: 18
     min: 0
   title: "本間ひまわり at:YouTube Nioh: Complete Edition / 仁王 Complete Edition"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 18
+    min: 0
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 19
+    min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -355,7 +404,7 @@
   time:
     hour: 23
     min: 0
-  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル ※05/27配信にて告知
+  title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-05-28
