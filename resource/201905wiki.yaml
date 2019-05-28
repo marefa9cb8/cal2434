@@ -76,6 +76,13 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Undertale"
@@ -194,6 +201,13 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 3
+    min: 42
+  title: "鷹宮リオン at:YouTue 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 10
     min: 0
   title: "町田ちま at:YouTube 歌(アイドル縛り) ※開始時刻：リマインダーより"
@@ -203,7 +217,7 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝＆宗谷いちか＆癒月ちょこ at:?"
+  title: "雪汝＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル ぶっちゃけトーク"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -211,6 +225,21 @@
     hour: 14
     min: 0
   title: "町田ちま(ゴンザレス) at:YouTube 喝入れ ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 17
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 19
+    min: 0
+  title: "メインMC：白上フブキ＆サブMC：天開司＆サブMC（バーター）：インサイドちゃんMark2 at:REALITY(PC視聴)、白上フブキのYouTubeチャンネル
+    『雀魂-じゃんたま-』プレゼンツ VTuber麻雀トーナメント ～白上フブキ杯～"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -239,6 +268,14 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 21
+    min: 0
+  title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
+    #35』"
   end_time: 
   uri: 
 - date: 2019-05-29
