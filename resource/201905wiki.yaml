@@ -69,6 +69,13 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Undertale"
@@ -161,7 +168,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube Minecraft ※5月28日の配信内で告知"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -174,8 +181,15 @@
 - date: 2019-05-29
   time:
     hour: 1
-    min: 0
-  title: "(仮)～ 舞元啓介 at:YouTube テイルズ オブ ファンタジア(プレイステーション版)"
+    min: 16
+  title: "叶 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 1
+    min: 30
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -194,9 +208,23 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 14
+    min: 0
+  title: "町田ちま(ゴンザレス) at:YouTube 喝入れ ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -245,7 +273,7 @@
   time:
     hour: 22
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -253,6 +281,13 @@
     hour: 22
     min: 0
   title: "遠北千南 at:YouTube 告知"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -266,6 +301,13 @@
   time:
     hour: 23
     min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 23
+    min: 0
   title: "名伽尾アズマ＆緑仙＆大空スバル＆猫又おかゆ at:? にじホロボーイッシュコラボ"
   end_time: 
   uri: 
@@ -273,17 +315,12 @@
   time:
     hour: 23
     min: 0
-  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル? ミックスマスターJP"
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル ミックスマスターJP"
   end_time: 
   uri: 
 - date: 2019-05-29
   time: 
   title: "？時？分(夕方-夜・21時配信前)～ 出雲霞 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-29
-  time: 
-  title: "？時？分(午後)～ 町田ちま at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-28
