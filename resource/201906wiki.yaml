@@ -23,6 +23,13 @@
   title: "？時？分～ 成瀬鳴 at:YouTube 誕生日配信、お手紙紹介"
   end_time: 
   uri: 
+- date: 2019-06-07
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる＆犬山たまき at:犬山たまきのYouTubeチャンネル"
+  end_time: 
+  uri: 
 - date: 2019-06-06
   time: 
   title: "？時？分～ でびでび・でびる at:YouTube(2nd)"
@@ -44,9 +51,23 @@
   uri: 
 - date: 2019-06-02
   time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
     hour: 21
     min: 0
   title: "える at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #29"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -73,6 +94,20 @@
     hour: 10
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-01

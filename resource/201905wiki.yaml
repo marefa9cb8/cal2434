@@ -31,6 +31,13 @@
   time:
     hour: 22
     min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 22
+    min: 0
   title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
   end_time: 
   uri: 
@@ -139,6 +146,13 @@
 - date: 2019-05-29
   time:
     hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 0
     min: 30
   title: "樋口楓 at:YouTube Minecraft"
   end_time: 
@@ -147,7 +161,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft ※5月28日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -209,6 +223,20 @@
 - date: 2019-05-29
   time:
     hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) バイノーラル、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 21
     min: 30
   title: "小野町春香 at:YouTube お絵描き"
   end_time: 
@@ -231,6 +259,13 @@
   time:
     hour: 23
     min: 0
+  title: "家長むぎ at:YouTube お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 23
+    min: 0
   title: "名伽尾アズマ＆緑仙＆大空スバル＆猫又おかゆ at:? にじホロボーイッシュコラボ"
   end_time: 
   uri: 
@@ -238,7 +273,7 @@
   time:
     hour: 23
     min: 0
-  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:?"
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル? ミックスマスターJP"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -442,9 +477,9 @@
   uri: 
 - date: 2019-05-28
   time:
-    hour: 22
-    min: 0
-  title: "叶 at:YouTube"
+    hour: 21
+    min: 30
+  title: "雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -459,6 +494,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 22
+    min: 30
+  title: "叶 at:YouTube PUBG ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -490,8 +532,17 @@
   end_time: 
   uri: 
 - date: 2019-05-28
-  time: 
-  title: "？時？分～ 文野環 at:YouTube テスト配信"
+  time:
+    hour: 23
+    min: 0
+  title: 10分～ 文野環 at:YouTube テスト配信
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 23
+    min: 40
+  title: "静凛 at:YouTube バイノーラル雑談"
   end_time: 
   uri: 
 - date: 2019-05-27
