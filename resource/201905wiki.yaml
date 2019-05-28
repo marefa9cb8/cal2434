@@ -75,6 +75,13 @@
   end_time: 
   uri: 
 - date: 2019-05-30
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube 8万人記念、雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-05-30
   time: 
   title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
   end_time: 
@@ -98,9 +105,23 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 0
+    min: 0
+  title: "久遠千歳＆郡道美玲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 0
+    min: 30
+  title: "?～ 樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -177,15 +198,15 @@
 - date: 2019-05-28
   time:
     hour: 1
-    min: 35
-  title: "郡道美玲 at:Youtube 雑談"
+    min: 40
+  title: "郡道美玲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-05-28
   time:
     hour: 12
     min: 0
-  title: "雪汝＆宗谷いちか＆癒月ちょこ at:?"
+  title: "雪汝＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 60 Seconds!"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -193,6 +214,13 @@
     hour: 12
     min: 0
   title: "瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #23"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -211,6 +239,20 @@
   uri: 
 - date: 2019-05-28
   time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
     hour: 20
     min: 0
   title: "名伽尾アズマ＆シスター・クレア at:? ※05/27配信にて告知"
@@ -220,7 +262,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube Minecraft"
+  title: "ドーラ at:YouTube Minecraft、告知、雑談"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -241,7 +283,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる＆犬山たまき at:? 雑談"
+  title: "でびでび・でびる＆犬山たまき at:犬山たまきのYouTubeチャンネル 悪魔と一緒に身の毛もよだつ恐ろしい対談…！？"
   end_time: 
   uri: 
 - date: 2019-05-28
@@ -262,6 +304,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time:
+    hour: 23
+    min: 0
   title: OTN組(名伽尾アズマ＆花畑チャイカ＆社築)＋ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル ※05/27配信にて告知
   end_time: 
   uri: 
@@ -273,6 +322,11 @@
 - date: 2019-05-28
   time: 
   title: "？時？分～ 矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-28
+  time: 
+  title: "？時？分(仮)～ 夢追翔 at:YouTube 4万人記念"
   end_time: 
   uri: 
 - date: 2019-05-27
