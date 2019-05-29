@@ -1,6 +1,13 @@
 ---
 - date: 2019-05-31
   time:
+    hour: 0
+    min: 0
+  title: "郡道美玲＆犬山たまき at:犬山たまきのYouTubeチャンネル 10年前に出会っていた2人…運命の地獄コラボ！"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
     hour: 10
     min: 0
   title: "える at:YouTube"
@@ -58,13 +65,6 @@
 - date: 2019-05-31
   time: 
   title: "？時？分～ 森中花咲＆？？？ at:森中花咲のYouTubeチャンネル オトナ花咲の悪いコNight ※5月26日の配信内で告知"
-  end_time: 
-  uri: 
-- date: 2019-05-30
-  time:
-    hour: 0
-    min: 0
-  title: "郡道美玲＆犬山たまき at:?"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -209,8 +209,8 @@
 - date: 2019-05-29
   time:
     hour: 10
-    min: 0
-  title: "町田ちま at:YouTube 歌(アイドル縛り) ※開始時刻：リマインダーより"
+    min: 26
+  title: "町田ちま at:YouTube 歌(アイドル縛り)"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -229,9 +229,23 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 16
+    min: 0
+  title: "魔界ノりりむ at:YouTube ピクミン3"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 17
     min: 0
   title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -303,7 +317,7 @@
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube お絵描き"
+  title: "小野町春香 at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -364,7 +378,7 @@
   uri: 
 - date: 2019-05-29
   time: 
-  title: "？時？分(夕方-夜・21時配信前)～ 出雲霞 at:YouTube"
+  title: "？時？分(大会後)～ 舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-28
