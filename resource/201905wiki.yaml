@@ -59,7 +59,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 名伽尾アズマ at:YouTube ※引退配信"
+  title: "名伽尾アズマ at:YouTube ※引退配信"
   end_time: 
   uri: 
 - date: 2019-05-31
@@ -92,9 +92,16 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 0
+    min: 16
+  title: "叶＆童田明治 at:叶のYouTubeチャンネル ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube Getting Over It ※5月29日の配信内で告知"
+  title: "森中花咲 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -106,14 +113,30 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 1
+    min: 30
+  title: "リゼ・ヘルエスタ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-30
-  time: 
-  title: "？時？分(深夜)～ 叶＆童田明治 at:YouTube ファイナルファンタジーXIV"
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #24"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 16
+    min: 0
+  title: "家長むぎ at:YouTube ぷよぷよ"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -141,7 +164,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:? 歌、雑談 ※予定表より"
+  title: "緑仙 at:YouTube 歌、雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -170,6 +193,13 @@
     hour: 22
     min: 0
   title: "司会：社築＆審査員：名伽尾アズマ＆花畑チャイカ＆緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -538,13 +568,6 @@
     hour: 23
     min: 0
   title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル ミックスマスターJP"
-  end_time: 
-  uri: 
-- date: 2019-05-29
-  time:
-    hour: 23
-    min: 0
-  title: "(仮)～ ドーラ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-28
