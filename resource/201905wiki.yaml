@@ -69,11 +69,6 @@
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
-- date: 2019-05-31
-  time: 
-  title: "？時？分～ 森中花咲＆？？？ at:森中花咲のYouTubeチャンネル オトナ花咲の悪いコNight ※5月26日の配信内で告知"
-  end_time: 
-  uri: 
 - date: 2019-05-30
   time:
     hour: 0
@@ -92,7 +87,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Getting Over It ※5月29日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -111,7 +106,14 @@
   uri: 
 - date: 2019-05-30
   time: 
-  title: "？時？分(深夜)～ 叶 at:YouTube ファイナルファンタジーXIV"
+  title: "？時？分(深夜)～ 叶＆童田明治 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 17
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 鬼武者"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -130,9 +132,16 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:? 歌、雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube"
+  title: "月ノ美兎 at:YouTube シノビリフレ -SENRAN KAGURA-"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -320,7 +329,7 @@
   time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド ※中断"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -347,9 +356,16 @@
   uri: 
 - date: 2019-05-29
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "三枝明那 at:YouTube"
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 20
+    min: 0
+  title: "童田明治 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -357,6 +373,20 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 20
+    min: 0
+  title: "三枝明那 at:YouTube DeathForest ～森からの脱出～【増殖】 ※19時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 20
+    min: 30
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -385,14 +415,21 @@
   time:
     hour: 21
     min: 0
-  title: "出雲霞 at:YouTube 夕やスミ"
+  title: "神田笑一＆郡道美玲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
   time:
     hour: 21
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube"
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 21
+    min: 15
+  title: "出雲霞 at:YouTube 夕やスミ ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -448,7 +485,7 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube Project Winter"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -462,12 +499,14 @@
   time:
     hour: 23
     min: 0
-  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル ミックスマスターJP"
+  title: "社築 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
-  time: 
-  title: "？時？分(夜-深夜)～ 樋口楓 at:YouTube Minecraft"
+  time:
+    hour: 23
+    min: 0
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:でびでび・でびるのYouTube(2nd)チャンネル ミックスマスターJP"
   end_time: 
   uri: 
 - date: 2019-05-29
