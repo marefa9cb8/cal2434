@@ -8,6 +8,13 @@
   uri: 
 - date: 2019-05-31
   time:
+    hour: 6
+    min: 45
+  title: "伏見ガク＆ゲスト：渋谷ハジメ at:YouTube おはガク！ 緑系"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
     hour: 10
     min: 0
   title: "える at:YouTube"
@@ -73,14 +80,14 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube Minecraft ※リマインダーより"
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
     hour: 0
     min: 0
-  title: "三枝明那 at:YouTube"
+  title: "三枝明那 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -94,7 +101,7 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:aYouTube かまいたちの夜"
+  title: "椎名唯華 at:aYouTube かまいたちの夜 ※中止"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -160,6 +167,20 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 22
+    min: 0
+  title: "司会：社築＆審査員：名伽尾アズマ＆花畑チャイカ＆緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 23
+    min: 0
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 23
     min: 0
   title: "鷹匠(鷹宮リオン＆ジョー・力一) at:YouTube ばったりラジオ 第4回"
@@ -175,11 +196,6 @@
 - date: 2019-05-30
   time: 
   title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-30
-  time: 
-  title: "？時？分～ 緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権 ※配信日：緑仙予定表より"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -391,9 +407,16 @@
   uri: 
 - date: 2019-05-29
   time:
+    hour: 20
+    min: 48
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube PUBG"
+  title: "叶 at:YouTube PUBG ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -415,7 +438,7 @@
   time:
     hour: 21
     min: 0
-  title: "神田笑一＆郡道美玲 at:YouTube Minecraft"
+  title: "神田笑一＆郡道美玲 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -457,14 +480,29 @@
   time:
     hour: 22
     min: 0
-  title: "闇夜乃モルル＆すもも(SUMOMOXqX) at:YouTube"
+  title: "闇夜乃モルル＆すもも(SUMOMOXqX) at:YouTube アノコロ.jp(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-05-29
   time:
     hour: 22
     min: 0
-  title: "遠北千南 at:YouTube 告知"
+  title: "葛葉 at:YouTube Project Winter ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 22
+    min: 0
+  title: "舞元啓介＆ふくやマスター at:ふくやマスターのYouTubeチャンネル 『雀魂-じゃんたま-』プレゼンツ VTuber麻雀トーナメント ～白上フブキ杯～
+    振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-29
+  time:
+    hour: 22
+    min: 0
+  title: "遠北千南 at:YouTube 雑談、告知"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -485,14 +523,7 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube Project Winter"
-  end_time: 
-  uri: 
-- date: 2019-05-29
-  time:
-    hour: 23
-    min: 0
-  title: "名伽尾アズマ＆緑仙＆大空スバル＆猫又おかゆ at:? にじホロボーイッシュコラボ"
+  title: "名伽尾アズマ＆緑仙＆＆大空スバル＆猫又おかゆ at:大空スバルのYouTubeチャンネル にじホロボーイッシュコラボ"
   end_time: 
   uri: 
 - date: 2019-05-29
@@ -514,11 +545,6 @@
     hour: 23
     min: 0
   title: "(仮)～ ドーラ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-05-29
-  time: 
-  title: "？時？分(大会後)～ 舞元啓介 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-28
