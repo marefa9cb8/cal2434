@@ -10,6 +10,13 @@
   time:
     hour: 0
     min: 0
+  title: "三枝明那 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 0
+    min: 0
   title: "エクス・アルビオ at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
@@ -85,13 +92,6 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-05-31
-  time:
-    hour: 22
-    min: 0
   title: "名伽尾アズマ at:YouTube ※引退配信"
   end_time: 
   uri: 
@@ -99,7 +99,14 @@
   time:
     hour: 23
     min: 0
-  title: "(仮)～ がぶりえら(童田明治＆御伽原江良) at:両名のYouTubeチャンネル? Portal 2"
+  title: "勇気ちひろ at:YouTube Apex Legends ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 23
+    min: 0
+  title: "がぶりえら(童田明治＆御伽原江良) at:両名のYouTubeチャンネル? Portal 2"
   end_time: 
   uri: 
 - date: 2019-05-31
@@ -116,7 +123,7 @@
   uri: 
 - date: 2019-05-31
   time: 
-  title: "？時？分～ 久遠千歳 at:YouTube"
+  title: "？時？分(夕方･仮)～ 久遠千歳 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -256,7 +263,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Undertale"
+  title: 18時47分～ 桜凛月 at:YouTube Undertale
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -277,7 +284,21 @@
   time:
     hour: 19
     min: 30
-  title: "える at:YouTube TETRIS 99"
+  title: "える＆竜胆尊 at:えるのYouTubeチャンネル TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 19
+    min: 30
+  title: "夢月ロア at:YouTube ぼくのなつやすみポータブル2 ナゾナゾ姉妹と沈没船の秘密!"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube SPORE"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -298,7 +319,14 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube 歌、雑談 ※予定表より"
+  title: "緑仙 at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 20
+    min: 10
+  title: "シスター・クレア at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -306,6 +334,13 @@
     hour: 21
     min: 0
   title: "月ノ美兎 at:YouTube シノビリフレ -SENRAN KAGURA-"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 21
+    min: 30
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -347,14 +382,14 @@
   time:
     hour: 23
     min: 0
-  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:YouTube ばったりラジオ 第4回"
+  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:ジョー・力一のYouTubeチャンネル ばったりラジオ 第4回"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
     hour: 23
     min: 0
-  title: "小野町春香＆愛園愛美 at:両名のYouTubeチャンネル? Minecraft"
+  title: "小野町春香＆愛園愛美 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-30
