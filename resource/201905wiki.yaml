@@ -17,7 +17,19 @@
   time:
     hour: 1
     min: 0
+  title: "椎名唯華 at:YouTube かまいたちの夜"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 1
+    min: 0
   title: "舞元啓介 at:YouTube テイルズ オブ ファンタジア(プレイステーション版)"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time: 
+  title: "？時？分(コラボ後)～ 郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
   end_time: 
   uri: 
 - date: 2019-05-31
@@ -209,14 +221,28 @@
   time:
     hour: 16
     min: 0
-  title: "森中花咲 at:YouTube Minecraft ※リマインダーより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
     hour: 17
     min: 0
-  title: "レヴィ・エリファ at:YouTube 鬼武者"
+  title: "黒井しば＆さくらみこ at:さくらみこのYouTubeチャンネル 雑談、Stardew Valley"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 17
+    min: 0
+  title: 10分～ 本間ひまわり at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 17
+    min: 0
+  title: 15分～ レヴィ・エリファ at:YouTube 鬼武者
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -237,6 +263,13 @@
   time:
     hour: 19
     min: 0
+  title: "三枝明那 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 19
+    min: 0
   title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
   end_time: 
   uri: 
@@ -245,6 +278,20 @@
     hour: 19
     min: 30
   title: "える at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube 影廊-Shadow Corridor-"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -314,7 +361,7 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube 8万人記念、雑談 ※リマインダーより"
+  title: "御伽原江良 at:YouTube 8万人記念、雑談"
   end_time: 
   uri: 
 - date: 2019-05-30

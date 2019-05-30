@@ -77,9 +77,25 @@
   uri: 
 - date: 2019-06-02
   time:
+    hour: 12
+    min: 30
+  title: MC：大蔦エル＆キミノミヤ＆ゲスト：叶＆本間ひまわり at:大蔦エルのYouTubeチャンネル ナゴヤVTuberまつり ゲームDAY VTuber
+    にじさんじステージ
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
     hour: 16
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 17
+    min: 0
+  title: " 実況：渋谷ハル＆解説：すもも(SUMOMOXqX)他 at:大蔦エルのYouTubeチャンネル ナゴヤVTuberまつり×VTuber最強決定戦
+    PUBG(TPP SOLO)"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -163,6 +179,6 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ASMR BABY"
+  title: "小野町春香 at:YouTube ASMR BABY・バブ女将"
   end_time: 
   uri: 
