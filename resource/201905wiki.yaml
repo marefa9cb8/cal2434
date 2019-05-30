@@ -23,7 +23,14 @@
 - date: 2019-05-31
   time:
     hour: 0
-    min: 0
+    min: 3
+  title: "愛園愛美 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 0
+    min: 38
   title: "エクス・アルビオ at:YouTube マシュマロ返答、雑談"
   end_time: 
   uri: 
@@ -42,8 +49,31 @@
   end_time: 
   uri: 
 - date: 2019-05-31
-  time: 
-  title: "？時？分(コラボ後)～ 郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
+  time:
+    hour: 1
+    min: 30
+  title: "郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 1
+    min: 40
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 1
+    min: 52
+  title: "鷹宮リオン at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 1
+    min: 54
+  title: ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル みんなで早押しクイズ
   end_time: 
   uri: 
 - date: 2019-05-31
@@ -58,6 +88,13 @@
     hour: 10
     min: 0
   title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 14
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-31
@@ -85,7 +122,7 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd) 6万人記念 ※リマインダーより"
+  title: "でびでび・でびる at:YouTube(2nd) 6万人記念"
   end_time: 
   uri: 
 - date: 2019-05-31
