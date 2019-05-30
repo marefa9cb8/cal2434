@@ -3,6 +3,13 @@
   time:
     hour: 0
     min: 0
+  title: "卯月コウ at:YouTube 視聴者投稿企画：部屋写真晒し"
+  end_time: 
+  uri: 
+- date: 2019-05-31
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲＆犬山たまき at:犬山たまきのYouTubeチャンネル 10年前に出会っていた2人…運命の地獄コラボ！"
   end_time: 
   uri: 
@@ -345,9 +352,23 @@
   uri: 
 - date: 2019-05-30
   time:
-    hour: 22
+    hour: 21
+    min: 40
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 21
     min: 0
-  title: "剣持軍：える＆剣持刀也＆竜胆尊＆物述軍：勇気ちひろ＆物述有栖＆ドーラ at:剣持刀也のYouTubeチャンネル 因縁のテトリスデスマッチ"
+  title: ") 田中ヒメ＆鈴木ヒナ at:ヒメヒナのYouTubeチャンネル ヒメヒナお悩み遭難祭"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 21
+    min: 46
+  title: "雪城眞尋 at:OPENREC.tv 雑談"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -361,21 +382,35 @@
   time:
     hour: 22
     min: 0
-  title: "司会：社築＆審査員：名伽尾アズマ＆花畑チャイカ＆緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権"
+  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
     hour: 22
     min: 0
-  title: "鈴原るる at:YouTube 悪魔城ドラキュラ"
+  title: 14分～ 司会：社築＆審査員：名伽尾アズマ＆花畑チャイカ＆緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 第一回 緑仙ラップ選手権
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 22
+    min: 30
+  title: "剣持軍：える＆剣持刀也＆竜胆尊＆物述軍：勇気ちひろ＆物述有栖＆ドーラ at:剣持刀也のYouTubeチャンネル 因縁のテトリスデスマッチ ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 22
+    min: 50
+  title: "叶 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-05-30
   time:
     hour: 23
     min: 0
-  title: "うたかざ(鈴鹿詩子＆森中花咲) at:? 雑談"
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:鈴鹿詩子のYouTubeチャンネル 雑談(ドッキリ企画)"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -389,7 +424,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香＆愛園愛美 at:両名のYouTubeチャンネル Minecraft"
+  title: "小野町春香＆愛園愛美 at:両名のYouTubeチャンネル Minecraft ※延期"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -403,29 +438,12 @@
   time:
     hour: 23
     min: 30
-  title: "樋口楓 at:YouTube Minecraft ※開始時刻：リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-05-30
-  time: 
-  title: "？時？分～ 叶 at:YouTube PUBG"
-  end_time: 
-  uri: 
-- date: 2019-05-30
-  time: 
-  title: "？時？分～(仮) 名伽尾アズマ at:YouTube"
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-05-30
   time: 
   title: "？時？分～ でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3?"
-  end_time: 
-  uri: 
-- date: 2019-05-30
-  time:
-    hour: 22
-    min: 0
-  title: "(仮)～ 雪城眞尋 at:?"
   end_time: 
   uri: 
 - date: 2019-05-29
