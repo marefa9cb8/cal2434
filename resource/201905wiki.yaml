@@ -127,6 +127,13 @@
   uri: 
 - date: 2019-05-30
   time:
+    hour: 2
+    min: 57
+  title: "叶 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
     hour: 4
     min: 7
   title: "笹木咲 at:aYouTube 雑談"
@@ -135,8 +142,15 @@
 - date: 2019-05-30
   time:
     hour: 6
+    min: 9
+  title: "シスター・クレア at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 6
     min: 57
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube 雑談、Fortnite"
   end_time: 
   uri: 
 - date: 2019-05-30
@@ -151,6 +165,13 @@
     hour: 16
     min: 0
   title: "家長むぎ at:YouTube ぷよぷよ"
+  end_time: 
+  uri: 
+- date: 2019-05-30
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-05-30
