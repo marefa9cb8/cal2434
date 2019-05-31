@@ -156,9 +156,16 @@
   uri: 
 - date: 2019-06-01
   time:
-    hour: 0
+    hour: 1
     min: 0
-  title: "ジョー・力一 at:YouTube プレミア公開"
+  title: 00時17分～ 椎名唯華 at:YouTube モンスターハンター：ワールド 雑談 ※内容変更
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 0
+    min: 30
+  title: "ジョー・力一 at:YouTube プレミア公開 いろんなフレーズを福本風にアレンジしてみよう"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -170,16 +177,16 @@
   uri: 
 - date: 2019-06-01
   time:
-    hour: 1
-    min: 0
-  title: "鈴鹿詩子 at:YouTube 飲酒雑談、プレゼント開封、エイプリルフール嘘発表"
+    hour: 0
+    min: 49
+  title: "叶 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-01
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube モンスターハンター：ワールド"
+  title: "鈴鹿詩子 at:YouTube 飲酒雑談、プレゼント開封、エイプリルフール嘘発表"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -197,8 +204,24 @@
   end_time: 
   uri: 
 - date: 2019-06-01
-  time: 
-  title: "？時？分(深夜)～ 叶 at:YouTube ファイナルファンタジーXIV"
+  time:
+    hour: 2
+    min: 6
+  title: "御伽原江良 at:OPENREC.tv 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 2
+    min: 20
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 7
+    min: 0
+  title: "久遠千歳 at:YouTube ねぼけまなこ #5"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -224,6 +247,16 @@
   uri: 
 - date: 2019-06-01
   time: 
+  title: "？時？分(朝・仮)～ 魔界ノりりむ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time: 
+  title: "？時？分(朝)～ 三枝明那 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time: 
   title: "？時？分(昼)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
@@ -245,7 +278,14 @@
   time:
     hour: 21
     min: 0
-  title: "郡道美玲＆神田笑一＆紅ズワイガニ(三枝明那＆愛園愛美) at:YouTube"
+  title: "神田笑一＆郡道美玲＆紅ズワイガニ(三枝明那＆愛園愛美) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 雪城眞尋 at:YouTube 1ヶ月記念"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -271,6 +311,13 @@
   uri: 
 - date: 2019-06-01
   time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
     hour: 23
     min: 0
   title: "竜胆尊 at:YouTube 歌"
@@ -284,13 +331,27 @@
   end_time: 
   uri: 
 - date: 2019-06-01
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ 雪城眞尋 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
   time: 
   title: "？時？分～ 魔界ノりりむ at:YouTube 6万人記念"
   end_time: 
   uri: 
 - date: 2019-06-01
   time: 
-  title: "？時？分～ 郡道美玲＆神田笑一 at:YouTube ファイナルファンタジーXIV"
+  title: "？時？分～ 神田笑一＆郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-01
