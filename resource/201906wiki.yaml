@@ -149,6 +149,20 @@
   uri: 
 - date: 2019-06-01
   time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 1
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 飲酒雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube モンスターハンター：ワールド"
@@ -190,10 +204,29 @@
   end_time: 
   uri: 
 - date: 2019-06-01
+  time: 
+  title: "？時？分(昼)～ エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube 15万記念、重大?発表"
+  end_time: 
+  uri: 
+- date: 2019-06-01
   time:
     hour: 21
     min: 0
   title: "月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 21
+    min: 0
+  title: "郡道美玲＆神田笑一＆紅ズワイガニ(三枝明那＆愛園愛美) at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -213,6 +246,11 @@
 - date: 2019-06-01
   time: 
   title: "？時？分～ 魔界ノりりむ at:YouTube 6万人記念"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time: 
+  title: "？時？分～ 郡道美玲＆神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-01
