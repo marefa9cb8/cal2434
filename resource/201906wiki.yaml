@@ -150,15 +150,29 @@
 - date: 2019-06-01
   time:
     hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 0
     min: 30
-  title: "郡道美玲 at:YouTube Minecraft"
+  title: "郡道美玲 at:YouTube Minecraft ※中止"
   end_time: 
   uri: 
 - date: 2019-06-01
   time:
     hour: 1
     min: 0
-  title: "鈴鹿詩子 at:YouTube 飲酒雑談"
+  title: "鈴鹿詩子 at:YouTube 飲酒雑談、プレゼント開封、エイプリルフール嘘発表"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -180,6 +194,11 @@
     hour: 1
     min: 0
   title: "舞元啓介 at:YouTube チャルメラ"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time: 
+  title: "？時？分(深夜)～ 叶 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-01
@@ -231,9 +250,30 @@
   uri: 
 - date: 2019-06-01
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) サッポロ一番 ギロチン監修 激辛焼そば喫食"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
+    hour: 23
+    min: 0
+  title: "竜胆尊 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-01
