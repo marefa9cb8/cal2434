@@ -56,6 +56,11 @@
   title: "？時？分～ でびでび・でびる at:YouTube(2nd)"
   end_time: 
   uri: 
+- date: 2019-06-05
+  time: 
+  title: "？時？分～ 舞元啓介＆大空スバル at:? ※6/1の舞元啓介の配信で告知"
+  end_time: 
+  uri: 
 - date: 2019-06-04
   time:
     hour: 23
@@ -233,6 +238,13 @@
   uri: 
 - date: 2019-06-01
   time:
+    hour: 10
+    min: 0
+  title: "三枝明那 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-01
+  time:
     hour: 12
     min: 0
   title: "瀬戸美夜子 at:YouTube バイオハザード6"
@@ -248,11 +260,6 @@
 - date: 2019-06-01
   time: 
   title: "？時？分(朝・仮)～ 魔界ノりりむ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-01
-  time: 
-  title: "？時？分(朝)～ 三枝明那 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-06-01
