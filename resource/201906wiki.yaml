@@ -96,7 +96,7 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ＆御伽原江良 at:御伽原江良のYouTubeチャンネル グランド・セフト・オートV"
+  title: "ギバライカ(花畑チャイカ＆御伽原江良) at:御伽原江良のYouTubeチャンネル グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -109,15 +109,29 @@
 - date: 2019-06-02
   time:
     hour: 0
-    min: 0
-  title: "レヴィ・エリファ at:YouTube"
+    min: 30
+  title: "レヴィ・エリファ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 0
+    min: 55
+  title: "叶 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-02
   time:
     hour: 1
     min: 0
-  title: "夢月ロア at:YouTube"
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 1
+    min: 0
+  title: "夢月ロア at:YouTube 風ノ旅ビト"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -132,6 +146,41 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 1
+    min: 45
+  title: 02時03分～ 物述有栖 at:YouTube プレミア公開 ♡囁きオノマトペ100個チャレンジ♡
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 2
+    min: 30
+  title: "渋谷ハジメ at:YouTube League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 2
+    min: 31
+  title: "緑仙 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 9
+    min: 30
+  title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 12
+    min: 0
+  title: "渋谷ハジメ at:YouTube モスバーガー 激辛テリヤキチキンバーガー実食"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -203,7 +252,14 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:YouTube まほすずラジオ #29"
+  title: "勇気ちひろ＆鈴谷アキ at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #29"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -215,9 +271,16 @@
   uri: 
 - date: 2019-06-02
   time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE or スプラッターハウス"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
     hour: 22
     min: 0
-  title: "?～ 雪城眞尋 at:YouTube 1ヶ月記念"
+  title: "雪城眞尋 at:YouTube 1ヶ月記念"
   end_time: 
   uri: 
 - date: 2019-06-01
