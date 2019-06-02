@@ -88,8 +88,22 @@
   end_time: 
   uri: 
 - date: 2019-06-03
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-03
   time: 
   title: "？時？分(深夜)～ ジョー・力一 at:YouTube りきいちファーム #15"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ そば"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -192,6 +206,13 @@
   uri: 
 - date: 2019-06-02
   time:
+    hour: 10
+    min: 10
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
     hour: 12
     min: 0
   title: "渋谷ハジメ at:YouTube モスバーガー 激辛テリヤキチキンバーガー実食"
@@ -243,13 +264,6 @@
   uri: 
 - date: 2019-06-02
   time:
-    hour: 20
-    min: 0
-  title: "緑仙 at:YouTube プレミア公開 東京テディベア / 緑仙 (Cover)"
-  end_time: 
-  uri: 
-- date: 2019-06-02
-  time:
     hour: 21
     min: 0
   title: "える at:YouTube プレミア公開 愛言葉Ⅲ/える【歌ってみた】"
@@ -259,7 +273,7 @@
   time:
     hour: 21
     min: 0
-  title: "社築＆でびでび・でびる＆御伽原江良 at:でびでび・でびるのYouTube(2nd)チャンネル 禊・禁酒配信"
+  title: "社築＆でびでび・でびる＆御伽原江良 at:でびでび・でびるのYouTube(2nd)チャンネル 禊・禁酒配信※オフコラボ"
   end_time: 
   uri: 
 - date: 2019-06-02
