@@ -173,7 +173,14 @@
   time:
     hour: 6
     min: 30
-  title: "シスター・クレア at:YouTube 雑談 ※リマインダーより"
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 8
+    min: 55
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -281,6 +288,11 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE or スプラッターハウス"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time: 
+  title: "？時？分(夜)～ 轟京子 at:YouTube moon"
   end_time: 
   uri: 
 - date: 2019-06-02
