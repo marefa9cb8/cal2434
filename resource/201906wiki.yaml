@@ -105,19 +105,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-06-03
-  time:
-    hour: 1
-    min: 0
-  title: "ジョー・力一 at:YouTube りきいちファーム #15"
-  end_time: 
-  uri: 
-- date: 2019-06-03
-  time: 
-  title: "？時？分(深夜)～ 夕陽リリ at:ツイキャス 雑談"
+  title: "剣持刀也 at:YouTube 雑談(ホラーゲーム？)"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -129,9 +117,44 @@
   uri: 
 - date: 2019-06-03
   time:
+    hour: 1
+    min: 0
+  title: "夕陽リリ at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #15"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ そば"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 7
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -378,13 +401,6 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube プレミア公開 愛言葉Ⅲ/える【歌ってみた】"
-  end_time: 
-  uri: 
-- date: 2019-06-02
-  time:
-    hour: 21
-    min: 0
   title: "社築＆御伽原江良＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル 禊・禁酒配信オフラインコラボ"
   end_time: 
   uri: 
@@ -392,7 +408,14 @@
   time:
     hour: 21
     min: 0
-  title: "雪城眞尋 at:YouTube 1ヶ月記念"
+  title: 10分～ 雪城眞尋 at:YouTube 1ヶ月記念
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 21
+    min: 22
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -406,7 +429,21 @@
   time:
     hour: 22
     min: 0
-  title: "葛葉 at:YouTube"
+  title: "葛葉 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 22
+    min: 0
+  title: "愛園愛美 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 22
+    min: 29
+  title: "叶 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -428,6 +465,13 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-01
