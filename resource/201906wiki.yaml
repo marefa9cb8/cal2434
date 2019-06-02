@@ -59,6 +59,13 @@
   end_time: 
   uri: 
 - date: 2019-06-06
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良＆犬山たまき at:犬山たまきのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-06-06
   time: 
   title: "？時？分～ でびでび・でびる at:YouTube(2nd)"
   end_time: 
@@ -342,8 +349,22 @@
 - date: 2019-06-02
   time:
     hour: 19
-    min: 30
+    min: 32
+  title: "町田ちま at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 19
+    min: 35
   title: "夢月ロア at:YouTube Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-06-02
+  time:
+    hour: 19
+    min: 45
+  title: "勇気ちひろ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -364,7 +385,7 @@
   time:
     hour: 21
     min: 0
-  title: "社築＆でびでび・でびる＆御伽原江良 at:でびでび・でびるのYouTube(2nd)チャンネル 禊・禁酒配信"
+  title: "社築＆御伽原江良＆でびでび・でびる at:でびでび・でびるのYouTube(2nd)チャンネル 禊・禁酒配信オフラインコラボ"
   end_time: 
   uri: 
 - date: 2019-06-02
@@ -406,7 +427,7 @@
   time:
     hour: 23
     min: 0
-  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE or スプラッターハウス"
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-01
