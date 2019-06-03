@@ -36,9 +36,30 @@
   uri: 
 - date: 2019-06-09
   time:
+    hour: 1
+    min: 0
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
     hour: 21
     min: 0
   title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ) at:夢追翔のYouTubeチャンネル 第二話「軋轢」"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -69,6 +90,13 @@
   time:
     hour: 23
     min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 23
+    min: 0
   title: "成瀬鳴 at:YouTube 1周年記念、1年振り返り、お手紙紹介"
   end_time: 
   uri: 
@@ -76,7 +104,14 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube 散髪ASMR ※リマインダーより"
+  title: "小野町春香 at:YouTube 散髪ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -106,8 +141,57 @@
   end_time: 
   uri: 
 - date: 2019-06-05
+  time:
+    hour: 20
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube 1周年企画"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
+    hour: 22
+    min: 30
+  title: "小野町春香 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-05
   time: 
   title: "？時？分～ 舞元啓介＆大空スバル at:? ※06/01舞元啓介の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #27"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 18
+    min: 0
+  title: "(仮)～ 瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 瀬戸美夜子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -175,7 +259,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ そば"
+  title: 07時10分～ 伏見ガク at:YouTubeニコニコ生放送 おはガク！ そば ※配信場所変更
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -201,6 +285,27 @@
   uri: 
 - date: 2019-06-03
   time:
+    hour: 14
+    min: 38
+  title: "渋谷ハジメ at:YouTube 渋谷ハジメの趣味の時間 ガンプラ編 #4"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 16
+    min: 0
+  title: "ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
     hour: 18
     min: 0
   title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
@@ -217,7 +322,14 @@
   time:
     hour: 19
     min: 0
-  title: "三枝明那 at:YouTube 雑談"
+  title: "三枝明那 at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube スーパーマリオワールド"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -238,6 +350,13 @@
   time:
     hour: 21
     min: 30
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 21
+    min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
@@ -245,7 +364,7 @@
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube 雑談 ※リマインダーより"
+  title: "小野町春香 at:YouTube 4ヶ月振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -260,6 +379,11 @@
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube(2nd) 一周年記念、振り返り"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time: 
+  title: "？時？分(仮)～ 神田笑一 at:YouTube 3万人記念"
   end_time: 
   uri: 
 - date: 2019-06-02
