@@ -184,7 +184,28 @@
   time:
     hour: 0
     min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる at:YouTube スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 0
+    min: 0
+  title: "御伽原江良 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -405,6 +426,13 @@
 - date: 2019-06-03
   time:
     hour: 21
+    min: 6
+  title: "雪城眞尋 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 21
     min: 30
   title: "静凛 at:YouTube バイオハザード CODE:Veronica"
   end_time: 
@@ -427,6 +455,13 @@
   time:
     hour: 22
     min: 0
+  title: "叶＆あっくん大魔王＆皆守ひいろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 22
+    min: 0
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
@@ -435,6 +470,13 @@
     hour: 22
     min: 30
   title: "鈴鹿詩子 at:YouTube ネコ・トモ"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 23
+    min: 0
+  title: "叶 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -452,13 +494,10 @@
   end_time: 
   uri: 
 - date: 2019-06-03
-  time: 
-  title: "？時？分(夜)～ 御伽原江良 at:OPENREC.tv or ツイキャス"
-  end_time: 
-  uri: 
-- date: 2019-06-03
-  time: 
-  title: "？時？分～ 雪城眞尋 at:OPENREC.tv or ツイキャス"
+  time:
+    hour: 23
+    min: 0
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-02
