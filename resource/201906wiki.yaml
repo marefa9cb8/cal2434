@@ -13,6 +13,13 @@
   title: "?～ 剣持刀也＆ゲスト：ばあちゃる at:YouTube SharpnessRadio"
   end_time: 
   uri: 
+- date: 2019-06-28
+  time:
+    hour: 21
+    min: 0
+  title: "夢追翔 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2019-06-15
   time:
     hour: 21
@@ -162,8 +169,29 @@
   end_time: 
   uri: 
 - date: 2019-06-05
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-05
   time: 
   title: "？時？分～ 舞元啓介＆大空スバル at:? ※06/01舞元啓介の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 2
+    min: 0
+  title: "(仮)～ 郡道美玲 at:YouTube ファイナルファンタジーXIV or すばらしきこのせかい -Final Remix-"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -171,6 +199,13 @@
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #27"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube DARK SOULS III"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -192,6 +227,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル The Forest"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -315,7 +357,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時50分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -323,6 +365,13 @@
     hour: 19
     min: 0
   title: "三枝明那 at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 19
+    min: 33
+  title: "シスター・クレア at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -343,7 +392,14 @@
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:YouTube"
+  title: "神田笑一 at:YouTube 3万人記念"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴 at:YouTube センター試験 数学Ⅰ・A編"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -357,7 +413,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) ※中止"
   end_time: 
   uri: 
 - date: 2019-06-03
@@ -376,6 +432,20 @@
   uri: 
 - date: 2019-06-03
   time:
+    hour: 22
+    min: 30
+  title: "鈴鹿詩子 at:YouTube ネコ・トモ"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube Celeste(Steam版)"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time:
     hour: 23
     min: 0
   title: "鈴木勝 at:YouTube(2nd) 一周年記念、振り返り"
@@ -383,7 +453,12 @@
   uri: 
 - date: 2019-06-03
   time: 
-  title: "？時？分(仮)～ 神田笑一 at:YouTube 3万人記念"
+  title: "？時？分(夜)～ 御伽原江良 at:OPENREC.tv or ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-03
+  time: 
+  title: "？時？分～ 雪城眞尋 at:OPENREC.tv or ツイキャス"
   end_time: 
   uri: 
 - date: 2019-06-02
