@@ -109,6 +109,13 @@
   time:
     hour: 21
     min: 0
+  title: "静凛 at:YouTube 発表会、告知"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 21
+    min: 0
   title: "町田ちま at:YouTube 歌? ※リマインダー予定表より"
   end_time: 
   uri: 
@@ -189,6 +196,13 @@
   uri: 
 - date: 2019-06-05
   time:
+    hour: 0
+    min: 30
+  title: "静凛＆童田明治 at:両名のYouTubeチャンネル ファイナルファンタジーXIV 中止"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube"
@@ -203,7 +217,7 @@
   time:
     hour: 19
     min: 0
-  title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:鈴鹿詩子のYouTubeチャンネル オフライン飲みコラボ ※リマインダーより"
+  title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:鈴鹿詩子のYouTubeチャンネル オフライン飲みコラボ"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -376,14 +390,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube セリフ読み"
-  end_time: 
-  uri: 
-- date: 2019-06-04
-  time:
-    hour: 19
-    min: 0
-  title: "魔界ノりりむ at:YouTube"
+  title: "渋谷ハジメ at:YouTube セリフ読み、バイノーラル"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -395,16 +402,44 @@
   uri: 
 - date: 2019-06-04
   time:
+    hour: 19
+    min: 1
+  title: "椎名唯華 at:YouTube 6月ゴリスナー総会"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 19
+    min: 0
+  title: 10分～ 魔界ノりりむ at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube 6月企画会議"
+  title: "叶 at:YouTube Splitgate: Arena Warfare"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube 6月企画会議 新バージョン2.0お披露目 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-06-04
   time:
     hour: 21
     min: 0
-  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  title: "樋口楓 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 21
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV ※中止"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -432,7 +467,7 @@
   time:
     hour: 22
     min: 0
-  title: "夢追翔＆あっくん大魔王＆白百合リリィ＆レンチ at:レンチのYouTubeチャンネル Minecraft(仮想マイクラ部 第8回)"
+  title: "夢追翔＆あっくん大魔王＆白百合リリィ＆レンチ at:レンチのYouTubeチャンネル(本配信) Minecraft(仮想マイクラ部 第8回)"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -467,6 +502,13 @@
   time:
     hour: 23
     min: 0
+  title: "社築 at:YouTube 海腹川背 Fresh!"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 23
+    min: 0
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
@@ -474,19 +516,19 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube Portal"
+  title: "御伽原江良 at:YouTube Portal ※"
   end_time: 
   uri: 
 - date: 2019-06-04
   time: 
-  title: "？時？分(夜・仮)～ 樋口楓 at:YouTube"
+  title: "？時？分～ 叶 at:YouTube PUBG or Apex Legends、雑談"
   end_time: 
   uri: 
 - date: 2019-06-04
   time:
-    hour: 19
+    hour: 22
     min: 0
-  title: "椎名唯華 at:YouTube 6月ゴリスナー総会"
+  title: "シスター・クレア at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-06-04
