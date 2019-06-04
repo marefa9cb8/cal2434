@@ -135,6 +135,13 @@
   uri: 
 - date: 2019-06-06
   time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
@@ -170,7 +177,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読"
+  title: "鈴木勝 at:YouTube(2nd) 朗読 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -196,7 +203,14 @@
   time:
     hour: 19
     min: 0
-  title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:? オフライン飲みコラボ ※06/01鈴鹿詩子の配信にて告知"
+  title: "鈴鹿詩子＆赤羽葉子＆雪汝＆竜胆尊 at:鈴鹿詩子のYouTubeチャンネル オフライン飲みコラボ ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -318,9 +332,30 @@
   uri: 
 - date: 2019-06-04
   time:
+    hour: 16
+    min: 0
+  title: "魔界ノりりむ at:YouTube Fortnite"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 16
+    min: 2
+  title: "渋谷ハジメ at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
     hour: 17
     min: 0
   title: "エクス・アルビオ at:YouTube DARK SOULS III"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 17
+    min: 30
+  title: "戌亥とこ at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -342,6 +377,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube セリフ読み"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-04
@@ -418,6 +460,13 @@
   time:
     hour: 23
     min: 0
+  title: "夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 23
+    min: 0
   title: "竜胆尊 at:YouTube"
   end_time: 
   uri: 
@@ -431,6 +480,13 @@
 - date: 2019-06-04
   time: 
   title: "？時？分(夜・仮)～ 樋口楓 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube 6月ゴリスナー総会"
   end_time: 
   uri: 
 - date: 2019-06-04
