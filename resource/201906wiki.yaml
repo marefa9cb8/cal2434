@@ -232,7 +232,7 @@
 - date: 2019-06-04
   time:
     hour: 8
-    min: 30
+    min: 34
   title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
@@ -255,6 +255,13 @@
     hour: 18
     min: 0
   title: "(仮)～ 瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-06-04
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-04
