@@ -144,6 +144,13 @@
   uri: 
 - date: 2019-06-08
   time:
+    hour: 0
+    min: 0
+  title: "久遠千歳 at:YouTube あかごのいえ"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ"
@@ -308,9 +315,23 @@
   uri: 
 - date: 2019-06-06
   time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 1
+    min: 0
+  title: "?～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -324,7 +345,21 @@
   time:
     hour: 19
     min: 0
+  title: "家長むぎ at:YouTube みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 19
+    min: 30
+  title: "戌亥とこ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -350,6 +385,13 @@
   uri: 
 - date: 2019-06-06
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
     hour: 22
     min: 0
   title: "御伽原江良＆犬山たまき at:犬山たまきのYouTubeチャンネル 恋愛相談"
@@ -360,6 +402,13 @@
     hour: 23
     min: 0
   title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 23
+    min: 0
+  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:YouTube ぱんぞう屋"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -384,7 +433,7 @@
   uri: 
 - date: 2019-06-06
   time: 
-  title: "？時？分～ 緑仙 at:? 雑談 ※予定表より"
+  title: "？時？分～ 緑仙 at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -564,13 +613,6 @@
   time:
     hour: 21
     min: 0
-  title: "える at:YouTube ヤンデレラ ※Twitterネーム＆リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-06-05
-  time:
-    hour: 21
-    min: 0
   title: "葛葉 at:YouTube Apex Legends"
   end_time: 
   uri: 
@@ -580,6 +622,13 @@
     min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #36』"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
+    hour: 21
+    min: 11
+  title: "える at:YouTube ヤンデレラ"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -634,8 +683,8 @@
 - date: 2019-06-05
   time:
     hour: 22
-    min: 30
-  title: "成瀬鳴＆錦山夢鷹 at:YouTube Apex Legends"
+    min: 21
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -643,6 +692,13 @@
     hour: 22
     min: 30
   title: "小野町春香 at:YouTube どうぶつの森 ハッピーホームデザイナー"
+  end_time: 
+  uri: 
+- date: 2019-06-05
+  time:
+    hour: 22
+    min: 30
+  title: 40分～ 成瀬鳴＆錦山夢鷹 at:YouTube Apex Legends
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -663,7 +719,7 @@
   time:
     hour: 23
     min: 0
-  title: "三者面団(ベルモンド・バンデラス＆郡道美玲＆夢月ロア) at:ベルモンド・バンデラスのYouTubeチャンネル？ Sophie's Curse"
+  title: "三者面団(ベルモンド・バンデラス＆郡道美玲＆夢月ロア) at:ベルモンド・バンデラスのYouTubeチャンネル Sophie's Curse"
   end_time: 
   uri: 
 - date: 2019-06-05
@@ -674,13 +730,17 @@
   end_time: 
   uri: 
 - date: 2019-06-05
-  time: 
-  title: "？時？分(Pokémon Direct 2019.6.5後)～ 樋口楓 at:YouTube Minecraft"
+  time:
+    hour: 23
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 鬼武者"
   end_time: 
   uri: 
 - date: 2019-06-05
-  time: 
-  title: "？時？分(夜・仮)～ エクス・アルビオ at:YouTube"
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube オフライン飲みコラボ感想"
   end_time: 
   uri: 
 - date: 2019-06-04
