@@ -38,7 +38,7 @@
   time:
     hour: 22
     min: 0
-  title: "？？？ at:?"
+  title: "飛鳥ひな＆舞元啓介＆？ at:? 舞元サキュバス"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -317,7 +317,14 @@
   time:
     hour: 0
     min: 0
-  title: "エクス・アルビオ at:YouTube Apex Legends"
+  title: 35分～ エクス・アルビオ at:YouTube Apex Legends
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 0
+    min: 45
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -331,7 +338,14 @@
   time:
     hour: 1
     min: 0
-  title: "?～ 郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  title: "社築＆舞元啓介 at:舞元啓介のYouTubeチャンネル 花畑チャイカの1年振り返り"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 23
+    min: 0
+  title: 02時15分～ 花畑チャイカ at:YouTube Minecraft 雑談
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -378,9 +392,9 @@
   uri: 
 - date: 2019-06-06
   time:
-    hour: 21
-    min: 0
-  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+    hour: 20
+    min: 30
+  title: "静凛 at:YouTube ファイナルファンタジーXIV　※時間変更はリマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -399,6 +413,13 @@
   uri: 
 - date: 2019-06-06
   time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スプラッターハウス"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
     hour: 23
     min: 0
   title: "轟京子 at:YouTube"
@@ -408,7 +429,7 @@
   time:
     hour: 23
     min: 0
-  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:YouTube ぱんぞう屋"
+  title: "ジョー・力一＆鷹宮リオン at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -699,13 +720,6 @@
     hour: 22
     min: 30
   title: 40分～ 成瀬鳴＆錦山夢鷹 at:YouTube Apex Legends
-  end_time: 
-  uri: 
-- date: 2019-06-05
-  time:
-    hour: 23
-    min: 0
-  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-05
