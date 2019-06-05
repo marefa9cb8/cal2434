@@ -350,9 +350,23 @@
   uri: 
 - date: 2019-06-06
   time:
+    hour: 2
+    min: 54
+  title: "叶 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #28"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 17
+    min: 0
+  title: "森中花咲 at:YouTube ※Ｔｗｉｔｔｅｒネームより"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -367,6 +381,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 19
+    min: 30
+  title: "森中花咲 at:YouTube ※Ｔｗｉｔｔｅｒネームより"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -408,6 +429,13 @@
   time:
     hour: 22
     min: 0
+  title: "樋口楓 at:YouTube Minecraft ※06月05日の配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良＆犬山たまき at:犬山たまきのYouTubeチャンネル 恋愛相談"
   end_time: 
   uri: 
@@ -429,7 +457,7 @@
   time:
     hour: 23
     min: 0
-  title: "ジョー・力一＆鷹宮リオン at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
+  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
   end_time: 
   uri: 
 - date: 2019-06-06
