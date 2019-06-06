@@ -278,15 +278,10 @@
   end_time: 
   uri: 
 - date: 2019-06-07
-  time: 
-  title: "？時？分(仮)～ 鷹宮リオン at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-07
   time:
     hour: 1
-    min: 30
-  title: "-02時00分頃～ 郡道美玲 at:? 作業雑談"
+    min: 11
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -294,6 +289,20 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー+デザート"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 7
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 8
+    min: 0
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -308,6 +317,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 19
+    min: 30
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※Twitterネーム及び6月6日の配信内の告知より"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -329,13 +345,6 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube Gregory Horror Show"
-  end_time: 
-  uri: 
-- date: 2019-06-07
-  time:
-    hour: 20
-    min: 30
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※Twitterネーム及び6月6日の配信内の告知より"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -371,6 +380,13 @@
     hour: 22
     min: 0
   title: "愛園愛美 at:YouTube 2ヶ月＆登録者・フォロワー3万人記念、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-07
