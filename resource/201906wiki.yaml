@@ -380,7 +380,7 @@
   time:
     hour: 17
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube 雑談 ※6月6日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -401,7 +401,7 @@
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※6月6日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -497,8 +497,10 @@
   end_time: 
   uri: 
 - date: 2019-06-06
-  time: 
-  title: "？時？分～ 社築 at:YouTube ※06月04日の配信で告知"
+  time:
+    hour: 23
+    min: 0
+  title: or00時00分～ 社築 at:YouTube 1年振り返り配信 ※コラボ配信で告知
   end_time: 
   uri: 
 - date: 2019-06-06
