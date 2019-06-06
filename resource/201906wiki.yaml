@@ -380,7 +380,7 @@
   time:
     hour: 17
     min: 0
-  title: "森中花咲 at:YouTube 雑談 ※6月6日の配信内で告知"
+  title: "森中花咲 at:YouTube 玄関配信"
   end_time: 
   uri: 
 - date: 2019-06-06
@@ -394,6 +394,13 @@
   time:
     hour: 19
     min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
+  end_time: 
+  uri: 
+- date: 2019-06-06
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -401,7 +408,7 @@
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※6月6日の配信内で告知"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-06
