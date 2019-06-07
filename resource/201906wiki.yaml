@@ -52,7 +52,7 @@
   time:
     hour: 20
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -73,14 +73,14 @@
   time:
     hour: 0
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
   time:
     hour: 20
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -120,7 +120,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -230,7 +230,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -373,7 +373,7 @@
   time:
     hour: 11
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "家長むぎ at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -391,6 +391,20 @@
 - date: 2019-06-08
   time: 
   title: "？時？分(昼)～ 郡道美玲 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 18
+    min: 0
+  title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 18
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-08
