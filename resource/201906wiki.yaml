@@ -363,6 +363,13 @@
   time:
     hour: 19
     min: 0
+  title: "家長むぎ at:YouTube Cuphead"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -512,11 +519,6 @@
 - date: 2019-06-07
   time: 
   title: "？時？分(夜)～ 渋谷ハジメ at:YouTube Hell Let Loose"
-  end_time: 
-  uri: 
-- date: 2019-06-07
-  time: 
-  title: "？時？分(仮)～ 家長むぎ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-07
