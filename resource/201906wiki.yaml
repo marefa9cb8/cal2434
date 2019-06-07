@@ -172,6 +172,13 @@
   time:
     hour: 0
     min: 0
+  title: "轟京子 at:YouTube Gregory Horror Show ※前日20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 0
+    min: 0
   title: "花畑チャイカ at:YouTube ※リマインダーより"
   end_time: 
   uri: 
@@ -187,6 +194,20 @@
     hour: 0
     min: 0
   title: "久遠千歳 at:YouTube あかごのいえ"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ(ガチャ)"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -275,6 +296,11 @@
   title: "？時？分～ 成瀬鳴 at:YouTube 誕生日配信、お手紙紹介"
   end_time: 
   uri: 
+- date: 2019-06-08
+  time: 
+  title: "？時？分(昼)～ 郡道美玲 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
 - date: 2019-06-07
   time:
     hour: 0
@@ -354,9 +380,23 @@
   uri: 
 - date: 2019-06-07
   time:
+    hour: 16
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
     hour: 18
     min: 0
-  title: "本間ひまわり at:YouTube ドキドキ文芸部！ ※リマインダーより"
+  title: "本間ひまわり at:YouTube ドキドキ文芸部！"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 18
+    min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:？"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -378,6 +418,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 19
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -410,13 +457,6 @@
   uri: 
 - date: 2019-06-07
   time:
-    hour: 20
-    min: 0
-  title: "轟京子 at:YouTube Gregory Horror Show"
-  end_time: 
-  uri: 
-- date: 2019-06-07
-  time:
     hour: 21
     min: 0
   title: "静凛 at:YouTube 新ヴィジュアル発表会、告知"
@@ -427,6 +467,13 @@
     hour: 21
     min: 0
   title: "町田ちま at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-07
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -454,7 +501,7 @@
   time:
     hour: 22
     min: 0
-  title: "鈴原るる at:YouTube"
+  title: "鈴原るる at:YouTube SEKIRO"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -503,7 +550,7 @@
   time:
     hour: 23
     min: 30
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※開始時刻：リマインダーより"
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-06-07
@@ -526,11 +573,6 @@
 - date: 2019-06-07
   time: 
   title: "？時？分(夜)～ 渋谷ハジメ at:YouTube Hell Let Loose"
-  end_time: 
-  uri: 
-- date: 2019-06-07
-  time: 
-  title: "？時？分(夜)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-06
