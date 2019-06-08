@@ -170,7 +170,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "渋谷ハジメ＆花芽なずな at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube 雑談、新ビジュアルお披露目"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -178,6 +185,20 @@
     hour: 0
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 0
+    min: 0
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -290,6 +311,13 @@
   uri: 
 - date: 2019-06-09
   time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR"
@@ -310,6 +338,11 @@
 - date: 2019-06-09
   time: 
   title: "？時？分～ 卯月コウ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time: 
+  title: "？時？分(雑談後・仮)～ 鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -552,7 +585,7 @@
   time:
     hour: 19
     min: 0
-  title: "社築＆でびでび・でびる＆鷹宮リオン＆舞元啓介 at:でびでび・でびるのYouTubeチャンネル(2nd) カレーパーティ"
+  title: "社築＆でびでび・でびる＆鷹宮リオン＆舞元啓介 at:でびでび・でびるのYouTube(2nd)チャンネル カレーパーティ"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -587,7 +620,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:bilibili 歌 ※予定表より"
+  title: "緑仙 at:bilibili 歌"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -601,21 +634,21 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:YouTube 料理"
+  title: "渋谷ハジメ at:YouTube  Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-08
   time:
     hour: 21
     min: 0
-  title: "笹木咲＆郡道美玲 at:郡道美玲のYouTubeチャンネル"
+  title: "笹木咲＆郡道美玲 at:郡道美玲のYouTubeチャンネル 授業 江戸後期編"
   end_time: 
   uri: 
 - date: 2019-06-08
   time:
     hour: 21
     min: 0
-  title: "葛葉＆桜凛月 at:両名のYouTubeチャンネル Apex Legends"
+  title: "葛葉＆桜凛月 at:両名のYouTubeチャンネル Apex Legends、PUBG"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -655,9 +688,23 @@
   uri: 
 - date: 2019-06-08
   time:
+    hour: 21
+    min: 48
+  title: "叶＆一ノ瀬うるは at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
     hour: 22
     min: 0
-  title: "もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:各々のYouTubeチャンネル？ Minecraft"
+  title: "もちがえる(勇気ちひろ＆える＆樋口楓＆モイラ) at:各々のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 22
+    min: 0
+  title: "闇夜乃モルル at:YouTube 雑談、告知"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -699,12 +746,19 @@
   time:
     hour: 23
     min: 30
-  title: "成瀬鳴＆ふくやマスター＆錦山夢鷹 at:各々のYouTubeチャンネル？ PUBG"
+  title: "成瀬鳴＆ふくやマスター＆錦山夢鷹 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 23
+    min: 30
+  title: "夢月ロア at:YouTube みんなのリズム天国 ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-08
   time: 
-  title: "？時？分(夜)～ 轟京子 at:YouTube Gregory Horror Show"
+  title: "？時？分(夜)～ 轟京子 at:YouTube Gregory Horror Show ※中止？"
   end_time: 
   uri: 
 - date: 2019-06-07
