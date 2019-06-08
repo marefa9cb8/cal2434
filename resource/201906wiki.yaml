@@ -24,7 +24,7 @@
   time:
     hour: 21
     min: 0
-  title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:?"
+  title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:遠北千南のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -148,6 +148,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) Minecraft ※予定表、②より"
   end_time: 
   uri: 
@@ -237,7 +244,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ+ゲスト：闇夜乃モルル at:勇気ちひろのYouTubeチャンネル まほすずラジオ #30"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ)+ゲスト：闇夜乃モルル at:勇気ちひろのYouTubeチャンネル まほすずラジオ #30"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -357,9 +364,9 @@
   uri: 
 - date: 2019-06-08
   time:
-    hour: 7
-    min: 30
-  title: "レヴィ・エリファ at:YouTube"
+    hour: 8
+    min: 0
+  title: "レヴィ・エリファ at:YouTube ※７時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -378,9 +385,37 @@
   uri: 
 - date: 2019-06-08
   time:
+    hour: 13
+    min: 30
+  title: 40分～ 緑仙 at:YouTube 歌
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 13
+    min: 42
+  title: "愛園愛美 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 14
+    min: 0
+  title: "三枝明那 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ アイス"
+  title: 55分～ 出雲霞 at:YouTube 昼やスミ アイス
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 17
+    min: 0
+  title: "？～ 勇気ちひろ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -394,17 +429,22 @@
   end_time: 
   uri: 
 - date: 2019-06-08
-  time:
-    hour: 18
-    min: 0
-  title: "渋谷ハジメ at:YouTube Apex Legends"
+  time: 
+  title: "？時？分(昼)～ エクス・アルビオ at:YouTube DARK SOULS III"
   end_time: 
   uri: 
 - date: 2019-06-08
   time:
     hour: 18
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube ※Twitterネームより"
+  title: "勇気ちひろ＆渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 18
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube 名探偵ピカチュウ"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -446,7 +486,14 @@
   time:
     hour: 21
     min: 0
-  title: "笹木咲＆郡道美玲 at:郡道美玲のYouTubeチャンネル ※6/7笹木咲の配信にて告知"
+  title: "渋谷ハジメ at:YouTube 料理"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
+    hour: 21
+    min: 0
+  title: "笹木咲＆郡道美玲 at:郡道美玲のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -479,9 +526,16 @@
   uri: 
 - date: 2019-06-08
   time:
+    hour: 21
+    min: 15
+  title: "春崎エアル at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-06-08
+  time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  title: "もちがえる(樋口楓＆勇気ちひろ＆える＆モイラ) at:各々のYouTubeチャンネル？ Minecraft ※樋口楓・勇気ちひろTwitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-08
@@ -507,22 +561,7 @@
   uri: 
 - date: 2019-06-08
   time: 
-  title: "？時？分(夜)～ 渋谷ハジメ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-08
-  time: 
   title: "？時？分(夜)～ 轟京子 at:YouTube Gregory Horror Show"
-  end_time: 
-  uri: 
-- date: 2019-06-08
-  time: 
-  title: "？時？分～ 緑仙 at:? 歌 ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-06-08
-  time: 
-  title: "？時？分～ 春崎エアル at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-06-08
