@@ -245,6 +245,13 @@
   uri: 
 - date: 2019-06-09
   time:
+    hour: 6
+    min: 32
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube プレミア公開 【配信BAN】♡ニチアサ時空超越お茶会♡【驚愕の真相】"
@@ -254,7 +261,7 @@
   time:
     hour: 8
     min: 0
-  title: "(仮)～ 遠北千南 at:YouTube 雑談、作業"
+  title: "遠北千南 at:YouTube 雑談、作業"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -275,7 +282,7 @@
   time:
     hour: 10
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "桜凛月 at:YouTube Minecraft ※中止"
   end_time: 
   uri: 
 - date: 2019-06-09
