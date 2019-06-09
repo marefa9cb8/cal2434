@@ -130,7 +130,7 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:YouTube 社築のあの日に青春置いてきたラジオ。#1 ※6/8のコラボ配信で告知"
+  title: "社築 at:YouTube 社築のあの日に青春置いてきたラジオ。 #1"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -342,6 +342,13 @@
   end_time: 
   uri: 
 - date: 2019-06-09
+  time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-09
   time: 
   title: "？時？分(昼)～ 渋谷ハジメ at:YouTube"
   end_time: 
@@ -399,7 +406,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ ＆皆守ひいろ&星街すいせいat:皆守ひいろのYouTubeチャンネル？ Vあんスタ部初配信"
+  title: "戌亥とこ ＆皆守ひいろ&星街すいせい at:皆守ひいろのYouTubeチャンネル？ Vあんスタ部初配信"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -461,11 +468,6 @@
 - date: 2019-06-09
   time: 
   title: "？時？分(夜)～ 渋谷ハジメ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-09
-  time: 
-  title: "？時？分～ 卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -881,7 +883,7 @@
   uri: 
 - date: 2019-06-08
   time: 
-  title: "？時？分(夜)～ 轟京子 at:YouTube Gregory Horror Show ※中止？"
+  title: "？時？分(夜)～ 轟京子 at:YouTube Gregory Horror Show ※中止"
   end_time: 
   uri: 
 - date: 2019-06-07
