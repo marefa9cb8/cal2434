@@ -303,14 +303,35 @@
   time:
     hour: 13
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 13
+    min: 0
+  title: "勇気ちひろ＆渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 13
+    min: 0
+  title: "神田笑一＆郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ＆渋谷ハジメ＆すもも(SUMOMOXqX) at:YouTube APEX Legends ※配信内にて告知、渋谷ハジメは途中参加"
   end_time: 
   uri: 
 - date: 2019-06-09
   time:
     hour: 17
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -378,7 +399,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ＆皆守ひいろ&星街すいせい at:皆守ひいろのYouTubeチャンネル？ Vあんスタ部初配信"
+  title: "戌亥とこ ＆皆守ひいろ&星街すいせいat:皆守ひいろのYouTubeチャンネル？ Vあんスタ部初配信"
   end_time: 
   uri: 
 - date: 2019-06-09
