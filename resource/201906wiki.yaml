@@ -109,6 +109,13 @@
   time:
     hour: 21
     min: 0
+  title: "闇夜乃モルル at:YouTube 豚ラーメン一緒に食す会 ※配信予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 21
+    min: 0
   title: "社築＆飛鳥ひな＆舞元啓介＆でびでび・でびる＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 超絶ハイテンション麻雀"
   end_time: 
   uri: 
@@ -266,8 +273,8 @@
   uri: 
 - date: 2019-06-09
   time:
-    hour: 9
-    min: 0
+    hour: 8
+    min: 56
   title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
@@ -275,7 +282,7 @@
   time:
     hour: 9
     min: 30
-  title: "小野町春香 at:YouTube どうぶつの森"
+  title: "小野町春香 at:YouTube とびだせ どうぶつの森"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -283,6 +290,13 @@
     hour: 10
     min: 0
   title: "桜凛月 at:YouTube Minecraft ※中止"
+  end_time: 
+  uri: 
+- date: 2019-06-09
+  time:
+    hour: 11
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-09
@@ -364,7 +378,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ＆？？？ at:YouTube"
+  title: "戌亥とこ＆皆守ひいろ&星街すいせい at:皆守ひいろのYouTubeチャンネル？ Vあんスタ部初配信"
   end_time: 
   uri: 
 - date: 2019-06-09
