@@ -29,9 +29,21 @@
   uri: 
 - date: 2019-06-16
   time:
+    hour: 12
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
     hour: 21
     min: 0
   title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:遠北千南のYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time: 
+  title: "？時？分～ 矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -48,11 +60,25 @@
   title: Loki Yamato他 at:Loki YamatoのYouTubeチャンネル(本配信) ファイナルファンタジーXIV 「エオルゼアツアーズ～聞いて、走って、考えて～」
   end_time: 
   uri: 
+- date: 2019-06-15
+  time:
+    hour: 23
+    min: 30
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-06-14
   time:
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -100,6 +126,20 @@
 - date: 2019-06-12
   time:
     hour: 23
+    min: 0
+  title: "出雲霞＆小野町春香 at:小野町春香のYouTubeチャンネル 母子コラボ"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 23
     min: 30
   title: "渋谷ハジメ＆馬越健太郎＆ユメノシオリ＆李稍＆渋谷ハル＆審査員：ベルモンド・バンデラス＆宇森ひなこ＆あっくん大魔王 at:ふくやマスターのYouTubeチャンネル
     Vtuberお料理選手権Aブロック"
@@ -124,6 +164,20 @@
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -162,8 +216,10 @@
   end_time: 
   uri: 
 - date: 2019-06-10
-  time: 
-  title: "？時？分(深夜?)～ ギルザレンIII世 at:YouTube ※Twitterネーム絵文字より"
+  time:
+    hour: 3
+    min: 17
+  title: "ギルザレンIII世 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -181,8 +237,10 @@
   end_time: 
   uri: 
 - date: 2019-06-10
-  time: 
-  title: "？時？分(昼)～ 雪汝＆？？？ at:? ※Twitterネームより"
+  time:
+    hour: 13
+    min: 0
+  title: "雪汝＆テトラ at:? Raft"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -201,7 +259,14 @@
   time:
     hour: 20
     min: 0
-  title: "出雲霞 at:YouTube"
+  title: "出雲霞 at:YouTube 海鮮!!すし街道"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube? 雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -256,6 +321,13 @@
 - date: 2019-06-10
   time:
     hour: 22
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 22
     min: 30
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
@@ -265,6 +337,16 @@
     hour: 19
     min: 0
   title: or20時00分(仮)～ 竜胆尊 at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time: 
+  title: "？時？分～ 瀬戸美夜子 at:YouTube Minecraft or The Forest"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time: 
+  title: "？時？分～ 御伽原江良 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-09
