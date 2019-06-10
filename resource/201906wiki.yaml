@@ -196,7 +196,7 @@
   time:
     hour: 0
     min: 0
-  title: "戌亥とこ＆？？？ at:YouTube"
+  title: "でびでび・でびる＆戌亥とこ＆アンジュ・カトリーナ at:戌亥とこのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -272,9 +272,30 @@
   uri: 
 - date: 2019-06-11
   time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 19
+    min: 0
+  title: "(仮)～ 家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
     hour: 19
     min: 0
   title: "三枝明那 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 20
+    min: 0
+  title: "夕陽リリ at:YouTube Until Dawn - 惨劇の山荘 -"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -310,6 +331,13 @@
     hour: 22
     min: 0
   title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 0
+  title: "花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル Super Bunny Man ※6/10の御伽原江良の配信にて告知"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -512,13 +540,6 @@
   time:
     hour: 21
     min: 0
-  title: "叶 at:YouTube ロト誕生日会"
-  end_time: 
-  uri: 
-- date: 2019-06-10
-  time:
-    hour: 21
-    min: 0
   title: "闇夜乃モルル at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
@@ -541,6 +562,13 @@
     hour: 21
     min: 0
   title: "さんばか（戌亥とこ＆アンジュ・カトリーナ＆リゼ・ヘルエスタ)  at:各々のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 21
+    min: 0
+  title: 13分～ 叶 at:YouTube ロト誕生日会
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -575,13 +603,6 @@
   time:
     hour: 22
     min: 0
-  title: "叶 at:YouTube ニーア オートマタ(仮)"
-  end_time: 
-  uri: 
-- date: 2019-06-10
-  time:
-    hour: 22
-    min: 0
   title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -602,13 +623,36 @@
 - date: 2019-06-10
   time:
     hour: 22
+    min: 0
+  title: 23分～ 叶＆一ノ瀬うるは at:YouTube PUBG
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 22
     min: 30
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-10
-  time: 
-  title: "？時？分～ 御伽原江良 at:YouTube"
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube 3ヶ月・みんなのリズム天国オールパーフェクト記念"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 23
+    min: 30
+  title: "レヴィ・エリファ at:YouTube 鬼武者"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 23
+    min: 37
+  title: "雪城眞尋 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-06-09
