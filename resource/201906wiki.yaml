@@ -125,6 +125,13 @@
 - date: 2019-06-15
   time:
     hour: 23
+    min: 0
+  title: "舞元啓介＆ジョー・力一＆ゲスト：叶 at:? 舞元力一 番外編"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 23
     min: 30
   title: "矢車りね at:YouTube"
   end_time: 
@@ -183,6 +190,13 @@
     hour: 22
     min: 0
   title: "飛鳥ひな＆舞元啓介＆紅ズワイガニ(三枝明那＆愛園愛美) at:舞元啓介のYouTubeチャンネル サキュバス地獄 #3"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -252,22 +266,50 @@
 - date: 2019-06-11
   time:
     hour: 0
-    min: 0
-  title: "椎名唯華 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+    min: 32
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-06-11
   time:
     hour: 1
     min: 0
-  title: "童田明治 at:YouTube ASMR"
+  title: "でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3"
   end_time: 
   uri: 
 - date: 2019-06-11
   time:
-    hour: 0
-    min: 30
-  title: or01時00分～ 郡道美玲 at:YouTube 雑談
+    hour: 1
+    min: 5
+  title: "郡道美玲 at:YouTube 雑談、Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 1
+    min: 0
+  title: 13分～ 童田明治 at:YouTube ASMR
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 1
+    min: 34
+  title: "叶 at:YouTube Cooking Simulator"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 2
+    min: 21
+  title: "静凛 at:YouTube 黒い砂漠"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 2
+    min: 40
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -323,7 +365,7 @@
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -337,7 +379,14 @@
   time:
     hour: 22
     min: 0
-  title: "花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル Super Bunny Man ※6/10の御伽原江良の配信にて告知"
+  title: "花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル Super Bunny Man"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -345,6 +394,13 @@
     hour: 22
     min: 30
   title: "静凛 at:YouTube バイオハザード CODE:Veronica"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube 新ビジュアルお披露目、雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-11
