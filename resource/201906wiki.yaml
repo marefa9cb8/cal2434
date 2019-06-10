@@ -200,6 +200,13 @@
   time:
     hour: 20
     min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 20
+    min: 0
   title: "戌亥とこ＆？？？ at:YouTube"
   end_time: 
   uri: 
@@ -230,6 +237,20 @@
     min: 30
   title: "渋谷ハジメ＆馬越健太郎＆ユメノシオリ＆李稍＆渋谷ハル＆審査員：ベルモンド・バンデラス＆宇森ひなこ＆あっくん大魔王 at:ふくやマスターのYouTubeチャンネル
     Vtuberお料理選手権Aブロック"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 0
+    min: 0
+  title: "椎名唯華 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -265,6 +286,13 @@
     hour: 22
     min: 0
   title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 30
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -360,9 +388,16 @@
   uri: 
 - date: 2019-06-10
   time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
     hour: 19
     min: 0
-  title: "月ノ美兎 at:YouTube ※前日21時半から日時変更"
+  title: "月ノ美兎 at:YouTube Twitter投票連携企画"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -370,6 +405,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft、コラボ反省会"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -411,6 +453,13 @@
   time:
     hour: 21
     min: 0
+  title: "叶 at:YouTube ロトの誕生日会"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 21
+    min: 0
   title: "闇夜乃モルル at:YouTube 新衣装お披露目 ※リマインダーより"
   end_time: 
   uri: 
@@ -432,6 +481,13 @@
   time:
     hour: 21
     min: 30
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 21
+    min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
@@ -446,7 +502,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  title: "樋口楓 at:YouTube 新ビジュアルお披露目"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -461,6 +517,13 @@
     hour: 22
     min: 0
   title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 22
+    min: 0
+  title: "葛葉 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-10
