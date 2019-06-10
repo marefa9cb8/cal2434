@@ -238,14 +238,23 @@
   uri: 
 - date: 2019-06-10
   time:
-    hour: 13
-    min: 0
-  title: "雪汝＆テトラ at:? Raft"
+    hour: 8
+    min: 30
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-10
-  time: 
-  title: "？時？分(昼・仮)～ 舞元啓介 at:YouTube"
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #30"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 13
+    min: 0
+  title: "雪汝＆テトラ at:? Raft"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -253,6 +262,13 @@
     hour: 19
     min: 0
   title: "月ノ美兎 at:YouTube ※前日21時半から日時変更"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft、前日コラボ反省会"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -267,6 +283,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:YouTube? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 21
+    min: 0
+  title: "月ノ美兎＆？？？ at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -301,7 +324,7 @@
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube 雑談、告知 ※リマインダーより"
+  title: "小野町春香 at:YouTube 雑談、告知"
   end_time: 
   uri: 
 - date: 2019-06-10
