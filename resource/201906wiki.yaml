@@ -27,6 +27,41 @@
   title: "飛鳥ひな at:YouTube 告知"
   end_time: 
   uri: 
+- date: 2019-06-20
+  time:
+    hour: 20
+    min: 0
+  title: "特別講師：股間戦士エムズーン15g＆ゲスト：月ノ美兎＆剣持刀也 at:月ノ美兎のYouTubeチャンネル 股間大学オープンキャンパス"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆御伽原江良＆犬山たまき＆宗谷いちか＆癒月ちょこ at:?"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 22
+    min: 0
+  title: "癒月ちょこ＆ゲスト：愛園愛美 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 1
+    min: 0
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 9
+    min: 30
+  title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
 - date: 2019-06-16
   time:
     hour: 12
@@ -42,8 +77,27 @@
   end_time: 
   uri: 
 - date: 2019-06-16
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-16
   time: 
   title: "？時？分～ 矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time: 
+  title: "？時？分～ 小野町春香＆？？？ at:？"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -67,6 +121,11 @@
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
+- date: 2019-06-15
+  time: 
+  title: "？時？分～ 小野町春香＆？？？ at:？"
+  end_time: 
+  uri: 
 - date: 2019-06-14
   time:
     hour: 21
@@ -76,9 +135,23 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 22
+    min: 0
+  title: "家長むぎ＆宗谷いちか＆ロボ子さん＆癒月ちょこ at:?"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 0
+    min: 0
+  title: "でびでび・でびる＆御伽原江良＆湊あくあ＆犬山たまき at:犬山たまきのYouTubeチャンネル? テトリス"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -97,9 +170,23 @@
   uri: 
 - date: 2019-06-13
   time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
     hour: 22
     min: 0
   title: "飛鳥ひな＆舞元啓介＆紅ズワイガニ(三枝明那＆愛園愛美) at:舞元啓介のYouTubeチャンネル サキュバス地獄 #3"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube 朗読「狐憑」"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -164,6 +251,13 @@
     hour: 21
     min: 0
   title: "成瀬鳴 at:YouTube バイオハザード RE:2"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -247,6 +341,13 @@
   time:
     hour: 12
     min: 0
+  title: "瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 12
+    min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #30"
   end_time: 
   uri: 
@@ -254,7 +355,7 @@
   time:
     hour: 13
     min: 0
-  title: "雪汝＆テトラ at:? Raft"
+  title: "雪汝＆テトラ at:YouTube Raft"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -275,6 +376,13 @@
   time:
     hour: 20
     min: 0
+  title: "本間ひまわり at:YouTube ひまごはん会"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞 at:YouTube 海鮮!!すし街道"
   end_time: 
   uri: 
@@ -283,6 +391,13 @@
     hour: 20
     min: 0
   title: "緑仙 at:YouTube? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-10
@@ -345,6 +460,13 @@
   time:
     hour: 22
     min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-10
+  time:
+    hour: 22
+    min: 0
   title: "でびでび・でびる at:YouTube(2nd)"
   end_time: 
   uri: 
@@ -360,11 +482,6 @@
     hour: 19
     min: 0
   title: or20時00分(仮)～ 竜胆尊 at:YouTube
-  end_time: 
-  uri: 
-- date: 2019-06-10
-  time: 
-  title: "？時？分～ 瀬戸美夜子 at:YouTube Minecraft or The Forest"
   end_time: 
   uri: 
 - date: 2019-06-10
