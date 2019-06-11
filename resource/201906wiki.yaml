@@ -196,6 +196,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 0
+    min: 0
   title: "椎名唯華 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
@@ -323,7 +330,7 @@
   time:
     hour: 17
     min: 0
-  title: "エクス・アルビオ at:YouTube マリオカート8 デラックス"
+  title: "エクス・アルビオ at:YouTube マリオカート8 デラックス ※中止の可能性あり"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -345,6 +352,14 @@
     hour: 20
     min: 0
   title: "夕陽リリ at:YouTube Until Dawn - 惨劇の山荘 -"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 20
+    min: 0
+  title: "久遠千歳 at:YouTube プレミア公開 RTRT(Mili) samayuzame Arrange ver. - 久遠千歳(Chitose
+    Kudou) cover"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -379,7 +394,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  title: "樋口楓 at:YouTube Cooking Simulator?"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -415,6 +430,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 20
+    min: 30
+  title: "-22時00分頃～ 文野環 at:?"
   end_time: 
   uri: 
 - date: 2019-06-11
