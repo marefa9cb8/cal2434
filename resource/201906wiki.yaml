@@ -222,6 +222,13 @@
   uri: 
 - date: 2019-06-12
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
     hour: 20
     min: 0
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
@@ -338,6 +345,13 @@
     hour: 19
     min: 0
   title: "(仮)～ 家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 19
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-11
