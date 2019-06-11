@@ -63705,8 +63705,20 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190626
+SUMMARY:？時？分～ 紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル？ マリオカート8 デラックス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190620T200000
 SUMMARY:特別講師：股間戦士エムズーン15g＆ゲスト：月ノ美兎＆剣持刀也 at:月ノ美兎のYouTubeチャンネル 股間大学オープンキャンパス
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190620
+SUMMARY:？時？分～ 紅ズワイガニ(三枝明那＆愛園愛美) at:？ マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64000,7 +64012,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190612T233000
-SUMMARY:渋谷ハジメ＆馬越健太郎＆ユメノシオリ＆李稍＆渋谷ハル＆審査員：ベルモンド・バンデラス＆宇森ひなこ＆あっくん大魔王 at:ふくやマスターのYouTubeチャンネル Vtuberお料理選手権Aブロック
+SUMMARY:ふくやマスター＆料理人：渋谷ハジメ＆馬越健太郎＆ユメノシオリ＆李稍＆渋谷ハル＆審査員：ベルモンド・バンデラス＆宇森ひなこ＆あっくん大魔王 at:ふくやマスターのYouTubeチャンネル Vtuberお料理選手権Aブロック
 URL:
 DESCRIPTION:
 END:VEVENT
