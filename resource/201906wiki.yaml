@@ -224,7 +224,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -239,6 +239,13 @@
     hour: 0
     min: 0
   title: "あん・で・とこ(でびでび・でびる＆戌亥とこ＆アンジュ・カトリーナ) at:戌亥とこのYouTubeチャンネル Party Panic"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -288,6 +295,13 @@
     hour: 22
     min: 0
   title: "鈴鹿詩子 at:YouTube バーチャルデート ボウリング＆ビリヤード編"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube Cooking Simulator ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -485,7 +499,7 @@
   time:
     hour: 20
     min: 30
-  title: "宇志海いちご at:YouTube"
+  title: "宇志海いちご at:YouTube 無料診断心理テスト 本当は恐ろしい裏心理テスト"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -499,7 +513,7 @@
   time:
     hour: 21
     min: 0
-  title: "叶＆天開司＆あっくん大魔王＆アベレージ at:YouTube"
+  title: "叶＆天開司＆あっくん大魔王＆アベレージ at:YouTube Swords of Gargantua"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -513,7 +527,7 @@
   time:
     hour: 21
     min: 0
-  title: "社築＆飛鳥ひな＆舞元啓介＆でびでび・でびる＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 超絶ハイテンション麻雀"
+  title: "社築＆飛鳥ひな＆舞元啓介＆でびでび・でびる＆ジョー・力一 at:舞元啓介のYouTubeチャンネル 超絶ハイテンション麻雀(雀魂)"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -553,23 +567,16 @@
   uri: 
 - date: 2019-06-11
   time:
-    hour: 22
-    min: 0
-  title: "樋口楓 at:YouTube Cooking Simulator?"
+    hour: 21
+    min: 37
+  title: "緑仙 at:ツイキャス 歌"
   end_time: 
   uri: 
 - date: 2019-06-11
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-06-11
-  time:
-    hour: 22
-    min: 0
-  title: "卯月コウ at:YouTube"
+  title: "樋口楓 at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -582,15 +589,29 @@
 - date: 2019-06-11
   time:
     hour: 22
+    min: 2
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 0
+  title: 11分～ 卯月コウ at:YouTube 雑談（ポケットモンスター ウルトラサン・ウルトラムーン）
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
     min: 30
-  title: "静凛 at:YouTube バイオハザード CODE:Veronica"
+  title: "静凛 at:YouTube バイオハザード CODE:Veronica ※延期"
   end_time: 
   uri: 
 - date: 2019-06-11
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube 新ビジュアルお披露目、雑談 ※リマインダーより"
+  title: "える at:YouTube 新ビジュアルお披露目、雑談"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -604,7 +625,14 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube Getting Over It→雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 23
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-10
