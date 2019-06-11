@@ -27,6 +27,13 @@
   title: "飛鳥ひな at:YouTube 告知"
   end_time: 
   uri: 
+- date: 2019-06-26
+  time:
+    hour: 12
+    min: 0
+  title: "桜凛月 at:YouTube 第2回 おひるンボ"
+  end_time: 
+  uri: 
 - date: 2019-06-20
   time:
     hour: 20
@@ -222,13 +229,6 @@
   uri: 
 - date: 2019-06-12
   time:
-    hour: 1
-    min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-06-12
-  time:
     hour: 20
     min: 0
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
@@ -328,6 +328,13 @@
   uri: 
 - date: 2019-06-11
   time:
+    hour: 11
+    min: 49
+  title: "雪汝 at:YouTube 作業配信"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #31"
@@ -345,13 +352,6 @@
     hour: 19
     min: 0
   title: "(仮)～ 家長むぎ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-11
-  time:
-    hour: 19
-    min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -415,7 +415,7 @@
   time:
     hour: 22
     min: 0
-  title: "花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル Super Bunny Man"
+  title: "癒月ちょこ＋緑仙＆御伽原江良＆他 at:癒月ちょこのYouTubeチャンネル 癒月ちょこ3D凸待ち"
   end_time: 
   uri: 
 - date: 2019-06-11
@@ -437,6 +437,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube 新ビジュアルお披露目、雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-11
+  time:
+    hour: 22
+    min: 0
+  title: 23時00分～ 花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル Super Bunny Man
   end_time: 
   uri: 
 - date: 2019-06-11
