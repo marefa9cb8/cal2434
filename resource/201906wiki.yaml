@@ -3,7 +3,8 @@
   time:
     hour: 19
     min: 30
-  title: "樋口楓＆鈴鹿詩子 at:VARK(Oculus Go)、ニコニコ生放送 VRライブ「ReStartLine」"
+  title: 樋口楓＆鈴鹿詩子 at:VARK(Oculus Go、Oculus Quest)、ニコニコ生放送 Kaede Higuchi VR Live "ReStart
+    Line" ※いずれもネットチケットの購入が必要
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -202,6 +203,13 @@
   time:
     hour: 21
     min: 0
+  title: "町田ちま at:YouTube ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 21
+    min: 0
   title: "成瀬鳴 at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
@@ -217,6 +225,13 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 0
+    min: 0
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -244,7 +259,7 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝 at:YouTube 新衣装お披露目"
+  title: "雪汝 at:YouTube 新衣装お披露目 ※リマインダーは13時"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -292,6 +307,13 @@
 - date: 2019-06-13
   time:
     hour: 21
+    min: 0
+  title: "雪城眞尋 at:YouTube 歌(VOCALOID縛り)"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 21
     min: 30
   title: "小野町春香 at:YouTube"
   end_time: 
@@ -300,7 +322,7 @@
   time:
     hour: 22
     min: 0
-  title: "緑仙 at:? ※予定表より"
+  title: "夕陽リリ＆緑仙 at:緑仙のYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -308,6 +330,11 @@
     hour: 22
     min: 0
   title: "飛鳥ひな＆舞元啓介＆紅ズワイガニ(三枝明那＆愛園愛美) at:舞元啓介のYouTubeチャンネル サキュバス地獄 #3"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time: 
+  title: "？時？分～ 夕陽リリ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -489,13 +516,6 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube みんなのリズム天国"
-  end_time: 
-  uri: 
-- date: 2019-06-12
-  time:
-    hour: 21
-    min: 0
   title: "椎名唯華＆葉邑ゆう＆女子高生AIタレント りんな at:JAPAN FM NETWORK系一部FMラジオ局ネットほか 『ニコラジパーク(水曜日)
     #37』"
   end_time: 
@@ -531,29 +551,29 @@
 - date: 2019-06-12
   time:
     hour: 21
+    min: 0
+  title: 13分～ 葛葉 at:YouTube みんなのリズム天国
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-12
   time:
-    hour: 22
-    min: 0
-  title: "樋口楓 at:YouTube Minecraft"
+    hour: 21
+    min: 47
+  title: "町田ちま at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-06-12
   time:
     hour: 22
     min: 0
-  title: "鈴鹿詩子 at:YouTube バーチャルデート ボウリング＆ビリヤード編"
-  end_time: 
-  uri: 
-- date: 2019-06-12
-  time:
-    hour: 22
-    min: 0
-  title: "(仮)～ ドーラ at:YouTube TETRIS 99"
+  title: "鈴鹿詩子 at:YouTube バーチャルデート(あつまれ！ ボウリング、BILLIARD)"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -568,6 +588,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 22
+    min: 0
+  title: 15分～ 樋口楓 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -595,7 +622,21 @@
   time:
     hour: 23
     min: 0
+  title: "夢追翔 at:YouTube プレミア公開 オリジナル曲 夢追翔 MV「人より上手に」"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 23
+    min: 0
   title: "童田明治 at:YouTube セリフ読み"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 23
+    min: 6
+  title: "叶＆一ノ瀬うるは＆ゲーミングたぬき at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-06-12
