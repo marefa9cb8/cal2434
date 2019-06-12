@@ -337,6 +337,27 @@
   uri: 
 - date: 2019-06-12
   time:
+    hour: 13
+    min: 26
+  title: "葛葉 at:YouTube Cooking Simulator"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 13
+    min: 30
+  title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 14
+    min: 30
+  title: "瀬戸美夜子 at:? The Forest"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
     hour: 16
     min: 0
   title: "シスター・クレア＆郡道美玲 at:両名のYouTubeチャンネル？ Minecraft ※リマインダーより"
@@ -379,6 +400,13 @@
   uri: 
 - date: 2019-06-12
   time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube エリィのアクション"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
     hour: 21
     min: 0
   title: "葛葉 at:YouTube みんなのリズム天国"
@@ -388,7 +416,7 @@
   time:
     hour: 21
     min: 0
-  title: "成瀬鳴 at:YouTube バイオハザード RE:2"
+  title: "成瀬鳴 at:YouTube バイオハザード RE:2 ※中止"
   end_time: 
   uri: 
 - date: 2019-06-12
