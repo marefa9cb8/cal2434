@@ -295,9 +295,9 @@
   uri: 
 - date: 2019-06-12
   time:
-    hour: 14
-    min: 0
-  title: "(仮)～ 舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+    hour: 7
+    min: 15
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -353,6 +353,13 @@
   time:
     hour: 22
     min: 0
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 22
+    min: 0
   title: "鈴鹿詩子 at:YouTube バーチャルデート ボウリング＆ビリヤード編"
   end_time: 
   uri: 
@@ -381,6 +388,13 @@
   time:
     hour: 23
     min: 0
+  title: "社築 at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time:
+    hour: 23
+    min: 0
   title: "矢車りね at:YouTube"
   end_time: 
   uri: 
@@ -390,6 +404,11 @@
     min: 30
   title: "ふくやマスター＆料理人：渋谷ハジメ＆馬越健太郎＆ユメノシオリ＆李稍＆渋谷ハル＆審査員：ベルモンド・バンデラス＆宇森ひなこ＆あっくん大魔王 at:ふくやマスターのYouTubeチャンネル
     Vtuberお料理選手権Aブロック"
+  end_time: 
+  uri: 
+- date: 2019-06-12
+  time: 
+  title: "？時？分(夜・仮)～ 舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-06-11
