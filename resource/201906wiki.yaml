@@ -64,6 +64,13 @@
   title: "ギバライカ(花畑チャイカ＆御伽原江良) at:YouTube いっしょにチョキッと スニッパーズ"
   end_time: 
   uri: 
+- date: 2019-06-18
+  time:
+    hour: 22
+    min: 0
+  title: "(仮) 社築＆？？？ at:？"
+  end_time: 
+  uri: 
 - date: 2019-06-17
   time:
     hour: 12
@@ -231,13 +238,6 @@
   time:
     hour: 0
     min: 0
-  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
-  end_time: 
-  uri: 
-- date: 2019-06-13
-  time:
-    hour: 0
-    min: 0
   title: "でびでび・でびる＆御伽原江良＆湊あくあ＆犬山たまき at:犬山たまきのYouTubeチャンネル 極限テトリス大会！お〇っこ我慢バトル"
   end_time: 
   uri: 
@@ -245,14 +245,49 @@
   time:
     hour: 0
     min: 0
-  title: "エクス・アルビオ at:YouTube"
+  title: 10分～ える at:YouTube ポケットモンスター Let's Go! イーブイ
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 0
+    min: 30
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-13
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube Minecraft"
+  title: "森中花咲 at:YouTube Minecraft 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 1
+    min: 1
+  title: "郡道美玲 at:ツイキャス 作業"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 2
+    min: 5
+  title: "鷹宮リオン at:YouTube クラシック鑑賞"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 2
+    min: 0
+  title: 12分～ 魔界ノりりむ at:YouTube トモダチコレクション 新生活
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 2
+    min: 27
+  title: "御伽原江良 at:OPENREC.tv 雑談"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -288,6 +323,13 @@
     hour: 20
     min: 0
   title: "戌亥とこ＆？？？ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -330,6 +372,13 @@
     hour: 22
     min: 0
   title: "飛鳥ひな＆舞元啓介＆紅ズワイガニ(三枝明那＆愛園愛美) at:舞元啓介のYouTubeチャンネル サキュバス地獄 #3"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
   end_time: 
   uri: 
 - date: 2019-06-13
