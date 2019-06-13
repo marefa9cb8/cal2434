@@ -115,6 +115,13 @@
   uri: 
 - date: 2019-06-16
   time:
+    hour: 20
+    min: 0
+  title: "小野町春香＆瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
     hour: 21
     min: 0
   title: "鈴鹿詩子 at:YouTube LoveR"
@@ -154,11 +161,6 @@
 - date: 2019-06-16
   time: 
   title: "？時？分～ 童田明治＆夜空メル at:？"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
-  title: "？時？分～ 小野町春香＆？？？ at:？"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -263,9 +265,23 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 23
+    min: 30
+  title: '00時13分～ 鈴鹿詩子 at:YouTube Detroit: Become Human ※21時から時間変更'
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 1
+    min: 50
+  title: "鷹宮リオン at:YouTube クラシック鑑賞"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -280,6 +296,20 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 2
+    min: 42
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #33"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -319,9 +349,16 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 21
+    min: 0
+  title: "郡道美玲 at:YouTube 誕生日配信、プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 22
     min: 0
-  title: "家長むぎ＆宗谷いちか＆ロボ子さん＆癒月ちょこ at:?"
+  title: "家長むぎ＆宗谷いちか＆ロボ子さん＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル Pacify"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -343,6 +380,11 @@
     hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube 新ビジュアルお披露目"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time: 
+  title: "？時？分～ でびでび・でびる at:?"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -649,13 +691,6 @@
     hour: 23
     min: 15
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
-  end_time: 
-  uri: 
-- date: 2019-06-13
-  time:
-    hour: 23
-    min: 30
-  title: "鈴鹿詩子 at:YouTube Detroit: Become Human ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-13
