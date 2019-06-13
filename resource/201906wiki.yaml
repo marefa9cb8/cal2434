@@ -108,6 +108,20 @@
   uri: 
 - date: 2019-06-16
   time:
+    hour: 13
+    min: 0
+  title: "鈴鹿詩子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 21
+    min: 0
+  title: "鈴鹿詩子 at:YouTube LoveR"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
     hour: 21
     min: 0
   title: "ひなちなちま(飛鳥ひな＆遠北千南＆町田ちま) at:遠北千南のYouTubeチャンネル"
@@ -173,6 +187,13 @@
   uri: 
 - date: 2019-06-15
   time:
+    hour: 12
+    min: 0
+  title: "鈴鹿詩子 at:YouTube Fit Boxing"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
     hour: 15
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Wii Fit ※予定表・②より"
@@ -204,7 +225,7 @@
   time:
     hour: 21
     min: 0
-  title: "鈴鹿詩子＆竜胆尊＆樋口楓＆椎名唯華＆安土桃＆鷹宮リオン＆郡道美玲 at:YouTube おとなのじかん 課外授業編 格付けし合う女たち"
+  title: "鈴鹿詩子＆竜胆尊＆樋口楓＆椎名唯華＆安土桃＆鷹宮リオン＆郡道美玲 at:竜胆尊のYouTubeチャンネル おとなのじかん 課外授業編 格付けし合う女たち"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -218,7 +239,7 @@
   time:
     hour: 21
     min: 0
-  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:?"
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:鈴木勝のYouTube(2nd)チャンネル"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -265,6 +286,13 @@
   time:
     hour: 19
     min: 0
+  title: "渋谷ハジメ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 19
+    min: 0
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -298,9 +326,23 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 22
+    min: 0
+  title: "叶＆椎名唯華 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube 新ビジュアルお披露目"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -494,7 +536,7 @@
   time:
     hour: 21
     min: 0
-  title: "樋口楓 at:YouTube Minecraft ※リマインダーより"
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -536,6 +578,13 @@
   time:
     hour: 22
     min: 0
+  title: "叶 at:YouTube Cooking Simulator"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
   title: "椎名唯華 at:YouTube DELTARUNE"
   end_time: 
   uri: 
@@ -551,6 +600,13 @@
     hour: 22
     min: 0
   title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTube(2nd)チャンネル Five Nights at Freddy's"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -584,8 +640,29 @@
 - date: 2019-06-13
   time:
     hour: 23
+    min: 5
+  title: "町田ちま at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 23
+    min: 15
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube Detroit: Become Human ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 23
+    min: 51
+  title: "叶＆Ruytv at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-06-12
