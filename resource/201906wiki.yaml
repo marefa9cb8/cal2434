@@ -142,6 +142,11 @@
   uri: 
 - date: 2019-06-16
   time: 
+  title: "？時？分～ 雪城眞尋 at:雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time: 
   title: "？時？分(夜)～ 愛園愛美＆？？？ at:?"
   end_time: 
   uri: 
@@ -223,6 +228,20 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
@@ -261,6 +280,11 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time: 
+  title: "？時？分～ 雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -321,9 +345,16 @@
   uri: 
 - date: 2019-06-13
   time:
+    hour: 7
+    min: 30
+  title: 38分～ レヴィ・エリファ at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
     hour: 12
     min: 0
-  title: "雪汝 at:YouTube 新衣装お披露目 ※リマインダーは13時"
+  title: "雪汝 at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -338,6 +369,20 @@
     hour: 14
     min: 0
   title: "舞元啓介 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -379,6 +424,13 @@
   time:
     hour: 21
     min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 21
+    min: 0
   title: "成瀬鳴 at:YouTube バイオハザード RE:2"
   end_time: 
   uri: 
@@ -401,6 +453,20 @@
     hour: 22
     min: 0
   title: "夕陽リリ＆緑仙 at:緑仙のYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "椎名唯華 at:YouTube DELTARUNE"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
+  title: "轟京子 at:YouTube Gregory Horror Show"
   end_time: 
   uri: 
 - date: 2019-06-13
