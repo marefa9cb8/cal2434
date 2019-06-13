@@ -132,22 +132,22 @@
   uri: 
 - date: 2019-06-16
   time: 
-  title: "？時？分～ 小野町春香＆？？？ at:？"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
   title: "？時？分～ 童田明治＆夜空メル at:？"
   end_time: 
   uri: 
 - date: 2019-06-16
   time: 
-  title: "？時？分～ 雪城眞尋 at:雑談"
+  title: "？時？分～ 小野町春香＆？？？ at:？"
   end_time: 
   uri: 
 - date: 2019-06-16
   time: 
   title: "？時？分(夜)～ 愛園愛美＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time: 
+  title: "？時？分～ 雪城眞尋 at:雑談"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -230,7 +230,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -373,9 +373,16 @@
   uri: 
 - date: 2019-06-13
   time:
+    hour: 15
+    min: 0
+  title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
     hour: 16
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -394,6 +401,20 @@
   uri: 
 - date: 2019-06-13
   time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 20
+    min: 0
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:戌亥とこのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
     hour: 20
     min: 0
   title: "夢追翔＆白百合リリィ at:YouTube Minecraft"
@@ -403,7 +424,14 @@
   time:
     hour: 20
     min: 0
-  title: "戌亥とこ＆？？？ at:YouTube"
+  title: "瀬戸美夜子 at:YouTube 俺の屍を越えてゆけ(リメイク版)"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -417,7 +445,7 @@
   time:
     hour: 21
     min: 0
-  title: "鈴鹿詩子 at:YouTube Detroit: Become Human"
+  title: "鈴鹿詩子 at:YouTube Detroit: Become Human ※リマインダー：23時30分～"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -438,7 +466,7 @@
   time:
     hour: 21
     min: 0
-  title: "雪城眞尋 at:YouTube 歌(VOCALOID縛り)"
+  title: "雪城眞尋 at:YouTube 歌(VOCALOID縛り) ※中止"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -480,12 +508,24 @@
   time:
     hour: 22
     min: 0
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 22
+    min: 0
   title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
   end_time: 
   uri: 
 - date: 2019-06-13
   time: 
   title: "？時？分～ 夕陽リリ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time: 
+  title: "？時？分(仮)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-12
@@ -604,7 +644,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時54分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-06-12
