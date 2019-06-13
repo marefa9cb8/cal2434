@@ -209,6 +209,13 @@
   uri: 
 - date: 2019-06-15
   time:
+    hour: 21
+    min: 0
+  title: "おなえどし組(出雲霞＆鈴木勝＆卯月コウ) at:?"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
     hour: 23
     min: 0
   title: "舞元啓介＆ジョー・力一＆ゲスト：叶 at:? 舞元力一 番外編"
@@ -403,7 +410,21 @@
   time:
     hour: 19
     min: 0
+  title: "三枝明那 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 19
+    min: 0
   title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube ポケットモンスター ハートゴールド"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -439,13 +460,6 @@
     hour: 21
     min: 0
   title: "樋口楓 at:YouTube Minecraft ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-06-13
-  time:
-    hour: 21
-    min: 0
-  title: "鈴鹿詩子 at:YouTube Detroit: Become Human ※リマインダー：23時30分～"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -494,13 +508,6 @@
   time:
     hour: 22
     min: 0
-  title: "轟京子 at:YouTube Gregory Horror Show"
-  end_time: 
-  uri: 
-- date: 2019-06-13
-  time:
-    hour: 22
-    min: 0
   title: "飛鳥ひな＆舞元啓介＆紅ズワイガニ(三枝明那＆愛園愛美) at:舞元啓介のYouTubeチャンネル サキュバス地獄 #3"
   end_time: 
   uri: 
@@ -508,7 +515,7 @@
   time:
     hour: 22
     min: 0
-  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:YouTube"
+  title: "でびリオン(鷹宮リオン＆でびでび・でびる) at:でびでび・でびるのYouTube(2nd)チャンネル Five Nights at Freddy's"
   end_time: 
   uri: 
 - date: 2019-06-13
@@ -516,6 +523,20 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 23
+    min: 0
+  title: "轟京子 at:YouTube Gregory Horror Show"
+  end_time: 
+  uri: 
+- date: 2019-06-13
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube Detroit: Become Human ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-13
