@@ -82,6 +82,13 @@
   time:
     hour: 22
     min: 0
+  title: "(仮)～ 樋口楓 at:YouTube プレミア公開 ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 22
+    min: 0
   title: "癒月ちょこ＆ゲスト：愛園愛美 at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
@@ -210,6 +217,11 @@
   end_time: 
   uri: 
 - date: 2019-06-15
+  time: 
+  title: "？時？分(夕方・仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-15
   time:
     hour: 18
     min: 0
@@ -307,6 +319,27 @@
   uri: 
 - date: 2019-06-14
   time:
+    hour: 3
+    min: 20
+  title: "闇夜乃モルル＆ドーラ at:ドーラのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 4
+    min: 3
+  title: "椎名唯華＆日ノ隈らん＆けんき at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 4
+    min: 43
+  title: "魔界ノりりむ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #33"
@@ -337,7 +370,7 @@
   time:
     hour: 21
     min: 0
-  title: "町田ちま at:YouTube ※リマインダー予定表より"
+  title: "町田ちま at:YouTube 歌 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-14
