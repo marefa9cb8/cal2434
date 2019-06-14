@@ -103,7 +103,14 @@
   time:
     hour: 1
     min: 0
-  title: "小野町春香 at:YouTube ASMR"
+  title: "小野町春香 at:YouTube ASMR ※"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube プレミア公開? 新ビジュアルお披露目"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -125,6 +132,20 @@
     hour: 13
     min: 0
   title: "鈴鹿詩子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube 「ゴジラ キング・オブ・モンスターズ」感想会＆解説"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:YouTube プレミア公開 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -160,11 +181,6 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
-  title: "？時？分(夕方・仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-16
