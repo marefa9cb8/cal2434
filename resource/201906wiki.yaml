@@ -361,16 +361,23 @@
   uri: 
 - date: 2019-06-14
   time:
-    hour: 21
+    hour: 19
     min: 0
-  title: "(仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  title: "三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-14
   time:
     hour: 21
     min: 0
-  title: "町田ちま at:YouTube 歌 ※リマインダーより"
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 21
+    min: 0
+  title: "町田ちま at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -385,6 +392,13 @@
     hour: 21
     min: 0
   title: "郡道美玲 at:YouTube 誕生日配信、プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 21
+    min: 0
+  title: "雪城眞尋 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-14
@@ -411,6 +425,13 @@
 - date: 2019-06-14
   time:
     hour: 23
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-14
+  time:
+    hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube 新ビジュアルお披露目"
   end_time: 
@@ -418,11 +439,6 @@
 - date: 2019-06-14
   time: 
   title: "？時？分～ でびでび・でびる at:?"
-  end_time: 
-  uri: 
-- date: 2019-06-14
-  time: 
-  title: "？時？分～ 雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-13
