@@ -40,6 +40,13 @@
   title: "？時？分～ 紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル？ マリオカート8 デラックス"
   end_time: 
   uri: 
+- date: 2019-06-22
+  time:
+    hour: 23
+    min: 0
+  title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 神々さみっと 初回・第二回(※再放送：4月12日・5月25日分)"
+  end_time: 
+  uri: 
 - date: 2019-06-21
   time: 
   title: "？時？分(昼頃)～ でびるる(でびでび・でびる＆鈴原るる) at:？ 零 ～眞紅の蝶～"
@@ -141,7 +148,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -149,6 +163,20 @@
     hour: 0
     min: 0
   title: "緑仙 at:YouTube 歌 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 0
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 「にじさんじチーム対抗大食い企画 1万円分マックを食い尽くせ！」振り返り、歌"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 0
+    min: 30
+  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:各々のYouTubeチャンネル? モンスターハンター：ワールド ※前日23時半から時間変更（リマインダーより）"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -162,14 +190,28 @@
   time:
     hour: 1
     min: 0
+  title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 1
+    min: 0
   title: "小野町春香 at:YouTube ASMR ※"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 6
+    min: 0
+  title: "(仮)～ シスター・クレア at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-16
   time:
     hour: 7
     min: 0
-  title: "物述有栖 at:YouTube プレミア公開? 新ビジュアルお披露目"
+  title: "物述有栖 at:YouTube プレミア公開 【祝お披露目】♡ニチアサ時空超越お茶会♡【物述新キービジュアル】"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -182,8 +224,8 @@
 - date: 2019-06-16
   time:
     hour: 12
-    min: 0
-  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+    min: 15
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6 ※12時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -475,14 +517,6 @@
   time:
     hour: 21
     min: 0
-  title: "司会進行：鈴鹿詩子＆竜胆尊+樋口楓＆椎名唯華＆安土桃＆鷹宮リオン＆郡道美玲 at:竜胆尊のYouTubeチャンネル おとなのじかん 課外授業編
-    格付けし合う女たち"
-  end_time: 
-  uri: 
-- date: 2019-06-15
-  time:
-    hour: 21
-    min: 0
   title: Loki Yamato他 at:Loki YamatoのYouTubeチャンネル(本配信) ファイナルファンタジーXIV 「エオルゼアツアーズ～聞いて、走って、考えて～」
   end_time: 
   uri: 
@@ -496,6 +530,14 @@
 - date: 2019-06-15
   time:
     hour: 21
+    min: 0
+  title: 18分～ 司会進行：鈴鹿詩子＆竜胆尊+樋口楓＆椎名唯華＆安土桃＆鷹宮リオン＆郡道美玲 at:竜胆尊のYouTubeチャンネル おとなのじかん 課外授業編
+    格付けし合う女たち
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) UTOPIA 幻想ホラーアドベンチャー"
   end_time: 
@@ -503,7 +545,7 @@
 - date: 2019-06-15
   time:
     hour: 21
-    min: 30
+    min: 50
   title: "三枝明那 at:YouTube スーパーマリオブラザーズ"
   end_time: 
   uri: 
@@ -539,14 +581,7 @@
   time:
     hour: 23
     min: 30
-  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわりのYouTubeチャンネル モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-06-15
-  time:
-    hour: 23
-    min: 30
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-15
