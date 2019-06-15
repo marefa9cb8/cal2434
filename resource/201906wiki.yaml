@@ -109,11 +109,25 @@
   title: "癒月ちょこ＆ゲスト：愛園愛美 at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
+- date: 2019-06-17
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
 - date: 2019-06-16
   time:
     hour: 0
     min: 0
   title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube モンスターハンター：ワールド or Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -285,7 +299,7 @@
   time:
     hour: 12
     min: 0
-  title: "鈴鹿詩子 at:YouTube Fit Boxing"
+  title: 11分～ 鈴鹿詩子 at:YouTube Fit Boxing
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -299,7 +313,7 @@
   time:
     hour: 14
     min: 0
-  title: "える＆渋谷ハジメ at:両名のYouTubeチャンネル? Minecraft"
+  title: "える＆渋谷ハジメ at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -318,9 +332,37 @@
   uri: 
 - date: 2019-06-15
   time:
+    hour: 14
+    min: 0
+  title: 43分～ エクス・アルビオ at:YouTube マリオカート8 デラックス
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
     hour: 15
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Wii Fit ※予定表・②より ※延期"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 16
+    min: 0
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 16
+    min: 21
+  title: "郡道美玲 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 16
+    min: 40
+  title: "緑仙 at:YouTube(サブ)"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -332,8 +374,17 @@
   end_time: 
   uri: 
 - date: 2019-06-15
-  time: 
-  title: "？時？分(夕方・仮)～ 樋口楓 at:? ※Twitterプロフィール欄より"
+  time:
+    hour: 17
+    min: 0
+  title: "卯月コウ at:YouTube モンスターハンター：ワールド、モスバーガー喫食"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 17
+    min: 25
+  title: "静凛 at:YouTube 黒い砂漠"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -341,6 +392,27 @@
     hour: 18
     min: 0
   title: MC：百花繚乱＆アシスタントMC：森中花咲＆なゆごろう at:ニコニコ生放送 ニコニコ町会議全国ツアー2019特番～開催地＆企画内容発表～
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 19
+    min: 0
+  title: "笹木咲 at:YouTube 重大発表"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time:
+    hour: 19
+    min: 0
+  title: "(仮)～ 三枝明那 at:YouTube スーパーマリオブラザーズ"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -397,7 +469,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築 at:YouTube"
+  title: "社築 at:YouTube 忍者龍剣伝"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -425,7 +497,7 @@
   time:
     hour: 23
     min: 30
-  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわりのYouTubeチャンネル モンスターハンター：ワールド ※リマインダーより"
+  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわりのYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-15
@@ -433,6 +505,11 @@
     hour: 23
     min: 30
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-15
+  time: 
+  title: "？時？分(夜・仮)～ ベルモンド・バンデラス at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-14
