@@ -53,6 +53,13 @@
   end_time: 
   uri: 
 - date: 2019-06-21
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子＆瀬戸あさひ at:？ Human: Fall Flat"
+  end_time: 
+  uri: 
+- date: 2019-06-21
   time: 
   title: "？時？分(仮)～ 町田ちま at:YouTube 4万人記念"
   end_time: 
@@ -84,8 +91,22 @@
   end_time: 
   uri: 
 - date: 2019-06-20
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 黒歴史グランプリ"
+  end_time: 
+  uri: 
+- date: 2019-06-20
   time: 
   title: "？時？分～ 愛園愛美＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-19
@@ -102,6 +123,13 @@
   uri: 
 - date: 2019-06-18
   time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子&ユキミお姉ちゃん at:? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
     hour: 22
     min: 0
   title: "ギバライカ(花畑チャイカ＆御伽原江良) at:YouTube いっしょにチョキッと スニッパーズ"
@@ -112,6 +140,13 @@
     hour: 22
     min: 0
   title: "(仮) 社築＆？？？ at:？"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #17"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -133,6 +168,13 @@
     hour: 20
     min: 0
   title: "笹木咲 at:YouTube 3Dお披露目 ※06/15配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子＆雪城眞尋 at:? Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -277,9 +319,37 @@
   uri: 
 - date: 2019-06-16
   time:
+    hour: 14
+    min: 36
+  title: "御伽原江良 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 17
+    min: 0
+  title: "ドーラ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 18
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube 「ゴジラ キング・オブ・モンスターズ」感想会＆解説"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 19
+    min: 0
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -314,7 +384,7 @@
   time:
     hour: 21
     min: 0
-  title: "鈴鹿詩子 at:YouTube LoveR ※中止"
+  title: "鈴鹿詩子 at:YouTube LoveR  Detroit: Become Human ※内容変更"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -322,6 +392,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube Cooking Simulator"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 21
+    min: 0
+  title: "社築 at:YouTube beatmania IIDX 9th Style"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -356,7 +433,14 @@
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
+  title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 23
+    min: 0
+  title: "童田明治＆夜空メル at:童田明治のYouTubeチャンネル ASMR"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -367,11 +451,6 @@
 - date: 2019-06-16
   time: 
   title: "？時？分～ 矢車りね at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
-  title: "？時？分～ 童田明治＆夜空メル at:？"
   end_time: 
   uri: 
 - date: 2019-06-15
