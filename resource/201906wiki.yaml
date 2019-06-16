@@ -159,6 +159,20 @@
 - date: 2019-06-17
   time:
     hour: 0
+    min: 2
+  title: "緑仙 at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 0
+    min: 15
+  title: "飛鳥ひな at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 0
     min: 30
   title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
   end_time: 
@@ -166,15 +180,15 @@
 - date: 2019-06-17
   time:
     hour: 1
-    min: 0
-  title: "叶＆椎名唯華 at:両名のYouTubeチャンネル？ モンスターハンター：ワールド"
+    min: 5
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-17
   time:
     hour: 1
     min: 0
-  title: "鷹宮リオン at:YouTube"
+  title: 10分～ 叶＆椎名唯華＆あっくん大魔王＆天開司 at:両名のYouTubeチャンネル モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -182,6 +196,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #34"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -216,14 +237,14 @@
   time:
     hour: 20
     min: 30
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-17
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ＆成瀬鳴 at:YouTube カブトムシ・クワガタ語り"
+  title: "渋谷ハジメ＆成瀬鳴 at:成瀬鳴のYouTubeチャンネル カブトムシ・クワガタ語り"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -244,6 +265,13 @@
   time:
     hour: 22
     min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
@@ -252,6 +280,13 @@
     hour: 22
     min: 0
   title: "癒月ちょこ＆ゲスト：愛園愛美 at:癒月ちょこのYouTubeチャンネル 身体測定"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-17
