@@ -229,8 +229,8 @@
 - date: 2019-06-16
   time:
     hour: 6
-    min: 0
-  title: "(仮)～ シスター・クレア at:YouTube 雑談"
+    min: 9
+  title: "シスター・クレア at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -238,6 +238,20 @@
     hour: 7
     min: 0
   title: "物述有栖 at:YouTube プレミア公開 【祝お披露目】♡ニチアサ時空超越お茶会♡【物述新キービジュアル】"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 8
+    min: 30
+  title: "御伽原江良 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-06-16
+  time:
+    hour: 8
+    min: 42
+  title: "シスター・クレア at:YouTube Cooking Simulator"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -286,7 +300,7 @@
   time:
     hour: 20
     min: 0
-  title: "小野町春香＆瀬戸美夜子 at:YouTube Minecraft"
+  title: "小野町春香＆瀬戸美夜子 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-16
@@ -344,11 +358,6 @@
 - date: 2019-06-16
   time: 
   title: "？時？分～ 童田明治＆夜空メル at:？"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
-  title: "？時？分(夜)～ 愛園愛美＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-06-15
