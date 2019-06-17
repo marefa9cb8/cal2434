@@ -42,9 +42,23 @@
   uri: 
 - date: 2019-06-22
   time:
+    hour: 14
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
     hour: 23
     min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 神々さみっと 初回・第二回(※再放送：4月12日・5月25日分)"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -64,6 +78,13 @@
     hour: 22
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -133,6 +154,13 @@
 - date: 2019-06-19
   time: 
   title: "？時？分～ 紅ズワイガニ(三枝明那＆愛園愛美) at:？ マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
+    hour: 17
+    min: 0
+  title: "出雲霞 at:YouTube Getting Over It"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -221,9 +249,44 @@
   uri: 
 - date: 2019-06-17
   time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 7
+    min: 56
+  title: "レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 12
+    min: 0
+  title: "御伽原江良＆犬山たまき＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 座談会"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ #34"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 17
+    min: 0
+  title: "(仮)～ エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -271,6 +334,13 @@
 - date: 2019-06-17
   time:
     hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube 海鮮!!すし街道"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -286,7 +356,7 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  title: "小野町春香 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -575,11 +645,6 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
-  end_time: 
-  uri: 
-- date: 2019-06-16
-  time: 
-  title: "？時？分～ 矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-15
