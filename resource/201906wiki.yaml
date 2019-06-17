@@ -153,6 +153,13 @@
   uri: 
 - date: 2019-06-21
   time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
     hour: 22
     min: 0
   title: "緑仙 at:? 雑談 ※予定表より"
@@ -217,6 +224,13 @@
   uri: 
 - date: 2019-06-20
   time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
     hour: 22
     min: 0
   title: "小野町春香 at:YouTube Minecraft"
@@ -250,6 +264,13 @@
   time:
     hour: 0
     min: 0
+  title: "叶＆花芽すみれ at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
   end_time: 
   uri: 
@@ -271,6 +292,13 @@
   time:
     hour: 20
     min: 0
+  title: "渋谷ハジメ＆花芽すみれ at:? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 20
+    min: 0
   title: "瀬戸美夜子 at:YouTube"
   end_time: 
   uri: 
@@ -286,6 +314,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-19
