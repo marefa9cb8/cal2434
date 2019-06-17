@@ -420,15 +420,15 @@
 - date: 2019-06-17
   time:
     hour: 17
-    min: 0
-  title: "(仮)～ エクス・アルビオ at:YouTube"
+    min: 30
+  title: "エクス・アルビオ at:YouTube J.B...、TheHOUSE、うさぎパズル"
   end_time: 
   uri: 
 - date: 2019-06-17
   time:
     hour: 18
     min: 0
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -443,6 +443,13 @@
     hour: 19
     min: 0
   title: "三枝明那 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 19
+    min: 45
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -463,14 +470,7 @@
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子＆雪城眞尋 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-06-17
-  time:
-    hour: 20
-    min: 30
-  title: "戌亥とこ at:YouTube Cooking Simulator ※時間変更の可能性あり"
+  title: "瀬戸美夜子＆雪城眞尋 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -484,7 +484,7 @@
   time:
     hour: 21
     min: 0
-  title: "森中花咲 at:YouTube Minecraft"
+  title: "森中花咲 at:YouTube Minecraft ※延期"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -517,16 +517,23 @@
   uri: 
 - date: 2019-06-17
   time:
-    hour: 22
-    min: 0
-  title: "葛葉 at:YouTube"
+    hour: 21
+    min: 30
+  title: "戌亥とこ at:YouTube Cooking Simulator ※20時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-17
   time:
     hour: 22
     min: 0
-  title: "花畑チャイカ at:YouTube Minecraft ※リマインダーより"
+  title: "葛葉 at:YouTube ※中止の可能性あり"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 22
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -555,6 +562,13 @@
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-06-17
