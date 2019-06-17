@@ -155,6 +155,13 @@
   end_time: 
   uri: 
 - date: 2019-06-20
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-20
   time: 
   title: "？時？分(昼頃)～ でびるる(でびでび・でびる＆鈴原るる) at:？ 零 ～眞紅の蝶～"
   end_time: 
@@ -242,6 +249,13 @@
 - date: 2019-06-19
   time: 
   title: "？時？分～ 紅ズワイガニ(三枝明那＆愛園愛美) at:？ マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -377,16 +391,30 @@
   uri: 
 - date: 2019-06-17
   time:
-    hour: 17
-    min: 0
-  title: "(仮)～ エクス・アルビオ at:YouTube"
+    hour: 13
+    min: 10
+  title: "渋谷ハジメ at:YouTube テスト配信(モンスターハンター：ワールド)"
   end_time: 
   uri: 
 - date: 2019-06-17
   time:
-    hour: 19
+    hour: 14
     min: 0
-  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  title: "瀬戸美夜子 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 14
+    min: 35
+  title: "黒井しば at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 17
+    min: 0
+  title: "(仮)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -407,7 +435,7 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube 3Dお披露目 ※リマインダーより"
+  title: "笹木咲 at:YouTube 3Dお披露目"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -421,6 +449,13 @@
   time:
     hour: 20
     min: 0
+  title: "でびでび・でびる at:YouTube(2nd) ドミノピザ ニューヨーカー1キロウルトラチーズ 喫食? ※時間変更の可能性あり"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 20
+    min: 0
   title: "瀬戸美夜子＆雪城眞尋 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -428,7 +463,7 @@
   time:
     hour: 20
     min: 30
-  title: "戌亥とこ at:YouTube Cooking Simulator"
+  title: "戌亥とこ at:YouTube Cooking Simulator ※時間変更の可能性あり"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -436,6 +471,20 @@
     hour: 21
     min: 0
   title: "渋谷ハジメ＆成瀬鳴 at:成瀬鳴のYouTubeチャンネル カブトムシ・クワガタ語り"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 21
+    min: 0
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -450,13 +499,6 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
-  end_time: 
-  uri: 
-- date: 2019-06-17
-  time:
-    hour: 22
-    min: 0
-  title: "本間ひまわり at:YouTube モンスターハンター：ワールド振り返り＆今後について(仮)"
   end_time: 
   uri: 
 - date: 2019-06-17
@@ -492,6 +534,20 @@
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2019-06-17
+  time:
+    hour: 23
+    min: 30
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド振り返り＆今後について(仮) ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-16
