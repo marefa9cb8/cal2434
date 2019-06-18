@@ -356,14 +356,23 @@
   uri: 
 - date: 2019-06-18
   time:
+    hour: 8
+    min: 15
+  title: "レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
     hour: 12
     min: 0
   title: "雪汝＆テトラ at:YouTube Raft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-18
-  time: 
-  title: '12時００分～ 愛園愛美 at:YouTube ひるまなラジオ #35'
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #35"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -420,6 +429,13 @@
     hour: 22
     min: 0
   title: "ギバライカ(花畑チャイカ＆御伽原江良) at:御伽原江良のYouTubeチャンネル いっしょにチョキッと スニッパーズ"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
+    hour: 22
+    min: 0
+  title: "成瀬鳴＆おだのぶ＆マキオ at:YouTube マリオカート8 デラックス(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-06-18
