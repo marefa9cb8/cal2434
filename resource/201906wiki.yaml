@@ -276,6 +276,13 @@
   uri: 
 - date: 2019-06-19
   time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube Getting Over It"
@@ -304,6 +311,20 @@
   uri: 
 - date: 2019-06-19
   time:
+    hour: 20
+    min: 30
+  title: "(仮)～ 月ノ美兎 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 月ノ美兎＆樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
     hour: 22
     min: 0
   title: "小野町春香＆？？？ at:?"
@@ -314,13 +335,6 @@
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-06-19
-  time:
-    hour: 22
-    min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-19
@@ -358,14 +372,14 @@
   time:
     hour: 8
     min: 15
-  title: "レヴィ・エリファ at:YouTube"
+  title: "レヴィ・エリファ at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-06-18
   time:
     hour: 12
     min: 0
-  title: "雪汝＆テトラ at:YouTube Raft ※リマインダーより"
+  title: "雪汝＆テトラ＆音俣るか＆とと at:YouTube Raft"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -384,9 +398,23 @@
   uri: 
 - date: 2019-06-18
   time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube Getting Over It ※19日に変更"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
+    hour: 18
+    min: 30
+  title: "戌亥とこ at:? 雑談"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -401,6 +429,13 @@
     hour: 20
     min: 0
   title: "鈴鹿詩子＆緑仙 at:緑仙のYouTubeチャンネル プレミア公開 Perfect Crime / 緑仙×鈴鹿詩子 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube 五七五オンライン"
   end_time: 
   uri: 
 - date: 2019-06-18
@@ -450,6 +485,11 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-18
+  time: 
+  title: "？時？分(仮)～ 夢追翔 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-17
