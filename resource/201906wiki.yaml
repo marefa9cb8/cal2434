@@ -28,6 +28,12 @@
   title: "飛鳥ひな at:YouTube 告知"
   end_time: 
   uri: 
+- date: 2019-06-27
+  time: 
+  title: "？時？分～ 夢追翔＆黒井しば+ゲスト：紅ズワイガニ(愛園愛美＆三枝明那) at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+    #7"
+  end_time: 
+  uri: 
 - date: 2019-06-26
   time:
     hour: 0
@@ -254,13 +260,6 @@
   time:
     hour: 0
     min: 0
-  title: "にじさんじGALS(樋口楓＆笹木咲＆椎名唯華＆鷹宮リオン) at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-06-20
-  time:
-    hour: 0
-    min: 0
   title: "剣持刀也 at:YouTube ディズニーランド・アドベンチャーズ"
   end_time: 
   uri: 
@@ -268,21 +267,35 @@
   time:
     hour: 0
     min: 0
-  title: "叶 at:YouTube"
+  title: "叶 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube コラボ振り返り雑談、告知 ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube コラボ振り返り雑談、告知"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 0
+    min: 0
+  title: 10分～ にじさんじGALS(樋口楓＆笹木咲＆椎名唯華＆鷹宮リオン) at:各々のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 0
     min: 30
-  title: "ルーザーキングス（魔界ノりりむ&葛葉&卯月コウ）at:YouTube モンスターハンター：ワールド"
+  title: "エクス・アルビオ at:YouTube PUBG、雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 1
+    min: 0
+  title: "静凛 at:YouTube バイノーラル"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -294,6 +307,20 @@
   uri: 
 - date: 2019-06-20
   time:
+    hour: 0
+    min: 30
+  title: 01時00分～ Loser Kings（魔界ノりりむ＆葛葉＆卯月コウ）at:各々のYouTubeチャンネル モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 1
+    min: 0
+  title: "童田明治 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
@@ -301,9 +328,9 @@
   uri: 
 - date: 2019-06-20
   time:
-    hour: 0
-    min: 0
-  title: "エクス・アルビオ at:YouTube"
+    hour: 2
+    min: 2
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -360,6 +387,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-20
