@@ -497,13 +497,6 @@
   time:
     hour: 19
     min: 0
-  title: "シスター・クレア at:YouTube 懺悔室"
-  end_time: 
-  uri: 
-- date: 2019-06-19
-  time:
-    hour: 19
-    min: 0
   title: "桜凛月 at:YouTube Ash Tale"
   end_time: 
   uri: 
@@ -516,9 +509,16 @@
   uri: 
 - date: 2019-06-19
   time:
+    hour: 19
+    min: 0
+  title: 17分～ シスター・クレア at:YouTube 懺悔室
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆花芽すみれ at:YouTube PUBG"
+  title: "文野環 at:YouTube プレゼント開封、猫写真グランプリ"
   end_time: 
   uri: 
 - date: 2019-06-19
@@ -532,7 +532,7 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:各々のYouTubeチャンネル? Minecraft"
+  title: "でびでび・でびる＆夢月ロア＆戌亥とこ at:夢月ロアのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-19
@@ -546,7 +546,14 @@
   time:
     hour: 20
     min: 0
-  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル? マリオカート8 デラックス"
+  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-19
+  time:
+    hour: 20
+    min: 0
+  title: 14分～ 渋谷ハジメ＆花芽すみれ at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2019-06-19
@@ -625,13 +632,6 @@
     hour: 23
     min: 0
   title: "夢追翔 at:YouTube 歌(ヒプノシスマイク)"
-  end_time: 
-  uri: 
-- date: 2019-06-19
-  time:
-    hour: 14
-    min: 0
-  title: "-21時00分頃～ 文野環 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-19
