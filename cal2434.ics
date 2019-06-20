@@ -64108,13 +64108,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190620T200000
+SUMMARY:伏見ガク at:YouTube Witch It かくれんぼレクリエーション
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190620T200000
 SUMMARY:ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV 第八刻
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190620T200000
-SUMMARY:伏見ガク at:YouTube Witch It かくれんぼレクリエーション
+SUMMARY:笹木咲 at:YouTube みんなのリズム天国
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64156,7 +64162,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190620T220000
-SUMMARY:リゼ・ヘルエスタ＆ロボ子さん at:YouTube マリオカート8 デラックス
+SUMMARY:リゼ・ヘルエスタ＆ロボ子さん at:両名のYouTubeチャンネル マリオカート8 デラックス
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64168,7 +64174,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190620T230000
-SUMMARY:ドーラ＆花畑チャイカ＆社築＆緑仙＆舞元啓介＆ジョー・力一 at:緑仙のYouTubeチャンネル アズマ追悼人狼 ※リマインダー＆予定表より
+SUMMARY:ドーラ＆花畑チャイカ＆社築＆緑仙＆舞元啓介＆ジョー・力一 at:緑仙のメインYouTubeチャンネル アズマ追悼人狼 ※リマインダー＆予定表より
 URL:
 DESCRIPTION:
 END:VEVENT
