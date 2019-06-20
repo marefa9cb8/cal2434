@@ -61,6 +61,20 @@
     ※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-06-25
+  time:
+    hour: 20
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 21
+    min: 0
+  title: "葉山舞鈴 at:YouTube ※初配信"
+  end_time: 
+  uri: 
 - date: 2019-06-24
   time:
     hour: 22
@@ -163,7 +177,7 @@
   time:
     hour: 1
     min: 0
-  title: "える at:YouTube Minecraft ※Twitterプロフィール欄より"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -185,6 +199,13 @@
     hour: 16
     min: 0
   title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 17
+    min: 0
+  title: "町田ちま at:YouTube 4万人記念 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -224,14 +245,28 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) ASMR・グッズ等計画会議 ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) ASMR・グッズ等相談会"
   end_time: 
   uri: 
 - date: 2019-06-21
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube マリオカート8 デラックス or モンスターハンター：ワールド or ファイナルファンタジーXIV"
+  title: "郡道美玲 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -239,6 +274,13 @@
     hour: 2
     min: 0
   title: "郡道美玲 at:YouTube 動画同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 0
+    min: 30
+  title: or01時00分～ 御伽原江良 at:YouTube 9万人記念、雑談
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -252,7 +294,7 @@
   time:
     hour: 7
     min: 0
-  title: "アンジュ・カトリーナ at:YouTube"
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -265,6 +307,20 @@
 - date: 2019-06-21
   time: 
   title: "？時？分(昼頃)～ でびるる(でびでび・でびる＆鈴原るる) at:？ 零 ～眞紅の蝶～"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 19
+    min: 0
+  title: "樋口楓 at:YouTube プレミア公開 やきもち☆ハートブレイク【樋口楓オリジナル曲】"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 19
+    min: 0
+  title: "キズナアイ＆物述有栖 at:キズナアイのYouTubeチャンネル プレミア公開"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -285,7 +341,7 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  title: "(仮)～ 樋口楓 at:YouTube Minecraft ※Twitterプロフィール欄＆20日の配信で告知"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -427,15 +483,15 @@
 - date: 2019-06-20
   time:
     hour: 13
-    min: 0
-  title: "(仮)～ 叶 at:YouTube モンスターハンター：ワールド ※中止"
+    min: 30
+  title: "でびるる(でびでび・でびる＆鈴原るる) at:鈴原るるのYouTubeチャンネル 零 ～眞紅の蝶～"
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
-    hour: 13
-    min: 30
-  title: "でびるる(でびでび・でびる＆鈴原るる) at:鈴原るるのYouTubeチャンネル 零 ～眞紅の蝶～"
+    hour: 15
+    min: 17
+  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -462,15 +518,22 @@
 - date: 2019-06-20
   time:
     hour: 17
-    min: 7
-  title: "黒井しば at:YouTube ゼルダの伝説 Breath of the Wild"
+    min: 0
+  title: 07分～ 黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 18時46分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 18
+    min: 55
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -484,14 +547,14 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ ※Twitterネームより"
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 20
     min: 0
-  title: "伏見ガク at:YouTube Witch It かくれんぼレクリエーション"
+  title: "伏見ガク at:YouTube Witch It"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -519,14 +582,21 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  title: "樋口楓 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 21
     min: 0
-  title: "夢追翔＆白百合リリィ at:両名のYouTubeチャンネル Minecraft"
+  title: "成瀬鳴＆皇噛ユカリ at:皇噛ユカリのYouTubeチャンネル PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 21
+    min: 0
+  title: "夢追翔＆白百合リリィ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -547,6 +617,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -554,7 +631,7 @@
   time:
     hour: 22
     min: 0
-  title: "リゼ・ヘルエスタ＆ロボ子さん at:両名のYouTubeチャンネル マリオカート8 デラックス"
+  title: "リゼ・ヘルエスタ＆ロボ子さん at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -568,24 +645,33 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ＆花畑チャイカ＆社築＆緑仙＆舞元啓介＆ジョー・力一 at:緑仙のメインYouTubeチャンネル アズマ追悼人狼 ※リマインダー＆予定表より"
+  title: "ドーラ＆花畑チャイカ＆社築＆緑仙＆舞元啓介＆ジョー・力一 at:緑仙のメインYouTubeチャンネル アズマ追悼人狼"
   end_time: 
   uri: 
 - date: 2019-06-20
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "神田笑一 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 23
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-20
   time: 
   title: "？時？分～ 愛園愛美＆？？？ at:?"
-  end_time: 
-  uri: 
-- date: 2019-06-20
-  time: 
-  title: "？時？分～ 御伽原江良 at:? 9万人記念、雑談"
   end_time: 
   uri: 
 - date: 2019-06-19
