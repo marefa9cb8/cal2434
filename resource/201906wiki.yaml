@@ -229,6 +229,20 @@
   uri: 
 - date: 2019-06-21
   time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube マリオカート8 デラックス or モンスターハンター：ワールド or ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 2
+    min: 0
+  title: "郡道美玲 at:YouTube 動画同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -414,7 +428,7 @@
   time:
     hour: 13
     min: 0
-  title: "(仮)～ 叶 at:YouTube モンスターハンター：ワールド"
+  title: "(仮)～ 叶 at:YouTube モンスターハンター：ワールド ※中止"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -443,6 +457,13 @@
     hour: 17
     min: 0
   title: "戌亥とこ at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 17
+    min: 7
+  title: "黒井しば at:YouTube ゼルダの伝説 Breath of the Wild"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -498,6 +519,13 @@
   time:
     hour: 21
     min: 0
+  title: "夢追翔＆白百合リリィ at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 21
+    min: 0
   title: "アンジュ・カトリーナ at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -545,12 +573,12 @@
   uri: 
 - date: 2019-06-20
   time: 
-  title: "？時？分(夜)～ 夢追翔＆白百合リリィ at:YouTube Minecraft"
+  title: "？時？分～ 愛園愛美＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-06-20
   time: 
-  title: "？時？分～ 愛園愛美＆？？？ at:?"
+  title: "？時？分～ 御伽原江良 at:? 9万人記念、雑談"
   end_time: 
   uri: 
 - date: 2019-06-19
