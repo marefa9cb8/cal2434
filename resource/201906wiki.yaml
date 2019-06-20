@@ -31,7 +31,7 @@
 - date: 2019-06-27
   time: 
   title: "？時？分～ 夢追翔＆黒井しば+ゲスト：紅ズワイガニ(愛園愛美＆三枝明那) at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
-    #7"
+    #7 ※０６/19夢追翔配信にて告知"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -72,6 +72,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 23
+    min: 0
   title: "緑仙＆因幡はねる at:因幡はねるのYouTubeチャンネル ※予定表より"
   end_time: 
   uri: 
@@ -94,6 +101,13 @@
     hour: 9
     min: 30
   title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 19
+    min: 0
+  title: "える＆家長むぎ at:YouTube ※えるTwitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -190,6 +204,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 7
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -334,8 +355,24 @@
   end_time: 
   uri: 
 - date: 2019-06-20
-  time: 
-  title: "０４時００分～ アンジュ・カトリーナ at:YouTube 雑談"
+  time:
+    hour: 4
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 8
+    min: 30
+  title: "レヴィ・エリファ at:YouTube ※8時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #36"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -343,6 +380,13 @@
     hour: 13
     min: 30
   title: "でびるる(でびでび・でびる＆鈴原るる) at:YouTube 零 ～眞紅の蝶～"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 16
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -370,7 +414,7 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ ※Twitterプロフィール欄より"
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -405,7 +449,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:YouTube プレミア公開? 3Dお披露目"
+  title: "物述有栖 at:YouTube プレミア公開 【物述】♡\U0001F1953Dお披露目お茶会♡【超進化】"
   end_time: 
   uri: 
 - date: 2019-06-20
@@ -420,6 +464,13 @@
     hour: 22
     min: 0
   title: "リゼ・ヘルエスタ＆ロボ子さん at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームよ"
   end_time: 
   uri: 
 - date: 2019-06-20
