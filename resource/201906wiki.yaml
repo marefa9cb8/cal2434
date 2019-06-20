@@ -105,6 +105,20 @@
   uri: 
 - date: 2019-06-23
   time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 17
+    min: 30
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
     hour: 19
     min: 0
   title: "える＆家長むぎ at:YouTube ※えるTwitterプロフィール欄より"
@@ -168,9 +182,23 @@
   uri: 
 - date: 2019-06-22
   time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
     hour: 18
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Wii Fit ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 23
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -258,6 +286,13 @@
     hour: 22
     min: 0
   title: "緑仙＆夢追翔 at:緑仙のYouTubeチャンネル 雑談 ※リマインダー＆予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 23
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -378,6 +413,13 @@
 - date: 2019-06-20
   time:
     hour: 13
+    min: 0
+  title: "(仮)～ 叶 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time:
+    hour: 13
     min: 30
   title: "でびるる(でびでび・でびる＆鈴原るる) at:YouTube 零 ～眞紅の蝶～"
   end_time: 
@@ -485,6 +527,11 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-20
+  time: 
+  title: "？時？分(夜)～ 夢追翔＆白百合リリィ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-20
