@@ -170,7 +170,7 @@
   time:
     hour: 19
     min: 0
-  title: "える＆家長むぎ at:YouTube ※えるTwitterプロフィール欄より"
+  title: "える＆家長むぎ at:YouTube 太鼓の達人 ※えるTwitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -262,6 +262,13 @@
     hour: 2
     min: 30
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 5
+    min: 5
+  title: "葛葉 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-22
