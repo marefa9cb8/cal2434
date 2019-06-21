@@ -63705,8 +63705,8 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190627
-SUMMARY:？時？分～ 夢追翔＆黒井しば+ゲスト：紅ズワイガニ(愛園愛美＆三枝明那) at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず) #7 ※０６/19夢追翔配信にて告知
+DTSTART;TZID=Asia/Tokyo:20190627T220000
+SUMMARY:夢追翔＆黒井しば+ゲスト：紅ズワイガニ(愛園愛美＆三枝明那) at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず) #7
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -63807,12 +63807,6 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190623T200000
-SUMMARY:緑仙 at:YouTube プレミア公開 イージュー★ライダー / 奥田民生(Cover) - 緑仙 ※リマインダーより
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190623T210000
 SUMMARY:シスター・クレア at:YouTube
 URL:
@@ -63831,8 +63825,26 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190622T000000
+SUMMARY:花畑チャイカ at:YouTube 2.0お披露目
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190622T000000
+SUMMARY:童田明治＆郡道美玲＆犬山たまき＆湊あくあ at:犬山たまきのYouTubeチャンネル 極限テトリス大会！お〇っこ我慢バトル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190622T003000
 SUMMARY:小野町春香 at:YouTube ASMR
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190622T003000
+SUMMARY:エクス・アルビオ at:YouTube パズル＆ドラゴンズ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -63976,13 +63988,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T133000
-SUMMARY:でびるる(でびでび・でびる＆鈴原るる) at:でびでび・でびるのYouTubeチャンネル 零 ～眞紅の蝶～
+SUMMARY:でびるる(でびでび・でびる＆鈴原るる) at:でびでび・でびるのYouTube(2nd)チャンネル 零 ～眞紅の蝶～
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T140000
-SUMMARY:シスター・クレア at:YouTube
+SUMMARY:シスター・クレア at:YouTube ※中止
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64005,14 +64017,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190621T180000
-SUMMARY:本間ひまわり at:YouTube モンスターハンター：ワールド ※開始時刻：リマインダーより
+DTSTART;TZID=Asia/Tokyo:20190621T175000
+SUMMARY:舞元啓介＆天開司 at:YouTube 「セ・パ交流戦2019 横浜DeNAベイスターズ vs 東北楽天イーグルス」実況
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T180000
-SUMMARY:舞元啓介＆天開司 at:? 「セ・パ交流戦2019 横浜DeNAベイスターズ vs 東北楽天イーグルス」実況
+SUMMARY:本間ひまわり＆ドーラ at:両名のYouTubeチャンネル モンスターハンター：ワールド
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64024,19 +64036,31 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T190000
-SUMMARY:キズナアイ＆物述有栖 at:キズナアイのYouTubeチャンネル プレミア公開
+SUMMARY:キズナアイ＆物述有栖 at:キズナアイのYouTubeチャンネル プレミア公開 【天使降臨】物述有栖は私の全てを知っていた、、、！！
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190621T190100
+SUMMARY:渋谷ハジメ at:YouTube モンスターハンター：ワールド
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T200000
-SUMMARY:桜凛月＆リゼ・ヘルエスタ at:両名のYouTubeチャンネル？ Minecraft
+SUMMARY:桜凛月＆リゼ・ヘルエスタ at:両名のYouTubeチャンネル Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T200000
-SUMMARY:瀬戸美夜子＆瀬戸あさひ at:？ Human: Fall Flat
+SUMMARY:瀬戸美夜子＆瀬戸あさひ at:YouTube Human: Fall Flat
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190621T203000
+SUMMARY:or21時00分～ 静凛 at:YouTube ファイナルファンタジーXIV
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64048,7 +64072,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T210000
-SUMMARY:ドーラ at:YouTube 「金曜ロードショー メン・イン・ブラック」同時視聴 ※予定表より
+SUMMARY:雪汝＆テトラ＆音俣るか at:テトラのYouTubeチャンネル プレミア公開 この三人は混ぜたら危険！！ TRINE2
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190621T210000
+SUMMARY:ドーラ at:YouTube 「金曜ロードショー メン・イン・ブラック」同時視聴
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64060,13 +64090,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T210000
-SUMMARY:戌亥とこ＆皆守ひいろ＆星街すいせい at:? Vあんスタ部 #2
+SUMMARY:戌亥とこ＆皆守ひいろ＆星街すいせい＆ゲスト：成瀬鳴 at:YouTube Vあんスタ部 #2
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T210000
 SUMMARY:三枝明那 at:YouTube 4万人記念
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190621T220000
+SUMMARY:鈴鹿詩子 at:YouTube サクラスクールシュミレーター
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64096,6 +64132,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T230000
+SUMMARY:さくゆい(笹木咲＆椎名唯華) at:YouTube モンスターハンター：ワールド
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190621T230000
 SUMMARY:出雲霞 at:YouTube 寝かしつけ
 URL:
 DESCRIPTION:
@@ -64103,12 +64145,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190621T230000
 SUMMARY:社築＆夏色まつり at:YouTube ドリームクラブ ZERO
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190621
-SUMMARY:？時？分～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ
 URL:
 DESCRIPTION:
 END:VEVENT
