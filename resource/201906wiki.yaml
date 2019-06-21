@@ -147,7 +147,7 @@
   time:
     hour: 20
     min: 0
-  title: "緑仙 at:YouTube プレミア公開 ※予定表より"
+  title: "緑仙 at:YouTube プレミア公開 イージュー★ライダー / 奥田民生(Cover) - 緑仙 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -334,7 +334,7 @@
   time:
     hour: 7
     min: 30
-  title: "レヴィ・エリファ at:YouTube 雑談"
+  title: "レヴィ・エリファ at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -349,6 +349,13 @@
     hour: 14
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -454,11 +461,6 @@
     hour: 23
     min: 0
   title: "社築＆夏色まつり at:YouTube ドリームクラブ ZERO"
-  end_time: 
-  uri: 
-- date: 2019-06-21
-  time: 
-  title: "？時？分～ 本間ひまわり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-21
