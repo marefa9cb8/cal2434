@@ -423,9 +423,16 @@
   uri: 
 - date: 2019-06-21
   time:
+    hour: 21
+    min: 0
+  title: "三枝明那 at:YouTube 4万人記念"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
     hour: 22
     min: 0
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド(視聴者参加型) ※6月20日の配信で告知＆Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-06-21
