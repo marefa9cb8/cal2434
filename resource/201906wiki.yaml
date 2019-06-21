@@ -121,7 +121,21 @@
   time:
     hour: 0
     min: 0
+  title: "社築 at:YouTube 2.0お披露目 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 0
+    min: 0
   title: "小野町春香 at:YouTube 3万人記念、歌"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -219,7 +233,35 @@
   time:
     hour: 1
     min: 0
-  title: "える at:YouTube Minecraft"
+  title: 11分～ える at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 1
+    min: 32
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 1
+    min: 33
+  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 1
+    min: 35
+  title: "シスター・クレア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 2
+    min: 30
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -233,7 +275,14 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ"
+  title: "出雲霞 at:YouTube 昼やスミ シュークリーム"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 15
+    min: 0
+  title: "森中花咲 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -252,6 +301,20 @@
   uri: 
 - date: 2019-06-22
   time:
+    hour: 19
+    min: 30
+  title: "本間ひまわり at:YouTube 20万人記念 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:YouTube プレゼント関連説明"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
     hour: 23
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -262,6 +325,13 @@
     hour: 23
     min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 神々さみっと 初回・第二回(※再放送：4月12日・5月25日分)"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 23
+    min: 0
+  title: "卯月コウ at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-06-22
