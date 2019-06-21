@@ -76,6 +76,11 @@
   end_time: 
   uri: 
 - date: 2019-06-24
+  time: 
+  title: "？時？分(朝)～ 春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-24
   time:
     hour: 22
     min: 0
@@ -300,6 +305,13 @@
 - date: 2019-06-21
   time:
     hour: 6
+    min: 32
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 好きなもの(HP・MPが回復できそうなもの)"
   end_time: 
@@ -309,6 +321,20 @@
     hour: 7
     min: 0
   title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 7
+    min: 30
+  title: "御伽原江良 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 7
+    min: 30
+  title: "レヴィ・エリファ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -383,9 +409,16 @@
   uri: 
 - date: 2019-06-21
   time:
+    hour: 21
+    min: 0
+  title: "戌亥とこ＆皆守ひいろ＆星街すいせい at:? Vあんスタ部 #2"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
     hour: 22
     min: 0
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド(視聴者参加型) ※6月20日の配信で告知"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド(視聴者参加型) ※6月20日の配信で告知＆Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -393,6 +426,13 @@
     hour: 22
     min: 0
   title: "緑仙＆夢追翔 at:緑仙のYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time:
+    hour: 22
+    min: 0
+  title: "ジョー・力一 at:YouTube(メンバーシップ限定) 外郎売読み"
   end_time: 
   uri: 
 - date: 2019-06-21
@@ -414,6 +454,16 @@
     hour: 23
     min: 0
   title: "社築＆夏色まつり at:YouTube ドリームクラブ ZERO"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time: 
+  title: "？時？分～ 本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-21
+  time: 
+  title: "？時？分～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
   end_time: 
   uri: 
 - date: 2019-06-20
