@@ -287,16 +287,23 @@
   uri: 
 - date: 2019-06-22
   time:
+    hour: 12
+    min: 25
+  title: "叶 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ シュークリーム"
+  title: 43分～ 出雲霞 at:YouTube 昼やスミ シュークリーム
   end_time: 
   uri: 
 - date: 2019-06-22
   time:
     hour: 15
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -304,11 +311,6 @@
     hour: 16
     min: 0
   title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
-  end_time: 
-  uri: 
-- date: 2019-06-22
-  time: 
-  title: "？時？分(昼)～ 叶 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-22
