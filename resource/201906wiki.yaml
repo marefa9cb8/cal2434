@@ -196,6 +196,13 @@
   uri: 
 - date: 2019-06-23
   time:
+    hour: 2
+    min: 0
+  title: ") 甲賀流忍者ぽんぽこ＆ピーナッツくん at:甲賀流忍者ぽんぽこのYouTubeチャンネル 週刊ぽこピー批評"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
     hour: 6
     min: 0
   title: "シスター・クレア at:YouTube 雑談"
@@ -211,8 +218,22 @@
 - date: 2019-06-23
   time:
     hour: 9
+    min: 0
+  title: "神田笑一 at:YouTube 仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 9
     min: 30
   title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 12
+    min: 0
+  title: "緑仙 at:YouTube 歌(VOCALOID) ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -240,7 +261,7 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲 at:YouTube プレミア公開 きゅんっ!ヴァンパイアガール ※6月23日の配信で告知＆Twitterネームより"
+  title: "森中花咲 at:YouTube プレミア公開 【アイドルマスター】きゅんっ！ヴァンパイアガールを歌ってみた【オリジナルMV】"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -298,6 +319,18 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube スーパーマリオ ヨッシーアイランド"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time: 
+  title: "？時？分～ もるひま(闇夜乃モルル＆本間ひまわり) at:?"
   end_time: 
   uri: 
 - date: 2019-06-22
