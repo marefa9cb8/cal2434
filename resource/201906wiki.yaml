@@ -121,7 +121,14 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:YouTube 2.0お披露目 ※リマインダーより"
+  title: "（仮）～ 叶＆ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※22日の配信内で告知"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 0
+    min: 0
+  title: "社築 at:YouTube 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -254,7 +261,7 @@
   time:
     hour: 1
     min: 33
-  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド
+  title: "ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -314,8 +321,24 @@
   end_time: 
   uri: 
 - date: 2019-06-22
-  time: 
-  title: "？時？分(夕方)～ エクス・アルビオ at:YouTube"
+  time:
+    hour: 16
+    min: 30
+  title: "叶 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 16
+    min: 30
+  title: "エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 18
+    min: 0
+  title: "笹木咲 at:YouTube にじ3Dお披露目"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -323,6 +346,13 @@
     hour: 18
     min: 0
   title: "鈴木勝 at:YouTube(2nd) Wii Fit ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 18
+    min: 0
+  title: "卯月コウ at:YouTube エモグランプリ"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -358,6 +388,13 @@
     hour: 22
     min: 0
   title: "春崎エアル＆成瀬鳴 at:YouTube セリフ読み"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube リズム天国"
   end_time: 
   uri: 
 - date: 2019-06-22
