@@ -142,7 +142,7 @@
   time:
     hour: 0
     min: 0
-  title: "社築 at:YouTube 2.0お披露目"
+  title: "ぐんかん(神田笑一＆郡道美玲) at:両名のYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -162,8 +162,8 @@
 - date: 2019-06-23
   time:
     hour: 0
-    min: 30
-  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+    min: 0
+  title: 15分～ 社築 at:YouTube 2.0お披露目
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -174,8 +174,24 @@
   end_time: 
   uri: 
 - date: 2019-06-23
-  time: 
-  title: "？時？分(深夜)～ 渋谷ハジメ at:YouTube"
+  time:
+    hour: 1
+    min: 10
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 2
+    min: 0
+  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 2
+    min: 0
+  title: 09分～ 椎名唯華 at:YouTube 雑談、悩み相談、質問返答
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -224,6 +240,13 @@
   time:
     hour: 20
     min: 0
+  title: "森中花咲 at:YouTube プレミア公開 きゅんっ!ヴァンパイアガール ※6月23日の配信で告知＆Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 20
+    min: 0
   title: "緑仙 at:YouTube プレミア公開 イージュー★ライダー / 奥田民生 (covered by 緑仙)"
   end_time: 
   uri: 
@@ -253,7 +276,7 @@
     hour: 22
     min: 0
   title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:椎名唯華のYouTubeチャンネル Project
-    Winter ※リマインダーより"
+    Winter"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -261,6 +284,13 @@
     hour: 22
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -555,13 +585,6 @@
     hour: 23
     min: 30
   title: "鈴鹿詩子 at:YouTube LoveR"
-  end_time: 
-  uri: 
-- date: 2019-06-22
-  time:
-    hour: 23
-    min: 30
-  title: or24時00分?～ ぐんかん(神田笑一＆郡道美玲) at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-06-22
