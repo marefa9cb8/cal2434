@@ -92,6 +92,13 @@
   end_time: 
   uri: 
 - date: 2019-06-24
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ 豆腐系"
+  end_time: 
+  uri: 
+- date: 2019-06-24
   time: 
   title: "？時？分(朝)～ 春崎エアル at:YouTube"
   end_time: 
@@ -121,7 +128,7 @@
   time:
     hour: 0
     min: 0
-  title: "（仮）～ 叶＆ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※22日の配信内で告知"
+  title: "（仮）～ 叶＆Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※22日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -140,9 +147,21 @@
   uri: 
 - date: 2019-06-23
   time:
+    hour: 0
+    min: 30
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time: 
+  title: "？時？分(深夜)～ 渋谷ハジメ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -192,6 +211,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 21
+    min: 0
+  title: "鷹宮リオン at:YouTube 2.0お披露目"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -261,7 +287,7 @@
   time:
     hour: 1
     min: 33
-  title: "ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド"
+  title: Loser Kings(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -323,6 +349,13 @@
 - date: 2019-06-22
   time:
     hour: 16
+    min: 19
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 16
     min: 30
   title: "叶 at:YouTube モンスターハンター：ワールド"
   end_time: 
@@ -331,7 +364,14 @@
   time:
     hour: 16
     min: 30
-  title: "エクス・アルビオ at:YouTube"
+  title: "エクス・アルビオ at:YouTube バキッ！ 脳筋だらけの脱出ホラーゲーム、TheHOUSE 2"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 17
+    min: 30
+  title: "瀬戸美夜子 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -345,7 +385,7 @@
   time:
     hour: 18
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) Wii Fit ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) Wii Fit"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -359,7 +399,14 @@
   time:
     hour: 19
     min: 30
-  title: "本間ひまわり at:YouTube 20万人記念 ※リマインダーより"
+  title: "本間ひまわり at:YouTube 20万人記念、新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆魔宵さきゅ＆クマ野クマエル3世＆天羽よつは at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -367,6 +414,20 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube OUTLAST"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 20
+    min: 0
+  title: "三枝明那 at:YouTube オンラインクレーンゲーム ネットキャッチャー"
+  end_time: 
+  uri: 
+- date: 2019-06-22
+  time:
+    hour: 20
+    min: 21
+  title: "緑仙 at:YouTube(サブ)"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -394,7 +455,7 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube リズム天国"
+  title: "御伽原江良 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -415,7 +476,7 @@
   time:
     hour: 23
     min: 0
-  title: "卯月コウ at:YouTube プレミア公開"
+  title: "卯月コウ at:YouTube プレミア公開 アイシー / 卯月コウ (Official Music )"
   end_time: 
   uri: 
 - date: 2019-06-22
@@ -429,12 +490,14 @@
   time:
     hour: 23
     min: 0
-  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  title: "童田明治 at:YouTube グランブルーファンタジー 初心者向け講座"
   end_time: 
   uri: 
 - date: 2019-06-22
-  time: 
-  title: "？時？分(夜)～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-21
