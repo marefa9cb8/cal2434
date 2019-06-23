@@ -1,6 +1,20 @@
 ---
 - date: 2019-06-30
   time:
+    hour: 15
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 20
+    min: 0
+  title: "出雲霞 at:YouTube 「会える！話せる！VTuberおしゃべりフェス　おなえどしの秘密会議・TT ーこれがてえてえー」報告会"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
     hour: 21
     min: 0
   title: "三枝明那 at:YouTube 歌(VOCALOID) ※6月21日配信にて告知"
@@ -9,6 +23,13 @@
 - date: 2019-06-30
   time: 
   title: "？時？分～ 轟京子 at:YouTube ROKI'S NKUCKLE キャッチコピー紹介企画"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -35,9 +56,23 @@
   uri: 
 - date: 2019-06-28
   time:
+    hour: 0
+    min: 0
+  title: "緑仙 at:YouTube オナネタ選手権 ※開始時刻：予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
     hour: 21
     min: 0
   title: "夢追翔 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube 花嫁バイノーラル"
   end_time: 
   uri: 
 - date: 2019-06-28
@@ -60,6 +95,11 @@
     #7"
   end_time: 
   uri: 
+- date: 2019-06-27
+  time: 
+  title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
 - date: 2019-06-26
   time:
     hour: 0
@@ -72,6 +112,25 @@
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube 第2回 おひるンボ"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 0
+  title: "緑仙 at:bilibili 歌(仮面ライダー) ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 21
+    min: 0
+  title: "緑仙 at:YouTube? 近況雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time: 
+  title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -108,6 +167,25 @@
   title: "葉山舞鈴 at:YouTube ※初配信"
   end_time: 
   uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time: 
+  title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #18"
+  end_time: 
+  uri: 
 - date: 2019-06-24
   time:
     hour: 1
@@ -116,8 +194,10 @@
   end_time: 
   uri: 
 - date: 2019-06-24
-  time: 
-  title: "？時？分(深夜?)～ ジョー・力一 at:YouTube りきいちファーム #18"
+  time:
+    hour: 0
+    min: 0
+  title: or01時00分～ 郡道美玲 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -128,8 +208,22 @@
   end_time: 
   uri: 
 - date: 2019-06-24
+  time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-06-24
   time: 
   title: "？時？分(朝)～ 春崎エアル at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 20
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -158,6 +252,11 @@
     hour: 23
     min: 0
   title: "緑仙＆因幡はねる at:因幡はねるのYouTubeチャンネル ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time: 
+  title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -289,8 +388,15 @@
 - date: 2019-06-23
   time:
     hour: 12
-    min: 0
-  title: "緑仙 at:YouTube 歌(VOCALOID) ※リマインダーより"
+    min: 55
+  title: "緑仙 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 14
+    min: 6
+  title: "鷹宮リオン at:OPENREC.tv League of Legends"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -298,6 +404,13 @@
     hour: 16
     min: 0
   title: "勇気ちひろ at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 16
+    min: 0
+  title: "瀬戸美夜子 at:YouTube OUTLAST"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -319,6 +432,13 @@
     hour: 19
     min: 0
   title: "(仮)～ 笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 19
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -375,7 +495,7 @@
   time:
     hour: 22
     min: 0
-  title: "もるひま(闇夜乃モルル＆本間ひまわり) at:? ※開始時刻:06/19本間ひまわりの配信で告知"
+  title: "もるひま(闇夜乃モルル＆本間ひまわり) at:?"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -383,6 +503,13 @@
     hour: 22
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -397,6 +524,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube Crypt of the NecroDancer"
   end_time: 
   uri: 
 - date: 2019-06-23
