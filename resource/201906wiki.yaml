@@ -6,6 +6,11 @@
   title: "三枝明那 at:YouTube 歌(VOCALOID) ※6月21日配信にて告知"
   end_time: 
   uri: 
+- date: 2019-06-30
+  time: 
+  title: "？時？分～ 轟京子 at:YouTube ROKI'S NKUCKLE キャッチコピー紹介企画"
+  end_time: 
+  uri: 
 - date: 2019-06-29
   time:
     hour: 19
@@ -33,6 +38,11 @@
     hour: 21
     min: 0
   title: "夢追翔 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time: 
+  title: "？時？分～ 鷹宮リオン at:YouTube 10万人記念"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -73,6 +83,13 @@
   time:
     hour: 0
     min: 0
+  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※06/19本間ひまわりの配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) 「会える！話せる！VTuberおしゃべりフェス おなえどしの秘密会議・TT ーこれがてえてえー」振り返り
     ※予定表・②より"
   end_time: 
@@ -99,6 +116,11 @@
   end_time: 
   uri: 
 - date: 2019-06-24
+  time: 
+  title: "？時？分(深夜?)～ ジョー・力一 at:YouTube りきいちファーム #18"
+  end_time: 
+  uri: 
+- date: 2019-06-24
   time:
     hour: 6
     min: 45
@@ -112,9 +134,16 @@
   uri: 
 - date: 2019-06-24
   time:
+    hour: 21
+    min: 0
+  title: "宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:？ Gang Beasts ※06/19本間ひまわりの配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
     hour: 22
     min: 0
-  title: "緑仙＆因幡はねる at:YouTube ※予定表より"
+  title: "緑仙＆因幡はねる at:YouTube 恋愛相談"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -212,7 +241,14 @@
   time:
     hour: 6
     min: 0
-  title: "シスター・クレア at:YouTube 雑談"
+  title: "シスター・クレア at:YouTube 雑談 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 6
+    min: 45
+  title: "緑仙 at:YouTube(サブ) 朝食"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -231,8 +267,8 @@
   uri: 
 - date: 2019-06-23
   time:
-    hour: 9
-    min: 0
+    hour: 8
+    min: 56
   title: "神田笑一 at:YouTube 仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
@@ -241,6 +277,13 @@
     hour: 9
     min: 30
   title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 11
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -275,7 +318,7 @@
   time:
     hour: 19
     min: 0
-  title: "(仮)～ 笹木咲 at:？"
+  title: "(仮)～ 笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -283,6 +326,13 @@
     hour: 20
     min: 0
   title: "森中花咲 at:YouTube プレミア公開 【アイドルマスター】きゅんっ！ヴァンパイアガールを歌ってみた【オリジナルMV】"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 20
+    min: 0
+  title: "轟京子 at:YouTube 雑談?"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -325,6 +375,13 @@
   time:
     hour: 22
     min: 0
+  title: "もるひま(闇夜乃モルル＆本間ひまわり) at:? ※開始時刻:06/19本間ひまわりの配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 22
+    min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -351,7 +408,7 @@
   uri: 
 - date: 2019-06-23
   time: 
-  title: "？時？分～ もるひま(闇夜乃モルル＆本間ひまわり) at:?"
+  title: "？時？分(午後・仮)～ 夕陽リリ at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-06-22
