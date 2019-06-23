@@ -63802,6 +63802,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190623T000000
+SUMMARY:叶＆ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※翌日に変更
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190623T000000
 SUMMARY:叶 at:YouTube モンスターハンター：ワールド
 URL:
 DESCRIPTION:
@@ -63867,8 +63873,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190623T070000
-SUMMARY:(仮)～ 物述有栖 at:YouTube プレミア公開
+DTSTART;TZID=Asia/Tokyo:20190623T070200
+SUMMARY:叶 at:YouTube モンスターハンター：ワールド
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190623T070800
+SUMMARY:物述有栖 at:YouTube プレミア公開 ♡ニチアサ時空超越お茶会最終回⁈♡
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -63909,6 +63921,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190623T190000
+SUMMARY:(仮)～ 笹木咲 at:？
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190623T200000
 SUMMARY:森中花咲 at:YouTube プレミア公開 【アイドルマスター】きゅんっ！ヴァンパイアガールを歌ってみた【オリジナルMV】
 URL:
@@ -63940,7 +63958,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190623T220000
-SUMMARY:叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:椎名唯華のYouTubeチャンネル Project Winter
+SUMMARY:叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル? Project Winter
 URL:
 DESCRIPTION:
 END:VEVENT

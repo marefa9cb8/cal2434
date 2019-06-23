@@ -135,6 +135,13 @@
   time:
     hour: 0
     min: 0
+  title: "叶＆ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル？ モンスターハンター：ワールド ※翌日に変更"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 0
+    min: 0
   title: "叶 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -211,8 +218,15 @@
 - date: 2019-06-23
   time:
     hour: 7
-    min: 0
-  title: "(仮)～ 物述有栖 at:YouTube プレミア公開"
+    min: 2
+  title: "叶 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
+    hour: 7
+    min: 8
+  title: "物述有栖 at:YouTube プレミア公開 ♡ニチアサ時空超越お茶会最終回⁈♡"
   end_time: 
   uri: 
 - date: 2019-06-23
@@ -259,6 +273,13 @@
   uri: 
 - date: 2019-06-23
   time:
+    hour: 19
+    min: 0
+  title: "(仮)～ 笹木咲 at:？"
+  end_time: 
+  uri: 
+- date: 2019-06-23
+  time:
     hour: 20
     min: 0
   title: "森中花咲 at:YouTube プレミア公開 【アイドルマスター】きゅんっ！ヴァンパイアガールを歌ってみた【オリジナルMV】"
@@ -296,7 +317,7 @@
   time:
     hour: 22
     min: 0
-  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:椎名唯華のYouTubeチャンネル Project
+  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル? Project
     Winter"
   end_time: 
   uri: 
