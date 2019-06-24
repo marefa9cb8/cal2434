@@ -96,6 +96,13 @@
   uri: 
 - date: 2019-06-29
   time:
+    hour: 21
+    min: 30
+  title: "?～ 鈴谷アキ at:YouTube(2nd) Suzuno ne kocafe #10"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
     hour: 23
     min: 0
   title: "?～ 剣持刀也＆ゲスト：ばあちゃる at:YouTube SharpnessRadio"
@@ -127,6 +134,13 @@
     hour: 21
     min: 0
   title: "夢追翔 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙＆因幡はねる at:YouTube 恋愛相談"
   end_time: 
   uri: 
 - date: 2019-06-28
@@ -233,6 +247,13 @@
   time:
     hour: 22
     min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 映画予定表 7月公開映画紹介"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -250,15 +271,49 @@
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:各々のYouTubeチャンネル？ モンスターハンター：ワールド"
+  title: "叶＆天開司 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-25
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 「会える！話せる！VTuberおしゃべりフェス おなえどしの秘密会議・TT ーこれがてえてえー」振り返り
-    ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) 「会える！話せる！VTuberおしゃべりフェス おなえどしの秘密会議・TT ーこれがてえてえー」振り返り"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 0
+    min: 0
+  title: "童田明治 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 0
+    min: 0
+  title: 15分～ 本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわり、郡道美玲、愛園愛美のYouTubeチャンネル？ モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※前日22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 1
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -286,7 +341,21 @@
   time:
     hour: 22
     min: 0
+  title: "まほすず(勇気ちひろ＆鈴谷アキ)＆闇夜乃モルル at:鈴谷アキのYouTube(2nd)チャンネル 絵しりとり"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube 休むな！8分音符ちゃん"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -403,6 +472,20 @@
   time:
     hour: 19
     min: 0
+  title: 18時49分～ 桜凛月 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 19
+    min: 0
+  title: 18時50分～ 三枝明那 at:YouTube モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 19
+    min: 0
   title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -410,21 +493,7 @@
   time:
     hour: 19
     min: 0
-  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-06-24
-  time:
-    hour: 19
-    min: 0
-  title: "桜凛月 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-06-24
-  time:
-    hour: 19
-    min: 0
-  title: "三枝明那 at:YouTube モンスターハンター：ワールド"
+  title: "鷹宮リオン at:YouTube ゼルダの伝説 ムジュラの仮面"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -438,7 +507,14 @@
   time:
     hour: 20
     min: 0
-  title: "(仮)～ リゼ・ヘルエスタ at:YouTube Project Winterコラボ感想"
+  title: "瀬戸美夜子 at:YouTube Goat Simulator(Goat MMO Simulator)"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube Project Winterコラボ感想"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -452,14 +528,14 @@
   time:
     hour: 21
     min: 0
-  title: "宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:各々のYouTubeチャンネル? Gang Beasts"
+  title: "童田明治 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-24
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -473,14 +549,7 @@
   time:
     hour: 22
     min: 0
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-06-24
-  time:
-    hour: 22
-    min: 0
-  title: "緑仙＆因幡はねる at:YouTube 恋愛相談"
+  title: "社築 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -493,15 +562,44 @@
 - date: 2019-06-24
   time:
     hour: 22
+    min: 2
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 22
     min: 0
-  title: "鈴原るる at:YouTube 誕生日配信、雑談"
+  title: 05分～ 鈴原るる at:YouTube 誕生日配信、雑談
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 22
+    min: 15
+  title: "でびでび・でびる at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 21
+    min: 0
+  title: 22時17分～ 宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、伏見ガク、本間ひまわり、葛葉のYouTubeチャンネル
+    Gang Beasts ※Discord不調につき時間変更
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 22
+    min: 30
+  title: "叶 at:YouTube 雑談 ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-24
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※Twitterプロフィール欄より"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -515,24 +613,33 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙＆因幡はねる at:因幡はねるのYouTubeチャンネル ※予定表より"
+  title: "緑仙＆因幡はねる at:YouTube 恋愛相談 ※22時から時間変更 ※28日に延期"
   end_time: 
   uri: 
 - date: 2019-06-24
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "矢車りね at:YouTube 矢車りねと7つの鏡世界"
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 23
+    min: 0
+  title: 12分～ 三枝明那 at:YouTube モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time:
+    hour: 23
+    min: 40
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-24
   time: 
   title: "？時？分～ 御伽原江良 at:YouTube Crypt of the NecroDancer ※中止"
-  end_time: 
-  uri: 
-- date: 2019-06-24
-  time: 
-  title: "？時？分～ 鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-23
