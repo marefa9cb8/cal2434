@@ -284,7 +284,7 @@
 - date: 2019-06-25
   time:
     hour: 0
-    min: 0
+    min: 2
   title: "童田明治 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
@@ -292,7 +292,14 @@
   time:
     hour: 0
     min: 0
-  title: 15分～ 本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわり、郡道美玲、愛園愛美のYouTubeチャンネル？ モンスターハンター：ワールド
+  title: 32分～ 本間ひまわり＆ドーラ＆郡道美玲＆愛園愛美 at:本間ひまわり、郡道美玲、愛園愛美のYouTubeチャンネル モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 0
+    min: 38
+  title: "エクス・アルビオ at:YouTube 雑談、Magic:The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -305,8 +312,8 @@
 - date: 2019-06-25
   time:
     hour: 1
-    min: 0
-  title: "夢月ロア at:YouTube Minecraft"
+    min: 21
+  title: "夢月ロア at:YouTube Minecraft 深夜廻 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -314,6 +321,34 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 2
+    min: 37
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 2
+    min: 30
+  title: 43分～ ルーザーキングス(魔界ノりりむ＆葛葉＆卯月コウ) at:各々のYouTubeチャンネル モンスターハンター：ワールド
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 18
+    min: 0
+  title: "鈴鹿詩子＆森中花咲 at:森中花咲のYouTubeチャンネル OUTLAST"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 19
+    min: 0
+  title: "月ノ美兎 at:YouTube 一発芸特訓雑談"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -359,8 +394,22 @@
   end_time: 
   uri: 
 - date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
+  end_time: 
+  uri: 
+- date: 2019-06-25
   time: 
   title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: or23時00分(仮)～ 社築 at:YouTube Celeste
   end_time: 
   uri: 
 - date: 2019-06-24
