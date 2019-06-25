@@ -168,6 +168,13 @@
   time:
     hour: 20
     min: 0
+  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 20
+    min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 第三回 神々さみっと"
   end_time: 
   uri: 
@@ -223,6 +230,13 @@
     hour: 20
     min: 0
   title: "静凛 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -296,9 +310,23 @@
   uri: 
 - date: 2019-06-26
   time:
+    hour: 0
+    min: 30
+  title: "瀬戸美夜子 at:YouTube(メンバー限定)"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
     hour: 1
+    min: 3
+  title: "葛葉 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 2
     min: 0
-  title: "椎名唯華 at YouTube モンスターハンター：ワールド"
+  title: "でびでび・でびる at:YouTube(2nd) Magic:The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -306,6 +334,13 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 1
+    min: 0
+  title: 02時09分～ 椎名唯華 at YouTube モンスターハンター：ワールド Dota Auto Chess
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -361,6 +396,13 @@
   time:
     hour: 21
     min: 0
+  title: "ジョー・力一＆夢追翔 at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 21
+    min: 0
   title: "ニュイ・ソシエール at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
@@ -368,14 +410,21 @@
   time:
     hour: 21
     min: 30
-  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:YouTube ご飯会"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:鈴谷アキのYouTube(2nd)チャンネル ご飯会"
   end_time: 
   uri: 
 - date: 2019-06-26
   time:
     hour: 22
     min: 0
-  title: "社築＆夏色まつり at:？ 27とJK 地獄のまったり？雑談"
+  title: "家長むぎ at:YouTube LITTLE NIGHTMARES-リトルナイトメア-"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 22
+    min: 0
+  title: "社築＆夏色まつり at:夏色まつりのYouTubeチャンネル 27とJK 地獄のまったり？雑談"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -425,6 +474,11 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time: 
+  title: "？時？分～(仮) ドーラ at:？"
   end_time: 
   uri: 
 - date: 2019-06-26
