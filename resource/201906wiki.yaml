@@ -192,6 +192,13 @@
   end_time: 
   uri: 
 - date: 2019-06-27
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube ロックマンX"
+  end_time: 
+  uri: 
+- date: 2019-06-27
   time: 
   title: "？時？分(夜・仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
   end_time: 
@@ -355,7 +362,7 @@
   time:
     hour: 16
     min: 0
-  title: "宇志海いちご at:YouTube 雑談 ※リマインダーより"
+  title: "宇志海いちご at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -656,6 +663,11 @@
     min: 0
   title: 22時17分～ 宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、伏見ガク、本間ひまわり、葛葉のYouTubeチャンネル
     Gang Beasts ※Discord不調につき時間変更
+  end_time: 
+  uri: 
+- date: 2019-06-24
+  time: 
+  title: 22時？分～ 瀬戸美夜子 at:YouTube(メンバー限定)
   end_time: 
   uri: 
 - date: 2019-06-24
