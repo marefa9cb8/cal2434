@@ -360,6 +360,20 @@
   uri: 
 - date: 2019-06-25
   time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #37"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 13
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
     hour: 16
     min: 0
   title: "宇志海いちご at:YouTube 雑談"
@@ -367,9 +381,23 @@
   uri: 
 - date: 2019-06-25
   time:
+    hour: 17
+    min: 0
+  title: "夕陽リリ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
     hour: 18
     min: 0
-  title: "鈴鹿詩子＆森中花咲 at:森中花咲のYouTubeチャンネル OUTLAST"
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:森中花咲のYouTubeチャンネル OUTLAST"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-25
