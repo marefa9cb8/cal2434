@@ -31,6 +31,13 @@
   time:
     hour: 20
     min: 0
+  title: " 舞元啓介 at:YouTube 『禍つヴァールハイト』実況"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞 at:YouTube 「会える！話せる！VTuberおしゃべりフェス　おなえどしの秘密会議・TT ーこれがてえてえー」報告会"
   end_time: 
   uri: 
@@ -256,14 +263,14 @@
   time:
     hour: 0
     min: 0
-  title: "える at:YouTube Minecraft ※Twitterネームより"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-26
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) 朗読「瓶詰地獄」"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -277,7 +284,14 @@
   time:
     hour: 0
     min: 0
-  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル? マリオカート8 デラックス"
+  title: "夢月ロア at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 0
+    min: 0
+  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -292,11 +306,6 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time: 
-  title: "？時？分(深夜・仮)～ 宇志海いちご at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -322,6 +331,13 @@
   uri: 
 - date: 2019-06-26
   time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:bilibili 歌(仮面ライダー) ※予定表より"
@@ -339,6 +355,13 @@
     hour: 21
     min: 0
   title: "緑仙 at:YouTube? 近況雑談 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 21
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -371,9 +394,37 @@
   uri: 
 - date: 2019-06-26
   time:
+    hour: 22
+    min: 0
+  title: "雪城眞尋 at:YouTube 休むな！8分音符ちゃん"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子＆竜胆尊 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 23
+    min: 0
+  title: "飛鳥ひな at:YouTube 「飛鳥ひな・ジョー力一 あめもようボイス」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -582,7 +633,15 @@
   time:
     hour: 22
     min: 0
-  title: "叶＆葛葉＆椎名唯華＆舞元啓介＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Dota Auto Chess"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆葛葉＆椎名唯華＆舞元啓介＆天開司＆ふぇありす＆ユキミお姉ちゃん＆あっくん大魔王 at:叶、葛葉、椎名唯華のYouTubeチャンネル Dota
+    Auto Chess"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -590,13 +649,6 @@
     hour: 22
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
-  end_time: 
-  uri: 
-- date: 2019-06-25
-  time:
-    hour: 22
-    min: 0
-  title: "(仮)～ シスター・クレア at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -629,9 +681,37 @@
   uri: 
 - date: 2019-06-25
   time:
+    hour: 22
+    min: 30
+  title: "月見しずく at:YouTube 近況報告、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 31
+  title: "シスター・クレア at:YouTube 歌(女性声優縛り)"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 37
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
     hour: 23
     min: 0
-  title: "樋口楓 at:YouTube Minecraft ※リマインダーより"
+  title: "樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 23
+    min: 0
+  title: "笹木咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -645,14 +725,14 @@
   time:
     hour: 23
     min: 0
-  title: or24時00分頃～ 笹木咲 at:YouTube
+  title: "鷹宮リオン at:YouTube 斧鬼～魍魎の棲む家～"
   end_time: 
   uri: 
 - date: 2019-06-25
   time:
-    hour: 22
-    min: 0
-  title: "月見しずく at:YouTube"
+    hour: 23
+    min: 30
+  title: "童田明治 at:YouTube ファイナルファンタジーXIV ※中止"
   end_time: 
   uri: 
 - date: 2019-06-24
