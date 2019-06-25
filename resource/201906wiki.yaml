@@ -270,6 +270,13 @@
   time:
     hour: 0
     min: 0
+  title: "郡道美玲 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 0
+    min: 0
   title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル? マリオカート8 デラックス"
   end_time: 
   uri: 
@@ -524,15 +531,8 @@
 - date: 2019-06-25
   time:
     hour: 18
-    min: 0
-  title: "(仮)～ シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-25
-  time:
-    hour: 18
     min: 30
-  title: "三枝明那＆エクス・アルビオ at:？"
+  title: "三枝明那＆エクス・アルビオ at:両名のYouTubeチャンネル Hand Simulator"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -596,7 +596,28 @@
   time:
     hour: 22
     min: 0
+  title: "(仮)～ シスター・クレア at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良 at:YouTube 休むな！8分音符ちゃん"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "戌亥とこ＆百鬼あやめ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 22
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
 - date: 2019-06-25
@@ -617,6 +638,13 @@
   time:
     hour: 23
     min: 0
+  title: "社築 at:YouTube Celeste"
+  end_time: 
+  uri: 
+- date: 2019-06-25
+  time:
+    hour: 23
+    min: 0
   title: or24時00分頃～ 笹木咲 at:YouTube
   end_time: 
   uri: 
@@ -624,14 +652,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ シスター・クレア at:YouTube Minecraft?"
-  end_time: 
-  uri: 
-- date: 2019-06-25
-  time:
-    hour: 22
-    min: 0
-  title: or23時00分(仮)～ 社築 at:YouTube Celeste ※06月24日の配信で告知
+  title: "月見しずく at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-24
