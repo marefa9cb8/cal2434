@@ -72,6 +72,11 @@
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
+- date: 2019-06-30
+  time: 
+  title: "？時？分(夜)～ レヴィ・エリファ at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
 - date: 2019-06-29
   time:
     hour: 1
@@ -255,9 +260,30 @@
   uri: 
 - date: 2019-06-27
   time:
+    hour: 0
+    min: 0
+  title: "緑仙 at:YouTube? 近況雑談 ※リマインダー＆予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 1
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 鬼武者"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 19
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -286,6 +312,13 @@
     hour: 21
     min: 0
   title: "飛鳥ひな at:YouTube 告知"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 21
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -394,9 +427,37 @@
   uri: 
 - date: 2019-06-26
   time:
+    hour: 10
+    min: 0
+  title: "雪汝 at:YouTube Steamゲーム検索、雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 12
+    min: 0
+  title: "シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube 第2回 おひるンボ"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 12
+    min: 0
+  title: "黒井しば＆丑牡てぃあ at:丑牡てぃあのYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 15
+    min: 0
+  title: "渋谷ハジメ at:YouTube Legue of Legends Teamfight Tactics ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -432,13 +493,6 @@
     hour: 21
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time:
-    hour: 21
-    min: 0
-  title: "緑仙 at:YouTube? 近況雑談 ※予定表より"
   end_time: 
   uri: 
 - date: 2019-06-26
