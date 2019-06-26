@@ -63820,7 +63820,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190629T193000
-SUMMARY:樋口楓＆鈴鹿詩子 at:VARK(Oculus Go、Oculus Quest)、ニコニコ生放送 Kaede Higuchi VR Live "ReStart Line" ※いずれもネットチケットの購入が必要
+SUMMARY:樋口楓＆鈴鹿詩子 at:VARK(Oculus Go、Oculus Quest)、ニコニコ生放送（無料のチラ見せ分あり） Kaede Higuchi VR Live "ReStart Line" ※いずれもネットチケットの購入が必要
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64035,6 +64035,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190627T130000
+SUMMARY:舞元啓介 at:YouTube Shadowverse
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190627T170000
 SUMMARY:ニュイ・ソシエール at:YouTube テスト配信
 URL:
@@ -64042,7 +64048,13 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190627T180000
-SUMMARY:椎名唯華＆花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル ※リマインダーより
+SUMMARY:椎名唯華＆花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190627T180000
+SUMMARY:シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝 ※リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -64114,6 +64126,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190627T220000
+SUMMARY:葛葉 at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190627T220000
 SUMMARY:轟京子 at:YouTube moon
 URL:
 DESCRIPTION:
@@ -64156,7 +64174,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190627
-SUMMARY:？時？分(夜・仮)～ 戌亥とこ at:YouTube
+SUMMARY:？時？分(仮)～ 戌亥とこ at:YouTube
 URL:
 DESCRIPTION:
 END:VEVENT
