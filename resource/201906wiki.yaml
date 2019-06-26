@@ -248,6 +248,13 @@
   uri: 
 - date: 2019-06-27
   time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6"
@@ -376,6 +383,13 @@
     hour: 1
     min: 0
   title: 02時09分～ 椎名唯華 at YouTube モンスターハンター：ワールド Dota Auto Chess
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 7
+    min: 30
+  title: 38分～ レヴィ・エリファ at:YouTube
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -528,6 +542,11 @@
 - date: 2019-06-26
   time: 
   title: "？時？分～(仮) ドーラ at:？"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time: 
+  title: "？時？分(夜)～ 御伽原江良＆宗谷いちか＆癒月ちょこ at:?"
   end_time: 
   uri: 
 - date: 2019-06-26
