@@ -271,7 +271,14 @@
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube? 近況雑談 ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube(メイン) 近況雑談 ※リマインダー＆予定表より"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華＆猫又おかゆ at:椎名唯華のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -370,7 +377,19 @@
   time:
     hour: 22
     min: 0
+  title: "?～ 雪城眞尋 at:YouTube 休むな！8分音符ちゃん"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 22
+    min: 0
   title: "鈴原るる at:YouTube ロックマンX"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time: 
+  title: "？時？分(夜・仮)～ 戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -481,8 +500,22 @@
 - date: 2019-06-26
   time:
     hour: 15
+    min: 34
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 15
+    min: 58
+  title: "渋谷ハジメ at:YouTube Legue of Legends Teamfight Tactics"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 17
     min: 0
-  title: "渋谷ハジメ at:YouTube Legue of Legends Teamfight Tactics ※リマインダーより"
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -524,6 +557,13 @@
   time:
     hour: 20
     min: 0
+  title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 0
   title: "リゼ・ヘルエスタ at:YouTube LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
@@ -531,7 +571,7 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube ※Twitterプロフィール欄より"
+  title: "(仮)～ 樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -616,7 +656,14 @@
   time:
     hour: 22
     min: 0
-  title: "雪城眞尋 at:YouTube 休むな！8分音符ちゃん"
+  title: "戌亥とこ＆？？？ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 22
+    min: 0
+  title: "雪城眞尋 at:YouTube 休むな！8分音符ちゃん ※翌日に変更"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -637,6 +684,13 @@
   time:
     hour: 23
     min: 0
+  title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 23
+    min: 0
   title: "飛鳥ひな at:YouTube 「飛鳥ひな・ジョー力一 あめもようボイス」同時視聴"
   end_time: 
   uri: 
@@ -649,17 +703,7 @@
   uri: 
 - date: 2019-06-26
   time: 
-  title: "？時？分～(仮) ドーラ at:？"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time: 
   title: "？時？分(夜)～ 御伽原江良＆宗谷いちか＆癒月ちょこ at:?"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time: 
-  title: "？時？分～ 戌亥とこ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-25
