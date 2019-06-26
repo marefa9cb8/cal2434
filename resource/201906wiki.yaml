@@ -131,6 +131,14 @@
   uri: 
 - date: 2019-06-29
   time:
+    hour: 20
+    min: 0
+  title: "(上海時間19時00分)～  物述有栖＆緑仙＆リゼ・ヘルエスタ＆艾因(Eine)＆琉绮(Ruki)＆一果(Ichigo)＆七海(Nanami)
+    at:bilibili(VirtualReal公式?) 日中大学試験対決"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
     hour: 21
     min: 0
   title: "三枝明那 at:YouTube 歌(VOCALOID) ※6月21日配信にて告知"
@@ -148,6 +156,13 @@
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 22
+    min: 0
+  title: "癒月ちょこ＆ゲスト：アンジュ・カトリーナ at:癒月ちょこのYouTubeチャンネル 身体測定"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -264,21 +279,28 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-27
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube(メイン) 近況雑談 ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube 近況雑談 ※リマインダー＆予定表より"
   end_time: 
   uri: 
 - date: 2019-06-27
   time:
     hour: 1
     min: 0
-  title: "椎名唯華＆猫又おかゆ at:椎名唯華のYouTubeチャンネル"
+  title: "森中花咲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 1
+    min: 0
+  title: "椎名唯華＆猫又おかゆ at:YouTube 対談"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -385,6 +407,13 @@
     hour: 22
     min: 0
   title: "鈴原るる at:YouTube ロックマンX"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 23
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:？ 雑談 ※6月26日のアンジュ・カトリーナの配信にて告知"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -541,9 +570,44 @@
   uri: 
 - date: 2019-06-26
   time:
+    hour: 18
+    min: 50
+  title: "桜凛月 at:YouTube Minecraft PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 19
+    min: 0
+  title: "夕陽リリ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
     hour: 19
     min: 0
   title: "本間ひまわり at:YouTube ひまご飯会"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 19
+    min: 44
+  title: "叶 at:YouTube Dota Auto Chess"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 19
+    min: 44
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ＆渋谷ハル＆白雪レイド＆花芽なずな at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -564,7 +628,28 @@
   time:
     hour: 20
     min: 0
+  title: "御伽原江良＆宗谷いちか＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル お泊り会"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 0
   title: "リゼ・ヘルエスタ at:YouTube LITTLE NIGHTMARES-リトルナイトメア-"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 30
+  title: "笹木咲 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 20
+    min: 31
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -572,6 +657,13 @@
     hour: 21
     min: 0
   title: "(仮)～ 樋口楓 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 21
+    min: 0
+  title: "闇夜乃モルル＆出雲霞 at:出雲霞のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -593,7 +685,7 @@
   time:
     hour: 21
     min: 0
-  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル？ マリオカート8 デラックス ※開始時刻：リマインダーより"
+  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -601,6 +693,13 @@
     hour: 21
     min: 0
   title: "ジョー・力一＆夢追翔 at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 21
+    min: 0
+  title: "久遠千歳 at:YouTube プレミア公開 CHO-DARI- cover"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -649,14 +748,14 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube モンスターハンター：ワールド"
+  title: "小野町春香 at:YouTube モンスターハンター：ワールド Minecraft ※内容変更"
   end_time: 
   uri: 
 - date: 2019-06-26
   time:
     hour: 22
     min: 0
-  title: "戌亥とこ＆？？？ at:YouTube Minecraft"
+  title: "戌亥とこ＆星街すいせい at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -670,7 +769,7 @@
   time:
     hour: 23
     min: 0
-  title: "える at:YouTube Minecraft ※Twitterネームより"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -678,6 +777,13 @@
     hour: 23
     min: 0
   title: "鈴鹿詩子＆竜胆尊 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-06-26
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube プレミア公開 【お疲れさま♡】もしも有栖が世話焼きな妹だったら【おかえり編】"
   end_time: 
   uri: 
 - date: 2019-06-26
@@ -698,12 +804,7 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※開始時刻：リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time: 
-  title: "？時？分(夜)～ 御伽原江良＆宗谷いちか＆癒月ちょこ at:?"
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-06-25
