@@ -410,9 +410,37 @@
   uri: 
 - date: 2019-06-27
   time:
+    hour: 15
+    min: 43
+  title: "町田ちま at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 17
+    min: 0
+  title: "渋谷ハジメ at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 17
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) スーパーマリオブラザーズ3 ※16時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
     hour: 17
     min: 0
   title: "ニュイ・ソシエール at:YouTube テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 17
+    min: 30
+  title: "文野環 at:YouTube 雑談、告知"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -433,7 +461,7 @@
   time:
     hour: 18
     min: 0
-  title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝 ※リマインダーより"
+  title: "シスター・クレア at:YouTube ワリオランドアドバンス ヨーキのお宝"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -468,6 +496,13 @@
   time:
     hour: 19
     min: 0
+  title: "戌亥とこ at:YouTube スナック戌亥"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 19
+    min: 0
   title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴 ※リマインダーより"
   end_time: 
   uri: 
@@ -490,6 +525,13 @@
     hour: 20
     min: 0
   title: "静凛 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 20
+    min: 0
+  title: "物述有栖 at:YouTube プレミア公開 替え歌歌ってみた 妖怪のせいにしないようかい体操第一"
   end_time: 
   uri: 
 - date: 2019-06-27
@@ -567,6 +609,13 @@
   time:
     hour: 23
     min: 0
+  title: "鈴鹿詩子 at:YouTube 告知"
+  end_time: 
+  uri: 
+- date: 2019-06-27
+  time:
+    hour: 23
+    min: 0
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談、告知"
   end_time: 
   uri: 
@@ -582,11 +631,6 @@
     hour: 18
     min: 0
   title: or19時00分頃～ 笹木咲 at:YouTube モンスターハンター：ワールド?
-  end_time: 
-  uri: 
-- date: 2019-06-27
-  time: 
-  title: "？時？分(仮)～ 戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-26
