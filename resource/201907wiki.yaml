@@ -19,8 +19,43 @@
   end_time: 
   uri: 
 - date: 2019-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 乙女ゲーム?"
+  end_time: 
+  uri: 
+- date: 2019-07-07
   time: 
   title: "？時？分～ 叶 at:YouTube 誕生日配信、プレゼント開封 ※6月22日配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国?"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -28,6 +63,13 @@
     hour: 20
     min: 0
   title: " 家長むぎ at:YouTube 『禍つヴァールハイト』実況"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 空気読み。"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -46,9 +88,23 @@
   uri: 
 - date: 2019-07-01
   time:
+    hour: 17
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
     hour: 20
     min: 0
   title: "童田明治 at:YouTube 『禍つヴァールハイト』実況"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-07-01
