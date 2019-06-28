@@ -77,6 +77,13 @@
   end_time: 
   uri: 
 - date: 2019-06-30
+  time:
+    hour: 23
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-30
   time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
@@ -139,7 +146,7 @@
   time:
     hour: 6
     min: 0
-  title: "鈴木勝 at:ツイキャス ランニング ※予定表・②より"
+  title: "鈴木勝 at:ツイキャス ランニング"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -519,14 +526,7 @@
   time:
     hour: 22
     min: 0
-  title: "月ノ美兎 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-28
-  time:
-    hour: 22
-    min: 0
-  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  title: "月ノ美兎 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
   end_time: 
   uri: 
 - date: 2019-06-28
@@ -539,15 +539,15 @@
 - date: 2019-06-28
   time:
     hour: 22
-    min: 30
-  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
+    min: 6
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-28
   time:
-    hour: 23
-    min: 0
-  title: "桃色冷蔵庫(宇志海いちご＆夕陽リリ) at:?"
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube SEKIRO: SHADOWS DIE TWICE"
   end_time: 
   uri: 
 - date: 2019-06-28
@@ -568,14 +568,35 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube みんなのリズム天国"
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-06-28
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
+  title: "夏色まつり at:夏色まつりのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 23
+    min: 0
+  title: 25分～ 桃色冷蔵庫(宇志海いちご＆夕陽リリ) at:夕陽リリのYouTubeチャンネル Pikuniku
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 23
+    min: 45
+  title: "遠北千南 at:YouTube 休むな！8分音符ちゃん"
+  end_time: 
+  uri: 
+- date: 2019-06-28
+  time:
+    hour: 23
+    min: 30
+  title: "御伽原江良 at:YouTube みんなのリズム天国 ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-27
