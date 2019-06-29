@@ -221,14 +221,21 @@
   time:
     hour: 13
     min: 0
-  title: "ぐんかん(神田笑一＆郡道美玲) at:両名のYouTubeチャンネル? Portal 2"
+  title: "ぐんかん(神田笑一＆郡道美玲) at:両名のYouTubeチャンネル Portal 2"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 13
+    min: 40
+  title: "春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-29
   time:
     hour: 15
     min: 0
-  title: "森中花咲 at:YouTube モンスターハンター：ワールド ※Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -243,6 +250,13 @@
     hour: 16
     min: 0
   title: "夕陽リリ at:YouTube マリオカート8 デラックス(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 16
+    min: 0
+  title: "(仮)～ 魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -364,7 +378,7 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube"
+  title: "葉山舞鈴 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-06-28
