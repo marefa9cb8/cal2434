@@ -240,9 +240,16 @@
   uri: 
 - date: 2019-06-29
   time:
+    hour: 15
+    min: 55
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -256,7 +263,21 @@
   time:
     hour: 16
     min: 0
-  title: "(仮)～ 魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube サルゲッチュ3"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 16
+    min: 0
+  title: "エクス・アルビオ at:YouTube UNO"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 17
+    min: 30
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-06-29
@@ -270,7 +291,7 @@
   time:
     hour: 18
     min: 0
-  title: "実況：Icotsu＆解説：ふぇありす at:upd8のYouTubeチャンネル Vtuberトーナメント AUTOCHESS CHAMPIONCUP2019(Dota
+  title: "実況：Icotsu＆解説：ふぇありす at:upd8のYouTubeチャンネル(本配信) Vtuberトーナメント AUTOCHESS CHAMPIONCUP2019(Dota
     Auto Chess) ※優勝チーム予想企画詳細"
   end_time: 
   uri: 
@@ -379,6 +400,11 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time: 
+  title: "？時？分～ 本間ひまわり at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-06-28
