@@ -3,6 +3,13 @@
   time:
     hour: 0
     min: 0
+  title: "物述有栖 at:YouTube 誤BAN解除復活記念"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 0
+    min: 0
   title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #16"
   end_time: 
   uri: 
@@ -18,11 +25,6 @@
     hour: 0
     min: 0
   title: "御伽原江良＆因幡はねる＆宇森ひなこ＆犬山たまき at:犬山たまきのYouTubeチャンネル 極限テトリス大会！お〇っこ我慢バトル"
-  end_time: 
-  uri: 
-- date: 2019-06-30
-  time: 
-  title: "？時？分(深夜)～ 物述有栖 at:YouTube 誤BAN解除復活記念"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -93,6 +95,11 @@
     hour: 23
     min: 0
   title: "ニュイ・ソシエール at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time: 
+  title: "？時？分(仮)～ 雨森小夜 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -200,6 +207,13 @@
   time:
     hour: 10
     min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 10
+    min: 0
   title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -236,6 +250,14 @@
     hour: 18
     min: 0
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-06-29
+  time:
+    hour: 18
+    min: 0
+  title: "実況：Icotsu＆解説：ふぇありす at:upd8のYouTubeチャンネル Vtuberトーナメント AUTOCHESS CHAMPIONCUP2019(Dota
+    Auto Chess) ※優勝チーム予想企画詳細"
   end_time: 
   uri: 
 - date: 2019-06-29
