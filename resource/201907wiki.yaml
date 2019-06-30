@@ -146,15 +146,15 @@
 - date: 2019-07-01
   time:
     hour: 0
-    min: 0
-  title: "小野町春香 at:YouTube 睡眠導入ASMR"
+    min: 30
+  title: "椎名唯華 at:YouTube 7月ゴリスナー総会"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 0
     min: 30
-  title: "椎名唯華 at:YouTube 7月ゴリスナー総会"
+  title: "レヴィ・エリファ at:YouTube 雑談、歌"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -208,9 +208,30 @@
   uri: 
 - date: 2019-07-01
   time:
+    hour: 20
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube ファイナルファンタジーIX"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
     hour: 21
     min: 0
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube ロックマンX"
   end_time: 
   uri: 
 - date: 2019-07-01

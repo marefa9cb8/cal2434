@@ -129,7 +129,7 @@
   time:
     hour: 12
     min: 0
-  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
+  title: 10分～ 鈴鹿詩子 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -249,13 +249,6 @@
   time:
     hour: 21
     min: 0
-  title: "轟京子 at:YouTube ROKI'S NKUCKLE キャッチコピー紹介企画 ※20時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-06-30
-  time:
-    hour: 21
-    min: 0
   title: "卯月コウ at:YouTube Steamサマーセール検索"
   end_time: 
   uri: 
@@ -263,7 +256,14 @@
   time:
     hour: 21
     min: 0
-  title: "三枝明那 at:YouTube 歌(VOCALOID) ※リマインダーより"
+  title: "三枝明那 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 21
+    min: 0
+  title: 11分～ 轟京子 at:YouTube ROKI'S NKUCKLE キャッチコピー紹介企画 ※20時から時間変更
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -277,8 +277,7 @@
   time:
     hour: 22
     min: 0
-  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル? Project
-    Winter"
+  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル Project Winter"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -290,9 +289,37 @@
   uri: 
 - date: 2019-06-30
   time:
+    hour: 22
+    min: 11
+  title: "黒井しば at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 22
+    min: 16
+  title: "渋谷ハジメ at:YouTube しぶミンバースデー6月編"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 22
+    min: 30
+  title: "ニュイ・ソシエール at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 22
+    min: 56
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
     hour: 23
     min: 0
-  title: "矢車りね＆御伽原江良 at:各々のYouTubeチャンネル？ Minecraft"
+  title: "矢車りね＆御伽原江良 at:各々のYouTubeチャンネル？ Minecraft ※延期"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -305,18 +332,15 @@
 - date: 2019-06-30
   time:
     hour: 23
-    min: 0
-  title: "ニュイ・ソシエール at:YouTube 雑談"
+    min: 30
+  title: "でびでび・でびる at:YouTube(2nd) Magic: The Gathering Arena(パック開封)"
   end_time: 
   uri: 
 - date: 2019-06-30
-  time: 
-  title: "？時？分(仮)～ 雨森小夜 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-06-30
-  time: 
-  title: "？時？分(夜、仮)～ レヴィ・エリファ at:YouTube 雑談、歌"
+  time:
+    hour: 23
+    min: 30
+  title: "小野町春香 at:YouTube 睡眠導入ASMR ※24時から時間変更"
   end_time: 
   uri: 
 - date: 2019-06-29
