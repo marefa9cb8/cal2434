@@ -168,6 +168,13 @@
 - date: 2019-06-30
   time:
     hour: 19
+    min: 0
+  title: "卯月コウ at:？"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 19
     min: 30
   title: "伏見ガク at:YouTube Katana ZERO"
   end_time: 
@@ -213,6 +220,13 @@
     hour: 20
     min: 0
   title: "鈴原るる at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 21
+    min: 0
+  title: "卯月コウ at:？"
   end_time: 
   uri: 
 - date: 2019-06-30
