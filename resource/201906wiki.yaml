@@ -92,6 +92,13 @@
   uri: 
 - date: 2019-06-30
   time:
+    hour: 7
+    min: 15
+  title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
     hour: 8
     min: 55
   title: "神田笑一 at:YouTube 仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
@@ -108,7 +115,14 @@
   time:
     hour: 10
     min: 0
-  title: "える at:YouTube 告知、新衣装お披露目"
+  title: "える at:YouTube 告知、新衣装(装飾)お披露目"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 11
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -146,6 +160,20 @@
   uri: 
 - date: 2019-06-30
   time:
+    hour: 19
+    min: 0
+  title: "椎名唯華 at:YouTube 黒い砂漠"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 19
+    min: 30
+  title: "伏見ガク at:YouTube Katana ZERO"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
     hour: 20
     min: 0
   title: "審査員：夜空メル＆ベルモンド・バンデラス＆因幡はねる＆バーチャルゴリラ at:夜空メルのYouTubeチャンネル Vtuberドキドキ❤台詞選手権～June
@@ -177,7 +205,7 @@
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子 at:YouTube"
+  title: "瀬戸美夜子 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-06-30
@@ -199,6 +227,21 @@
     hour: 22
     min: 0
   title: "まほすず(勇気ちひろ＆鈴谷アキ) at:鈴谷アキのYouTube(2nd)チャンネル まほすずラジオ #33"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル? Project
+    Winter"
+  end_time: 
+  uri: 
+- date: 2019-06-30
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube Crypt of the NecroDancer"
   end_time: 
   uri: 
 - date: 2019-06-30
