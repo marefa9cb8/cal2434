@@ -164,6 +164,13 @@
   title: "葛葉 at:YouTube 10万人記念"
   end_time: 
   uri: 
+- date: 2019-07-02
+  time:
+    hour: 22
+    min: 0
+  title: "小野町春香＆レヴィ・エリファ at:? Minecraft ※7月1日レヴィ・エリファ朝放送にて告知"
+  end_time: 
+  uri: 
 - date: 2019-07-01
   time:
     hour: 0
@@ -230,8 +237,8 @@
 - date: 2019-07-01
   time:
     hour: 7
-    min: 30
-  title: "(仮)～ レヴィ・エリファ at:YouTube 朝放送 ※起きれたら ※0時半からの放送で告知"
+    min: 38
+  title: "レヴィ・エリファ at:YouTube 朝放送"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -246,6 +253,13 @@
     hour: 17
     min: 0
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 17
+    min: 0
+  title: "戌亥とこ at:?"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -300,6 +314,13 @@
 - date: 2019-07-01
   time:
     hour: 21
+    min: 0
+  title: "戌亥とこ＆？？？ at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -320,11 +341,6 @@
   uri: 
 - date: 2019-07-01
   time: 
-  title: "？時？分～ 戌亥とこ at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-01
-  time: 
-  title: "？時？分～ 戌亥とこ at:?"
+  title: "？時？分(仮)～ 夕陽リリ at:? モンスターハンター：ワールド"
   end_time: 
   uri: 
