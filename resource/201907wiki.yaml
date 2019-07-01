@@ -4,6 +4,11 @@
   title: "？時？分～ 鈴木勝 at:YouTube(2nd) Episode0"
   end_time: 
   uri: 
+- date: 2019-07-28
+  time: 
+  title: "？時？分～ 御伽原江良 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
 - date: 2019-07-27
   time:
     hour: 11
@@ -16,6 +21,13 @@
     hour: 17
     min: 0
   title: "緑仙 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：名取さな at:YouTube しぃしぃラジオ 第6回"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -35,6 +47,13 @@
     hour: 17
     min: 0
   title: "える at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 7
+    min: 0
+  title: "ドーラ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -72,7 +91,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? Minecraft"
+  title: "渋谷ハジメ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -82,11 +101,33 @@
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
   end_time: 
   uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube VA-11 Hall-A"
+  end_time: 
+  uri: 
 - date: 2019-07-05
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? ファイナルファンタジーXIV"
+  title: "渋谷ハジメ at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 19
+    min: 0
+  title: KP：VIC＆PL：瀬戸美夜子＆城星譲友＆天開司＆歌衣イツミ at:城星譲友・VICのYouTubeチャンネル 初心者達のクトゥルフ神話TRPG
+    オリジナルシナリオ「石の都市」
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 20
+    min: 30
+  title: "ドーラ at:YouTube 金曜ロードショー同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -96,11 +137,16 @@
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル"
   end_time: 
   uri: 
+- date: 2019-07-05
+  time: 
+  title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
+  end_time: 
+  uri: 
 - date: 2019-07-04
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? バイオハザード6?"
+  title: "渋谷ハジメ at:YouTube バイオハザード6?"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -117,9 +163,23 @@
   uri: 
 - date: 2019-07-03
   time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 Summermagic【樋口楓オリジナル曲】"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:YouTube 晩御飯作り"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -131,9 +191,23 @@
   uri: 
 - date: 2019-07-02
   time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) どうぶつタワーバトル(視聴者参加型、ペナルティ：ピーヤング 激辛春雨END 喫食)"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? チョコボの不思議なダンジョン エブリバディ！"
+  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -147,7 +221,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:? モンスターハンター：ワールド"
+  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -162,6 +236,13 @@
     hour: 22
     min: 0
   title: "葛葉 at:YouTube 10万人記念"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube THE IDOLM@STER 2"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -217,14 +298,14 @@
   time:
     hour: 1
     min: 33
-  title: "黒井しば at:YouTube ゼルダの伝説 Breath of the Wild"
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ フリー"
+  title: 07時30分～ 伏見ガク at:YouTube おはガク！ フリー
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -238,14 +319,21 @@
   time:
     hour: 7
     min: 38
-  title: "レヴィ・エリファ at:YouTube 朝放送"
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 17
     min: 0
-  title: "出雲霞 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  title: "出雲霞 at:YouTube モンスターハンター：ワールド？ ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 17
+    min: 0
+  title: "戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -257,16 +345,9 @@
   uri: 
 - date: 2019-07-01
   time:
-    hour: 17
-    min: 0
-  title: "戌亥とこ at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-01
-  time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:? ラグナロク マスターズ"
+  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -274,6 +355,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -293,7 +381,7 @@
 - date: 2019-07-01
   time:
     hour: 20
-    min: 0
+    min: 30
   title: "ニュイ・ソシエール at:YouTube ファイナルファンタジーIX"
   end_time: 
   uri: 
@@ -301,7 +389,14 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:? モンスターハンター：ワールド"
+  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 21
+    min: 0
+  title: "戌亥とこ＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -315,7 +410,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ＆？？？ at:?"
+  title: "葉山舞鈴 at:YouTube 町民会議7月 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -323,6 +418,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube Minecraft ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -340,7 +442,28 @@
   end_time: 
   uri: 
 - date: 2019-07-01
+  time:
+    hour: 22
+    min: 15
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-01
   time: 
-  title: "？時？分(仮)～ 夕陽リリ at:? モンスターハンター：ワールド"
+  title: "？時？分(仮)～ 夕陽リリ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
