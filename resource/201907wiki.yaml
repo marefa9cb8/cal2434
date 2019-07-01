@@ -200,7 +200,21 @@
   time:
     hour: 0
     min: 0
+  title: "花畑チャイカ at:YouTube 新衣装お披露目"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) どうぶつタワーバトル(視聴者参加型、ペナルティ：ピーヤング 激辛春雨END 喫食)"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -376,14 +390,28 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ ※中止"
+  title: 18時46分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 19
+    min: 2
+  title: "葛葉 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 0
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -397,13 +425,6 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube みんなのリズム天国"
-  end_time: 
-  uri: 
-- date: 2019-07-01
-  time:
-    hour: 20
-    min: 0
   title: "童田明治 at:YouTube 『禍つヴァールハイト』実況"
   end_time: 
   uri: 
@@ -411,7 +432,28 @@
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子＆万楽えね at:万楽えねのYouTubeチャンネル 性癖雑談"
+  title: "三枝明那 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 11
+  title: "叶 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 0
+  title: 28分～ 笹木咲 at:YouTube みんなのリズム天国
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 30
+  title: "瀬戸美夜子＆万楽えね at:万楽えねのYouTubeチャンネル 性癖雑談 ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -432,7 +474,7 @@
   time:
     hour: 21
     min: 0
-  title: "戌亥とこ＆？？？ at:?"
+  title: "戌亥とこ＆百鬼あやめ at:百鬼あやめのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -453,14 +495,21 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 21
     min: 30
-  title: "小野町春香 at:YouTube Minecraft ※リマインダーより"
+  title: "小野町春香 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 22
+    min: 0
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -495,12 +544,7 @@
   time:
     hour: 23
     min: 30
-  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-07-01
-  time: 
-  title: "？時？分(仮)～ 夕陽リリ at:YouTube モンスターハンター：ワールド"
+  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-01
