@@ -331,30 +331,52 @@
   uri: 
 - date: 2019-07-01
   time:
-    hour: 17
+    hour: 16
     min: 0
-  title: "出雲霞 at:YouTube モンスターハンター：ワールド？ ※リマインダーより"
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 17
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "出雲霞 at:YouTube モンハン日記 ぽかぽかアイルー村G"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 17
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル モンスターハンター：ワールド"
+  title: "戌亥とこ at:YouTube ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 17
+    min: 7
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル モンスターハンター：ワールド Project Winter振り返り
+    ※内容・配信場所・17時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-01
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ"
+  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ ※中止"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -362,6 +384,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
+    hour: 20
+    min: 0
+  title: "森中花咲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -396,7 +425,7 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド"
+  title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド ※中止"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -472,5 +501,10 @@
 - date: 2019-07-01
   time: 
   title: "？時？分(仮)～ 夕陽リリ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time: 
+  title: "？時？分(23時以降?)～ 鷹宮リオン at:YouTube"
   end_time: 
   uri: 
