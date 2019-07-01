@@ -84,7 +84,7 @@
   uri: 
 - date: 2019-07-07
   time: 
-  title: "？時？分～ ジョー・力一] at:YouTube ロードモバイル"
+  title: "？時？分～ ジョー・力一 at:YouTube ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -324,6 +324,13 @@
   uri: 
 - date: 2019-07-01
   time:
+    hour: 14
+    min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-01
+  time:
     hour: 17
     min: 0
   title: "出雲霞 at:YouTube モンスターハンター：ワールド？ ※リマインダーより"
@@ -410,7 +417,7 @@
   time:
     hour: 21
     min: 0
-  title: "葉山舞鈴 at:YouTube 町民会議7月 ※リマインダーより"
+  title: "葉山舞鈴 at:YouTube 町民会議7月"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -431,7 +438,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築＆夏色まつり at:夏色まつりのYouTubeチャンネル モンスターハンター：ワールド"
+  title: "社築＆夏色まつり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -445,7 +452,7 @@
   time:
     hour: 22
     min: 15
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-07-01
