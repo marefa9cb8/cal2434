@@ -234,8 +234,22 @@
 - date: 2019-07-02
   time:
     hour: 0
+    min: 39
+  title: "叶＆あっくん大魔王＆高槻りつ＆ふくやマスター at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 0
     min: 45
   title: "郡道美玲 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 1
+    min: 0
+  title: "成瀬鳴 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -339,6 +353,13 @@
     hour: 23
     min: 0
   title: "愛園愛美＆うさます at:? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-01
