@@ -74,7 +74,7 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙＆因幡はねる at:? 新人Vtuver限定凸待ち"
+  title: "緑仙＆因幡はねる at:? 新人Vtuber限定凸待ち"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -157,6 +157,13 @@
   end_time: 
   uri: 
 - date: 2019-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-07-04
   time: 
   title: "？時？分～ 夢月ロア at:YouTube 誕生日配信"
   end_time: 
@@ -189,11 +196,18 @@
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国?"
   end_time: 
   uri: 
+- date: 2019-07-03
+  time:
+    hour: 21
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌(アニソン)"
+  end_time: 
+  uri: 
 - date: 2019-07-02
   time:
     hour: 0
     min: 0
-  title: "叶＆あっくん大魔王＆ふくやマスター＆高槻りつ at:? モンスターハンター：ワールド"
+  title: "叶＆あっくん大魔王＆ふくやマスター＆高槻りつ at:高槻りつのYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -219,9 +233,21 @@
   uri: 
 - date: 2019-07-02
   time:
+    hour: 0
+    min: 45
+  title: "郡道美玲 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time: 
+  title: "？時？分(深夜・仮)～ でびでび・でびる at:YouTube(2nd) PUBG"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -299,6 +325,13 @@
     hour: 22
     min: 0
   title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube ロックマンX"
   end_time: 
   uri: 
 - date: 2019-07-02
