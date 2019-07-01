@@ -193,6 +193,13 @@
   time:
     hour: 0
     min: 0
+  title: "叶＆あっくん大魔王＆ふくやマスター＆高槻りつ at:? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 0
+    min: 0
   title: "笹木咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
@@ -226,6 +233,13 @@
   uri: 
 - date: 2019-07-02
   time:
+    hour: 19
+    min: 0
+  title: "でびでび・でびる＆桜凛月 at:両名のYouTubeチャンネル? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
     hour: 20
     min: 0
   title: " 家長むぎ at:YouTube 『禍つヴァールハイト』実況"
@@ -242,7 +256,28 @@
   time:
     hour: 21
     min: 0
+  title: "叶 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 21
+    min: 0
   title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 空気読み。"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 21
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube ファイナルファンタジーIX"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -263,7 +298,14 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香＆レヴィ・エリファ at:? Minecraft ※7月1日レヴィ・エリファ朝放送にて告知"
+  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 23
+    min: 0
+  title: "愛園愛美＆うさます at:? モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -488,7 +530,7 @@
   time:
     hour: 21
     min: 0
-  title: "葉山舞鈴 at:YouTube 町民会議7月"
+  title: 15分～ 葉山舞鈴 at:YouTube 町民会議7月
   end_time: 
   uri: 
 - date: 2019-07-01
@@ -543,12 +585,14 @@
 - date: 2019-07-01
   time:
     hour: 23
-    min: 30
-  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
+    min: 15
+  title: "鷹宮リオン at:YouTube スーパーチャット読み上げ、Legue of Legends Teamfight Tactics"
   end_time: 
   uri: 
 - date: 2019-07-01
-  time: 
-  title: "？時？分(23時以降?)～ 鷹宮リオン at:YouTube"
+  time:
+    hour: 23
+    min: 30
+  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
