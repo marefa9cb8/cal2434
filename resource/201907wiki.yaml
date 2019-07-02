@@ -193,6 +193,13 @@
   uri: 
 - date: 2019-07-04
   time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 朗読"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6?"
@@ -228,7 +235,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -448,7 +455,14 @@
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子 at:YouTube グランド・セフト・オートV"
+  title: "瀬戸美夜子 at:YouTube グランド・セフト・オートV Minecraft ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 20
+    min: 10
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -476,7 +490,14 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 空気読み。"
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル みんなで空気読み。"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -484,13 +505,6 @@
     hour: 21
     min: 0
   title: "(仮)～ 雪城眞尋 at:YouTube Minecraft ※中止の可能性あり"
-  end_time: 
-  uri: 
-- date: 2019-07-02
-  time:
-    hour: 21
-    min: 0
-  title: "童田明治 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -532,6 +546,13 @@
   time:
     hour: 22
     min: 0
+  title: "社築 at:YouTube キャプテン翼II スーパーストライカー"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 22
+    min: 0
   title: "成瀬鳴 at:YouTube センター試験 数学Ⅱ・B編"
   end_time: 
   uri: 
@@ -560,14 +581,14 @@
   time:
     hour: 23
     min: 0
-  title: "愛園愛美＆うさます at:? モンスターハンター：ワールド"
+  title: "愛園愛美＆うさます at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube ゲームアンケート ※リマインダーより"
+  title: "葉山舞鈴 at:YouTube ゲームアンケート"
   end_time: 
   uri: 
 - date: 2019-07-01
