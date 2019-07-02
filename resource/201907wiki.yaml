@@ -338,6 +338,27 @@
   uri: 
 - date: 2019-07-02
   time:
+    hour: 14
+    min: 0
+  title: "神田笑一 at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 16
+    min: 0
+  title: "魔界ノりりむ at:YouTube 企画会議"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 17
+    min: 0
+  title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
     hour: 17
     min: 0
   title: "エクス・アルビオ at:YouTube"
@@ -355,6 +376,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-02
@@ -453,6 +481,13 @@
     hour: 22
     min: 0
   title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-02
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
   end_time: 
   uri: 
 - date: 2019-07-02
