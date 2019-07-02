@@ -102,7 +102,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル 乙女ゲーム?"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 乙女ゲーム?"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -154,7 +154,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -190,7 +190,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:アンジュ・カトリーナのYouTubeチャンネル"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -203,6 +203,13 @@
 - date: 2019-07-05
   time: 
   title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 0
+    min: 0
+  title: "笹木咲 at:YouTube 7月会議"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -223,7 +230,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル スーパーマリオメーカー2"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -237,7 +244,7 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube 実況パワフルプロ野球(Nintendo Switch版)"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -261,9 +268,23 @@
   uri: 
 - date: 2019-07-03
   time:
+    hour: 0
+    min: 30
+  title: "戌亥とこ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 2
+    min: 36
+  title: "郡道美玲 at:ツイキャス 作業"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -294,6 +315,13 @@
   uri: 
 - date: 2019-07-03
   time:
+    hour: 18
+    min: 0
+  title: "(仮)～ アンジュ・カトリーナ at:? 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 Summermagic【樋口楓オリジナル曲】"
@@ -304,6 +332,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ＆叶＆桜凛月＆三枝明那 at:各々のYouTubeチャンネル? PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -324,7 +359,7 @@
   time:
     hour: 21
     min: 0
-  title: "アンジュ・カトリーナ＆リゼ・ヘルエスタ at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国?"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国?"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -332,6 +367,20 @@
     hour: 21
     min: 0
   title: "レヴィ・エリファ at: 歌(アニメソング)"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 22
+    min: 0
+  title: "郡道美玲 at:YouTube 10万人記念"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-03
