@@ -244,6 +244,13 @@
   uri: 
 - date: 2019-07-05
   time:
+    hour: 22
+    min: 0
+  title: "叶 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
@@ -270,6 +277,13 @@
   uri: 
 - date: 2019-07-04
   time:
+    hour: 0
+    min: 0
+  title: "夢月ロア at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
     hour: 1
     min: 0
   title: "椎名唯華＆鷹宮リオン at:両名のYouTubeチャンネル？ Legue of Legends Teamfight Tactics"
@@ -280,6 +294,20 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 12
+    min: 30
+  title: "家長むぎ at:YouTube 昼食作り"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 17
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -299,6 +327,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6?"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 19
+    min: 0
+  title: "戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -501,7 +536,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube 晩御飯作り 雑談"
+  title: "ドーラ at:YouTube 晩御飯作り 雑談 ※内容変更"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -536,14 +571,14 @@
   time:
     hour: 21
     min: 0
-  title: "竜胆尊 at:YouTube"
+  title: "竜胆尊 at:YouTube 制服でーと(The Coin Game)"
   end_time: 
   uri: 
 - date: 2019-07-03
   time:
     hour: 21
     min: 0
-  title: "夢追翔＆白百合リリィ at:白百合リリィのYouTubeチャンネル"
+  title: "夢追翔＆白百合リリィ at:白百合リリィのYouTubeチャンネル バイオハザード7 ティザー ～ビギニングアワー～"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -564,7 +599,7 @@
   time:
     hour: 21
     min: 0
-  title: "レヴィ・エリファ at: 歌(アニメソング)"
+  title: "レヴィ・エリファ at:YouTube 歌(アニメソング)"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -592,7 +627,7 @@
   time:
     hour: 23
     min: 0
-  title: "夢追翔 at:YouTube プレミア公開 夢追翔、「GLOMOROUS SKY [ENGLISH VER.]」を歌わせていただきました。"
+  title: "夢追翔 at:YouTube プレミア公開 夢追翔、「GLAMOROUS SKY [ENGLISH VER.]」を歌わせていただきました。"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -600,11 +635,6 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
-  end_time: 
-  uri: 
-- date: 2019-07-03
-  time: 
-  title: "？時？分(仮)～ 戌亥とこ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-02
