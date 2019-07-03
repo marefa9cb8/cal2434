@@ -93,6 +93,13 @@
   uri: 
 - date: 2019-07-07
   time:
+    hour: 16
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
@@ -110,6 +117,13 @@
     hour: 21
     min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 乙女ゲーム?"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #34"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -152,6 +166,13 @@
   uri: 
 - date: 2019-07-06
   time:
+    hour: 16
+    min: 0
+  title: "(仮)～ 勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube Minecraft"
@@ -162,6 +183,13 @@
     hour: 21
     min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 0
+  title: "(仮)～ 勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -198,6 +226,13 @@
     hour: 20
     min: 30
   title: "ドーラ at:YouTube 金曜ロードショー同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 21
+    min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends or Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -270,6 +305,20 @@
   time:
     hour: 21
     min: 0
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "夢月ロア at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 21
+    min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル スーパーマリオメーカー2"
   end_time: 
   uri: 
@@ -285,11 +334,6 @@
     hour: 22
     min: 0
   title: "小野町春香 at:YouTube 実況パワフルプロ野球(Nintendo Switch版)"
-  end_time: 
-  uri: 
-- date: 2019-07-04
-  time: 
-  title: "？時？分～ 夢月ロア at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -427,6 +471,13 @@
   uri: 
 - date: 2019-07-03
   time:
+    hour: 18
+    min: 7
+  title: "町田ちま at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
     hour: 19
     min: 0
   title: "樋口楓 at:YouTube プレミア公開 Summermagic【樋口楓オリジナル曲】"
@@ -436,7 +487,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ＆叶＆桜凛月＆三枝明那 at:各々のYouTubeチャンネル? PUBG"
+  title: "渋谷ハジメ＆叶＆桜凛月＆三枝明那 at:各々のYouTubeチャンネル PUBG"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -450,7 +501,7 @@
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube 晩御飯作り"
+  title: "ドーラ at:YouTube 晩御飯作り 雑談"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -465,6 +516,13 @@
     hour: 20
     min: 30
   title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 20
+    min: 30
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -485,7 +543,21 @@
   time:
     hour: 21
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国?"
+  title: "夢追翔＆白百合リリィ at:白百合リリィのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 21
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-03
+  time:
+    hour: 21
+    min: 0
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-07-03
@@ -520,12 +592,14 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
+  title: "夢追翔 at:YouTube プレミア公開 夢追翔、「GLOMOROUS SKY [ENGLISH VER.]」を歌わせていただきました。"
   end_time: 
   uri: 
 - date: 2019-07-03
-  time: 
-  title: "？時？分～ 夢追翔＆白百合リリィ at:白百合リリィのYouTubeチャンネル?"
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-07-03
