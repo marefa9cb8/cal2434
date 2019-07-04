@@ -70,6 +70,13 @@
   title: "竜胆尊 at:bilibili"
   end_time: 
   uri: 
+- date: 2019-07-09
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:bilibili"
+  end_time: 
+  uri: 
 - date: 2019-07-07
   time:
     hour: 7
@@ -153,6 +160,13 @@
 - date: 2019-07-06
   time:
     hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube モンスターハンター：ワールド or 戦国BASARA3"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR"
   end_time: 
@@ -169,6 +183,11 @@
     hour: 16
     min: 0
   title: "(仮)～ 勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time: 
+  title: "？時？分(仮)～ 郡道美玲 at:?"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -199,11 +218,44 @@
   title: "ドーラ at:YouTube VA-11 Hall-A"
   end_time: 
   uri: 
+- date: 2019-07-06
+  time: 
+  title: "？時？分～ 紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
 - date: 2019-07-05
   time:
     hour: 0
     min: 0
   title: "緑仙 at:YouTube 歌(歌謡曲) ※リマインダー＆予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 1
+    min: 0
+  title: "本間ひまわり at:YouTube 雑談、告知"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -225,7 +277,8 @@
   time:
     hour: 20
     min: 0
-  title: "(仮)～ 月ノ美兎 at:? ※Twitterネームより"
+  title: "かえでとみと(月ノ美兎＆樋口楓)＆でびリオン(鷹宮リオン＆でびでび・でびる) at:樋口楓、鷹宮リオンのYouTubeチャンネル マリオカート8
+    デラックス"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -355,6 +408,20 @@
   uri: 
 - date: 2019-07-04
   time:
+    hour: 13
+    min: 30
+  title: "町田ちま at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 15
+    min: 55
+  title: "狂犬ズ(町田ちま＆黒井しば) at:黒井しばのYouTubeチャンネル お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
     hour: 17
     min: 0
   title: "瀬戸美夜子 at:YouTube Terraria"
@@ -368,8 +435,10 @@
   end_time: 
   uri: 
 - date: 2019-07-04
-  time: 
-  title: "？時？分(昼・仮)～ 町田ちま at:?"
+  time:
+    hour: 18
+    min: 30
+  title: "本間ひまわり at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -390,21 +459,28 @@
   time:
     hour: 19
     min: 0
-  title: "?～ 桜凛月 at:YouTube Minecraft"
+  title: "魔界ノりりむ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
   time:
     hour: 19
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 19
+    min: 0
+  title: "戌亥とこ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-04
   time:
     hour: 19
     min: 30
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -412,6 +488,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 21
+    min: 0
+  title: "葛葉 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -446,7 +529,14 @@
   time:
     hour: 22
     min: 0
-  title: "緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル 初心者Magic: the Gathering ※緑仙の予定表より"
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 22
+    min: 0
+  title: "緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル Magic: the Gathering"
   end_time: 
   uri: 
 - date: 2019-07-04
