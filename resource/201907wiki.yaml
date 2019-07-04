@@ -329,14 +329,21 @@
   time:
     hour: 12
     min: 0
-  title: "雪汝＆鷹宮リオン＆宗谷いちか＆癒月ちょこ at:? Dead by Daylight"
+  title: "雪汝＆鷹宮リオン＆宗谷いちか＆癒月ちょこ at:鷹宮リオンのYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-04
   time:
     hour: 12
     min: 0
-  title: "愛園愛美 at:YouTube ひるまなラジオ #39"
+  title: "愛園愛美 at:YouTube ひるまなラジオ #39 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 12
+    min: 0
+  title: "鈴原るる at:YouTube プレミア公開 #1.５【Monster Hunter World】鈴原 モンハンやるってよ！裏編！"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -350,12 +357,19 @@
   time:
     hour: 17
     min: 0
+  title: "瀬戸美夜子 at:YouTube Terraria"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 17
+    min: 0
   title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-04
   time: 
-  title: "？時？分(昼・仮)～ 舞元啓介 at:YouTube"
+  title: "？時？分(昼・仮)～ 町田ちま at:?"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -370,6 +384,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6?"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 19
+    min: 0
+  title: "?～ 桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -429,8 +450,25 @@
   end_time: 
   uri: 
 - date: 2019-07-04
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube モンスターハンター：ワールド ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time: 
+  title: "？時？分(夜・仮)～ 舞元啓介 at:YouTube モンスターハンター：ワールド or Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-04
   time: 
   title: "？時？分(雑談後)～ 鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time: 
+  title: "？時？分(夜・仮)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-03
