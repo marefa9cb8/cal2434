@@ -163,6 +163,16 @@
   uri: 
 - date: 2019-07-07
   time: 
+  title: "？時？分(仮)～ 夕陽リリ at:? ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
+  title: "？時？分(仮)～ 夕陽リリ at:? ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
   title: "？時？分～ 叶 at:YouTube 誕生日配信、プレゼント開封"
   end_time: 
   uri: 
@@ -197,6 +207,13 @@
     hour: 16
     min: 0
   title: "(仮)～ 勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 16
+    min: 0
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド? ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -280,29 +297,44 @@
 - date: 2019-07-05
   time:
     hour: 0
-    min: 0
-  title: "緑仙 at:YouTube 歌(歌謡曲) ※リマインダー＆予定表より"
+    min: 5
+  title: "緑仙 at:YouTube 歌(歌謡曲)"
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 0
     min: 0
-  title: "エクス・アルビオ at:YouTube"
+  title: "エクス・アルビオ at:YouTube ※延期"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 0
+    min: 15
+  title: "鈴鹿詩子 at:YouTube プレミア公開 【Moonlight Densetsu / Nandemonaiya / Zankoku na Tenshi
+    no Te-ze】I sing popular anime songs.(cover)"
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 0
     min: 0
-  title: 30分頃～ 郡道美玲 at:YouTube ファイナルファンタジーXIV
+  title: 36分～ 郡道美玲 at:YouTube ファイナルファンタジーXIV
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 1
     min: 0
-  title: "本間ひまわり at:YouTube 雑談、告知"
+  title: "椎名唯華 at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 1
+    min: 0
+  title: 18分～ 本間ひまわり at:YouTube 雑談、告知
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -310,11 +342,6 @@
     hour: 2
     min: 0
   title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time: 
-  title: "？時？分(深夜)～ 椎名唯華 at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -329,6 +356,13 @@
     hour: 7
     min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 12
+    min: 0
+  title: "雪汝＆因幡はねる＆癒月ちょこ at:癒月ちょこのYouTubeチャンネル 座談会"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -392,6 +426,13 @@
   time:
     hour: 21
     min: 0
+  title: "町田ちま at:YouTube 4万人記念 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 21
+    min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル"
   end_time: 
   uri: 
@@ -411,9 +452,37 @@
   uri: 
 - date: 2019-07-05
   time:
+    hour: 22
+    min: 0
+  title: "御伽原江良＆戌亥とこ at:戌亥とこのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #3 ※1時の配信にて言及"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube Shadowverse ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -426,16 +495,6 @@
 - date: 2019-07-05
   time: 
   title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time: 
-  title: "？時？分(仮)～ 町田ちま at:YouTube 4万人記念 ※7月4日のコラボ配信最後にて告知"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time: 
-  title: "？時？分～ 御伽原江良＆戌亥とこ at:戌亥とこのYouTubeチャンネル ※配信場所変更"
   end_time: 
   uri: 
 - date: 2019-07-04
