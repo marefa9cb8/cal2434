@@ -77,6 +77,20 @@
   title: "葛葉 at:bilibili"
   end_time: 
   uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
+    min: 0
+  title: "樋口楓 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:bilibili"
+  end_time: 
+  uri: 
 - date: 2019-07-07
   time:
     hour: 7
@@ -204,9 +218,30 @@
   uri: 
 - date: 2019-07-06
   time:
-    hour: 21
+    hour: 20
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム?"
+  title: "ドーラ＆朝ノ瑠璃 at:朝ノ姉妹ぷろじぇくとのYouTubeチャンネル 「劇場版マクロスF 虚空歌姫 ～イツワリノウタヒメ～ / 恋離飛翼 ～サヨナラノツバサ～」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 20
+    min: 0
+  title: "夜見れな at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 20
+    min: 40
+  title: "葉加瀬冬雪 at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 21
+    min: 20
+  title: "加賀美ハヤト at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -214,6 +249,20 @@
     hour: 22
     min: 0
   title: "(仮)～ 勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 0
+  title: "森中花咲＆シスター・クレア＆御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 0
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -232,13 +281,6 @@
   time:
     hour: 0
     min: 0
-  title: "(仮)～ 森中花咲 at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time:
-    hour: 0
-    min: 0
   title: "緑仙 at:YouTube 歌(歌謡曲) ※リマインダー＆予定表より"
   end_time: 
   uri: 
@@ -246,7 +288,14 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube ファイナルファンタジーXIV"
+  title: "エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 0
+    min: 0
+  title: 30分頃～ 郡道美玲 at:YouTube ファイナルファンタジーXIV
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -264,10 +313,29 @@
   end_time: 
   uri: 
 - date: 2019-07-05
+  time: 
+  title: "？時？分(深夜)～ 椎名唯華 at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-05
   time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ フリー"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 7
+    min: 0
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 17
+    min: 30
+  title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -302,6 +370,13 @@
 - date: 2019-07-05
   time:
     hour: 20
+    min: 0
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 20
     min: 30
   title: "ドーラ at:YouTube 金曜ロードショー同時視聴"
   end_time: 
@@ -318,6 +393,13 @@
     hour: 21
     min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -348,7 +430,12 @@
   uri: 
 - date: 2019-07-05
   time: 
-  title: "？時？分～ 御伽原江良＆戌亥とこ at:?"
+  title: "？時？分(仮)～ 町田ちま at:YouTube 4万人記念 ※7月4日のコラボ配信最後にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time: 
+  title: "？時？分～ 御伽原江良＆戌亥とこ at:戌亥とこのYouTubeチャンネル ※配信場所変更"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -510,7 +597,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ＆渋谷ハジメ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆渋谷ハジメ at:両名のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -557,6 +644,13 @@
   uri: 
 - date: 2019-07-04
   time:
+    hour: 21
+    min: 44
+  title: "叶 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
     hour: 22
     min: 0
   title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
@@ -566,7 +660,7 @@
   time:
     hour: 22
     min: 0
-  title: "緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル Magic: the Gathering"
+  title: "緑仙＆夢追翔 at:夢追翔のYouTubeチャンネル Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -587,7 +681,21 @@
   time:
     hour: 22
     min: 30
+  title: "月見しずく at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 22
+    min: 50
   title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-04
+  time:
+    hour: 23
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 【初見さん向け・公式】9分で分かる鈴鹿詩子2019上半期【これを見れば大体分かる！】"
   end_time: 
   uri: 
 - date: 2019-07-04
@@ -598,8 +706,10 @@
   end_time: 
   uri: 
 - date: 2019-07-04
-  time: 
-  title: "？時？分(夜・仮)～ エクス・アルビオ at:YouTube"
+  time:
+    hour: 23
+    min: 25
+  title: "鷹宮リオン at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-03
