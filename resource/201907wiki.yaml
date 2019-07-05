@@ -355,7 +355,14 @@
   time:
     hour: 7
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:YouTube"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル 朝活"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 8
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 朝放送"
   end_time: 
   uri: 
 - date: 2019-07-05
