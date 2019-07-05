@@ -216,6 +216,25 @@
   uri: 
 - date: 2019-07-06
   time:
+    hour: 2
+    min: 0
+  title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time: 
+  title: "？時？分(深夜)～ 渋谷ハジメ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 6
+    min: 0
+  title: "鈴木勝 at:ツイキャス 竹取 ※雨天：筋トレ"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
     hour: 14
     min: 30
   title: "出雲霞 at:YouTube 昼やスミ(個人ボイス案相談会) チーズ系スイーツ"
@@ -237,12 +256,7 @@
   uri: 
 - date: 2019-07-06
   time: 
-  title: "？時？分(朝)～ 鈴木勝 at:ツイキャス 竹取 ※雨天延期"
-  end_time: 
-  uri: 
-- date: 2019-07-06
-  time: 
-  title: "？時？分(仮)～ 郡道美玲 at:?"
+  title: "？時？分(昼)～ 郡道美玲 at:?"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -418,14 +432,14 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube ファイナルファンタジーXIV"
+  title: 18時47分～ 桜凛月 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 19
     min: 0
-  title: "文野環 at:YouTube"
+  title: "渋谷ハジメ at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -439,15 +453,22 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
+  title: KP：VIC＆PL：瀬戸美夜子＆城星譲友＆天開司＆歌衣イツミ at:城星譲友・VICのYouTubeチャンネル 初心者達のクトゥルフ神話TRPG
+    オリジナルシナリオ「石の都市」
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 19
-    min: 0
-  title: KP：VIC＆PL：瀬戸美夜子＆城星譲友＆天開司＆歌衣イツミ at:城星譲友・VICのYouTubeチャンネル 初心者達のクトゥルフ神話TRPG
-    オリジナルシナリオ「石の都市」
+    min: 3
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 19
+    min: 30
+  title: "文野環 at:YouTube 雑談、マクドナルド チーズロコモコバーガー喫食 ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -475,7 +496,7 @@
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube 雑談"
+  title: "笹木咲 at:YouTube マリオカート８ デラックス"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -490,6 +511,13 @@
     hour: 20
     min: 30
   title: "ドーラ at:YouTube 金曜ロードショー「スパイダーマン:ホームカミング」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 20
+    min: 0
+  title: 38分～ シスター・クレア at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -510,14 +538,21 @@
   time:
     hour: 21
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 雑談、歌(仮)"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 21
+    min: 0
+  title: "エクス・アルビオ at:YouTube DARK SOULS III"
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -538,7 +573,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #3 ※1時の配信にて言及"
+  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #3 ※1時の配信にて言及 ※延期"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -552,6 +587,20 @@
   time:
     hour: 23
     min: 0
+  title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 0
+  title: "成瀬鳴 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 0
   title: "鈴原るる at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -559,7 +608,7 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube Shadowverse ※リマインダーより"
+  title: "葉山舞鈴 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -572,11 +621,6 @@
 - date: 2019-07-05
   time: 
   title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー or VA-11 Hall-A ※補足：予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-05
