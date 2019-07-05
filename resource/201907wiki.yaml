@@ -279,6 +279,13 @@
   time:
     hour: 22
     min: 0
+  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム ※21時から時間変更"
   end_time: 
   uri: 
@@ -287,11 +294,6 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube VA-11 Hall-A"
-  end_time: 
-  uri: 
-- date: 2019-07-06
-  time: 
-  title: "？時？分～ 紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:? モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -355,14 +357,21 @@
   time:
     hour: 7
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル 朝活"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-07-05
   time:
     hour: 8
     min: 0
-  title: "レヴィ・エリファ at:YouTube 朝放送"
+  title: "レヴィ・エリファ at:YouTube 朝食、雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 11
+    min: 37
+  title: "叶＆Ruytv＆Maitv＆なかのっち at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -384,6 +393,20 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 19
+    min: 0
+  title: "ドラひま(本間ひまわり＆ドーラ) at:本間ひまわりのYouTubeチャンネル ひまごはん会(ピザ喫食) ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -418,8 +441,22 @@
 - date: 2019-07-05
   time:
     hour: 20
+    min: 0
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 20
+    min: 0
+  title: "ジョー・力一 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 20
     min: 30
-  title: "ドーラ at:YouTube 金曜ロードショー同時視聴"
+  title: "ドーラ at:YouTube 金曜ロードショー「スパイダーマン:ホームカミング」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -500,8 +537,25 @@
   end_time: 
   uri: 
 - date: 2019-07-05
+  time:
+    hour: 14
+    min: 0
+  title: "-19時00分頃～ 文野環 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
   time: 
   title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time: 
+  title: "？時？分～ エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time: 
+  title: "？時？分～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-04
