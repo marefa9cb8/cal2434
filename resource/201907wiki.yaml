@@ -204,6 +204,13 @@
   time:
     hour: 0
     min: 0
+  title: "遠北千南 at:YouTube ※前日23時半から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -216,9 +223,16 @@
   uri: 
 - date: 2019-07-06
   time:
+    hour: 1
+    min: 0
+  title: "エクス・アルビオ at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
     hour: 2
     min: 0
-  title: "成瀬鳴 at:YouTube"
+  title: "成瀬鳴 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -244,14 +258,21 @@
   time:
     hour: 16
     min: 0
-  title: "(仮)～ 勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends ※配信内にてコラボ告知"
   end_time: 
   uri: 
 - date: 2019-07-06
   time:
     hour: 16
     min: 0
-  title: "夕陽リリ at:YouTube モンスターハンター：ワールド? ※リマインダー予定表より"
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 17
+    min: 0
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 料理 ※7月5日の配信で告知"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -305,6 +326,13 @@
   time:
     hour: 22
     min: 0
+  title: "モイラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 0
   title: "森中花咲＆シスター・クレア＆御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
   end_time: 
   uri: 
@@ -320,6 +348,25 @@
     hour: 22
     min: 0
   title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube 社築のあの日に青春置いてきたラジオ。 #2"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time: 
+  title: "？時？分（20時～22時以外）～ 卯月コウ at:？"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -524,7 +571,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends or Minecraft"
+  title: "勇気ちひろ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -559,7 +606,7 @@
   time:
     hour: 22
     min: 0
-  title: "叶 at:bilibili"
+  title: "叶 at:bilibili スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -567,6 +614,13 @@
     hour: 22
     min: 0
   title: "御伽原江良＆戌亥とこ at:戌亥とこのYouTubeチャンネル Overcooked 2"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 22
+    min: 30
+  title: "瀬戸美夜子 at:YouTube Apex Legends、TRPGコラボ感想"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -594,7 +648,7 @@
   time:
     hour: 23
     min: 0
-  title: "成瀬鳴 at:YouTube"
+  title: "成瀬鳴 at:YouTube FIFA 19"
   end_time: 
   uri: 
 - date: 2019-07-05
@@ -614,18 +668,20 @@
 - date: 2019-07-05
   time:
     hour: 23
-    min: 30
-  title: "遠北千南 at:YouTube ※時間変更の可能性あり"
+    min: 3
+  title: "雪城眞尋 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-05
+  time:
+    hour: 23
+    min: 33
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-05
   time: 
-  title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー or VA-11 Hall-A ※補足：予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-05
-  time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube"
+  title: "？時？分(深夜)～ ドーラ at:YouTube 歌マクロス スマホDeカルチャー or VA-11 Hall-A ※中止？：予定表より"
   end_time: 
   uri: 
 - date: 2019-07-04
