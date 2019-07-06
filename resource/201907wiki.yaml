@@ -98,6 +98,13 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 0
+    min: 0
+  title: "鈴鹿詩子 at:YouTube おねショタお風呂(?) ※前日17時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 20
     min: 0
   title: "森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル プレミア公開 Tulip ※7月6日の配信で告知"
@@ -173,6 +180,13 @@
   uri: 
 - date: 2019-07-07
   time:
+    hour: 3
+    min: 42
+  title: "緑仙 at:YouTube(サブ) 作業"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
     hour: 6
     min: 0
   title: "鈴木勝 at:ツイキャス 竹取or雨天：筋トレ ※Twitterネーム・予定表・②より"
@@ -228,8 +242,10 @@
   end_time: 
   uri: 
 - date: 2019-07-07
-  time: 
-  title: 17時０0分～ 鈴鹿詩子 at:YouTube おねショタお風呂(?)
+  time:
+    hour: 17
+    min: 0
+  title: "鈴鹿詩子 at:YouTube おねショタお風呂(?) ※8日0時に時間変更"
   end_time: 
   uri: 
 - date: 2019-07-07
