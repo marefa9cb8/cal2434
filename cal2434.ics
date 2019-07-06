@@ -15128,6 +15128,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190712T200000
+SUMMARY:渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:YouTube 「スパイダーマン:ファー・フロム・ホーム」感想会
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190711T210000
 SUMMARY:リゼ・ヘルエスタ at:bilibili
 URL:
@@ -15136,6 +15142,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190710T210000
 SUMMARY:竜胆尊 at:bilibili
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190710T220000
+SUMMARY:森中花咲＆ドーラ＆出雲霞＆花畑チャイカ＆社築＆鷹宮リオン at:出雲霞のYouTubeチャンネル 「眼鏡の天使TRPG メガネリオン」
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15166,6 +15178,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190707T000000
 SUMMARY:剣持刀也 at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190707T000000
+SUMMARY:叶 at:YouTube プレミア公開 過去も、未来も分からない僕に。
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15465,7 +15483,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190706T183000
-SUMMARY:卯月コウ at:Youtube お便り企画「あなたのガチ恋」 ※18時から時間変更
+SUMMARY:卯月コウ at:YouTube お便り企画「あなたのガチ恋」 ※18時から時間変更
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15513,7 +15531,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190706T220000
-SUMMARY:森中花咲＆シスター・クレア＆御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ
+SUMMARY:森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル アイドルマスター シンデレラガールズ スターライトステージ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15525,7 +15543,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190706T220000
-SUMMARY:リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル ホラーゲーム ※21時から時間変更
+SUMMARY:リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:リゼ・ヘルエスタのYouTubeチャンネル イケニエノヨル ※21時から時間変更
 URL:
 DESCRIPTION:
 END:VEVENT
