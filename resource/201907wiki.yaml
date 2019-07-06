@@ -93,6 +93,13 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 20
+    min: 0
+  title: "森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル プレミア公開 Tulip ※7月6日の配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 21
     min: 0
   title: "樋口楓 at:bilibili"
@@ -124,6 +131,25 @@
     hour: 0
     min: 0
   title: "叶 at:YouTube プレミア公開 過去も、未来も分からない僕に。"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 1
+    min: 0
+  title: "雨森小夜 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
+  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube portal?"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -168,6 +194,13 @@
   uri: 
 - date: 2019-07-07
   time:
+    hour: 19
+    min: 0
+  title: "ジョー・力一 at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
@@ -196,7 +229,7 @@
   uri: 
 - date: 2019-07-07
   time:
-    hour: 21
+    hour: 22
     min: 0
   title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #34"
   end_time: 
@@ -240,11 +273,6 @@
 - date: 2019-07-07
   time: 
   title: "？時？分(夜・仮)～ ドーラ at:? ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-07
-  time: 
-  title: "？時？分～ ジョー・力一 at:YouTube ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -503,7 +531,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -524,7 +552,7 @@
   time:
     hour: 22
     min: 0
-  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
+  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -545,14 +573,14 @@
   time:
     hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-06
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 樋口楓 at:YouTube"
+  title: "樋口楓 at:YouTube VRライブ「ReStart Line」感想会"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -560,6 +588,27 @@
     hour: 23
     min: 0
   title: "社築 at:YouTube 社築のあの日に青春置いてきたラジオ。 #2"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 35
+  title: "緑仙 at:YouTube(サブ) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 45
+  title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-05
