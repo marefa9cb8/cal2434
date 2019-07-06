@@ -84,6 +84,11 @@
   title: "森中花咲＆ドーラ＆出雲霞＆花畑チャイカ＆社築＆鷹宮リオン at:出雲霞のYouTubeチャンネル 「眼鏡の天使TRPG メガネリオン」"
   end_time: 
   uri: 
+- date: 2019-07-10
+  time: 
+  title: "？時？分～ 夢追翔＆白百合リリィ at:?"
+  end_time: 
+  uri: 
 - date: 2019-07-09
   time:
     hour: 21
@@ -112,6 +117,11 @@
   title: "物述有栖 at:bilibili"
   end_time: 
   uri: 
+- date: 2019-07-08
+  time: 
+  title: "？時？分(仮)～ 舞元啓介 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-07-07
   time:
     hour: 0
@@ -123,7 +133,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -137,12 +147,35 @@
   time:
     hour: 1
     min: 0
+  title: "エクス・アルビオ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 1
+    min: 2
   title: "雨森小夜 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-07
-  time: 
-  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube portal?"
+  time:
+    hour: 2
+    min: 0
+  title: "甲賀流忍者ぽんぽこ＆ピーナッツくん at:甲賀流忍者ぽんぽこのYouTubeチャンネル 週刊ぽこピー批評"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 2
+    min: 33
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 6
+    min: 0
+  title: "鈴木勝 at:ツイキャス 竹取or雨天：筋トレ ※Twitterネーム・予定表・②より"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -157,6 +190,13 @@
     hour: 7
     min: 0
   title: "ドーラ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 9
+    min: 0
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -194,9 +234,37 @@
   uri: 
 - date: 2019-07-07
   time:
+    hour: 17
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) 七夕企画 短冊飾り"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 17
+    min: 30
+  title: "でびでび・でびる at:YouTube(2nd) 雨乞い"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 19
+    min: 0
+  title: "える at:YouTube VRライブ「ReStart Line」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
     hour: 19
     min: 0
   title: "ジョー・力一 at:YouTube ロードモバイル"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 0
+  title: "樋口楓 at:YouTube Minecraft　※配信内にて告知"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -243,6 +311,20 @@
   uri: 
 - date: 2019-07-07
   time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
     hour: 23
     min: 0
   title: "緑仙＆因幡はねる at:因幡はねるのYouTubeチャンネル 新人Vtuber限定凸待ち"
@@ -272,7 +354,17 @@
   uri: 
 - date: 2019-07-07
   time: 
+  title: "？時？分～ 魔界ノりりむ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
   title: "？時？分(夜・仮)～ ドーラ at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
+  title: "？時？分～ 雪城眞尋 at:?"
   end_time: 
   uri: 
 - date: 2019-07-06
@@ -587,6 +679,13 @@
   time:
     hour: 23
     min: 0
+  title: "ドーラ at:YouTube VA-11 Hall-A"
+  end_time: 
+  uri: 
+- date: 2019-07-06
+  time:
+    hour: 23
+    min: 0
   title: "社築 at:YouTube 社築のあの日に青春置いてきたラジオ。 #2"
   end_time: 
   uri: 
@@ -607,7 +706,7 @@
 - date: 2019-07-06
   time:
     hour: 23
-    min: 45
+    min: 46
   title: "鈴鹿詩子 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
