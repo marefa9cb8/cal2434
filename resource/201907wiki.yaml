@@ -107,6 +107,13 @@
   time:
     hour: 0
     min: 0
+  title: "椎名唯華＆日ノ隈らん at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 0
+    min: 0
   title: "ジョー・力一 at:YouTube りきいちファーム #20"
   end_time: 
   uri: 
@@ -314,8 +321,29 @@
 - date: 2019-07-07
   time:
     hour: 17
+    min: 0
+  title: "童田明治 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 17
     min: 30
   title: "でびでび・でびる at:YouTube(2nd) 雨乞い"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 18
+    min: 30
+  title: "春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -406,7 +434,7 @@
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ＆鈴谷アキ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #34"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:勇気ちひろのYouTubeチャンネル まほすずラジオ #34"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -420,7 +448,7 @@
   time:
     hour: 22
     min: 30
-  title: "鈴原るる at:YouTube スーパードンキーコング3orスーパーマリオ64?"
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -480,17 +508,12 @@
   uri: 
 - date: 2019-07-07
   time: 
-  title: "？時？分(夕方頃)～ 春崎エアル at:YouTube モンスターハンター：ワールド"
+  title: "？時？分～(乙女ゲーム後) リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ at:？ リゼアンWeek振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-07-07
   time: 
   title: "？時？分～(仮) 加賀美ハヤト at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-07
-  time: 
-  title: "？時？分～(乙女ゲーム後) リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ at:？ リゼアンWeek振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-07-06
