@@ -121,7 +121,14 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク at:YouTube おはガク！ チーズ"
+  title: "伏見ガク at:YouTube おはガク！ チーズ系"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 14
+    min: 0
+  title: "舞元啓介 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -167,8 +174,10 @@
   end_time: 
   uri: 
 - date: 2019-07-08
-  time: 
-  title: "？時？分(仮)～ 舞元啓介 at:YouTube"
+  time:
+    hour: 17
+    min: 0
+  title: "-19時00分頃～ 夜見れな at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -342,7 +351,7 @@
 - date: 2019-07-07
   time:
     hour: 18
-    min: 30
+    min: 40
   title: "春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
@@ -350,14 +359,7 @@
   time:
     hour: 19
     min: 0
-  title: "える at:YouTube VRライブ「ReStart Line」同時視聴"
-  end_time: 
-  uri: 
-- date: 2019-07-07
-  time:
-    hour: 19
-    min: 0
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube 七夕企画"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -369,23 +371,44 @@
   uri: 
 - date: 2019-07-07
   time:
-    hour: 20
+    hour: 19
     min: 0
-  title: "樋口楓 at:YouTube Minecraft　※配信内にて告知"
+  title: "夢月ロア at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 19
+    min: 0
+  title: 15分～ える at:YouTube VRライブ「ReStart Line」同時視聴
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 19
+    min: 50
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
   end_time: 
   uri: 
 - date: 2019-07-07
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-07
   time:
     hour: 20
     min: 0
-  title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube 七夕企画"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -405,8 +428,29 @@
 - date: 2019-07-07
   time:
     hour: 20
+    min: 23
+  title: "社築＆でびでび・でびる at:社築のYouTubeチャンネル Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 30
+  title: "出雲霞 at:YouTube セブンスドラゴン2020 ※20時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
     min: 0
-  title: "レヴィ・エリファ at:YouTube"
+  title: 36分～ レヴィ・エリファ at:YouTube 雑談、歌
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 45
+  title: "雪汝 at:YouTube プレミア公開 Apex Legends シーズン２きたから早速興奮してきたわよ///"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -420,7 +464,8 @@
   time:
     hour: 21
     min: 0
-  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル 乙女ゲーム?"
+  title: "リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ) at:アンジュ・カトリーナのYouTubeチャンネル ときめきメモリアル Girl's Side
+    2"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -428,6 +473,13 @@
     hour: 21
     min: 0
   title: "叶 at:YouTube 誕生日配信、プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 21
+    min: 0
+  title: "三枝明那 at:YouTube Shadowverse"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -469,7 +521,7 @@
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ at:YouTube Magic: The Gathering Arena ※開始時刻：リマインダーより"
+  title: "花畑チャイカ at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -494,11 +546,6 @@
 - date: 2019-07-07
   time: 
   title: "？時？分(仮)～ 夕陽リリ at:? ※リマインダー予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-07
-  time: 
-  title: "？時？分～ 雪汝 at:YouTube プレミア公開 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-07
