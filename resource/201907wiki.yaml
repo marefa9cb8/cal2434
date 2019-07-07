@@ -126,9 +126,30 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 0
+    min: 40
+  title: "夢月ロア at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 1
     min: 0
-  title: "郡道美玲 at:?"
+  title: "緑仙＆因幡はねる at:因幡はねるのYouTubeチャンネル #ツブナイ 番外編"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 1
+    min: 0
+  title: "郡道美玲 at:YouTube 戦国BASARA3"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 2
+    min: 34
+  title: "緑仙 at:YouTube(サブ)"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -140,9 +161,30 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 7
+    min: 30
+  title: "出雲霞 at:YouTube いずもーにんぐ"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 14
     min: 0
   title: "舞元啓介 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 17
+    min: 0
+  title: "?～ 夜見れな at:YouTube 星のカービィ スターアライズ ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -189,6 +231,27 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 22
+    min: 0
+  title: "?～ 葉加瀬冬雪 at:YouTube スーパーマリオメーカー2 ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 23
+    min: 0
+  title: "樋口楓 at:YouTube 雀魂 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 23
     min: 0
   title: "(仮)～ 森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国"
@@ -198,21 +261,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙＆？？？ at:? ※緑仙の予定表より"
+  title: "緑仙＆？？？ at:? Magic: The Gathering Arena ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-07-08
   time:
-    hour: 17
+    hour: 23
     min: 0
-  title: "-19時00分頃～ 夜見れな at:YouTube 星のカービィ スターアライズ"
-  end_time: 
-  uri: 
-- date: 2019-07-08
-  time:
-    hour: 22
-    min: 0
-  title: "-23時00分頃(仮)～ 葉加瀬冬雪 at:YouTube"
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-07
