@@ -105,6 +105,20 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 0
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #20"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ チーズ"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 20
     min: 0
   title: "森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル プレミア公開 Tulip ※7月6日の配信で告知"
@@ -122,6 +136,27 @@
     hour: 22
     min: 0
   title: "物述有栖 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり＆葛葉＆桜凛月 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ 森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙＆？？？ at:? ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -294,6 +329,13 @@
   time:
     hour: 19
     min: 0
+  title: "魔界ノりりむ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 19
+    min: 0
   title: "ジョー・力一 at:YouTube ロードモバイル"
   end_time: 
   uri: 
@@ -308,6 +350,13 @@
   time:
     hour: 20
     min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
@@ -316,6 +365,13 @@
     hour: 20
     min: 0
   title: "轟京子 at:YouTube スライム作り"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 20
+    min: 0
+  title: "雪城眞尋 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -357,7 +413,7 @@
   time:
     hour: 22
     min: 0
-  title: "森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国"
+  title: "森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国 翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -372,6 +428,20 @@
     hour: 23
     min: 0
   title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 23
+    min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube Magic: The Gathering Arena ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -400,7 +470,7 @@
   uri: 
 - date: 2019-07-07
   time: 
-  title: "？時？分～ 魔界ノりりむ at:YouTube"
+  title: "？時？分～ 雪汝 at:YouTube プレミア公開 ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-07
@@ -410,7 +480,17 @@
   uri: 
 - date: 2019-07-07
   time: 
-  title: "？時？分～ 雪城眞尋 at:?"
+  title: "？時？分(夕方頃)～ 春崎エアル at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
+  title: "？時？分～(仮) 加賀美ハヤト at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-07
+  time: 
+  title: "？時？分～(乙女ゲーム後) リゼアン(アンジュ・カトリーナ＆リゼ・ヘルエスタ at:？ リゼアンWeek振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-07-06
