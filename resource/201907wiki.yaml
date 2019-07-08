@@ -35,11 +35,25 @@
   title: "？時？分～ 勇気ちひろ at:YouTube 誕生日配信"
   end_time: 
   uri: 
+- date: 2019-07-14
+  time:
+    hour: 13
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
 - date: 2019-07-13
   time:
     hour: 11
     min: 30
   title: "える＆舞元啓介＆小野町春香 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -63,11 +77,32 @@
   title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:YouTube 「スパイダーマン:ファー・フロム・ホーム」感想会"
   end_time: 
   uri: 
+- date: 2019-07-12
+  time:
+    hour: 20
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTub 寝かしつけ"
+  end_time: 
+  uri: 
 - date: 2019-07-11
   time:
     hour: 21
     min: 0
   title: "リゼ・ヘルエスタ at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 18
+    min: 0
+  title: "出雲霞 at:YouTube Report.4"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -87,6 +122,13 @@
 - date: 2019-07-10
   time: 
   title: "？時？分～ 夢追翔＆白百合リリィ at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 2
+    min: 0
+  title: "ベルモンド・バンデラス at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -188,6 +230,25 @@
   end_time: 
   uri: 
 - date: 2019-07-08
+  time: 
+  title: "？時？分～(昼) 鷹宮リオン at:? Legue of Legends Teamfight Tactics"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 19
+    min: 0
+  title: "(仮) 葉加瀬冬雪 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-08
   time:
     hour: 19
     min: 30
@@ -198,7 +259,21 @@
   time:
     hour: 20
     min: 0
-  title: "森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル プレミア公開 Tulip ※7月6日の配信で告知"
+  title: "森中花咲＆シスター・クレア＆御伽原江良 at:森中花咲のYouTubeチャンネル プレミア公開 【デレマス】Tulipを3人で歌ってみた【オリジナルMV】"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 20
+    min: 0
+  title: "久遠千歳 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 20
+    min: 0
+  title: "雪城眞尋 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -206,6 +281,13 @@
     hour: 21
     min: 0
   title: "樋口楓 at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
+    min: 0
+  title: "出雲霞 at:YouTube WIXOSSデッキ編成"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -240,7 +322,7 @@
   time:
     hour: 22
     min: 0
-  title: "?～ 葉加瀬冬雪 at:YouTube スーパーマリオメーカー2 ※開始時刻：リマインダーより"
+  title: "葉加瀬冬雪 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -269,6 +351,16 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time: 
+  title: "？時？分(夜・仮)～ 鷹宮リオン at:? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time: 
+  title: "？時？分～(夜・仮) エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-07
