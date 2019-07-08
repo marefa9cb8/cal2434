@@ -15171,7 +15171,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190713T200000
-SUMMARY:にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ)＆ホロライブマスコッツ(白上フブキ＆百鬼あやめ＆夏色まつり＆大空スバル) at:YouTube マスコッツ大戦 ※詳細：リマインダーより
+SUMMARY:にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ)＆ホロライブマスコッツ(白上フブキ＆百鬼あやめ＆夏色まつり＆大空スバル) at:夢追翔のYouTubeチャンネル マスコッツ大戦 ※詳細：リマインダーより
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15363,7 +15363,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190709T170000
-SUMMARY:戌亥とこ at:YouTube おじいちゃんの記憶を巡る旅
+SUMMARY:戌亥とこ at:YouTube Old Man's Journey おじいちゃんの記憶を巡る旅
 URL:
 DESCRIPTION:
 END:VEVENT
