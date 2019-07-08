@@ -32,6 +32,11 @@
   title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-07-22
+  time: 
+  title: "？時？分～(仮) 緑仙＆？？？ at:YouTube 歌 ※緑仙の予定表より"
+  end_time: 
+  uri: 
 - date: 2019-07-21
   time:
     hour: 23
@@ -49,6 +54,13 @@
 - date: 2019-07-16
   time: 
   title: "？時？分～ 勇気ちひろ at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙＆？？？ at:YouTube アニメプレゼン大会 ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -191,6 +203,13 @@
   time:
     hour: 0
     min: 0
+  title: "成瀬鳴 at:YouTube バイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:? 雑談"
   end_time: 
   uri: 
@@ -206,6 +225,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 19
+    min: 0
+  title: "舞元啓介＆大空スバル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -230,8 +256,20 @@
   end_time: 
   uri: 
 - date: 2019-07-09
+  time:
+    hour: 22
+    min: 0
+  title: "おっさんゲームス(社築＆舞元啓介) at:両名のYouTubeチャンネル? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-09
   time: 
   title: "？時？分～(深夜) 樋口楓 at:YouTube Minecraft ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～(17時半頃?・仮) 春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -327,9 +365,23 @@
   uri: 
 - date: 2019-07-08
   time:
+    hour: 15
+    min: 33
+  title: "ドーラ at:YouTube 作業"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
     hour: 17
     min: 0
   title: "夜見れな at:YouTube 星のカービィ スターアライズ"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 17
+    min: 30
+  title: "瀬戸美夜子＆万楽えね at:万楽えねのYouTubeチャンネル オフラインコラボ雑談"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -344,6 +396,13 @@
     hour: 19
     min: 0
   title: "(仮) 夕陽リリ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 19
+    min: 0
+  title: "鷹宮リオン at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -419,6 +478,20 @@
 - date: 2019-07-08
   time:
     hour: 21
+    min: 0
+  title: "成瀬鳴 at:YouTube FIFA 99"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
+    min: 0
+  title: "戌亥とこ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -477,11 +550,6 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
-  end_time: 
-  uri: 
-- date: 2019-07-08
-  time: 
-  title: "？時？分(夜・仮)～ 鷹宮リオン at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-08
