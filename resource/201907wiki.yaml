@@ -72,9 +72,30 @@
   uri: 
 - date: 2019-07-14
   time:
+    hour: 9
+    min: 0
+  title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
     hour: 13
     min: 0
   title: "出雲霞 at:YouTube 遙かなる時空の中で6"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 13
+    min: 0
+  title: "小野町春香 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 21
+    min: 0
+  title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -86,6 +107,14 @@
   uri: 
 - date: 2019-07-13
   time:
+    hour: 20
+    min: 0
+  title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ)＆ホロライブマスコッツ(白上フブキ＆百鬼あやめ＆夏色まつり＆大空スバル) at:YouTube
+    マスコッツ大戦 ※詳細：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
@@ -93,9 +122,23 @@
   uri: 
 - date: 2019-07-13
   time:
+    hour: 21
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
     hour: 23
     min: 0
   title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 0
+    min: 0
+  title: "小野町春香＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -116,7 +159,7 @@
   time:
     hour: 20
     min: 0
-  title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:YouTube 「スパイダーマン:ファー・フロム・ホーム」感想会"
+  title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:渋谷ハジメのYouTubeチャンネル 「スパイダーマン:ファー・フロム・ホーム」感想会"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -124,6 +167,20 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "黒夢町(町田ちま＆夢追翔＆黒井しば) at:各々のYouTubeチャンネル 雀魂"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -138,6 +195,18 @@
     hour: 1
     min: 0
   title: "椎名唯華＆猫又おかゆ at:? 神岡家ラジオ"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 12
+    min: 0
+  title: "レヴィ・エリファ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time: 
+  title: "？時？分～(昼) 町田ちま at:? ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -191,14 +260,23 @@
   uri: 
 - date: 2019-07-10
   time:
-    hour: 22
+    hour: 21
     min: 0
-  title: "森中花咲＆ドーラ＆出雲霞＆花畑チャイカ＆社築＆鷹宮リオン at:出雲霞のYouTubeチャンネル 「眼鏡の天使TRPG メガネリオン」"
+  title: "夢追翔＆白百合リリィ at:?"
   end_time: 
   uri: 
 - date: 2019-07-10
-  time: 
-  title: "？時？分～ 夢追翔＆白百合リリィ at:?"
+  time:
+    hour: 21
+    min: 0
+  title: "小野町春香 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 22
+    min: 0
+  title: "森中花咲＆ドーラ＆出雲霞＆花畑チャイカ＆社築＆鷹宮リオン at:出雲霞のYouTubeチャンネル 「眼鏡の天使TRPG メガネリオン」"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -241,9 +319,23 @@
   uri: 
 - date: 2019-07-09
   time:
+    hour: 2
+    min: 17
+  title: "御伽原江良 at:ツイキャス 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
     hour: 17
     min: 0
   title: "戌亥とこ at:YouTube おじいちゃんの記憶を巡る旅"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 18
+    min: 30
+  title: "夜見れな at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -264,7 +356,21 @@
   time:
     hour: 20
     min: 0
+  title: "家長むぎ at:YouTube 歌・ギター練習"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 20
+    min: 0
   title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 20
+    min: 0
+  title: "レヴィ・エリファ at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -278,7 +384,14 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube 「アベンジャーズ/エンドゲーム」ネタバレ感想雑談 ※予定表より"
+  title: "ドーラ at:YouTube 「アベンジャーズ/エンドゲーム」ネタバレ感想雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 21
+    min: 0
+  title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -304,26 +417,67 @@
   uri: 
 - date: 2019-07-09
   time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 23
+    min: 0
+  title: "樋口楓 at:YouTube 雀魂"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
     hour: 23
     min: 0
   title: "童田明治 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-07-09
-  time: 
-  title: "？時？分～(深夜) 樋口楓 at:YouTube Minecraft ※Twitterプロフィール欄より"
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-09
   time:
-    hour: 20
+    hour: 23
     min: 0
-  title: "-22時00分頃～(仮) 家長むぎ at:YouTube 歌・ギター練習"
+  title: "夜見れな at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～ える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～(深夜・雀魂後) 樋口楓 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～ 叶 at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-07-09
   time: 
   title: "？時？分～(17時半頃?・仮) 春崎エアル at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～(夜) 夢追翔 at:YouTube 「ASMRになりたい女たち」振り返り、近況雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time: 
+  title: "？時？分～(仮) 雪城眞尋 at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -631,7 +785,14 @@
   time:
     hour: 23
     min: 0
-  title: "森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国"
+  title: "樋口楓 at:YouTube 雀魂 ※リマインダーより ※翌日に延期"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 23
+    min: 0
+  title: "森中花咲＆御伽原江良 at:御伽原江良のYouTubeチャンネル みんなのリズム天国、Wii Sports"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -639,7 +800,7 @@
     hour: 23
     min: 0
   title: "花畑チャイカ＆社築＆緑仙＆でびでび・でびる＆夢追翔＆エクス・アルビオ at:緑仙、でびでび・でびる、夢追翔、エクス・アルビオのYouTubeチャンネル
-    Magic: The Gathering Arena ※出演者：リマインダー概要欄より"
+    Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -675,11 +836,6 @@
     hour: 23
     min: 42
   title: "レヴィ・エリファ at:YouTube 星のカービィ 夢の泉の物語"
-  end_time: 
-  uri: 
-- date: 2019-07-08
-  time: 
-  title: "？時？分～ 樋口楓 at:YouTube 雀魂 ※リマインダーより ※時間変更"
   end_time: 
   uri: 
 - date: 2019-07-07
