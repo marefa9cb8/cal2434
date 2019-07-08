@@ -236,6 +236,13 @@
   uri: 
 - date: 2019-07-09
   time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
     hour: 21
     min: 0
   title: "葛葉 at:bilibili"
@@ -265,6 +272,13 @@
 - date: 2019-07-09
   time: 
   title: "？時？分～(深夜) 樋口楓 at:YouTube Minecraft ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-07-09
+  time:
+    hour: 20
+    min: 0
+  title: "-22時00分頃～(仮) 家長むぎ at:YouTube 歌・ギター練習"
   end_time: 
   uri: 
 - date: 2019-07-09
@@ -395,7 +409,7 @@
   time:
     hour: 19
     min: 0
-  title: "(仮) 夕陽リリ at:YouTube モンスターハンター：ワールド"
+  title: 18時47分～ 桜凛月 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -409,14 +423,14 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube 雑談"
+  title: "葉加瀬冬雪 at:YouTube テスト配信(マリオカート8 デラックス、雑談)"
   end_time: 
   uri: 
 - date: 2019-07-08
   time:
     hour: 19
-    min: 0
-  title: "(仮) 葉加瀬冬雪 at:YouTube"
+    min: 6
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -424,6 +438,13 @@
     hour: 19
     min: 30
   title: "ニュイ・ソシエール at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 19
+    min: 43
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -444,7 +465,7 @@
   time:
     hour: 20
     min: 0
-  title: "久遠千歳 at:YouTube 雑談"
+  title: "久遠千歳 at:YouTube 雑談、新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -465,7 +486,7 @@
   time:
     hour: 21
     min: 0
-  title: "ドーラ at:YouTube THE IDOLM@STER 2 ※予定表より"
+  title: "ドーラ at:YouTube THE IDOLM@STER 2"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -486,6 +507,13 @@
   time:
     hour: 21
     min: 0
+  title: "童田明治 at:YouTube 半年＆6～8万人記念、振り返り雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
+    min: 0
   title: "戌亥とこ at:YouTube 雑談"
   end_time: 
   uri: 
@@ -493,7 +521,14 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 21
+    min: 30
+  title: "加賀美ハヤト at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -542,7 +577,15 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙＆？？？ at:? Magic: The Gathering Arena ※緑仙の予定表より"
+  title: "叶 at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-07-08
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ＆社築＆緑仙＆でびでび・でびる＆夢追翔＆エクス・アルビオ at:緑仙のYouTubeチャンネル Magic: The Gathering
+    Arena ※出演者：リマインダー概要欄より"
   end_time: 
   uri: 
 - date: 2019-07-08
@@ -550,11 +593,6 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
-  end_time: 
-  uri: 
-- date: 2019-07-08
-  time: 
-  title: "？時？分～(夜・仮) エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-08
