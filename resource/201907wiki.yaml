@@ -244,6 +244,11 @@
   title: "リゼ・ヘルエスタ at:bilibili"
   end_time: 
   uri: 
+- date: 2019-07-11
+  time: 
+  title: "？時？分～(仮) 社築＆？？？ at:? ※7月9日の配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-07-10
   time:
     hour: 0
@@ -270,6 +275,27 @@
     hour: 1
     min: 0
   title: "える at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 1
+    min: 0
+  title: "樋口楓 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 1
+    min: 46
+  title: "竜胆尊 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 12
+    min: 0
+  title: "桜凛月＆黒井しば at:両名のYouTubeチャンネル Minecraft ※開始時刻・詳細：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -357,8 +383,17 @@
   end_time: 
   uri: 
 - date: 2019-07-10
-  time: 
-  title: "？時？分(仮)～ 桜凛月＆黒井しば at:?"
+  time:
+    hour: 23
+    min: 0
+  title: "(仮) 鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube しょぼんのアクション ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -663,11 +698,6 @@
     hour: 23
     min: 0
   title: "夜見れな at:YouTube スーパーマリオメーカー2"
-  end_time: 
-  uri: 
-- date: 2019-07-09
-  time: 
-  title: "？時？分～(雀魂後・仮?) 樋口楓 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-08
