@@ -208,7 +208,7 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華＆猫又おかゆ at:? 神岡家ラジオ"
+  title: "椎名唯華＆猫又おかゆ at:猫又おかゆのYouTubeチャンネル 神岡家ラジオ"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -256,6 +256,11 @@
     hour: 21
     min: 0
   title: "リゼ・ヘルエスタ at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time: 
+  title: "？時？分～ 椎名唯華＆花畑チャイカ＆御伽原江良＆エクス・アルビオ at:? Ultimate Chicken Horse"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -309,7 +314,21 @@
   time:
     hour: 12
     min: 0
-  title: "桜凛月＆黒井しば at:両名のYouTubeチャンネル Minecraft ※開始時刻・詳細：リマインダーより"
+  title: "桜凛月＆黒井しば at:両名のYouTubeチャンネル Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 17
+    min: 30
+  title: "鈴原るる at:YouTube プレミア公開 #05.5【Monster Hunter World】モンハン、裏編！"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華＆鷹宮リオン at:椎名唯華のbilibili、鷹宮リオンの？？？チャンネル？ Legue of Legends Teamfight Tactics"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -358,6 +377,13 @@
   time:
     hour: 21
     min: 0
+  title: "葛葉 at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 21
+    min: 0
   title: "竜胆尊 at:bilibili"
   end_time: 
   uri: 
@@ -400,6 +426,13 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華＆舞元啓介 at:椎名唯華のYouTubeチャンネル Vtuber甲子園 にじさんじパワクズ ドラフト会議"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 22
+    min: 0
   title: "ジョー・力一＆夏色まつり at:夏色まつりのYouTubeチャンネル 罰ゲームリアクション選手権"
   end_time: 
   uri: 
@@ -408,13 +441,6 @@
     hour: 23
     min: 0
   title: "物述有栖 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-07-10
-  time:
-    hour: 23
-    min: 0
-  title: "(仮) 鈴原るる at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -432,6 +458,11 @@
 - date: 2019-07-10
   time: 
   title: "？時？分～(深夜・仮) 緑仙 at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time: 
+  title: "？時？分～(夜) エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-09
