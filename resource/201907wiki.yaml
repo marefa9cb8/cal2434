@@ -98,6 +98,13 @@
   title: "レヴィ・エリファ at:YouTube"
   end_time: 
   uri: 
+- date: 2019-07-14
+  time:
+    hour: 22
+    min: 0
+  title: "(仮) 御伽原江良 at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
 - date: 2019-07-13
   time:
     hour: 11
@@ -134,6 +141,13 @@
   title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
   end_time: 
   uri: 
+- date: 2019-07-13
+  time:
+    hour: 23
+    min: 0
+  title: "社築＆夏色まつり at:? 27とJK"
+  end_time: 
+  uri: 
 - date: 2019-07-12
   time:
     hour: 0
@@ -166,6 +180,13 @@
   time:
     hour: 20
     min: 0
+  title: "(仮) 樋口楓 at:YouTube プレミア公開?"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 20
+    min: 0
   title: "渋谷ハジメ＆ドーラ＆ベルモンド・バンデラス at:渋谷ハジメのYouTubeチャンネル 「スパイダーマン:ファー・フロム・ホーム」感想会"
   end_time: 
   uri: 
@@ -174,6 +195,13 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 20
+    min: 30
+  title: "(仮) 樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -195,6 +223,11 @@
     hour: 23
     min: 0
   title: "出雲霞 at:YouTube 寝かしつけ"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time: 
+  title: "？時？分～(夜) 夜見れな at:YouTube 雑談、夜見に教えてくれ～な！"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -249,6 +282,13 @@
     hour: 20
     min: 0
   title: "ドーラ at:YouTube Minecraft ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 21
+    min: 0
+  title: "(仮) 樋口楓 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -319,6 +359,13 @@
   uri: 
 - date: 2019-07-10
   time:
+    hour: 16
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
     hour: 17
     min: 30
   title: "鈴原るる at:YouTube プレミア公開 #05.5【Monster Hunter World】モンハン、裏編！"
@@ -343,6 +390,20 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 19
+    min: 0
+  title: "本間ひまわり at:YouTube ドキドキ文芸部！"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 19
+    min: 0
+  title: "?～ 三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -440,6 +501,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube Minecraft ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 23
+    min: 0
   title: "物述有栖 at:YouTube ※Twitterネームより"
   end_time: 
   uri: 
@@ -451,8 +519,17 @@
   end_time: 
   uri: 
 - date: 2019-07-10
-  time: 
-  title: "？時？分～ 樋口楓 at:YouTube ※配信内で告知"
+  time:
+    hour: 23
+    min: 0
+  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 23
+    min: 30
+  title: "-24時00分頃～ 樋口楓 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-07-10
