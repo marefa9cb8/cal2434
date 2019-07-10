@@ -255,7 +255,14 @@
   time:
     hour: 0
     min: 0
-  title: "(仮) 葉加瀬冬雪 at:YouTube"
+  title: "葉加瀬冬雪 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 0
+    min: 30
+  title: "夢月ロア at:YouTube 新マイクテスト、モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -270,6 +277,11 @@
     hour: 1
     min: 0
   title: "椎名唯華＆猫又おかゆ at:猫又おかゆのYouTubeチャンネル 神岡家ラジオ"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time: 
+  title: "？時？分～(深夜・仮) 叶＆天開司 at:ツイキャス?"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -319,6 +331,13 @@
     hour: 21
     min: 0
   title: "リゼ・ヘルエスタ at:bilibili"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:YouTube 1周年記念 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -493,13 +512,6 @@
   time:
     hour: 21
     min: 0
-  title: "葛葉 at:YouTube Detroit: Become Human"
-  end_time: 
-  uri: 
-- date: 2019-07-10
-  time:
-    hour: 21
-    min: 0
   title: "竜胆尊 at:bilibili"
   end_time: 
   uri: 
@@ -528,7 +540,7 @@
   time:
     hour: 21
     min: 0
-  title: "三枝明那 at:YouTube"
+  title: "三枝明那 at:YouTube サイバーハンター"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -536,6 +548,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 21
+    min: 0
+  title: '58分～ 葛葉 at:YouTube Detroit: Become Human'
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -561,23 +580,23 @@
   uri: 
 - date: 2019-07-10
   time:
-    hour: 23
-    min: 0
-  title: "える at:YouTube Minecraft ※Twitterネームより"
+    hour: 22
+    min: 10
+  title: "雪城眞尋 at:YouTube テスト配信(ドラゴンクエストX 目覚めし五つの種族 オンライン)"
   end_time: 
   uri: 
 - date: 2019-07-10
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube ※Twitterネームより"
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-10
   time:
     hour: 23
     min: 0
-  title: "叶 at:YouTube Detroit: Become Human"
+  title: "物述有栖 at:YouTube Muse Dash"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -612,7 +631,14 @@
   time:
     hour: 23
     min: 30
-  title: "-24時00分頃～ 樋口楓 at:YouTube Minecraft、雑談"
+  title: "叶 at:YouTube Detroit: Become Human ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 23
+    min: 45
+  title: "樋口楓 at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-07-10
