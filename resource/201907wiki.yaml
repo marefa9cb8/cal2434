@@ -232,9 +232,16 @@
   uri: 
 - date: 2019-07-11
   time:
+    hour: 0
+    min: 0
+  title: "(仮) 葉加瀬冬雪 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -375,13 +382,6 @@
   time:
     hour: 18
     min: 0
-  title: "椎名唯華＆鷹宮リオン at:椎名唯華のbilibili、鷹宮リオンの？？？チャンネル？ Legue of Legends Teamfight Tactics"
-  end_time: 
-  uri: 
-- date: 2019-07-10
-  time:
-    hour: 18
-    min: 0
   title: "出雲霞 at:YouTube プレミア公開? Report.4"
   end_time: 
   uri: 
@@ -411,6 +411,13 @@
     hour: 19
     min: 0
   title: "ニュイ・ソシエール at:YouTube 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-07-10
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華＆鷹宮リオン at:椎名唯華のbilibili、鷹宮リオンの？？？チャンネル？ Legue of Legends Teamfight Tactics"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -452,7 +459,7 @@
   time:
     hour: 21
     min: 0
-  title: "夢追翔＆白百合リリィ at:?"
+  title: "夢追翔＆白百合リリィ at:YouTube We Were Here"
   end_time: 
   uri: 
 - date: 2019-07-10
@@ -515,14 +522,14 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube しょぼんのアクション ※リマインダーより"
+  title: "葉山舞鈴 at:YouTube しょぼんのアクション Shadowverse"
   end_time: 
   uri: 
 - date: 2019-07-10
   time:
     hour: 23
     min: 0
-  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  title: "夜見れな at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-10
