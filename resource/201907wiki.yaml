@@ -142,6 +142,14 @@
   time:
     hour: 22
     min: 0
+  title: "夢追翔＆黒井しば+ゲスト：える＆家長むぎ at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+    #8"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 22
+    min: 0
   title: "(仮) 御伽原江良 at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
@@ -150,6 +158,13 @@
     hour: 0
     min: 0
   title: "鈴木勝 at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 0
+    min: 0
+  title: "緑仙 at:YouTube Magic: The Gathering Arena ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -232,14 +247,7 @@
   time:
     hour: 0
     min: 0
-  title: "笹木咲＆社築 at:YouTube 将棋"
-  end_time: 
-  uri: 
-- date: 2019-07-12
-  time:
-    hour: 0
-    min: 0
-  title: "郡道美玲 at:YouTube Minecraft"
+  title: "笹木咲＆社築 at:社築のYouTubeチャンネル 将棋"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -259,8 +267,22 @@
 - date: 2019-07-12
   time:
     hour: 0
+    min: 0
+  title: 11分～ 郡道美玲 at:YouTube Minecraft
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 0
     min: 30
   title: "黒井しば at:YouTube 雀魂(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 0
+    min: 40
+  title: "葉加瀬冬雪 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -273,8 +295,36 @@
 - date: 2019-07-12
   time:
     hour: 1
+    min: 5
+  title: "エクス・アルビオ at:YouTube 雑談、Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 1
+    min: 23
+  title: "渋谷ハジメ at:YouTube(限定公開) モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 2
     min: 0
-  title: "御伽原江良 at:? テスト配信"
+  title: "御伽原江良 at:YouTube テスト配信、雑談、作業"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 2
+    min: 27
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 2
+    min: 54
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -282,6 +332,13 @@
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ カレー"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 12
+    min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ #39"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -299,10 +356,15 @@
   end_time: 
   uri: 
 - date: 2019-07-12
+  time: 
+  title: "？時？分～(昼) 加賀美ハヤト at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-12
   time:
     hour: 18
     min: 0
-  title: "成瀬鳴 at:YouTube マリオカート8 デラックス"
+  title: "成瀬鳴 at:YouTube マリオカート8 デラックス(12時間耐久・視聴者参加型あり)"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -337,7 +399,7 @@
   time:
     hour: 20
     min: 0
-  title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  title: 10分～ 出雲霞 at:YouTube セブンスドラゴン2020
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -401,6 +463,13 @@
     hour: 22
     min: 0
   title: "夜見れな at:YouTube 夜見に教えてくれ～な！ #1 ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
   end_time: 
   uri: 
 - date: 2019-07-12
