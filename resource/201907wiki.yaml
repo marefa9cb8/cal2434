@@ -105,6 +105,13 @@
   uri: 
 - date: 2019-07-14
   time:
+    hour: 12
+    min: 0
+  title: "緑仙 at:YouTube? 歌(VOCALOID) ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
     hour: 13
     min: 0
   title: "出雲霞 at:YouTube 遙かなる時空の中で6"
@@ -324,7 +331,14 @@
   time:
     hour: 2
     min: 54
-  title: "鷹宮リオン at:YouTube"
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 5
+    min: 29
+  title: "緑仙 at:YouTube(サブ) Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-12
