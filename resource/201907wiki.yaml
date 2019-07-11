@@ -65,6 +65,11 @@
   title: "鈴木勝 at:YouTube(2nd) ※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-07-18
+  time: 
+  title: "？時？分～(仮) 緑仙＆？？？ at:YouTube Magic: The Gathering Arena ※緑仙の予定表より"
+  end_time: 
+  uri: 
 - date: 2019-07-17
   time:
     hour: 0
@@ -144,7 +149,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -156,8 +161,8 @@
   uri: 
 - date: 2019-07-13
   time:
-    hour: 11
-    min: 30
+    hour: 12
+    min: 0
   title: "える＆舞元啓介＆小野町春香 at:ニコニコ生放送"
   end_time: 
   uri: 
@@ -246,6 +251,20 @@
   uri: 
 - date: 2019-07-12
   time:
+    hour: 0
+    min: 0
+  title: "三枝明那 at:YouTube サイバーハンター"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 0
+    min: 30
+  title: "黒井しば at:YouTube 雀魂(視聴者参加型)"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
     hour: 1
     min: 0
   title: "森中花咲 at:YouTube モンスターハンター：ワールド"
@@ -253,9 +272,9 @@
   uri: 
 - date: 2019-07-12
   time:
-    hour: 2
+    hour: 1
     min: 0
-  title: "(仮) 郡道美玲 at:YouTube すばらしきこのせかい -Final Remix-"
+  title: "御伽原江良 at:? テスト配信"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -274,9 +293,23 @@
   uri: 
 - date: 2019-07-12
   time:
+    hour: 17
+    min: 30
+  title: "社築＆舞元啓介＆天開司 at:舞元啓介のYouTubeチャンネル 「マイナビオールスターゲーム2019」同時視聴 ※社築：途中参加予定"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
     hour: 18
     min: 0
   title: "成瀬鳴 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -290,7 +323,7 @@
   time:
     hour: 20
     min: 0
-  title: "(仮) 樋口楓 at:YouTube プレミア公開?"
+  title: "月ノ美兎＆樋口楓＆雨森小夜＆久遠千歳 at:樋口楓のYouTubeチャンネル プレミア公開 【歌ってみた】絶望レストラン【月ノ美兎・久遠千歳・雨森小夜・樋口楓cover】"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -305,6 +338,13 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 20
+    min: 0
+  title: "神田笑一＆瀬戸美夜子 at:両名のYouTubeチャンネル? Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -332,7 +372,28 @@
   time:
     hour: 21
     min: 0
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 30
+  title: "赤羽葉子 at:YouTube プレミア公開 Desolate JKが謎の超常現象たちと戦うぞ"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 22
+    min: 0
+  title: "あくまどーじょー(でびでび・でびる＆夢月ロア) at:両名のYouTubeチャンネル? 1-2-Switch"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -351,9 +412,14 @@
   uri: 
 - date: 2019-07-12
   time:
-    hour: 22
+    hour: 23
     min: 0
   title: "夜見れな at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time: 
+  title: "？時？分～ 森中花咲 at:YouTube みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -607,6 +673,13 @@
 - date: 2019-07-11
   time:
     hour: 21
+    min: 11
+  title: "葛葉 at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
@@ -622,14 +695,7 @@
   time:
     hour: 22
     min: 0
-  title: "本間ひまわり at:YouTube 1周年記念"
-  end_time: 
-  uri: 
-- date: 2019-07-11
-  time:
-    hour: 22
-    min: 0
-  title: "轟京子 at:YouTube テスト勉強、雑談"
+  title: "本間ひまわり at:YouTube 1周年記念、夏服お披露目"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -650,7 +716,7 @@
   time:
     hour: 22
     min: 0
-  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  title: 12分～ 轟京子 at:YouTube テスト勉強、雑談
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -678,7 +744,28 @@
   time:
     hour: 23
     min: 0
+  title: "久遠千歳 at:YouTube プレミア公開 コールボーイ(syudou) - 久遠千歳(Chitose Kudou) cover"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 23
+    min: 0
   title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 23
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-11
@@ -687,6 +774,20 @@
     min: 30
   title: MC：ふくやマスター＆天開司＆出場者：叶＆葛葉＆舞元啓介＆ベルモンド・バンデラス＆高槻りつ＆あっくん大魔王＆インサイドちゃんMK2＆風宮まつり＆歌衣メイカ＆ぴろぱる＆大空スバル＆アメザリ平井＆MZMコーサカ
     at:ふくやマスターのYouTubeチャンネル モンスターハンター：ワールド Vtuber腕相撲大会
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 23
+    min: 30
+  title: "本間ひまわり at:YouTube プレミア公開 歌ってみた おじゃま虫"
+  end_time: 
+  uri: 
+- date: 2019-07-11
+  time:
+    hour: 23
+    min: 34
+  title: "シスター・クレア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-10
