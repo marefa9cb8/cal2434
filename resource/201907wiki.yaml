@@ -86,7 +86,7 @@
   time:
     hour: 6
     min: 45
-  title: "伏見ガク＆ゲスト：ドーラ at:YouTube おはガク！ 肉"
+  title: "伏見ガク＆ゲスト：ドーラ at:YouTube おはガク！ 肉系"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -136,6 +136,11 @@
     hour: 16
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time: 
+  title: "？時？分（昼-夕/仮）～ 卯月コウ at:？"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -415,7 +420,7 @@
   time:
     hour: 17
     min: 30
-  title: "社築＆舞元啓介＆天開司 at:舞元啓介のYouTubeチャンネル 「マイナビオールスターゲーム2019」同時視聴 ※社築：途中参加予定"
+  title: "社築＆舞元啓介＆天開司 at:舞元啓介のYouTubeチャンネル 「マイナビオールスターゲーム2019」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -441,6 +446,13 @@
   uri: 
 - date: 2019-07-12
   time:
+    hour: 18
+    min: 9
+  title: "町田ちま at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
     hour: 19
     min: 0
   title: "マシンガンズ(滝沢秀一＆西堀亮)＆百花＆ゲスト：剣持刀也＆椎名唯華 at:ラジオ日本(radikoで無料視聴可能 ※関東のみ) 60TRY部"
@@ -448,8 +460,8 @@
   uri: 
 - date: 2019-07-12
   time:
-    hour: 19
-    min: 0
+    hour: 18
+    min: 56
   title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -485,35 +497,49 @@
   time:
     hour: 20
     min: 0
-  title: "神田笑一＆瀬戸美夜子 at:両名のYouTubeチャンネル? Apex Legends"
+  title: "シスター・クレア at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 20
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube"
+  title: "神田笑一＆瀬戸美夜子 at:両名のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 20
     min: 0
-  title: 10分～ 出雲霞 at:YouTube セブンスドラゴン2020
+  title: "リゼ・ヘルエスタ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 20
-    min: 30
-  title: "(仮) 樋口楓 at:YouTube"
+    min: 10
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ＆樋口楓 at:両名のYouTubeチャンネル? Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "叶 at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube 超!!ネプリーグDS？"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -533,8 +559,15 @@
 - date: 2019-07-12
   time:
     hour: 21
+    min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -548,7 +581,21 @@
   time:
     hour: 22
     min: 0
+  title: "椎名唯華 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 22
+    min: 0
   title: "あくまどーじょー(でびでび・でびる＆夢月ロア) at:でびでび・でびるのYouTube(2nd)チャンネル 1-2-Switch"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 22
+    min: 0
+  title: "童田明治 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -576,7 +623,7 @@
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  title: "花畑チャイカ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -589,20 +636,15 @@
 - date: 2019-07-12
   time:
     hour: 23
-    min: 0
-  title: "夜見れな at:YouTube スーパーマリオメーカー2"
+    min: 30
+  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 23
     min: 30
-  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
-  end_time: 
-  uri: 
-- date: 2019-07-12
-  time: 
-  title: "？時？分～ 叶 at:YouTube Detroit: Become Human"
+  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-11
