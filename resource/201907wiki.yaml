@@ -96,6 +96,11 @@
   title: "社築＆緑仙 at:YouTube マニアックアニメプレゼン選手権 ※開始時刻：緑仙予定表より"
   end_time: 
   uri: 
+- date: 2019-07-15
+  time: 
+  title: "？時？分～ 花畑チャイカ＆社築 at:? ※7月12日の配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-07-14
   time:
     hour: 0
@@ -172,6 +177,11 @@
   title: "(仮) 御伽原江良 at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
+- date: 2019-07-14
+  time: 
+  title: "？時？分～ 社築 at:? ※7月12日の配信にて告知"
+  end_time: 
+  uri: 
 - date: 2019-07-13
   time:
     hour: 0
@@ -198,6 +208,20 @@
     hour: 0
     min: 0
   title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 0
+    min: 0
+  title: "鷹宮リオン at:YouTube 影廊-Shadow Corridor-"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 1
+    min: 0
+  title: "御伽原江良 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -274,6 +298,11 @@
     hour: 23
     min: 0
   title: "社築＆夏色まつり at:? 27とJK"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time: 
+  title: "？時？分～ 雪汝 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -525,7 +554,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ＆樋口楓 at:両名のYouTubeチャンネル? Minecraft"
+  title: "勇気ちひろ＆樋口楓 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -539,7 +568,7 @@
   time:
     hour: 21
     min: 0
-  title: "本間ひまわり at:YouTube 超!!ネプリーグDS？"
+  title: "本間ひまわり at:YouTube 超!!ネプリーグDS"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -595,14 +624,21 @@
   time:
     hour: 22
     min: 0
-  title: "童田明治 at:YouTube モンスターハンター：ワールド"
+  title: "夜見れな＆ゲスト：葉加瀬冬雪 at:YouTube 夜見に教えてくれ～な！ #1"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 22
+    min: 18
+  title: "葛葉 at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 22
     min: 0
-  title: "夜見れな＆ゲスト：葉加瀬冬雪 at:YouTube 夜見に教えてくれ～な！ #1"
+  title: 30分～ 童田明治 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -637,14 +673,21 @@
   time:
     hour: 23
     min: 30
-  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※23時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 23
+    min: 36
+  title: "本間ひまわり at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-12
   time:
     hour: 23
     min: 30
-  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※23時から時間変更"
+  title: 45分～ 葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド
   end_time: 
   uri: 
 - date: 2019-07-11
