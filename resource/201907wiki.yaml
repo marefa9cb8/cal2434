@@ -364,6 +364,13 @@
   uri: 
 - date: 2019-07-12
   time:
+    hour: 12
+    min: 30
+  title: "加賀美ハヤト at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
     hour: 17
     min: 0
   title: "える at:ニコニコ生放送"
@@ -374,11 +381,6 @@
     hour: 17
     min: 30
   title: "社築＆舞元啓介＆天開司 at:舞元啓介のYouTubeチャンネル 「マイナビオールスターゲーム2019」同時視聴 ※社築：途中参加予定"
-  end_time: 
-  uri: 
-- date: 2019-07-12
-  time: 
-  title: "？時？分～(昼) 加賀美ハヤト at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-12
