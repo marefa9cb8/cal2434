@@ -429,7 +429,7 @@
   time:
     hour: 18
     min: 0
-  title: "アンジュ・カトリーナ at:YouTube 雑談 ※リマインダーより"
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -437,6 +437,13 @@
     hour: 18
     min: 0
   title: "ニュイ・ソシエール at:YouTube 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 19
+    min: 0
+  title: "マシンガンズ(滝沢秀一＆西堀亮)＆百花＆ゲスト：剣持刀也＆椎名唯華 at:ラジオ日本(radikoで無料視聴可能 ※関東のみ) 60TRY部"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -548,14 +555,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮) 葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
-  end_time: 
-  uri: 
-- date: 2019-07-12
-  time:
-    hour: 22
-    min: 0
-  title: "夜見れな at:YouTube 夜見に教えてくれ～な！ #1 ※開始時刻：リマインダーより"
+  title: "夜見れな＆ゲスト：葉加瀬冬雪 at:YouTube 夜見に教えてくれ～な！ #1"
   end_time: 
   uri: 
 - date: 2019-07-12
@@ -576,7 +576,28 @@
   time:
     hour: 23
     min: 0
-  title: "夜見れな at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  title: "花畑チャイカ at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 23
+    min: 0
+  title: "夜見れな at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-12
+  time:
+    hour: 23
+    min: 30
+  title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
   end_time: 
   uri: 
 - date: 2019-07-12
