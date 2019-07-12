@@ -200,14 +200,14 @@
   time:
     hour: 0
     min: 0
-  title: "緑仙 at:YouTube Magic: The Gathering Arena ※リマインダーより"
+  title: "緑仙 at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-13
   time:
     hour: 0
     min: 0
-  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
+  title: "紅ズワイガニぐんかん(神田笑一＆郡道美玲＆三枝明那＆愛園愛美) at:神田笑一、三枝明那、愛園愛美のYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -219,9 +219,30 @@
   uri: 
 - date: 2019-07-13
   time:
+    hour: 0
+    min: 24
+  title: "黒井しば at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 1
+    min: 0
+  title: "森中花咲 at:YouTube 雑談、Getting Over It"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
     hour: 1
     min: 0
   title: "御伽原江良 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 9
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -241,6 +262,11 @@
 - date: 2019-07-13
   time: 
   title: "？時？分～(昼頃) ぐんかん(神田笑一＆郡道美玲) at:両名のYouTubeチャンネル? Portal 2"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time: 
+  title: "？時？分～(昼・仮) 遠北千南 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -281,6 +307,20 @@
   uri: 
 - date: 2019-07-13
   time:
+    hour: 22
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
     hour: 23
     min: 0
   title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
@@ -297,7 +337,12 @@
   time:
     hour: 23
     min: 0
-  title: "社築＆夏色まつり at:? 27とJK"
+  title: "社築＆夏色まつり at:夏色まつりのYouTubeチャンネル モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time: 
+  title: "？時？分～ 剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-13
