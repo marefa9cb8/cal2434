@@ -65,6 +65,18 @@
   title: "鈴木勝 at:YouTube(2nd) ※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 0
+  title: "葉加瀬冬雪＆夜見れな at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time: 
+  title: "？時？分～ 葉加瀬冬雪＆加賀美ハヤト＆夜見れな at:？"
+  end_time: 
+  uri: 
 - date: 2019-07-18
   time: 
   title: "？時？分～(仮) 緑仙＆？？？ at:YouTube Magic: The Gathering Arena ※緑仙の予定表より"
@@ -77,9 +89,31 @@
   title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-07-17
+  time: 
+  title: "？時？分～ 夜見れな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time: 
+  title: "？時？分～(昼) 安土桃 at:YouTube 雑談?"
+  end_time: 
+  uri: 
 - date: 2019-07-16
   time: 
   title: "？時？分～ 勇気ちひろ at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time: 
+  title: "？時？分～ 夜見れな at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -87,6 +121,13 @@
     hour: 6
     min: 45
   title: "伏見ガク＆ゲスト：ドーラ at:YouTube おはガク！ 肉系"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 16
+    min: 0
+  title: "夜見れな at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -108,16 +149,11 @@
   title: "？時？分～ 花畑チャイカ＆社築 at:? ※7月12日の配信にて告知"
   end_time: 
   uri: 
-- date: 2019-07-15
-  time: 
-  title: "？時？分～ 夜見れな at:YouTube"
-  end_time: 
-  uri: 
 - date: 2019-07-14
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube ※開始時刻：リマインダーより"
+  title: "剣持刀也 at:YouTube 雑談、おえかきの森"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -145,7 +181,28 @@
   time:
     hour: 1
     min: 0
-  title: "雨森小夜 at:YouTube"
+  title: "雨森小夜 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 1
+    min: 30
+  title: "エクス・アルビオ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 1
+    min: 45
+  title: "雪城眞尋 at:YouTube ドラゴンクエストX 目覚めし五つの種族 オンライン"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 2
+    min: 15
+  title: "御伽原江良 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -154,36 +211,45 @@
   end_time: 
   uri: 
 - date: 2019-07-14
-  time: 
-  title: "？時？分～(深夜・仮) エクス・アルビオ at:YouTube Magic: The Gathering Arena"
+  time:
+    hour: 6
+    min: 30
+  title: "シスター・クレア at:YouTube 歌(ジブリ作品)"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 7
     min: 0
-  title: "物述有栖 at:YouTube"
+  title: "物述有栖 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 9
     min: 0
-  title: "小野町春香 at:YouTube ASMR"
+  title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 9
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 9
+    min: 30
+  title: "小野町春香 at:YouTube ASMR とびだせ どうぶつの森 ※9時から時間＆内容変更"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 12
     min: 0
-  title: "緑仙 at:YouTube? 歌(VOCALOID) ※予定表より"
+  title: "緑仙 at:YouTube 歌(VOCALOID) ※リマインダー＆予定表より"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -197,7 +263,7 @@
   time:
     hour: 13
     min: 0
-  title: "小野町春香 at:YouTube モンスターハンター：ワールド"
+  title: "小野町春香 at:YouTube モンスターハンター：ワールド ※20時コラボに変更"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -211,7 +277,7 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆夜見れな at:勇気ちひろのYouTubeチャンネル？ Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -219,6 +285,13 @@
     hour: 17
     min: 0
   title: "える at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 17
+    min: 0
+  title: "(仮) 戌亥とこ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -237,7 +310,7 @@
   time:
     hour: 20
     min: 0
-  title: "小野町春香＆？？？ at:YouTube モンスターハンター：ワールド"
+  title: "舞元啓介＆小野町春香＆鈴原るる at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -293,6 +366,16 @@
 - date: 2019-07-14
   time: 
   title: "？時？分～ モイラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time: 
+  title: "？時？分～ 叶 at:YouTube Bloodborne"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time: 
+  title: "？時？分～(コラボ後) 鈴原るる at:YouTube スーパードンキーコング3"
   end_time: 
   uri: 
 - date: 2019-07-13
