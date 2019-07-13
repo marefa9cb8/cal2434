@@ -101,6 +101,11 @@
   title: "？時？分～ 花畑チャイカ＆社築 at:? ※7月12日の配信にて告知"
   end_time: 
   uri: 
+- date: 2019-07-15
+  time: 
+  title: "？時？分～ 夜見れな at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-07-14
   time:
     hour: 0
@@ -151,6 +156,13 @@
   end_time: 
   uri: 
 - date: 2019-07-14
+  time:
+    hour: 17
+    min: 0
+  title: "える at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-14
   time: 
   title: "？時？分（昼-夕/仮）～ 卯月コウ at:？"
   end_time: 
@@ -160,6 +172,13 @@
     hour: 21
     min: 0
   title: "レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 21
+    min: 0
+  title: "夜見れな at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -185,8 +204,10 @@
   end_time: 
   uri: 
 - date: 2019-07-14
-  time: 
-  title: "？時？分～ 社築 at:? ※7月12日の配信にて告知"
+  time:
+    hour: 23
+    min: 30
+  title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:社築のYouTubeチャンネル 緊急告知"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -319,21 +340,56 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 16
+    min: 51
+  title: "叶＆天開司＆コーサカ at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-13
   time:
     hour: 17
     min: 0
-  title: "神田笑一＆瀬戸美夜子＆とと at:各々のYouTubeチャンネル? Apex Legends"
+  title: "神田笑一＆瀬戸美夜子＆とと at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-13
   time:
     hour: 18
     min: 0
-  title: "葉加瀬冬雪 at:YouTube スーパーマリオメーカー2"
+  title: "魔界ノりりむ at:YouTube ポケットモンスター オメガルビー"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 18
+    min: 0
+  title: "エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 18
+    min: 30
+  title: "雪汝 at:YouTube プレミア公開 HITMAN 救いようのないアホが暗殺者になった結果ｗｗｗ"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 18
+    min: 30
+  title: "月見しずく at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 19
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube スーパーマリオメーカー2 ※18時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -347,8 +403,22 @@
   time:
     hour: 20
     min: 0
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 20
+    min: 0
   title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ)＆ホロライブマスコッツ(白上フブキ＆百鬼あやめ＆夏色まつり＆大空スバル) at:夢追翔のYouTubeチャンネル
     マスコッツ大戦 相剋、にじさんじマスコッツVSホロライブマスコッツ"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 20
+    min: 0
+  title: "ベルモンド・バンデラス＆白雪レイド＆皆守ひいろ＆天羽よつは at:? PUBG"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -356,6 +426,13 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 21
+    min: 0
+  title: "成瀬鳴 at:YouTube FIFA 19"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -404,6 +481,13 @@
   time:
     hour: 23
     min: 0
+  title: "轟京子 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 23
+    min: 0
   title: "シスター・クレア＆天神子兎音＆さくらみこ＆風宮まつり at:REALITY 第三回 神々さみっと(※再放送：6月28日分)+アフタートーク、告知"
   end_time: 
   uri: 
@@ -411,17 +495,12 @@
   time:
     hour: 23
     min: 0
-  title: "社築＆夏色まつり at:夏色まつりのYouTubeチャンネル モンスターハンター：ワールド"
+  title: "社築＆夏色まつり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-13
   time: 
   title: "？時？分～ 剣持刀也 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-13
-  time: 
-  title: "？時？分～ 雪汝 at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -1994,7 +2073,7 @@
   time:
     hour: 21
     min: 30
-  title: "成瀬鳴 at:YouTube FIFA 99 ※21時から時間変更"
+  title: "成瀬鳴 at:YouTube FIFA 19 ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-08
