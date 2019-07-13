@@ -115,9 +115,23 @@
   uri: 
 - date: 2019-07-14
   time:
+    hour: 0
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
     hour: 1
     min: 0
   title: "雨森小夜 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 7
+    min: 0
+  title: "物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -200,7 +214,7 @@
   time:
     hour: 22
     min: 0
-  title: "(仮) 御伽原江良 at:YouTube 歌(VOCALOID)"
+  title: "御伽原江良＆戌亥とこ at:御伽原江良のYouTubeチャンネル おかしパーティー"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -367,13 +381,6 @@
 - date: 2019-07-13
   time:
     hour: 18
-    min: 0
-  title: "エクス・アルビオ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-13
-  time:
-    hour: 18
     min: 30
   title: "雪汝 at:YouTube プレミア公開 HITMAN 救いようのないアホが暗殺者になった結果ｗｗｗ"
   end_time: 
@@ -387,9 +394,23 @@
   uri: 
 - date: 2019-07-13
   time:
+    hour: 18
+    min: 0
+  title: 32分～ エクス・アルビオ at:YouTube アルネの事件簿
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
     hour: 19
     min: 0
   title: "葉加瀬冬雪 at:YouTube スーパーマリオメーカー2 ※18時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 20
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -410,6 +431,13 @@
   time:
     hour: 20
     min: 0
+  title: "シスター・クレア at:YouTube 歌(田村ゆかり縛り)"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 20
+    min: 0
   title: "にじさんじマスコッツ(町田ちま＆夢追翔＆郡道美玲＆リゼ・ヘルエスタ)＆ホロライブマスコッツ(白上フブキ＆百鬼あやめ＆夏色まつり＆大空スバル) at:夢追翔のYouTubeチャンネル
     マスコッツ大戦 相剋、にじさんじマスコッツVSホロライブマスコッツ"
   end_time: 
@@ -418,7 +446,7 @@
   time:
     hour: 20
     min: 0
-  title: "ベルモンド・バンデラス＆白雪レイド＆皆守ひいろ＆天羽よつは at:? PUBG"
+  title: "ベルモンド・バンデラス＆白雪レイド＆皆守ひいろ＆天羽よつは at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -446,7 +474,7 @@
   time:
     hour: 21
     min: 30
-  title: "月ノ美兎 at:YouTube"
+  title: "月ノ美兎 at:YouTube ドリームクラブ Gogo."
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -459,8 +487,15 @@
 - date: 2019-07-13
   time:
     hour: 22
+    min: 0
+  title: "御伽原江良＆戌亥とこ at:御伽原江良のYouTubeチャンネル おかしパーティー ※翌日に延期"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 22
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge、雑談"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -468,6 +503,13 @@
     hour: 22
     min: 30
   title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube Muse Dash"
   end_time: 
   uri: 
 - date: 2019-07-13
@@ -499,8 +541,22 @@
   end_time: 
   uri: 
 - date: 2019-07-13
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube しょぼんのアクション"
+  end_time: 
+  uri: 
+- date: 2019-07-13
   time: 
   title: "？時？分～ 剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-13
+  time:
+    hour: 22
+    min: 0
+  title: "-23時00分頃～ 叶 at:YouTube HEAVY RAIN 心の軋むとき"
   end_time: 
   uri: 
 - date: 2019-07-13
