@@ -53,9 +53,23 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:YouTube 飲酒 ※7月14日の舞元力一#17にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 6
     min: 0
   title: "鈴木勝 at:ツイキャス ※予定表・②より"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 22
+    min: 0
+  title: "ギバライカ(花畑チャイカ＆御伽原江良) at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -76,12 +90,26 @@
   time:
     hour: 22
     min: 0
+  title: "御伽原江良 at:YouTube リズム天国ゴールド"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 0
   title: "葉加瀬冬雪＆夜見れな at:夜見れなのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-07-19
   time: 
   title: "？時？分～ 葉加瀬冬雪＆加賀美ハヤト＆夜見れな at:？"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube 空気読み。"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -93,7 +121,21 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) 朗読 ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) 勝とごろごろ"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 21
+    min: 0
+  title: "舞元啓介＆大空スバル at:YouTube 実況パワフルプロ野球2018 ※7月14日の舞元力一#17にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -117,6 +159,13 @@
   end_time: 
   uri: 
 - date: 2019-07-16
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良＆エクス・アルビオ at:？ 「」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-16
   time: 
   title: "？時？分～ 勇気ちひろ at:YouTube 誕生日配信"
   end_time: 
@@ -137,7 +186,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※リマインダー＆予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -165,7 +214,14 @@
   time:
     hour: 21
     min: 0
-  title: "御伽原江良＆雪城眞尋 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
+  title: "御伽原江良＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #3 ※7/12の配信にて告知"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -254,14 +310,14 @@
   time:
     hour: 5
     min: 10
-  title: "御伽原江良 at:YouTube"
+  title: "御伽原江良 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 6
     min: 30
-  title: "シスター・クレア at:YouTube 歌(ジブリ作品)"
+  title: "シスター・クレア at:YouTube 歌(ジブリ作品) ※同日夕方-夜or翌日朝に変更"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -294,9 +350,23 @@
   uri: 
 - date: 2019-07-14
   time:
+    hour: 10
+    min: 30
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 11
+    min: 30
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
     hour: 12
-    min: 0
-  title: "緑仙 at:YouTube 歌(VOCALOID) ※リマインダー＆予定表より"
+    min: 10
+  title: "緑仙 at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -315,9 +385,23 @@
   uri: 
 - date: 2019-07-14
   time:
+    hour: 14
+    min: 30
+  title: "エクス・アルビオ at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
     hour: 15
     min: 0
-  title: "森中花咲 at:YouTube 歌(アーカイブ無し) ※Twitterネーム＆リマインダーより"
+  title: "森中花咲 at:YouTube 歌(アーカイブ無し)"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 15
+    min: 0
+  title: "卯月コウ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -338,12 +422,7 @@
   time:
     hour: 17
     min: 0
-  title: "(仮) 戌亥とこ at:YouTube モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-07-14
-  time: 
-  title: "？時？分（昼-夕/仮）～ 卯月コウ at:？"
+  title: "戌亥とこ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -358,6 +437,13 @@
     hour: 20
     min: 0
   title: "舞元啓介＆小野町春香＆鈴原るる at:各々のYouTubeチャンネル? モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 20
+    min: 30
+  title: "アンジュ・カトリーナ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -385,7 +471,7 @@
   time:
     hour: 21
     min: 30
-  title: "成瀬鳴 at:YouTube FIFA 19 ※リマインダーより"
+  title: "成瀬鳴 at:YouTube FIFA 19"
   end_time: 
   uri: 
 - date: 2019-07-14
