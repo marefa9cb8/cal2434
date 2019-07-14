@@ -198,6 +198,13 @@
   uri: 
 - date: 2019-07-15
   time:
+    hour: 0
+    min: 0
+  title: or 01時00分～ 夢月ロア at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
     hour: 6
     min: 45
   title: "伏見ガク＆ゲスト：ドーラ at:YouTube おはガク！ 肉系"
@@ -236,6 +243,20 @@
     hour: 21
     min: 0
   title: "御伽原江良＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -338,7 +359,7 @@
   time:
     hour: 6
     min: 30
-  title: "シスター・クレア at:YouTube 歌(ジブリ作品) ※同日夕方-夜or翌日朝に変更"
+  title: "シスター・クレア at:YouTube 歌(ジブリ作品) ※翌日朝に変更"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -513,13 +534,6 @@
   time:
     hour: 21
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:各々のYouTubeチャンネル Minecraft
-  end_time: 
-  uri: 
-- date: 2019-07-14
-  time:
-    hour: 21
-    min: 0
   title: "雪城眞尋 at:YouTube 大乱闘スマッシュブラザーズ SPECIAL"
   end_time: 
   uri: 
@@ -527,7 +541,7 @@
   time:
     hour: 21
     min: 0
-  title: "レヴィ・エリファ at:YouTube"
+  title: "レヴィ・エリファ at:YouTube ※中止？"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -540,8 +554,15 @@
 - date: 2019-07-14
   time:
     hour: 21
+    min: 2
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:各々のYouTubeチャンネル Minecraft
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 21
     min: 30
-  title: "渋谷ハジメ at:YouTube Rainbow Six Siege"
+  title: "渋谷ハジメ＆紗樹万咲＆梔子スイ＆漆黒のれゔぃあたん at:YouTube Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -598,7 +619,14 @@
   time:
     hour: 22
     min: 30
-  title: "雪城眞尋 at:YouTube ドラゴンクエストX 目覚めし五つの種族 オンライン ※リマインダーより"
+  title: "神田笑一 at:YouTube theHunter: Call of the Wild"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 23
+    min: 0
+  title: "雪城眞尋 at:YouTube ドラゴンクエストX 目覚めし五つの種族 オンライン"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -615,7 +643,7 @@
   uri: 
 - date: 2019-07-14
   time: 
-  title: "？時？分～(コラボ後) 鈴原るる at:YouTube スーパードンキーコング3"
+  title: "？時？分～(コラボ後) 鈴原るる at:YouTube スーパードンキーコング3 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-13
