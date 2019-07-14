@@ -179,7 +179,7 @@
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  title: "花畑チャイカ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -228,7 +228,7 @@
   time:
     hour: 23
     min: 0
-  title: "社築＆緑仙 at:YouTube マニアックアニメプレゼン選手権 ※開始時刻：緑仙予定表より"
+  title: "社築＆緑仙 at:緑仙のYouTubeチャンネル マニアックアニメプレゼン選手権 ※開始時刻：緑仙予定表より"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -394,21 +394,35 @@
   time:
     hour: 15
     min: 0
+  title: "卯月コウ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 15
+    min: 10
   title: "森中花咲 at:YouTube 歌(アーカイブ無し)"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 15
-    min: 0
-  title: "卯月コウ at:YouTube 雑談"
+    min: 13
+  title: "葛葉 at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-14
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ＆夜見れな at:勇気ちひろのYouTubeチャンネル？ Apex Legends"
+  title: "勇気ちひろ＆夜見れな at:勇気ちひろのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 16
+    min: 5
+  title: "雪城眞尋 at:YouTube ドラゴンクエストX 目覚めし五つの種族 オンライン"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -421,8 +435,22 @@
 - date: 2019-07-14
   time:
     hour: 17
+    min: 30
+  title: "戌亥とこ at:YouTube モンスターハンター：ワールド ※17時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 18
     min: 0
-  title: "戌亥とこ at:YouTube モンスターハンター：ワールド"
+  title: "魔界ノりりむ at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 18
+    min: 0
+  title: "三枝明那 at:YouTube 第一回 三枝ヘッダーグランプリ"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -450,7 +478,7 @@
   time:
     hour: 21
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:? ※森中花咲のTwitterネームより
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲) at:? Minecraft ※森中花咲のTwitterネーム及び配信より
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -465,6 +493,13 @@
     hour: 21
     min: 0
   title: "夜見れな at:YouTube 雑談、マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 21
+    min: 30
+  title: "渋谷ハジメ at:YouTube Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -493,6 +528,13 @@
   time:
     hour: 22
     min: 0
+  title: "ベルモンド・バンデラス＆三枝明那＆エクス・アルビオ at:ベルモンド・バンデラスのYouTubeチャンネル グランド・セフト・オートV"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良＆戌亥とこ at:御伽原江良のYouTubeチャンネル おかしパーティー"
   end_time: 
   uri: 
@@ -505,17 +547,19 @@
   uri: 
 - date: 2019-07-14
   time: 
-  title: "？時？分～ モイラ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-14
-  time: 
   title: "？時？分～ 叶 at:YouTube Bloodborne"
   end_time: 
   uri: 
 - date: 2019-07-14
   time: 
   title: "？時？分～(コラボ後) 鈴原るる at:YouTube スーパードンキーコング3"
+  end_time: 
+  uri: 
+- date: 2019-07-14
+  time:
+    hour: 21
+    min: 30
+  title: "葉加瀬冬雪 at:YouTube 雑談 or お絵かき"
   end_time: 
   uri: 
 - date: 2019-07-13
