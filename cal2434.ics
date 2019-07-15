@@ -15536,8 +15536,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190716T223000
+SUMMARY:鈴原るる at:YouTube スーパードンキコング3
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190716T230000
-SUMMARY:?～ 椎名唯華＆花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル 「エクス・アルビオ配信」同時視聴 ※詳細：リマインダーより
+SUMMARY:椎名唯華＆花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル 「エクス・アルビオ配信」同時視聴
 URL:
 DESCRIPTION:
 END:VEVENT
