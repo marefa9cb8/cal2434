@@ -182,14 +182,14 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
 - date: 2019-07-19
   time:
     hour: 12
     min: 0
-  title: "葉加瀬冬雪＆加賀美ハヤト＆夜見れな at:？"
+  title: "葉加瀬冬雪＆加賀美ハヤト＆夜見れな at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -286,11 +286,23 @@
   title: "？時？分～(仮) 緑仙＆？？？ at:YouTube Magic: The Gathering Arena ※緑仙の予定表より"
   end_time: 
   uri: 
+- date: 2019-07-18
+  time: 
+  title: "？時？分～ 矢車りね at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-07-17
   time:
     hour: 0
     min: 0
   title: "鈴木勝 at:YouTube(2nd) 勝とごろごろ"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 晩酌"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -359,6 +371,11 @@
   uri: 
 - date: 2019-07-17
   time: 
+  title: "？時？分～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time: 
   title: "？時？分～ 夜見れな at:YouTube"
   end_time: 
   uri: 
@@ -366,14 +383,21 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:YouTube 晩酌"
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
   end_time: 
   uri: 
 - date: 2019-07-16
   time:
     hour: 0
     min: 0
-  title: "(仮) 郡道美玲 at:YouTube Minecraft or Dead by Daylight"
+  title: "葉加瀬冬雪 at:YouTube マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 0
+    min: 30
+  title: "郡道美玲 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -401,7 +425,7 @@
   time:
     hour: 0
     min: 0
-  title: "(仮) 葉加瀬冬雪 at:YouTube マリオカート8 デラックス"
+  title: "?～ レヴィ・エリファ at:YouTube テスト配信"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -432,14 +456,33 @@
   uri: 
 - date: 2019-07-16
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
     hour: 22
     min: 0
   title: "御伽原江良＆エクス・アルビオ at:？ 「」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-16
+  time:
+    hour: 22
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube 予定決め、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-16
   time: 
   title: "？時？分～ ドーラ at:YouTube THE IDOLM@STER 2 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time: 
+  title: "？時？分～ エクス・アルビオ at:YouTube Ultimate Chicken Horse"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -591,7 +634,7 @@
   time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube ドリームクラブ Gogo. PEACH BALL 閃乱カグラ? ※内容変更"
+  title: "月ノ美兎 at:YouTube ドリームクラブ Gogo. 閃乱カグラ PEACH BEACH SPLASH ※内容変更"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -612,21 +655,21 @@
   time:
     hour: 21
     min: 0
-  title: "御伽原江良＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL"
-  end_time: 
-  uri: 
-- date: 2019-07-15
-  time:
-    hour: 21
-    min: 0
   title: "夜見れな at:YouTube テスト配信(Apex Legends) ※16時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-15
   time:
     hour: 21
+    min: 0
+  title: 15分～ 御伽原江良＆雪城眞尋 at:雪城眞尋のYouTubeチャンネル 大乱闘スマッシュブラザーズ SPECIAL
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Semblance、雑談"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -638,9 +681,23 @@
   uri: 
 - date: 2019-07-15
   time:
+    hour: 21
+    min: 30
+  title: "レヴィ・エリファ at:YouTube プレミア公開 六兆年と一夜物語(cover）"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 21
+    min: 46
+  title: "レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
     hour: 22
     min: 0
-  title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2 ※14時から時間変更 開始時刻：リマインダーより"
+  title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2 ※14時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -654,7 +711,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆ゲスト：？？？ at:YouTube SECRET RADIO #3"
+  title: "椎名唯華＆ゲスト：ジョー・力一 at:YouTube SECRET RADIO #3"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -682,12 +739,21 @@
   time:
     hour: 23
     min: 30
-  title: "でびるる(でびでび・でびる＆鈴原るる) at:鈴原るるのYouTubeチャンネル 零 ～眞紅の蝶～"
+  title: "鈴鹿詩子 at:YouTube ザ・シムズ4"
   end_time: 
   uri: 
 - date: 2019-07-15
-  time: 
-  title: "？時？分～ 叶 at:YouTube Bloodborne"
+  time:
+    hour: 23
+    min: 39
+  title: "叶 at:YouTube Bloodborne"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 23
+    min: 51
+  title: "でびるる(でびでび・でびる＆鈴原るる) at:鈴原るるのYouTubeチャンネル 零 ～眞紅の蝶～"
   end_time: 
   uri: 
 - date: 2019-07-14
@@ -953,7 +1019,7 @@
   time:
     hour: 21
     min: 0
-  title: "レヴィ・エリファ at:YouTube ※中止？"
+  title: "レヴィ・エリファ at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-14
