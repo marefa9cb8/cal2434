@@ -86,7 +86,7 @@
   time:
     hour: 22
     min: 0
-  title: "まほすず(勇気ちひろ＆鈴谷アキ) at:YouTube まほすずラジオ #36"
+  title: "まほすず(勇気ちひろ＆鈴谷アキ)+ゲスト：もちひよこ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #36"
   end_time: 
   uri: 
 - date: 2019-07-21
@@ -371,9 +371,16 @@
   uri: 
 - date: 2019-07-16
   time:
+    hour: 0
+    min: 0
+  title: "(仮) 郡道美玲 at:YouTube Minecraft or Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -381,6 +388,20 @@
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 0
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 0
+    min: 0
+  title: "(仮) 葉加瀬冬雪 at:YouTube マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -484,16 +505,30 @@
   uri: 
 - date: 2019-07-15
   time:
-    hour: 16
+    hour: 9
+    min: 25
+  title: "叶＆天開司 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 11
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "神田笑一 at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-15
   time:
     hour: 16
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "勇気ちひろ＆渋谷ハジメ at:勇気ちひろのYouTubeチャンネル Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 16
+    min: 0
+  title: 15分～ 森中花咲 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -501,6 +536,20 @@
     hour: 18
     min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 18
+    min: 0
+  title: "卯月コウ at:？"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -521,7 +570,14 @@
   time:
     hour: 20
     min: 0
-  title: "シスター・クレア at:YouTube ※開始時刻：まいにち動画より"
+  title: "笹木咲 at:YouTube ケイデンス・オブ・ハイラル: クリプト・オブ・ネクロダンサー feat. ゼルダの伝説 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 20
+    min: 0
+  title: "シスター・クレア at:YouTube ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -575,16 +631,23 @@
   uri: 
 - date: 2019-07-15
   time:
-    hour: 22
-    min: 0
-  title: "ドーラ at:YouTube 歌(夏の歌縛り) ※予定表より"
+    hour: 21
+    min: 30
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
   end_time: 
   uri: 
 - date: 2019-07-15
   time:
     hour: 22
     min: 0
-  title: "鈴原るる at:YouTube スーパードンキーコング3"
+  title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2 ※14時から時間変更 開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube 歌(夏の歌縛り) ※予定表より"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -598,7 +661,7 @@
   time:
     hour: 23
     min: 0
-  title: "社築＆緑仙 at:緑仙のYouTubeチャンネル マニアックアニメプレゼン選手権 ※開始時刻：緑仙予定表より"
+  title: "社築＆緑仙 at:緑仙のYouTubeチャンネル マニアックアニメプレゼン選手権"
   end_time: 
   uri: 
 - date: 2019-07-15
@@ -606,6 +669,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 23
+    min: 0
+  title: "加賀美ハヤト at:YouTube 返校-Detention-"
   end_time: 
   uri: 
 - date: 2019-07-14
