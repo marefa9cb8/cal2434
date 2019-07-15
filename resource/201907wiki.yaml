@@ -147,6 +147,13 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 20
+    min: 0
+  title: Twinkle(月ノ美兎＆物述有栖＆本間ひまわり＆シスター・クレア＆竜胆尊) at:YouTube プレミア公開
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 21
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ６時間耐久？！ ド葛本社 game night ※7月14日ド葛本社配信にて告知"
@@ -189,7 +196,7 @@
   time:
     hour: 12
     min: 0
-  title: "葉加瀬冬雪＆加賀美ハヤト＆夜見れな at:YouTube 雑談"
+  title: SMC(葉加瀬冬雪＆加賀美ハヤト＆夜見れな) at:加賀美ハヤトのYouTubeチャンネル 雑談
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -251,6 +258,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 21
+    min: 0
+  title: "文野環＆雪城眞尋 at:YouTube ラブライブ！語り"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -383,7 +397,7 @@
   time:
     hour: 0
     min: 0
-  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  title: "本間ひまわり at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -396,8 +410,15 @@
 - date: 2019-07-16
   time:
     hour: 0
-    min: 30
+    min: 3
   title: "郡道美玲 at:YouTube Dead by Daylight"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 0
+    min: 30
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ ※0時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -411,21 +432,28 @@
   time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube"
+  title: "椎名唯華 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 1
+    min: 53
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 2
+    min: 27
+  title: "笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-16
   time:
     hour: 0
     min: 0
-  title: "本間ひまわり at:YouTube Minecraft、雑談"
-  end_time: 
-  uri: 
-- date: 2019-07-16
-  time:
-    hour: 0
-    min: 0
-  title: "?～ レヴィ・エリファ at:YouTube テスト配信"
+  title: "?～ レヴィ・エリファ at:YouTube テスト配信 ※延期"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -442,9 +470,23 @@
   uri: 
 - date: 2019-07-16
   time:
+    hour: 19
+    min: 0
+  title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 21
+    min: 0
+  title: "ドーラ＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -465,24 +507,33 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良＆エクス・アルビオ at:？ 「」同時視聴"
+  title: "ニュイ・ソシエール at:YouTube 予定決め、雑談"
   end_time: 
   uri: 
 - date: 2019-07-16
   time:
-    hour: 22
+    hour: 23
     min: 0
-  title: "ニュイ・ソシエール at:YouTube 予定決め、雑談"
+  title: "?～ 椎名唯華＆花畑チャイカ＆御伽原江良 at:花畑チャイカのYouTubeチャンネル 「エクス・アルビオ配信」同時視聴 ※詳細：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 23
+    min: 0
+  title: "エクス・アルビオ at:YouTube Ultimate Chicken Horse"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-16
   time: 
   title: "？時？分～ ドーラ at:YouTube THE IDOLM@STER 2 ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-16
-  time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube Ultimate Chicken Horse"
   end_time: 
   uri: 
 - date: 2019-07-16
