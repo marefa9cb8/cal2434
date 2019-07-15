@@ -96,11 +96,25 @@
   title: "椎名唯華＆ゲスト：名取さな at:YouTube しぃしぃラジオ 第6回"
   end_time: 
   uri: 
+- date: 2019-07-21
+  time:
+    hour: 23
+    min: 0
+  title: "小野町春香 at:YouTube 睡眠導入ASMR"
+  end_time: 
+  uri: 
 - date: 2019-07-20
   time:
     hour: 0
     min: 0
   title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:YouTube 飲酒 ※7月14日の舞元力一#17にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 0
+    min: 30
+  title: "小野町春香 at:YouTube ASMR"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -150,6 +164,11 @@
     hour: 22
     min: 0
   title: "ギバライカ(花畑チャイカ＆御伽原江良) at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time: 
+  title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -243,6 +262,13 @@
   uri: 
 - date: 2019-07-18
   time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube 実況パワフルプロ野球(Nintendo Switch版)"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
     hour: 22
     min: 0
   title: "竜胆尊 at:bilibili 歌"
@@ -279,6 +305,13 @@
     hour: 21
     min: 0
   title: "雪城眞尋＆レヴィ・エリファ at:両名のYouTubeチャンネル マリオカート8 デラックス"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 21
+    min: 30
+  title: "小野町春香 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -424,6 +457,13 @@
 - date: 2019-07-15
   time:
     hour: 6
+    min: 37
+  title: "シスター・クレア at:YouTube 歌(ジブリ作品)"
+  end_time: 
+  uri: 
+- date: 2019-07-15
+  time:
+    hour: 6
     min: 45
   title: "伏見ガク＆ゲスト：ドーラ at:YouTube おはガク！ 肉系"
   end_time: 
@@ -537,12 +577,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ※Twitterネームより"
-  end_time: 
-  uri: 
-- date: 2019-07-15
-  time: 
-  title: "？時？分～ シスター・クレア at:YouTube 歌(ジブリ作品)"
+  title: "小野町春香 at:YouTube 睡眠導入ASMR"
   end_time: 
   uri: 
 - date: 2019-07-14
