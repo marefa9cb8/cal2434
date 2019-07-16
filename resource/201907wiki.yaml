@@ -56,11 +56,6 @@
   title: "？時？分～ ドーラ at:YouTube 雑談 ※予定表より"
   end_time: 
   uri: 
-- date: 2019-07-22
-  time: 
-  title: "？時？分～(仮) 緑仙＆？？？ at:YouTube 歌 ※緑仙の予定表より"
-  end_time: 
-  uri: 
 - date: 2019-07-21
   time:
     hour: 0
@@ -250,7 +245,7 @@
   uri: 
 - date: 2019-07-19
   time: 
-  title: "？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 僕の性癖グランプリ"
+  title: "？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 性癖グランプリ"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -310,6 +305,13 @@
 - date: 2019-07-18
   time: 
   title: "？時？分～ 矢車りね at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 0
+    min: 0
+  title: "(仮) 笹木咲 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -466,13 +468,15 @@
 - date: 2019-07-16
   time:
     hour: 14
-    min: 30
-  title: "樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション"
+    min: 0
+  title: "安土桃 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-16
-  time: 
-  title: "？時？分～(昼) 安土桃 at:YouTube 雑談?"
+  time:
+    hour: 14
+    min: 30
+  title: "樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -487,6 +491,13 @@
     hour: 19
     min: 0
   title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-16

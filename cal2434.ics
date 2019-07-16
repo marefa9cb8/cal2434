@@ -15128,12 +15128,6 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190722
-SUMMARY:？時？分～(仮) 緑仙＆？？？ at:YouTube 歌 ※緑仙の予定表より
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190721T000000
 SUMMARY:竜胆尊 at:YouTube 歌
 URL:
@@ -15297,7 +15291,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190719
-SUMMARY:？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 僕の性癖グランプリ
+SUMMARY:？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 性癖グランプリ
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15352,6 +15346,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190718
 SUMMARY:？時？分～ 矢車りね at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190717T000000
+SUMMARY:(仮) 笹木咲 at:YouTube
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15494,14 +15494,14 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190716T143000
-SUMMARY:樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション
+DTSTART;TZID=Asia/Tokyo:20190716T140000
+SUMMARY:安土桃 at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190716
-SUMMARY:？時？分～(昼) 安土桃 at:YouTube 雑談?
+DTSTART;TZID=Asia/Tokyo:20190716T143000
+SUMMARY:樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15514,6 +15514,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190716T190000
 SUMMARY:戌亥とこ at:YouTube
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190716T200000
+SUMMARY:笹木咲 at:YouTube スーパーマリオメーカー2
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -68818,7 +68824,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190629T200000
-SUMMARY:(上海時間19時00分)～ 物述有栖＆緑仙＆リゼ・ヘルエスタ＆艾因(Eine)＆琉绮(Ruki)＆一果(Ichigo)＆七海(Nanami) at:bilibili(VirtualReal公式) 日中大学試験対決
+SUMMARY:(上海時間19時00分)～ 物述有栖＆緑仙＆リゼ・ヘルエスタ＆艾因(Eine)＆琉绮(Ruki)＆一果(Ichigo)＆七海(Nanami) at:bilibili(VirtuaReal公式) 日中大学試験対決
 URL:
 DESCRIPTION:
 END:VEVENT
