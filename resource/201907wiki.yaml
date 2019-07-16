@@ -1,4 +1,11 @@
 ---
+- date: 2019-07-31
+  time:
+    hour: 12
+    min: 0
+  title: "桜凛月 at:YouTube 第3回 おひるンボ"
+  end_time: 
+  uri: 
 - date: 2019-07-30
   time:
     hour: 23
@@ -417,6 +424,20 @@
   uri: 
 - date: 2019-07-17
   time:
+    hour: 4
+    min: 49
+  title: "葛葉 at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 5
+    min: 52
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
     hour: 17
     min: 30
   title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
@@ -490,6 +511,13 @@
     hour: 22
     min: 0
   title: "御伽原江良 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube スーパードンキーコング3 or モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-17
