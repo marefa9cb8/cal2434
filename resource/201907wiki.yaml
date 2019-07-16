@@ -248,6 +248,11 @@
   title: "出雲霞 at:YouTube 寝かしつけ"
   end_time: 
   uri: 
+- date: 2019-07-19
+  time: 
+  title: "？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 僕の性癖グランプリ"
+  end_time: 
+  uri: 
 - date: 2019-07-18
   time: 
   title: "？時？分～(昼・仮) ドーラ at:YouTube ※予定表より"
@@ -296,8 +301,10 @@
   end_time: 
   uri: 
 - date: 2019-07-18
-  time: 
-  title: "？時？分～(仮) 緑仙＆？？？ at:YouTube Magic: The Gathering Arena ※緑仙の予定表より"
+  time:
+    hour: 23
+    min: 0
+  title: "社築＆緑仙＆？？？ at:社築のYouTubeチャンネル Magic: The Gathering Arena ※緑仙の予定表より"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -460,12 +467,19 @@
   time:
     hour: 14
     min: 30
-  title: "樋口楓＆本間ひまわり at:にじさんじ公式のYouTubeチャンネル 京まふ公式プレゼンテーション ※7/14ド葛本社の配信で告知"
+  title: "樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション"
   end_time: 
   uri: 
 - date: 2019-07-16
   time: 
   title: "？時？分～(昼) 安土桃 at:YouTube 雑談?"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-16
@@ -536,6 +550,11 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-16
+  time: 
+  title: "？時？分～(仮) 本間ひまわり at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-16

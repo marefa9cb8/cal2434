@@ -15296,6 +15296,12 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190719
+SUMMARY:？時？分～ 花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 僕の性癖グランプリ
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190718
 SUMMARY:？時？分～(昼・仮) ドーラ at:YouTube ※予定表より
 URL:
@@ -15338,8 +15344,8 @@ URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190718
-SUMMARY:？時？分～(仮) 緑仙＆？？？ at:YouTube Magic: The Gathering Arena ※緑仙の予定表より
+DTSTART;TZID=Asia/Tokyo:20190718T230000
+SUMMARY:社築＆緑仙＆？？？ at:社築のYouTubeチャンネル Magic: The Gathering Arena ※緑仙の予定表より
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15489,13 +15495,19 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190716T143000
-SUMMARY:樋口楓＆本間ひまわり at:にじさんじ公式のYouTubeチャンネル 京まふ公式プレゼンテーション ※7/14ド葛本社の配信で告知
+SUMMARY:樋口楓＆本間ひまわり at:にじさんじ公式YouTubeチャンネル 京まふ公式プレゼンテーション
 URL:
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190716
 SUMMARY:？時？分～(昼) 安土桃 at:YouTube 雑談?
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190716T190000
+SUMMARY:桜凛月 at:YouTube Minecraft
 URL:
 DESCRIPTION:
 END:VEVENT
@@ -15556,6 +15568,12 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190716T230000
 SUMMARY:葉山舞鈴 at:YouTube モンスターハンター：ワールド ※リマインダーより
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190716
+SUMMARY:？時？分～(仮) 本間ひまわり at:YouTube 雑談
 URL:
 DESCRIPTION:
 END:VEVENT
