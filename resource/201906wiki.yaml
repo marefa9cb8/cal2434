@@ -1441,13 +1441,6 @@
   uri: 
 - date: 2019-06-26
   time:
-    hour: 0
-    min: 30
-  title: "瀬戸美夜子 at:YouTube(メンバー限定)"
-  end_time: 
-  uri: 
-- date: 2019-06-26
-  time:
     hour: 1
     min: 3
   title: "葛葉 at:YouTube モンスターハンター：ワールド"
@@ -2330,11 +2323,6 @@
     min: 0
   title: 22時17分～ 宇志海いちご＆伏見ガク＆闇夜乃モルル＆本間ひまわり＆葛葉 at:宇志海いちご、伏見ガク、本間ひまわり、葛葉のYouTubeチャンネル
     Gang Beasts ※Discord不調につき時間変更
-  end_time: 
-  uri: 
-- date: 2019-06-24
-  time: 
-  title: 22時？分～ 瀬戸美夜子 at:YouTube(メンバー限定)
   end_time: 
   uri: 
 - date: 2019-06-24
@@ -3279,13 +3267,6 @@
     hour: 22
     min: 0
   title: "緑仙＆夢追翔 at:緑仙のYouTubeチャンネル 雑談"
-  end_time: 
-  uri: 
-- date: 2019-06-21
-  time:
-    hour: 22
-    min: 0
-  title: "ジョー・力一 at:YouTube(メンバーシップ限定) 外郎売読み"
   end_time: 
   uri: 
 - date: 2019-06-21

@@ -207,6 +207,11 @@
   uri: 
 - date: 2019-07-20
   time: 
+  title: "？時？分～ 物述有栖 at:YouTube お茶会？"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
@@ -247,6 +252,13 @@
   uri: 
 - date: 2019-07-19
   time:
+    hour: 19
+    min: 0
+  title: "三枝明那 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
@@ -264,6 +276,13 @@
     hour: 21
     min: 0
   title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 0
+  title: "物述有栖 at:bilibili"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -318,9 +337,23 @@
   uri: 
 - date: 2019-07-18
   time:
+    hour: 18
+    min: 0
+  title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 20
+    min: 0
+  title: "える at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -367,6 +400,13 @@
   uri: 
 - date: 2019-07-18
   time:
+    hour: 21
+    min: 30
+  title: "御伽原江良 at:YouTube 2.0お披露目、告知"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
     hour: 22
     min: 0
   title: "竜胆尊 at:bilibili 歌"
@@ -376,7 +416,14 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube 空気読み。"
+  title: "御伽原江良 at:YouTube 空気読み。 スーパーマリオメーカー2 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube Muse Dash"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -388,17 +435,7 @@
   uri: 
 - date: 2019-07-18
   time: 
-  title: "？時？分～ える at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-07-18
-  time: 
   title: "？時？分～ 矢車りね at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-18
-  time: 
-  title: "？時？分～ 戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -482,6 +519,13 @@
   time:
     hour: 18
     min: 0
+  title: "本間ひまわり at:YouTube 蚊2 レッツゴーハワイ"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 18
+    min: 0
   title: "椎名唯華 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
@@ -496,14 +540,14 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2"
+  title: 18時48分～ 桜凛月 at:YouTube モンスターハンター：ワールド
   end_time: 
   uri: 
 - date: 2019-07-17
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
+  title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -544,15 +588,8 @@
 - date: 2019-07-17
   time:
     hour: 21
-    min: 0
-  title: "雪城眞尋＆レヴィ・エリファ at:両名のYouTubeチャンネル マリオカート8 デラックス"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time:
-    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -560,6 +597,13 @@
     hour: 21
     min: 30
   title: "小野町春香 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 21
+    min: 30
+  title: "雪城眞尋＆レヴィ・エリファ at:両名のYouTubeチャンネル マリオカート8 デラックス ※21時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -573,14 +617,35 @@
   time:
     hour: 22
     min: 0
-  title: "ドーラ at:YouTube VA-11 Hall-A ※予定表より"
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
   end_time: 
   uri: 
 - date: 2019-07-17
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube スーパーマリオメーカー2"
+  title: "本間ひまわり at:YouTube 真・雀龍門"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 22
+    min: 0
+  title: "ドーラ at:YouTube VA-11 Hall-A"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 22
+    min: 0
+  title: "出雲霞 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube スーパーマリオメーカー2 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -594,7 +659,7 @@
   time:
     hour: 23
     min: 0
-  title: "にじさんじGALS(樋口楓＆笹木咲＆椎名唯華＆鷹宮リオン) at:YouTube お悩み相談"
+  title: "にじさんじGALS(樋口楓＆笹木咲＆椎名唯華＆鷹宮リオン) at:鷹宮リオンのYouTubeチャンネル お悩み相談"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -608,6 +673,13 @@
   time:
     hour: 23
     min: 0
+  title: "物述有栖 at:YouTube 大掃除お茶会"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 23
+    min: 0
   title: " 緑仙 at:bilibili 歌(仮面ライダー) ※予定表より"
   end_time: 
   uri: 
@@ -615,12 +687,7 @@
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time: 
-  title: "？時？分～ える at:YouTube ※Twitterプロフィール欄より"
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-07-17
