@@ -538,6 +538,13 @@
   time:
     hour: 23
     min: 0
+  title: "にじさんじGALS(樋口楓＆笹木咲＆椎名唯華＆鷹宮リオン) at:YouTube お悩み相談"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 23
+    min: 0
   title: "家長むぎ at:YouTube 10万人記念"
   end_time: 
   uri: 
@@ -562,11 +569,6 @@
   uri: 
 - date: 2019-07-17
   time: 
-  title: "？時？分～(夜・仮) 樋口楓 at:YouTube ※Twitterプロフィール欄より"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time: 
   title: "？時？分～ 剣持刀也 at:YouTube"
   end_time: 
   uri: 
@@ -582,7 +584,7 @@
   uri: 
 - date: 2019-07-17
   time: 
-  title: "？時？分～ 夜見れな at:YouTube"
+  title: "？時？分～ 夜見れな at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-16
