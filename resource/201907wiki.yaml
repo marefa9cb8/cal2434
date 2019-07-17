@@ -438,6 +438,13 @@
   uri: 
 - date: 2019-07-17
   time:
+    hour: 7
+    min: 44
+  title: "郡道美玲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
     hour: 17
     min: 30
   title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
@@ -448,6 +455,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -563,7 +577,7 @@
   uri: 
 - date: 2019-07-17
   time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  title: "？時？分～(夜) エクス・アルビオ at:YouTube Magic: The Gathering Arena?"
   end_time: 
   uri: 
 - date: 2019-07-17
