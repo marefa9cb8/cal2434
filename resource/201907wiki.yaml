@@ -61,6 +61,13 @@
   end_time: 
   uri: 
 - date: 2019-07-22
+  time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-22
   time: 
   title: "？時？分～ ドーラ at:YouTube 雑談 ※予定表より"
   end_time: 
@@ -189,6 +196,14 @@
     hour: 21
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:? ６時間耐久？！ ド葛本社 game night ※7月14日ド葛本社配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 21
+    min: 0
+  title: "夢追翔＆黒井しば+ゲスト：小野町春香＆瀬戸美夜子 at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
+    #9"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -327,14 +342,14 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube 雑談、Wild Animal Sports Day"
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 0
     min: 0
-  title: "花畑チャイカ at:YouTube Minecraft or スーパーマリオメーカー2"
+  title: "花畑チャイカ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -348,21 +363,35 @@
   time:
     hour: 0
     min: 15
-  title: "家長むぎ at:YouTube プレミア公開"
+  title: "家長むぎ at:YouTube プレミア公開 エイリアンエイリアン/家長むぎ【歌ってみた】"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 0
+    min: 18
+  title: "郡道美玲 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 0
     min: 30
-  title: "叶 at:YouTube 雑談"
+  title: 46分～ 叶 at:YouTube 雑談
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 1
-    min: 0
-  title: "椎名唯華 at:YouTube"
+    min: 5
+  title: "森中花咲 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 2
+    min: 14
+  title: "緑仙 at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -375,6 +404,13 @@
 - date: 2019-07-18
   time: 
   title: "？時？分～(昼・仮) ドーラ at:YouTube ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube ※1時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -402,7 +438,7 @@
   time:
     hour: 19
     min: 0
-  title: "緑仙＆？？？ at:? ※予定表より"
+  title: "赤羽葉子＆緑仙 at:赤羽葉子のYouTubeチャンネル Infliction"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -457,6 +493,13 @@
 - date: 2019-07-18
   time:
     hour: 21
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 21
     min: 30
   title: "小野町春香 at:YouTube 実況パワフルプロ野球(Nintendo Switch版)"
   end_time: 
@@ -480,6 +523,13 @@
     hour: 22
     min: 0
   title: "御伽原江良 at:YouTube 空気読み。 スーパーマリオメーカー2 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 22
+    min: 30
+  title: "葉山舞鈴 at:YouTube Shadowverse ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -758,11 +808,6 @@
     hour: 23
     min: 0
   title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time: 
-  title: "？時？分～(仮) 竜胆尊 at:YouTube メイド イン ワリオ"
   end_time: 
   uri: 
 - date: 2019-07-17
