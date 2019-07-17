@@ -206,6 +206,13 @@
   end_time: 
   uri: 
 - date: 2019-07-20
+  time:
+    hour: 23
+    min: 0
+  title: "轟京子 at:YouTube ギャル朗読"
+  end_time: 
+  uri: 
+- date: 2019-07-20
   time: 
   title: "？時？分～ 物述有栖 at:YouTube お茶会？"
   end_time: 
@@ -318,6 +325,41 @@
   uri: 
 - date: 2019-07-18
   time:
+    hour: 0
+    min: 0
+  title: "剣持刀也 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 0
+    min: 0
+  title: "花畑チャイカ at:YouTube Minecraft or スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube Magic: The Gathering Arena、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 0
+    min: 15
+  title: "家長むぎ at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 0
+    min: 30
+  title: "叶 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
     hour: 1
     min: 0
   title: "椎名唯華 at:YouTube"
@@ -339,6 +381,13 @@
   time:
     hour: 18
     min: 0
+  title: "出雲霞 at:YouTube プレミア公開"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 18
+    min: 0
   title: "戌亥とこ at:YouTube"
   end_time: 
   uri: 
@@ -347,6 +396,20 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 19
+    min: 0
+  title: "緑仙＆？？？ at:? ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -561,7 +624,7 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -575,7 +638,7 @@
   time:
     hour: 21
     min: 0
-  title: ChroNoiR(叶＆葛葉) at:?
+  title: ChroNoiR(叶＆葛葉) at:叶のYouTubeチャンネル 雑談 ※葛葉欠席
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -583,6 +646,13 @@
     hour: 21
     min: 0
   title: "舞元啓介＆大空スバル at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-17
+  time:
+    hour: 21
+    min: 10
+  title: "愛園愛美 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -603,7 +673,7 @@
   time:
     hour: 21
     min: 30
-  title: "雪城眞尋＆レヴィ・エリファ at:両名のYouTubeチャンネル マリオカート8 デラックス ※21時から時間変更"
+  title: "雪城眞尋＆レヴィ・エリファ at:両名のYouTubeチャンネル マリオカート8 デラックス ※21時から時間変更 ※延期"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -638,14 +708,14 @@
   time:
     hour: 22
     min: 0
-  title: "出雲霞 at:YouTube プレミア公開"
+  title: "御伽原江良 at:YouTube スーパーマリオメーカー2 ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-17
   time:
     hour: 22
-    min: 0
-  title: "御伽原江良 at:YouTube スーパーマリオメーカー2 ※翌日に延期"
+    min: 10
+  title: "雪城眞尋 at:YouTube 歌(ラブライブ！縛り)"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -673,7 +743,7 @@
   time:
     hour: 23
     min: 0
-  title: "物述有栖 at:YouTube 大掃除お茶会"
+  title: "物述有栖 at:YouTube House Flipper"
   end_time: 
   uri: 
 - date: 2019-07-17
@@ -692,17 +762,7 @@
   uri: 
 - date: 2019-07-17
   time: 
-  title: "？時？分～ 剣持刀也 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time: 
-  title: "？時？分～ 竜胆尊 at:YouTube メイド イン ワリオ"
-  end_time: 
-  uri: 
-- date: 2019-07-17
-  time: 
-  title: "？時？分～(夜) エクス・アルビオ at:YouTube Magic: The Gathering Arena?"
+  title: "？時？分～(仮) 竜胆尊 at:YouTube メイド イン ワリオ"
   end_time: 
   uri: 
 - date: 2019-07-17
