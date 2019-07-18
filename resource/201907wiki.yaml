@@ -39,6 +39,13 @@
   title: "緑仙 at:ニコニコ生放送"
   end_time: 
   uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:ChroNoiRのOPENREC.tvチャンネル くろのわTV 第九刻 結成1周年記念スペシャル
+  end_time: 
+  uri: 
 - date: 2019-07-25
   time:
     hour: 21
@@ -153,7 +160,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:YouTube 飲酒 ※7月14日の舞元力一#17にて告知"
+  title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:YouTube オンライン居酒屋"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -486,11 +493,6 @@
   end_time: 
   uri: 
 - date: 2019-07-18
-  time: 
-  title: "？時？分～(昼・仮) ドーラ at:YouTube ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-18
   time:
     hour: 18
     min: 0
@@ -502,13 +504,6 @@
     hour: 18
     min: 0
   title: "出雲霞 at:YouTube プレミア公開 【量産型出雲霞】妹を起動させてみました！"
-  end_time: 
-  uri: 
-- date: 2019-07-18
-  time:
-    hour: 18
-    min: 0
-  title: "瀬戸美夜子 at:YouTubee Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -536,7 +531,7 @@
   time:
     hour: 19
     min: 0
-  title: "リゼ・ヘルエスタ at:YouTube 雑談、マシュマロ返答?"
+  title: "リゼ・ヘルエスタ at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -550,7 +545,7 @@
   time:
     hour: 20
     min: 0
-  title: "える at:YouTube"
+  title: "える at:YouTube Minecraft、雑談"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -571,14 +566,14 @@
   time:
     hour: 20
     min: 0
-  title: "瀬戸美夜子 at:YouTube"
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 20
     min: 0
-  title: "ニュイ・ソシエール at:YouTube アマガミ"
+  title: "ニュイ・ソシエール at:YouTube アマガミ お絵描き ※内容変更"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -620,6 +615,13 @@
   time:
     hour: 21
     min: 30
+  title: "神田笑一 at:YouTube theHunter: Call of the Wild"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 21
+    min: 30
   title: "小野町春香 at:YouTube 実況パワフルプロ野球(Nintendo Switch版)"
   end_time: 
   uri: 
@@ -634,7 +636,8 @@
   time:
     hour: 22
     min: 0
-  title: "魔界ノりりむ＆椎名唯華＆鷹宮リオン＆でびでび・でびる＆白上フブキ＆湊あくあ＆因幡はねる＆日ノ隈らん at:? Project Winter"
+  title: "魔界ノりりむ＆椎名唯華＆鷹宮リオン＆でびでび・でびる＆白上フブキ＆湊あくあ＆因幡はねる＆日ノ隈らん at:YouTube Project Winter
+    ※延期"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -648,7 +651,7 @@
   time:
     hour: 22
     min: 0
-  title: "成瀬鳴 at:YouTube グランド・セフト・オートV"
+  title: "成瀬鳴 at:YouTube グランド・セフト・オートV Dead by Daylight ※内容変更"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -695,7 +698,7 @@
   uri: 
 - date: 2019-07-18
   time: 
-  title: "？時？分～ 神田笑一 at:YouTube"
+  title: "？時？分～ 黒井しば at:?"
   end_time: 
   uri: 
 - date: 2019-07-17
