@@ -270,21 +270,7 @@
   time:
     hour: 0
     min: 0
-  title: "(仮) 笹木咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-19
-  time:
-    hour: 0
-    min: 0
-  title: "ドーラ at:YouTube MARVEL ULTIMATE ALLIANCE 3: The Black Order ※予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-19
-  time:
-    hour: 0
-    min: 0
-  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア-"
+  title: "笹木咲 at:YouTube Fat Prisoner Simulator"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -310,9 +296,37 @@
   uri: 
 - date: 2019-07-19
   time:
+    hour: 0
+    min: 17
+  title: "エクス・アルビオ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 0
+    min: 30
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※0時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
     hour: 1
     min: 0
-  title: "夢月ロア at:YouTube"
+  title: "黒井しば at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 1
+    min: 5
+  title: "夢月ロア at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 2
+    min: 28
+  title: "鷹宮リオン at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -354,6 +368,13 @@
   time:
     hour: 19
     min: 0
+  title: "本間ひまわり at:YouTube プレミア公開 【地球滅亡60秒前】これが地球滅亡最後の日ってマァ～？"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 19
+    min: 0
   title: "三枝明那 at:YouTube"
   end_time: 
   uri: 
@@ -383,6 +404,13 @@
     hour: 21
     min: 0
   title: "ベルモンド・バンデラス at:YouTube 2.0お披露目"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) オカルト話"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -417,7 +445,7 @@
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ＆ゲスト：愛園愛美 at:花畑チャイカのYouTubeチャンネル 性癖グランプリ ※開始時刻：リマインダーより"
+  title: "花畑チャイカ＆ゲスト：愛園愛美 at:YouTube 性癖グランプリ ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -731,7 +759,7 @@
   time:
     hour: 23
     min: 0
-  title: "花畑チャイカ＆社築＆緑仙＆でびでび・でびる＆夢追翔＆エクス・エルビオ＆加賀美ハヤト at:社築のYouTubeチャンネル Magic: The
+  title: "花畑チャイカ＆社築＆緑仙＆でびでび・でびる＆夢追翔＆エクス・アルビオ＆加賀美ハヤト at:社築のYouTubeチャンネル Magic: The
     Gathering Arena"
   end_time: 
   uri: 
@@ -750,8 +778,10 @@
   end_time: 
   uri: 
 - date: 2019-07-18
-  time: 
-  title: "？時？分～ 黒井しば at:?"
+  time:
+    hour: 23
+    min: 58
+  title: "ドーラ at:YouTube MARVEL ULTIMATE ALLIANCE 3: The Black Order"
   end_time: 
   uri: 
 - date: 2019-07-17
