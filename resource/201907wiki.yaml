@@ -88,6 +88,13 @@
   uri: 
 - date: 2019-07-21
   time:
+    hour: 7
+    min: 0
+  title: "?～ 宇志海いちご＆物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
     hour: 13
     min: 0
   title: "出雲霞 at:YouTube 遙かなる時空の中で6"
@@ -243,7 +250,7 @@
   uri: 
 - date: 2019-07-20
   time: 
-  title: "？時？分～ 物述有栖 at:YouTube お茶会？"
+  title: "？時？分～ 宇志海いちご＆物述有栖 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -284,6 +291,13 @@
     hour: 0
     min: 0
   title: "(仮) レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ さっぱり系"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -445,9 +459,30 @@
   uri: 
 - date: 2019-07-18
   time:
+    hour: 15
+    min: 36
+  title: "エクス・アルビオ at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
     hour: 16
     min: 0
-  title: "ニュイ・ソシエール at:YouTube みんなで空気読み。"
+  title: "ニュイ・ソシエール at:YouTube みんなで空気読み。、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 17
+    min: 0
+  title: "夢追翔 at:YouTube 作業、晩御飯"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 17
+    min: 0
+  title: "夜見れな at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -456,22 +491,24 @@
   end_time: 
   uri: 
 - date: 2019-07-18
-  time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube スプラトゥーン2 or Apex Legends"
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:YouTube ※1時から時間変更"
+  title: "出雲霞 at:YouTube プレミア公開 【量産型出雲霞】妹を起動させてみました！"
   end_time: 
   uri: 
 - date: 2019-07-18
   time:
     hour: 18
     min: 0
-  title: "出雲霞 at:YouTube プレミア公開"
+  title: "瀬戸美夜子 at:YouTubee Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -485,7 +522,7 @@
   time:
     hour: 19
     min: 0
-  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！ ※中止"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -520,7 +557,7 @@
   time:
     hour: 20
     min: 0
-  title: "うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル? ロードモバイル(視聴者参加型)"
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル ロードモバイル(視聴者参加型)"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -597,7 +634,21 @@
   time:
     hour: 22
     min: 0
+  title: "魔界ノりりむ＆椎名唯華＆鷹宮リオン＆でびでび・でびる＆白上フブキ＆湊あくあ＆因幡はねる＆日ノ隈らん at:? Project Winter"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 22
+    min: 0
   title: "竜胆尊 at:bilibili 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-18
+  time:
+    hour: 22
+    min: 0
+  title: "成瀬鳴 at:YouTube グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-07-18
@@ -636,18 +687,15 @@
   end_time: 
   uri: 
 - date: 2019-07-18
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-18
   time: 
   title: "？時？分～ 神田笑一 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-18
-  time: 
-  title: "？時？分～ 成瀬鳴 at:YouTube グランド・セフト・オートV"
-  end_time: 
-  uri: 
-- date: 2019-07-18
-  time: 
-  title: "？時？分～ 矢車りね at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-17
