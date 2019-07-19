@@ -174,7 +174,7 @@
   time:
     hour: 1
     min: 0
-  title: "森中花咲 at:YouTube ※Twitterネームより"
+  title: "森中花咲 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -209,14 +209,14 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-20
   time:
     hour: 17
-    min: 0
-  title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
+    min: 30
+  title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2 ※17時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -265,6 +265,13 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 22
     min: 0
   title: "勇気ちひろ at:YouTube Minecraft"
@@ -292,11 +299,6 @@
 - date: 2019-07-20
   time: 
   title: "？時？分～ 宇志海いちご＆物述有栖 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-20
-  time: 
-  title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -534,7 +536,7 @@
   time:
     hour: 21
     min: 0
-  title: "勇気ちひろ＆える at:YouTube Apex Legends ※えるTwitterプロフィール欄より"
+  title: "勇気ちひろ＆える＆万楽えね at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -555,14 +557,7 @@
   time:
     hour: 22
     min: 0
-  title: "物述有栖 at:bilibili"
-  end_time: 
-  uri: 
-- date: 2019-07-19
-  time:
-    hour: 22
-    min: 0
-  title: "椎名唯華 at:YouTube モンスターハンター：ワールド"
+  title: "物述有栖 at:bilibili 歌"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -590,13 +585,6 @@
   time:
     hour: 22
     min: 30
-  title: "月見しずく at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-19
-  time:
-    hour: 22
-    min: 30
   title: "瀬戸美夜子＆羽地すずめ at:YouTube Apex Legends"
   end_time: 
   uri: 
@@ -605,6 +593,34 @@
     hour: 22
     min: 30
   title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 31
+  title: "月見しずく at:YouTube 雑談、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 49
+  title: "叶 at:YouTube Bloodborne"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 22
+    min: 56
+  title: "勇気ちひろ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 23
+    min: 0
+  title: "椎名唯華 at:YouTube モンスターハンター：ワールド うさぎパズル ※22時から時間＆内容変更"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -633,6 +649,20 @@
     hour: 23
     min: 30
   title: "葉山舞鈴 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 23
+    min: 41
+  title: "遠北千南 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 23
+    min: 45
+  title: "ジョー・力一 at:YouTube プレミア公開 小ネタ動画集４"
   end_time: 
   uri: 
 - date: 2019-07-18
