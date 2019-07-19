@@ -166,6 +166,13 @@
 - date: 2019-07-20
   time:
     hour: 0
+    min: 10
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 0
     min: 30
   title: "小野町春香 at:YouTube ASMR雑談"
   end_time: 
@@ -179,16 +186,30 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 1
+    min: 30
+  title: "エクス・アルビオ at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 2
+    min: 2
+  title: "魔界ノりりむ at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 4
     min: 0
-  title: " 緑仙 at:YouTube 歌(VOCALOID24時間) 後半戦 ※リマインダー＆予定表より"
+  title: "緑仙 at:YouTube 歌(VOCALOID24時間) 後半戦 ※リマインダー＆予定表より"
   end_time: 
   uri: 
 - date: 2019-07-20
   time:
     hour: 6
     min: 0
-  title: "鈴木勝 at:ツイキャス ※予定表・②より"
+  title: "鈴木勝 at:ツイキャス ジョギング or 筋トレ"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -202,7 +223,7 @@
   time:
     hour: 14
     min: 30
-  title: "出雲霞 at:YouTube 昼やスミ"
+  title: "出雲霞 at:YouTube 昼やスミ 氷菓子"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -221,9 +242,23 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 18
+    min: 0
+  title: "鈴木勝＆童田明治 at:鈴木勝のYouTube(2nd)チャンネル グランブルーファンタジー"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 19
+    min: 30
+  title: "笹木咲＆エクス・アルビオ＆ニュイ・ソシエール at:YouTube スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -250,9 +285,23 @@
   uri: 
 - date: 2019-07-20
   time:
+    hour: 20
+    min: 0
+  title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
     hour: 21
     min: 0
   title: "ド葛本社(本間ひまわり＆葛葉＆ドーラ＆社築) at:社築のYouTubeチャンネル ６時間耐久？！ ド葛本社 game night ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 21
+    min: 0
+  title: "鷹宮リオン at:YouTube 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -282,6 +331,20 @@
     hour: 22
     min: 0
   title: "ギバライカ(花畑チャイカ＆御伽原江良) at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 22
+    min: 0
+  title: "月見しずく at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 22
+    min: 0
+  title: "戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-20
