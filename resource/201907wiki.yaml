@@ -160,7 +160,7 @@
   time:
     hour: 0
     min: 0
-  title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:YouTube オンライン居酒屋"
+  title: "舞元啓介＆ジョー・力一＆ベルモンド・バンデラス＆天開司 at:舞元啓介のYouTubeチャンネル オンライン居酒屋"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -217,6 +217,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube バイオハザード6"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 20
+    min: 0
+  title: MC：アルコ&ピース＆加藤英美里＆野中藍＆高田憂希＆篠原なるみ＆月ノ美兎他 at:AbemaTV ドールズフロントライン1周年大感謝祭
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -368,7 +375,7 @@
   time:
     hour: 16
     min: 0
-  title: "魔界ノりりむ at:YouTube ポケットモンスター オメガルビー ※リマインダーより"
+  title: "魔界ノりりむ at:YouTube ポケットモンスター オメガルビー ※中止"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -380,9 +387,30 @@
   uri: 
 - date: 2019-07-19
   time:
+    hour: 17
+    min: 0
+  title: "文野環 at:YouTube 歌、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
     hour: 18
     min: 0
-  title: "夕陽リリ at:YouTube"
+  title: "月ノ美兎 at:bilibili BILIBILI MACRO LINK – VISUAL RELEASE 2019"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 18
+    min: 0
+  title: "夕陽リリ at:YouTube Totally Accurate Battle Simulator、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 18
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -397,6 +425,13 @@
     hour: 19
     min: 0
   title: "本間ひまわり at:YouTube プレミア公開 【地球滅亡60秒前】これが地球滅亡最後の日ってマァ～？"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 19
+    min: 0
+  title: "魔界ノりりむ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -473,14 +508,14 @@
   time:
     hour: 22
     min: 0
-  title: "御伽原江良 at:YouTube リズム天国ゴールド"
+  title: "葉加瀬冬雪＆夜見れな at:夜見れなのYouTubeチャンネル 雑談"
   end_time: 
   uri: 
 - date: 2019-07-19
   time:
     hour: 22
-    min: 0
-  title: "葉加瀬冬雪＆夜見れな at:夜見れなのYouTubeチャンネル 雑談"
+    min: 30
+  title: "瀬戸美夜子＆羽地すずめ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-19
@@ -502,6 +537,13 @@
     hour: 23
     min: 0
   title: "花畑チャイカ＆ゲスト：愛園愛美 at:YouTube 性癖グランプリ"
+  end_time: 
+  uri: 
+- date: 2019-07-19
+  time:
+    hour: 23
+    min: 0
+  title: "御伽原江良 at:YouTube リズム天国ゴールド ※22時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-19
