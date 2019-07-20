@@ -13,6 +13,13 @@
   title: "鈴木勝 at:YouTube(2nd) Episode0 ※開始時刻：※予定表・②より"
   end_time: 
   uri: 
+- date: 2019-07-29
+  time:
+    hour: 0
+    min: 0
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※予定表・②より"
+  end_time: 
+  uri: 
 - date: 2019-07-28
   time: 
   title: "？時？分～ 御伽原江良 at:YouTube 誕生日配信"
@@ -22,7 +29,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※予定表・②より"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -113,8 +120,24 @@
   end_time: 
   uri: 
 - date: 2019-07-21
-  time: 
-  title: "？時？分(前日コラボ後)～ 御伽原江良 at:?"
+  time:
+    hour: 3
+    min: 51
+  title: "御伽原江良 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 4
+    min: 3
+  title: "渋谷ハジメ at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 4
+    min: 40
+  title: "緑仙 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-21
@@ -156,7 +179,7 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ at:YouTube Apex Legends"
+  title: "勇気ちひろ＆夜見れな＆万楽えね at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-21
