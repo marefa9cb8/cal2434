@@ -97,7 +97,7 @@
   time:
     hour: 7
     min: 0
-  title: "?～ 宇志海いちご＆物述有栖 at:YouTube"
+  title: "宇志海いちご＆物述有栖 at:物述有栖のYouTubeチャンネル"
   end_time: 
   uri: 
 - date: 2019-07-21
@@ -242,16 +242,23 @@
   uri: 
 - date: 2019-07-20
   time:
-    hour: 14
+    hour: 12
     min: 0
-  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
+  title: "える at:YouTube ポケットモンスター Let's Go! イーブイ"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 12
+    min: 0
+  title: "魔界ノりりむ at:YouTube ポケットモンスター オメガルビー"
   end_time: 
   uri: 
 - date: 2019-07-20
   time:
     hour: 14
-    min: 30
-  title: "出雲霞 at:YouTube 昼やスミ 氷菓子"
+    min: 0
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -265,14 +272,35 @@
   time:
     hour: 16
     min: 0
-  title: "樋口楓 at:bilibili Minecraft ※0時配信にて告知"
+  title: "樋口楓 at:bilibili Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-20
   time:
     hour: 16
     min: 0
-  title: "緑仙 at:YouTube ※リマインダーより"
+  title: "夕陽リリ at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 16
+    min: 56
+  title: "エクス・アルビオ at:YouTube スプラトゥーン2"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 17
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 17
+    min: 30
+  title: "アリストロベリー(宇志海いちご＆物述有栖) at:宇志海いちごのYouTubeチャンネル お菓子作り ※16時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -283,8 +311,10 @@
   end_time: 
   uri: 
 - date: 2019-07-20
-  time: 
-  title: "？時？分(昼頃)～ える at:YouTube ※前日配信にて告知"
+  time:
+    hour: 17
+    min: 44
+  title: "緑仙 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -292,6 +322,13 @@
     hour: 18
     min: 0
   title: "鈴木勝＆童田明治 at:鈴木勝のYouTube(2nd)チャンネル グランブルーファンタジー"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 18
+    min: 30
+  title: "出雲霞 at:YouTube 昼やスミ 氷菓子 ※14時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -305,7 +342,7 @@
   time:
     hour: 19
     min: 30
-  title: "笹木咲＆エクス・アルビオ＆ニュイ・ソシエール at:YouTube スプラトゥーン2"
+  title: "笹木咲＆エクス・アルビオ＆ニュイ・ソシエール at:笹木咲、ニュイ・ソシエールのYouTubeチャンネル スプラトゥーン2"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -334,7 +371,28 @@
   time:
     hour: 20
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "戌亥とこ＆百鬼あやめ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 20
+    min: 5
+  title: "アリストロベリー(宇志海いちご＆物述有栖) at:宇志海いちごのYouTubeチャンネル Muse Dash"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 20
+    min: 30
+  title: "ちーかざちー(勇気ちひろ＆森中花咲) at:森中花咲のYouTubeチャンネル プレミア公開 【歌ってみた】magnet 森中花咲×勇気ちひろ【オリジナルMV】"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 21
+    min: 0
+  title: "アリストロベリー(宇志海いちご＆物述有栖) at:物述有栖のYouTubeチャンネル お菓子実食"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -357,6 +415,13 @@
     min: 0
   title: "夢追翔＆黒井しば+ゲスト：はるみや(小野町春香＆瀬戸美夜子) at:夢追翔のYouTubeチャンネル もやしばラジオ ゆめおとしばの雨にも負けず風にも負けず(めしまず)
     #9"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 21
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -391,7 +456,7 @@
   time:
     hour: 22
     min: 0
-  title: "戌亥とこ at:YouTube"
+  title: "成瀬鳴＆戌亥とこ＆皆守ひいろ＆星街すいせい at:YouTube Vあんスタ部 #4 「あんさんぶるスターズ！ 第二話」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -417,7 +482,7 @@
   uri: 
 - date: 2019-07-20
   time: 
-  title: "？時？分～ 宇志海いちご＆物述有栖 at:YouTube"
+  title: "？時？分(夜、仮)～ 葉加瀬冬雪 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-07-19
