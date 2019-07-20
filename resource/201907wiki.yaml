@@ -223,7 +223,14 @@
   time:
     hour: 6
     min: 0
-  title: "鈴木勝 at:ツイキャス ジョギング or 筋トレ"
+  title: "鈴木勝 at:ツイキャス ジョギング"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 6
+    min: 43
+  title: "鷹宮リオン at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -231,6 +238,13 @@
     hour: 10
     min: 0
   title: "桜凛月 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 14
+    min: 0
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -244,14 +258,21 @@
   time:
     hour: 16
     min: 0
-  title: "樋口楓 at:bilibili Minecraft ※20日0時～の配信で告知"
+  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-20
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ＆すもも(SUMOMOXqX) at:YouTube Apex Legends"
+  title: "樋口楓 at:bilibili Minecraft ※0時配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 16
+    min: 0
+  title: "緑仙 at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -259,6 +280,11 @@
     hour: 17
     min: 30
   title: "ニュイ・ソシエール at:YouTube スーパーマリオメーカー2 ※17時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time: 
+  title: "？時？分(昼頃)～ える at:YouTube ※前日配信にて告知"
   end_time: 
   uri: 
 - date: 2019-07-20
@@ -366,6 +392,20 @@
     hour: 22
     min: 0
   title: "戌亥とこ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 22
+    min: 0
+  title: "レヴィ・エリファ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-20
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube モンスターハンター：ワールド?"
   end_time: 
   uri: 
 - date: 2019-07-20
