@@ -69,6 +69,13 @@
   uri: 
 - date: 2019-07-23
   time:
+    hour: 0
+    min: 0
+  title: "剣持刀也: at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube THE IDOLM@STER 2 ※予定表より"
@@ -83,7 +90,7 @@
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "剣持刀也 at:YouTube ※翌日に延期"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -200,14 +207,21 @@
   time:
     hour: 16
     min: 0
-  title: "勇気ちひろ＆夜見れな＆万楽えね at:YouTube Apex Legends"
+  title: "勇気ちひろ＆夜見れな＆万楽えね at:各々のYouTubeチャンネル Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-21
   time:
     hour: 17
-    min: 0
+    min: 15
   title: "卯月コウ at:YouTube テニスの王子様 最強チームを結成せよ！"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 17
+    min: 43
+  title: "魔界ノりりむ at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-21
@@ -233,13 +247,6 @@
   uri: 
 - date: 2019-07-21
   time:
-    hour: 22
-    min: 0
-  title: "?～ 葉加瀬冬雪 at:YouTube お絵かき"
-  end_time: 
-  uri: 
-- date: 2019-07-21
-  time:
     hour: 23
     min: 0
   title: "椎名唯華＆ゲスト：名取さな at:YouTube しぃしぃラジオ 第6回"
@@ -250,6 +257,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 睡眠導入ASMR ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 23
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube お絵かき"
   end_time: 
   uri: 
 - date: 2019-07-21
