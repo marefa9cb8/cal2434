@@ -235,7 +235,7 @@
   time:
     hour: 1
     min: 30
-  title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ"
+  title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ(にじさんじ女性メンバープロデュース)"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -257,11 +257,6 @@
     hour: 7
     min: 30
   title: "出雲霞 at:YouTube いずもーにんぐ"
-  end_time: 
-  uri: 
-- date: 2019-07-22
-  time: 
-  title: "？時？分(朝・仮)～ 三枝明那 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -330,6 +325,20 @@
     hour: 22
     min: 0
   title: "(仮) 樋口楓 at:YouTube? 麻雀 ※Twitterプロフィール欄より"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 22
+    min: 0
+  title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ(にじさんじ女性メンバープロデュース)"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-22
