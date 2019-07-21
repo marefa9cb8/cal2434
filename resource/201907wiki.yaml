@@ -76,6 +76,13 @@
   uri: 
 - date: 2019-07-23
   time:
+    hour: 18
+    min: 0
+  title: SMC(葉加瀬冬雪＆加賀美ハヤト＆夜見れな) at:各々のYouTubeチャンネル スーパーマリオメーカー2
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
     hour: 21
     min: 0
   title: "ドーラ at:YouTube THE IDOLM@STER 2 ※予定表より"
@@ -105,6 +112,13 @@
     hour: 1
     min: 0
   title: "ジョー・力一 at:YouTube りきいちファーム #22"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！ フリー"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -233,9 +247,23 @@
   uri: 
 - date: 2019-07-21
   time:
+    hour: 19
+    min: 0
+  title: "黒井しば at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
     hour: 20
     min: 0
   title: "緑仙 at:YouTube プレミア公開 スイートマジック / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 21
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:bilibili PUBG
   end_time: 
   uri: 
 - date: 2019-07-21
@@ -263,14 +291,21 @@
   time:
     hour: 23
     min: 0
+  title: "鈴原るる at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 23
+    min: 0
   title: "葉加瀬冬雪 at:YouTube お絵かき"
   end_time: 
   uri: 
 - date: 2019-07-21
   time:
-    hour: 22
+    hour: 23
     min: 30
-  title: or23時00分～ 鈴原るる at:YouTube スーパーマリオメーカー2 or モンスターハンター：ワールド
+  title: "レヴィ・エリファ at:YouTube 告知"
   end_time: 
   uri: 
 - date: 2019-07-20
