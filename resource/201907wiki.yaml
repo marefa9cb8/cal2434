@@ -83,14 +83,28 @@
   time:
     hour: 0
     min: 0
-  title: "竜胆尊 at:YouTube 歌"
+  title: "剣持刀也 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-22
   time:
     hour: 0
     min: 0
-  title: "剣持刀也 at:YouTube"
+  title: "竜胆尊 at:YouTube 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #22"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube 5万人記念"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -201,6 +215,13 @@
     hour: 22
     min: 0
   title: "まほすず(勇気ちひろ＆鈴谷アキ)+ゲスト：もちひよこ at:勇気ちひろのYouTubeチャンネル まほすずラジオ #36"
+  end_time: 
+  uri: 
+- date: 2019-07-21
+  time:
+    hour: 22
+    min: 0
+  title: "?～ 葉加瀬冬雪 at:YouTube お絵かき"
   end_time: 
   uri: 
 - date: 2019-07-21
