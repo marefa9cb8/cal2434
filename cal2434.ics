@@ -15357,6 +15357,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190723T120000
+SUMMARY:愛園愛美 at:YouTube ひるまなラジオ Season2
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190723T120000
 SUMMARY:夜見れな at:YouTube Apex Legends
 URL:
 DESCRIPTION:
@@ -15429,6 +15435,12 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190723T220000
+SUMMARY:叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project Winter
+URL:
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Tokyo:20190723T220000
 SUMMARY:小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※開始時刻等：リマインダーより
 URL:
 DESCRIPTION:
@@ -15460,12 +15472,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Tokyo:20190723
 SUMMARY:？時？分(仮)～ 宇志海いちご at:YouTube
-URL:
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Tokyo:20190723
-SUMMARY:？時？分～ 叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project Winter
 URL:
 DESCRIPTION:
 END:VEVENT

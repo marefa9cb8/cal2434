@@ -328,6 +328,13 @@
   time:
     hour: 12
     min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ Season2"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 12
+    min: 0
   title: "夜見れな at:YouTube Apex Legends"
   end_time: 
   uri: 
@@ -412,6 +419,14 @@
   time:
     hour: 22
     min: 0
+  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project
+    Winter"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※開始時刻等：リマインダーより"
   end_time: 
   uri: 
@@ -444,12 +459,6 @@
 - date: 2019-07-23
   time: 
   title: "？時？分(仮)～ 宇志海いちご at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-23
-  time: 
-  title: "？時？分～ 叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project
-    Winter"
   end_time: 
   uri: 
 - date: 2019-07-23
