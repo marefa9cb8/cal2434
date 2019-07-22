@@ -1,6 +1,13 @@
 ---
 - date: 2019-07-31
   time:
+    hour: 0
+    min: 0
+  title: "緑仙 at:? こちらお悩み相談総合窓口 ※予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
@@ -53,6 +60,13 @@
     hour: 9
     min: 30
   title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 13
+    min: 0
+  title: "出雲霞 at:YouTube 遙かなる時空の中で6"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -151,6 +165,20 @@
   uri: 
 - date: 2019-07-26
   time:
+    hour: 20
+    min: 0
+  title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 0
+  title: "出雲霞 at:YouTube 寝かしつけ(お世話係メイドシチュエーション)"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR"
@@ -161,6 +189,13 @@
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 14
+    min: 0
+  title: "出雲霞 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -196,6 +231,13 @@
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 19
+    min: 0
+  title: "出雲霞 at:YouTube 歌公開録音"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -251,14 +293,49 @@
   time:
     hour: 0
     min: 30
+  title: "黒井しば at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 0
+    min: 46
   title: "三枝明那 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 1
+    min: 30
+  title: "エクス・アルビオ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 1
+    min: 55
+  title: "鷹宮リオン at:OPENREC.tv League of Legends Teamfight Tactics"
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 6
     min: 45
-  title: "小野町春香 at:YouTube 雑談"
+  title: "小野町春香 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 12
+    min: 0
+  title: "夜見れな at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 14
+    min: 0
+  title: "出雲霞 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -279,7 +356,28 @@
   time:
     hour: 20
     min: 0
+  title: "える at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 20
+    min: 0
+  title: "戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -307,12 +405,35 @@
   time:
     hour: 22
     min: 0
+  title: "月ノ美兎 at:YouTube Detroit: Become Human"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 22
+    min: 0
   title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※開始時刻等：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-23
-  time: 
-  title: "？時？分～ 月ノ美兎 at:YouTube Detroit: Become Human"
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 0
+  title: "物述有栖 at:YouTube バイノーラル ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 30
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -322,8 +443,18 @@
   uri: 
 - date: 2019-07-23
   time: 
+  title: "？時？分(仮)～ 宇志海いちご at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time: 
   title: "？時？分～ 叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project
     Winter"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time: 
+  title: "？時？分(仮)～ 神田笑一 at:YouTube 作業雑談?"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -587,7 +718,7 @@
   time:
     hour: 23
     min: 0
-  title: "叶 at:YouTube テスト配信(雑談)"
+  title: "叶 at:YouTube テスト配信(雑談、PUBG)"
   end_time: 
   uri: 
 - date: 2019-07-22
