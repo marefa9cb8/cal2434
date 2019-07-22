@@ -64,6 +64,13 @@
   uri: 
 - date: 2019-07-28
   time:
+    hour: 20
+    min: 0
+  title: "緑仙、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube 半年記念、雑談"
@@ -100,6 +107,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 20
+    min: 0
+  title: "出雲霞、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -186,6 +200,13 @@
   uri: 
 - date: 2019-07-24
   time:
+    hour: 19
+    min: 0
+  title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隅らん＆宗谷いちか at:YouTube Project Winter"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
     hour: 20
     min: 0
   title: "渋谷ハジメ at:YouTube スーパーマリオメーカー2"
@@ -196,6 +217,13 @@
     hour: 0
     min: 0
   title: "剣持刀也: at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 0
+    min: 0
+  title: "竜胆尊 at:YouTube 歌 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -377,14 +405,7 @@
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-22
-  time:
-    hour: 20
-    min: 0
-  title: "花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆夢追翔＆三枝明那 at:夢追翔のYouTubeチャンネル 第2回 大喜利人狼"
+  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -392,6 +413,13 @@
     hour: 20
     min: 0
   title: "葉山舞鈴＆ニュイ・ソシエール at:両名のYouTubeチャンネル Keep Talking and Nobody Explodes"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 20
+    min: 0
+  title: 11分～ 花畑チャイカ＆社築＆舞元啓介＆ジョー・力一＆夢追翔＆三枝明那 at:夢追翔のYouTubeチャンネル 第2回 大喜利人狼
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -418,8 +446,15 @@
 - date: 2019-07-22
   time:
     hour: 21
+    min: 5
+  title: "夢月ロア at:YouTube カレー作り"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -447,7 +482,7 @@
   time:
     hour: 22
     min: 0
-  title: "笹木咲＆椎名唯華＆湊あくあ＆猫又おかゆ at:?"
+  title: "笹木咲＆椎名唯華＆湊あくあ＆猫又おかゆ at:湊あくあのYouTubeチャンネル Ultimate Chicken Horse"
   end_time: 
   uri: 
 - date: 2019-07-22
@@ -461,6 +496,13 @@
   time:
     hour: 22
     min: 0
+  title: "月見しずく at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 22
+    min: 0
   title: "御伽原江良 at:YouTube アイドルマスター シンデレラガールズ スターライトステージ(にじさんじ女性メンバープロデュース)"
   end_time: 
   uri: 
@@ -468,17 +510,26 @@
   time:
     hour: 22
     min: 30
-  title: "鈴原るる at:YouTube"
+  title: "鈴原るる at:YouTube スーパードンキーコング3"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 23
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-22
+  time:
+    hour: 23
+    min: 30
+  title: "レヴィ・エリファ at:YouTube プレミア公開"
   end_time: 
   uri: 
 - date: 2019-07-22
   time: 
-  title: "？時？分(22時以降)～ 本間ひまわり at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-22
-  time: 
-  title: "？時？分(夜)～ 竜胆尊 at:YouTube 歌"
+  title: "？時？分(夜･仮)～ 鷹宮リオン at:?"
   end_time: 
   uri: 
 - date: 2019-07-21
