@@ -38,6 +38,13 @@
   time:
     hour: 0
     min: 0
+  title: "剣持刀也 at:YouTube SharpnessRadio"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※予定表・②より"
   end_time: 
   uri: 
@@ -298,8 +305,8 @@
 - date: 2019-07-24
   time:
     hour: 0
-    min: 0
-  title: 15分～ 鈴原るる at:YouTube スーパーマリオメーカー2
+    min: 15
+  title: "鈴原るる at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -327,7 +334,7 @@
   time:
     hour: 1
     min: 30
-  title: "魔界ノりりむ at:YouTube"
+  title: "魔界ノりりむ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -341,7 +348,7 @@
   time:
     hour: 6
     min: 45
-  title: "小野町春香 at:YouTube 雑談"
+  title: "小野町春香 at:YouTube スーパーマリオメーカー2?"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -349,6 +356,13 @@
     hour: 13
     min: 0
   title: "ニュイ・ソシエール at:YouTube 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 反省会"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -362,7 +376,14 @@
   time:
     hour: 19
     min: 0
-  title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隅らん＆宗谷いちか at:YouTube Project Winter"
+  title: "桜凛月 at:YouTube Minecraft ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 19
+    min: 0
+  title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隈らん＆宗谷いちか at:YouTube Project Winter"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -376,14 +397,21 @@
   time:
     hour: 20
     min: 0
-  title: "家長むぎ at:YouTube"
+  title: "鈴鹿詩子＆緑仙 at:鈴鹿詩子のYouTubeチャンネル プレミア公開 【緑仙君と鈴鹿ウタで】シンデレラガール / King&Prince 歌ってみた【cover】"
   end_time: 
   uri: 
 - date: 2019-07-24
   time:
     hour: 20
     min: 0
-  title: " 鈴鹿詩子＆緑仙 at:鈴鹿詩子のYouTubeチャンネル 歌動画プレミア公開　※23日の配信で告知"
+  title: "家長むぎ at:YouTube マシュマロ返答(厄介彼女なりきり)"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 20
+    min: 0
+  title: "でびでび・でびる at:YouTube(2nd) プレミア公開"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -397,7 +425,7 @@
   time:
     hour: 21
     min: 0
-  title: "出雲霞＆ニュイ・ソシエール＆葉加瀬冬雪＆夜見れな at:各々のYouTubeチャンネル? UNO"
+  title: "出雲霞＆ニュイ・ソシエール＆葉加瀬冬雪＆夜見れな at:各々のYouTubeチャンネル UNO"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -417,13 +445,25 @@
 - date: 2019-07-24
   time:
     hour: 23
+    min: 0
+  title: "?～ 鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
 - date: 2019-07-24
   time: 
-  title: "？時？分～(仮) 社築 at:YouTube"
+  title: "？時？分～(仮) 社築 at:YouTube ※7月24日の配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time: 
+  title: "？時？分～ 成瀬鳴 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-23
