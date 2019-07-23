@@ -271,14 +271,14 @@
   uri: 
 - date: 2019-07-25
   time: 
-  title: "？時？分～ 夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:各々のYouTubeチャンネル? ※7月23日の配信内で告知"
+  title: "？時？分～ 夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:？ ※7月23日の童田明治配信内で告知"
   end_time: 
   uri: 
 - date: 2019-07-24
   time:
     hour: 0
     min: 0
-  title: "ドーラ＆郡道美玲 at:両名のYouTubeチャンネル? モンスターハンター：ワールド"
+  title: "ドーラ＆郡道美玲 at:両名のYouTubeチャンネル? モンスターハンター：ワールド ※延期"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -292,14 +292,21 @@
   time:
     hour: 0
     min: 0
-  title: "鈴原るる at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  title: "葉加瀬冬雪 at:YouTube TETRIS 99"
   end_time: 
   uri: 
 - date: 2019-07-24
   time:
     hour: 0
     min: 0
-  title: "葉加瀬冬雪 at:YouTube TETRIS 99"
+  title: 15分～ 鈴原るる at:YouTube スーパーマリオメーカー2
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 0
+    min: 30
+  title: "エクス・アルビオ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -310,8 +317,17 @@
   end_time: 
   uri: 
 - date: 2019-07-24
-  time: 
-  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube Apex Legends"
+  time:
+    hour: 1
+    min: 0
+  title: "黒井しば at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 1
+    min: 30
+  title: "魔界ノりりむ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -367,6 +383,13 @@
   time:
     hour: 20
     min: 0
+  title: " 鈴鹿詩子＆緑仙 at:鈴鹿詩子のYouTubeチャンネル 歌動画プレミア公開　※23日の配信で告知"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 20
+    min: 0
   title: "瀬戸美夜子 at:YouTube PUBG"
   end_time: 
   uri: 
@@ -396,6 +419,11 @@
     hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time: 
+  title: "？時？分～(仮) 社築 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-23
