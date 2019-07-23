@@ -290,9 +290,23 @@
   uri: 
 - date: 2019-07-24
   time:
+    hour: 0
+    min: 0
+  title: "鈴原るる at:YouTube スーパーマリオメーカー2 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 0
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
     hour: 1
     min: 0
-  title: "椎名唯華 at:YouTube モンスターハンター：ワールド"
+  title: "椎名唯華 at:YouTube モンスターハンター：ワールド ※中止"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -312,6 +326,13 @@
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 13
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube 魔女の家"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -339,6 +360,13 @@
   time:
     hour: 20
     min: 0
+  title: "家長むぎ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 20
+    min: 0
   title: "瀬戸美夜子 at:YouTube PUBG"
   end_time: 
   uri: 
@@ -347,6 +375,20 @@
     hour: 21
     min: 0
   title: "出雲霞＆ニュイ・ソシエール＆葉加瀬冬雪＆夜見れな at:各々のYouTubeチャンネル? UNO"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -542,7 +584,7 @@
   time:
     hour: 20
     min: 0
-  title: 20分～ ドーラ at:YouTube THE IDOLM@STER 2 ※21時から時間変更
+  title: 20分～ ドーラ at:YouTube THE IDOLM@STER 2 ※21時から時間変更 ※機材不調により中止(配信準備中コメント欄より)
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -577,15 +619,14 @@
   time:
     hour: 22
     min: 0
-  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル？ Project
-    Winter"
+  title: "叶＆笹木咲＆葛葉＆椎名唯華＆アンジュ・カトリーナ＆リゼ・ヘルエスタ＆天開司＆ふぇありす at:各々のYouTubeチャンネル Project Winter"
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 22
     min: 0
-  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル Minecraft"
+  title: "小野町春香＆レヴィ・エリファ at:両名小野町春香のYouTubeチャンネル Minecraft ※中断"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -599,14 +640,7 @@
   time:
     hour: 23
     min: 0
-  title: "モイラ at:YouTube Minecraft?"
-  end_time: 
-  uri: 
-- date: 2019-07-23
-  time:
-    hour: 23
-    min: 0
-  title: "物述有栖 at:YouTube バイノーラル"
+  title: "物述有栖 at:YouTube バイノーラル(後輩シチュエーション)"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -621,6 +655,13 @@
     hour: 23
     min: 0
   title: "矢車りね at:YouTube 3万人記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 0
+  title: 13分～ モイラ at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-07-23
