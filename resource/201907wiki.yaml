@@ -116,6 +116,13 @@
   uri: 
 - date: 2019-07-27
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介＆ジョー・力一 at:YouTube 舞元力一 #18"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
@@ -152,6 +159,11 @@
   title: "？時？分～ レヴィ・エリファ at:YouTube  JUDGE EYES:死神の遺言"
   end_time: 
   uri: 
+- date: 2019-07-27
+  time: 
+  title: "？時？分～ 葉加瀬冬雪＆夜見れな at:? お絵描き?"
+  end_time: 
+  uri: 
 - date: 2019-07-26
   time:
     hour: 6
@@ -185,6 +197,13 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 22
+    min: 0
+  title: "葉加瀬冬雪＆夜見れな at:夜見れなのYouTubeチャンネル マジックラボ #3"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -238,6 +257,13 @@
   uri: 
 - date: 2019-07-25
   time:
+    hour: 22
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
     hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
@@ -271,7 +297,7 @@
   uri: 
 - date: 2019-07-24
   time: 
-  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube"
+  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -472,23 +498,23 @@
   uri: 
 - date: 2019-07-23
   time:
-    hour: 20
+    hour: 19
     min: 0
-  title: "える at:YouTube 夜廻?"
+  title: 10分～ 桜凛月＆月見しずく at:両名のYouTubeチャンネル Apex Legends
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 20
     min: 0
-  title: "笹木咲 at:YouTube"
+  title: "える at:YouTube 雑談、夜廻"
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:YouTube THE IDOLM@STER 2 ※21時から時間変更"
+  title: "笹木咲 at:YouTube Wii Party"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -514,6 +540,13 @@
   uri: 
 - date: 2019-07-23
   time:
+    hour: 20
+    min: 0
+  title: 20分～ ドーラ at:YouTube THE IDOLM@STER 2 ※21時から時間変更
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
     hour: 21
     min: 0
   title: "樋口楓 at:YouTube Minecraft"
@@ -530,7 +563,7 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge、雑談"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -552,14 +585,21 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft"
+  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 22
     min: 0
-  title: "鈴原るる at:YouTube"
+  title: "鈴原るる at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 0
+  title: "モイラ at:YouTube Minecraft?"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -573,14 +613,28 @@
   time:
     hour: 23
     min: 0
-  title: "矢車りね at:YouTube"
+  title: "社築 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 0
+  title: "矢車りね at:YouTube 3万人記念、雑談"
   end_time: 
   uri: 
 - date: 2019-07-23
   time:
     hour: 23
     min: 30
-  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険 ※リマインダーより"
+  title: "鈴鹿詩子 at:YouTube 16万人記念"
+  end_time: 
+  uri: 
+- date: 2019-07-23
+  time:
+    hour: 23
+    min: 30
+  title: "葉山舞鈴 at:YouTube バンジョーとカズーイの大冒険"
   end_time: 
   uri: 
 - date: 2019-07-22
