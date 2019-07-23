@@ -140,6 +140,11 @@
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
   uri: 
+- date: 2019-07-27
+  time: 
+  title: "？時？分～ レヴィ・エリファ at:YouTube  JUDGE EYES:死神の遺言"
+  end_time: 
+  uri: 
 - date: 2019-07-26
   time:
     hour: 6
@@ -218,6 +223,13 @@
   end_time: 
   uri: 
 - date: 2019-07-25
+  time:
+    hour: 23
+    min: 30
+  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
+  end_time: 
+  uri: 
+- date: 2019-07-25
   time: 
   title: "？時？分～ 夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:各々のYouTubeチャンネル? ※7月23日の配信内で告知"
   end_time: 
@@ -273,9 +285,23 @@
   uri: 
 - date: 2019-07-24
   time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
     hour: 21
     min: 0
   title: "出雲霞＆ニュイ・ソシエール＆葉加瀬冬雪＆夜見れな at:各々のYouTubeチャンネル? UNO"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
+    min: 30
+  title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
   end_time: 
   uri: 
 - date: 2019-07-23
@@ -458,7 +484,7 @@
   time:
     hour: 22
     min: 0
-  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft ※開始時刻等：リマインダーより"
+  title: "小野町春香＆レヴィ・エリファ at:両名のYouTubeチャンネル? Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-23
