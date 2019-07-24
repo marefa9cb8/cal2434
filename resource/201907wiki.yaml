@@ -157,6 +157,13 @@
   end_time: 
   uri: 
 - date: 2019-07-27
+  time:
+    hour: 21
+    min: 0
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:鈴鹿詩子のYouTubeチャンネル ※鈴鹿詩子の7月23日の配信で告知
+  end_time: 
+  uri: 
+- date: 2019-07-27
   time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
@@ -169,6 +176,13 @@
 - date: 2019-07-27
   time: 
   title: "？時？分～ 葉加瀬冬雪＆夜見れな at:? お絵描き?"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 6
+    min: 45
+  title: "伏見ガク at:YouTube おはガク！"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -360,6 +374,13 @@
   uri: 
 - date: 2019-07-24
   time:
+    hour: 12
+    min: 0
+  title: "本間ひまわり at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
     hour: 13
     min: 0
   title: "ニュイ・ソシエール at:YouTube 魔女の家"
@@ -391,6 +412,13 @@
     hour: 19
     min: 0
   title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隈らん＆宗谷いちか at:YouTube Project Winter"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 20
+    min: 0
+  title: 'YuNi＆ゲスト：樋口楓 at:Colon: YuNiのオールナイトニッポンi #3'
   end_time: 
   uri: 
 - date: 2019-07-24
