@@ -87,7 +87,7 @@
   time:
     hour: 19
     min: 0
-  title: "家長むぎ&童田明治 at:? スーパーマリオメーカー2 ※リマインダより"
+  title: "家長むぎ＆童田明治 at:? スーパーマリオメーカー2 ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -95,6 +95,27 @@
     hour: 20
     min: 0
   title: "緑仙、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 21
+    min: 0
+  title: "相羽ういは at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 21
+    min: 40
+  title: "アルス・アルマル at:YouTube ※初配信"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 22
+    min: 20
+  title: "黛灰 at:YouTube ※初配信"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -166,6 +187,13 @@
   end_time: 
   uri: 
 - date: 2019-07-27
+  time:
+    hour: 22
+    min: 0
+  title: "花畑チャイカ＆戌亥とこ＆レンチ＆粛正罰丸 at:レンチのYouTubeチャンネル Minecraft(仮想マイクラ部)"
+  end_time: 
+  uri: 
+- date: 2019-07-27
   time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
@@ -178,6 +206,13 @@
 - date: 2019-07-27
   time: 
   title: "？時？分～ 葉加瀬冬雪＆夜見れな at:? お絵描き?"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 0
+    min: 0
+  title: "夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:？ League of Legends ※リマインダー予定表より"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -264,9 +299,23 @@
   uri: 
 - date: 2019-07-25
   time:
+    hour: 0
+    min: 0
+  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル? PACIFY"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 12
+    min: 0
+  title: "夜見れな at:YouTube Apex Legends ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -301,6 +350,13 @@
   time:
     hour: 22
     min: 0
+  title: "ジョー・力一＆ゲスト：ドーラ at:ジョー・力一のYouTubeチャンネル ぱんぞう屋"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 22
+    min: 0
   title: "葉加瀬冬雪 at:YouTube"
   end_time: 
   uri: 
@@ -309,13 +365,6 @@
     hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
-  end_time: 
-  uri: 
-- date: 2019-07-25
-  time:
-    hour: 24
-    min: 0
-  title: "夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:？ League of Legends※リマインダより"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -413,7 +462,7 @@
   time:
     hour: 19
     min: 0
-  title: "笹木咲 at:YouTube スーパーマリオメーカー2"
+  title: 18時48分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -427,14 +476,15 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隈らん＆宗谷いちか at:大空スバル、癒月ちょこ、杏戸ゆげ、日ノ隈らん、宗谷いちかのYouTubeチャンネル
+    Project Winter"
   end_time: 
   uri: 
 - date: 2019-07-24
   time:
     hour: 19
     min: 0
-  title: "童田明治＆神楽めあ＆大空スバル＆癒月ちょこ＆獅子神レオナ＆杏戸ゆげ＆日ノ隈らん＆宗谷いちか at:YouTube Project Winter"
+  title: 13分～ 笹木咲 at:YouTube スーパーマリオメーカー2
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -476,7 +526,7 @@
   time:
     hour: 20
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd) プレミア公開"
+  title: "でびでび・でびる at:YouTube(2nd) プレミア公開 マリオ3ワールド1クリアまでの道"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -488,9 +538,23 @@
   uri: 
 - date: 2019-07-24
   time:
+    hour: 20
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 20
+    min: 0
+  title: "加賀美ハヤト at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
     hour: 21
     min: 0
-  title: "笹木咲＆？？？ at:？"
+  title: "笹木咲＆椎名唯華＆郡道美玲＆御伽原江良 at:各々のYouTubeチャンネル Gang Beasts"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -503,15 +567,43 @@
 - date: 2019-07-24
   time:
     hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+    min: 0
+  title: "神田笑一 at:YouTube Apex Legends、告知 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-24
   time:
     hour: 21
     min: 0
-  title: "叶&童田明治 at:? League of Legends ※リマインダより"
+  title: "成瀬鳴 at:YouTube マシュマロ返答"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd) Poly Bridge、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 22
+    min: 0
+  title: "叶＆童田明治 at:両名のYouTubeチャンネル? League of Legends ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 22
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 22
+    min: 0
+  title: "社築 at:YouTube キャプテン翼Ⅱ スーパーストライカー"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -525,7 +617,21 @@
   time:
     hour: 23
     min: 0
+  title: "物述有栖 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
+    min: 0
   title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
+    min: 0
+  title: "花畑チャイカ at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-24
@@ -538,18 +644,15 @@
 - date: 2019-07-24
   time:
     hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-24
+  time:
+    hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube 歌(VOCALOID)"
-  end_time: 
-  uri: 
-- date: 2019-07-24
-  time: 
-  title: "？時？分～(仮) 社築 at:YouTube ※7月24日の配信にて告知"
-  end_time: 
-  uri: 
-- date: 2019-07-24
-  time: 
-  title: "？時？分～ 成瀬鳴 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-23
