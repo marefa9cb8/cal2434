@@ -334,7 +334,7 @@
   time:
     hour: 0
     min: 0
-  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル? PACIFY"
+  title: "紅ズワイガニ(三枝明那＆愛園愛美) at:両名のYouTubeチャンネル Pacify"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -347,8 +347,15 @@
 - date: 2019-07-25
   time:
     hour: 0
-    min: 20
+    min: 21
   title: "葉加瀬冬雪 at:YouTube ゼルダの伝説 ブレス オブ ザ ワイルド"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 0
+    min: 30
+  title: "黒井しば at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -390,6 +397,13 @@
   time:
     hour: 20
     min: 0
+  title: "える at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 20
+    min: 0
   title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
   end_time: 
   uri: 
@@ -398,6 +412,13 @@
     hour: 21
     min: 0
   title: "シスター・クレア at:YouTube 3Dお披露目"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 21
+    min: 0
+  title: "御伽原江良 at:YouTube みんなで空気読み。"
   end_time: 
   uri: 
 - date: 2019-07-25
