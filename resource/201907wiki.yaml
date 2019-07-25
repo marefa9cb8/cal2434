@@ -268,15 +268,50 @@
 - date: 2019-07-26
   time:
     hour: 0
+    min: 21
+  title: "緑仙＆夢追翔＆加賀美ハヤト at:夢追翔のYouTubeチャンネル 反省会"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 0
+    min: 30
+  title: 35分～ レヴィ・エリファ at:YouTube ぼくのなつやすみ Minecraft ※前日23時半から時間＆内容変更
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 0
+    min: 36
+  title: "雪城眞尋 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 1
     min: 0
-  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ ※前日23時半から時間変更"
+  title: "魔界ノりりむ at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 1
+    min: 0
+  title: "夢月ロア at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 1
+    min: 45
+  title: "卯月コウ at:YouTube プレミア公開 卯月コウゴミ動画集（見るな）"
   end_time: 
   uri: 
 - date: 2019-07-26
   time:
     hour: 2
     min: 0
-  title: "魔界ノりりむ at:YouTube ポケットモンスター オメガルビー ※リマインダーより"
+  title: "卯月コウ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -353,6 +388,13 @@
   time:
     hour: 21
     min: 0
+  title: "鈴木勝 at:YouTube(2nd) プレミア公開 Sweet Devil、歌ってみた - 鈴木勝×Ruco"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 0
   title: "神田笑一＆雪城眞尋 at:両名のYouTubeチャンネル? マリオカート8 デラックス ※7月24日神田笑一配信にて告知"
   end_time: 
   uri: 
@@ -367,7 +409,21 @@
   time:
     hour: 22
     min: 0
+  title: "物述有栖 at:bilibili ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 22
+    min: 0
   title: "葉加瀬冬雪＆夜見れな at:夜見れなのYouTubeチャンネル マジックラボ #3"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube Cuphead or スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -389,6 +445,20 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube Shadowverse ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 30
+  title: "物述有栖 at:YouTube バイノーラル?(彼女シチュエーション) ※Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-26
