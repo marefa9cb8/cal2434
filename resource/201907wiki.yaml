@@ -20,6 +20,13 @@
   title: "桜凛月 at:YouTube 第3回 おひるンボ"
   end_time: 
   uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 0
+  title: "緑仙 at:bilibilii 歌 ※予定表より"
+  end_time: 
+  uri: 
 - date: 2019-07-30
   time:
     hour: 6
@@ -208,6 +215,13 @@
   end_time: 
   uri: 
 - date: 2019-07-27
+  time:
+    hour: 23
+    min: 0
+  title: "夜見れな at:YouTube 収益化記念 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-27
   time: 
   title: "？時？分～ 小野町春香＆？？？ at:?"
   end_time: 
@@ -231,6 +245,13 @@
   uri: 
 - date: 2019-07-26
   time:
+    hour: 0
+    min: 0
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！"
@@ -241,6 +262,13 @@
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 13
+    min: 0
+  title: "夜見れな at:YouTube 星のカービィ スターアライズ ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -269,6 +297,13 @@
     hour: 20
     min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube 3万人記念、ささやきバイノーラル"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -361,6 +396,13 @@
 - date: 2019-07-25
   time:
     hour: 3
+    min: 24
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 3
     min: 28
   title: "卯月コウ at:ツイキャス"
   end_time: 
@@ -374,9 +416,23 @@
   uri: 
 - date: 2019-07-25
   time:
+    hour: 9
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
     hour: 12
     min: 0
-  title: "夜見れな at:YouTube Apex Legends ※リマインダーより"
+  title: "愛園愛美 at:YouTube ひるまなラジオ Season2 #2"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 12
+    min: 0
+  title: "夜見れな at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -387,10 +443,22 @@
   end_time: 
   uri: 
 - date: 2019-07-25
+  time: 
+  title: "？時？分(夕方)～ ニュイ・ソシエール at:YouTube お絵かきorTETRIS 99、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-25
   time:
     hour: 19
     min: 0
   title: "神田笑一＆月見しずく at:両名のYouTubeチャンネル? Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -424,15 +492,15 @@
 - date: 2019-07-25
   time:
     hour: 21
-    min: 0
-  title: "御伽原江良 at:YouTube みんなで空気読み。"
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-25
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "雪城眞尋 at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -453,6 +521,13 @@
   time:
     hour: 22
     min: 0
+  title: "御伽原江良 at:YouTube みんなで空気読み。"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 22
+    min: 0
   title: "葉加瀬冬雪 at:YouTube"
   end_time: 
   uri: 
@@ -466,13 +541,20 @@
 - date: 2019-07-25
   time:
     hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube 収益化記念、雑談、マシュマロ返答 ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 23
     min: 30
   title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
   end_time: 
   uri: 
 - date: 2019-07-25
   time: 
-  title: "？時？分～ 雪城眞尋 at:YouTube スーパーマリオメーカー2"
+  title: "？時？分(夜・仮)～ 鈴鹿詩子 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-24
