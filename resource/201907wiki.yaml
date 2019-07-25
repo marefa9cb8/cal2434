@@ -254,7 +254,8 @@
   time:
     hour: 0
     min: 0
-  title: "夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:？ LJL感想会、League of Legends"
+  title: "夕陽リリ＆椎名唯華＆でびでび・でびる＆童田明治 at:各々のYouTubeチャンネル League of Legends Japan League感想会、League
+    of Legends"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -262,6 +263,13 @@
     hour: 0
     min: 0
   title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 0
+    min: 0
+  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ ※前日23時半から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -282,7 +290,14 @@
   time:
     hour: 6
     min: 45
-  title: "小野町春香 at:YouTube 雑談"
+  title: "小野町春香 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 9
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -304,6 +319,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 19
+    min: 0
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -332,6 +354,13 @@
     hour: 21
     min: 0
   title: "神田笑一＆雪城眞尋 at:両名のYouTubeチャンネル? マリオカート8 デラックス ※7月24日神田笑一配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -600,28 +629,28 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
   end_time: 
   uri: 
 - date: 2019-07-25
   time:
     hour: 21
     min: 30
-  title: "雪城眞尋 at:YouTube スーパーマリオメーカー2"
+  title: "雪城眞尋 at:YouTube スーパーマリオメーカー2 ※中止"
   end_time: 
   uri: 
 - date: 2019-07-25
   time:
     hour: 22
     min: 0
-  title: "樋口楓＆本間ひまわり at:両名のYouTubeチャンネル? Minecraft"
+  title: "樋口楓＆本間ひまわり at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-25
   time:
     hour: 22
     min: 0
-  title: ChroNoiR（叶＆葛葉) at:両名のYouTubeチャンネル? PUBG
+  title: ChroNoiR（叶＆葛葉) at:両名のYouTubeチャンネル PUBG
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -654,20 +683,6 @@
   uri: 
 - date: 2019-07-25
   time:
-    hour: 22
-    min: 0
-  title: "葉加瀬冬雪 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-25
-  time:
-    hour: 23
-    min: 0
-  title: "モイラ at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-07-25
-  time:
     hour: 23
     min: 0
   title: "轟京子 at:YouTube ギャル読み聞かせ"
@@ -683,18 +698,29 @@
 - date: 2019-07-25
   time:
     hour: 23
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube Ib"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 23
+    min: 26
+  title: "鈴原るる at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 23
     min: 30
-  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
+  title: "モイラ at:YouTube Minecraft ※23時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-25
-  time: 
-  title: "？時？分(夜・仮)～ 鈴鹿詩子 at:YouTube Minecraft"
-  end_time: 
-  uri: 
-- date: 2019-07-25
-  time: 
-  title: "？時？分(雑談後)～ 鈴原るる at:YouTube スーパーマリオメーカー2"
+  time:
+    hour: 23
+    min: 0
+  title: 42分～ 鈴鹿詩子 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-07-24
