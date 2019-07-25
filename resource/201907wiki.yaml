@@ -38,7 +38,7 @@
   time:
     hour: 21
     min: 0
-  title: "出雲霞 at:YouTube 4万人記念 ※リマインダーより"
+  title: "出雲霞 at:YouTube 4万人記念"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -451,14 +451,30 @@
   uri: 
 - date: 2019-07-25
   time:
+    hour: 12
+    min: 30
+  title: "鷹宮リオン at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
     hour: 14
     min: 0
   title: "出雲霞 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-25
-  time: 
-  title: "？時？分(夕方)～ ニュイ・ソシエール at:YouTube お絵かきorTETRIS 99、雑談"
+  time:
+    hour: 17
+    min: 0
+  title: "ニュイ・ソシエール at:YouTube お絵かき、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
+    hour: 18
+    min: 0
+  title: "リゼ・ヘルエスタ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-25
@@ -484,9 +500,16 @@
   uri: 
 - date: 2019-07-25
   time:
+    hour: 19
+    min: 0
+  title: "愛園愛美 at:YouTube 「アイカツ！」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-25
+  time:
     hour: 20
     min: 0
-  title: "月ノ美兎 at:YouTube ※Twitterネームより"
+  title: '19時30分～ 月ノ美兎 at:YouTube Detroit: Become Human'
   end_time: 
   uri: 
 - date: 2019-07-25
