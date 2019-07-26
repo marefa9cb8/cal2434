@@ -363,6 +363,13 @@
   time:
     hour: 13
     min: 0
+  title: "?～ ドーラ at:SHOWROOM テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 13
+    min: 0
   title: "夜見れな at:YouTube 星のカービィ スターアライズ ※リマインダーより"
   end_time: 
   uri: 
@@ -384,7 +391,7 @@
   time:
     hour: 19
     min: 0
-  title: "桜凛月 at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  title: "桜凛月 at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -412,6 +419,13 @@
   time:
     hour: 21
     min: 0
+  title: "伏見ガク at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) プレミア公開 Sweet Devil、歌ってみた - 鈴木勝×Ruco"
   end_time: 
   uri: 
@@ -419,7 +433,7 @@
   time:
     hour: 21
     min: 0
-  title: "神田笑一＆雪城眞尋 at:両名のYouTubeチャンネル? マリオカート8 デラックス ※7月24日神田笑一配信にて告知"
+  title: "神田笑一＆雪城眞尋 at:両名のYouTubeチャンネル? マリオカート8 デラックス"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -468,7 +482,7 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube ASMR"
+  title: "小野町春香 at:YouTube ASMR(後輩シチュエーション)"
   end_time: 
   uri: 
 - date: 2019-07-26
