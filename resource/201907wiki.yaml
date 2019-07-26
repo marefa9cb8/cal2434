@@ -208,6 +208,13 @@
   end_time: 
   uri: 
 - date: 2019-07-27
+  time:
+    hour: 15
+    min: 0
+  title: "葉加瀬冬雪＆夜見れな at:? お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-07-27
   time: 
   title: "？時？分(昼頃・仮)～ エクス・アルビオ at:YouTube"
   end_time: 
@@ -260,11 +267,6 @@
 - date: 2019-07-27
   time: 
   title: "？時？分～ ニュイ・ソシエール at:YouTube スーパーマリオメーカー2"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time: 
-  title: "？時？分～ 葉加瀬冬雪＆夜見れな at:? お絵描き?"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -354,6 +356,13 @@
   uri: 
 - date: 2019-07-26
   time:
+    hour: 9
+    min: 22
+  title: "緑仙 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
     hour: 12
     min: 0
   title: "愛園愛美 at:YouTube ひるまなラジオ Season2 #3"
@@ -392,6 +401,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル？ ロードモバイル ※配信時刻は森中花咲のTwitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -506,7 +522,7 @@
   uri: 
 - date: 2019-07-26
   time: 
-  title: "？時？分～ うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル？ ロードモバイル"
+  title: "？時？分（夜・仮）～ 安土桃 at:?"
   end_time: 
   uri: 
 - date: 2019-07-26
