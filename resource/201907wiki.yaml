@@ -183,6 +183,13 @@
   time:
     hour: 0
     min: 0
+  title: "樋口楓 at:bilibili Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 0
+    min: 0
   title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
@@ -449,7 +456,7 @@
   time:
     hour: 20
     min: 0
-  title: "うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル？ ロードモバイル ※配信時刻は森中花咲のTwitterネームより"
+  title: "うたかざ(鈴鹿詩子＆森中花咲) at:両名のYouTubeチャンネル ロードモバイル"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -464,6 +471,13 @@
     hour: 20
     min: 0
   title: "笹木咲 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
+  title: 21時00分～ 安土桃 at:YouTube
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -489,6 +503,20 @@
   uri: 
 - date: 2019-07-26
   time:
+    hour: 20
+    min: 43
+  title: "町田ちま at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 0
+  title: "（仮）～ 樋口楓 at:YouTube HITMAN"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
     hour: 21
     min: 0
   title: "伏見ガク at:YouTube モンスターハンター：ワールド ※リマインダーより"
@@ -499,6 +527,20 @@
     hour: 21
     min: 0
   title: "本間ひまわり at:YouTube オンラインクレーンゲーム トレバ"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
+  title: 21時00分～ 安土桃 at:YouTube
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 0
+  title: "安土桃 at:YouTube ※20時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -540,7 +582,7 @@
   time:
     hour: 22
     min: 30
-  title: "鈴原るる at:YouTube Cuphead or スーパーマリオメーカー2"
+  title: "鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -597,11 +639,6 @@
     hour: 23
     min: 30
   title: "物述有栖 at:YouTube ASMR(彼女シチュエーション)"
-  end_time: 
-  uri: 
-- date: 2019-07-26
-  time: 
-  title: "？時？分（夜・仮）～ 樋口楓 at:? ※Twitter自己紹介欄より"
   end_time: 
   uri: 
 - date: 2019-07-26
