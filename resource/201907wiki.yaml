@@ -230,6 +230,13 @@
   time:
     hour: 20
     min: 0
+  title: "伏見ガク at:YouTube 蒼き雷霆 ガンヴォルト ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
   end_time: 
   uri: 
@@ -238,6 +245,13 @@
     hour: 21
     min: 0
   title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:鈴鹿詩子のYouTubeチャンネル ※鈴鹿詩子の7月23日の配信で告知
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
+    min: 0
+  title: "月ノ美兎 at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -372,14 +386,21 @@
   time:
     hour: 13
     min: 0
-  title: "?～ ドーラ at:SHOWROOM テスト配信"
+  title: "夜見れな at:YouTube 星のカービィ スターアライズ"
   end_time: 
   uri: 
 - date: 2019-07-26
   time:
     hour: 13
+    min: 30
+  title: "ドーラ at:SHOWROOM テスト配信"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 14
     min: 0
-  title: "夜見れな at:YouTube 星のカービィ スターアライズ ※リマインダーより"
+  title: "出雲霞 at:YouTube ファイアーエムブレム 風花雪月"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -387,6 +408,13 @@
     hour: 17
     min: 0
   title: "緑仙 at:ニコニコ生放送"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -401,6 +429,13 @@
     hour: 19
     min: 0
   title: "桜凛月 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 19
+    min: 0
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -429,6 +464,13 @@
     hour: 20
     min: 0
   title: "瀬戸美夜子 at:YouTube 3万人記念、ささやきバイノーラル"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 40
+  title: "?～ 葉加瀬冬雪 at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -484,6 +526,13 @@
   time:
     hour: 23
     min: 0
+  title: "える at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 0
   title: "出雲霞 at:YouTube 寝かしつけ(お世話係メイドシチュエーション)"
   end_time: 
   uri: 
@@ -512,7 +561,14 @@
   time:
     hour: 23
     min: 30
-  title: "物述有栖 at:YouTube バイノーラル?(彼女シチュエーション) ※Twitterネームより"
+  title: "モイラ at:YouTube Minecraft ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 30
+  title: "物述有栖 at:YouTube ASMR(彼女シチュエーション)"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -526,15 +582,8 @@
   end_time: 
   uri: 
 - date: 2019-07-26
-  time:
-    hour: 18
-    min: 0
-  title: "(仮)～ エクス・アルビオ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-26
   time: 
-  title: "？時？分～ エクス・アルビオ at:YouTube"
+  title: "？時？分～ リゼ・ヘルエスタ at:bilibili ※7月25日の配信で告知"
   end_time: 
   uri: 
 - date: 2019-07-25
