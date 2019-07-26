@@ -183,7 +183,7 @@
   time:
     hour: 0
     min: 0
-  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア- ※予定表・②より"
+  title: "鈴木勝 at:YouTube(2nd) LITTLE NIGHTMARES-リトルナイトメア-"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -414,7 +414,14 @@
   time:
     hour: 17
     min: 0
-  title: "エクス・アルビオ at:YouTube"
+  title: "エクス・アルビオ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:bilibili Overwatch"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -456,6 +463,13 @@
   time:
     hour: 20
     min: 0
+  title: "笹木咲 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞 at:YouTube セブンスドラゴン2020"
   end_time: 
   uri: 
@@ -478,6 +492,13 @@
     hour: 21
     min: 0
   title: "伏見ガク at:YouTube モンスターハンター：ワールド ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube オンラインクレーンゲーム トレバ"
   end_time: 
   uri: 
 - date: 2019-07-26
@@ -548,6 +569,13 @@
     hour: 23
     min: 0
   title: "小野町春香 at:YouTube ASMR(後輩シチュエーション)"
+  end_time: 
+  uri: 
+- date: 2019-07-26
+  time:
+    hour: 23
+    min: 0
+  title: "愛園愛美＆うさます at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-26
