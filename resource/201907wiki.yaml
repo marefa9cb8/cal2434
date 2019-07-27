@@ -87,6 +87,13 @@
   time:
     hour: 6
     min: 45
+  title: "伏見ガク at:YouTube おはガク！ 海苔系"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 6
+    min: 45
   title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
@@ -122,7 +129,14 @@
   time:
     hour: 0
     min: 0
-  title: "(仮)～ 笹木咲 at:YouTube"
+  title: "笹木咲 at:YouTube マシュマロ返答、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 0
+    min: 0
+  title: "こあくまん(魔界ノりりむ＆夢月ロア) at:?"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -130,6 +144,13 @@
     hour: 0
     min: 0
   title: "出雲霞 at:YouTube ファイアーエムブレム 風花雪月"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 0
+    min: 0
+  title: "黒井しば at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -144,6 +165,11 @@
     hour: 2
     min: 0
   title: "渋谷ハジメ at:YouTube ラグナロク マスターズ"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time: 
+  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube おえかきの森"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -214,6 +240,13 @@
     hour: 19
     min: 0
   title: "家長むぎ＆童田明治 at:? スーパーマリオメーカー2 ※リマインダー予定表より ※延期"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 19
+    min: 0
+  title: "月見しずく at:YouTube 2万人記念、歌"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -556,7 +589,7 @@
   time:
     hour: 21
     min: 0
-  title: 'BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓: at:各々のYouTubeチャンネル Minecraft'
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:各々のYouTubeチャンネル Minecraft
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -564,20 +597,6 @@
     hour: 21
     min: 0
   title: "家長むぎ＆小野町春香 at:小野町春香のYouTubeチャンネル ASMR"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time:
-    hour: 21
-    min: 30
-  title: "ドーラ at:YouTube VA-11 Hall-A ※21時から時間変更"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time:
-    hour: 21
-    min: 0
-  title: "社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔＆？？？ at:安土桃のYouTubeチャンネル カレー作り ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -603,6 +622,20 @@
   uri: 
 - date: 2019-07-27
   time:
+    hour: 21
+    min: 30
+  title: "ドーラ at:YouTube VA-11 Hall-A ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 21
+    min: 0
+  title: 41分～ 社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔 at:安土桃のYouTubeチャンネル 緑仙のツイキャス カレー作り ※配信場所変更
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
     hour: 22
     min: 0
   title: "月ノ美兎 at:YouTube Detroit: Become Human"
@@ -619,7 +652,28 @@
   time:
     hour: 22
     min: 0
+  title: "竜胆尊 at:bilibili 魔女の家"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
+    min: 0
   title: "月見しずく at:YouTube 告知、雑談、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
+    min: 30
+  title: "叶 at:YouTube PUBG、League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
+    min: 30
+  title: "シスター・クレア at:YouTube 3Dお披露目振り返り"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -633,21 +687,7 @@
   time:
     hour: 23
     min: 0
-  title: "葛葉 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time:
-    hour: 23
-    min: 0
-  title: "(仮)～ シスター・クレア at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time:
-    hour: 23
-    min: 0
-  title: "郡道美玲＆葉山舞鈴 at:両名のYouTubeチャンネル Dead by Daylight"
+  title: "葛葉 at:YouTube PUBG"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -660,8 +700,15 @@
 - date: 2019-07-27
   time:
     hour: 23
+    min: 0
+  title: 11分～ 郡道美玲＆葉山舞鈴 at:両名のYouTubeチャンネル Dead by Daylight
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 23
     min: 30
-  title: "御伽原江良 at:YouTube 誕生日配信 ※リマインダーより"
+  title: "御伽原江良 at:YouTube 誕生日配信"
   end_time: 
   uri: 
 - date: 2019-07-27
