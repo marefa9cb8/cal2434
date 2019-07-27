@@ -351,6 +351,13 @@
 - date: 2019-07-27
   time:
     hour: 6
+    min: 0
+  title: "御伽原江良 at:OPENREC.tv"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 6
     min: 45
   title: "小野町春香 at:YouTube スーパーマリオメーカー2"
   end_time: 
@@ -359,7 +366,21 @@
   time:
     hour: 7
     min: 0
-  title: "ドーラ at:SHOWROOM 歌"
+  title: "ドーラ at:SHOWROOM 歌 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 7
+    min: 11
+  title: "三枝明那 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 10
+    min: 0
+  title: "桜凛月 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -448,14 +469,21 @@
   time:
     hour: 21
     min: 0
-  title: "葉加瀬冬雪 at:YouTube"
+  title: "舞元啓介 at:YouTube 新衣装お披露目 ※中止の可能性あり"
   end_time: 
   uri: 
 - date: 2019-07-27
   time:
     hour: 21
-    min: 30
-  title: "アンジュ・カトリーナ at:YouTube Minecraft"
+    min: 0
+  title: "-30分頃～ アンジュ・カトリーナ at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 21
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-27
