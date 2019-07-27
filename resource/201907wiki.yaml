@@ -380,7 +380,7 @@
   time:
     hour: 10
     min: 0
-  title: "桜凛月 at:YouTube Minecraft"
+  title: 09時50分～ 桜凛月 at:YouTube Minecraft
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -395,6 +395,13 @@
     hour: 13
     min: 0
   title: "ドーラ at:SHOWROOM 昼食"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 13
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -505,6 +512,13 @@
     hour: 23
     min: 0
   title: "夜見れな at:YouTube 収益化記念 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 23
+    min: 30
+  title: "御伽原江良 at:YouTube 誕生日配信 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-27
