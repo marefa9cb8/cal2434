@@ -192,6 +192,13 @@
   time:
     hour: 14
     min: 0
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 14
+    min: 0
   title: "加賀美ハヤト＆夜見れな at:加賀美ハヤトのYouTubeチャンネル スーパーマリオメーカー2"
   end_time: 
   uri: 
@@ -218,16 +225,16 @@
   uri: 
 - date: 2019-07-28
   time:
-    hour: 20
-    min: 0
-  title: "緑仙、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
+    hour: 19
+    min: 30
+  title: "ニュイ・ソシエール at:YouTube  お絵描き"
   end_time: 
   uri: 
 - date: 2019-07-28
   time:
     hour: 20
     min: 0
-  title: "ニュイ・ソシエール at:YouTube  お絵描き"
+  title: "緑仙、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -477,8 +484,15 @@
 - date: 2019-07-27
   time:
     hour: 18
-    min: 0
+    min: 11
   title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 18
+    min: 42
+  title: "安土桃 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -486,6 +500,20 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube Rainbow Six Siege"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 19
+    min: 0
+  title: "夕陽リリ at:YouTube League of Legends解説"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 19
+    min: 0
+  title: 30分～ エクス・アルビオ at:YouTube PUBG
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -500,7 +528,7 @@
   time:
     hour: 20
     min: 0
-  title: "伏見ガク at:YouTube 蒼き雷霆 ガンヴォルト ※リマインダーより"
+  title: "伏見ガク at:YouTube 蒼き雷霆 ガンヴォルト"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -514,6 +542,13 @@
   time:
     hour: 20
     min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 20
+    min: 0
   title: "出雲霞、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
   end_time: 
   uri: 
@@ -521,7 +556,7 @@
   time:
     hour: 21
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:鈴鹿詩子のYouTubeチャンネル
+  title: 'BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓: at:各々のYouTubeチャンネル Minecraft'
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -534,8 +569,15 @@
 - date: 2019-07-27
   time:
     hour: 21
+    min: 30
+  title: "ドーラ at:YouTube VA-11 Hall-A ※21時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 21
     min: 0
-  title: "ドーラ at:YouTube VA-11 Hall-A"
+  title: "社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔＆？？？ at:安土桃のYouTubeチャンネル カレー作り ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -556,7 +598,7 @@
   time:
     hour: 21
     min: 0
-  title: "葉加瀬冬雪 at:YouTube"
+  title: "葉加瀬冬雪 at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -576,8 +618,36 @@
 - date: 2019-07-27
   time:
     hour: 22
+    min: 0
+  title: "月見しずく at:YouTube 告知、雑談、Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
     min: 30
   title: "鈴原るる at:YouTube 怪談話"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 23
+    min: 0
+  title: "葛葉 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ シスター・クレア at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 23
+    min: 0
+  title: "郡道美玲＆葉山舞鈴 at:両名のYouTubeチャンネル Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -596,29 +666,7 @@
   uri: 
 - date: 2019-07-27
   time: 
-  title: "？時？分～ 夕陽リリ at:? League of Legends 解説"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time: 
   title: "？時？分(深夜)～ ドーラ at:SHOWROOM"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time: 
-  title: "？時？分～ 安土桃 at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time: 
-  title: "？時？分～ 社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔 at:? カレー ※26日安土桃配信にて告知"
-  end_time: 
-  uri: 
-- date: 2019-07-27
-  time:
-    hour: 18
-    min: 0
-  title: or19時00分～ エクス・アルビオ at:YouTube
   end_time: 
   uri: 
 - date: 2019-07-27
