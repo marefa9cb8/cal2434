@@ -122,7 +122,7 @@
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 葉加瀬冬雪 at:YouTube 収益化記念"
+  title: "葉加瀬冬雪 at:YouTube 収益化記念、雑談"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -135,28 +135,42 @@
 - date: 2019-07-28
   time:
     hour: 0
-    min: 0
-  title: "こあくまん(魔界ノりりむ＆夢月ロア) at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time:
-    hour: 0
-    min: 0
-  title: "出雲霞 at:YouTube ファイアーエムブレム 風花雪月"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time:
-    hour: 0
-    min: 0
+    min: 8
   title: "黒井しば at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
   time:
-    hour: 1
+    hour: 0
     min: 0
+  title: 15分～ 出雲霞 at:YouTube ファイアーエムブレム 風花雪月
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 0
+    min: 0
+  title: 19分～ こあくまん(魔界ノりりむ＆夢月ロア) at:魔界ノりりむのYouTubeチャンネル Emily Wants to Play
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 1
+    min: 2
+  title: "エクス・アルビオ at:YouTube おえかきの森"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 1
+    min: 16
+  title: "郡道美玲 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 1
+    min: 22
   title: "雨森小夜 at:YouTube 雑談"
   end_time: 
   uri: 
@@ -165,18 +179,6 @@
     hour: 2
     min: 0
   title: "渋谷ハジメ at:YouTube ラグナロク マスターズ"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分(深夜・仮)～ エクス・アルビオ at:YouTube おえかきの森"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time:
-    hour: 6
-    min: 45
-  title: "小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -190,7 +192,14 @@
   time:
     hour: 9
     min: 30
-  title: "小野町春香 at:YouTube とびだせ どうぶつの森"
+  title: "小野町春香 at:YouTube とびだせ どうぶつの森 ※6時45分から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 11
+    min: 0
+  title: "える＆家長むぎ at:家長むぎのYouTubeチャンネル 料理"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -316,17 +325,29 @@
   time:
     hour: 23
     min: 0
-  title: "小野町春香 at:YouTube 半年記念、雑談"
+  title: "小野町春香 at:YouTube 半年記念、雑談 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 23
+    min: 0
+  title: "鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
 - date: 2019-07-28
   time: 
-  title: "？時？分～ える＆家長むぎ at:家長むぎのYouTubeチャンネル"
+  title: "？時？分(深夜)～ アリストロベリー(宇志海いちご＆物述有栖) at:物述有栖のYouTubeチャンネル? お泊り会、バイノーラル"
   end_time: 
   uri: 
 - date: 2019-07-28
   time: 
   title: "？時？分(～21時)～ ドーラ at:SHOWROOM"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time: 
+  title: "？時？分(夜・仮)～ 春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -337,6 +358,11 @@
 - date: 2019-07-28
   time: 
   title: "？時？分～ 御伽原江良 at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time: 
+  title: "？時？分(仮)～ 鈴原るる at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -624,7 +650,7 @@
   time:
     hour: 21
     min: 30
-  title: "ドーラ at:YouTube VA-11 Hall-A ※21時から時間変更"
+  title: "ドーラ at:YouTube VA-11 Hall-A ※21時から時間変更 ※中止"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -708,12 +734,12 @@
   time:
     hour: 23
     min: 30
-  title: "御伽原江良 at:YouTube 誕生日配信"
+  title: "御伽原江良 at:YouTube 誕生日カウントダウン"
   end_time: 
   uri: 
 - date: 2019-07-27
   time: 
-  title: "？時？分(深夜)～ ドーラ at:SHOWROOM"
+  title: "？時？分(深夜)～ ドーラ at:SHOWROOM ※中止"
   end_time: 
   uri: 
 - date: 2019-07-27
