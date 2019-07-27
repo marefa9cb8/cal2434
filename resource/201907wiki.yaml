@@ -111,6 +111,20 @@
   title: "鈴木あんず＆白藤環＆日向奈央＆ゲスト：ドーラ at:えのぐのYouTubeチャンネル えのぐはバーチャルタレントとお話ししたい！第二弾"
   end_time: 
   uri: 
+- date: 2019-07-29
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ 葉加瀬冬雪 at:YouTube 収益化記念"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 0
+    min: 0
+  title: "(仮)～ 笹木咲 at:YouTube"
+  end_time: 
+  uri: 
 - date: 2019-07-28
   time:
     hour: 0
@@ -123,6 +137,13 @@
     hour: 1
     min: 0
   title: "雨森小夜 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 2
+    min: 0
+  title: "渋谷ハジメ at:YouTube ラグナロク マスターズ"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -235,6 +256,13 @@
     hour: 23
     min: 0
   title: "ドーラ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 23
+    min: 0
+  title: "社築 at:YouTube beatmaniaⅡDX INFINITAS"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -436,7 +464,7 @@
   time:
     hour: 15
     min: 0
-  title: "葉加瀬冬雪＆夜見れな at:両名のYouTubeチャンネル お絵描き"
+  title: 20分～ 葉加瀬冬雪＆夜見れな at:両名のYouTubeチャンネル お絵描き
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -447,8 +475,10 @@
   end_time: 
   uri: 
 - date: 2019-07-27
-  time: 
-  title: "？時？分(昼頃・仮)～ エクス・アルビオ at:YouTube"
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -471,6 +501,13 @@
     hour: 20
     min: 0
   title: "伏見ガク at:YouTube 蒼き雷霆 ガンヴォルト ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 20
+    min: 0
+  title: "笹木咲 at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -505,14 +542,14 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:YouTube 新衣装お披露目 ※中止の可能性あり"
+  title: "舞元啓介 at:YouTube 新衣装お披露目 ※中止"
   end_time: 
   uri: 
 - date: 2019-07-27
   time:
     hour: 21
     min: 0
-  title: "-30分頃～ アンジュ・カトリーナ at:YouTube Minecraft"
+  title: "アンジュ・カトリーナ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -534,6 +571,13 @@
     hour: 22
     min: 0
   title: "花畑チャイカ＆戌亥とこ＆レンチ＆粛正罰丸 at:レンチのYouTubeチャンネル Minecraft(仮想マイクラ部)"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube 怪談話"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -568,6 +612,13 @@
 - date: 2019-07-27
   time: 
   title: "？時？分～ 社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔 at:? カレー ※26日安土桃配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 18
+    min: 0
+  title: or19時00分～ エクス・アルビオ at:YouTube
   end_time: 
   uri: 
 - date: 2019-07-27
