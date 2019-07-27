@@ -386,6 +386,13 @@
 - date: 2019-07-27
   time:
     hour: 12
+    min: 15
+  title: "ドーラ at:SHOWROOM 昼食"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 12
     min: 30
   title: "緑仙＆ベルモンド・バンデラス＆夢追翔 at:ニコニコ生放送"
   end_time: 
@@ -394,14 +401,35 @@
   time:
     hour: 13
     min: 0
-  title: "ドーラ at:SHOWROOM 昼食"
+  title: "瀬戸美夜子 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-27
   time:
     hour: 13
+    min: 37
+  title: "町田ちま at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 14
+    min: 30
+  title: "鈴鹿詩子 at:YouTube Minecraft、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 14
+    min: 42
+  title: "町田ちま at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time:
+    hour: 15
     min: 0
-  title: "瀬戸美夜子 at:YouTube Dead by Daylight"
+  title: "轟京子 at:YouTube お絵描き"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -434,7 +462,8 @@
   time:
     hour: 20
     min: 0
-  title: "ヤンキー組(？？？) at:にじさんじ公式YouTubeチャンネル"
+  title: "樋口楓＆剣持刀也＆葛葉＆轟京子＆久遠千歳＆三枝明那 at:にじさんじ公式YouTubeチャンネル プレミア公開 ヤンキーボーイ・ヤンキーガール
+    -《楓刀京明千葛》Cover"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -455,7 +484,7 @@
   time:
     hour: 21
     min: 0
-  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:鈴鹿詩子のYouTubeチャンネル ※鈴鹿詩子の7月23日の配信で告知
+  title: BGクラブ(モイラ＆鈴鹿詩子＆森中花咲)＆ゲスト：樋口楓 at:鈴鹿詩子のYouTubeチャンネル
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -511,7 +540,7 @@
   time:
     hour: 23
     min: 0
-  title: "夜見れな at:YouTube 収益化記念 ※リマインダーより"
+  title: "夜見れな at:YouTube 収益化記念"
   end_time: 
   uri: 
 - date: 2019-07-27
@@ -533,7 +562,12 @@
   uri: 
 - date: 2019-07-27
   time: 
-  title: "？時？分～ 社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔 at:? カレー ※26日安土桃チャンネルの放送にて告知"
+  title: "？時？分～ 安土桃 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-27
+  time: 
+  title: "？時？分～ 社築＆安土桃＆緑仙＆ベルモンド・バンデラス＆夢追翔 at:? カレー ※26日安土桃配信にて告知"
   end_time: 
   uri: 
 - date: 2019-07-27
