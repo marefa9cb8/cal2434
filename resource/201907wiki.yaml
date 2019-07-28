@@ -220,14 +220,21 @@
   time:
     hour: 9
     min: 0
-  title: "ドーラ at:SHOWROOM 雑談"
+  title: "ドーラ at:SHOWROOM 雑談、朝食"
   end_time: 
   uri: 
 - date: 2019-07-28
   time:
     hour: 9
     min: 30
-  title: "小野町春香 at:YouTube とびだせ どうぶつの森 ※6時45分から時間変更"
+  title: "小野町春香 at:YouTube とびだせ どうぶつの森 ※6時45分から時間変更 ※中止"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 10
+    min: 46
+  title: "ドーラ at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -338,6 +345,13 @@
 - date: 2019-07-28
   time:
     hour: 22
+    min: 0
+  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 22
     min: 20
   title: "黛灰 at:YouTube ※初配信"
   end_time: 
@@ -385,6 +399,13 @@
   end_time: 
   uri: 
 - date: 2019-07-28
+  time:
+    hour: 23
+    min: 0
+  title: "レヴィ・エリファ at:YouTube JUDGE EYES:死神の遺言"
+  end_time: 
+  uri: 
+- date: 2019-07-28
   time: 
   title: "？時？分(深夜)～ アリストロベリー(宇志海いちご＆物述有栖) at:物述有栖のYouTubeチャンネル? お泊り会、バイノーラル"
   end_time: 
@@ -407,6 +428,11 @@
 - date: 2019-07-28
   time: 
   title: "？時？分(仮)～ 鈴原るる at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time: 
+  title: "？時？分～ 雪城眞尋 at:?"
   end_time: 
   uri: 
 - date: 2019-07-27
