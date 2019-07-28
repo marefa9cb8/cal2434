@@ -85,6 +85,20 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 0
+    min: 0
+  title: "エクス・アルビオ at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 1
+    min: 0
+  title: "アリストロベリー(宇志海いちご＆物述有栖) at:物述有栖のYouTubeチャンネル? お泊り会、バイノーラル ※開始時刻：物述有栖Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 6
     min: 45
   title: "伏見ガク at:YouTube おはガク！ 海苔系"
@@ -95,6 +109,13 @@
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 12
+    min: 0
+  title: "夜見れな at:YouTube 星のカービィ スターアライズ ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -122,6 +143,13 @@
   time:
     hour: 21
     min: 0
+  title: "月ノ美兎 at:YouTube?"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 21
+    min: 0
   title: "鈴木あんず＆白藤環＆日向奈央＆ゲスト：ドーラ at:えのぐのYouTubeチャンネル えのぐはバーチャルタレントとお話ししたい！第二弾"
   end_time: 
   uri: 
@@ -130,6 +158,16 @@
     hour: 23
     min: 0
   title: "葉加瀬冬雪 at:YouTube 収益化記念、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time: 
+  title: "？時？分～ 安土桃 at:YouTube 英雄候補者たち"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time: 
+  title: "？時？分（帰宅次第・深夜？）～ 樋口楓 at:?"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -297,7 +335,7 @@
   time:
     hour: 15
     min: 7
-  title: "緑仙 at:YouTube"
+  title: "緑仙 at:YouTube 作業"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -331,8 +369,8 @@
 - date: 2019-07-28
   time:
     hour: 18
-    min: 30
-  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ ※２２時から時間変更"
+    min: 28
+  title: "春崎エアル at:YouTube モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -353,6 +391,13 @@
   time:
     hour: 19
     min: 0
+  title: "緑仙 at:YouTube プレミア公開 少女レイ / 緑仙 (Cover)"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 19
+    min: 0
   title: "月見しずく at:YouTube 2万人記念、歌"
   end_time: 
   uri: 
@@ -365,9 +410,23 @@
   uri: 
 - date: 2019-07-28
   time:
+    hour: 18
+    min: 30
+  title: 19時06分～ レヴィ・エリファ at:YouTube ぼくのなつやすみマリオカート8 デラックス ※２２時から時間＆内容変更
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
     hour: 19
     min: 0
-  title: SMC組(葉加瀬冬雪＆加賀美ハヤト＆夜見れな) at:葉加瀬冬雪のYouTubeチャンネル スーパーマリオメーカー2
+  title: 14分～ SMC組(葉加瀬冬雪＆加賀美ハヤト＆夜見れな) at:葉加瀬冬雪のYouTubeチャンネル スーパーマリオメーカー2
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 19
+    min: 25
+  title: "本間ひまわり at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -379,9 +438,9 @@
   uri: 
 - date: 2019-07-28
   time:
-    hour: 19
-    min: 45
-  title: "レヴィ・エリファ at:YouTube JUDGE EYES:死神の遺言  ※２3時から時間変更"
+    hour: 20
+    min: 0
+  title: "ドーラ at:SHOWROOM"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -389,6 +448,27 @@
     hour: 20
     min: 0
   title: "緑仙、他 at:bilibili特設ページ 歌合戦 ～氷と炎の戦い～Ⅱ"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 20
+    min: 0
+  title: "雪城眞尋 at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 19
+    min: 45
+  title: 20時02分～ レヴィ・エリファ at:YouTube JUDGE EYES:死神の遺言  ※２3時から時間変更
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 20
+    min: 30
+  title: "夢追翔 at:YouTube プレミア公開 【Mashup/マッシュアップ】「シャルル」の伴奏で「秒針を噛む」を歌いました。"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -416,7 +496,14 @@
   time:
     hour: 23
     min: 0
-  title: "ドーラ at:YouTube"
+  title: "本間ひまわり at:YouTube プレミア公開 #2【ワンダと巨像】第二巨像マンモス 討伐"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 23
+    min: 0
+  title: "ドーラ＆郡道美玲 at:両名のYouTubeチャンネル モンスターハンター：ワールド"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -452,36 +539,6 @@
     hour: 23
     min: 0
   title: "鈴原るる at:YouTube Cuphead"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分(深夜)～ アリストロベリー(宇志海いちご＆物述有栖) at:物述有栖のYouTubeチャンネル? お泊り会、バイノーラル"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分(～21時)～ ドーラ at:SHOWROOM"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分(夜・仮)～ 春崎エアル at:YouTube モンスターハンター：ワールド"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分～ 夢追翔 at:YouTube プレミア公開"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分(仮)～ 鈴原るる at:YouTube スーパーマリオメーカー2"
-  end_time: 
-  uri: 
-- date: 2019-07-28
-  time: 
-  title: "？時？分～ 雪城眞尋 at:?"
   end_time: 
   uri: 
 - date: 2019-07-27
