@@ -113,6 +113,13 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 19
+    min: 0
+  title: "がぶりえら(童田明治＆御伽原江良) at:御伽原江良のYouTubeチャンネル みんなのリズム天国 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 21
     min: 0
   title: "鈴木あんず＆白藤環＆日向奈央＆ゲスト：ドーラ at:えのぐのYouTubeチャンネル えのぐはバーチャルタレントとお話ししたい！第二弾"
@@ -183,6 +190,27 @@
   uri: 
 - date: 2019-07-28
   time:
+    hour: 7
+    min: 12
+  title: "神田笑一 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 7
+    min: 30
+  title: "瀬戸美夜子 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
+    hour: 8
+    min: 6
+  title: "鷹宮リオン at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-28
+  time:
     hour: 8
     min: 55
   title: "神田笑一 at:YouTube 「仮面ライダージオウ＆騎士竜戦隊リュウソウジャー」同時視聴"
@@ -213,7 +241,7 @@
   time:
     hour: 11
     min: 0
-  title: "轟京子 at:YouTube お絵描き、雑談、昼食"
+  title: "轟京子 at:YouTube South Park: The Stick of Truth"
   end_time: 
   uri: 
 - date: 2019-07-28
@@ -346,7 +374,7 @@
   time:
     hour: 23
     min: 0
-  title: "御伽原江良 at:YouTube 誕生日配信 ※開始時刻：前日配信より"
+  title: "御伽原江良 at:YouTube 誕生日配信 ※開始時刻：リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-28
