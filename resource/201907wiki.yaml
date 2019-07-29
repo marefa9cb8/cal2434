@@ -106,9 +106,35 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 1
+    min: 0
+  title: "ジョー・力一 at:YouTube りきいちファーム #23"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
+    min: 0
+  title: or00時30分～ エクス・アルビオ at:YouTube アルネの事件簿
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(深夜)～ 花畑チャイカ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 6
     min: 45
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube TETRIS 99"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 12
+    min: 0
+  title: "(仮)～ レヴィ・エリファ at:YouTube ぼくのなつやすみ"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -116,6 +142,11 @@
     hour: 17
     min: 30
   title: "ニュイ・ソシエール at:YouTube お絵描き or ゲーム"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(昼)～ ドーラ at:SHOWROOM"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -175,6 +206,16 @@
 - date: 2019-07-30
   time: 
   title: "？時？分(夜)～ える at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(夜)～ 樋口楓 at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(夜)～ ドーラ at:SHOWROOM"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -426,7 +467,7 @@
   time:
     hour: 22
     min: 0
-  title: "社築＆加賀美ハヤト at:YouTube グランド・セフト・オートV"
+  title: "葛葉 at:bilibili League of Legends"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -454,6 +495,13 @@
   time:
     hour: 22
     min: 0
+  title: "雪城眞尋 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 22
+    min: 0
   title: "黛灰 at:YouTube ライバー調査"
   end_time: 
   uri: 
@@ -462,6 +510,13 @@
     hour: 22
     min: 30
   title: "鈴原るる at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 22
+    min: 53
+  title: "がぶりえら(童田明治＆御伽原江良) at:童田明治のツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -475,7 +530,14 @@
   time:
     hour: 23
     min: 0
-  title: "(仮)～ 郡道美玲 at:YouTube Minecraft"
+  title: "社築＆加賀美ハヤト at:社築のYouTubeチャンネル グランド・セフト・オートV ※22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 23
+    min: 0
+  title: "郡道美玲 at:YouTube Dead by Daylight"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -494,7 +556,7 @@
   uri: 
 - date: 2019-07-29
   time: 
-  title: "？時？分（帰宅次第・深夜？）～ 樋口楓 at:?"
+  title: "？時？分（帰宅次第・深夜？）～ 樋口楓 at:? ※中止"
   end_time: 
   uri: 
 - date: 2019-07-28
