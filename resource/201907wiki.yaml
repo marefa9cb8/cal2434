@@ -100,8 +100,43 @@
 - date: 2019-07-30
   time:
     hour: 0
+    min: 11
+  title: "花畑チャイカ＆緑仙 at:花畑チャイカのYouTubeチャンネル Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
     min: 30
-  title: "アルス・アルマル at:YouTube TheHOUSE"
+  title: "エクス・アルビオ at:YouTube アルネの事件簿"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
+    min: 30
+  title: 36分～ アルス・アルマル at:YouTube TheHOUSE、雑談
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
+    min: 37
+  title: "夕陽リリ ＆叶＆でびでび・でびる at:叶のYouTubeチャンネル League of Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
+    min: 42
+  title: "三枝明那 at:YouTube Slither.io 謝罪 ※前日22時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 0
+    min: 52
+  title: "花畑チャイカ＆緑仙＆神田笑一 at:花畑チャイカのYouTubeチャンネル Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -113,14 +148,16 @@
   uri: 
 - date: 2019-07-30
   time:
-    hour: 0
-    min: 0
-  title: or00時30分～ エクス・アルビオ at:YouTube アルネの事件簿
+    hour: 1
+    min: 42
+  title: "葉加瀬冬雪 at:YouTube DEEMO"
   end_time: 
   uri: 
 - date: 2019-07-30
-  time: 
-  title: "？時？分(深夜)～ 花畑チャイカ at:YouTube Magic: The Gathering Arena"
+  time:
+    hour: 1
+    min: 44
+  title: "花畑チャイカ at:YouTube Magic: The Gathering Arena"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -139,14 +176,28 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 13
+    min: 0
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 17
-    min: 30
-  title: "ニュイ・ソシエール at:YouTube お絵描き or ゲーム"
+    min: 0
+  title: "?～ ニュイ・ソシエール at:YouTube お絵描き、雑談"
   end_time: 
   uri: 
 - date: 2019-07-30
   time: 
   title: "？時？分(昼)～ ドーラ at:SHOWROOM"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 18
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2019　※前日の配信内で告知"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -188,7 +239,7 @@
   time:
     hour: 23
     min: 0
-  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:YouTube ばったりラジオ 第5回"
+  title: "鷹匠(鷹宮リオン＆ジョー・力一) at:鷹宮リオンのYouTubeチャンネル ばったりラジオ 第5回"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -216,6 +267,11 @@
 - date: 2019-07-30
   time: 
   title: "？時？分(夜)～ ドーラ at:SHOWROOM"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(歌配信後・仮)～ 鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -425,7 +481,7 @@
   time:
     hour: 20
     min: 58
-  title: "緑仙 at:YouTube(サブ) 作業"
+  title: "緑仙 at:YouTube(サブ) 作業、雑談"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -482,13 +538,6 @@
     hour: 22
     min: 0
   title: "でびでび・でびる at:YouTube(2nd) 新衣装お披露目"
-  end_time: 
-  uri: 
-- date: 2019-07-29
-  time:
-    hour: 22
-    min: 0
-  title: "三枝明那 at:YouTube Slither.io"
   end_time: 
   uri: 
 - date: 2019-07-29
