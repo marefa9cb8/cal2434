@@ -101,7 +101,7 @@
   time:
     hour: 17
     min: 30
-  title: "ニュイ・ソシエール at:YouTube お絵描き"
+  title: "ニュイ・ソシエール at:YouTube お絵描き or ゲーム"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -151,6 +151,13 @@
     hour: 23
     min: 0
   title: "夜見れな at:YouTube お絵描き、雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 22
+    min: 0
+  title: or24時00分頃(仮)～ 葉加瀬冬雪 at:YouTube お絵かき
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -246,6 +253,20 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 15
+    min: 23
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 17
+    min: 30
+  title: "エクス・アルビオ at:YouTube パズル＆ドラゴンズ"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 18
     min: 0
   title: "森中花咲 at:YouTube プレミア公開 【検証】空ってどうして青いの？色んなお兄ちゃん達に聞いてみた"
@@ -276,14 +297,7 @@
   time:
     hour: 18
     min: 0
-  title: "安土桃 at:YouTube 雑談 ※リマインダーより"
-  end_time: 
-  uri: 
-- date: 2019-07-29
-  time:
-    hour: 19
-    min: 0
-  title: "安土桃 at:YouTube 英雄候補者たち ※開始時刻：リマインダーより"
+  title: "安土桃 at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -302,9 +316,23 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 19
+    min: 30
+  title: "安土桃 at:YouTube 英雄候補者たち ※開始時刻：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 20
     min: 0
   title: "鈴鹿詩子 at:YouTube プレミア公開 最低すぎる美少女ゲームのヒロイン・ベビーシッター編"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 20
+    min: 0
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -339,6 +367,13 @@
   time:
     hour: 22
     min: 0
+  title: "社築＆加賀美ハヤト at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 22
+    min: 0
   title: "舞元啓介＆大空スバル＆しぐれうい at:YouTube DREAM C CLUB Complete Edipyon!"
   end_time: 
   uri: 
@@ -367,6 +402,13 @@
   time:
     hour: 23
     min: 0
+  title: "花畑チャイカ at:YouTube ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 23
+    min: 0
   title: "葉山舞鈴 at:YouTube しょぼんのアクション ※リマインダーより"
   end_time: 
   uri: 
@@ -385,13 +427,6 @@
 - date: 2019-07-29
   time: 
   title: "？時？分～ 三枝明那 at:YouTube Slither.io"
-  end_time: 
-  uri: 
-- date: 2019-07-29
-  time:
-    hour: 17
-    min: 0
-  title: or24時00分(仮)～ エクス・アルビオ at:YouTube パズル＆ドラゴンズ
   end_time: 
   uri: 
 - date: 2019-07-28
