@@ -15,6 +15,13 @@
   uri: 
 - date: 2019-07-31
   time:
+    hour: 0
+    min: 0
+  title: "郡道美玲 at:YouTube 「ミスト」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube"
@@ -92,6 +99,13 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 0
+    min: 30
+  title: "アルス・アルマル at:YouTube TheHOUSE"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 6
     min: 45
   title: "小野町春香 at:YouTube"
@@ -151,6 +165,16 @@
     hour: 23
     min: 0
   title: "夜見れな at:YouTube お絵描き、雑談 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(夜)～ える at:?"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(夜)～ える at:?"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -311,7 +335,7 @@
   time:
     hour: 19
     min: 0
-  title: "がぶりえら(童田明治＆御伽原江良) at:御伽原江良のYouTubeチャンネル みんなのリズム天国 ※リマインダーより"
+  title: "がぶりえら(童田明治＆御伽原江良) at:御伽原江良のYouTubeチャンネル みんなのリズム天国"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -344,9 +368,30 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 20
+    min: 20
+  title: "緑仙 at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 20
+    min: 30
+  title: 33分～ 葛葉 at:YouTube Thief Simulator
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 20
+    min: 58
+  title: "緑仙 at:YouTube(サブ) 作業"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 21
     min: 0
-  title: "月ノ美兎 at:YouTube?"
+  title: "月ノ美兎 at:YouTube Detroit: Become Human"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -365,9 +410,23 @@
   uri: 
 - date: 2019-07-29
   time:
+    hour: 21
+    min: 30
+  title: "神田笑一 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
     hour: 22
     min: 0
-  title: "社築＆加賀美ハヤト at:?"
+  title: "叶 at:YouTube お絵描き"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 22
+    min: 0
+  title: "社築＆加賀美ハヤト at:YouTube グランド・セフト・オートV"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -381,14 +440,14 @@
   time:
     hour: 22
     min: 0
-  title: "でびでび・でびる at:YouTube(2nd)"
+  title: "でびでび・でびる at:YouTube(2nd) 新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-07-29
   time:
     hour: 22
     min: 0
-  title: "鈴原るる at:YouTube"
+  title: "三枝明那 at:YouTube Slither.io"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -400,16 +459,30 @@
   uri: 
 - date: 2019-07-29
   time:
-    hour: 23
-    min: 0
-  title: "花畑チャイカ at:YouTube ※リマインダーより"
+    hour: 22
+    min: 30
+  title: "鈴原るる at:YouTube スーパーマリオメーカー2"
   end_time: 
   uri: 
 - date: 2019-07-29
   time:
     hour: 23
     min: 0
-  title: "葉山舞鈴 at:YouTube しょぼんのアクション ※リマインダーより"
+  title: "花畑チャイカ at:YouTube プレゼント開封"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 23
+    min: 0
+  title: "(仮)～ 郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 23
+    min: 0
+  title: "葉山舞鈴 at:YouTube しょぼんのアクション"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -422,11 +495,6 @@
 - date: 2019-07-29
   time: 
   title: "？時？分（帰宅次第・深夜？）～ 樋口楓 at:?"
-  end_time: 
-  uri: 
-- date: 2019-07-29
-  time: 
-  title: "？時？分～ 三枝明那 at:YouTube Slither.io"
   end_time: 
   uri: 
 - date: 2019-07-28
