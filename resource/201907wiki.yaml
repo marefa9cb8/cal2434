@@ -143,7 +143,7 @@
   time:
     hour: 1
     min: 0
-  title: "ジョー・力一 at:YouTube りきいちファーム #23"
+  title: '11分～ ジョー・力一 at:YouTube りきいちファーム #23'
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -158,6 +158,13 @@
     hour: 1
     min: 44
   title: "花畑チャイカ at:YouTube Magic: The Gathering Arena"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 3
+    min: 31
+  title: "黛灰 at:YouTube 雑談、マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -179,6 +186,20 @@
     hour: 13
     min: 0
   title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 15
+    min: 0
+  title: "(仮)～ アルス・アルマル at:YouTube ※0時台からの配信にて告知"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 17
+    min: 0
+  title: "エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -272,6 +293,11 @@
 - date: 2019-07-30
   time: 
   title: "？時？分(歌配信後・仮)～ 鈴原るる at:YouTube Cuphead"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(深夜)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-30
