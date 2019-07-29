@@ -43,6 +43,20 @@
   uri: 
 - date: 2019-07-31
   time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "渋谷ハジメ at:YouTube しぶミンバースデー7月編"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆花畑チャイカ＆葉山舞鈴 at:? レジスタンスラジオ"
@@ -92,9 +106,23 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 19
+    min: 0
+  title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube 4万人記念"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 30
+  title: "鈴原るる at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -136,7 +164,7 @@
   time:
     hour: 0
     min: 0
-  title: "エクス・アルビオ at:YouTube ※中止の可能性大"
+  title: "エクス・アルビオ at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -199,6 +227,13 @@
   time:
     hour: 12
     min: 0
+  title: "愛園愛美 at:YouTube ひるまなラジオ Season2 #4"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 12
+    min: 0
   title: "夜見れな at:YouTube 星のカービィ スターアライズ ※リマインダーより"
   end_time: 
   uri: 
@@ -220,6 +255,13 @@
   time:
     hour: 18
     min: 0
+  title: "森中花咲 at:YouTube プレミア公開 ※Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 18
+    min: 0
   title: "椎名唯華 at:YouTube 企画会議 ※28日深夜から時間変更"
   end_time: 
   uri: 
@@ -228,6 +270,13 @@
     hour: 18
     min: 0
   title: "ドーラ at:SHOWROOM 歌"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 18
+    min: 0
+  title: "安土桃 at:YouTube 雑談 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -242,6 +291,13 @@
     hour: 19
     min: 0
   title: "がぶりえら(童田明治＆御伽原江良) at:御伽原江良のYouTubeチャンネル みんなのリズム天国 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 20
+    min: 0
+  title: "鈴鹿詩子 at:YouTube プレミア公開 最低すぎる美少女ゲームのヒロイン・ベビーシッター編"
   end_time: 
   uri: 
 - date: 2019-07-29
@@ -276,6 +332,13 @@
   time:
     hour: 22
     min: 0
+  title: "鈴原るる at:YouTube"
+  end_time: 
+  uri: 
+- date: 2019-07-29
+  time:
+    hour: 22
+    min: 0
   title: "黛灰 at:YouTube ライバー調査"
   end_time: 
   uri: 
@@ -301,11 +364,6 @@
 - date: 2019-07-29
   time: 
   title: "？時？分～ 三枝明那 at:YouTube Slither.io"
-  end_time: 
-  uri: 
-- date: 2019-07-29
-  time: 
-  title: "？時？分～ 鈴原るる at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-28
