@@ -88,7 +88,7 @@
   time:
     hour: 7
     min: 0
-  title: "ドーラ at:SHOWROOM ※予定表より"
+  title: "ドーラ at:SHOWROOM"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -180,6 +180,13 @@
     hour: 22
     min: 0
   title: "モイラ at:YouTube BL語り ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 22
+    min: 0
+  title: "鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
 - date: 2019-07-31
