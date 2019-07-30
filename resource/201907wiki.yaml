@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "魔界ノりりむ＆葛葉＆雪汝＆椎名唯華 at:椎名唯華のYouTubeチャンネル 1周年記念企画 ※開始時刻等：リマインダーより"
+  title: "魔界ノりりむ＆葛葉＆雪汝＆椎名唯華 at:椎名唯華のYouTubeチャンネル 1周年記念企画"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -33,6 +33,13 @@
     hour: 0
     min: 0
   title: "郡道美玲 at:YouTube 「ミスト」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 0
+    min: 30
+  title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -109,14 +116,42 @@
   time:
     hour: 21
     min: 0
-  title: "(仮)～ 夢追翔 at:YouTube 歌(L'Arc～en～Ciel) ※開始時刻等：リマインダーより"
+  title: "舞元啓介 at:YouTube 5万人記念、新衣装お披露目 ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "竜胆尊 at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "夢追翔 at:YouTube 歌(L'Arc～en～Ciel)"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 22
+    min: 0
+  title: "モイラ at:YouTube BL語り ※開始時刻：Twitterネームより"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆花畑チャイカ＆葉山舞鈴 at:? レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ＆葉山舞鈴 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -138,6 +173,11 @@
     hour: 23
     min: 0
   title: "相羽ういは at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time: 
+  title: "？時？分(夜)～ 小野町春香 at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -347,7 +387,7 @@
   time:
     hour: 19
     min: 23
-  title: "緑仙 at:YouTube(メイン)"
+  title: "緑仙 at:YouTube(メイン) 歌、雑談"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -361,7 +401,7 @@
   time:
     hour: 20
     min: 0
-  title: "(仮)～ 笹木咲 at:YouTube Wii Sports Resort"
+  title: "笹木咲 at:YouTube Wii Sports Resort"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -376,13 +416,6 @@
     hour: 20
     min: 0
   title: "リゼ・ヘルエスタ at:YouTube マリオカート8 デラックス"
-  end_time: 
-  uri: 
-- date: 2019-07-30
-  time:
-    hour: 21
-    min: 0
-  title: "夕陽リリ at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -409,22 +442,36 @@
 - date: 2019-07-30
   time:
     hour: 21
-    min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+    min: 0
+  title: 04分～ 夕陽リリ at:ツイキャス
   end_time: 
   uri: 
 - date: 2019-07-30
   time:
     hour: 21
     min: 30
-  title: "鈴原るる at:YouTube 歌"
+  title: "鈴谷アキ at:YouTube(2nd) 「会える！話せる！VTuberおしゃべりフェス　まほすずラジオ 特別編」感想、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 46
+  title: "郡道美玲 at:ツイキャス ゴキブリ退治"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 30
+  title: 50分～ 鈴原るる at:YouTube 歌
   end_time: 
   uri: 
 - date: 2019-07-30
   time:
     hour: 22
     min: 0
-  title: "椎名唯華 at:YouTube 1周年振り返り ※リマインダーより"
+  title: "椎名唯華 at:YouTube 1周年振り返り"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -445,14 +492,21 @@
   time:
     hour: 22
     min: 0
-  title: "相羽ういは at:YouTube Cooking Simulator?"
+  title: "相羽ういは at:YouTube 料理"
   end_time: 
   uri: 
 - date: 2019-07-30
   time:
     hour: 22
-    min: 45
-  title: "(仮)～ 鈴原るる at:YouTube Cuphead ※開始時刻：リマインダーより"
+    min: 2
+  title: "叶 at:YouTube PUBG、雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 22
+    min: 41
+  title: "雪城眞尋 at:ツイキャス"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -480,7 +534,7 @@
   time:
     hour: 23
     min: 0
-  title: "夜見れな at:YouTube お絵描き、雑談 ※リマインダーより"
+  title: "夜見れな at:YouTube お絵描き、雑談"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -491,8 +545,10 @@
   end_time: 
   uri: 
 - date: 2019-07-30
-  time: 
-  title: "？時？分～ 小野町春香 at:?"
+  time:
+    hour: 23
+    min: 45
+  title: "鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
 - date: 2019-07-30
