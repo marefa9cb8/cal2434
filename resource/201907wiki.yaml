@@ -24,14 +24,29 @@
   time:
     hour: 0
     min: 0
+  title: "癒月ちょこ＆ゲスト：でびでび・でびる＆アンジュ・カトリーナ＆夏色まつり＆兎鞠まり＆甲賀流忍者ぽんぽこ＆しぐれうい＆神楽めあ＆由宇霧＆ななかぐら
+    at:癒月ちょこのYouTubeチャンネル 3D撮影会"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 0
+    min: 0
   title: "郡道美玲 at:YouTube 「ミスト」同時視聴"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 1
+    min: 0
+  title: "黛灰 at:YouTube Typoman"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 6
     min: 45
-  title: "小野町春香 at:YouTube"
+  title: "小野町春香 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -53,6 +68,13 @@
     hour: 12
     min: 0
   title: "夜見れな at:YouTube Apex Legends ※リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 18
+    min: 0
+  title: "アンジュ・カトリーナ at:YouTube 雑談"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -85,6 +107,13 @@
   uri: 
 - date: 2019-07-31
   time:
+    hour: 21
+    min: 0
+  title: "(仮)～ 夢追翔 at:YouTube 歌(L'Arc～en～Ciel) ※開始時刻等：リマインダーより"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 23
     min: 0
   title: "椎名唯華＆花畑チャイカ＆葉山舞鈴 at:? レジスタンスラジオ"
@@ -109,11 +138,6 @@
     hour: 23
     min: 0
   title: "相羽ういは at:YouTube 雑談"
-  end_time: 
-  uri: 
-- date: 2019-07-31
-  time: 
-  title: "？時？分(仮)～ 夢追翔 at:YouTube 歌"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -218,6 +242,13 @@
   time:
     hour: 12
     min: 0
+  title: "レヴィ・エリファ at:YouTube ぼくのなつやすみ ※キャプチャーボードが届かず延期の模様"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 12
+    min: 0
   title: "葉加瀬冬雪 at:YouTube DEEMO"
   end_time: 
   uri: 
@@ -272,23 +303,9 @@
   uri: 
 - date: 2019-07-30
   time:
-    hour: 17
-    min: 0
-  title: "エクス・アルビオ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-30
-  time:
-    hour: 12
-    min: 0
-  title: "(配達が届き次第)～ レヴィ・エリファ at:YouTube ぼくのなつやすみ"
-  end_time: 
-  uri: 
-- date: 2019-07-30
-  time:
     hour: 18
     min: 0
-  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
+  title: "椎名唯華 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -307,6 +324,13 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 18
+    min: 14
+  title: "エクス・アルビオ at:YouTube PUBG ※17時から時間変更"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube PUBG"
@@ -317,6 +341,13 @@
     hour: 19
     min: 0
   title: "本間ひまわり at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 19
+    min: 23
+  title: "緑仙 at:YouTube(メイン)"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -351,6 +382,13 @@
   time:
     hour: 21
     min: 0
+  title: "夕陽リリ at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 0
   title: "ドーラ at:SHOWROOM TETRIS 99"
   end_time: 
   uri: 
@@ -359,6 +397,20 @@
     hour: 21
     min: 0
   title: "出雲霞 at:YouTube 4万人記念"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube お絵かき"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 21
+    min: 30
+  title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -380,6 +432,13 @@
     hour: 22
     min: 0
   title: "神田笑一 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 22
+    min: 0
+  title: "夢追翔 at:YouTube ニコニコ町会議全国ツアー2019『町VTuberカー in 秋田県仙北市 たざわ湖・龍神まつり』・カレーコラボ振り返り雑談"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -433,19 +492,12 @@
   uri: 
 - date: 2019-07-30
   time: 
-  title: "？時？分(夜・仮)～ 夢追翔 at:YouTube ニコニコ町会議全国ツアー2019『町VTuberカー in 秋田県仙北市 たざわ湖・龍神まつり』感想、雑談"
+  title: "？時？分～ 小野町春香 at:?"
   end_time: 
   uri: 
 - date: 2019-07-30
   time: 
   title: "？時？分(深夜)～ エクス・アルビオ at:YouTube"
-  end_time: 
-  uri: 
-- date: 2019-07-30
-  time:
-    hour: 22
-    min: 0
-  title: or24時00分頃(仮)～ 葉加瀬冬雪 at:YouTube お絵かき
   end_time: 
   uri: 
 - date: 2019-07-29
