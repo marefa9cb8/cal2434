@@ -3,7 +3,7 @@
   time:
     hour: 0
     min: 0
-  title: "椎名唯華＆魔界ノりりむ＆葛葉 at:椎名唯華のYouTubeチャンネル ※リマインダーより"
+  title: "魔界ノりりむ＆葛葉＆雪汝＆椎名唯華 at:椎名唯華のYouTubeチャンネル 1周年記念企画 ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -183,16 +183,37 @@
   uri: 
 - date: 2019-07-30
   time:
+    hour: 10
+    min: 30
+  title: "瀬戸美夜子 at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
     hour: 12
     min: 0
-  title: "(仮)～ レヴィ・エリファ at:YouTube ぼくのなつやすみ"
+  title: "愛園愛美 at:YouTube ひるまなラジオ Season2 #5 ※中止の可能性あり"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 12
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube DEEMO"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 12
+    min: 30
+  title: "ドーラ at:SHOWROOM"
   end_time: 
   uri: 
 - date: 2019-07-30
   time:
     hour: 13
     min: 0
-  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018 ※リマインダーより"
+  title: "舞元啓介 at:YouTube 実況パワフルプロ野球2018"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -217,8 +238,10 @@
   end_time: 
   uri: 
 - date: 2019-07-30
-  time: 
-  title: "？時？分(昼)～ ドーラ at:SHOWROOM"
+  time:
+    hour: 12
+    min: 0
+  title: "(配達が届き次第)～ レヴィ・エリファ at:YouTube ぼくのなつやすみ"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -233,6 +256,13 @@
     hour: 19
     min: 0
   title: "渋谷ハジメ at:YouTube PUBG"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time:
+    hour: 20
+    min: 0
+  title: "瀬戸美夜子 at:YouTube Ib"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -253,14 +283,14 @@
   time:
     hour: 22
     min: 0
-  title: "椎名唯華 at:YouTube ※リマインダーより"
+  title: "椎名唯華 at:YouTube 1周年振り返り ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-30
   time:
     hour: 22
     min: 0
-  title: "(仮)～ 相羽ういは at:YouTube"
+  title: "相羽ういは at:YouTube Cooking Simulator?"
   end_time: 
   uri: 
 - date: 2019-07-30
@@ -302,6 +332,11 @@
 - date: 2019-07-30
   time: 
   title: "？時？分(夜)～ ドーラ at:SHOWROOM"
+  end_time: 
+  uri: 
+- date: 2019-07-30
+  time: 
+  title: "？時？分(夕方頃?)～ 戌亥とこ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-30
