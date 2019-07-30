@@ -32,13 +32,20 @@
   time:
     hour: 0
     min: 0
-  title: "郡道美玲 at:YouTube 「ミスト」同時視聴"
+  title: "郡道美玲 at:YouTube(限定公開) 「ミスト」同時視聴"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 0
-    min: 30
+    min: 25
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 0
+    min: 32
   title: "夢月ロア at:YouTube Minecraft"
   end_time: 
   uri: 
@@ -47,6 +54,27 @@
     hour: 1
     min: 0
   title: "黛灰 at:YouTube Typoman"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 1
+    min: 7
+  title: "愛園愛美 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 1
+    min: 20
+  title: "エクス・アルビオ at:YouTube マシュマロ返答、怖い話 ※内容変更"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 1
+    min: 59
+  title: "夕陽リリ＆叶＆鷹宮リオン at:叶、鷹宮リオンのYouTubeチャンネル League of Legends"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -116,7 +144,7 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:YouTube 5万人記念、新衣装お披露目 ※リマインダーより"
+  title: "舞元啓介 at:YouTube 5万人記念、新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -136,6 +164,13 @@
 - date: 2019-07-31
   time:
     hour: 21
+    min: 0
+  title: "瀬戸美夜子＆白百合リリィ＆歌衣アズミ at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
   end_time: 
@@ -145,6 +180,13 @@
     hour: 22
     min: 0
   title: "モイラ at:YouTube BL語り ※開始時刻：Twitterネームより"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 0
+  title: "える at:YouTube ※リマインダーより"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -549,11 +591,6 @@
     hour: 23
     min: 45
   title: "鈴原るる at:YouTube Cuphead"
-  end_time: 
-  uri: 
-- date: 2019-07-30
-  time: 
-  title: "？時？分(深夜)～ エクス・アルビオ at:YouTube"
   end_time: 
   uri: 
 - date: 2019-07-29
