@@ -109,7 +109,21 @@
   time:
     hour: 12
     min: 0
-  title: "夜見れな at:YouTube Apex Legends ※リマインダーより"
+  title: "夜見れな at:YouTube Apex Legends"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 15
+    min: 0
+  title: "葉加瀬冬雪 at:YouTube Portal"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 18
+    min: 0
+  title: "本間ひまわり at:bilibili Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -151,6 +165,20 @@
   time:
     hour: 21
     min: 0
+  title: "物述有栖＆神楽めあ at:神楽めあのYouTubeチャンネル"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
+  title: "本間ひまわり at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
   title: "舞元啓介 at:YouTube 5万人記念、新衣装お披露目"
   end_time: 
   uri: 
@@ -180,6 +208,13 @@
     hour: 21
     min: 30
   title: "鈴谷アキ at:YouTube(2nd)"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 22
+    min: 0
+  title: "勇気ちひろ at:YouTube Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-31
