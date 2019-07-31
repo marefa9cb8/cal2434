@@ -93,6 +93,13 @@
   uri: 
 - date: 2019-07-31
   time:
+    hour: 8
+    min: 0
+  title: "三枝明那 at:YouTube Shadowverse"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 12
     min: 0
   title: "桜凛月 at:YouTube 第3回 おひるンボ"
@@ -221,7 +228,7 @@
   time:
     hour: 23
     min: 0
-  title: "相羽ういは at:YouTube 雑談"
+  title: "相羽ういは at:YouTube ういカフェ #1"
   end_time: 
   uri: 
 - date: 2019-07-31
