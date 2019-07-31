@@ -149,16 +149,23 @@
   uri: 
 - date: 2019-07-31
   time:
-    hour: 19
+    hour: 20
     min: 0
-  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！"
+  title: "渋谷ハジメ at:YouTube チョコボの不思議なダンジョン エブリバディ！ ※19時から時間変更"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 20
     min: 0
-  title: "ドーラ at:SHOWROOM 晩御飯 ※予定表より"
+  title: "笹木咲 at:YouTube スーパーマリオスタジアム ミラクルベースボール"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 20
+    min: 0
+  title: "ドーラ at:SHOWROOM 晩御飯"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -172,7 +179,7 @@
   time:
     hour: 21
     min: 0
-  title: "物述有栖＆神楽めあ at:神楽めあのYouTubeチャンネル"
+  title: "物述有栖＆神楽めあ at:神楽めあのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -186,7 +193,7 @@
   time:
     hour: 21
     min: 0
-  title: "舞元啓介 at:YouTube 5万人記念、新衣装お披露目"
+  title: "舞元啓介 at:YouTube 5万人記念新衣装お披露目"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -214,7 +221,15 @@
   time:
     hour: 21
     min: 30
-  title: "鈴谷アキ at:YouTube(2nd)"
+  title: "鈴谷アキ at:YouTube(2nd) 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 30
+  title: "郡道美玲 at:YouTube Minecraft or Dead by Daylight or モンスターハンター：ワールド or すばらしきこのせかい
+    -Final Remix-"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -235,6 +250,13 @@
   time:
     hour: 22
     min: 0
+  title: "神田笑一 at:YouTube モンスターハンター：ワールド"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 22
+    min: 0
   title: "鈴原るる at:YouTube Cuphead"
   end_time: 
   uri: 
@@ -249,7 +271,7 @@
   time:
     hour: 23
     min: 0
-  title: "椎名唯華＆花畑チャイカ＆葉山舞鈴 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
+  title: "椎名唯華＆花畑チャイカ＆ゲスト：葉山舞鈴 at:花畑チャイカのYouTubeチャンネル レジスタンスラジオ"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -281,8 +303,27 @@
   end_time: 
   uri: 
 - date: 2019-07-31
+  time:
+    hour: 23
+    min: 30
+  title: "アルス・アルマル at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 45
+  title: "エクス・アルビオ at:YouTube 誕生日配信"
+  end_time: 
+  uri: 
+- date: 2019-07-31
   time: 
-  title: "？時？分(夜)～ 小野町春香 at:YouTube"
+  title: "？時？分～ 童田明治 at:YouTube テスト配信(ASMR新マイク) ※リマインダー予定表より"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time: 
+  title: "？時？分(夜)～ 小野町春香 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-30
