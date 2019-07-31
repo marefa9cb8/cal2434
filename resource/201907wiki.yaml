@@ -172,13 +172,6 @@
   time:
     hour: 21
     min: 0
-  title: "渋谷ハジメ at:YouTube しぶミンバースデー7月編"
-  end_time: 
-  uri: 
-- date: 2019-07-31
-  time:
-    hour: 21
-    min: 0
   title: "物述有栖＆神楽めあ at:神楽めあのYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
@@ -228,22 +221,35 @@
   time:
     hour: 21
     min: 30
-  title: "郡道美玲 at:YouTube Minecraft or Dead by Daylight or モンスターハンター：ワールド or すばらしきこのせかい
-    -Final Remix-"
+  title: "郡道美玲 at:YouTube Minecraft"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 0
+  title: 49分～ 渋谷ハジメ at:YouTube しぶミンバースデー7月編
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 21
+    min: 50
+  title: "町田ちま at:ツイキャス 歌"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 22
     min: 0
-  title: "勇気ちひろ at:YouTube Minecraft"
+  title: "勇気ちひろ＆小野町春香 at:両名のYouTubeチャンネル Minecraft"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 22
     min: 0
-  title: "モイラ at:YouTube BL語り ※開始時刻：Twitterネームより"
+  title: "安土桃 at:YouTube マシュマロ返答"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -262,9 +268,30 @@
   uri: 
 - date: 2019-07-31
   time:
+    hour: 22
+    min: 6
+  title: "シスター・クレア at:YouTube 雑談"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 22
+    min: 0
+  title: 10分～ モイラ at:YouTube BL語り
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
     hour: 23
     min: 0
-  title: "える at:YouTube ※リマインダーより"
+  title: "える at:YouTube スーパーマリオメーカー2"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 0
+  title: ChroNoiR(叶＆葛葉) at:両名のYouTubeチャンネル PUBG ※22時30分から時間変更
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -278,14 +305,14 @@
   time:
     hour: 23
     min: 0
-  title: "緑仙 at:bilibili 歌 ※予定表より"
+  title: "緑仙 at:bilibili 歌"
   end_time: 
   uri: 
 - date: 2019-07-31
   time:
     hour: 23
     min: 0
-  title: "夜見れな at:YouTube Rainbow Six Siege ※リマインダーより"
+  title: "夜見れな at:YouTube Rainbow Six Siege"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -298,8 +325,22 @@
 - date: 2019-07-31
   time:
     hour: 23
+    min: 23
+  title: "レヴィ・エリファ at:YouTube 雑談、歌"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
     min: 30
-  title: "ドーラ at:YouTube メンバーシップ解禁 ※予定表より"
+  title: "樋口楓 at:YouTube 歌(英語変換)"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 30
+  title: "ドーラ at:YouTube メンバーシップ解禁"
   end_time: 
   uri: 
 - date: 2019-07-31
@@ -312,18 +353,22 @@
 - date: 2019-07-31
   time:
     hour: 23
+    min: 32
+  title: "シスター・クレア at:ツイキャス"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
+    min: 40
+  title: "静凛 at:YouTube ファイナルファンタジーXIV"
+  end_time: 
+  uri: 
+- date: 2019-07-31
+  time:
+    hour: 23
     min: 45
   title: "エクス・アルビオ at:YouTube 誕生日配信"
-  end_time: 
-  uri: 
-- date: 2019-07-31
-  time: 
-  title: "？時？分～ 童田明治 at:YouTube テスト配信(ASMR新マイク) ※リマインダー予定表より"
-  end_time: 
-  uri: 
-- date: 2019-07-31
-  time: 
-  title: "？時？分(夜)～ 小野町春香 at:YouTube ※中止"
   end_time: 
   uri: 
 - date: 2019-07-30
